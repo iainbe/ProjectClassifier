@@ -1,0 +1,2748 @@
+
+[PAGE 1]
+Engaging with 
+New Realities
+Barriers in research, technology and distribution  
+for immersive content
+
+[PAGE 2]
+Title of report goes here   Document type here 2018 3 2  Title of report goes here   Document type here 2018INTRODUCTION
+The view from the top of UK Government is 
+unambiguous: 
+“The UK has a dual competitive advantage in 
+creative and technological skills and our
+future prosperity will be driven by this particular 
+combination of strengths.” 1
+This study set out to examine whether creators, 
+researchers and distributors of immersive content 
+- including any combination of augmented reality, 
+virtual reality, haptics, 3D sound and 360 degree 
+video - were working together to build upon and 
+exploit this competitive advantage.
+The research focused on three main challenges:
+1. UK funding for immersive content research 
+has been growing year on year 2 - but are the 
+awards targeted on overcoming the biggest 
+barriers for creators and end users? And are 
+the findings of those projects being effectively 
+disseminated in a way that accelerates 
+knowledge exchange between research 
+institutes and businesses, reduces duplication 
+of effort and increases productivity?
+2. We know that immersive content and “mixed 
+reality” in all its forms have applications 
+beyond the world of creative content. 
+But is there any evidence of new supply 
+chains being formed to address those 
+opportunities?
+3. What are the barriers to distribution 
+of immersive content - particularly in 
+international markets? Are these barriers 
+consistent across all market verticals and 
+all immersive technologies? How can public 
+policy for innovation and business support 
+best promote development and growth of 
+this emerging sector in a way that reflects the ‘particular combination of strengths’ 
+that have driven the success of UK creative 
+industries over the last two decades?
+Immersive technologies, such as high-end 
+visualisation, virtual, mixed, and augmented 
+reality, haptics and other sensory interfaces 
+with data, are now common features of 
+many consumer devices, integrated with a 
+huge range of applications and hardware for 
+digital entertainment and education. These 
+are significant and growing markets for the 
+technology – Deloitte called 2016 as the first 
+$1 billion-dollar year for VR, with about 70% of 
+that in hardware sales and the rest in content. 
+Most commentators agree that the market will 
+grow exponentially, with the most optimistic 
+predicting combined annual growth rates of 50% 
+or more stretching into the next decade leading to 
+projections of over $100 billion in annual revenue 
+by the mid-2020s.
+The drivers of that growth, identified by 
+TechCrunch in 2015 as: ‘mobility, vision, immersion, 
+usability, flexibility, wearability, and affordability’, are 
+also part of the emergence of immersive tech (or 
+cross-reality, XR) as a critical factor in increasing 
+productivity across British industry. ‘Serious 
+games’ – including the ability to train individuals 
+in how to deal with hazardous environments 
+without exposing them to the dangers of the ‘real 
+thing’ – have been widely adopted in a number 
+of industries. Immersive technology offers new 
+value to a whole range of sectors by recombining 
+and providing interfaces for and between other 
+key enabling technologies: cyber security, data, 
+the internet of things, satellite earth observation, 
+electronics, sensors and photonics, robotics and 
+autonomous systems. Immersive technology also 
+offers new value as a part of digital production: CONTENTS
+3 Introduction
+5  1. Methodology
+8 2. Mapping
+13 3. Clusters
+19  4. Sectors with emerging immersive content needs  
+27 5. Research and facilities
+33  6. Policy drivers of business engagement - Science and Innovation Audits Review
+35 7. International Insights
+39 8. Barriers
+45 9. Opportunities
+52 Footnotes
+Please contact us at  
+hello@email
+www.website.com
+
+[PAGE 3]
+4  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 5
+ Title of report goes here   Document type here 2018 5 4  Title of report goes here   Document type here 20181. METHODOLOGY
+This project is one of a number of concurrent 
+projects within a broader programme designed 
+to help the UK become the global leader in the 
+development and commercial exploitation of 
+immersive content (predominantly Augmented 
+and Virtual - AR/VR technologies). The 
+programme aims to help a fragmented, but 
+potentially world-leading, set of industries to 
+understand the opportunity, scale and capacity of 
+the research, development and innovation base 
+for immersive technologies and content in the 
+United Kingdom.
+For this assignment, BOP Consulting, a world-
+recognised leader in the mapping and analysis 
+of digital and creative industries, partnered with 
+Curator Technologies, which has many years’ 
+experience in developing bespoke business 
+intelligence data and products for nascent 
+and established industry sectors by region 
+and country. BOP Consulting also partnered 
+with Synoptica, whose technology blends both 
+traditional methods of aggregating data from 
+multiple sources with innovative extraction and 
+analysis of unstructured web data. 
+Our research followed a five-stage process:
+1. A desk-based review of existing databases of BOP Consulting is delighted to have been commissioned by 
+Digital Catapult to carry out a study of immersive companies, 
+research centres and clusters in the UK to provide evidence 
+and recommendations to build business engagement with 
+immersive content through uncovering the barriers to research 
+and development, and challenges for the commercialisation of 
+immersive tech in the UK, including infrastructure.
+immersive suppliers, academic research and 
+R&D grants; along with a review of Science 
+and Innovation Audits and the KTP database, 
+to provide more specific intelligence 
+about the sources and objectives of public 
+investment in R&D. Investment databases 
+such as Crunchbase were used to identify 
+private sector investments in immersive 
+tech.  
+2. Analysis of our initial findings was used to 
+identify a number of keywords relating to 
+the supply and consumption of immersive 
+content in a number of market verticals 
+agreed with Digital Catapult: 
+• Cultural and entertainment content 
+(including museums and galleries)
+• Manufacturing
+• Healthcare (in particular medical training 
+and mental health)
+• Education
+• Construction  
+3. These keywords3 were used to ‘train’ 
+Synoptica’s AI-driven search technology 
+for extracting unstructured web data. The 
+results of this search, when augmented with 
+geolocation data, were manually analysed used with additive manufacturing processes to 
+reduce the time, cost, waste and risk involved in 
+producing physical prototypes; to carry out testing 
+of fully ‘virtual’ prototypes by emulating ‘real world’ 
+conditions and forces; to allow customers to 
+sample or ‘try on’ products in virtual environments, 
+prior to manufacture or shipping; or to allow for 
+‘mass customisation’ of products to individual 
+specifications.
+The range of research, development, technical, 
+human, hardware and software capabilities 
+encompassed within the term ‘immersive 
+technologies’ is hard to categorise. It cuts across 
+many existing sector and occupational definitions, 
+and finds its expression in many different market 
+verticals. This presents a challenge in trying to 
+define the sector, the interdisciplinary research 
+capability it needs to harness, and the kinds 
+platforms necessary to unlock current technology 
+barriers to the development of new applications 
+and products.
+We see the value of immersive technologies and 
+content: both as an emerging high growth sector, 
+building on several generations of innovation 
+and growth in film, television, videogames, CGI 
+and visual effects; and as a significant enabling 
+technology in other sectors of national and 
+regional importance. It forms part of wider ‘digital 
+manufacturing’ and ‘industrial digitalisation.’
+“It’s the integration of […] cyber and physical 
+technologies into production and logistics that 
+allows new businesses to form, increase speed to 
+market, integrate and strengthen supply chains, 
+and allow productivity gains to be realised.”
+(Industrial Digitalisation Report – Interim Report, version 3.0, July 
+2017)The recommendations that have emerged from 
+the study are:
+• Provide content showcases and immersive 
+lab facilities across the UK’s cities, regions 
+and nations.
+• Review the way in which Digital Catapult 
+and ImmerseUK combine to deliver network 
+support. 
+• Engage with local bodies to expand the role 
+of city, regional and national administrations 
+in supporting immersive clusters.
+• Platform interventions - Audiences of the Fu -
+ture and beyond - as a way to address superior 
+market power of US and Asian tech ‘giants’.
+• HEI expertise in research design and proof 
+of concept, as much high performance com -
+puting and computer science capability, can 
+reduce cost and risk of development.
+• Consider the use of fiscal and regulatory 
+measures as part of a mixed economy 
+model to stimulate the growth of the UK 
+immersive production content sector.
+We hope our findings will provide a vital resource 
+to help companies, founders, researchers, policy 
+makers, and potential investors to recognise 
+their role in building business engagement with 
+immersive tech and content across the whole of 
+the UK as a vital future driver of jobs, growth and 
+productivity in the UK Economy.Introduction
+
+[PAGE 4]
+6  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 7and cleansed. Attention was paid to whether 
+the companies were active; for evidence of 
+research-funded projects translating into 
+spin-out companies; and to any patterns 
+of cross-ownership between immersive 
+suppliers. The cleansed data provided us 
+with a footprint for businesses and research 
+centres working in immersive tech across 
+the UK. From this we were able to map 
+supply side companies and the main spatial 
+concentrations of production and R&D 
+activity both in database form and visually 
+using GIS mapping.  
+4. In parallel with the keyword search, we 
+undertook desk-based research into industry 
+reports and trends, and conducted face-
+to-face and telephone interviews with key 
+respondents in industry, academic and 
+research institutions and with investors to 
+identify issues, barriers and opportunities 
+for the sector. This included comparative 
+studies of immersive tech ecosystems 
+in North America and China that we 
+believed may have developed approaches 
+which have helped overcome some of the 
+barriers experienced by UK businesses and 
+researchers, and have begun to identify 
+other market opportunities. These findings 
+were used to develop two tools for the final 
+stage of the research:
+a. A visual ‘example cluster map’ of core 
+and supporting elements of an immersive 
+business ecosystem;
+b. A discussion guide to direct semi-
+structured interviews.  
+5. The final research stage used the example 
+cluster map (shared with respondents) and 
+discussion guide as the basis of a series of 
+qualitative depth interviews to examine in 
+detail the common barriers in technology, 
+infrastructure, research, production and 
+distribution for immersive content. These were built up as case studies of spatial 
+concentrations of businesses and research 
+capability across the UK, in most cases 
+centred on a city or city region. This 
+report sets out the dimensions and spatial 
+concentrations of the sector; its most 
+significant clusters; a refined definition of the 
+barriers to developing scalable technology 
+and distribution mechanisms in a number 
+of key end user markets; case studies of 
+comparable approaches; and our findings 
+and recommendations. A separate technical 
+appendix provides the statistical data behind 
+our analysis and mapping, but as it contains 
+commercially sensitive information about 
+individuals and businesses and is not ‘opted 
+in’, it is not an open data set.
+ DATASET SOURCE(S) HOW WE USED IT
+Immersive sup -
+pliersDigital Catapult, Im -
+merseUKCombined and used to define a ‘training 
+set’ of keywords for AI search
+AI web search of 
+suppliersSynoptica To identify XR active companies.
+Information on 
+companies and 
+directorsLinkedIn/DueDil Additional company information; shared 
+ownership and groups of companies
+Grants for R&D Research Councils UK Identify research projects with an im -
+mersive content or tech element; from 
+that, build database of research centres 
+and private sector partners (suppliers 
+and end users), cross-checked against 
+list of active companies
+Investors Crunchbase Private investors in XR - including 
+companies with funding identified by 
+Synoptica, which were then manually 
+cross referenced to the investor(s)
+Funding Directory Immerse UK Other private investments. 
+Science and Inno -
+vation AuditsBEIS To identify any correlation or causation 
+between public policy and immersive 
+content activities at a spatial level
+Knowledge Trans -
+fer PartnershipsInnovate UK To add to our analysis of which HEIs 
+were most active in supporting business 
+engagement with immersive through 
+formal knowledge exchangeFigure 1.  
+Data, their sources and how 
+we have used them1. Methodology
+
+[PAGE 5]
+8  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 9
+ 8  Title of report goes here   Document type here 2018
+2. MAPPING
+We had always intended to undertake visual mapping of 
+companies and research centres as a way to identify potential 
+clusters of activity. But as we began to analyse the statistical 
+data, the mapping took on a greater significance.Figure 2.   
+Distribution of 
+immersive suppliers
+The immersive content sector in the UK is still 
+small - around 500 active companies. London is 
+home to a large proportion of these; and other 
+cities may have only ten or so companies.
+We had planned to use Synoptica’s AI-powered 
+search of unstructured web data to identify value 
+chain relationships between suppliers and end 
+users of immersive content and to map these both 
+spatially and by market vertical. However, most 
+of the supplier web sites were not of high enough 
+quality to provide this information.
+Similarly, we had hoped that a parallel search of 
+websites of research centres would reveal infor -
+mation about networks of academic engagement 
+with businesses. Again, this expectation was dis -
+appointed, as these sites were either insufficiently 
+detailed, out of date or in some cases not present!
+
+[PAGE 6]
+10  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 11
+ 10  Title of report goes here   Document type here 2018
+ Title of report goes here   Document type here 2018 11Figure 3.  
+RCUK grants to HEIs 
+classified by funding wAt a mid-point of our study, we realised that there 
+was no way that we could, in the time allowed,  
+generate enough quantitative data to provide 
+estimates of the scale of businesses, employment 
+and GVA in the sector, and trends in its change 
+over time. Much less would we be able to to pin -
+point links between immersive suppliers and spe -
+cific market verticals in order to articulate value 
+chains in the way we had planned. The difficulty 
+we had in gathering organised quantitative data 
+about the sector confirmed that the market is still 
+emerging and is disorganised.
+The way in which national statistics are structured 
+combines with the nascent stage of the immersive 
+industries’ development to make it difficult to find 
+alternative ways to accurately map the scale and 
+significance of the sector:
+• There are no Standard Industrial Classi -
+fication codes or Standard Occupational 
+Classifications (SIC and SOC codes) that 
+would allow us to identify immersive content 
+suppliers - and in any event, the most recent 
+data available runs only to the end of 2016.
+• It may be possible to come up with more 
+accurate estimates of employment and 
+turnover would be to manually parse records 
+available via the Virtual Microdata Laborato -
+ry. This requires that an individual researcher 
+obtain a specific licence from ONS for a de -
+fined set of research questions; and licences 
+are only issued under strict conditions.
+• Even then, the small number of companies 
+in the sector is likely to raise concerns about 
+disclosure of individual company details if re -
+sults were to be published on anything more 
+granular than a national basis.
+• Even if all of the above steps were possible, 
+many companies include immersive content 
+as part of a raft of activities, and there is no 
+reliable way in which we could apportion 
+revenues, employment and GVA without 
+carrying out individual interviews with each company. We know from experience that 
+private companies are just that - most are 
+reluctant to reveal any but the most broad-
+brush details of their activities.  
+We therefore changed our approach. Using the 
+quantitative data that we had, along with draft 
+findings of the Nesta/MTM national survey of 
+immersive content and tech, we started to use 
+GIS to ‘heat map’ the sector. Adding geolocators 
+to our dataset, we began overlaying the data on 
+companies, investments, research centres and 
+other specialist immersive technology facilities to 
+see if we could visually identify any correlations 
+between these, which suggested evidence of 
+cluster activity.
+From this, and the findings of desk-based re -
+search and our own knowledge of the sector, we 
+selected a group of cities/areas where we found 
+greater concentrations of activity and used these 
+as the focus of our investigation into clusters. This 
+reversed our anticipated process: we were now 
+using qualitative data to test the existence and 
+significance of value chains for immersive tech in 
+market verticals.2. Mapping
+
+
+[PAGE 7]
+12  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 13
+ 12  Title of report goes here   Document type here 2018
+3. CLUSTERS
+Clustering is an important factor in improving productivity 
+through sharing of knowledge, tools, skills and access to 
+markets. We interviewed respondents from centres across the 
+UK, including in all the Nations and in regions in the North, 
+the Midlands and South of England, to establish whether 
+clustering, as opposed to simple concentrations of business or 
+research assets, exists. Figure 4.  [placeholder] 
+map of company density 
+[final version will overlay 
+presence of research 
+centres and highlight 
+cluster...]
+We focused our research on potential clusters 
+outside London. Our reasons for this were:
+• We were confident that London demonstrat -
+ed all of the elements of the immersive tech 
+and content ecology.
+• London’s immersive sector has been 
+mapped in much more detail, and a signif -
+icant number of London-based firms are 
+subjects of case studies already carried out 
+by ImmerseUK - we saw no benefit in repeat -
+ing that research.
+• Clustering and knowledge transfer are 
+‘contact sports’ - as the map shows, London 
+demonstrates a much higher density of im -
+mersive firms than any other part of the UK.
+• Physical proximity, particularly between 
+SMEs and the Digital Catapult, means that  
+the barriers for business engagement are 
+greatly reduced. 
+Based on the mapping work, nine UK clusters were 
+selected for further investigation. These areas 
+reflect different combinations of research and 
+business activity, and different stages of matu -
+rity in their development towards being national 
+‘hot spots’ for immersive activity. Examining the 
+industry at this level of geography - typically a city 
+or city region - provides a useful investigation. The 
+ability to compare and contrast the formation and focus of business engagement with research and 
+end users in different cities enhanced our under -
+standing of the essential elements of an immersive 
+technology ecosystem and acted as a way to focus 
+and access the right people to speak to. The nine 
+clusters identified represented a mixture of mature 
+clusters, emerging clusters, nascent clusters and 
+those with specific Digital Catapult Immersive Lab 
+facilities. Some are business-led; others catalysed 
+by university research and development activity. 
+This section provides a summary of the evidence 
+from over 30 interviews; full information about the 
+clusters is available in the technical appendix. 
+We carried out a mix of face-to-face and tele -
+phone interviews with local respondents in places 
+where our mapping suggested that there was a 
+conjunction of research and commercial activity in 
+immersive content, to test for evidence of joined-
+up activity to support the immersive content sec -
+tor. We used a semi-structured interview format 
+(see figure 5 below) and paid particular attention 
+to responses that indicated the strength (or lack) 
+of engagement between research institutions and 
+industry. In the absence of clear quantitative data, 
+this qualitative approach allowed us to investigate 
+what kinds of positive externalities may exist 
+in collaborative research and development and 
+commercial  transactions in these clusters, and 
+whether these spillovers help lower barriers to re -
+
+
+[PAGE 8]
+14  Title of report goes here   Document type here 2018 14  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 15CLUSTER SNAPSHOT
+Belfast Fragmented picture of games SMEs and immersive startups, ad hoc meetups and occasional knowledge 
+exchange events with Queens, Belfast and Ulster Universities, the cluster is being encouraged to emerge. 
+The city deal, investment from Digital Catapult, and a ‘skunkworks’ team from the games and films sector 
+all support the development. Belfast headquartered Kainos software group commission content from the 
+cluster, but there is little VC/Angel investment.
+Brighton Brighton has a mature immersive content cluster which initially developed organically as e-learning and 
+games companies built interest. The growing number of immersive tech companies in the cluster is 
+supported by regional programme Wired Sussex, a Digital Catapult Lab, a 5G testbed, and the Universities 
+of Brighton and Sussex developing immersive content research and knowledge exchange opportunities 
+through public funding.
+`
+The scene is supported by private sector tech incubators, professional services firms and small-scale VC/
+Angel investments. A few larger scale automotive and construction sports sector enterprises commission 
+immersive content from within Brighton’s cluster, but with London close by, most larger enterprises look to 
+work with companies in London. There are no public or private sector content commissioners or distribu -
+tors locally, but there is evidence of public audiences engaging with #pubVR arcades installed and popping 
+up in the town’s bars, and through Yes/No Productions’ home showings of their immersive 3D films.
+Bristol Although our research revealed a base of fewer than 20 active immersive agencies in Bristol, and fewer 
+that 40 in the South West region, the city and surrounding region boasts a strong digital sector a well 
+established innovation ecosystem for creative content, with facilities such as the Pervasive Media Lab and 
+Engine Shed offering access to funding and partners for collaborative R&D. Bristol VR Lab has been set up 
+by the CEO of immersive company OpposableVR to build on the networks developed through the annual 
+VR conference it has hosted for three years in Bristol. The VR Lab is a physical space, hosting researchers 
+and entrepreneur (‘residents’) from across market sectors and technology applications. The Lab’s financial 
+backing comes largely from academic partners - University of Bristol, UWE and Bath Spa University.  Along 
+with the academic side,  the VR Lab has engaged with large potential end users of immersive content 
+including Airbus, Aardman, BBC and Sony and local academic partners from.
+Glasgow The Glasgow immersive content cluster has informally grown as its digital agencies have matured and 
+scaled enough to be able to internally invest in immersive R&D. Regional support programmes, such as In -
+novation Vouchers, encourage SMEs to develop applied R&D projects with HEIs, which in turn have created 
+larger successful InnovateUK and RCUK funded projects, and new spin-outs. The cluster self-organises 
+through meet-ups, and through HEIs and SMEs being closely networked. The BBC has worked with the 
+Glasgow cluster on reality/spatial and 360 degree film capture, and the film sector is seen as key to the 
+cluster to overcome barriers to international markets.
+Manchester 
+and North 
+WestGreater Manchester and its hinterland has significant immersive assets, although the sector is emerging 
+rather than mature.  It is home to a number of high profile content providers and indie studios; production 
+and post-production facilities (MediaCityUK) and supportive and engaged HEIs.   Our mapping indicates 
+that it is a regional cluster with arms in East Cheshire, Warrington, Liverpool and North Wales.   Percep -
+tions are that the barrier to entry to immersive technologies are already low.  Significant opportunities in 
+creative content (aligning to production and post-production) and health technology.   
+North East 
+and Tees  
+Valley (NETV)The official immersive content sector in NETV has emerged to serve locally located large heavy manu -
+facturing industries (such Nissan in the automotive sector), and the public sector (housing and heritage 
+sectors). Gateshead City Council, regional support programme Secret Sauce, and the Digital Catapult 
+Immersive Lab all enable the cluster, as do a healthy meetups and digital incubator scene.
+SMEs and micro businesses have access to kit through the Lab, which reduces their trial and development 
+costs. Local HEIs secure public funds for immersive content research and development projects. Better link -
+ing this activity into industry is a current aim of the Immersive Lab. Public arcades (VR Gaming Experience in 
+Newcastle, Virtual Arcade in Gateshead), annual hosting of national high profile conferences such as VR2GO, 
+and the forthcoming Great Exhibition of the North engage end users and general audiences with immersive 
+content and kit. The cluster has not yet looked to engage internationally as it is still emerging.CLUSTER ECOSYSTEM
+Immersive technology clusters involve a complex 
+interaction between start-ups, large established 
+firms, higher education, spin outs, support agen -
+cies, investment, funding, networks and support 
+agencies. The diagram below summarises the 
+essential and supporting ecology of immersive 
+technology clusters. This diagram was used to Our findings are summarised opposite. The 
+accompanying Technical Report provides three 
+additional levels of detail:
+• Visual representation of various dimensions 
+of essential and supporting elements of 
+immersive content research and production 
+in each place, highlighting comparative 
+strengths and gaps.
+• A brief ‘snapshot’ of the main characteristics 
+of the immersive ecology in that location.
+• Analysis of key strengths, barriers and op -
+portunities present in each place.prompt conversations with cluster representatives 
+and as a way of understanding the complex eco -
+systems which are emerging.  
+The ‘dimensions’ of the cluster map have been 
+built up over time both from reference to other 
+business research, tools used by mature content 
+and tech clusters in other places and findings of 
+applied research. In this case, the map drew upon:
+• BCG /Bloomberg report into “Building a 
+Digital City” 4
+• Application of the above in KTN survey of 
+emerging tech clusters out-of-London (2015)
+• WIN - Washington Interactive Network - map 
+of interactive content cluster in Washington 
+State, USA 5search, development, production and distribution 
+of immersive content in a way that suggests that 
+there is a functioning cluster, or ecosystem.3. Clusters
+How well does the example cluster map fit to 
+your location?
+What’s not there/is extra there locally?
+Which key companies/organisations are in 
+each section?
+Does your cluster contain any complete 
+‘supply chains’ of companies?
+Are there any hard infrastructure/access to 
+special equipment barriers your cluster faces?
+To what extent is the cluster informal or 
+organised? Who/what are key elements to its 
+cohesion? 
+To what extent is general market/audience 
+demand evident in your location?
+• Could your cluster be supported further 
+by more research in any sector specific 
+area or any technical area? 
+• What are the barriers to the UK 
+producing globally consumed content?
+• What are the barriers to the UK being 
+a dominant market leader in the 
+immersive content sector?
+• Where are supply chains located across 
+the UK?
+• Do you feel a part of any international 
+cluster? 
+• Are there any barriers relating to 
+working internationally?
+Figure 6.  Immersive 
+cluster map.Figure 5  Indicative 
+questions for cluster 
+interviewees
+
+
+[PAGE 9]
+16  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 17
+ 16  Title of report goes here   Document type here 2018
+Nottingham Although the base of active immersive agencies is small Nottingham has a distinct combination of assets 
+- two universities (one Russel group and one post-1992), strong support form the city council, space for 
+showcasing (National Video games Arcade) and it is centrally located with good connectivity.  Strong 
+culture of collaboration between business and universities and between the two universities in the city.  
+Regular networking event, particularly around the medical application of immersive technology.  Strong 
+international links led by universities.  
+Sheffield The Sheffield cluster has emerged over the past few years mainly due to the efforts of Sheffield Digital, 
+a volunteer-run membership organisation which has supported immersive tech and content focussed 
+meetups and projects. The cluster grew out of an early recognition amongst local games development 
+companies of demand from local manufacturing, CAD and BIM sectors wanting to use immersive tech and 
+content to improve their workflows. Identification of a strong games development sector in Sheffield has 
+led BBC and C4 to commission immersive content from local suppliers. Both Universities have hatcheries; 
+the UK’s largest PlayStation lab is hosted at Sheffield Hallam University, and the Advanced Manufacturing 
+Research Centre (AMRC)  at Sheffield University is also encouraging SMEs to taste and test immersive 
+content and tech. DocFest’s Alternative Realities strand of programming generates popular opportunities 
+for the public to engage with immersive content. 
+South Wales Rapidly growing digital sector in South Wales, particularly in Cardiff.  In terms of immersive, our mapping 
+suggests only a handful of AR/VR companies in the region, although sector interest in immersive is visible 
+- a nascent rather than mature market.  Strong support mechanisms as well as some academic interest 
+within Cardiff University around immersive technology, contributes to this developing sector.  Support 
+mechanisms may be taking the lead at the moment on immersive technology, rather than industry itself.  
+There are strong networks such as Cardiff University’s AR/VR research network, Creative Cardiff, BAFTA 
+Cymru and BBC Wales are all trying to engage in the cluster.  
+3. Clusters
+Essential ecology .  Eight out of nine of the loca -
+tion-specific clusters we studied contained all the 
+essential elements for the ecology to function. 
+The exception was Brighton, which lacks connec -
+tivity to public sector commissioners. There are 
+elements which, although are present, are weak or 
+lack clustering such as demands from local indus -
+try sectors (Brighton), connection to public sector 
+commissioners (North East and Tees Valley and 
+South Wales), connection to Higher Education 
+Institutions (Sheffield).  Nottingham’s ecosystem 
+focused around Higher Education Institutions, 
+therefore many of the other essential elements 
+could be strengthened.  In the nascent immersive 
+sector in South Wales, there are a number of ele -
+ments that could be strengthened including local 
+games developers, number of immersive content 
+companies and connection to the needs of local 
+companies and commissioners.   Supporting ecology :  The most common missing 
+elements are access to venture capital and local 
+angel investors.  This is lacking or weak in all the 
+clusters studies. Other elements that are com -
+monly lacking are UK and global distributors and 
+public arcades for showcasing and supporting 
+public adoption.  
+There are clearly ‘cold spots’ to focus attention in 
+certain areas and ensure a consistency.  These 
+cold spots include research funding (notably Man -
+chester), meetups (Belfast), professional services 
+(Glasgow) and regional support programmes 
+(Sheffield).4. SECTORS WITH EMERGING 
+IMMERSIVE CONTENT NEEDS
+There are significant differences in barriers to distribution of 
+immersive content between market verticals. And while AR 
+comes ‘as standard’ with new smartphones, fragmentation of 
+platforms and hardware for VR has impacts across the value 
+chain of a number of content sectors.
+4.1 CREATIVE CONTENT
+The risks and barriers involved in production of 
+creative immersive content can be seen as a con -
+tinuum between lower risk, highly curated environ -
+ments and high risk, mass market entertainment.
+The cultural heritage sector was generally 
+described as a mature and active commissioner 
+- for example, in Belfast, where the Titanic Belfast 
+Experience is hosted, local immersive content 
+companies were being commissioned to create VR 
+experiences for the visitor attractions there (see 
+Technical Appendix cluster case study). Strong 
+multidisciplinary partnerships, such as the Universi -
+ty of York-led DC Labs (see below), build on existing 
+communities of academic practice and produce 
+experiences (on the whole) for controlled, curated 
+gallery environments. It is maybe unsurprising, 
+therefore, that a disproportionate number of Re -
+search Council funded projects are in this sector.
+However, UK immersive content companies in the 
+Brighton, Sheffield and Glasgow clusters reported 
+rarely getting to participate in the bigger interna -
+tional commissions in the cultural heritage and 
+construction sections from China or the Middle 
+East unless they were working as a subcontractor 
+in a Department for International Trade-sponsored 
+High Value campaign. 
+Barriers
+Some things are experienced as common barriers 
+to distribution of entertainment content:• End user expectations of the quality of VR/
+AR product are much higher than that in 
+other formats, so more finance is required at 
+the seed stage of project - which creates a 
+ratcheting of risk and cost for new content.
+• Fragmentation of distribution platforms and 
+hardware is constraining take up of VR. In VR 
+games, like early days of mobile, there is not 
+a predictable ROI: suppliers are waiting for 
+the equivalent of the app stores. SteamVR is 
+the most used platform at present.
+• This fragmentation is a factor in the lower 
+than anticipated levels of adoption of HMDs - 
+but perception/reality of nausea and the fact 
+that many people just don’t want to engage 
+with them as a way to interact with content 
+- “they are anti-social, by design” - are also 
+barriers.
+• Uncertainty around whether technical 
+architectures will be scalable and sustaina -
+ble for mass distribution of content: e.g., the 
+proposition for 5G relies heavily on a lot on 
+AR/VR, but the architectures are not fit for 
+purpose and latency is a big problem. High 
+Performance Computing offers some solu -
+tions but none that are obvious and scalable 
+at this point.
+Opportunities
+• There are opportunities for further conver -
+gence of screen media sectors:
+• In Belfast and Manchester there is currently 
+an unmet potential in the convergence of 
+
+[PAGE 10]
+18  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 19 18  Title of report goes here   Document type here 2018Publishing case study
+An interview with Kayode Josiah, FT’s Director of Commercial Development, highlighted the prevailing busi -
+ness models, supply chains and barriers to adoption of immersive tech in the publishing sector. 
+Technology
+AR has become a much more interesting proposition, because it crosses over different formats - and AR 
+on your phone massively increases market penetration, and therefore scope for publishers to work with 
+advertisers and immersive content providers.
+The ‘hype’ around VR has subsided for three reasons:
+• Distribution is a barrier: unless you have a bespoke app, you are left with 360 video on Facebook or 
+YouTube - neither content nor form is interesting
+• Limitation of the VR outputs: the experience still falling short of expectations and mass acceptance
+• Limitation imposed by HMDs: not enough market scale and, “anti-social by design”
+For that reason, ‘true’ VR is limited to specialist platforms- Vive gaming, for example - which hit a narrower, 
+premium market of early adopters.
+Business models
+1. Advertiser funded : made in partnership with advertiser. This requires courage on both parts, as 
+creative content ideas need to fit with the brand; this is very difficult to design and test, and therefore 
+return on investment is very hard to determine.
+2. Editorial : though still tricky to force editorial into formats that aren’t designed for it.
+3. Third-party content provider : testing content with a publisher and using its channels as a distribution 
+platform. In this space, investment is coming mostly from the platforms themselves.
+Barriers
+• Advertisers are not willing to spend the amounts needed to create bespoke VR content, particularly of 
+a quality that reflects the brand values of more up-market brands and publishers
+• Benefits of immersive content over making really good video content are unclear
+• Limitations of distribution (dependency on third-party apps and platforms) makes it hard to drive 
+traffic in conventional ways that can also help brands and publishers grow value.
+Opportunities
+• Audio products - such as smart speakers - have potential4.2 MEDICAL TRAINING
+Immersive content applications - mostly AR, 
+but also some XR - offer a number of potential 
+benefits for medical training. Its advantages over 
+‘traditional’ training include:
+• Reducing the patient hazards involved in 
+training - or even removing the patient from 
+the process altogether
+• Allowing for repetition and recording of com -
+plex procedures that would not be possible 
+with a live patient
+• Enhancement and visualisation of data that 
+can assist in decision making in complex 
+and hazardous procedures where the 
+• Familiarisation with equipment 
+Barriers
+But there are barriers that immersive content 
+suppliers, particularly those that come from a 
+commercial content production background and 
+have no grounding in medical research or clinical 
+practice, need to take into account:• The need to address research design, and 
+design and management of clinical trials.
+• Understanding the regulatory environment.
+• Understand use case: for patients, clinicians, 
+nursing staff - who is responsible for making 
+sure the tech and software is working, and 
+properly set up? That it is cleaned for the 
+next use? That its use will not have any side 
+effects?
+• Expressing benefits in ways that are relevant 
+and meaningful for patients and commis -
+sioners - time saved, cost reduced, life 
+expectancy extended, rather than ‘features’.
+• Questions about scalability - what may work 
+for one-to-one surgical training may not be 
+appropriate for a lecture hall of 150 medical 
+students.
+• We found no evidence of publicly funded 
+research into use of immersive content in 
+context of mental health.
+Opportunities
+• This is an area in which HEI research helps 
+content creators, particularly those whose 
+experience is mainly of entertainment, mar -
+keting or VFX, to develop an understanding 
+of problem definition and process that al -
+lows specialists and end users in other fields 
+to explore and exploit their own responses in 
+real time.  This is a critical success factor in 
+any health or social care application.
+• Businesses coming from content sectors - 
+typically SMEs - often have no appreciation 
+of research design clinical trials, regulatory 
+and pedagogical requirements involved in 
+getting a product to market in other sectors 
+with stricter requirements around health, 
+safety and privacy. But this is a problem that 
+university researchers have addressed and 
+there is potential to help SMEs to appreciate 
+this before they commit resource to develop -
+ment of new products.post-production, CGI, games, film and TV 
+supply chains to address scalable opportuni -
+ties in research,development and distribu -
+tion of immersive content. This is reflected
+• Better links with Sheffield’s strong independ -
+ent film sector, which (boosted by DocFest) 
+has a global reputation for short-form and 
+documentary content, and the benefits of 
+Sheffield’s rich cultural offer could be better 
+showcased and leveraged to attract digital 
+graduates to stay, settle, and develop the 
+immersive content sector.
+• The announcement of DCMS investment of 
+£5m in a West of England 5G Smart Tourism 
+testbed should is designed to stimulate de -
+livery of enhanced AR/VR experiences for tour -
+ists at major attractions in Bath and Bristol.6
+
+[PAGE 11]
+20  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 21
+ 20  Title of report goes here   Document type here 2018
+Key:
+Strong presence
+Some presence, not strongly clustered
+Little or no presence4.3 MANUFACTURING
+The advanced and high value manufacturing sec -
+tor now has well established work practices and 
+processes which are optimised through immersive 
+content. This is providing local commissioning 
+opportunities for immersive content companies 
+where manufacturing industries have recognised 
+the commercial value of, and have invested in, 
+immersive technologies. This effect is observed 
+in manufacturing hubs across the Midlands, in 
+HIVE’s work with the offshore energy sector in 
+Hull, and our case studies show that it can be seen 
+to add strength to emerging immersive content 
+clusters in Glasgow and Sheffield. The High Value 
+Manufacturing Catapult has provided access to 
+immersive facilities and content to manufactur -
+ing businesses of all scales to encourage them 
+to taste and test the value of augmented, virtual, 
+and mixed reality technologies and content. This 
+provides an independent environment where exec -
+utives can receive bespoke advice about what kit 
+they should buy, and develops immersive content 
+ecologies in the locations of the company inves -
+tors. Larger companies such as Rolls Royce now 
+have their own VR Cave environments and many 
+companies are also investing in smart glasses for 
+training and working in high risk environments.
+Siemens Digital Factory now uses VR for both 
+product and factory design following its experi -
+ence of the High Value Manufacturing Catapult 
+(HVMC)’s virtual reality 3D cave. Tata Steel has 
+designed its newest Proving Factory assembly fa -
+cility concept through analysing 3D models of the 
+assembly cells using VR validation of assembly 
+designs and processes. DESTACO UK has been 
+supported to create a virtual workshop and digital 
+press shop for factory planning, and planning 
+automation processes. 7  These companies, each 
+with multiple locations across the UK, have made 
+use of the facilities provided in  HVMC’s labs in 
+regions across the UK.As well as improving design, immersive content 
+also improves safety in manufacturing by allowing 
+humans to train and practice (and fail) in a virtual 
+environment with dangerous machinery where they 
+can neither get hurt, nor injure others. Other sec -
+tors, and emergency services, can use immersive 
+content to simulate complex and dangerous situa -
+tions, facilitating training for them. The Immersive 
+Hybrid Reality Lab in Rosyth trains offshore wind 
+technicians in the renewable energy sector through 
+content created in a collaboration by Annimersion, 
+Heriot Watt University and Fife College 8.
+Immersive content is helping the automotive 
+sector overcome resistance amongst the general 
+public to the benefits of new autonomous vehi -
+cles. The Transport System Catapult has a VR 
+simulation open to the public in Milton Keynes 
+which allows vehicle manufacturers to test citi -
+zens’ reactions to autonomous transport 9. Here, 
+immersive content is clarifying the misconcep -
+tions around autonomous vehicles, and showing 
+the vehicle designers ways to reduce fear, thus 
+hastening an innovation’s time to market.
+HIGH VALUE MANUFACTURING  
+CATAPULT (HVMC): A NATIONAL  
+IMMERSIVE CONTENT CLUSTER  
+AND FACILITY
+Credit: Advanced Forming Research Centre
+
+
+[PAGE 12]
+22  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 23
+ 22  Title of report goes here   Document type here 2018
+Snapshot
+HVMC differs from the other, geographically-based 
+cluster case studies, in that it is looking to define 
+a national network centred upon its immersive lab 
+facilities at the Advanced Manufacturing Research 
+Centre (AMRC) and Advanced Forming Research 
+Centre (AFRC). Its regional centres operate as a 
+self-organised national network; as such, HVMC 
+has all the essential and supporting elements of 
+the map, with an important addition: platform de -
+velopers. HVMC explicitly recognises as essential 
+the value to the ecology of the creators of VR/AR 
+software development kits and immersive content 
+development platforms. Staff at the regional labs 
+frequently meet to plan and support each other. 
+Businesses are actively approached to engage with 
+the research centres. Within the manufacturing 
+sector, the business case is accepted that immer -
+sive tech and content derisks and reduces costs 
+in the development cycle, and offers safe training 
+environments as added value.
+Strengths
+• The HVMC network supports SMEs and 
+large enterprises by providing access to 
+immersive tech kit for ‘tasting and testing’ at 
+all its regional centres. 
+• Barriers to entry are falling in terms of cost 
+and reliability of technology and its interop -
+erability, and the centres offer independent 
+advice on kit and content.
+Barriers
+• Interoperability of the tech and data, and latency. 
+• Legislative differences between international 
+jurisdictions make digital rights manage -
+ment and data protection difficult. 
+Opportunities
+• Further research into immersive sound and 
+audio, haptic and olfactory feedback, and 
+the psychological and biological impact of 
+working in immersive environments.
+• They also recommended studies to look into the cultural aspects of how avatars look, and 
+into gestures for operation that might have 
+different meanings in different cultures.
+4.4 EDUCATION 
+MGL CASE STUDY
+“We can sell as much immersive content as we can 
+get our hands on”
+Carl Gilbertson, CEO, MGL
+Trading since 2000, MGL is the largest independ -
+ent supplier of IT to schools in UK. MGL provides 
+technology, support, consultancy and learning 
+services through a team of fully qualified teachers 
+who deliver programmes mapped to school curric -
+ulum topics. MGL focuses on Primary Schools, as 
+rich media teaching features predominantly at Key 
+Stages 1 and 2 of the national curriculum10. CEO 
+of MGL, Carl Gilbertson, spoke of how immersive 
+was beginning to take hold in schools since the 
+advent of robust technologies such as Aventis’ 
+ClassVR HMD11, which has its own content portal. 
+“Our teaching resources can complement schools’ 
+infrastructure, giving access to recent innovations 
+with massive learning potential such as 3D printers, 
+humanoid robots, and Virtual Reality equipment.”
+Carl Gilbertson, CEO, MGL
+Early attempts at bringing immersive content 
+into the classroom, such as Google Expeditions and 
+Google Cardboard, had perhaps hampered uptake 
+as the cardboard headsets were too flimsy and the 
+content was of low visual quality and poorly mapped 
+to the curriculum. This had led to teachers feeling that 
+VR was just a gimmick, even though children were en -
+gaged with the technology, and to school IT staff be -
+ing unable to support the technology. To Carl, Google 
+Cardboard represented an early attempt at seeding a 
+new technology and he knew that once more robust 
+hardware entered the market, MGL would be able to 
+explore immersive education opportunities. 
+The arrival of affordable and robust hardware - Class VR headsets are £100 each - has lowered barriers 
+around technology. Content is now, in Carl’s view, 
+the real missing element: and unlike adult users, 
+children have a qualified expectancy of immersive 
+content rather than presuming an opulent experi -
+ence. In order to address this gap, MGL’s learning 
+team has started to deliver sessions in schools, 
+teaching children how to create 360 video to upload 
+to the ClassVR portal and using SketchUp modelling 
+software to create basic 3D environments. 
+MGL already has reseller agreements with compa -
+nies producing content, including Curiscope who 
+have developed ‘Virtuali-Tee’, an augmented reality 
+T-Shirt that helps to teach anatomy. However, 
+even if Curiscope is only used once, there is fur -
+ther opportunity for content that is mapped to the 
+curriculum, particularly in STEM subjects. 
+In terms of UK Market size, £50bn is devolved 
+to UK schools to staff and run their schools, of 
+which around £9bn is allocated for discretionary 
+spend on additional services, including software. 
+Carl estimates that 5% (£450m) of this budget is 
+potentially available for immersive content.
+Barriers
+• Concerns about durability of some equip -
+ment (eg Google Cardboard HMDs) and abil -
+ity of school technicians to manage set-up 
+- although these are in the main addressed 
+by emergence of robust equipment, such as 
+Class VR, that comes ‘bundled’ with content.
+• Gap in take up of digital technology at 
+secondary school level - the market for rich 
+media content is dominated by primary 
+schools and HEIs.
+Opportunities
+• Carl has connected with the local VR 
+community in Liverpool to explore the costs 
+involved in creating historic and scientific 
+immersive environments. MGL could sell 
+each for around £250.  4.5 CONSTRUCTION
+High Value Manufacturing Catapult’s virtual reality 
+3D cave programme has helped contractors in 
+collaborative construction projects to co-design 
+more reliable blueprints at an earlier point in the 
+process, reducing cost and speeding up decision 
+processes in the physical construction process. 
+Architects have used the HVMC’s VR3D cave to 
+create immersive visualisations of architectural 
+designs, allowing their clients to make decisions 
+from “walking around” the visual data12. Similarly, 
+augmented reality in construction is creating 
+complete supply chains. Glasgow has a large 
+consortium led by immersive content experts 
+Solius/Sublime, and supported by the Advanced 
+Forming Research Centre at Strathclyde University 
+which has attracted a large InnovateUK grant for 
+developing an Augmented Construction Worker 
+system13. The strength of knowledge exchange 
+between industry and HEIs in Glasgow, and the  
+applied research projects which have come out 
+this, are noted as strengthening the Glasgow 
+Cluster.
+Architectural visualisation agency, Uniform, has 
+been offering Virtual and Augmented services 
+to its client base for around 4 years. Nick Howe, 
+CEO of Uniform, describes a trend, which has 
+accelerated noticeably over the last 18 months, 
+for clients to initiate conversations on immersive 
+technologies, which are seen less as a gimmick. 
+He estimates that currently around 80% of devel -
+opment projects are now considering how they 
+use VR and AR. 
+The main deliverable of this work is at large 
+events, such as MIPIM, where VR displays are 
+used as an engagement tool for potential investors 
+and existing stakeholders. Howe observed at a 
+recent development launch in Dubai that users of 
+all ages were queuing to use the headsets. Clients, 
+however, still view AR and VR as a way to engage 
+with Millennials, who are considered to be a hard 
+
+[PAGE 13]
+24  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 25
+ 24  Title of report goes here   Document type here 2018
+audience to attract. Projects that Uniform have 
+developed that are influenced by this issue include 
+the augmented reality project for Harrow that 
+brings printed maps to life to show the potential of 
+the council’s regeneration plans (shown opposite.)
+4.6 VISITOR ECONOMY
+Scotland has had great download levels and 
+remarkable feedback from around the globe for 
+the popular VR Scotland app, a publicly funded 
+collaborative project between the Scottish aca -
+demic, technology and tourism sectors which has 
+allowed international visitors to dream and plan 
+their visits. In the first year the app had 52,000 
+installs, an average of 1,000 per week. The top 
+two countries for installs are UK & USA but also 
+ranking in the top 6 are Australia, Canada, France 
+& Germany so it has been far reaching.In the same 
+period, there were 162,000 engagements with the 
+real 360 degree content within the app.
+ 
+But this seems to be an isolated success. 
+Although trials with immersive tech have taken 
+place over a long period - 360 video has been 
+used online as long ago as 1998, and Liverpool 
+worked with Nokia to develop an AR visitor 
+economy app for its year as European Capital 
+of Culture 2008 - the technology has not been 
+widely adopted. 
+To establish what barriers existed, we interviewed 
+Richard Veal, MD of New Mind, an agency that pro -
+vides Destination Management Systems (DMS) to national and regional tourist boards, city councils 
+and tourism associations across Europe, support -
+ing the entire marketing and business activities of 
+tourism destinations.
+The company has been established for 20 years, 
+and recently acquired its major UK competitor 
+to control the majority of the UK Destination 
+Management market; it is well placed to comment 
+on the potential for immersive content within the 
+tourism sector.
+Richard reinforced that the key focus within the 
+tourism industry is to drive visitor numbers and 
+even though there is potential for immersive tech 
+to be used as pre-visit activity he had seen no 
+demand from consumers or from the destinations 
+themselves. 
+Barriers
+The reasons for this mirror the barriers to take up 
+in publishing, observed in our interview with the 
+F T:
+• Low levels of consumer usage (and there -
+fore, evidence of increased spend) from 
+trials of 360 degree video
+• High upfront cost of immersive content, with 
+uncertain ROI associated with technologies 
+(particularly VR) with low levels of adoption 
+of consumer equipment (eg, HMDs).
+• Fragmented distribution networks, especially 
+for VR content, make it difficult to drive on -
+line traffic to it, track the customer journey, 
+and measure its impact..
+• Destinations prefer to spend budget on high 
+quality photographs and videos.
+Opportunities
+• The announcement of DCMS investment of 
+£5m in a West of England 5G Smart Tourism 
+testbed should is designed to stimulate 
+delivery of enhanced AR/VR experiences 
+for tourists at major attractions in Bath and 
+Bristol.14 4. Sectors with emerging immersive content needs
+Uniform AR project for Harrow at Mipim
+
+[PAGE 14]
+26  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 27
+ 26  Title of report goes here   Document type here 2018
+5. RESEARCH AND FACILITIES
+This section looks at ways in which of two ways in which busi -
+nesses might seek to address barriers to research by engage -
+ment  with the UK immersive knowledge base:
+• Through access to, or collaborative research and development with, acknowledged 
+centres of research excellence (as reflected in research funding success and evidence of 
+industry engagement)
+• Through knowledge exchange, measured by the number of InnovateUK-funded 
+Knowledge Transfer Partnerships in related areas of content or technologyRESEARCH  
+FACILITYSNAPSHOT
+HIVE (Hull Immersive 
+Visualisation Environ -
+ment) – University 
+of Hull Part of the School of Engineering and Computer Science, Hull Immersive Vis -
+ualisation Environment (known as HIVE) provides researchers and industrial 
+clients with an array of advanced visualisation, motion capture and computer 
+graphics technology. HIVE's resources include a virtual reality immersive 
+cube, VR theatre and gigapixel wall facilities, plus wearable devices. Its work 
+focuses around health and safety training environments (particularly offshore 
+energy and fire and rescue) and medical training. It works with local SMEs 
+across a range of sectors
+Digital Creativity Labs 
+University of York 
+(Lead partner), Gold -
+smiths and Falmouth 
+UniversityDigital Creativity Labs (DC Labs) is an interdisciplinary laboratory and think 
+tank focusing on research and innovation in games, interactive media and the 
+space where they converge. Drawing on funding from 3 research councils, 
+four universities and over 80 collaborative partners organisations (including 
+potential commissioners of immersive content) it brings together 30 world-
+class researchers to take a multidisciplinary approach to research. Its focus 
+on gaming, entertainment and museums and galleries ensures close engage -
+ment with specific industry partners across its research programme.  
+The Centre for Vision, 
+Speech and Signal 
+Processing (CVSSP) – 
+University of SurreyImmersive is a growing part of CVSSP’s activity and current work is focused 
+on game-changing technologies to take augmented reality (AR) in television 
+and virtual reality (VR) cinema to the next level in a project called ALIVE. This 
+project is a industry collaboration with a small production company which 
+aims to develop the technologies required to capture live-action content as a 
+fully immersive Virtual Reality experience, where the viewer has the freedom 
+to move inside the content.
+Virtual Environments 
+and Computer 
+Graphics & Immersive 
+Virtual Environments 
+Laboratory - Universi -
+ty College LondonA long established centre of research excellence, focusing on how to make 
+virtual reality effective including research into what makes a difference to 
+people's sense of presence in a virtual environment and co-presence with 
+other people. The Immersive Virtual Environments Laboratory is run by the 
+Virtual Environments and Computer Graphics (VECG) group and acts as the 
+group’s engagement facility. The Lab utilises a variety of technologies to 
+enhance the illusion of immersion - including a three wall CAVE projection and 
+very high quality audio.  The Lab promotes UCL’s Virtual Research activity to 
+Industry, Public Sector and Academia and undertaking cutting edge collabo -
+rative research and testing - including studying phenomena which would be 
+too dangerous or costly to study in reality.  This section draws on the following analysis:
+• Database analysis (Research Council UK and 
+InnovateUK funding)
+• Desk research and Interviews with key aca -
+demics, and
+• Knowledge Transfer Partnership (KTP) 
+database search. 
+5.1  BUSINESS ENGAGEMENT WITH 
+IMMERSIVE RESEARCH FACILITIES 
+We carried out case studies on a number of re -
+search facilities that represent a variety of success -
+ful approaches to business engagement. Three of 
+them demonstrate high levels of engagement with 
+both end users and immersive suppliers in defined 
+market verticals. UCL’s Immersive Virtual Environ -
+ments Laboratory takes a different approach, pro -
+moting its advances in theory and development of 
+tools for a range of applications through academic 
+publishing and presence at national and interna -
+tional conferences. All of them provide access to 
+immersive lab facilities in ways that make them 
+more accessible to business engagement.
+Some of the commercial and academic research 
+centres we  approached were unwilling to discuss 
+their work with us, reflecting sensitivities about 
+intellectual property and competitive advantage.Barriers
+• In the SME market, there is a gap between 
+expectations of what the technology can do 
+and expertise in dealing with the technology.  
+• There is a growing appetite from companies 
+to understand how they can use immersive 
+technologies either to sell more to custom -
+ers, or within their working practices. 
+• Education and information is a key issue 
+in non-digital sectors. Many firms have a 
+poor understanding of what is out there and 
+where the opportunities lie.  Training could 
+be used to address this.  
+Opportunities
+• As more content is created, it will contribute 
+to a critical mass of assets and environ -
+ments which will in turn lead to confidence 
+within industry.  
+• In terms of barriers to business engage -
+ment and utilisation of assets, the value of 
+a large immersive environments is hard to 
+explain and much better understood through 
+experiencing them.  It can make it difficult to 
+market/communicate with potential users 
+through standard routes such as conferenc -
+es and trade shows.  
+
+[PAGE 15]
+28  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 29
+ 28  Title of report goes here   Document type here 2018
+RESEARCH  
+CENTRESHIVE (HULL IMMERSIVE VISUALISATION ENVIRONMENT) 
+– UNIVERSITY OF HULL
+Real-world applications of large scale applications of ‘untethered’ immersive content for industry built 
+upon fundamental research into virtual environments.
+Snapshot
+Part of the School of Engineering and Computer 
+Science, Hull Immersive Visualisation Environ -
+ment (HIVE) provides researchers and industrial 
+clients with an array of advanced visualisation, 
+motion capture and computer graphics tech -
+nology. Founded in 2002, HIVE focused upon 
+fundamental research 
+in virtual environments 
+within sectors where 
+his research team had 
+connections and saw 
+the most opportuni -
+ties: medical imaging, 
+guided surgery, haptics 
+and aerospace. 
+HIVE’s current work is 
+mainly based upon health and safety training envi -
+ronments and medical training. Health and safety 
+work is for two main sectors: Offshore Wind, for 
+Siemens and Dong Energy, and Fire and Rescue, for 
+Humberside Fire & Rescue Services. It also works 
+with local SMEs across a range of sectors
+Strengths
+• HIVE's resources include a virtual reality 
+immersive cube, VR theatre and gigapixel 
+wall facilities, plus wearable devices.
+• Training is delivered through a mixture of 
+VR Headsets and Cave/Cube environments, 
+but over the years the team has found that 
+HIVE’s large immersive spaces offer the best 
+to promote immersive capabilities. 
+Barriers
+• For HIVE itself the barrier to further dissem -
+ination is around technology and its mobility 
+as the large environments really sell immer -
+sive to industry. The team at Hive speak at 
+events around UK but it is hard to sell the 
+full experience without the environment . The dependence on these physical envi -
+ronments means that distance is a barrier 
+for end users: HIVE’s work in aerospace 
+fell away when British Aerospace moved to 
+Preston.
+• The SME market demonstrates a very real gap 
+in terms of expectancy of the technology and 
+that there is no expertise in house to be able to 
+deal with technology demands, even ones as 
+basic as digital connectivity. A good example is 
+a law firm that wanted to create virtual meeting 
+spaces but whose broadband service did not 
+allow them even to Skype between sites. 
+• Education is still an issue: most of the indus -
+tries HIVE connects to are non-digital and 
+therefore have a very poor understanding of 
+what is out there and where the opportuni -
+ties lie . There is a need for dissemination and 
+fundamentals training events. 
+• There is a shortage of content developers 
+(individuals and companies) in the local 
+supply chain. HIVE believes that content is 
+key, as the more environments and assets 
+that can be created the better .  In order to 
+service its Offshore work, HIVE has a rela -
+tionship with an offshore assets company 
+in India.
+Opportunities
+• There has been a growing uptake from stu -
+dents of the final year VR and Virtualisation 
+Module - from 20 to 69 in the last year. This 
+may start to address HIVE’s need for more 
+content providers as demand grows.
+• In the past two years, HIVE has observed 
+growing appetite from companies to under -
+stand how they can use Immersive Tech -
+nologies either to sell or within their working 
+practices. Over 50 SMEs have visited the HIVE, 
+leading to projects with Wren Kitchens and 
+local manufacturers of Static Caravans.RESEARCH  
+CENTRESDIGITAL CREATIVITY LABS (DC LABS) 
+– UNIVERSITY OF YORK 
+Multi-university and multidisciplinary partnership with a clear strategic focus on immersive content and 
+user experience within entertainment, heritage and gallery experiences.
+SNAPSHOT
+Digital Creativity Labs (DC Labs) is an interdisci -
+plinary laboratory and think tank focusing on re -
+search and innovation in games, interactive media 
+and the space where they converge.  Drawing on 
+funding from three research councils, three part -
+ner universities and over 80 collaborative partner 
+organisations (including potential commission -
+ers of immersive content) it brings together 30 
+world-class researchers to take a multidisciplinary 
+approach to research.  Its focus on gaming, en -
+tertainment and museums and galleries ensures 
+close engagement with specific industry partners 
+across its research programme. 
+Strengths
+• Partnership of University of York (Lead), 
+Goldsmiths and Falmouth University.
+• Strong track record of successful funding 
+applications - £18 million from RCUK to date.
+• Partner organisations gain access to a huge 
+range of research, benefiting from new 
+ideas, cross-collaboration and participa -tion in a community of innovative, active 
+thinkers. They become an integral part of 
+this community, and enjoy the opportunity to 
+arrange visits, brainstorms, and technology 
+review sessions, with preferential access to 
+intellectual property.
+• The multidisciplinary nature of the DC Labs 
+team - Computer Science, Theatre, Film & TV, 
+History & Heritage and Psychology - gives 
+partner organisations access to a huge range 
+of research and, in particular, preferential 
+access to intellectual property.
+• DC Labs’ website and social media dis -
+semination is highly engaging, pointing to 
+an organisation that wants to engage with 
+industry at all levels. 
+• DC Labs is branded separately to the 
+Universities, which helps to give it the feel 
+of an organisation engaged in cutting edge 
+research projects rather than a University 
+Department. 
+DC Labs Image 
+credit needed.]HIVE Image credit 
+needed.]
+https://www.digitalcreativity.ac.uk/
+
+
+[PAGE 16]
+30  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 31
+RESEARCH  
+CENTRESTHE CENTRE FOR VISION, SPEECH AND SIGNAL PROCESSING (CVSSP) 
+– UNIVERSITY OF SURREY
+Symbiotic relationship between an advanced technical research facility and companies in the cluster it has 
+helped foster, returning value in the form of new techniques and tools for immersive content production.
+SNAPSHOT
+CVSSP is one of the major research centres of the 
+Faculty of Engineering and Physical Sciences at the 
+University of Surrey. Founded in 1986 within Surrey’s 
+Department of Electrical and Electronic Engineering, 
+its aim is to advance the state of the art in multime -
+dia signal processing and computer vision, with a 
+focus on image, video and audio applications.
+CVSSP is structured into six research labs in Ma -
+chine Audition, Biometrics and Security, Cognitive 
+Systems, Multimedia Communications, Medical 
+Imaging and Visual Media. 
+Strengths
+• University of Surrey has an impressive 
+gaming and digital media heritage, and is a 
+driver for the established games cluster in 
+and around Guildford. 
+• The Centre’s expertise and activities span 
+computer vision, digital signal processing, 
+machine learning and artificial intelligence, 
+computer graphics and human computer 
+interaction, medical image analysis and 
+multimedia communication.
+• Strong track record of collaborative R&D 
+with large corporations, funded as academic 
+research directly from the Research councils. Example project: ALIVE
+Immersive content is a growing part of CVSSP’s 
+activity and current work is focused on 
+game-changing technologies to take augmented 
+reality (AR) in television and virtual reality (VR) 
+cinema to the next level, ALIVE.
+ALIVE is an eighteen-month industrial partnership 
+between visual FX and 3D agency, Foundry, a local  
+SME, Figment Productions, and CVSSP, funded 
+by InnovateUK. The collaboration aims to develop 
+the technologies required to capture live-action 
+content as a fully immersive Virtual Reality expe -
+rience, where the viewer has the freedom to move 
+inside the content.
+ALIVE uses lightfield technologies to capture 
+live-action performance from many viewpoints. 
+The goal is to develop the data-processing 
+techniques and post-production tools to prepare 
+volumetric live-action elements from lightfield 
+capture, and deliver the elements into a game 
+engine for real-time rendering. The result is a truly 
+immersive experience where the live action video 
+content reproduces the parallax you see in the real 
+world, a concept termed ‘Positional VR’.CVSSP Image 
+credit needed.]RESEARCH  
+CENTRESVIRTUAL ENVIRONMENTS AND COMPUTER GRAPHICS (VECG)  
+IMMERSIVE VIRTUAL ENVIRONMENTS LABORATORY 
+- UNIVERSITY COLLEGE LONDON
+Will one of the UK’s longest-established and most prestigious immersive labs be able to translate its 
+cutting edge research into industrial collaboration after quarter of a century in pursuit of theoretical and 
+research excellence?
+SNAPSHOT
+An established centre of research excellence 
+dating back to 1994, VECG’s ultimate objective is a 
+theory of virtual reality: to make VR ‘‘work’ in a giv -
+en application context and with given resources, 
+what is the best approach to take, what is the best 
+algorithm, interaction and rendering style to use?
+Strengths
+• It undertakes cutting edge collaborative 
+research and testing - including studying 
+phenomena which would be too dangerous 
+or costly to study in reality.  
+• Since its inception in 2000 the lab has incorpo -
+rated novel technology advances in projection, 
+tracking, acoustics and interaction to remain at 
+the state of the art. This includes a CAVE-hy -
+brid projection theatre in which the user is pre -
+sented with high-resolution stereo-pair images 
+projected in real-time on 3 walls and the floor.
+• VCEG’s research spans a range from 
+real-time computer graphics rendering to 
+human factors issues in virtual reality. A 
+common theme is to understand how to 
+make virtual reality effective. It does this 
+through experiments with participants, in 
+order to examine just what makes a differ -ence to their sense of presence in the virtual 
+environment, and their sense of co-presence 
+with other people.
+Barriers
+• Most of VECG’s legacy work has been core 
+funded from RCUK, and, whilst the Immer -
+sive Virtual Environments Lab acts as the 
+interface between UCL’s virtual research 
+activity and industry, public sector and aca -
+demia, to date there has been little promo -
+tion of industry collaboration.
+Opportunities
+A number of opportunities for VCEG to translate 
+its research into commercial applications of 
+immersive content exist, including:
+• Research on the issues involved in populating 
+virtual environments with crowds. This is not 
+only a technically interesting challenge, but 
+from experimental work with empty environ -
+ments, places without people don’t work.
+• Additionally, the group are very interested in 
+making virtual characters realistic, so that you 
+will want to engage with them. What makes 
+characters realistic: photorealism, geometrical -
+ly accurate, natural gestures and movements? 
+VCEG Immersive 
+Virtual 
+environments 
+Lab. Image credit 
+needed.]
+
+[PAGE 17]
+32  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 33
+AREA EXPERTISE
+South West and 
+South East WalesCreative content
+Aerospace, energy, education/sci -
+ence communication, wearable 
+technology. 
+Greater  
+ManchesterVirtual Engineering – prototyping 
+development and testing 
+Virtual connected workspace
+Midlands Transport Visualisation, Manufac -
+turing Environments
+East of England Creative applications/ content – 
+visual effects and gaming 
+Innovation South Virtual training environments 
+(orthopaedic, child protection)
+Creative content and Internet of 
+place
+Liverpool City 
+Region Virtual Engineering – range of 
+sectors, starting to link to hospi -
+tal/health setting6. POLICY DRIVERS OF BUSINESS 
+ENGAGEMENT - SCIENCE AND 
+INNOVATION AUDITS REVIEW
+Science and innovation audits (SIA) are independent reports, 
+intended to provide city and regional policy makers with an 
+evidence base for investment decisions. 31 SIAs15 have been 
+commissioned/chosen in three waves.  Wave one16 and two17 
+are complete; wave three18 have been chosen but have not yet 
+reported. The geographies for these do not align with LEP, LA 
+or devolved administration boundaries.  
+The first twelve audits are available for review and 
+there is some background information on the oth -
+ers which may indicate whether immersive tech/AI/
+AR/VR are likely to place a key part in the evidence.  
+Our review of the Science and Innovation Audits 
+helped to:
+• Identify areas which have expertise or aspi -
+ration around immersive technology, focus -
+ing on creative content, manufacturing and 
+health (mental health and medical training)
+• Document what these aspirations/areas of 
+expertise are
+• Identify what support is being offered for 
+businesses in the areas
+In terms of focus and amount of attention for im -
+mersive technology, the one stand-out audit is the 
+single SIA covering South West England & South 
+East Wales.  This identifies clusters of active busi -
+nesses, key research/support assets and future 
+plans for a VR Hub. Figure 7.  SIA review 
+of key immersive 
+technology expertise/
+assets Barriers
+• SIAs provide a useful round up of where the 
+immersive technology assets are; but contain 
+little about the aspirations of regions around 
+immersive technology.
+• Apart from South West England & South 
+East Wales, there is little evidence of areas 
+taking a strategic approach to supporting 
+immersive technology research or develop -
+ment. None of the other audits identify so 
+clearly how the opportunities for immersive 
+technology are being addressed regionally.  
+Opportunities
+There are clearly opportunities to link immersive 
+technology with the smart specialisations and 
+other market opportunities across a number of 
+sectors.  
+Digital Catapult could help plug gaps in thinking 
+around immersive technology in:  
+• Health technology – Leeds and Liverpool 
+city regions
+• Data driven innovation – Edinburgh and 
+South East Scotland
+• Advanced manufacturing – Sheffield city 
+region and Lancashire, Midlands
+• Operations and maintenance – North of 
+England and Scotland offshore renewable 
+energy consortium6.1 KNOWLEDGE TRANSFER  
+PARTNERSHIPS
+Whilst the growth of Immersive Labs and inno -
+vation centres is a healthy indicator of increas -
+ing business engagement, we also wanted to 
+understand how other formal knowledge transfer 
+mechanisms were being used to address barriers 
+in research. Our analysis of the current and com -
+pleted knowledge transfer partnership database 
+indicated there are 34 projects which are focused 
+around immersive technology. These projects 
+are spread between 29 universities with one or 
+two projects a each. Only the University of Essex 
+had three KTPs in this field. Six projects involved 
+Russell Group universities  - Queen’s University 
+Belfast (two projects); and the Universities of 
+Edinburgh, Manchester, Nottingham and York. 
+A third of the companies involved with KTPs are 
+micro businesses (less than ten employees) and 
+a third had between 10 and 49 employees - this in 
+parts reflects the aims and objectives of the KTP 
+programme and university knowledge transfer 
+policy of focusing on SMEs, as well as a reflection 
+of the make-up of the industry itself.  
+The pattern of KTP engagement reflects a wider 
+trend identified through other desk research and 
+interviews, that Russell Group universities could 
+do more to embrace knowledge transfer and 
+knowledge exchange to enable industry to engage 
+with and benefit from their research programmes 
+around immersive technology.  
+
+[PAGE 18]
+34  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 35
+We have used international case studies to add to 
+our understanding of:
+•  How immersive clusters outside the UK 
+have developed; is this ‘organic  growth’, a 
+response to the needs of a particular supply 
+chain, the result of state intervention and 
+state aid, or a combination of factors?
+• Whether there was evidence of effective 
+clustering; and what benefits that brought.
+• What elements went to make up the 
+immersive content and tech ‘ecosystem’ in 
+different places.
+• Whether individual clusters were more or 
+less focused on a shared ‘smart specialisa -
+tion’ in a way that enhanced their combined 
+productivity and competitiveness. Was there 
+evidence that places had developed tech -
+nology, processes or access to a particular 
+talent pool that was widely dispersed across 
+companies in the cluster in a way that gave 
+them a collective advantage in particular 
+product segments or market verticals whilst 
+raising the barrier to entry to competitors? 
+• Which barriers members of these other, 
+more mature ecosystems saw in research 
+and distribution of immersive content; and if they were taking steps to address them.
+• How active a role had been taken by local, 
+regional and national government in shaping, 
+growing and promoting immersive industries.
+• Whether any of these approaches offered 
+insight into how Digital Catapult and other 
+partners might help both suppliers and end 
+users of immersive content across the UK 
+address barriers to growth, increase compet -
+itiveness and improve productivity.  
+7.1 BRITISH COLUMBIA, CANADA
+BUILDING ON THE LEGACY OF GAMES 
+AND VISUAL FX
+Snapshot
+The Vancouver VRARA Chapter is the fastest 
+growing chapter in the world; it draws on the talent 
+base in Vancouver and the wider British Columbia 
+area in special effects, filmmaking and games. 
+The Vancouver Chapter has close to 200 VR/AR 
+companies and links well with other Chapters and 
+Tech clusters in Seattle and California. 
+Our case study is based on an interview with Dan 
+Burgar, Director of Business Development, Archi -
+act and President of VRARA Chapter Vancouver.7. INTERNATIONAL INSIGHTS
+The market for immersive content  is international. But the 
+complex and fast moving value chains around hardware, 
+applications, content and distribution mean that there is not 
+a “level playing field” for producers in all parts of the world. 
+Different places provide access to market opportunities that 
+are specific to their location; and there is also a question 
+about whether policy makers have attempted deliberately to 
+raise regulatory or tariff barriers to entry to “non-local” firms, 
+or have provided fiscal and other incentives to support the 
+growth of their immersive  content sector.Strengths
+• Entertainment content. British Columbia 
+(BC) has a 40-year history of growing its 
+media arts sector, and is home to some of 
+the largest special-effects companies in 
+North America. The Vancouver cluster is is 
+a world leader in 3D animation and visual 
+effects (VFX).  
+• Anchor companies - including Electronic 
+Arts, which hosts the world’s largest videog -
+ame test operation in BC.
+• More than 100 independent gaming studios 
+are located in Lower Mainland (central 
+Vancouver)
+• Strong data resources and culture of data 
+analytics - which initial grew from informa -
+tion about BC’s natural resources. Oppor -
+tunity for VR and AR to help turn this into 
+useful information that can be accessed 
+easily.  Visualisation can help to understand 
+these big data sources.  
+• Connection between VR and AR developers 
+and people working in different sectors, in -
+cluding extractive industries and manufactur -
+ing, presents opportunities for wide ranging 
+impacts that generate demand for a range 
+of immersive content, and that can in turn 
+transform many different industries.  
+• Development of the Digital Technology 
+Supercluster: a $200m CAD investment 
+from Canadian government, in partnership 
+with with more than 200 companies and 25 
+universities, underpinned by engagement of 
+technology giants, which aims to leverage 
+$500m CAD private sector and VC invest -
+ment into the area.  
+ENTERTAINMENT CONTENT
+The Vancouver immersive ecosystem is con -
+tent-driven and enterprise led. Games and VFX 
+have been here for decades and those skills are 
+directly transferable into immersive content.  
+Metro Vancouver’s media-arts sector has been gathering momentum for more than 40 years. 
+In 1977, the B.C. government established a film 
+development office to promote the province to the 
+Hollywood community. Now known colloquially 
+as Hollywood North, the region is home to some 
+of the largest special-effects stages in North 
+America, and is recognised as a world leader in 3D 
+animation and visual effects. Interactive entertain -
+ment, too, is a big draw for international talent. 
+Anchor companies include EA, which created 
+its EA Canada wing just outside of Vancouver in 
+1991. It houses the world’s largest videogame test 
+operation; and more than 100 independent gam -
+ing studios call the Lower Mainland home.
+DATA ANALYTICS AND VISUALISATION
+That creative foundation is a great resource, but 
+it’s a more esoteric aspect of Metro Vancouver’s 
+history that makes its VR and AR industry versa -
+tile. Stacked with companies like Crystal Decisions 
+(now a part of SAP) and branches of Microsoft 
+and Amazon focused on data analytics, the 
+Vancouver area has an aptitude for record-keep -
+ing that also offers a goldmine of information 
+for up-and-coming businesses. British Columbia 
+has always been very strong at collecting data, 
+particularly industrial data from its extractive 
+industries. BC enjoys the benefits of a plethora of 
+information that is tied to natural resources: from 
+satellite imaging to radar information to sensors 
+that are gathering information from the Internet 
+of Things. Additionally, there is a mass of medical 
+data -  MRI images, CAT scans, and everything like 
+it - amassed over 30 years.
+These data sets are so voluminous they are 
+almost impossible to navigate, and so they need 
+visualisation to be able to understand them. VR 
+and AR helps turn this “treasure trove of data in 
+the province” into useful information that can be 
+accessed easily and manipulated by people with -
+out specialist skills. 
+
+[PAGE 19]
+36  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 37
+ENTERPRISE APPLICATIONS 
+With its strong connections between VR and 
+AR developers and professionals in different 
+sectors, Vancouver has carved a niche in the 
+business-to-business space. Advancements in 
+firefighting techniques, architectural design, and 
+visualising oil pipelines are a few of the many ide -
+as currently in development by local companies. 
+Niche applications in advanced manufacturing, 
+like those demonstrated by outfits like Finger 
+Food (see below), have the  potential to transform 
+industries, and will drive VR and AR adoption by 
+businesses around the globe.
+BUSINESS INCUBATION
+The Cube is an incubator for the region’s VR and 
+AR businesses, offering workshops and training 
+from local education hubs such as BCIT, as well 
+as speaker sessions on topics like how to raise 
+capital. It provides early-stage companies with a 
+grounding and access to the partnership-ready 
+Cascadia Innovation Corridor: the swathe of land 
+that connects Metro Vancouver to tech goliaths 
+Amazon and Microsoft in Seattle. 
+Barriers
+• There are active angel funding networks in 
+Vancouver and across Canada. But most 
+growth funding is still coming up from 
+Silicon Valley. 
+• For entertainment content: lack of a mass 
+market platform, or device, or combination 
+of the two, for VR experiences.
+Opportunities 
+• Generous funding and grant initiatives for VR 
+and AR companies.
+• Formal and  large scale support for devel -
+opment of the cluster. British Columbia has 
+just been guaranteed $200m CAD in Federal 
+Government support for developing its “dig -
+ital technology supercluster”. The regional bid included more than 200 companies and 
+25 universities, research institutions and 
+post-secondary institutes.. One of its objec -
+tives is to leverage an additional $500m CAD 
+from angel investors into a “Supercluster 
+Fund”
+• The supercluster aims to use technology to 
+help create personalised gene-based cancer 
+treatments; to improve geological data use 
+to improve resource sector projects; and 
+to create a “teaching hospital for advanced 
+manufacturing”, through use of virtual reality. 
+• The ability to access cross-platform op -
+portunities reduces the risk in distribution 
+of entertainment and education software 
+for BC-based companies. The recognised 
+expertise of the cluster means that hardware 
+companies such as HTC, Oculus, and Sam -
+sung look to Metro Vancouver companies, 
+such as Archiact, to create games and busi -
+ness programs to run on their gear, and to 
+develop flagship apps for yet-to-be released 
+headsets. Archiact developed a game for 
+Samsung’s Gear VR and Google Daydream 
+called Hidden Fortune. 
+• Collocation of hardware and software devel -
+opers benefits  companies within the cluster. 
+The Microsoft Hololens, developed in the 
+tech giant’s Vancouver office, is the platform 
+for Vancouver-based Finger Food Studios’ 
+program for vehicle manufacturers to create 
+trucks in augmented reality. The software 
+lets users add, resize, and change parts of 
+the 3D model simply by moving their fingers 
+in front of the glasses. Previously, vehicle 
+design involved cutting a life-size model out 
+of clay: a process which took six months. 
+Finger Food’s technology slashes that time 
+to three days.
+• BC’s large extractive industries have pre -
+sented an opportunity both for indigenous 
+companies and inward investors. RealWare , 
+which creates wearable specialised clothing 
+for industry purposes, such as building site helmets with AR visors that allow users to 
+view information and instructions while on 
+the job, recently relocated its HQ from SIli -
+con Valley. Vancouver-based LlamaZOO has 
+created software that simplifies the design 
+of new mines by enabling a huge amount of 
+data in different formats to be pulled togeth -
+er in a single visualisation that is accessible 
+to people with a range of specialisms, and 
+none.
+SHANGHAI, PEOPLE’S REPUBLIC 
+OF CHINA
+BASED ON AN INTERVIEW WITH 
+ALLEN FOO, FOUNDER & CEO, UCCVR  
+(“ULTIMATE CREATORS CREATE  
+VIRTUAL REALITY”)
+ 
+Snapshot
+There are around 1,000 decent immersive compa -
+nies in China - mainly clustered around Shanghai, 
+Beijing and Shenzen. There are 30% fewer compa -
+nies in immersive technology in China since 2015, 
+reflecting market consolidation. The virtual reality 
+industry started in China around 2013, with with 
+hardware vendors gaining finance and traction. By 
+2015 activity was focused on software companies 
+applying the technology to games and enterprise ap -
+plications. Now,it is hardware companies are looking 
+to exit after their second or third round of funding.
+UCCVR is an incubator and investment fund 
+in Shanghai, with operations in Chengdu and 
+Singapore.  UCCVR hosts 30 VR meetups a year 
+for developers and has 900 staff in Shanghai.  It is 
+one of the key investors in immersive technology 
+in China, channelling funds from venture capital -
+ists, mainly based in Beijing. It provides incubating 
+businesses access technical specialists in house 
+to support their incubation companies and links to 
+Shanghai University of Engineering Science.Strengths
+• Established cluster and industrial base 
+• Incubator provides access to VC and techni -
+cal support 
+Barriers
+• Difficult to find funding for new creative 
+content
+• Fragmentation of platforms and devices for 
+distribution of content
+Opportunities
+• Fragmentation of markets for immersive 
+content is not a concern to the cluster. 
+There are vast opportunities for for the new 
+experiences, learning and enjoyment that 
+audiences and clients will pay for - it is a 
+matter of when not if.  
+• It is  expanding in the second tier clusters 
+in China: seeing more opportunity in a less 
+populated market (in terms of immersive 
+companies) in places like Chengdu and 
+Hangzhou. This includes establishing an 
+incubation centre in Chengdu, backed by the 
+local government, which will be ready at the 
+end of 2018. 
+• Chinese government Innovation Voucher 
+scheme for 25% of project costs accessed 
+by some companies.  
+• Government backing for incubation centre 
+in Chengd7. International Insights
+
+[PAGE 20]
+38  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 39
+BARRIERS TO BUSINESS SUPPORT 
+AND CLUSTER GROWTH  
+One of the strong themes from regional UK clus -
+ters is the challenge of being connected with  
+London . Often these clusters feel detached from 
+the London supply chain and London-based na -
+tional sector support. A number of clusters report 
+that local small and medium sized businesses are 
+not connected to the Digital Catapult or Innova -
+teUK  in a meaningful way.
+Opportunities for showcasing are seen as a very 
+important driver for growth. The lack of  
+showcasing events for UK clusters nationally and 
+internationally was consistently mentioned as a 
+barrier.  Showcases which exist have a London fo -
+cus, leaving some of those outside London feeling 
+they have little influence and less opportunity to 
+make their work visible.  The lack of a showcase 
+of immersive content from across the nation 
+hampers the international market development 
+potential of businesses in the nations and regions.
+Some regions have a poor impression of existing 
+support from the Digital Catapult and InnovateUK - either because of geographical remoteness, 
+lack of understanding of the impact of devolution 
+on opportunities for growth, or a combination 
+of these. Respondents reported a preference 
+for support based on personal connections with 
+individuals based in the region.
+The idea that the London HQ is an accessible 
+resource for companies in other parts of the 
+country is not universally accepted: 
+“A London-based centre is not servicing East 
+Midlands.”
+Faith Blakemore, ex-Nottingham City Council
+Nottingham City Council has developed a menu of 
+what support it would like from Digital Catapult:
+• Support around financing, and for investors.
+• Commitment to a platform for communi -
+cation of opportunities/initiatives, including 
+those of other Catapults and InnovateUK 
+that present opportunities to immersive 
+suppliers and researchers.
+• Coordination and support for networking: 
+locally in the city and region; and with the 
+wider UK immersive cluster. 8. BARRIERS
+This chapter discusses the barriers to the growth of the UK’s 
+immersive content landscape in the following areas:
+• In business support and cluster growth
+• In research, knowledge exchange and skills
+• In infrastructure
+• In distribution
+• In international collaboration and promotion of  
+exports and inward investment
+• In policy• Sharing of research findings.
+• Workshops on design techniques for immer -
+sive content.
+• Round table on developing smart specialisa -
+tion within the cluster.r.
+The lack of physical engagement with the Digital 
+Catapult  is particularly notable in the discussions 
+with the South Wales and Scottish clusters; which 
+highlights the importance of having a tailored 
+approach to each of the devolved nations.    
+BARRIERS IN RESEARCH,  
+KNOWLEDGE EXCHANGE AND 
+SKILLS
+Although many of the clusters had good interac -
+tion between higher education and enterprise, a 
+lack of opportunities for collaborative R&D is hold -
+ing some developments back. In some areas HEIs 
+do not partner with local immersive businesses, 
+leaving local clusters without a connection to 
+cutting edge research. In other areas, there ap -
+pears to be a lack of appetite from local firms, as 
+it has been reported that at knowledge exchange 
+events there are more academics than people 
+from business.  Whatever the cause, this results 
+in suboptimal levels of knowledge transfer and 
+exchange. There is not enough dissemination of 
+projects both at fundamental research stage and 
+development stage amongst companies that are 
+working directly within different supply chains.
+• Russell Group universities are perceived to 
+be less keen to promote their research and 
+services - already engaged with ‘tier 1’ com -
+panies in their respective supply chains - but 
+this means that there is an unknown amount 
+of knowledge that may not be effectively 
+transferred between research centres and to 
+immersive suppliers and end users.
+• Redbricks and post-1992 HEIs have adopted 
+an ‘Avis’ strategy - “we try harder” - with 
+more evidence of industry engagement and knowledge transfer.
+• Still very low levels of take up of formal KTPs 
+- only 34 in total - no institution has more 
+than three immersive KTPs  
+Discussion with researchers in Nottingham 
+reflected concerns expressed in Manchester that 
+there is not enough QA of what is being produced: 
+a lot of businesses are diversifying from games, 
+media, film into immersive tech because their 
+clients are requiring it. The need to extend their 
+skillset at all levels (as there aren’t enough people 
+with those skills, particularly in lower grades) goes 
+beyond just coding and UX into the understanding 
+needed to establish a use case and benefits for 
+medical applications of all kinds, e.g.:
+• How do you create an environment that a 
+human can accept?
+• What precedents in research, design, trials 
+and testing do suppliers need to be aware of 
+before approaching clinical end users?
+• What skills are needed? Ethics, sociology, 
+psychology?
+• What regulatory and approvals regimes 
+may apply?
+Universities are not yet up to speed with the skills 
+requirements of immersive suppliers and large 
+companies who are developing their own immer -
+sive teams. This is exacerbating gaps and short -
+falls in digital talent experienced across the UK.
+In the games industry, testing was always viewed 
+as an alternative way in for people with lower 
+levels of formal qualifications. QA could therefore 
+become a way to increase diversity in the immer -
+sive workforce - but at present, neither awareness 
+of the opportunity nor the apprenticeship frame -
+works exist to promote this.
+
+[PAGE 21]
+40  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 41
+BARRIERS IN INFRASTRUCTURE
+REGIONAL AND NATIONAL SUPPORT
+Many respondents felt they could have better 
+recognition and support  from national and local 
+governments and LEPs. One cluster felt that 
+immersive technology was not a priority for their 
+LEP, leaving it without a route into local funding.  
+Cluster development is uneven, and some areas 
+would benefit from the connectivity of other areas 
+to venture capital, high quality research base and 
+connections with the big technology players. 
+DIGITAL INFRASTRUCTURE AND 5G
+Digital connectivity seems not to be an issue for the 
+supplier businesses and research centres we have 
+spoken to - it’s now a ‘basic hygiene factor’ that any 
+content production business will address in their 
+choice of premises. However, this is not necessarily 
+the case for all end user businesses. Whilst recent 
+policy shifts to promote “full fibre” connectivity (as 
+opposed to variants of copper-based technologies 
+such as VDSL or Virgin Media’s proprietary DOCSIS 
+3.0 standard) will see more businesses access sta -
+ble, symmetric connections, at present only 3.5% of 
+UK premises can access this level of service.19 This 
+may prove a barrier to take up of applications such 
+as virtual conferencing for businesses - or lead to 
+disillusionment with the service if companies try 
+to use similar applications without understanding 
+the level of connectivity required. It may also affect 
+the growth of immersive MMOs already under 
+development.
+The problem may arise with technical distribution 
+and architectures, as much as, if not more than, 
+physical infrastructure. There is a view that  the 
+proposition for 5G relies heavily on anticipated 
+demand for AR/VR, but the architectures are not 
+fit for purpose and latency is likely to be a big prob -
+lem. High Performance Computing offers some 
+solutions but none that are obvious and scalable 
+at this point. BARRIERS TO THE UPTAKE OF  
+IMMERSIVE TECHNOLOGY
+There are still technological barriers to end user 
+adoption of immersive technology - the heavy 
+wearable, tethered technology can be problem, 
+particularly for some consumer focused applica -
+tions.  There remains a concern that VR can lead 
+to nauseousness, and there are concerns about 
+hygiene implications of sharing headsets or other 
+immersive technology. There are unknowns: how 
+might audiences be affected biologically, socially, 
+emotionally or psychologically by being immersed 
+in content?
+For as long as the business model is unclear, and 
+as has been observed before at the early stage 
+of other digital content advances (such as mobile 
+applications), investors may give preferential treat -
+ment to tech rather than content propositions. For 
+example, Samsung, which has a VC arm based 
+Berlin, is looking to invest in early-stage immersive 
+software companies - but not in creative content. 
+With many parallels to the development of the film 
+industry, where Hollywood’s superior market pow -
+er is built primarily on ownership of international 
+distribution but also on its investment in new IP 
+to populate those distribution channels, some 
+investors (both in Europe and China) predict that 
+the reluctance of Asian players such as Samsung 
+and HTC to invest directly in content will hand the 
+advantage in standardisation of homologation of 
+technical standards for distribution and hardware 
+to the US-based giants. There seems to be a 
+paradox here that only once that monopsonistic 
+position has been reached, offering consumers 
+access to most of the available content through 
+a single platform, which will then be the subject 
+of competition from content creators looking for 
+their content to be purchased for distribution on it, 
+will levels of uptake rise.BARRIERS IN DISTRIBUTION
+In all sectors, there can be a mismatch between 
+people’s expectations of an immersive experience 
+and what is being developed. In some cases, this 
+is expressed as unrealistically high expectations 
+of quality, making development costs and risks 
+prohibitive for SMEs; and in other cases attributed 
+to consumers not being aware of the rapid pace of 
+development and having low expectations.  
+At the moment, the return on investment in pro -
+ducing immersive creative content (particularly VR 
+games) is uncertain - similar to the early days of 
+mobile applications. Fragmentation of the market 
+results in confusion around hardware compati -
+bility and distribution platforms , leading some 
+developers to hold off projects until the position 
+becomes more certain.
+“Suppliers are waiting for the equivalent of the app 
+store” 
+Ben Trewhella, Opposable VR
+BARRIERS TO INTERNATIONAL  
+COLLABORATION AND DISTRIBUTION
+Magnified by fragmentation - eg, there is no single 
+business model for international co-production 
+of immersive content in the way that would apply 
+in film and television; regulatory differences and 
+access to international test audiences in sectors 
+such as medicine and education may mean that 
+slutions developed in UK are not directly scalable.
+The extent to which the monopsony in creative 
+content markets anticipated by some investors 
+will arise may accentuate  barriers to distibution of 
+UK immersive content - given that the assumption 
+is that the ‘winner’ of the standards ‘war’ seems 
+unlikely to be a British company - is hard to judge: 
+the UK film production sector, for example, has 
+proven remarkably resilient and adaptable whilst working in a market where distribution opoortu -
+nities are overwhelmingly controlled by a small 
+number of US-owned companies. 
+But otherwise, barriers for creators of immersive 
+content for all market verticals are similar to those 
+faced in any other sector:
+• Most suppliers are micro enterprises
+• Language
+• Culture
+• Different end user kit
+• Different data standards and IP protection
+• Cost of establishing a foothold in other 
+markets
+BARRIERS TO EXPORT GROWTH
+Outside the US, where historic distribution 
+relationships for entertainment content and a 
+shared language go some way to compensate for 
+the superior market power of US producers and 
+distributors, the scale of the Chinese domestic 
+market makes it of interest to many immersive 
+content suppliers. However, China’s ability to make 
+better technology, particularly hardware, more 
+quickly and cheaply is a barrier to attracting in -
+vestment for UK companies, as are the UK’s cost 
+base and capabilities . Chinese hardware and soft -
+ware firms are more likely to commission and pilot 
+new work from local providers; without control of 
+channels of distribution, or any price advantage, 
+UK companies are going to have to rely on tradi -
+tional strengths of strong IPs (particularly those 
+associated with recognisable, global brands) to 
+enter that market. Despite those high barriers, 
+there remain a number of significant companies 
+keen to explore the market opportunities in China, 
+particularly for the application of immersive 
+around a particular market vertical. However, key 
+barriers to developing these opportunities are  lack 
+of information about legislative, regulatory and 
+standards requirements for the Chinese market.  8. Barriers
+
+[PAGE 22]
+42  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 43
+BARRIERS IN POLICY AND  
+SUPPORT
+There is also a question about whether the most 
+appropriate support measures should reflect 
+those designed for ‘tech’ or ‘creative’ sectors? Al -
+though many suppliers come from other creative 
+industries disciplines, many of the most acces -
+sible market opportunities are in sectors other 
+than entertainment content and creative services. 
+Therefore support needed to grow immersive 
+content markets may not be a good ‘fit’ for current 
+policy to support collaborative R&D for those end 
+user industries.
+We have pointed out similarities between estab -
+lished models for distribution of film content and 
+the emerging picture for immersive. Tax breaks 
+for investment in UK film production have helped 
+underpin and drive growth in the sector; but it is 
+not clear how these may be extended to offer the 
+nascent immersive entertainment content sector 
+both protection and encouragement at this point, 
+where distribution models and industry-standard 
+agreements have yet to be agreed. At this stage, 
+our feedback is that small grants for creating 
+content, rather than open calls for projects, would 
+better support creative content suppliers and 
+content publishers in testing market opportunities 
+and exploring distribution channels.
+This confusion is reflected in some existing eco -
+nomic development strategies. Immersive content 
+and technology is not clearly identified in many 
+Science and Innovation Audits, Local Economic 
+Partnership or Combined Authority strategies - 
+and where it is, may be bundled with AI, IoT and 
+Smart Cities as an ‘enabling technology’ in a way 
+that is not necessarily conducive to growth of 
+the immersive content sector. The low number of 
+immersive-specific KTPs reflects a concern about 
+over-reliance on tech transfer as a way to address 
+barriers in research - at the expense of knowl -
+edge exchange, which may offer a more agile 
+means of raising levels of technical competence across a fast-moving and fluid sector. From the 
+creative arts side, there is clearer understanding 
+of knowledge exchange -based approaches than 
+those based on more formal ‘Tech transfer’ ; and 
+more evidence that partnerships between creative 
+SMEs, universities and end users can both invest 
+in the discovery of new knowledge and content 
+at the same time as testing it in a real world 
+application.
+GEOGRAPHICAL BARRIERS
+Although many places we studied have only 
+‘proto-clusters’ with small numbers of specialist 
+agencies, there is consensus across the nations 
+and regions Digital Catapult, and InnovateUK more 
+widely, need to work more closely with local part -
+ners to embrace place-specific strategies and ap -
+proaches to reflect the ambition of cities and city 
+regions across the UK. This work needs to be sus -
+tained, and look more like accounts management 
+than an events strategy: it should build networks 
+and capacity of ‘organic’ immersive clusters. If 
+successful, it would deliver against the priority of 
+‘rebalancing’ the UK economy, both spatially and 
+sectorally, expressed in Industrial Strategy.
+ KEY THEMES
+• Content showcases and lab facilities for 
+regions and nations.
+• Review of the way in which Digital Catapult 
+and ImmerseUK combine to deliver network 
+support. 
+• The role of city, regional and national admin -
+istrations in nurturing immersive clusters.
+• Platform interventions - Audiences of the 
+Future and beyond.
+• HEI expertise in research design and proof of 
+concept, as much as high performance com -
+puting and computer science capability, can 
+reduce cost and risk of development.
+• Can we use fiscal and regulatory measures 
+to help underpin and accelerate groth of the 
+UK immersive content sector as part of a 
+mixed economy model?
+9.1 CONTENT SHOWCASES AND 
+LABS FOR REGIONS AND NATIONS 
+Although it is not clear that the presence of an 
+accessible local research centre or immersive lab 
+is directly correlated with growth of clusters, most 
+places that don’t have some kind of hub facility 
+seem to want one - although their needs differ.
+ These could take several forms:
+• Local labs, such as Bristol’s VR Lab, offering 
+access to development hardware and soft -
+ware whose rapid development (and obsoles -
+cence) otherwise represents a significant risk 
+for SMEs; and providing preferential access to 
+industry data sets and university intellectual property to allow for rapid prototyping and 
+commercialisation of new products.
+• Smaller, content focused projects, such as 
+BBC R&D’s proposed Object Media Lab, that 
+explore how object-oriented programming 
+concepts can be translated into scalable 
+production techniques for commercial 
+development of immersive entertainment 
+applications - opening up the opportunities in 
+immersive content to more web-based agen -
+cies, rather than relying on adapting methods 
+from film and television.
+• Regional/national demonstrators - large scale 
+technical facilities that are both used to push 
+the boundaries of research into standards, 
+hardware, and distribution, whilst promoting 
+existing immersive product.The HVMC shows 
+that providing taste and test access to Virtual 
+Reality Headsets, Augmented Reality Smart 
+Glasses, full motion rigs and CAVE systems 
+has enabled larger corporations and SMEs to 
+make purchasing decisions. This offer could 
+be extended into centres offering large screen 
+technologies and/or untethered experiences 
+(eg holographic displays), and large scale real -
+ity capture facilities, alongside access to the 
+latest consumer hardware.
+• Portable VR Cave environments could make 
+good additions to Digital Catapult Immersive 
+Labs to lend out. They are a good middle 
+ground to engage staff who have mixed levels 
+of digital literacy. For some products, such as 
+training content developed by the HIVE, the 
+opportunity to demonstrate it to industry in a 
+facility nearer to potential clients, or to have a 
+hireable facility for training of existing clients, 
+would allow a scaling up of that business.9. OPPORTUNITIES
+This chapter discusses the opportunities emerging from the 
+key themes identified by this study, and the barriers identified 
+in the previous chapter.
+
+[PAGE 23]
+44  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 45
+For cities such as Manchester and Nottingham, 
+with access to diverse academic resources and 
+industry partners, the challenge seems to be more 
+about how physical centres can promote the city 
+region and its businesses to overseas investors 
+and customers than giving SMEs access to devel -
+opment environments and tools. 
+These options require further study to establish 
+their feasibility and viability - for example, there are 
+challenges to the idea that the public purse should 
+subsidise the creation of further large-scale reality 
+capture facilities when they are available both 
+commercially and through the Dimension Studio 
+in South West London.
+9.2 NETWORK SUPPORT
+Some reported barriers are attributable to the kind 
+of communication failures and knowledge asym -
+metries around forms of support that already 
+exist; an imbalance common amongst dispersed 
+and early stage sectors. There was a lack of clarity 
+about the purpose of ‘immersive labs’ of different 
+kinds, and about how to access them. Im -
+merseUK’s capacity, resource and role was poorly 
+understood in some quarters, and not recognised 
+at all in others. Two stated ‘gaps’: a national net -
+work for sharing of opportunities and knowledge 
+from projects and research, and matchmaking 
+content creators with SMEs in all market verticals 
+that have a demand for immersive content - are in 
+scope of ImmerseUK’s remit. We would identify 
+these rather as a question about the ideal mode of 
+its delivery.
+OPPORTUNITIES - BUSINESS AND  
+SECTOR GROWTH
+Overall, the world of immersive technology is still 
+relatively small, therefore cross-UK networking, 
+collaboration and coordination should be possible.   
+It is essential to balance the need for regional clus -tering with the economies of scale of providing 
+high quality facilities on a national scale. Providing 
+facilities and easy access to them is important 
+for regional businesses, but local policy makers 
+may also argue the case for additional centres for 
+investment promotion purposes. Further work is 
+needed to establish how this wider network could 
+best be achieved, and what capability is most 
+relevant to the needs of each local immersive 
+content cluster.  
+Collaboration with large firms is starting in some 
+places - for example Airbus and PTC in Bristol.  
+However more could be done across other areas 
+to connect some of the potential larger-scale 
+industrial commissioners of immersive content 
+with developers.  
+There are opportunities to build on existing 
+research expertise for the UK to become expert in 
+research in some of the key adoption barriers such 
+as immersive equipment hygiene; biological, social, 
+emotional, ethical and psychological impacts.  
+9.3 OPPORTUNITIES - CITY AND  
+REGIONAL CLUSTERING
+National agencies should not expect to shoulder 
+the burden alone. There is an opportunity for 
+devolved administrations, Metro Mayors and local 
+figureheads from HE and industry to ‘amplify’ the 
+immersive sector, highlighting its growth opportu -
+nities and encouraging investment.  
+Each geographic area has specific opportunities 
+relating to its own context. These include:
+• Bristol:  Using the 5G testbed for further R&D 
+into untethered immersive experiences. 
+• Nottingham : Utilising existing Higher Edu -
+cation links with China to establish business 
+connections around immersive technology 
+there through showcasing.
+• South Wales : Exploring language and trans -9. Opportunities
+lation in immersive content, fuelled by dual 
+language requirement for content.  
+The place of immersive content and technology, 
+and fostering “smart specialisation” that optimis -
+es local capabilities and opportunities, could be 
+elevated in local strategies and plans.  
+While it is important to foster strong connections 
+between businesses in close proximity, there is 
+an opportunity to link up clusters outside London 
+to each other, to national agencies, and to provide 
+more collaborative opportunities for developing 
+projects, showcases and research.  
+ANCHOR INSTITUTIONS
+We recognise that it is unrealistic to expect that 
+Digital Catapult should have a facility in every 
+city in the UK, or even a relationship manager 
+in every emerging cluster. But we observe that 
+HVMC’s model of a network of regional labs and 
+centres encouraged to cooperate and collaborate 
+offers an anchor institution for the development 
+of a national network for distributed technology, 
+innovation and content development support. 
+This is a good model for how a network of Digital 
+Catapult Immersive Labs and clusters across the 
+whole of the UK could work together to benefit 
+the UK’s immersive content market. There is an 
+opportunity for Digital Catapult and ImmerseUK to 
+work with, and through, other anchor institutions, 
+whether that is other Catapults’ Labs, HEIs, City 
+Councils/Combined Authorities, multimedia arts 
+centres or commercial partners, to provide both a 
+networking, matchmaking and physical presence 
+in diverse communities across the UK.
+This network could deliver other specific benefits 
+identified by interviewees:
+• Empowering organic clusters to address 
+their gaps and become better organised 
+through funding.Case study - BBC R&D
+BBC Wales’ role as an anchor institution in the content produc -
+tion sector presents some specific opportunities to the growth 
+of the immersive sector in South Wales. At present, BBC is 
+piloting immersive projects rather putting out commissions for 
+content - but that will change shortly. BBC R&D is developing 
+proposals for an Object Media Lab, an experiment in developing 
+television content using object oriented programming methods 
+familiar from web production. This is likely to favour immersive 
+suppliers, whose workflows tend to resemble those of the 
+web rather than traditional broadcasting. This forms part of a 
+consortium bid with Cardiff University for a £9m, AHRC-funded 
+Creative Industries Cluster.
+• Expanding the role of ImmerseUK to create 
+a national matchmaking, and opportunities 
+and knowledge sharing network for a range 
+of end users of immersive content.
+• Focusing research on audio, haptics, 
+olfactory developments and psychological, 
+biological, social, emotional, ethical and 
+hygiene impacts and benefits.
+• Establishing demand and feasibility for ad -
+ditional large-scale reality capture facilities 
+to service content producers and end users 
+outside London.
+9.4 PLATFORMS
+Whilst it is unsurprising that a sector made up 
+predominantly of SMEs should focus on their ability 
+to access support and technology more locally and 
+more easily, feedback from private investors focuses 
+on the need for large scale, strategic interventions.
+The rationale is clear: 
+• The US ‘Big 5’ (Alphabet, Amazon, Apple, 
+Facebook and Microsoft) are each investing 
+more than any single government pro -
+gramme in the UK could manage.
+• It seems likely that this will result in US 
+companies determining the standards 
+
+[PAGE 24]
+46  Title of report goes here   Document type here 2018 Title of report goes here   Document type here 2018 47
+for hardware and owning the distribution 
+mechanisms for immersive tech. This is 
+analogous to the way in which the US exerts 
+superior market power in the film industry: 
+whilst its investment in IP is significant, the 
+global distribution networks built up by a 
+handful of major studios over more than 100 
+years is the reason we see a disproportion -
+ate amount of US product on our cinema 
+and TV screens.
+• The interest of smaller nations is best served 
+by establishing their value proposition in this 
+marketplace, and by then being prepared to 
+invest in a strategy that secures competitive 
+advantage in that area for their businesses 
+and research institutions.
+Examples of platform interventions could include:
+• Big data is an underdeveloped and underused 
+resource. Our case study of the Digital 
+Technology Supercluster around Vancouver 
+provides evidence of the enormous value of 
+access to large datasets to both the immer -
+sive sector and end user industries. Individual 
+HEIs (Bristol, Nottingham) are working locally 
+in this way to provide access to datasets for 
+SMEs - but there is opportunity for a national 
+programme to take advantage of huge 
+industrial datasets (in the same way in which 
+the British Columbia cluster has worked with 
+extractive industries) and the large amount of 
+undeveloped IP in the university sector.
+• Untethered experiences  may well reduce 
+the friction of the immersive content expe -
+rience and supersede current standards 
+debates around consumer hardware. The UK 
+doesn’t have a stake in the ‘VHS vs Betamax’ 
+tussle over HMDs and AR goggles - but 
+could take a lead here, building on prece -
+dents established by mixed reality produc -
+tions such as the RSC/Imaginarium/Intel 
+collaboration on ‘The Tempest’.
+• Immersive MMOs  may be the best way to test standards and technical architecture for 
+5G networks ‘at scale’. Watershed’s engage -
+ment with Bristol’s DCMS-backed 5G testbed 
+is an encouraging precedent for engagement 
+of immersive content producers in piloting 
+and testing new standards; and  Cam -
+bridge-based Improbable VR, which benefits 
+from a $500m VC investment and commis -
+sion from Jagex for just such a product, could 
+be part of a platform for further R&D.
+The InnovateUK Audiences of the Future com -
+petition potentially presents an opportunity to 
+pilot and shape some of this thinking, but the 
+suggested levels of investment may be too low to 
+sustain a major platform intervention of the kind 
+outlined above.
+9.5 BUSINESS ENGAGEMENT WITH 
+THE KNOWLEDGE BASE
+This overlaps in some way with the ‘big data’ plat -
+form outlined above; but also has a more specific 
+focus on the expertise within universities.
+Feedback from consultation suggests that, in 
+markets as varied as medical training, offshore 
+energy and MMOs, access to university expertise 
+in research design and proof of concept, as much 
+as high performance computing and computer 
+science capability, can reduce cost and risk of 
+development for SMEs. 
+From end-users, we also heard strongly-ex -
+pressed concerns about the need for immersive 
+content companies to develop better understand -
+ing of other industry sectors - including, but not 
+limited to, medical use cases and research design, 
+to avoid alienating healthcare delivery agencies 
+and practitioners. This is an area in which greater 
+coordination between universities, of the various 
+Catapults and sector specialists within Innova -
+teUK could lead to development of a knowledge 
+exchange platform (possibly as part of Audienc -9. Opportunities
+es of the Future) that could establish scalable 
+processes for testing and adoption of immersive 
+content within other sectors.
+We have observed that the willingness of univer -
+sities to actively engage with immersive content 
+producers - in particular, with SMEs - is inversely 
+correlated to the institution’s research ranking.
+Our previous work on RCUK-funded attempts to 
+help open out HEI resource to small creative busi -
+nesses, such as the AHRC Knowledge Exchange 
+Hubs, tells us that there are some powerful dis -
+incentives and intended consequences for some 
+academics - particularly early-career researchers 
+- to engage in work which doesn’t result in publica -
+tion or new IP for the institution. Publicly-funded 
+research and the ability to apply it to real world sit -
+uations is in plentiful supply across the HEI sector: 
+but the ways to make that available to SMEs are 
+less clear. Steps that may help unlock it are:
+• A focused, large-scale survey of HEI collab -
+orative R&D and knowledge transfer activity 
+around immersive content.
+• A review of IP rules to ensure that HEIs are 
+(better) incentivised to open out their intellec -
+tual property to SMEs, rather than to sit on it.
+• Establishing incentives, measures, and 
+rewards for institutions and academic staff 
+to engage with the development of immer -
+sive content within research and knowledge 
+exchange framework assessments.
+9.6 FISCAL AND REGULATORY 
+INTERVENTIONS WITHIN A MIXED 
+ECONOMY MODEL
+The success of the UK’s creative industries - con -
+sistently the fastest-growing sector of the economy 
+over a sustained period - highlights the effective -
+ness of a ‘mixed economy’ model in helping (par -
+ticularly SME) producers take risks in development 
+of IP that have a very positive long term return on 
+investment for businesses and taxpayers alike.At this early stage of the immersive content 
+sector, it seems probable that the UK will not 
+‘own’ the main distribution channels, certainly 
+for creative content. It is therefore appropriate to 
+review whether existing fiscal interventions - such 
+as tax breaks for original UK film and games con -
+tent  - can legitimately be extended to immersive 
+content, to stimulate production and attract for -
+eign direct investment to the sector; and whether 
+non-market distorting regulation in other market 
+verticals, such as construction, energy, manufac -
+turing and medical training, could help incubate 
+local immersive supply chains?
+ 
+POSTSCRIPT -  
+TECHNICAL REPORT
+The conclusions drawn in this summary are based on a 
+wealth of detailed quantitative and qualitative evidence 
+compiled over a four month period between November 
+2017 and March 2018. For reasons of commercial confi -
+dentiality, it is not possible to treat this as ‘open data’ nor 
+to attribute all findings to an individual or corporate source.
+Therefore additional detail is provided to Digital Catapult in 
+the form of a Technical Report which includes:
+• The database of immersive suppliers built up 
+through iterations of desk research and AI-based 
+web search
+• Databases of public R&D grants and private invest -
+ment in immersive 
+• Additional GIS maps of businesses, research cen -
+tres, private investment and public sector grants 
+for research and development
+• More in-depth analysis and mapping of individual 
+cities and clusters
+• Further company case studies 
+• Detailed analysis of Science and Innovation Audits 
+and Knowledge Transfer Partnerships relating to 
+immersive content and technology.
+
+[PAGE 25]
+48  Title of report goes here   Document type here 2018FOOTNOTES
+1.  DCMS (2018). Culture is Digital.
+2.     Check reference
+3.     Copy of keywords provided in accompanying Technical 
+Report
+4.  Zwillenberg, P . et al (2014). Building A Digital City. London:  
+ Boston Consulting Group. http://mikebloomberg.com/files/ 
+ Building-Digital-City-London.PDF 
+5. Community Attributes Inc. (2016).  Washington Interactive  
+ Network Interactive Media Industry Assessment: Discussion  
+ Draft. Seattle, WA.
+6. DCMS (2018). £25m for 5G projects on the anniversary of the  
+ UK’s Digital Strategy. Accessed online at  https://www.gov.uk/  
+ government/news/25m-for-5g-projects-on-the-anniversary-  
+ of-the-uks-digital-strategy on 16 March 2018.
+7.     See https://hvm.catapult.org.uk/impact/case-studies/
+8.  https://ore.catapult.org.uk/press-release/fife-students-reach-
+new-heights-with-world-leading-offshore-wind-training-
+laboratory/
+9.  https://ts.catapult.org.uk/2017/03/09/future-transport-
+virtual-reality/ 
+10.      http://www.mglworld.com/virtual-reality-and-augmented-
+reality-in-education/
+11.    www.classvr.com
+12.   See https://hvm.catapult.org.uk/impact/case-studies/
+13.   https://www.strath.ac.uk/research/
+advancedformingresearchcentre/news/
+consortiumtobuildnewrealityforconstructionindustry/
+14.  DCMS (2018). £25m for 5G projects on the anniversary of the  
+ UK’s Digital Strategy. Accessed online at  https://www.gov.uk/  
+ government/news/25m-for-5g-projects-on-the-anniversary- 
+ of-the-uks-digital-strategy on 16 March 2018.
+15.  Lists and a map of all the Science and Innovation Audit 
+areas in the Industrial strategy – see https://www.gov.uk/
+government/uploads/system/uploads/attachment_data/
+file/664563/industrial-strategy-white-paper-web-ready-
+version.pdf, pp86-87
+16.  https://www.gov.uk/government/publications/science-and-
+innovation-audits-first-wave-reports
+17.  https://www.gov.uk/government/publications/science-and-
+innovation-audits-second-reports-published
+18.  http://www.ukspa.org.uk/blog/17/10/science-innovation-
+audit-third-phase-update
+19.    Thinkbroadband (2018).  March update on state of broadband 
+coverage across the UK, nations and regions, 7   March 
+2018. Viewed  online at https://www.thinkbroadband.com/
+news/7971-march-update-on-state-of-broadband-coverage-
+across-the-uk-nations-and-regions on 12 March 2018.Text goes here Ab invendis magnis ant late natia 
+dolenti onseditisqui il ipiet faceperiam rendam 
+vellaccuptat re volorem nat auta quiderit laudanis 
+dis doloreptat ea nonsequ idelia ilit quo volorepero 
+omniminus, utaturem qui a exceperum faccus, to 
+magnimusam hit, que non excesto officil laceptur 
+a plitatus estiatet apernatem alignimustet quam 
+hil inihictius molore, temolest laborum volora 
+comniet est quat int et ut lam arum et arum arias 
+iditati nitiur? 
+Please contact us at  
+hello@migarage.ai
+www.migarage.aiText  goes here
+Name
+email
+Name
+email
+
+[PAGE 26]
+Digital Catapult 
+101 Euston Road
+London
+NW1 2RA
+0300 1233 101
+www.digicatapult.org.uk
+www.bop.co.uk

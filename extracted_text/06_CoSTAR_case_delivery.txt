@@ -1,0 +1,341 @@
+
+Stage 1  - Case for Support 
+
+Strategic fit, suitability to host and vision (30% weighting):
+	•	Overall approach and vision
+Manchester’s CoSTAR consortium will transform real time media production workflows and tools, extending the range of opportunities in live/as live, 3D and interactive content to a much larger range of producers from across creative sectors and a portfolio of existing and as yet unimagined formats.
+Consortium's USP collective capacity to meet and support wider collaboration within the UKRI objectives of the vision:
+LEAD on specific sectoral challenges and innovation in the use of real time virtual studio production, with multi-camera capture and orchestration. This is a more cost-effective and scalable infrastructure for animation, television production at scale and live performance formats than the alternative single camera and volumetric capture methods used in feature films and high end television drama, for which the entry point and cost base is prohibitive. 
+	•	2D to 3D
+	•	Interactive to immersive
+	•	Scalable mixed reality production environments
+
+DRIVE growth and novel linkages in ecosystem
+	•	Virtual Production toolkits and workflow
+	•	Technical Rendering 
+	•	Continual audio, vision and data capture for AI R&D, utilising existing data processing capacity at dock10 to establish and maintain a shared repository of real time production data for use by researchers and producers across the production ecosystem
+	•	Increasing diversity and inclusion at all levels of the production workforce
+ACCELERATE creative growth through novel assets and their application. dock10 had already begun to formulate this as a potential response to unmet demand from UK and international television and animation commissioners before the announcement of CoSTAR; the opportunity to accelerate the development of a robust commercial infrastructure will bring forward the commercial benefit of and return on investment in close-to-market R&D.
+	•	To support the commercialisation of creative technology and creative content intellectual property, products and services 
+	•	To expand the scope of potential original IP in creative formats incorporating real time mixed reality 
+	•	To extend the use of realtime, multi-camera virtual studio production techniques in other growth sectors, including healthcare
+	•	To support the formation and growth of highly capable creative technology firms
+
+These three elements together built from UK strengths and meeting global demand.
+
+
+The proposed investment will upgrade dock10's facilities to and beyond the current state of the art in 3D performance capture to allow commercial production teams and university researchers to collaborate in development of new workflows and toolkits, including:
+	•	Multi-talent motion capture volume
+	•	Facial capture solutions 
+	•	3D photogrammetry scanning
+	•	Camera channels with tracking technologies 
+	•	GPU processing farm
+	•	Spatial audio capture equipment
+	•	Immersive display technologies 
+	•	AI Computing facilities 
+This increased capacity will allow the consortium to collaborate on the developments of the techniques and workflows required to direct, vision mix and orchestrate 3D performances in real time locally, virtually and globally.
+	•	Performance scale – scaling up the number of performers to achieve studio-scale motion capture with multiple actors across a large portfolio of performance types, including dance, competitions with physical elements (eg, game shows), concerts, sitcoms and theatrical performances
+	•	Performer interaction – enabling new ways for performers to interact in real time with elements of both a real and virtual environment, manifesting an extended range of interactive capabilities for both actors and virtual avatars
+	•	Audience interaction - allowing the capture of performances in spaces that also house physical audiences, giving audiences the ability to influence the production and interact with the performance, allowing audiences to experience the performance in VR, or teleporting the performance into viewers' living rooms through AR and giving audience members ability to influence actors and the performance, e.g. through virtual applause, manipulating elements in the virtual world or engaging directly with talent.
+	•	Production orchestration - new production tools to create cross reality experiences and orchestrate performances within them ‘as live’, new workflows for asset creation (e.g. virtual avatar building, asset scanning, set composition), new techniques for defining behaviours of virtual environments, and the interactions actors and audience members can perform and new tools for orchestrating multi-actor performances in virtual environments 'as live', including physical and virtual camera blending, new mechanism for directors and software to control the virtual environment (e.g. lighting, VFX and world events)
+	•	Data capture - continual audio, vision and data capture for AI R&D will offer critical infrastructure and technical support to enable applied R&D in the context of the proposed creative workflows, including:
+	•	Volumetric capture
+	•	Pose recognition 
+	•	Procedural world building and content generation
+	•	AI-powered characters
+	•	Interactive storytelling
+	•	Spatial audio and sonic activity recognition
+	•	Ethical use of AI – creating an open source database for use by researchers in defining, assuring and managing development and production of new tools which embed audience interaction within new cross reality experiences
+	•	Scalable content delivery - Create asset pipelines and workflows that can simultaneously compile assets for virtual studio systems (high fidelity) and interactive audience experiences across platforms (including low poly for mobile devices) to allow producers to create once and deliver to multiple audiences and experiences. This will:
+	•	Create new approaches to simultaneously directing linear and interactive content
+	•	Interface with various delivery platforms in addition to traditional broadcast, enabling simultaneous delivery across 2D and 3D.
+	•	Capture performances 'as live', supporting the simultaneous capture of live and on-demand content.
+	•	Deliver simultaneously to remote and on-site audiences.
+The resulting content will take account of trends in consumer behaviour which demonstrate the reduced engagement with “appointment to view” linear programming and increased evidence of interaction and engagement with live and “as live” content through a “second screen’.
+The consortium will collaborate to put in place a process of innovation and knowledge transfer across its member organisations that will both lead to increased capacity and capability to address unmet demand from established producers and cost reductions that will make it competitive for UK broadcasters and commissioners to stimulate local production in future live event production and genres such as children’s animation, large scale immersive and interactive studio-based games and entertainment formats, sports and esports.
+Making these facilities available at scale and bringing down the price point for finished programming will democratise the UK production process, increasing value creation by allowing UK creators to develop, retain and commercially exploit new IP.
+Table 1 Theory of change
+Vision
+Establish UK market leadership in real time virtual production through innovation to transform production workflows and tools to bring “second screen” levels of immersion and engagement to live and “as live” production across a range of formats and genres.
+Impacts
+Democratisation of live production, allowing UK creative producers across a much larger range of genres to co-create new programming and formatting for national and international distribution.
+Increase in current value of UK real time production and commercial viability of future live events and  genres in which UK has strengths but for which international commissioning and distribution is currently the constraint. 
+“Invert the pyramid” by removing bottlenecks in virtual production and making UK home to the world’s largest and most distributed cluster of virtual production facilities and workforce.
+Outcomes
+Process of knowledge transfer shared between private sector, university and public sector partners to create awareness and build a ladder of opportunity 
+Collaboration around skills development to address bottlenecks in supply and skills gaps in key roles including creative technologists and data scientists
+Bring down the price point for UK production of future live event programming and genres including children’s animation in which UK is recognised as a world leading creative hub, but has lacked control over distribution and has therefore been dependent on overseas commissioners.
+Outputs
+A network of complementary large-scale production facilities and accessible smaller scale R&D environments to create a pipeline of new IP, creative technologists and data scientists
+Knowledge transfer (through IP sharing agreement) will create an open source AI database for use by UK producers and researchers in further development of real time virtual production workflows
+Activities
+[From delivery plan]
+Inputs 
+[From delivery plan]
+Needs and Challenges
+Cost per broadcast hour of formats including children’s animation
+Dependency on foreign-owned distribution platforms and commissioning spend
+Address technical and ethical challenges in introduction of AI to production workflows and audience engagement in future live programming
+Return on public investment in facilities (SODA), skills and business support
+Improve diversity of creative sector and production workforce and leadership to reflect population and audiences
+Unmet demand from UK creative producers and commercial production companies for capacity and capability for new kinds of live event television across genres including:
+	•	Broadcast media – including specialisms well represented at MediaCityUK of sports, entertainment (including game shows and formats), children’s, animation 
+	•	Live performance – building on the large, diversified cluster of cultural organisations and creative businesses in and around Manchester
+	•	Games and VFX
+
+
+ Collective current capability of your consortium
+Current state
+dock10 is already the most versatile production facility in the UK outside London. It boasts:
+	•	UK's biggest multi-camera TV studio for major productions and six other multi-camera studios
+	•	A multi-camera green screen studio
+	•	A very large specialist orchestral studio and specialist multi-purpose audio studio
+	•	Connected broadcast space with large screen with an audience capacity of 5,000 people
+	•	A site designed entirely around media production, ingest and distribution, with a unique top-spec and future-ready 200Gbps broadcast network, the connectivity to reach anyone anywhere in the world and specialist data processing infrastructure, facilities and services
+	•	Award-winning post-production facilities
+Factory International is. …
+SODA is …
+Magnopus ???
+Response to delivering on the capabilities
+The CoSTAR partnership has identified an innovation process and scalable business model (see Figure 1) which links the development of new production tools and workflows with the development of new creative intellectual property and R&D in the AI needed to manage both coordination of real and virtual production capability in real time.
+The creation of large-scale production environments within dock10 will mirror existing small-scale R&D facilities at SODA to build a pathway from early-stage R&D, through testing, commercial trials and demonstrators to full commercial productions.
+Redundancy in the model will allow the partners to build capacity in response to demand:
+	•	From commercial production companies looking to accelerate development of existing IP
+	•	From new creative producers introduced through the consortium partners looking to explore the potential in new IP from R&D through to commercial exploitation
+	•	From the national “Lot 1” centre at the stage when it has generated proposals for pilots and demonstrators that need to be tested in a commercial environment.
+
+Figure 1  Scalable business model
+
+
+ 
+There is a symbiotic relationship between a next-gen production studio supporting an entertainment venue of the future. Factory International is already harnessing emerging digital technologies to create new artistic work and experiences, that blur the distinction between the real and the virtual worlds, through Virtual Factory, which is commissioning artists to create online and digital work.
+
+
+  
+	•	Expertise and capabilities of your partnership
+Technical and sector R&D and innovation expertise	
+SODA is a dedicated institute established to transfer Manchester Metropolitans excellence in art and design research – in which it was the second-ranked UK university in REF 2022 – to the acceleration of innovation, knowledge exchange, research, teaching and training across all sectors of digital arts. Its engagement brings links to AI expertise and other fundamental research institutes led by Man Met. It contributes Object Based Media research findings (an existing partnership of commercial and academic interests, including Ofcom) and the ability to disseminate foundational research to the capacity of the UK CoSTAR infrastructure. SODA will provide an effective and supportive point of contact for Lot1 – SODA is “bi-lingual” in academic and commercial developments in digital arts and media.
+
+Strength of your proposal in delivering the required capabilities
+The consortium brings together innovation and production capability and expertise from across the cultural sector, academia, public sector and commercial production sectors to address the transition from the current linear broadcasting ecosystem in terms of:
+Problem identification and application:
+The consumption of linear, 2D video is in decline; particularly among younger demographics, while interactive, game-like and immersive forms of entertainment are on the rise.
+dock10 combines evidence of demand and collaboration with commercial partners, which has shaped the priorities and work packages (meaning that the outputs and outcomes fit the definition of TRL 7-9 and previous experience of and learnings from cross-sector working on WEAVR AoTF.
+Factory International is the most significant, high profile, publicly funded, arts development currently underway in the UK. It engages a community of cutting edge artists and performers with a track record of commercially successful and in-demand productions amenable to further innovation and multiple replication. Through that community, it brings digital arts practice to inform the development of a new iteration of broadcast workflows and innovations which explore the impact of their receipt and interaction on audiences. It provides access to a huge performance space (2,ooo capacity theatre/5,000 capacity warehouse) and rehearsal spaces. 
+Factory International’s involvement will deliver opportunities for creative producers to make new work, without which we are limiting opportunities for new IP. Factory International:
+	•	Is already providing artists with a gateway into Virtual Production. Its Intro to Virtual Tools programme brought together 20 artists based in Greater Manchester to develop new skills, learning from artists operating at the cutting edge of technology 
+	•	Harnessing emerging digital technologies to create new artistic work and experiences, that blur the distinction between the real and the virtual worlds, through Virtual Factory, which is commissioning artists to create online and digital work. LaTurbo Avedon’s installation of Factory International in Fortnite Creative has already welcomed more than 1.7m visitors. 
+	•	Later in 2023 Factory International will launch a new augmented reality app which will give mixed reality artists a major platform to showcase their work.
+	•	Democratisation
+	•	Broadcast and streaming of live and hybrid projects will ensure audiences are engaged beyond the physical structures of the building.
+	•	Track record for successful outreach and engagement strategy and delivery
+	•	Talent retention and development is not limited to graduates - it is about offering people from all backgrounds valuable skills and experience to improve their life chances by equipping them for careers in the creative industries. 65% of Factory Academy participants, who provided diversity and inclusion data, report a characteristic which is under-represented and/or being from a low socio-economic background.
+	•	Factory Academy is funded through GMCA’s Adult Education Budget and works with a consortium of 20+ creative and cultural organisations to provide first-class work-based training opportunities with pathways into technical and creative disciplines to local residents
+	•	 with few or no accredited qualifications. Engaging in the CoSTAR programme will provide an opportunity to extend Factory Academy’s scope to include digital skills for virtual production.
+	•	An online learning hub expected to reach up to 10,000 individuals over the first three years of this project
+	•	Brings technical and sector R&D and innovation expertise and robust evaluation methodology for immersive work.
+	•	Is globally networked with a diverse performance base and commissions leading practitioners to create cutting-edge work.
+	•	Has a track record of commercially successful and in-demand productions amenable to further innovation and replication.
+	•	Has a wide and growing diverse, creative community of people who participate and advocate for the organisation and for culture and creativity.
+	•	Has significant reach - of audiences, artists, residents, learners, schools, participants, volunteers, and once the building opens, visitors, to rapidly accelerate democratization of tech. 
+Magnopus
+
+	•	[Examples here] –
+
+Factory International is:
+
+Growth Company’s delivery of the Innovation Edge programme demonstrates an existing brokerage and knowledge transfer infrastructure which is already fit for purpose and can be quickly expanded and redirected to address demand and bottlenecks in virtual production through their partnership
+
+Evidence of industry support and demand for services
+Cross sector nature of consortium introduces disruptive opportunities for discontinuous innovation 
+Gaps in unreal workflow
+Letters of support
+
+The Manchester consortium will accelerate transfer of knowledge and expertise generated across the  benefits of the work of the CoSTAR infrastructure. The benefits will accrue to UK creative producers in all media and across all creative sectors in the ABILITY TO CREATE AND EXPLOIT NEW IP in content and formats. 
+This is a genuinely business-led proposition which responds to evidenced commercial demand
+	•	Production – dock10 relationships
+	•	SODA – bespoke research institute to address and apply R&D in GM production sector
+	•	Factory International offers democratisation through engagement of mass audience for future live experiences currently exclusive to those who can physically attend (and afford) live performances (2D cinema no substitute to engagement; attempts at VR complex and constraints on production and distribution are significant).
+	•	It establishes Manchester - where MediaCityUK was designed and developed from the ground up to provide state-of-the-art facilities - as a node of UK media global connectivity and purchasing power, reducing the sector’s over-dependency on London and increasing resilience in UK production and distribution infrastructure and R&D capabilities.
+One of the most important bottlenecks is that UK funding (both commissioning from public sector broadcasters. Public sector investment in new cultural programming and commercial investment in new IP) will never overcome dominance of foreign-owned distribution and proprietary tech platforms unless it can open up production to formats which exploit:
+	•	Scalability of real time interaction of real and virtual elements between performers
+	•	Ability to move from 2D to 3D
+	•	Transformation of engagement through interactivity (live and as-live)
+UKRI funding will help to scale and accelerate the Manchester consortium’s ability to address:
+	•	Unmet demand
+	•	Bottlenecks in capacity
+	•	Conservatism amongst UK commissioners and investors
+In turn, the additional capacity and capability developed by the Manchester consortium will help UKRI achieve its ojectives of
+	•	Maintaining success of UK creatives and production facilities
+	•	Keeping ahead of international trends in commissioning and consumption of new content
+	•	Driving global capability 
+	•	UK Creatives- addressing challenges 
+Current success and global leadership is at risk through a wave of technological disruption transforming the way creative products and experiences are made and ultimately the way they are consumed
+
+Addressing skills gaps and shortages
+[Define and give scale of GC skills development support – ERDF/UKSPF]
+[ManMet degree apprenticeships and graduate numbers in relevant disciplines]
+[ManMet investment in post-grad and post-doctoral research capacity – stress regional in nature]
+
+Ability of your partnership to contribute to the sustainability of the infrastructure through ongoing co-investment
+
+Coordination
+Shared strategy and methodology
+Scalable model
+Evidence of match funding
+Evidence of aligned investment
+Identified potential for follow-on investment
+Investment in “upstream” (skills) and potential “downstream” (CPD)
+Wider influence – Northern (thru GMCA), national and international
+Investment in business development
+GC will deliver GM-wide Create Growth programme (£1.2 million funding 2023-26) provides opportunity to support growth of 160 creative businesses. This builds on successful delivery of DCMS Creative Scale Up pilot.
+Influencing policy and strategy
+GMCA
+	•	Innovation policy framework
+	•	MoU with Innovate UK
+	•	Innovation Accelerator
+Extent to which your proposed programme and vision meets the stated objectives of COSTAR and contributes to the delivery of the whole infrastructure
+	•	Contribution of your proposal to the CoSTAR infrastructure
+The CoSTAR programme proposes a national response to the risks and challenges facing our screen and performance industries. It seeks to reinforce our strategic leadership position in the global creative industries by investing in world-leading research, development and innovation (RD&I) facilities and programmes that will unlock the immediate and long term economic and creative value set  of rapidly evolving creative technologies.
+	•	Additionality of your proposal to existing capabilities
+Existing partnership working
+	•	WEAVR
+	•	Mozilla/Ofcom – Ethical AI
+	•	Object Based Media
+MediaCityUK was designed for this purpose – the investment by private and public sector partner was not to effect a transfer of PSB investment from the licence fee from South East to North West but to make a step-change in UK competitiveness through innovation, building on a shared legacy of:
+	•	Outstanding creative talent represented across a large and diverse sector in Manchester, North West and the wider North
+	•	Institutional memory of producers and distributors brought up through a system (Granada) which made the North West the pre-eminent hub of new content production and distribution for the UK’s independent television networks – this is a regional factory for creative IP
+	•	Universities with outstanding research and development capability and capacity in arts, creative media and creative technologies
+	•	Those same universities and colleges (plus private sector innovators inc HyperIsland, Northcoders etc) produce a pipeline of skilled individuals and researchers
+	•	Consistent support from public sector partners (institutional memory again – despite changing of deckchairs at UK level, GM partners have maintained delivery of strategy and programmes across several administrations and changes in governance)
+Growth Company
+Growth Company is a long-established creative sector support provider, delivering over a decade of specialist support to SME’s. The historic success in this field builds on ERDF growth interventions as well as being a key partner in DCMS’s Creative Scale-Up Programme pilot (2019-2022) as well as the InnovateUK EDGE service. The result of these interventions is a vast, diverse, robust and engaged creative GM SME community and a rapidly growing creative sector aligned investment community.  This year GC has been successful in securing the DCMS funded Create Growth programme (£1.2 million funding 2022-2025). CoStar will be closely aligned to this programme and EDGE and will be able to draw on an existing brokerage and knowledge transfer infrastructure which is already fit for purpose and can be quickly expanded and redirected to address demand and bottlenecks in virtual production through their partnership. 
+The Innovate UK EDGE service from GC supports an ecosystem of innovative and high growth potential SME’s, across the North West. Supporting them in innovative technology, product and service delivery, sourcing external investment and finance, managing IP, and growing domestic and export markets. The service is tailored to the individual SMEs needs, is delivered by a dedicated Specialist working with the senior executives in the company, and is free at the point of delivery, to companies that meet the criteria. .
+
+	•	Long term impact of your proposal nationally, regionally or locally
+Populate Flo’s grid – Technical/Commercial
+Review Gaby’s notes – Commercial/Creative
+Reference academic research – Man Met 2nd UK REF for UK arts & design = Technical/Research
+	•	Future sustainability of your proposal beyond funding
+Manchester’s CoSTAR consortium will leave a legacy of increased capacity and capability:
+	•	Physical – studios, R&D labs, data capture, global reach high bandwith connectivity and distribution links.
+	•	Human – specialisms, combining ready regional talent and capability pools 
+	•	Sector – diversified city region and Northern creative cluster through which the benefits of this collaboration can be quickly cascaded to increase GVA, employment and opportunity 
+Indicate and quantify any aligned and follow-on funding
+Contribution to UK creative innovation (25% weighting):
+AHRC vision of bringing academic research to heart of commercial application in a relevant way – translate Man Met’s outstanding REF into KEF through joint Technical, Commercial, Creative and Research engagement with the sector 
+Dock10 capacity identifies advantages of proximity to MediaCityUK (access to real time, AI resource, data sharing) reinforcing position of Manchester as national and global hub for commercial future media production; implementation of Technical R&D establishes industry standards
+Factory International operating at scale with a hybrid non-profit and commercial model, creating new scalable and global models for digital arts and live performance practice (“Cirque du Soleil”)
+SODA developing, dissemination and democratising access to toolkits and connection to international research, definition of standards and ethical approach
+Magnopus providing distribution channel for UK creative IP across screen, performance in interactive/scalable future media
+What will be the long-term impact of funding your proposal locally or nationally?
+How well will your proposed programme boost productivity, skills and the formation and growth of firms and the commercialisation of intellectual property?
+Does your proposal include plans to grow private sector investment?
+Yes in Technical R&D
+Yes in Facilities
+Yes in Creative IP (stimulate, identify, develop, aggregate and distribute)
+Yes in Distribution
+Will it build on or enable the development of local and regional excellence in creativity and innovation?
+
+Environmental impact
+How does your proposal embed principles of environmental sustainability?
+dock10’s site operations are accredited and audited to ISO 14001 and 50001 within the overall activities of the company’s ISO 9001 status. The governance of risk is consistent to best practice HMT Orange Book standard with ownership and oversight clearly defined, delivered and subject to independent audit.  The operations of the extended infrastructure shown in the design plans will embed directly into these principles of continuously improving environmental delivery. Through this foundation we should be able to clearly identify and communicate wider the embedded principles of environmental sustainability in the future design of the tools and workflows we deliver, as well as supporting the wider CoSTAR to achieve the same.
+In a sector reliant upon a small set of equipment providers and working within wider networks of independent producer SME, often remote working,  raises issues for the partners ability to drive whole programme environmental change. Within these constraints the partners utilise both the leverage of procurement on the former and the influence of collaboration and advocacy on the latter. For example, dock10 working originally with partner GMCA with Broadcasters, developed and piloted for use across Media City  - this was subsequently adopted by BAFTA and is now the UK industry standard for Sustainable Production Certification  - the Albert.
+How does you proposed programme contribute to the decarbonisation of the screen and performance sectors or the wider creative industries?
+Our delivery partnership is composed of the full studio broadcast creative supply chain within the largest production ecosystem outside London. As noted below our operations are already dedicated towards a documented and published site-based decarbonisation of screen and performance operations. We would look to extend this in the same way we achieved with the Albert accreditation to influence across the region. 
+In daily operations the proposal’s transformative use of virtualisation and multi-camera capture offers opportunities to radically reduce volume of physical materials and cut energy intensive studio time. In terms of decarbonisation this has implications to reduce the full scope of studio broadcast emissions from of scope 1 and 2 which we shall track through our existing accredited processes.  
+Will it contribute to UKRI’s commitment to carbon-neutrality across all research undertakings by 2040?
+dock10 is committed to meeting Carbon neutrality through offset for its operations by 2025 with a current 5% reduction annually towards net-zero operations by 2035. They publish yearly their Carbon Disclosure Plan. 
+As part of this dock10 has an ongoing development of a Local Energy Action Plan including battery storage, heat conversion and balancing site CHP with sleeved renewable supply as well as exploration of future innovation in Smart Grid delivery.
+Collectively this means our proposal can provide a detailed and auditable contribution to the UKRI commitment of full compliance by 2040.
+Contribution to equality, diversity and inclusion in the sector (10% weighting)
+How will your proposed programme improve diversity within the screen and performance sectors, the wider creative industries or the creative technology sector?
+How will you drive equality, diversity and inclusion within the facilities you host and amongst the user group of researchers and companies?
+
+Delivery plan
+
+Deliverability and value for money (25% weighting):
+Achievability of proposed timescales and workstreams achievable within the proposed budget. Will they deliver on stated objectives?
+[Table:
+
+Workstreams
+Objective
+Timescale
+Budget
+Confidence/mitigation of risk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Identifification and mitigation of critical risks?
+[insert Risk management plan and summary of risk strategy]
+
+Risk mitigation:
+2D to 3D transition: minimal risk. dock10 already making roads into developing sets in 3D. 
+‘Capture once deliver to many’  is a another transition opportunity already identified (TRL7-9)
+Commercial risk: competition - there are many people investing into this.  
+
+Risk approach:
+	•	The funding is what's enabling us to INNOVATE, not RISK.  
+	•	Risk is the articulation rather than not knowing what to do.  
+
+Quality of delivery plan and management structure across the partners
+[“Across the partners” is the key phrase here. Need a top down descriptor from Man Met and a better view of Factory capability]
+Amount of initial co-investment committed by the partners
+[From spreadsheet, once agreed]
+Quality and robustness of plan for monitoring, measuring and evaluating progress
+[Man Met and dock10 QA procedures]
+Credibility, affordability and value for money
+
+	•	R&D relating to the transition from 2D to 3D - one of the Labs’ key aims - requires volumetric capture that can be operationalised as soon as the lab becomes operational in Y2.
+	•	Current high-quality approaches to volumetric capture utilise an array of static 2D cameras and depth sensors to capture performances from multiple angles, using advanced software algorithms to combine the multiple input streams into a single coherent volumetric scan. High quality volumetric capture facilities are available but very expensive (in the order of £2,000 per second), and cannot be produced live as they require significant post-processing time.
+	•	Real-time capture solutions (e.g. building on LiDAR sensors) are now starting to come online, however, the produced quality and resolution is currently poor. Additionally, most volumetric capture solutions are limited to a relatively small volume - just sufficient to scan a single person - whereas future content format will require studio-scale solutions.
+	•	To be useful for broadcast and ‘as live’ production in d10’s studios, any solution must be cost-effective, high quality, work in real-time and work at studio scale.
+	•	While rapid progress in volumetric is expected over the course of the six-year programme, the only solution that currently meets those criteria and can be operationalised for high TRL R&D starting in Y2 leverages motion capture suits in conjunction with virtual avatars.
+	•	To capture live experiences, real-time motion capture suits on performers produces real time skeletal and facial tracking data that can be fed into real-time graphics engine and mapped onto virtual avatars. This allows performers to effectively puppeteer virtual avatars in real-time. This is expected to be the primary workflow leveraged by the Labs.
+	•	Avatars can either be created by 3D artists, or scanned from the actual performers (for instance, to represent celebrities). The project budget accommodates capacity for both technical artists and external photogrammetry services that support the R&D facilities in Y2 - 4.
+	•	In parallel, the project budget includes installation of a spatially calibrated multi-camera array and storage solution to capture multi-angle vision data. This setup will enable the capture of training data to feed into AI and vision research from Y2 (opened to the wider community and Lot 1 Lab), and serve as future-proof infrastructure to apply future software-based volumetric capture solutions later in the project as they become available (e.g. through Lab 1 trickle down or commercial AI solutions). This is further supported by installation of AI compute facilities in Y5 (both offline and real-time compute) that enable the running of AI-based approaches within the infrastructure.
+	•	Consequently, a portion of the equipment funding in Y5 is reserved for experimental and market-ready volumetric capture solution that can build, complement and work alongside the described motion-capture workflow.
+Factory International
+
+We can contribute:
+	•	Delivery of large scale mixed reality performances 
+	•	The ability to structure a team for game engine > live event pipelines
+	•	Run R&D 
+	•	Content and user cases
+	•	Productions 
+	•	Costs (time in lab, access to staff and kit)
+	•	Contribution to demonstrators
+
+We will collaborate on:
+	•	Kit 
+	•	Digital production support
+	•	Dedicated time and space for productions & R&D
+	•	Digital infrastructure
+
+We will need consortium support with:
+	•	Staffing 
+	•	Technical workflows
+	•	Time and research
+

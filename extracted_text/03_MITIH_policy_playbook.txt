@@ -1,0 +1,75 @@
+1. Strategic Objective
+Support Greater Manchester’s creative-digital sectors—specifically animation, audio, and studio production—not as isolated content generators, but as vital connective infrastructure. These capabilities underpin immersive delivery, ecosystem resilience, and innovation across sectors including health, education, and manufacturing.
+
+2. Action Areas (Aligned to Report Sections 7–14)
+Area
+Recommended Intervention
+Lead Org
+Cost Range
+Expected Outcome
+Time to Impact
+Mesh Capability
+Fund mesh enabler roles (e.g. technical producers, project ops, production integrators) embedded in federated hubs (Section 11.3)
+GMCA + MITIH
+£10k–£50k per role
+Cross-sector delivery acceleration and skills transfer
+3–6 months
+Animation Activation
+Microgrants that position animation studios as creative leads on XR/health/edtech pilots (Section 10.6)
+MITIH
+£20k–£50k per round
+Bridge animation into strategic growth domains
+3–9 months
+Audio Reattachment
+Immersive sound fellowships and relay placements in non-arts sectors (Section 10.6)
+MITIH + Salford
+£30k–£60k each
+Reintegrate isolated audio capabilities
+6–12 months
+Studio Production Recognition
+Technician-in-Residence and Mesh Fellowships embedded in innovation hubs and universities (Sections 9.5, 11.3)
+GMCA + Unis
+£15k–£45k per placement
+Elevate delivery roles as strategic assets
+6–12 months
+Skills Realignment
+Support for curriculum co-design: 'Creative Mesh Minors', agile modules, live briefs (Sections 6.4, 8.3)
+MMU, Uni of Salford, SODA
+£20k–£80k per dept
+Align talent pipeline to mesh fluency demands
+12–18 months
+Network Activation
+Develop a ‘Trusted Crew Registry’ to surface hidden infrastructure and support project matchmaking (Section 9.5)
+MITIH + Industry Partners
+£25k setup + ops
+Improve project continuity and reduce collaboration friction
+3–6 months
+R&D System Reform
+SME-led innovation pilots with universities as embedded partners, not gatekeepers (Section 4.5)
+Innovate UK + MITIH
+£50k–£100k per pilot
+Increase innovation participation from under-networked sectors
+6–12 months
+Immersive as Integration
+Treat immersive not as the ‘future’ but the ‘available middle’—fund cross-sector integration labs (Section 16.3)
+MITIH
+£50k–£150k
+Position immersive as connective layer across disciplines
+6–12 months
+
+3. Policy Shifts Required (see Section 4.6)
+	•	From Output to Infrastructure: Fund the roles and rhythms that make innovation executable, not just the shiny artefacts.
+	•	From Gatekeeping to Enablement: Shift universities from central gatekeepers to mesh-aware delivery partners.
+	•	From Growth Rhetoric to Resilience Metrics: Track workforce mobility, project interoperability, and network density.
+	•	From Digital Hype to Human-Centric Skills: Invest in agile, communicative, and integration-oriented capabilities.
+	•	From Legacy Metrics to Ecosystem Intelligence: Use SNA, job data, and live briefs to track real system dynamics.
+
+4. Implementation Priorities (2025–2026)
+	•	MITIH to act as an operational testbed for mesh-based innovation funding—microgrants, labs, and placement schemes.
+	•	GMCA to pilot mesh enabler residencies and cross-sector crew registries across key federated hubs.
+	•	Funders (UKRI, Innovate UK, AHRC) to ringfence funding for audio, studio, and animation as connective infrastructure.
+	•	Universities to adopt mesh fluency frameworks in curriculum reform—using job market and SNA evidence to redesign participation pathways.
+
+This playbook translates the MITIH Createch Ecosystem Report into an investment and delivery framework.
+Fund the infrastructure, not just the outputs. Back the connectors, not just the stars.
+

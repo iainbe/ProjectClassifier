@@ -1,0 +1,92 @@
+Strategic Analysis: Greater Manchester R&D Funding Process Optimisation
+This analysis builds on feedback from the initial “From Good To Great” workshop held at Man Met in May 2025. It complements direct feedback with a comprehensive business process analysis that positions GM Combined Authority to argue for devolved funding variations as a better way to improve outcomes.
+Current State vs. Desired State 
+Underlying Process Gaps 
+The workshop feedback revealed three critical systemic issues that mask deeper structural problems:
+1. Pre-Qualification Gap
+Current: SMEs enter funding competitions without adequate business case validation
+Impact: High failure rates, wasted resources, poor ROI on ecosystem support
+Evidence: "The how-to was useful... but would have been more useful before we had a bid"
+2. Strategic Alignment Gap
+Current: Irregular, seemingly subjective call timing disconnected from regional priorities
+Impact: Missed opportunities, reactive rather than proactive innovation pipeline
+Evidence: Participants struggling with timing and relevance of available funding
+3. Supply Chain Investment Gap
+Current: Large companies limited to 50% cost recovery, creating collaboration barriers
+Impact: Reduced private sector leverage, weakened innovation ecosystems
+Evidence: Implicit in university-SME IP collaboration challenges
+Proposed GM-Specific Process Framework
+            GM R&D FUNDING PIPELINE                    
+STAGE 1: Strategic Pre-Qualification (GM-led) 
+Business case validation workshops
+Sector-specific readiness assessment   
+University-SME IP framework alignment
+Supply chain mapping and partnership facilitation          
+STAGE 2: Enhanced Application Support (GM-enhanced)
+Dedicated application review service
+Peer mentoring from successful applicants  
+Technical writing support                                   
+STAGE 3: Strategic Call Alignment (GM-influenced)
+Quarterly strategic calls aligned to GM priorities  
+Predictable timing for key sectors
+Clear success criteria and evaluation 
+STAGE 4: Enhanced Collaboration Terms (GM-negotiated)   
+Flexible IP frameworks for university partnerships      
+Improved cost recovery rates for supply chain partners    
+Risk-sharing mechanisms for ecosystem collaboration      
+
+
+Business case for GMCA to vary delivery
+These recommendations are based on the evidence of increasing devolution of authority for R&D investment and build on the existing MOU between GMCA and Innovate UK.
+1. Pre-Qualification Service Model
+Proposed Variation: GM-operated pre-qualification gateway
+Rationale: Improvement in success rates through validated business cases
+Evidence: Workshop feedback on timing and preparation gaps
+ROI: Reduced wasted applications, higher quality submissions, better ecosystem ROI
+2. Strategic Call Programming
+Proposed Variation: Regular (quarterly/six-monthy) themed calls aligned to GM strategic priorities
+Rationale: Predictable pipeline supports business planning and collaboration
+Evidence: Current irregular timing creates missed opportunities
+Impact: Increase in application volume through improved visibility and planning
+3. Enhanced Collaboration Terms
+Proposed Variation: 
+Large company cost recovery increased (to 65%-75%) for GM ecosystem projects to support development of supply chain related propositions
+Flexible IP frameworks for university-SME partnerships (which assume SME ownership of IP is in ‘first position’ and University ownership of IP relates normally only to direct spin-outs)
+Rationale: Addresses supply chain investment barriers and university collaboration friction
+Evidence: "SME would have had to give up all the IP and license it back... ridiculous"
+Impact: Unlocks private sector co-investment, strengthens innovation clusters
+Implementation Framework
+Phase 1: Pilot Programme (6 months)
+Advanced Manufacturing and Materials focus
+20 SMEs through pre-qualification process
+Baseline metrics: application success rates, time-to-funding, collaboration formation
+Phase 2: Sector Expansion (12 months)
+Include Life Sciences and Green Tech
+University IP framework pilots
+Supply chain collaboration incentives
+Phase 3: Full Devolution Case (18 months)
+Performance data collated to make case for full devolved authority
+Demonstrated ROI and ecosystem impact
+Scalable model for other Combined Authorities
+Key Performance Indicators
+Process Efficiency:
+Application success rate improvement: Target 35% - 60%
+Reduction in “drop outs”: Target 25% reduction
+Time from idea to funding decision: Target 25% reduction
+Ecosystem collaboration index: New metric tracking cross-sector partnerships and supply chain working
+Economic Impact:
+Private sector leverage ratio improvement
+Job creation per £ invested
+IP commercialisation rates
+Strategic Alignment:
+% of funded projects aligned to GM strategic priorities
+Supply chain integration metrics
+University-industry collaboration volume
+Negotiation Strategy with Innovate UK
+Value Proposition: GM as innovation funding laboratory
+Risk Mitigation: Pilot approach with clear success metrics
+Scalability: Model for other Combined Authorities
+Efficiency Gains: Reduced administrative burden on Innovate UK through local pre-qualification
+Evidence Base: 
+Workshop feedback indicated that both SMEs and larger companies would benefit from some or all of these variations, supported by ecosystem stakeholder alignment (GMCA, Growth Hub, universities, businesses all present and engaged). However, as we were not briefed to ask for direct feedback on potential changes to current pipeline and onboarding processes, the companies’ expression of areas for improvement was limited.
+This framework positions GM Combined Authority to argue for meaningful devolved variations that address the real underlying process issues while building a compelling case for expanded local control over R&D funding strategy.

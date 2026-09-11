@@ -1,0 +1,779 @@
+
+
+
+Kirklees Council
+Creative Industries Mapping
+Interim final report
+
+
+
+July 2024
+
+
+
+
+Contents
+EXECUTIVE SUMMARY	1
+SCALE AND SIGNIFICANCE OF CULTURAL AND CREATIVE INDUSTRIES IN KIRKLEES	3
+1.1	CREATIVE BUSINESSES	3
+1.2	CREATIVE EMPLOYMENT	8
+1.3	CREATIVE WORKFORCE	10
+1.4	ECONOMIC IMPACT	17
+1.5	SUB-SECTOR TREND ANALYSES	24
+SECTION 2: MUSIC IN KIRKLEES	26
+SECTION 3:  STRENGTHS AND SHORTCOMINGS	29
+APPENDICES	32
+Appendix 1: Methodologies used to calculate GVA of Kirklees’ creative economy	32
+Appendix 2: Supply chain definition and analysis	36
+Appendix 3: Education and skills	38
+Appendix 4: DCMS sector definitions	40
+Appendix 5: Holmfirth Art Week Fringe	41
+
+
+Index of Figures
+Figure 1 Location of creative enterprises in Kirklees (by ward)	7
+Figure 2 Comparison of LinkedIn and BRES data for creative employment and workforce – Creative Industries	14
+Figure 3  Calculation of Location Quotient 	35
+Figure 4  Overlapping definitions of digital and creative sectors	40
+
+
+Index of Tables
+Table 1 Change in Kirklees Creative Industries businesses 2015-23	3
+Table 2  Kirklees Cultural and Creative Industries business count	4
+Table 3 Discrepancies in business counts between IDBR and Companies House data	5
+Table 4 New business starts from 1 April 2021 to 30 June 2024	6
+Table 5  Change in Creative Industries employment in Kirklees 2020-2022	8
+Table 6  Change in Cultural sector employment in Kirklees, 2020-22	9
+Table 7 Evolution of LinkedIn workforce data 2022-2024	11
+Table 8  Analysis of LinkedIn by employment type	12
+Table 9 Creative Industries workforce in Kirklees, June 2024	13
+Table 10  Cultural sector workforce in Kirklees, June 2024	13
+Table 11  Comparison of LinkedIn and BRES data for creative employment and workforce – Cultural sector	15
+Table 12 GVA of Kirklees' creative industries	17
+Table 13  Analysis of Kirklees Creative industries GVA	18
+Table 14 Analysis of Kirklees Creative industries GVA	19
+Table 15 Kirklees creative economy GVA projected on basis of the scale of the creative workforce	20
+Table 16  Kirklees Creative Industries GVA projected on basis of the scale of the creative workforce	20
+Table 17  Kirklees Musicians and performers GVA	27
+Table 18  GVA from music-related occupations in other industries	28
+Table 19 Comparison of methods used to calculate LQ and GVA	34
+Table 20 Creative supply chain definitions	36
+
+
+EXECUTIVE SUMMARY
+Kirklees Council commissioned The Fifth Sector to repeat previous analysis of the sector (carried out over a period from 2015 to 2022) to ascertain the impact of changes in the district’s cultural and creative industries over that period.
+The research was conducted during the second quarter of 2024 and focused on: 
+Scale of the sector – the number of commercial creative businesses (including micro-enterprises) and not-for-profit arts and cultural organisations
+Creative employment, both direct and indirect, including freelances, contractors and self-employed creatives
+The financial value of the creative industries and music industry
+Strengths and shortcomings of the creative industries and the music sector
+Opportunities for business growth, employment, and skills development.
+Our research reveals two contrasting perspectives on Kirklees' creative industries: one based on national statistics and another derived from in-depth analysis of diverse sources.
+Official statistics paint a pessimistic picture, indicating a decline in Kirklees' creative businesses since 2015. However, our comprehensive analysis of various data sources, including ONS data, proprietary databases, and LinkedIn, suggests a more positive trend of growth in creative business numbers, employment, workforce, and output.
+Key Findings
+Scale of the Sector: The creative sector in Kirklees is larger than reflected in national statistics, both in number of businesses and employment.
+Economic Impact: We estimate the GVA from Cultural and Creative Industries in Kirklees in 2022 at £250.9 million, an increase of £75m from 2020.
+Employment and Workforce: The creative workforce in Kirklees exceeds 9,400 people, significantly higher than official employment figures suggest.
+Business Growth: There were 899 creative business starts between April 2021 and June 2024, with 691 remaining active.
+Clustering: Significant creative clusters exist in sectors such as advertising and marketing, music, performing and arts, and film and television.
+Opportunities: Kirklees demonstrates potential for growth in areas such as film and television production, music tourism, and creative skills development.
+Challenges and Recommendations:
+Take the opportunity of a strong commitment to Culture, Heritage and Sport at regional level and an incoming UK Government to address the discrepancy between official statistics and actual sector performance to make a stronger case for investment.
+Work with colleges, universities and the private sector to improve creative skills training and development, particularly in digital technologies and AI applications.
+Enhance support for creative freelancers and micro-businesses, including through developing the Creative Kirklees network. 
+Develop strategies to spread the benefits of the creative sector more evenly across the district. 
+Engage with regional initiatives to maximise opportunities in fast-growing markets like digital marketing and film and television.
+It is important for the Council, stakeholders and Kirklees businesses and residents to understand both the data, how those discrepancies occur and how evidence of creative people, businesses and assets in the borough can be used to make a case for more investment. 
+The starting point for this work aligned with community wealth building: a place-based and asset-led approach which builds on actual and emerging strengths, rather than seeking to identify a ‘deficit’ in need of intervention. This report provides a comprehensive analysis of Kirklees' creative economy, highlighting its strengths, challenges, and potential for future growth. By addressing key issues and leveraging existing assets, Kirklees can strengthen its position as a hub for creative industries and cultural activity.
+
+
+SCALE AND SIGNIFICANCE OF CULTURAL AND CREATIVE INDUSTRIES IN KIRKLEES
+1.1	CREATIVE BUSINESSES
+Change in company numbers 2015 to the present
+Business counts from the Office of National Statistics’ (ONS) Inter Departmental Business Register (IDBR) are the measure commonly referred to in national data on cultural and creative industries (CCI). This record showed no growth in company numbers in Kirklees between 2015 and 2023; in fact, the number fell from 1,025 to 940 businesses. This would put Kirklees far below the national average and the performance of other regions.
+IDBR data also suggested that business had not recovered from the impact of the Covid-19 lockdowns, with numbers falling back from a pre-pandemic peak of 1,070 in 2019.
+Table 1 Change in Kirklees Creative Industries businesses 2015-23
+Source: The Fifth Sector analysis of IDBR data, via Nomisweb, June 2024
+Analysis of IDBR from 2015 to 2023 reflected volatility in the number of IT, software and computer services businesses, which was lower than at any time since 2015 – there was a fall in software development and computer consultancy businesses of nearly 40% from their peak in 2019 to the latest available data for 2023. With the number of creative businesses more or less static in other sub-sectors, the result was an overall reduction in Kirklees’ creative business population.
+Comparison of business datasets
+As reflected in our previous report, IDBR data are based on a national survey which is drawn from a sample of fewer than 2% of active businesses. Whilst this survey is carried out annually on a consistent basis (and therefore gives us a benchmark for relative changes over time), it is not a census of businesses in Kirklees.
+To address concerns that some kinds of businesses – particularly creative microenterprises – are underrepresented in national statistics, we have consistently used Beauhurst, an independent platform which combines data from several sources, including Companies House, to give a fuller picture of the sector’s business population and performance. 
+At the time of our analysis in June 2024, Kirklees was home to 1,730 active cultural and creative enterprises – 785 more than recorded in national statistics and an increase of 120 (7.5%) since our last report in 2022.
+
+Table 2  Kirklees Cultural and Creative Industries business count
+Source: The Fifth Sector analysis of Companies House data, via Beauhurst, June 2024
+The largest sectors (by number of business units) were:
+IT, software and computer services (640)
+Music, performing and visual arts (305)
+Film, television, video, radio and photography (195) 
+Advertising and marketing (190)
+Design and designer fashion (145)
+Rapid growth in the number of Music, performing and visual arts businesses – an increase of 115 business, or 56% - made it the second-largest sector. There are also over 100 architecture practices in Kirklees (including AHR), which makes this a significant employment sector.
+Table 3 Discrepancies in business counts between IDBR and Companies House data
+The Fifth Sector analysis of active businesses, via Beauhurst, and Interdepartmental Business Register (IDBR) 2023, accessed via Nomisweb, June 2024. Totals rounded to nearest 5 to minimise risks of disclosure – therefore sum of all sub-sectors may not equal the total shown.
+These totals did not take account of the large number of ‘informal’ venues in part-time operation across Kirklees. Addition. There was a high diversity of other venues operated by charities, trusts and mutual societies and independent artists, but not included in the count of creative businesses, including:
+The Civic, Holmfirth (https://thecivicholmfirth.org/)
+Marsden Mechanics (https://www.marsdenmechanics.co.uk/)
+Wilshaw Village Hall (https://www.wilshawvillagehall.org.uk/about-2)
+Holmfirth Tech (https://holmfirthtech.co.uk/)
+Society (https://www.societyholmfirth.co.uk/)
+Booth House Gallery (https://www.jimrobison.co.uk/) 
+To illustrate the potential scale of those other, ‘informal’ activities, the ‘Fringe’ listing for Holmfirth Art Week in July 2024 showed 52 venues, only one of which was a registered company within scope of our search of creative businesses. 
+New business starts
+There were 899 creative business starts between 1 April 2021 and 30 June 2024, of which 691 remained active at the end of that period. The proportion of all Kirklees creative companies active at 30 June 2024 which had been formed since April 2021 was highest in:
+Crafts (68% - although on the basis of a small number of businesses)
+Advertising and marketing (51%)
+Music, performing and visual arts (41%) 
+Film, TV, video, radio and photography (41%) 
+IT, software and computer services (41%)
+Table 4 New business starts from 1 April 2021 to 30 June 2024
+The Fifth Sector, 27 June 2024. Analysis included all registered companies shown as ‘Active’ at Companies House.  Totals rounded to nearest 5 to minimise risks of disclosure; percentages reflect unrounded totals.
+
+Location of creative organisations across Kirklees
+Mapping all creative organisations allows us to see the emerging clusters, hot spots and cold spots across and around Kirklees.
+The choropleth (Figure 1) includes 1,698 businesses within DCMS CCI sectors and a further 32 sites of museums, galleries and libraries.
+Evidence of “micro clusters” of similar types of businesses can be found across the district:
+Figure 1 Location of creative enterprises in Kirklees (by ward)
+[to follow]
+Source: The Fifth Sector/Insightful Industries 2024
+
+
+
+1.2	CREATIVE EMPLOYMENT
+Creative employment – BRES
+As with the count of businesses, ONS data gives a more pessimistic view of creative industries employment than other sources. The Business Register and Employment survey (BRES) suggests a continued fall in CCI employment, from 3,750 in 2015 to 3,250 in 2019, with a precipitous drop of a further 500 jobs to April 2020, the start of the pandemic. National statistics then went on to reflect a recovery in sector employment in Kirklees from 2,755 in 2020 to 3,470 in 2022, the latest year for which ONS data have been published - but sector employment is still below 2015 levels. 
+Table 5  Change in Creative Industries employment in Kirklees 2020-2022
+
+Source: The Fifth Sector analysis of BRES 2022, via Nomisweb, June 2024
+Analysis revealed a striking restructuring of cultural and creative industries employment in Kirklees between 2020 and 2022:
+Advertising and marketing jobs grew more than fivefold, from 120 employees in 2020 to 670 in 2022.
+IT, software and computer services employment fell by an almost identical amount, from 1,760 full and part time employees in 2021 to 1,225 in 2022.
+Film, TV, video, radio and photography grew from 230 employees in 2020 to 505 in 2022.
+Music, performing and visual arts grew from 115 in 2020 to 200 in 2022.
+There have also been significant changes in some of the other larger businesses in the district which are associated with the creative economy but are registered either in a SIC code which relates to a ‘non-creative’ sector or in another Head Office location, as  referenced in our previous report:
+UK Greetings, which analysis of Beauhurst data showed had added 200 employees between 2020 and 2020 and a further 330 by February 2023 to bring its total employment to 2,690.
+Conversely, Principle Global saw employment fall from 462 to 291 between 2020 and 2022; and Huddersfield is now just one of nine locations of AHR Architects.
+DCMS uses a separate definition of the Cultural sector, which focuses on a narrower set of  ‘core’ artistic and creative occupations and adds in other activity, such as operation of historic buildings. Analysis of BRES on that basis (see Table 5) highlighted greater volatility in sectors including:
+Film, TV and Music (up from 165 in 2020 to 420 in 2022)
+Arts (which more than doubled in size between 2020 and 2021 before dropping back slightly to a total of 140 full and part time employed in 2022), 
+Photography, where employment fell from 70 to 30 between 2020 and 2021 and then rebounded to 105 jobs in 2022.
+Table 6  Change in Cultural sector employment in Kirklees, 2020-22
+Source: The Fifth Sector analysis of BRES 2022, via Nomisweb
+1.3	CREATIVE WORKFORCE
+Restating our findings from previous studies in Kirklees and across England, BRES data tend to overstate the significance of IT, underrepresent employment in sectors including Music, performing and visual arts, and seem out of kilter with evidence of the number of businesses within other sub-sectors (including Advertising and marketing and Film, TV, video, radio and photography). Reasons for this include:
+The sampling methodology used to calculate employment by ONS is based on a comparatively tiny proportion of active businesses – fewer than 85,000 out of more than 4 million registered firms in Great Britain. Repeated studies suggest that this leads to an underestimation of the scale of the creative workforce.
+BRES data is based on the Standard Industrial Classifications – SIC codes – chosen by the employer, not on the occupation of the employee. Not all employers choose a SIC code which accurately represents the nature of their business, which can in turn lead to further discrepancies in estimates of employment.
+BRES counts of employment are based on payroll returns to a workplace location. LinkedIn asks subscribers to identify a location but does not specify that it needs to be their place of employment. Some of those identifying a Kirklees location may therefore be employed (either salaried or freelance) in other parts of West Yorkshire, South Yorkshire, Greater Manchester or further afield.
+Innovative approaches to address gaps in workforce data 
+To address some of the shortcomings of ONS data, we repeated an analysis of LinkedIn initially carried out in 2022. This confirmed that the creative workforce was made up of both employed, self-employed and freelance workers. It also counts individuals who may be underemployed, in that they may be undertaking some creative work as part of a ‘portfolio’ of other work, as well as the unemployed.
+At the time of our analysis in March 2024, Kirklees had a creative workforce in excess if 9,400 people.
+LinkedIn workforce data
+Table 7 Evolution of LinkedIn workforce data 2022-2024
+Source: The Fifth Sector / Insightful Industries 2024
+Our 2024 study reflected a significant increase amongst LinkedIn subscribers (883 individuals, 50%) in Creative Content occupations, including music. There was also strong growth in Creative Services (464 individuals, 15%) and Creative Originals (261, 20%). The percentage increase was greatest in Creative Experiences, which grew by 54% from a lower base. 
+A change in LinkedIn Industry definitions early in 2024 meant that we could not carry out a ‘like for like’ analysis in every case. In particular, the changes removed the previous code for ‘Information Technology and Services’, used in 2022 analysis of a combined ‘Software’ sector, which resulted in a seemingly precipitous fall in Kirklees’ software development workforce. However, this means that the LinkedIn evidence for the combined workforce of 1,512 in Computer Games (included within the Creative Content supply chain), Software Development and Social Networking Platforms much more closely reflects the BRES total of 1,225 for the equivalent DCMS Creative Industries sub-sector of IT, software and computer services than was the case in our previous analysis. This both gives a more accurate reflection of the relative proportion of software-related jobs in the creative workforce – 16% total, rather than 36% as shown in BRES - and doesn’t conflate these with engineering and IT support roles.
+However, these variances should be taken into account alongside other trends we would observe, including:
+Those working in public-sector managed museums and libraries tend to be less likely to use LinkedIn as a source of employment opportunities
+The proportion of artists and creative freelancers using LinkedIn is anecdotally reported as being lower than that for platforms which may bring them more directly into contact with buyers or commissioners, including Instagram, Facebook and Etsy.
+Analysis of creative workforce by employment type
+For our 2024 report, we carried out an additional analysis of employment type not previously conducted. Of the total 9,407 individuals reporting a creative occupation on LinkedIn, 5,908 (63%) said they were in full or part time employment, with an additional 3,499 individuals identifying as freelance, self-employed, contractors or employed as part of an internship. 
+Table 8  Analysis of LinkedIn by employment type
+Source: The Fifth Sector / Insightful Industries 2024
+Creative sub-sector analysis of LinkedIn data
+We have analysed the sub-sector breakdown of the creative workforce by matching LinkedIn industry codes as closely as possible to the DCMS definition of Creative Industries sub-sectors. We also conducted a similar analysis for the DCMS definition of the Cultural sector to provide more granularity of arts occupations. Because the definitions have a large degree of overlap, the totals for Creative Industries and Cultural sector are not cumulative.
+
+Table 9 Creative Industries workforce in Kirklees, June 2024
+The Fifth Sector analysis of LinkedIn and BRES, June 2024 
+
+Table 10  Cultural sector workforce in Kirklees, June 2024
+The Fifth Sector analysis of LinkedIn and BRES, June 2024 
+Why do the counts of employment and workforce differ so much? 
+Analysis of LinkedIn showed that the creative workforce in Kirklees in 2024 was 5,937 larger than the employment total for 2022 reported in national statistics. The discrepancy between employment totals in BRES and our analysis of LinkedIn can be attributed to:
+A continuing trend of growth in creative employment between 2022 (the latest date for which BRES data were available) and the time of our measurement in 2024 – although this was unlikely to make up the difference of more than 2,500 full time and part time employed roles between BRES and LinkedIn.
+Some of those identifying as being in full or part time employment may have done so whilst working in a freelance or self-employed capacity – LinkedIn is self-reporting, rather than monitored through payroll records.
+It is probable that none of those given their occupation type as freelance and self-employed, and only a small proportion of those identifying as contractors or interns, would have been registered for PAYE. Most would, therefore, have been excluded from the BRES data.
+Figure 2 Comparison of LinkedIn and BRES data for creative employment and workforce – Creative Industries 
+
+
+The Fifth Sector analysis of LinkedIn and BRES, June 2024 
+
+
+The largest discrepancies observed in Creative Industries workforce were in:
+Advertising and marketing – workforce (LinkedIn) 1,725 larger than BRES employment, a difference of 157%
+Music, performing and visual arts – difference of 1,290 (545%)
+Design and designer fashion – difference of 885 (2225)
+The greatest percentage difference was in Crafts, which showed a workforce of 300, 20 times that of the employment figure for jewellery designers shown in BRES.
+Again, repeating the analysis for Cultural sector definitions more clearly highlights differences within some creative occupations:
+Table 11  Comparison of LinkedIn and BRES data for creative employment and workforce – Cultural sector
+
+The Fifth Sector analysis of LinkedIn and BRES, June 2024 
+
+The greatest discrepancy observed here was clearly in Arts (made up of the SIC codes used to define: Performing arts; Support activities to performing art; Artistic creation and Operation of arts facilities), which showed a creative workforce 1,315 greater than the employment total in BRES – a difference of 839%. This clearly demonstrated the significance of freelance and self-employed artists and producers and their under-representation in national statistics.
+
+
+Creative workforce in West Yorkshire
+Analysis of the creative workforce across the West Yorkshire Combined Authority region, carried out at the same time as the Kirklees study, identified 87,434 individuals with creative occupations. Whilst a significant proportion of that workforce was likely to be employed within the city ‘core’ of Leeds, it also reflected the presence of a pool of creative talent available to support the growth of creative businesses in Kirklees. 
+Data for West Yorkshire reflected significant clustering of activity in advertising and marketing, software development and film and television.
+Student creative workforce
+LinkedIn provides evidence of a supply of new entrants from the region’s Universities (including Huddersfield) and local colleges: more than 1,600 students in Kirklees were registered on LinkedIn as having a creative occupation, out of a total of 12,939 across West Yorkshire. Adding students to the count brought the total creative workforce in Kirklees to over 11,000 individuals, and that of West Yorkshire to over 100,000.
+
+
+1.4	ECONOMIC IMPACT
+Kirklees Creative Industries Output 2022
+We estimated that GVA from Cultural and Creative Industries in Kirklees in 2022 amounted to £250.9m. This is made up of:
+£239.4m, an increase of £83.4m (or 53%) on total output for the sector in 2020, calculated on a like-for-like basis. 
+£11.5m estimated output from music-related occupations in non-creative industry sectors
+Table 12 GVA of Kirklees' creative industries
+Source: The Fifth Sector 2024
+The increase in cultural and creative industries sector output arises from a combination of:
+An increase of 26% in full and part time employment (from 2,755 to 3,470).
+A 22% increase in GVA output per capita (from £56,636 in 2020 to £68,995 in 2022).
+Analysis of Creative Industries revealed some significant changes in the scale and significance of individual sub-sectors of Kirklees’ creative economy:
+Film, TV, video, radio and photography saw the largest net increase in GVA, of £28.4m, an increase of 192%.
+GVA rose most sharply in Advertising and Marketing, by £25.1m – an astonishing 429% growth over the two years – driven by growth in employment, although GVA per capita for the sub-sector fell slightly in that period.
+Music, performing and visual arts GVA grew by 142%, from £3.1m in 2020 to £7.5m in 2022.
+Despite a fall in employment in the sub-sector, GVA from IT, software and computer services rose from £98.1m to £117.2m in the same period, representing the highest GVA per capita of any creative sub-sector, of £95,856.
+We observed in these figures the effect of a change in the way in which employers used SIC codes to define their industry, with proportionately more start-ups registering under Advertising and marketing and fewer under IT, software and computer services. 
+Table 13  Analysis of Kirklees Creative industries GVA
+Source: The Fifth Sector 2024
+
+Carrying out the same analysis for the DCMS definition of Cultural sectors highlights the relative importance of Film, TV and Music, but also demonstrates that arts and cultural sectors have lower output per capita than some other parts of the Creative Industries:
+Table 14 Analysis of Kirklees Creative industries GVA
+Source: The Fifth Sector 2024
+Projecting the true scale of Kirklees’ creative economy
+However, we previously observed that data for creative employment only told part of the story. A better measure of the true scale and capacity of Kirklees’ creative economy was derived using a combination of LinkedIn data on creative employment and DCMS Sector Estimates for the economic output of Creative Industries and Cultural sectors. The latter gives a more specific ‘fingerprint’ of total output and GVA per capita for the sector than GVA data produced on the basis of SIC codes, including a more accurate estimate of earning from exports of creative goods and services. DCMS Sector Estimates are, however, only prepared on a national, not regional or local authority basis; and we had therefore to bring in some other data in consistent methodology by which to ‘scale’ national figures to outputs attributable to Kirklees.
+This analysis produced a much higher estimate for GVA of £599.9m – of which the cultural and creative sector portion (£588.4m) was 146% greater than the estimate based on BRES data alone., 
+Table 15 Kirklees creative economy GVA projected on basis of the scale of the creative workforce
+
+Table 16  Kirklees Creative Industries GVA projected on basis of the scale of the creative workforce
+
+This revealed a very different picture of the scale and relative weighting of individual creative sub-sectors from that painted by BRES employment data.
+Advertising and marketing confirmed its significance, representing highest employment, GVA and levels of individual productivity of any creative sub-sector –  a workforce of 2,395 generating GVA of £208.7m, equivalent to £87,119 per capita.
+Music, performing and visual arts accounted for a workforce of 1,490 and GVA of £108.7m (£72,784 per capita), closely followed by Film, TV, video, radio and photography (1,220, £94.7m and £77,651 per capita respectively).
+Design and designer fashion also emerged as a stronger sub-sector, with a sub-sector workforce of 1,160 generating £53.5m in GVA, with individual output just over £46k per annum. It also demonstrated significant level of clustering, with an LQ of 4.25.
+The relative significance of IT, software and computer services was much reduced – although still the second largest sub-sector by workforce at 1,540, GVA per capita was much lower at £28.3k, resulting in GVA of ‘only’ £43.5m.
+Crafts – almost invisible in ONS data as either a business or employment sector – was revealed as a significant part of a wider ‘making’ sub-sector including arts and crafts and jewellery design, accounting for £18.9m in GVA from its workforce of 300 people, each generating more than £63k in output. 
+Clustering
+Nesta’s 2016 report into The Geography of Creativity  holds an important lesson for smaller creative districts such as Kirklees:
+“Specialising in a smaller number of creative sub-sectors with a high technology component … may be less ‘hip’ than creative cities like Brighton, Liverpool and Glasgow, but our research suggests they make significant economic contributions. In particular, they are associated with larger-sized creative businesses, and potentially higher levels of business productivity.”
+Sector analysis and the evidence of relatively poor levels of connectivity and interaction in the creative sector across the district highlight the need for different models of growth:
+“Before jumping to the conclusion that stronger specialisation is the way to grow creative businesses and secure productivity gains, however, we need to remember that freelancers give creative businesses the flexibility to scale up and down in response to the vagaries of creative markets and help diffuse knowledge between creative businesses (thereby making important contributions to the creative ecosystem).”
+Another risk to the cluster highlighted by Nesta’s research is evidence of undersupply of graduate talent from local HEIs, which, 
+“tentatively point[s] to a potential barrier for the continued success of creative conurbations that appear to have less ready access to talent, research and knowledge exchange resources than those in other creative clusters.”
+As alluded to in our summary of GVA above, analysis of creative occupations and outputs relative to LinkedIn-derived estimates of creative workforce DCMS Sector Estimates for economic output also gave a clearer impression of the extent of clustering of creative occupations within Kirklees. We observed a location quotient, or LQ, of 1.23 for creative industries and 1.55 for cultural sectors. These are significant because higher levels of agglomeration are a reflection of higher levels of specialisation and physical ‘clustering’ within and across creative industries, which in turn presage higher levels of collaboration and productivity by individuals and businesses within the cluster. 
+LQs of 1.0 and above, meaning that the concentration of creative occupations within those sub-sectors was equal or greater to the average for the whole of Great Britain, were identified in:
+Crafts – 13.05 (in other words, craft occupations were relatively 13 times more concentrated in Kirklees than the average for Great Britain).
+Photography – when analysed as a stand-alone sub-sector of Culture, it had an LQ of 4.39.
+Design and designer fashion – 4.25
+Advertising and marketing – 2.80
+Music, performing and visual arts – 2.43
+Film, TV and Music (analysed using DCMS’s Cultural definition of the sub-sector, with Photography removed) – 1.05
+Architecture – 1.04
+The LQ for any creative sub-sector is skewed by the outsized representation of those businesses in London and the South East, which together represent about 60% of the creative industries in Great Britain. Therefore, for any business outside those regions to register an LQ of 1.0 or above represents a significant level of agglomeration and a clear indication of opportunities for greater specialisation and productivity.
+
+
+
+
+1.5	SUB-SECTOR TREND ANALYSES
+Arts
+Our updated analysis provided further evidence of the resilience of Kirklees performing and visual arts sector, which demonstrated an incredible ‘rebound’ in both workforce and output following the disruption of multiple lockdowns in 2020-21. It will remain important to maintain a dynamic cultural offer to ensure that Kirklees can retain and build upon the advantages offered by the diversity and dynamism of its creative artists and producers.
+Advertising and marketing
+Analysis of the creative services supply chain, including advertising, marketing, graphic design, digital agencies and architecture, demonstrated the emergence of this as a significant supply chain within Kirklees,, influenced in part by growth and in part by increasing specialisation within digital marketing drawing on development of both new product and software in new service offers.
+Design and designer fashion
+The 2016 study of Kirklees creative economy highlighted the strengths of design and this has been reinforced by our subsequent studies, which showed continued growth of the design workforce to 1,160 individuals and GVA of £53.5m. This growth has been supported by Wilson’s Republic, which continues to promote the borough’s design businesses and offers both networking, peer support and supply chain linkages within design and with other creative sectors. The influence of the University’s design courses has been a significant factor in the attraction and retention of design talent.
+Film and television
+BFI data shows that combined spend by film and high-end television production (HETV) 2023 reached £4.23 billion, 32% down on the record levels observed in 2022 as production ‘caught up’ with gaps in scheduling left by successive lockdowns, but almost level with pre-pandemic levels. Lacking significant production and postproduction infrastructure, Kirklees’ remains dependent on the ability of its creative producers to leverage opportunities and investment for new IP development. We have observed fluctuating levels of commissioning for crew and production services across the UK film and HETV sector which may leave Kirklees’ based freelances exposed to sudden changes in demand resulting in a ‘feast or famine’ environment.
+Architecture
+Although still characterised as a sector of micro and small enterprises, architecture practices tend to be larger than equivalent businesses in other creative sectors. A focus on identifying and growing existing practices to ensure that they continue to be able to specialise and attract talent could be further developed with support from the University of Huddersfield and greater engagement of sub-regional and wider sector networks .
+Megatrends
+Our wider research has identified two key ‘megatrends’ which will have a significant impact on the development of creative industries in Kirklees, as much as in other places: 
+The future of agency and client relationships
+AI and the future of creative work
+Future of agency and client relationships: Kirklees' advertising and marketing sector has shown significant recent growth; but may need to adapt to changing client expectations and the rise of in-housing. In context of the increased opportunities presented by the growth of digital marketing, software development and film and HETV across West Yorkshire, this could involve developing more specialised services or focusing on areas where they can maintain influence on creative development. 
+AI and the future of creative work: The impact of AI on Kirklees' creative workforce could be substantial. Our mapping of skills supply highlighted a relative lack of supply of programs in creative digital skills and support for workers transitioning to new roles. Kirklees does not currently boast any advantages in digital infrastructure which could be leveraged to explore innovative applications of AI in creative production – this may necessitate more collaborative relationships both between creative and tech businesses in Kirklees and more widely to leverage the high levels of investment in tech in the city cores of Leeds and Manchester.
+To fully benefit from these trends, Kirklees should focus on:
+Developing specialised skills and services that complement rather than compete with in-house client capabilities.
+Investing in AI-related education and training programs to prepare businesses, the existing workforce and potential new entrants for future challenges and opportunities.
+Information, advice and guidance to prepare both graduates and those currently employed in sectors which may be at more risk of disruption from digital technologies for the opportunities in digital and creative.
+Leveraging existing strengths in music and performance to explore new formats and distribution channels enabled by these technologies.
+By proactively addressing these megatrends, Kirklees can position its creative industries for future growth and competitiveness in the evolving digital landscape.
+
+SECTION 2: MUSIC IN KIRKLEES
+In addition to its economic output, music plays a critical role in engaging people in cultural activity and production. Kirklees Year of Music 2023 demonstrated strengths in both professional and amateur sectors, and in the use of music in other activity, including festivals, teaching and therapeutic settings. In addition to its direct contribution, music contributes to the value of nearly every other creative sector and the same elements of the production supply chain also serve live events, festivals, television and film. 
+Kirklees contains some part of nearly every element of the professional music supply chain, including both live and recorded music, labels, promoters, talent management, venues, recording and rehearsal spaces and production services such as staging, lighting and sound. KYOM23 also demonstrated a strong community base of bands, choirs and non-commercial performance venues including churches and community centres. In 2022 we estimated that there were upward of 120 places across Kirklees at which live music was enjoyed in some form at some point in the year – findings which need to be updated using the evaluation of KYOM23.
+Scale and significance of Kirklees’ music economy
+DCMS sector definitions do not identify a specific music sector – it is combined variously with Music, performing and visual arts (Creative Industries definition), Film, TV and Music and Radio (Cultural sector) and Film, TV, video and radio (Digital sector). To try to address this, we used LinkedIn to examine the scale and significance of Kirklees’ music workforce through two different lenses:
+Musicians – 649 subscribers identified their primary occupation as ‘Musician’
+Other music industry related codes – we identified a further 346 individuals with music-related occupations within other industries
+The results were analysed using an attribution of GVA per capita relating to the industry sector or sub-sector which most closely matched the main music-related occupation  of each subscriber. This produced a total estimated £40.2m of music-related GVA with an average GVA per capita of £40,452:
+Musicians - £28.7m
+Music-related occupations in other industries - £11.5m
+Our previous estimate in 2022 included an estimated £3.5m of GVA for 14 registered music venues and a share of the income of a further 120 licensed premises and other venues which include elements of ‘paid for’ live music - we have not yet repeated this analysis for 2024 but this could be facilitated with further data from evaluation of KYOM23.
+The 2022 report also included an estimated £21m for music tourism, based on an 8% apportionment of music tourist spend for Yorkshire and the Humber in proportion to Kirklees’ population. We have not repeated this analysis for 2024, as UK Music has not updated its audit of visitor economy revenues from music since 2020. 
+Table 17  Kirklees Musicians and performers GVA
+Source: The Fifth Sector analysis of LinkedIn (2024) and ONS BRES, GVA and ITL3 productivity statistics (2022)
+
+Table 18  GVA from music-related occupations in other industries
+Source: The Fifth Sector analysis of LinkedIn (2024) and ONS BRES, GVA and ITL3 productivity statistics (2022)
+There are three further factors which could demonstrate additional GVA for music:
+A further 1,688 individuals identified music-related skills within their LinkedIn profile – we have no reliable methodology for attributing income to those activities
+There has been discussion with the local music hubs about potential work with WYCA and other partners to identify a methodology by which to evaluate the impact of music on the visitor economy of the city region.
+Most significantly, we have not applied any GVA multipliers for indirect spend relating to hospitality and the visitor economy.
+
+
+
+
+SECTION 3:  STRENGTHS AND SHORTCOMINGS
+The outcomes of the research are in some cases contradictory and low levels of published data on the economic output of freelance workers make it difficult to gain a complete understanding of the productivity of Kirklees’ creative sectors, and its comparative standing with neighbouring districts with higher levels of creative employment.
+Strengths and shortcomings
+The overall picture is of a growing business base, with increases in creative employment and a healthy and thriving cultural ecology at grassroots level across the district. However, the evidence suggests that Kirklees creative businesses are smaller than both the national and city region average, which may have implications for their resilience, productivity and capacity to adapt to changing market opportunities. This is reinforced by the lack of investment in R&D amongst those businesses, despite the efforts of University of Huddersfield to promote this. Benefits of the creative sector are not evenly spread; towns in the east of the district including Batley and Dewsbury have far lower numbers of businesses, although this is somewhat redressed by employment within Dewsbury’s textiles manufacturing sector.
+Opportunities
+In our 2022 report, we stated:
+‘By taking a more active role in supporting skills development and investment in high growth sectors including film and high end television, it could quickly start to address the productivity gap between itself and its larger metropolitan neighbours, Leeds and Manchester. Those commercial opportunities contain a pathway to increase the diversity and inclusion in employment and leadership of the cultural and creative sectors, in turn presenting new pathways to employment for some of Kirklees’ most excluded and socio-economically deprived communities. In the process, this would help cement the gains made by the Council’s consistent investment in cultural events over more than a decade, strengthening Kirklees’ narrative as a borough with a strong and distinctive cultural offer, in particular around music, and a great place for creative practitioners to base themselves and their businesses.’
+In revisiting the evidence for the sector in 2024, we found nothing to contradict this analysis. However, we would add that the accelerating pace of adoption of digital technologies, in particular Generative AI, represents an as-yet unmet opportunity to a whole range of creative producers in Kirklees, including those in arts and culture.
+Strengths
+The findings highlight some key strengths:
+The sector is larger than reflected in national statistics, both in number of businesses and in employment terms.
+Sector output is conservatively estimated at £250 million – a 83% increase since the last study of this kind, undertaken in 2022. We have seen growth in both workforce and productivity over the last two years.
+The overall growth of creative employment in Kirklees seems not to have been stalled by the impact of Covid-19, although the picture for creative businesses in mixed, with a growth in startups not yet reflected in BRES data for registered companies. We observed that impact and rate of recovery were not evenly distributed across creative sectors.
+Kirklees benefits both from a large and active community of creative freelances and a much larger workforce in its immediate hinterland, which stretches across large parts of West and South Yorkshire and into the Eastern edge of Greater Manchester. In particular, clustering of digital marketing, software development and film and TV production in Leeds’ city ‘core’ has resulted in dramatic increases in both the scale and productivity of the creative workforce across West Yorkshire.
+The impact of creative businesses and employment is felt more widely across the district than has previously been observed, with significant activity in places such as Cleckheaton, Mirfield and Holme Valley as well as. In and around Huddersfield town centre.
+Kirklees is home to some significant creative assets – cultural institutions such as the Lawrence Batley Theatre are complemented by the large and activist presence of the University of Huddersfield and an eclectic mix of commercial and community venues for arts, culture and live performance in all genres.
+The borough is home to internationally significant music festivals including Huddersfield Contemporary Music Festival, Cleckheaton Folk Festival and Marsden Jazz Festival.
+Shortcomings
+Evidence of wider benefit from the sector does not extend to areas such as Batley and Dewsbury.
+The inconsistency of evidence around the supply of software development skills and the prevalence of cross-sector collaboration in production and R&D suggested that Kirklees’ creative sector, including arts and cultural practitioners, may be less able to respond quickly and effectively to threats and opportunities presented by the advance of digital technologies, particularly in applications of Gen AI.
+At a strategic level, the borough has not identified how it might take a leadership role in any of the initiatives to support culture being promoted by West Yorkshire’s elected mayor, herself a native of Batley and actress and screenwriter by trade.
+Opportunities
+There are some clear opportunities for Kirklees to strengthen its narrative, attract more investment to the sector and provide new opportunities for skills development and employment in the creative sector which would help “level up” its most deprived communities. These include:
+Ensure that the Council and the borough’s content and production services businesses are fully engaged with regional initiatives in film and television, which is a fast-growing market with shortages of skills and talent which could be addressed by Kirklees residents.
+Use evidence from the evaluation of Kirklees Year of Music 2023 to continue to build capacity amongst and emphasise the supply chain opportunities between Kirklees-based musicians, music enterprises and production services businesses, as well as the opportunities to promote the brough as a destination for music tourism.
+Engage local education providers, particularly at FE level, to address gaps in the provision of creative skills training and ensure sure that students can pursue creative skills pathways in specific disciplines from entry to higher level without having to move away from Kirklees.
+Improve provision of training in a range of creative technologies which are already a minimum requirement for entry into many creative industries occupations. Analysis of industry ‘megatrends’ highlighted how provision of ‘future skills’ around digital production and application of AI were increasingly essential determinants of the success of initiatives to help improve business planning and workforce development in all sub-sectors of the large cohort of creative microbusinesses in Kirklees, not just those involved in creation of digital content.
+APPENDICES 
+Appendix 1: Methodologies used to calculate GVA of Kirklees’ creative economy
+The estimate for 2020 GVA output given in our equivalent report in 2022 was £176m. The discrepancy (a reduction in reported GVA of £20m) is accounted for by availability of more up-to-date and verified statistics for industrial output and productivity, recalculated by ONS to take account of the impact of lockdowns on economic activity and available on a narrower set of industry definitions (e.g., 2-digit SIC codes which offered a higher level of accuracy than the SIC 07 Section codes used to produce our earlier estimate.) The estimated GVA for 2020 in our 2022 report also included significant contributions from arts and culture (£50 million) and music and music tourism (£36 million) for which no equivalent data were available to us for 2022 output when we came to do this report owing to changes in methodology – e.g., MusicUK has not updated its ‘Wish You Were Here’ analysis of the economic contribution of music tourism since 2020.
+Revisions to the original report
+For our 2024 revision of the report, We applied a multi-method approach over the period January-May 2024. As well as drawing upon more narrowly defined and updated definitions of output and productivity from ONS and DCMS Sector Estimates to arrive at estimates of GVA which were both more accurate and more easily repeatable than those used in 2022, by combining evidence of creative workforce from LinkedIn with those official statistics we we able to offer a clearer sense of the potential for growth in workforce and productivity.
+Situational analysis and interrogation of ‘megatrends’ in the sector and wider economy were used to derive scenarios for the future prospects of the cluster.
+Clustering
+There are several barriers to defining clustering of digital and creative industries at the city region level. 
+The first is the national statistical evidence base. As Section I (above) demonstrates, national figures underestimate Kirklees’ business and employment base in the cultural and creative industries, often by a significant margin. This means that the standard measure of geographical agglomeration of the sectors which make up the creative economy - ‘LQ’, or location quotient - will also understate the extent and economic impact of clustering in absolute terms and relative both to the national picture for the sector and to the wider LCR economy. To provide more accurate estimates, we have constructed a different set of measures of LQ, drawing on a comparison of LinkedIn data and DCMS Sector Estimates, to inform our analysis of clustering and output. 
+Data on GVA
+Data on GVA were derived from multi-method analysis of a range of sources including:
+BRES data on employment for 2022 (which allowed us to estimate the clustering of creative employment, reflected in a Location Quotient or LQ)
+April 2024 release of ONS Subregional data on economic output per industry Section or sub-section (see Table 19)
+ONS Subregional Productivity June 2024 release (which provided data up to and including 2022, allowing us to compare data for 2022 with our previous report based on 2020 data)
+DCMS Economic Estimates for Creative Industries and Cultural sectors. We applied these conservatively, basing our estimates on 2022 data – the last year for which returns had been consolidated at time of our analysis, and consistent with the ONS datasets for wider industry outputs and regional productivity – rather than using the latest data available (up to the first quarter of 2024).
+Detail of how these datasets were combined and interpreted are shown in Table 19 below:
+
+Table 19 Comparison of methods used to calculate LQ and GVA
+The Fifth Sector 2024
+
+Figure 3  Calculation of Location Quotient 
+Source: https://mn.gov/deed/assets/QCEW_LocQuo_tcm1045-571856.png
+
+Appendix 2: Supply chain definition and analysis
+In order to be able to take a consistent approach to understanding the relationship between creative workforce and its distribution across companies, employment and provision of skills, we applied supply chain analysis to evidence of creative workforce extracted from LinkedIn.  This allowed us to consider evidence for how the creative workforce shares a common set of skills.
+Supply chain analysis also provided a rationale for calculating the economic output of the creative industries based on individual productivity, driven by specialisation within creative occupations, rather than just by employment within an industry. This highlighted potential for collaboration, development of transferable skills and integrated working between sectors.
+The five supply chain groupings we apply are shown in detail below
+
+
+Table 20 Creative supply chain definitions
+1.	Creative Content
+Book and Periodical Publishing
+Newspaper Publishing
+Periodical Publishing
+Book Publishing
+Broadcast Media Production and Distribution
+Movies, Videos and Sound
+Animation and Postproduction
+Media Production
+Movies and Sound Recording
+Sound Recording
+Sheet Music Publishing
+Information Services
+Online Audio and Video Media
+Internet News
+Blogs
+Computer Games
+Mobile Gaming Apps
+Writers 
+Musicians
+Photography
+2.	Creative Experiences
+Historical Sites
+Museums 
+Circuses and Magic Shows
+Dance Companies
+Performing Arts
+Theatre Companies
+Libraries
+Galleries
+Retail Art Dealers
+
+3.	Creative Originals
+Apparel & Fashion
+Crafts
+Artists
+Other
+Design Services (split)
+Jewellery Designer4.	Creative Services
+Advertising Services
+Public Relations and Communications Services
+Marketing Services
+Architecture and Planning
+Graphic Design
+Internet Publishing
+Business Content
+Internet Marketplace Platforms
+Design Services (split)5.	Technology, Information and Internet
+Social Networking Platforms
+Software Development 
+
+
+
+Source: The Fifth Sector 2024
+
+Appendix 3: Education and skills
+Skills gaps for creative freelances and microbusinesses
+We carried out an assessment of skills needs for creative freelances and microbusiness on behalf of WYCA as part of the development of a new skills and business support training programme. This suggested that current skills gaps within West Yorkshire fell into three broad categories:
+Freelance development support  
+While some current freelance development activities existed, our research showed they were often not tailored to sectoral needs or targeted at freelancers within a specific district. An exception was Wakefield's Xcellerator programme, originally aimed at Wakefield creatives, with some places later opened to WY creatives; and the Creative Bubbles programme, which has extended its reach from Kirklees to include other West Yorkshire businesses.
+Creative freelancers and micro-businesses tended to wear many hats for different income streams and were not attracted to the current business support model. Support therefore needed to be more tailored to the sector – flexible and preferably delivered by respected and valued practitioners. We noted that the freelance community was not defined by recent graduates but included many, often highly experienced, individuals who may have been working in the sector over a number of years and who were often multi-skilled across a range of sub-sectors.
+Support for leaders and managers
+The review of skills needs documentation showed gaps in any form of development support for leaders and/or managers within the creative workforce. The West Yorkshire Consortium of Colleges acknowledged in their report (Let's Talk Real Skills: Creative sector) that leadership skills represented a significant skills gap in the sector, both currently and going forward. 
+The same gap was highlighted in the Bradford Producing Hub report. A creative leadership program run by Creative Wakefield in 2022, developed in conjunction with Leeds University Business School, attracted significant interest from the sector but was confined to Wakefield leaders only.
+The importance of having the right leaders in place to move Bradford's cultural ecology forward and position it as an energiser for change was seen as vital. The JCNA and the Workforce report for the Bradford 2025 bid both identified the need to invest in creating the next generation of leaders in the arts and cultural sector to maintain momentum and culture's position in Bradford's offer post-2025 (BPH Report, June 2023).
+The importance of this was further highlighted within BPH's 'Culture is Our Place' strategy, which commited to drawing 50% of Bradford's creative workforce, audiences, and cultural leadership from people currently underrepresented in the culture and creative industries sector.
+New and future skills for the sector
+Our review of data showed gaps emerging around the application of digital skills related to new technologies. Interviewees drawn from employers, colleges and universities reported a gap in terms of possessing the technical skills required to create or perform, but there was also an increasingly evident issue of creatives not having the skills required to respond to changes in demands of work that necessitated a more digital approach to production.
+Skills needs
+Freelance development support
+The needs expressed were around a wide range of business support – from business development, marketing yourself and your business, financial planning and fundraising, pitching, etc., relating to business support skills such as financial management and strategic planning. This included sole traders who perceived that they lacked the necessary skills to grow their business, and employers who felt that their staff had some skills in this area but did not have a broad range of business areas. Fundraising skills were also one of the key skills needs reported in our research.
+Support for leaders and managers
+The review of skills needs documentation highlighted the need for leadership development across many sub-sectors – dance, music, production, etc. The speed of change within the sector, ever-evolving consumer trends, and disruptive technologies demanded sector-specific support. There was a need for more distributed models of leadership which gave individuals at all levels of an organisation the autonomy to make decisions and contribute to the effective operation of the business. Furthermore, business leaders needed to develop the skills to manage the digital change process.
+WYCA plans to complement the sector-specific training in skills and business support with a network of sector "champions" across the region for the development of future activity, with contracting to be concluded in July 2024 – that may contribute to meeting the needs identified above.
+New and future skills for the sector
+The creative industries have long used a range of technologies to create, distribute and attract audiences and clients. However, the rapid pace of recent technological changes continued to disrupt traditional methods. Immersive technologies (XR), Artificial Intelligence (AI), cloud technologies, and 5G all impact the day-to-day working of individuals and businesses within the sector. With increasing overlap between the digital and creative industries at all levels and within all sub-sectors – music, dance, theatre, advertising, production – new technologies and approaches were not only in demand but seen as vital for the future growth of micro-businesses and job opportunities for freelancers.
+
+
+
+Appendix 4: DCMS sector definitions
+Department for Culture, Media and Sport (DCMS) and Department for Science, Innovation and Technology (DSIT) use separate and overlapping definitions for Digital, Creative Industries and Cultural sectors (see Figure 1, below). We have focused on Creative Industries and Cultural sectors in our analysis and provided separate analyses of business numbers, employment, LQ and GVA in our dataset where this adds to clarity and granularity of the evidence.
+DCMS has prepared monthly economic estimates for the combined sectors since 2019. These were last updated in May 2024. Responsibility for digital economic estimates passed to DSIT in February 2024.
+
+Figure 4  Overlapping definitions of digital and creative sectors
+
+
+Appendix 5: Holmfirth Art Week Fringe
+The following venues were all used as part of the ‘Fringe’ offer of Holmfirth Art Week in July 2024:
+
+1. Bluebird Bakery - 4 Market Walk, Holmfirth HD9 7DA
+2. Cooper's Yard - Cooper Lane, Holmfirth HD9 3BP  
+3. Fair Trader - 32-34 Huddersfield Rd, Holmfirth HD9 2JS
+4. Holme Coffee House - 108 School Street, Holmfirth, HD9 7EQ
+5. Holmfirth Methodist Church - School St, Holmfirth, HD9 7EQ
+6. Holmfirth Mills - Huddersfield Road, Holmfirth, HD9 3JH
+7. Holmfirth Tech - 140 Huddersfield Road, Holmfirth, HD9 3AR
+8. The Kirkwood Shop Holmfirth - 17 Victoria Square, Holmfirth HD9 2ND
+9. Kutchenhaus German Kitchen Showroom - 59 Huddersfield Road, Holmfirth. HD9 3JP
+10. Nora Cocktail Bar - 8 Norridge Bottom Holmfirth HD9 7BB
+11. Nowhere - Norridge Bottom, Holmfirth HD9 7BB
+12. O'Briens Beer Café - 67 Huddersfield Road, Holmfirth, HD9 3AZ
+13. Peak Footwear - 57 Huddersfield road, Holmfirth, HD93JH
+14. Plants in the Holme - 12 Market Walk, Holmfirth, HD9 7DA
+15. Ribbles of Holmfirth - 27 Hollowgate, Holmfirth, HD9 2DG
+16. Sid's Cafe - 4a Towngate, Holmfirth, HD9 1HA
+17. So Dough - 54-56 Huddersfield Road, Holmfirth, HD9 3JH
+18. Society - 20-22 Victoria Street, Holmfirth, HD9 7DB
+19. Stamps - The Postcard Inn - 134 Huddersfield Road, Holmfirth, HD9 3AS
+20. The Old Tourist Information Centre - Address not provided
+21. Beaconsfield Gallery - 15 Paul Lane, Flockton Moor, Wakefield. WF4 4BP
+22. Booth House Gallery and Pottery - 3 Booth House Lane Holmfirth, HD9 2QT
+23. The Boshaw Trout - Penistone Road, Hade Edge, Holmfirth, HD9 2JG
+24. The Carlile Institute - Huddersfield Rd, Meltham, HD9 4AG
+25. The Crossroads Centre - 26 Huddersfield Road, Meltham, HD9 4AG
+26. Devour - Luke Lane, Thongsbridge HD9 7TB
+27. The Farmers Arms - 2-4 Liphill Bank Road, Holmfirth, HD9 2LR
+28. The Fourth Fiend Taphouse - 2 Station Street, Meltham, Holmfirth, HD9 5NN
+29. Hearth Pottery Yorkshire - The Pottery, St George's Road, Scholes, HD9 1UQ
+30. Holme Junior and Infant School - Meal Hill Road, Holme, HD9 2QQ
+31. Melody Thornton Studio - Bottoms Mill, Woodhead Road, HD9 2PX
+32. Mill Race Studio - Mill Race, 32 Dobb Lane, Holmbridge, HD9 2PE
+33. Cafe Root & Wellbeing Studio - Unit 1 & 2, Sude Hill Mill, Penistone Road, New Mill, Holmfirth, HD9 7DU
+34. Sculpture Lounge - Holmbridge Mill, Bank Lane Holmbridge HD9 2NE
+35. Somerton Art S P A C E - Liphill Bank Road, Holmfirth HD9 2LQ
+36. St David's Church, Holmbridge - Woodhead Road Holmbridge HD9 2NQ
+37. Stable Studios - 164 Marsh Lane, Shepley, Huddersfield. HD8 8AX
+38. Studio 132 - 132 Moor Lane, Netherton, Huddersfield HD4 7JJ
+39. The Summerhouse - 6 Mount View Road, Hepworth, Holmfirth, HD9 1JA
+40. Unit 12 - Unit 12, Clarence Mill, Woodhead Road, Holmbridge, HD9 2NE
+41. Wilshaw Church (St Mary the Virgin Church Hall) - 30 Wilshaw Road, Wilshaw, Meltham, HD9 4DZ
+42. Wilshaw Village Hall - Wilshaw Road, Meltham, Holmfirth, HD9 4DX
+43. Curated by Anna - Manchester Rd, Slaithwaite, Huddersfield HD7 5HP
+44. Enjoy Art Gallery - 12 Peel Street, Marsden, Huddersfield, HD7 6BW
+45. Globe 2 - Holme Mills, West Slaithwaite Road, Marsden, HD7 6LS
+46. Globe Arts Studio - Carr Lane, Slaithwaite, HD7 5AG
+47. Louise Watson Glass - Unit 17D Upper Mills, Canal Side, Slaithwaite, HD7 5HA
+48. Marsden Mechanics - Peel Street, Marsden, HD7 6BW
+49. A New Leaf Bookshop - 31 Britannia Road, Slaithwaite HD7 5HF
+50. Peel Street Social - 1 Peel Street, Marsden HD7 6BR
+51. St Bartholomew's Church - Church Lane, Marsden, Huddersfield, HD7 6DJ
+52. Zapato Brewery Tap - Holme Mills, West Slaithwaite Road, Marsden, HD7 6LS
+
+
+
+
+
+
+[TABLE 1]
+Creative Industries Sub-sector | IDBR 2023 | IDBR 2021 | IDBR 2019 | IDBR 2015
+Advertising and marketing | 105 | 95 | 100 | 85
+Architecture | 75 | 85 | 75 | 65
+Crafts | 10 | 10 | 5 | 5
+Design and designer fashion | 120 | 115 | 115 | 120
+Film, TV, video, radio and photography | 90 | 80 | 85 | 80
+IT, software and computer services | 380 | 470 | 530 | 495
+Publishing | 30 | 40 | 35 | 50
+Museums, galleries and libraries | 20 | 15 | 25 | 25
+Music, performing and visual arts | 110 | 95 | 100 | 100
+Total | 940 | 1,010 | 1,070 | 1,025
+[END TABLE 1]
+
+
+[TABLE 2]
+Creative Industries Sub-sector | Beauhurst 2024 | Beauhurst 2022
+Advertising and marketing | 190 | 165
+Architecture | 105 | 105
+Crafts | 25 | 15
+Design and designer fashion | 145 | 155
+Film, TV, video, radio and photography | 195 | 220
+IT, software and computer services | 640 | 630
+Publishing | 95 | 85
+Museums, galleries and libraries  | 30 | 20
+Music, performing and visual arts | 305 | 195
+Total | 1,730 | 1,610
+[END TABLE 2]
+
+
+[TABLE 3]
+DCMS Cultural and Creative Industries | Beauhurst 2024 | Beauhurst 2022 | IDBR 2023 | IDBR 2021
+Advertising and marketing | 190 | 165 | 105 | 95
+Architecture | 105 | 105 | 75 | 85
+Crafts | 25 | 15 | 10 | 10
+Design and designer fashion | 145 | 155 | 120 | 115
+Film, TV, video, radio and photography  | 195 | 220 | 90 | 80
+IT, software and computer services | 640 | 630 | 380 | 470
+Publishing | 95 | 85 | 30 | 40
+Museums, galleries and libraries | 30 | 20 | 20 | 15
+Music, performing and visual arts | 305 | 195 | 110 | 95
+Total | 1,730 | 1,610 | 940 | 1,010
+[END TABLE 3]
+
+
+[TABLE 4]
+Creative Industries Sub-sector | Formed since 1st April 2021 and still active | % of all active creative businesses formed since 1st April 2021
+Advertising and marketing | 95 | 51%
+Architecture | 25 | 24%
+Crafts | 15 | 68%
+Design and designer fashion | 45 | 32%
+Film, TV, video, radio and photography | 90 | 41%
+IT, software and computer services | 270 | 41%
+Publishing | 35 | 41%
+Museums, galleries and libraries | 0 | n/a
+Music, performing and visual arts | 95 | 41%
+Total | 690 | 41%
+[END TABLE 4]
+
+
+[TABLE 5]
+Creative Industries  | BRES 2022 |  BRES 2021 |  BRES 2020
+Advertising and marketing | 670 | 130 | 120
+Architecture | 245 | 290 | 300
+Crafts | 15 | 20 | 15
+Design and designer fashion | 275 | 140 | 250
+Film, TV, video, radio and photography | 505 | 455 | 230
+IT, software and computer services | 1,225 | 1,760 | 1,455
+Publishing | 100 | 140 | 95
+Museums, Galleries and Libraries | 165 | 165 | 160
+Music, performing and visual arts | 200 | 225 | 115
+Total (Creative Industries) | 3,400                  | 3,325                  | 2,740                 
+[END TABLE 5]
+
+
+[TABLE 6]
+Cultural sector | BRES 2022 | BRES 2021 | BRES 2020
+Arts | 140 | 165 | 80
+Crafts (Culture) | 15 | 20 | 15
+Film, TV and Music | 420 | 430 | 165
+Radio | 0 | 5 | 10
+Photography | 105 | 30 | 70
+Museums and Galleries | 35 | 35 | 35
+Libraries and archives | 130 | 130 | 125
+Cultural Education | 40 | 50 | 35
+Heritage | 50 | 25 | 0
+Total (Culture) | 935                    | 890                    | 535                   
+[END TABLE 6]
+
+
+[TABLE 7]
+Creative supply chain | 2022 | 2024 | Change (%)
+Creative Content |           1,758  |           2,641  | 50%
+Creative Experiences |              300  |              463  | 54%
+Creative Originals |           1,285  |           1,546  | 20%
+Creative Services |           2,963  |           3,407  | 15%
+Technology, Information and Internet |           3,112  |           1,350  | -57%
+ Total |           9,418  |           9,407  | 0%
+[END TABLE 7]
+
+
+[TABLE 8]
+Employment type | Count | %
+Full time | 5,252 | 56%
+Part time | 656 | 7%
+Contractor | 944 | 10%
+Internship | 233 | 2%
+Freelance | 283 | 3%
+Self-employed | 1,948 | 21%
+Not reported | 91              | 1%
+Total | 9,407   | 100%
+[END TABLE 8]
+
+
+[TABLE 9]
+Creative Industries sectors | LinkedIn 2024
+Advertising and marketing |                 2,395 
+Architecture |                    525 
+Crafts (Creative Industries) |                    300 
+Design and designer fashion |                 1,160 
+Film, TV, video, radio and photography |                 1,220 
+IT, software and computer services |                 1,540 
+Publishing |                    480 
+Museums, Galleries and Libraries |                    190 
+Music, performing and visual arts |                 1,490 
+Total (Creative Industries) |                 9,300 
+[END TABLE 9]
+
+
+[TABLE 10]
+Cultural sectors | LinkedIn 2024
+Arts |                 1,455 
+Crafts (Culture) |                    300 
+Film, TV and Music |                    980 
+Radio |                        -   
+Photography |                    370 
+Museums and Galleries |                    110 
+Libraries and archives |                       80 
+Cultural Education |                        -   
+Heritage |                         5 
+Total (Culture) |                 3,300 
+[END TABLE 10]
+
+
+[TABLE 11]
+Kirklees creative economy output |  Count  |  Sector GVA (£m)  | Sector GVA per capita (£)
+Cultural and Creative Industries employment | 3,470 | 239.4 | 68,995
+Music-related occupations in non-creative sectors | 346 | 11.5 |         33,325
+Total | 3,816 | 250.9 | 65,761
+[END TABLE 11]
+
+
+[TABLE 12]
+Creative Industries sectors | Sector employment |  Sector GVA (£m)  | Sector GVA per capita (£)
+Advertising and marketing | 670 |              30.9  | 46,089
+Architecture | 245 |              11.5  | 46,882
+Crafts (Creative Industries) | 15 |                 0.8  | 53,778
+Design and designer fashion | 275 |              12.8  | 46,450
+Film, TV, video, radio and photography | 505 | 43.2 | 85,583
+IT, software and computer services | 1,225 |            117.4  | 95,856
+Publishing | 100 |                 8.6  | 85,974
+Museums, Galleries and Libraries | 165 |               4.5  | 27,555
+Music, performing and visual arts | 200 |                 7.5  | 37,300
+Total (Creative Industries) | 3,400 | 237.2  | 69,763
+[END TABLE 12]
+
+
+[TABLE 13]
+Cultural sectors | Sector employment |  Sector GVA (£m)  | Sector GVA per capita (£)
+Arts | 140 |                 3.9  | 27,555
+Crafts (Culture) | 15 |                 0.8  | 53,778
+Film, TV and Music | 420 |              39.2  | 93,298
+Radio | 0 |                    -   | -
+Photography | 105 |                 4.9  | 46,450
+Museums and Galleries | 35 |                 1.0  | 27,555
+Libraries and archives | 130 |                 3.6  | 27,555
+Cultural Education | 40 |                 1.7  | 42,133
+Heritage | 50 |                 1.4  | 27,555
+Total (Culture) | 935 |              56.3  |            60,253 
+[END TABLE 13]
+
+
+[TABLE 14]
+Kirklees creative economy output |  Count  |  Sector GVA (£m)  | Sector GVA per capita (£)
+Cultural and Creative Industries workforce | 9,407 | 588.4 | 62,549
+Music-related occupations in non-creative sectors | 346 | 11.5 |         33,325
+Total | 9,753 | 599.9 | 61,513
+[END TABLE 14]
+
+
+[TABLE 15]
+Creative Industries sectors | LinkedIn 2024 | LQ | GVA (£m) | GVA per capita (£)
+Advertising and marketing | 2,395 | 2.80 | 208.7 | 87,119
+Architecture | 525               | 1.04 | 15.9 | 30,237
+Crafts (Creative Industries) | 300               | 13.05 | 18.9 | 63,127
+Design and designer fashion | 1,160         | 4.25 | 53.5 | 46,088
+Film, TV, video, radio and photography | 1,220                | 1.15 | 94.7 | 77,651
+IT, software and computer services | 1,540             | 0.45 | 43.5 | 28,252
+Publishing | 480            | 0.87 | 34.9 | 72,776          
+Museums, Galleries and Libraries | 190 | 0.62 | 1.6 | 8,510             
+Music, performing and visual arts | 1,490 | 2.43 | 108.4 | 72,784        
+Total (Creative Industries) | 9,300 | 1.23 | 580.2            | 62,383           
+[END TABLE 15]
+
+
+[TABLE 16]
+Musician industry code | Count | GVA per capita (£) | GVA 2022 (£m) |  Sub-sector GVA value applied 
+Musicians and performers | 325 |         37,300                                   | 12.0 |  Music, performing and visual arts 
+Other | 105 |         37,300                                    | 3.9 |  Music, performing and visual arts 
+Capital assets: Venues, recording studios and rehearsal spaces | 60 | 95,856                                         | 5.8 |  Sound recording 
+IP: Labels, publishers | 35 | 37,300                                            | 1.3 |  Music, performing and visual arts 
+Services: promoters, marketing and PR | 50 |                                           48,628  | 2.4 |  Advertising and marketing 
+Suppliers: Production services, music instrument manufacturers, music retailers | 25 | 42,149                                         | 1.0 |  Hybrid of Manufacture of musical instruments and Music retail 
+Music education  | 55 | 42,133                                        | 2.3 |  Cultural Education 
+Total | 650 | 44,251                                            | 28.7 |  
+[END TABLE 16]
+
+
+[TABLE 17]
+Other industry | Count | GVA per capita (£) | GVA 2022 (£m) |  Sub-sector GVA value applied 
+Legal Services  | 30 | 46,450                                            | 1.3                                                   | Other professional, scientific and technical activities
+Events Services  | 75 | 27,555                                            | 2.1                                                   | Arts, entertainment and recreation
+Retail Musical Instruments  | * | 30,521                                            | 0.1                                                   |  Music - retail 
+Musical Instrument Manufacturing  | 15 | 53,778                                            | 0.9                                                 |  Manufacture of musical instruments 
+Bars, Taverns, and Nightclubs  | 15 | 21,220                                            | 0.3                                                   | Accommodation and food service activities
+Professional Training and Coaching Technical and Vocational Training  | 35 | 42,133                                            | 1.4                                                   | Cultural Education
+Higher Education  | 45 | 42,133                                          | 1.8                                              |  Cultural Education 
+Entertainment Providers | 130 | 27,555                                           | 3.6                                                   | Arts, entertainment and recreation
+Total | 345 | 33,325                                            | 11.5                                                 | 
+[END TABLE 17]
+
+
+[TABLE 18]
+Standard (ONS output data) method | DCMS Sector Estimates (experimental) method
+This method uses published data from a range of ONS sources (detailed above) | This method add published data from DCMS Sector Estimates of GVA (https://www.gov.uk/government/collections/dcms-sector-economic-estimates-gross-value-added)
+Step 1: Find the nearest SIC code with available GVA data for West Yorkshire. This can be at one of three levels:
+SIC 07 Section level – e.g., R (90-93) – Arts, entertainment and recreation
+SIC 07 sub-section level - e.g. for four-digit SIC code 3212 (Crafts), that would be the set of 2-digit sort codes beginning 31-33 for ‘CM - Other manufacturing, repair and installation’ (a subset of the wider section ‘C – Manufacturing’.)
+SIC 07 2-digit definition, e.g., ‘71 - Architectural and engineering activities’ | Step 1: Use DCMS Sector Estimates to identify total GVA for Great Britain for each industry sub-sector 
+Step 2: Divide the number of Kirklees jobs in the SIC code by the number of West Yorkshire jobs in the nearest available SIC code. | Step 2: Use DCMS Sector Estimates to find total GB employment for each industry sub-sector
+Step 3: Use this ratio to scale the output for nearest available SIC code (i.e. multiply the ratio from step 2 by the West Yorks GVA in the Section C). This gives estimated GVA for the relevant Section, sub-section or 2-digit SIC code | Step 3: Divide DCMS Sector Estimates of national sub-sector output to identify GVA by subsector.
+Step 4: Sum the estimated GVA for each of the SIC codes in the sub-sector definition | Step 4: Use LinkedIn analysis to identify total Kirklees employment for each industry sub-sector
+Multiply Step 3 by product of Step 2 (optional: 
+Step 5: Scale the estimated output by two factors: the ratio of West Yorkshire’s overall output against national averages , and Kirklees’ productivity as a factor of that (ONS ITL3 data) | Step 5: Calculate LQ for Kirklees’ creative workforce (see Figure 3)
+Multiply product of Step 4 by the relative productivity of Kirklees as in Step 5 opposite (ONS ITL3 data)
+Step 6: Divide the resulting Kirklees sub-sector GVA by sub-sector employment to calculate GVA per capita | Step 6: Divide GB sub-sector output by GB sub-sector employment to arrive at GVA per capita for GB
+ | Step 7: Multiply GVA per capita for GB sub-sector by Kirklees sub-sector employment, LQ and the ratio of Kirklees’ overall economic output to national output (from ITL3 data) to calculate Kirklees sub-sector GVA
+ | Step 8: If Step 5 produces an LQ > 1.0,  adjust the multiplier to 1.0 and recalculate GVA
+ | Step 9: Divide the result of Step 8 by Kirklees sub-sector workforce to calculate GVA per capita
+[END TABLE 18]

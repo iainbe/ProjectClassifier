@@ -1,0 +1,26 @@
+
+
+Broadcast Media Production and Distribution: 
+Radio and Television Broadcasting
+Movies, Videos and Sound
+Animation and Post-production
+Media Production
+Movies and Sound Recording
+Sound Recording
+
+
+
+[TABLE 1]
+LinkedIn Industry code | West Yorks | Wakefield | Nearest BRES equivalent SIC07 code | BRES 2022 (West Yorks) | BRES 2022 (Wakefield)
+Broadcast Media Production and Distribution | 3,182 | 239 | 60.2 |  | 
+Movies, Videos and Sound |  |  |  |  | 
+Animation and Postproduction | 993 | 110 |  |  | 
+Media Production | 3,707 | 281 | 59.1 |  | 
+Movies and Sound Recording | 12 | 0 | 59.2 |  | 
+Sound Recording | 124 | 4 | 59.2 |  | 
+Sheet Music Publishing | 2 | 0 | 5819 |  | 
+Other | 683 | 71 | 62090: 
+Other information technology service activities |  | 
+Online Audio and Video Media | 1,087 | 90 | 5829 |  | 
+TOTAL |  |  |  |  | 
+[/TABLE]

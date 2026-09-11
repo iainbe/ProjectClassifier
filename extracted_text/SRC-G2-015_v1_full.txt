@@ -1,0 +1,323 @@
+SYMCA Cultural and Creative Industries
+Data research and mapping
+
+
+
+
+
+
+Draft report
+
+June 2022
+
+
+
+
+
+
+
+
+Contents
+Executive summary	1
+Background	1
+Findings – scale and significance of the sector	1
+Opportunities	1
+1.	Creative employment and workforce data	3
+Addressing gaps in the official record	5
+2.	Mapping cultural and creative enterprises in South Yorkshire	8
+Location of South Yorkshire’s creative businesses	11
+3.	Sector output	14
+Interpretation of CCI sector output data	15
+Trends analysis: new business formation and survival	17
+Interpreting the data on business formations	20
+The creative growth paradox	20
+4.	People and skills	23
+Creative skills pathways	23
+Equality, diversity and inclusion	27
+5.	Local authority consultation	29
+6.	Recommendations	30
+
+Executive summary
+Background
+The Fifth Sector began work on data research and mapping of the creative sectors in South Yorkshire in December 2021. The work had two main objectives:
+To provide evidence for policy by:
+Addressing gaps in evidence.
+Taking an asset-based approach (i.e., focussing on what is here, and the opportunities it presents for further investment and growth, not what isn’t here).
+Providing a robust evidence base that would both, “Support, develop and advocate for this sector in the future” and “Inform the development of a wider South Yorkshire Arts, Culture and Heritage strategy.”
+To identify opportunities for new investment, including:
+Arts Council England and DCMS priorities
+Other public sector “levelling up” funds
+Increased employer investment in training and skills
+Business start up, scale up and inward investment
+Our research took in both measurement (using a range of source to map the scale, significance and distribution of South Yorkshire’s cultural and creative industries and its creative workforce, and the provision of creative skills training and education in and around South Yorkshire) and engagement, including with local creative and digital businesses, regional and national sector organisations, education and training providers and round tables with each of the region’s four local authorities.
+Findings – scale and significance of the sector
+Our research demonstrated that South Yorkshire’s creative industries comprise over 4,000 companies and a workforce of over 31,000 people. Both these figures are larger than suggested by national statistics (2,895 businesses and 13,500 employees, respectively). 
+The region demonstrates clustering of some creative sectors, including Architecture, Crafts, Design and Publishing, mostly centred on Sheffield; but overall it has a smaller creative and digital business base than other core cities and city regions.
+Whilst the structure of the sector – which reflects the high levels of freelance working and microenterprises typical of creative industries everywhere – makes it hard to provide exact measures of output, we suggest that culture and creative industries are worth up to £2 billion in GVA.
+Opportunities
+Our findings highlighted both sustained growth in the sector over the last decade and a much higher proportion of creative content businesses than identified in national figures. This combination of content and digital capability means that South Yorkshire could be well positioned to exploit the growth in demand for both high end television and short form content of all kinds. 
+There are some time-limited opportunities which need to be seized now, and in which SYMCA needs to show leadership in supporting and coordinating the activities of local authorities, the education sector, private sector business support and training providers and pan-regional and national agencies. These include:
+Identification of Barnsley, Doncaster and Rotherham as eligible areas for ‘Levelling Up for Culture’ funding.
+Arts Council England’s nomination of Barnsley and Rotherham as ‘Priority Places’ within its ten-year Let’s Create strategy.
+Building on the distinctiveness and excellence of local initiatives, including Barnsley DMC and the Children’s Capital of Culture in Rotherham, to take a leading role in the NP11’s efforts to argue for greater devolution of funding for culture from Whitehall.
+However, if it is to do that it needs to:
+Act quickly to redress the shortfalls in investment in its creative sector over the last decade, both in absolute terms and relative to competitor cities and city regions across the North.
+Ensure that city region marketing promotes well-established creative conferences and marketplaces, such as the Children’s Media Festival and Sheffield DocFest, alongside the work of arts and cultural institutions.
+Convene regional policy forums both for overall coordination of creative sector investment, to promote more joined up provision of creative skills and marketing of creative skills pathways, and to ensure that recommendations of other reports, such as the South Yorkshire Regional Music Report, are understood and followed through by educational institutions, national agencies and the public sector, acting in concert.
+Interventions need to support the principle of ‘doing things weirdly’ to ensure that delivery reflects the priorities and operating models of creative businesses themselves. This means gearing business support and investment around what works – established and successful programmes delivered in both public and private sectors – and taking risks in advance of private sector investors to show confidence in the sector.
+Provide financial support to sector organisations, including Screen Yorkshire, to ensure that they can continue to deliver services and investment support to residents and businesses in South Yorkshire.
+Convene, hold space, broker and facilitate forums to address equality, diversity and inclusion collectively. Working in this way embedding inclusion as its operating lens, means it can address equality, diversity and inclusion cohesively and collectively and in a way that is reflective of the diversity of the people of South Yorkshire as it is now and how it will be. Ensuring that EDI is an approach not just an outcome means it can flex and adapt as both local and national societal environments change. By approaching this through the context of intersectional diversity means this can  harness several outcomes which inhibit inclusive growth across South Yorkshire. (
+Capacity-build diverse led partners so that they can over time lead in this space? 
+
+Creative employment and workforce data
+The “official” count of employment in the cultural and creative industries (CCI) is taken from the Office of National Statistics’ annual Business Register and Employment Survey (BRES). The latest data available are those for the year to April 2020 –immediately prior to the first ‘lockdown’. They show total sector employment of 13,500, with IT, software and computer services as the largest sector, with 7,845 employees (58%), followed by Architecture (1,355 jobs, 10%) and Publishing (955 jobs, 7%).
+Figure 1  SYMCA Cultural & Creative Industries employment
+
+The Fifth Sector 2022
+Cluster analysis – using a ‘Location Quotient’ or LQ based on the concentration of employment within creative industries compared with a national average – suggests that South Yorkshire lags both the national average and other ‘M10’ core cities in most sectors, with clear evidence of clustering (an LQ of 1 or above) in only Architecture, Publishing and Crafts (narrowly defined as the manufacture of jewellery) in Sheffield. However, the concentration of creative employment in London and the South East is such that an LQ of 0.80 or above indicates clustering, which would bring Design and designer fashion into the frame. 
+
+Table 1  LQs for creative industries employment in SYMCA area
+
+
+The Fifth Sector 2022
+Addressing gaps in the official record
+It is widely acknowledged, even within the Department for Digital, Creative, Media & Sport (DCMS), that the methodology for collecting BRES data tends to exclude both freelance workers and micro-enterprises with earnings below the VAT threshold, which together make up a significant proportion of creative employment. To address these gaps, we used a method developed over the last five years based on LinkedIn data. LinkedIn has 29 million UK members, out of a total employed workforce of 33 million; and it uses a set of industry codes much more closely aligned to industry definitions.
+
+Table 2  Comparison of DCMS sectors and LinkedIn industry codes
+
+The Fifth Sector/Curator Technologies 2022
+
+We then group these codes by supply chains which more closely reflect patterns of employment:
+Table 3  LinkedIn industry codes by Supply Chain
+
+The Fifth Sector/Curator Technologies 2022
+
+This analysis indicates a much larger workforce – over 31,000 individuals who identify themselves as being located in South Yorkshire. That would suggest a freelance workforce – including those for whom creative employment forms part of a ‘portfolio’ career, and those looking or work – of around 18,000 people. That proportion – 60% of the total workforce – is consistent with other industry studies, and with the evidence from other parts of the UK where we have carried out a similar analysis. The breakdown of employment by supply chain is shown in Figure 2:
+Figure 2  Estimate of SYMCA creative workforce based on analysis of LinkedIn
+
+
+The Fifth Sector/Curator Technologies 2022
+Mapping cultural and creative enterprises in South Yorkshire
+Similar considerations about the quality of official data apply to analysis of the stock of creative businesses. We used a combination of data sources to highlight this and to make a robust case that the number of creative enterprises in South Yorkshire is greater than shown in official statistics. Those were:
+The Inter-Departmental Business Register (IDBR), the government’s official business count, extracted from the Nomisweb online portal
+Our own analysis of Companies House data
+The proprietary FAME database held by the Mayoral Combined Authority
+Beauhurst, another proprietary database, which provides up-to-the-minute data about investment and financial performance
+We searched the first three of these databases using the SIC codes and sub-sector groupings used by DCMS to define cultural and creative industries. 
+Beauhurst includes other industry and market data which leads it to include some businesses which we would not typically classify within the cultural and creative sector, so we used this for other kinds of comparative analysis, including long-term trends in business formation and overall business population.
+Comparing our analysis of Companies House with the IDBR and FAME data highlights wide discrepancies in estimates of CCI business population, as illustrated in Figure 3 below:
+Figure 3  Comparison of Companies House, IDBR and FAME data on creative business counts
+
+The Fifth Sector 2022
+The Companies House data was manually cleansed to extract several hundred ‘service companies’ for artists, musicians and producers from outside the region and Special Purpose Vehicles (eg, film productions) with registered office addresses at two specialist accountancy firms in Sheffield and Doncaster. We are confident, therefore, that the figures are robust. Analysing these data using the same supply chain definitions applied to the workforce data gives a much clearer indication of the relative strengths of ‘Content’ businesses (generating original IP in areas such as film, television, music and computer games) and ‘Services’ firms (in Advertising, Marketing, Architecture and Design), all of which are understated in IDBR and Fame:
+Figure 4  South Yorkshire CCI businesses by supply chain (n=4,025)
+
+The Fifth Sector/Curator Technologies 2022
+Location of South Yorkshire’s creative businesses
+Figure 5 shows the location by ward of creative businesses across the region. It shows concentrations of firms in Sheffield city centre and suburbs and in the centres of Barnsley, Doncaster and Rotherham:
+Figure 5  Location of South Yorkshire CCI businesses
+
+The Fifth Sector/Curator Technologies 2022 (n=4,425)
+Analysis of the same business population by supply chain confirms the size of Sheffield’s creative sector, and its higher proportion of Content and Experiences companies. The scale and composition of the sectors is very similar in Barnsley, Doncaster and Rotherham. 
+Figure 6  South Yorkshire CCI businesses by local authority and supply chain
+
+The Fifth Sector/Curator Technologies 2022 (n=4,025)
+Looking at the same data through a supply chain lens reinforces the greater scale of the Content, Services and Software supply chains in Sheffield. 
+Figure 7  South Yorkshire CCI businesses by supply chain and local authority area
+
+The Fifth Sector/Curator Technologies 2022 (n=4,025)
+Sector output
+Lack of available financial data – owing to their typically small size, fewer than 5% of South Yorkshire’s CCI businesses file full accounts at Companies House – makes it more difficult to accurately aggregate and measure the sector’s economic output. This is compounded by the fact that, as noted above, only around 40% of the sector’s workforce is in regular employment which would allow their contribution to be measured through payroll data collected through ONS’s Annual Population Survey.
+We have therefore devised a method to calculate GVA for Cultural and Creative Industries based on DCMS monthly sector GVA estimates. 
+Pros
+DCMS national estimates include the value of exports of creative goods and services (not available at a sub-regional level of geography)
+The method is repeatable without additional research and can be updated quarterly in line with timing of DCMS releases of new data
+Cons
+To estimate South Yorkshire’s share of national output, we have to base this on BRES employment data – which, as we have shown above, underestimates the size of the total workforce
+We have no specific index of CCI sector productivity for South Yorkshire, so have had to use a generic ONS index of the sub-region’s relative productivity across all sectors 
+The latest available BRES data cover the period April 2019 – March 2020, and are still provisional - so this an estimate of GVA in the year immediately prior to the COVID pandemic.
+Table 4  South Yorkshire CCI sector GVA output
+
+The Fifth Sector 2022
+
+Interpretation of CCI sector output data
+On the basis of this estimate, South Yorkshire accounts for less than 1% of UK creative industries output. GVA of the UK creative industries sectors for the calendar year of 2021 is estimated at £104bn, compared to about £95bn for the same measure in 2020. The comparable figure for 2019 was just over £107bn.
+Surveys undertaken over the last 18 months suggest that the economic impact of Covid was not felt consistently across the UK’s creative industries, with the burden falling disproportionately on live events sectors - live music revenues collapsed by around 90% in 2020 - and areas with weaker creative economies. However, we will not be able to estimate its effect on sector GVA on this basis until at least the publication of provisional BRES 2021 data (expected in September 2022). 
+However, there are some more positive interpretations of the data. 
+These estimates are calculated on the basis that South Yorkshire’s overall productivity is 81.81% of the national average. If South Yorkshire’s CCIs are as productive as the national average, the sector output would be in excess of £1 billion per annum. If the sector were as productive on average as the South East, this would increase to nearly £1.4 billion.
+The estimates are prepared using employment data which is likely to understate the size of the sector in South Yorkshire. 
+This estimate does not reflect other indirect and induced outputs – including visitor economy income related to attendance of cultural events. For example, the value of music tourism alone in Yorkshire and Humber in 2019 was estimated at £264 million - if that were distributed in proportion to its population, South Yorkshire’s economy would benefit by an additional £68 million.
+As a sub-sector of creative industries, investment in arts and culture has direct and indirect benefits to the economy. DCMS modelling shows that for every 1 FTE worker directly employed by the arts and culture industry a further 0.62 FTE jobs are supported through indirect effects. Furthermore, 0.84 FTE jobs are supported through induced impacts (see Figure 8 for definitions.) This implies that for every 1 FTE worker directly employed, a total footprint of 2.46 FTE workers is supported in the wider economy.
+
+Figure 8  Cebr illustration of total economic footprint of arts and culture
+
+
+
+Taking these factors into consideration, we estimate that the total economic output of cultural and creative industries in South Yorkshire is closer to £2 billion per annum.
+
+
+
+
+Trends analysis: new business formation and survival
+There is clear evidence of the rapid growth of creative industries across South Yorkshire since 2012. Beauhurst data (which gives a higher estimate of overall business numbers, as outlined above) indicates that the stock of active creative businesses has more than trebled in the last decade, from below 1,500 companies to over 5,000:
+Figure 9  Growth of creative sector 2012-2021
+
+
+Beauhurst, 2022
+Looking in more detail, this shows that business formations increased above the long-term growth trend during the first lockdown – which is more apparent in Figure 9:
+Figure 10  South Yorkshire CCI company formations and cessations 2017-22
+
+Beauhurst 2022
+Analysis of the 975 new creative business formations in the period from 23 March 2020 – the date of the first ‘lockdown’ – until end 2021 show a higher proportion of Content and Services businesses (shown in light green in Figure 10) than in the overall business population:
+
+
+Figure 11  Supply chain analysis of CCI company formations 23 Mach 2020 – 31 December 2021
+
+
+The Fifth Sector/Curator Technologies analysis of Companies House data. 2022 (n=975)
+Interpreting the data on business formations
+There is no single explanation for this but there are both pandemic-related and other factors which may be contributing to growth:
+Individuals and teams being made redundant deciding to start up their own businesses
+Individuals in receipt of furlough opting to use their time to start a business
+Individuals taking advantage of more flexible working practices to relocate from London and the South East for reasons including wanting to be closer to family, cheaper housing/larger gardens, quality of life
+Increased inward investment in film and television production, boosted by factors including:
+Greatly increased investment in production by ‘streaming’ companies (eg, Netflix, Amazon, Disney +)
+Increase in the quotas for ‘Out of London’ production for UK Public Sector Broadcasters (BBC, ITV, Channel 4, Channel 5)
+Screen Yorkshire’s active promotion of the region’s facilities, locations and funding support for independent productions
+The relocation of Channel 4
+Demand in other creative sectors – eg, computer games – stimulating specialisation and growth in the supply chain for both specialist content, technology and marketing services
+The creative growth paradox
+More in-depth analysis of financial data and evidence of public funding for R&D reveals a less positive picture:
+Only 4.8% of South Yorkshire’s CCI sector businesses file full accounts (i.e., the remainder are below the statutory reporting threshold)
+101 companies – less than 2% have accessed grants for collaborative R&D at any point in their existence
+36 businesses have secured equity investment
+The region is home to only eight CCI sector university spinouts
+Only six of South Yorkshire’s CCI companies meet the definition of ‘scale up’ (20% growth year-on-year)
+This seems to present a paradox. How can the low levels of productivity and investment in R&D observed at a ‘micro’ level translate into the ‘macro’ picture of a sector which has consistently outgrown the rest of the economy for more than a decade? 
+Some of the explanations for this are structural. As highlighted in the section on sector output, above, the project-based, freelance and micro-enterprise dominated nature of the sector creates significant gaps in the official data record. The sector evidently derives a significant part of its economic value from the creation and exploitation of original intellectual property; but most of this is protected by copyright rather than more easily quantifiable patents and design rights.  Value in the creative sector is primarily knowledge-based, with only a limited proportion of value generated by manufacturing - meaning that the footprint of its production infrastructure is often transient and hard to measure. 
+‘Doing things weirdly’
+But behavioural factors matter too, arguably more so than structural ones. The motivations of creative entrepreneurs differ markedly in some respects from their peers in finance, manufacturing or even the technology sectors with which they are often bracketed. That is highlighted by the illustration below, taken from a presentation by a computer games company at the National Videogames Museum in Sheffield in March 2022:
+
+Figure 12 Doing things weirdly
+
+@State_of_Play, March 2022
+
+This slide brings out the different motivations and operating models employed by many creative businesses:
+Emphasis on intrinsic value rather than a business plan
+Project-based working, drawing on additional resource through collaboration rather than investment or acquisition of talent
+Portfolio working – the necessity of diversifying effort across projects which will keep cash flowing whilst larger projects are in development
+Process innovation – described here as ‘new ways of working’ – as part of the creative process, rather than a separate activity
+Most of all, ‘doing things weirdly’ – the importance of doing that which is distinctive, rather than following a business plan. 
+‘Doing things weirdly’ is a feature of creative industries, not a ‘bug’. 
+To take a term from software development, this intuitive, unplanned way of working is, ‘a feature, not a bug’; it is a proven business model and a deliberate choice, not a failure of the business owner to take responsibility for the outcome. The assets generated are not just tangible forms of IP – a game, recording, show, artefact – but reputational goods and knowledge exchange which result from collaboration.
+One of the most significant challenges faced by SYMCA and local authorities is how to structure investment in the sector in a way which makes available working capital to support, encourage and develop those successful creative behaviours, rather than requiring security for those investments. If successful, this will:
+Ratchet up the knowledge intensity and innovation of individual creative entrepreneurs and microbusinesses,
+Seed the development of more dynamic clusters and supply chains
+Provide a spur to productivity, employment and business growth in the process. 
+Public investment in risk-taking – including de minimis grants - can stimulate and help unlock far greater levels of private investment from retail banks, angel investors, venture capitalists. One of the reasons why the performance of South Yorkshire’s creative sector lags other regions is that public investment in the region has focused heavily on advanced manufacturing and where investment goes, perception follows. Underinvestment in the sector means that, with notable exceptions such as Barnsley’s DMC, there is a lack of specialist physical infrastructure; but more important, it means that the region is lacking in the ‘soft’ infrastructure to support collaboration, investment in skills and the perception amongst local people that creative industries represents a viable and worthwhile career choice.
+
+People and skills
+Figure 13  Creative skills pathways
+
+Creative skills pathways
+Research into creative skills pathways followed the same sector supply chain definitions used for workforce and business mapping. Under the digital pathway, the skills work focuses on education and training in creative digital skills. 
+We found a total of 1,013 courses across South Yorkshire and wider travel-to-work area, with 20 providers in the South Yorkshire region offering 510 courses. There were a further 36 providers offering 503 courses on offer in a wider area covering Leeds, Kirklees, Wakefield and York.
+The vast majority of these were offered through HE and Colleges; although there has been a massive expansion in number and range of online courses over lockdown, driven by demand for creative skills around the film and television supply chain, including those delivered by Screen Yorkshire (which are therefore included in the count for Leeds, although delivered County-wide and beyond.)
+Table 5  Creative skills delivery
+
+Source: The Fifth Sector/Morra 2022
+Progression routes
+Our study also looked at the progression routes within each pathway; the division of courses between:
+Apprenticeships
+T-Levels (of which there is as yet very limited delivery in creative subjects, with the exception of one digital creative framework)
+Further Education
+Higher Education
+Continuing Professional Development (CPD). 
+Detailed findings have been shared in the form of a searchable ‘dashboard’ for use by SYMCA and partners.
+[Summary of the breakdown of pathways to follow in final report]
+Within South Yorkshire, Sheffield accounts for the majority (55%) of creative skills delivery.
+Figure 14 Location of learning/skills course across South Yorkshire
+
+The Fifth Sector/Morra 2022
+Across Yorkshire, Leeds has the largest course offer, including the overwhelming majority of CPD provision.
+Figure 15  Location of learning/skills courses across Yorkshire
+
+The Fifth Sector/Morra 2022
+
+
+
+
+Equality, diversity and inclusion
+Context
+This piece of work was set against a backdrop of social, economic, and civic inequality and activism.
+Black Lives Matter catalysed awareness of structural economic and social inequalities and injustices across society, including the cultural and creative sector. This was compounded by the impact of Covid-19 across the board but with a disproportionate impact on black and Asian people, disabled people and those living with life limiting or underlying health conditions.
+For South Yorkshire, this was overlaid with the multiple indices of deprivation and poor health outcomes, and so increasing diversity and inclusion is treated as a given in our analysis.
+Across South Yorkshire, there is a very strong and urgent need to improve representation so that the creative, cultural and visitor sectors are reflective of the diversity of the region. Existing business support and skill development fails to truly reflect the diversity of local, national and international audiences, visitors and consumers the workforce needs to look like the people it seeks to attract. A lack of skilled diverse talent to grow the cultural and creative economy and assets has a direct correlation on the impact of diversifying audiences
+What do we mean by diversity?
+The protected characteristics are: age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation.
+Inclusion needs to reflect the broadest protected characteristics. For South Yorkshire, this means that socio-economic background and the intersectionality of socio-economic background and the other characteristics assume particular importance, taking into account such factors as zero-hour contracts and gender-based care responsibilities.
+Our findings, and those of Opus Independents’ wider engagement with the arts, culture and heritage sector suggest there are equity actions to be implemented to achieve this. These fall into broader categories:
+Equity- talent
+There are limited opportunities to progress, whether at entry-level, mid-career or in senior positions, resulting in skills gaps and shortages at all levels of the creative industries and a talent drain. Those gaps exacerbate a lag in the growth cycle of creative businesses, which in turn impedes the development of viable career paths for new entrants, early career artists and more experienced creative and cultural professionals.
+Neither formal skills and training provision nor existing business support networks, including South Yorkshire’s public-sector backed innovation and scale up ecosystem and university partnerships, reflect the critical and growing importance of engaging creative cross-over and knowledge exchange between sectors. South Yorkshire’s creative entrepreneurs and practitioners need a framework which supports an agile, fluid, opportunist approach to skills, building on the regional legacy of creative and digital experimentation exemplified by Fon, Warp, Cabaret Voltaire and others.
+Failures both to develop diverse talent from local communities and to attract and retain it from elsewhere are reflected in the underperformance, lesser scale and lack of productivity of South Yorkshire’s creative industries relative to other city regions.
+Equity- audiences/participants
+In line with our interviews, and the express wishes of those with lived experiences, and aligned with new initiatives such as ACE’s Priority Places and their emphasis on inclusion and relevance in their Investment Principles, there is a clear need to move beyond instrumentalism when referencing communities and reframe cultural engagement and co-production, design and creation. The region presents some examples of good practice in this respect – notably Rotherham’s culture-led approach to the renewal of its governance and services delivery approach – but best practice needs to be shared and become universal.
+South Yorkshire still reflects disproportionate under-employment/self-employment across ethnicity, LGBTQI+ and disability; participants and interviewees with those protected characteristics felt a definite inequality.
+Inclusion
+With very few exceptions, current cultural provision and access to training, jobs and opportunities do not take account of or reflect any nuanced diversity. This is a serious concern in terms of “levelling up” and optimising life chances for people – including young people – across South Yorkshire. There is little or no evidence that consideration has been given to lived experience or any kind of diversity and socio-economic challenges within existing training, private sector networks or public sector support for creative industries.
+Other considerations also need to be balanced: cost of transport, access to kit, education and literacy equity, and equality of inclusive access. This could include access to work education for employers, multiple formats (easy read, video etc) for inclusive recruitment and an understanding of embedded cultural and social perceptions which lead to ‘imposter syndrome’ in parallel with judgements on talent (education and experience) and what constitutes cultural value and taste.
+As long as underrepresentation exists, however, the sector and the networks can feel exclusive and inhibiting. Simultaneously, this means the sector is not creating content which reflects diversity as the potential to address global audiences, and missing the opportunity for South Yorkshire to be a market leader.
+There is a role here for SYMCA to convene and hold space; to broker and facilitate. Working in this way can address equality, diversity and inclusion cohesively and collectively and in a way that is reflective of the people of South Yorkshire as it is now and how it will be. Ensuring that EDI is an approach not just an outcome means it can flex and adapt as both local and national societal environments change.
+
+Local authority consultation
+Consultation with the four local authorities in Barnsley, Doncaster, Rotherham and Sheffield revealed both a breadth of ambition and a distinctive and differentiated focus on opportunities to invest in growing creative jobs and businesses in each area.
+Each local authority has existing or emerging strengths which respond to the differing identities and capabilities of each place. For example:
+Barnsley’s initiative in establishing DMC and the sector specific Launchpad business support service has paid dividends in terms of the ability to attract and retain investment across digital and creative supply chains
+Doncaster recognises the opportunities presented by its logistical advantages (East Coast Main Line, airport, two motorways) to bring forward capital developments for creative production as a way to catalyse and accelerate the regeneration of its city centre 
+Rotherham’s ground-breaking decision to use culture to rebuild community trust and cohesion has created the conditions for a transformative approach to the role of young people in culture, manifest in the Children’s Capital of Culture
+Sheffield is forging partnerships with its cultural and educational institutions which build upon its legacy as an incubator of musicians and designers and its status as the UK’s greenest city to promote the region to a new generation of creatives and investors
+The capital and sector initiatives discussed at the respective round tables were complementary; but that is more the result of serendipity than a coordinated approach to sector investment. Therefore, one of the recommendations from this work is that SYMCA should establish a regional panel which brings together planning, investment and regeneration, skills, business support, cultural and creative specialist team members for the MCA and local authorities to help shape the business case for strategic intervention and support development of funding applications for individual projects.
+The evidence base gathered through this research will complement data held by the local authorities in developing their own plans and business cases for investment.
+Barnsley, Doncaster and Rotherham have opportunities to leverage their status as areas eligible for funding for ‘levelling up’ through culture, complemented by Arts Council England priority area status in the case of Barnsley and Rotherham. Other opportunities within the third round of Cultural Development Funding, including support for high-growth creative businesses, present an opportunity for SYMCA to demonstrate leadership and leverage Sheffield’s larger business base.
+Looking further afield, the distinctiveness and excellence of some of the approaches taken at local level present SYMCA with an opportunity to take leadership of initiatives to develop a distinctive Northern place-based approach to culture, building on its engagement with the NP11 cultural strategy,
+Recommendations
+Skills
+As creative technology rapidly advances, more and more creative workers will need “cross-over” or “fusion” skills, both creative and technical. The next five years will see growth in digital occupations both related to the creative industries and the wider technology sector.
+In this rapidly changing digital environment, the collaboration between creative business and education has never been more essential There is an opportunity to grow an education collaboration network, which would have a clear and more cohesive approach to the higher-level skills needed for the creative sector.
+SYMCA should work with HE partners to encourage them to fill the gap in professional skills by developing and offering more short courses more aligned to business need for the sector.
+More targeted marketing to the sector (in a language they understand) could increase take-up of existing business support (eg, Skills Accelerator). Marketing should address both promotion of existing third-party support (eg, Screen Yorkshire, PPL Momentum Accelerator) and the growth of new online courses for the sector. 
+Film and television
+City and regional investment marketing should more effectively communicate the strengths of established high-quality regional creative assets including the Children’s Media Festival and Sheffield DocFest.
+South Yorkshire has been ‘free riding’ on Screen Yorkshire’s inward investment, talent development and crew database services for film and television. This reduces any influence SYMCA and local partners may have on investment decisions, limits opportunities for South Yorkshire residents to benefit from skills development opportunities and is unlikely to be sustainable. SYMCA should agree a package of support to ensure that local talent, supply chain businesses and locations continue to benefit from Screen Yorkshire’s expertise, talent development and investment marketing.
+The growth of short-form content – including on platforms such as TikTok and Instagram – offers both creative and commercial opportunities to a wider and more diverse community of content makers and marketers. Development of those skills pathways and routes to market should sit alongside those for film and high-end television.
+Screen businesses should be engaged in identifying, planning and - where appropriate - lobbying for investment in the required infrastructure, both in terms of new capital developments and to enable the full potential of remote working and workflows.
+Music
+Sheffield, in particular, has an international reputation as a seedbed for innovative new music. If this is to remain a ‘live’ legacy, concerted action of public and private sector actors is needed to ensure that musicians and music enterprises across South Yorkshire can successfully develop their talent and market opportunities.
+Recommendations of the 2019 Sheffield City Region Music Report still apply:
+Opportunities for emerging talent – ensuring that all young people, regardless of their background, should have access to music in education and should be able to pursue a career in music.
+Protecting grassroots music venues – offering business rate relief and help with licencing to venues as well as improving accessibility at venues for deaf and disabled audiences and performers.
+Developing music businesses – leverage powers to support the growth of the music businesses which in turn will increase employment and productivity.
+Integrating Transport – creating a transport system that is fit for purpose and that supports the night time economy.
+Reaching out to every corner of the region – Mapping all music activity across the region recognising that different parts of the region have different needs and challenges
+In addition:
+PRS Music has recently imposed a 60% cut in funding for PRS Foundation, which sponsors the PPL Momentum Accelerator for Yorkshire (branded as Launchpad - https://www.launchpad-music.com) and through it supports the development of both musicians and music entrepreneurs across Yorkshire. SYMCA needs to speak to the organisers to see what further support may be needed to sustain this valuable provision.
+SYMCA and local authorities should establish a music policy forum to look at adopting a consistent approach to issues with a direct impact on the promotion of live music, including:
+Enforce Agent of Change requirements in planning for new developments which place responsibility for issues such as soundproofing and access on the developer rather than threatening the continuation of established music venues
+Licensing of venues (in particular, to ensure that there is no discrimination against venues promoting urban music genres)
+Policing and public safety
+
+Computer games and digital content
+South Yorkshire has significant ‘anchor’ investors in computer games and wider areas of digital content and convergent media. The larger players, including Sumo and Zoo Digital, generate significant demand for jobs and skills and contribute tens of millions of pounds to the regional economy each year. In turn, they support a supply chain of smaller digital creative businesses and skilled contractors essential to the region’s capacity to respond in an agile way to future opportunities across games, film, television and short form content of all kinds.
+The region also benefits from the experience and expertise of Barnsley DMC, in particular the successful Launchpad business support programme (not to be confused with the music Launchpad cited above.)
+Every region in the UK experiences skills gaps and shortages in games – in some cases coinciding with those in other high value creative and digital content sectors. The action taken by Sumo to seek Registered Training Provider status to address its own needs offers potential to catalyse a wider public-private skills partnership including both HE, FE and smaller supply chain businesses to ensure that South Yorkshire becomes the best place to acquire skills for making games and digital content.
+That needs to be matched by a campaign to promote the value of local creative and digital producers to angel and VC investors, and to ensure that the regional business support and innovation ecosystem is attuned to the needs of digital content entrepreneurs.Equality, diversity and inclusion
+Increase lived experience or awareness amongst commissioners of skills training and business support.
+Invest in the recommendations and reputations of diverse led creative businesses and producers (there are some significant people in South Yorkshire).
+Collaborate with disabled/neurodiverse/D/deaf practitioners and disabled led organisations to look at inclusive access framework for creative occupations (not just physical access but well-being, remote working, adjustments etc.) for disabled, D/deaf and neurodiverse people).
+Collaborate with LGBTQI+ practitioners and queer led organisations to look at inclusive access framework for LGBTQI+ artists, creatives and audiences.
+Collaborate with ethnically diverse practitioners and ethnic-led organisations to look at inclusive access framework for ethnically diverse artists, creatives and audiences.
+These could be addressed through
+Employer training programmes on disability access to work.
+Employer training programmes and resources on inclusive recruitment.
+Leadership development (early and mid-career).

@@ -1,0 +1,1307 @@
+Calderdale CCI research report 
+
+
+
+
+
+
+
+Produced by The Fifth Sector Limited on behalf of Calderdale Council
+
+
+
+
+December 2023
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+
+Introduction	1
+I.	Publicly available data	3
+II.	Other data Collection	5
+IV.	Creative skills	13
+V.	Engagement and consultation	19
+VI.	Challenges	22
+VII.	Benchmarking	25
+VIII.	Recommendations	26
+Appendix 1: Companies data	28
+Appendix 2: Workforce data	30
+Appendix 3: Music sector analysis	46
+Appendix 4: Creative skills mapping and development	48
+Appendix 5: Findings from round table sessions	51
+Appendix 6: Live music venues	58
+Appendix 7: Consultees	62
+
+Introduction
+
+To deliver a comprehensive and cohesive analysis of the cultural and creative industries in Calderdale, this report details how we have used different data sources to reconcile different methods of measuring and interpreting growth in the culture and creative industries sector, workforce, and market, and corroborated these findings through qualitative research, in order to inform Calderdale’s future investment planning for 2024 to 2029. 
+
+As part of the study, we have engaged with a wide range of individuals and organisations who perform different roles in Calderdale’s cultural life and crative economy, including:
+Individual freelance artists
+Charitable and voluntary organisations and trusts
+Creative micro-enterprises
+Grassroots music venues
+Larger cultural organisations and venues – a mix of funded and commercial organisations
+DCMS arm’s-length bodies, including Arts Council England and National Lottery Heritage Fund
+Sector agencies including Screen Yorkshire and Music Launchpad
+
+This work complements mapping of cultural assets being conducted on behalf of CalderdaleCreates and other Council-commissioned studies – into visitor economy, employment and skills and inclusive growth – being carried out in Calderdale by other consultants in a similar timescale.
+
+Executive summary
+Calderdale Council has set out five key strategic goals in ‘Where Creativity Flows’, published in 2022, and has used evidence derived from production of that strategy to prioritise investment in arts and culture, including Culturdale, its Year of Culture in 2024. However, it faces barriers in addressing and prioritising future funding opportunities, where multiple data sources, metrics, and methodologies create ambiguity in understanding the growth and potential of the sector.
+This report builds on existing evidence and integrates diverse sources to provide insight into sector trends, challenges faced by creative enterprises and freelances living and working in Calderdale, and identifies some options for growth. 
+Reseach and engagement identified four critical areas for development of Calderdale’s cultual ecosystem and creative economy:
+
+Networking and connectivity: the need to map and connect various networks across arts, culture, creative industries, music and heritage.
+Resilience and sustainability: how to support key organisations to build resilience and defend the assets critical to sustainability of Calderdale’s cultural ecosystem and creative economy.
+Skills mapping and development: understanding the changing patterns of supply and demand for skills, including digital skills.
+Sector leadership and coordination: developing sector leadership by convening multi-partner releationships that can help Calderdale identify and secure strategic investment whilst devolving accountability and resource to the local sector as part of building a more sustainable and inclusive creative economy.
+SWOT analysis
+[To follow] comprehensive view of the state and growth prospects of Calderdale’s CCI sector 
+Strengths
+Weaknesses 
+Opportunities
+Threats
+
+
+Publicly available data
+Office of National Statistics data on businesses and employment, based on a sector definition of culture and creative industries used by DCMS, shows a decline in the number of firms in Calderdale from 770 in 2020 to 655 in 2023.  Stripping out computer consultancy firms, whose numbers fell by 125 in that period (reflecting a structural change in the industry sparked by changing working patterns arising from lockdown), the number of registered CCI businesses remained constant (at 450) between 2015 and 2020 and rose to 460 in 2023.
+
+Figure   Change in CCI business count (excluding SIC 62020 : Computer consultancy), 2015-2023
+
+Legend:
+       2015          2020         2023    
+Source: Inter-departmental Business Register (IDBR) 2023, accessed via Nomisweb, analysis by The Fifth Sector, December 2023
+
+Analysis of employment numbers reveals a similar pattern. Reported CCI employment in Calderdale was 2,360 in the latest figures available (for 2022), a figure barely changed from 2015 though reflecting a recovery from levels of employment observed during lockdowns. Stripping out computer consultants again highlights that sectors including advertising, software development and museums, libraries and galleries are the largest creative employers in the district. 
+
+
+
+
+Figure   Calderdale CCI employment 2002, excluding computer consultancy (n=1,940) 
+
+Source: Business Register & Employment Survey 2022, accessed via Nomisweb, December 2023
+
+Analysis of trends in employment dating back to 2015 highlights the volatility occasioned by lockdown, particularly apparent in advertising and publishing, alongside growth in design and film & television and an overall decline in software development and music, visual & performing arts.
+
+Figure   Change in Calderdale CCI employment 2015-22, excluding computer consultancy (n=1,940)
+
+Source: Business Register & Employment Survey 2022, accessed via Nomisweb, December 2023
+
+
+Other data Collection
+Our previous experience of mapping creative sectors and employment in districts across the UK confirms that the sampling methodology used by ONS tends to understate the scale and significance of these sectors – an effect which is more pronounced the further one travels from London and the South East. We therefore use other sources to validate our investigations:
+Beauhurst as a database for business activities, based on sector definition used by DCMS;
+LinkedIn as a massive sample to develop a more comprehensive picture of the freelance creative workforce.
+Creative businesses
+Calderdale conforms to the picture we find elsewhere across the North, with analysis of company records via Beauhurst identifying more creative businesses than ONS – 880 in total (including computer consultancies).
+As before, taking out computer consultancies confirms the larger overall size of Calderdale’s creative economy (640 companies versus 455 shown in ONS) and gives a clearer indication of strengths in music, visual & performing arts and film, television, video, radio & photography:
+
+Figure   Comparison of IDBR 2023 and Beauhurst
+
+Source: The Fifth Sector analysis of IDBR and Beauhurst data (July 2023)
+Analysis of company records via Beauhurst also provides us with a map of locations of CCI businesses in Calderdale. This highlights the concentrations of creative businesses in the North West of the district and in Halifax.
+
+Figure   Location of Calderdale CCI businesses (n=880)
+
+Source: Beauhurst, July 2023
+
+Beauhurst also allows analysis of business births and deaths over the last ten years. This highlights that business births have consistently exceeded deaths and that there is an acceleration in the net number of active businesses over that period.
+
+Figure   Change in active CCI companies over time
+
+Source: The Fifth Sector analysis of Beauhurst, July 2023
+
+Creative workforce
+Calderdale is home to 3,230 more artists and creative workers than shown in national employment statistics. Analysis of subscribers whose LinkedIn profile identifies both a Calderdale location and employment within one of twenty industry codes which correlate with cultural and creative sectors identified by DCMS provides a sample of 7,375 individuals, against total employment of 2,360 for Calderdale shown in BRES (2022). Stripping out IT consultancy reveals a creative workforce of 5,140 – 3,230 more than the BRES 2022 estimate of ‘non-IT' employment of 1,910. 
+Further analysis of those creative occupations in LinkedIn highlights the significance of the freelance workforce, a segment not measured in BRES. 2,655 of our creative workforce sample (identify themselves as employed, with a further freelance workforce (including self-employed and contractors) of at least 1,620 people – 32% of the sample, in line with national projections of the proporation of the creative industries workforce made up of freelances. 
+
+Figure   Creative employment and self-employment in Calderdale
+
+Source: The Fifth Sector analysis of LinkedIn (July 2023) and BRES (2022)
+
+Note on the methodology
+As only 83% of LinkedIn subscribers in our sample provide detail of their employment status, and some may register more than one status (e.g., both part-time and freelance). We have not classified 119 internships, included in our count of total workforce, as either employed or freelance; we have excluded 676 students from our total workforce estimate. We know that some creative sectors make greater use of LinkedIn than others: we accept this shortcoming on the basis that it still provides a much larger and more representative sample of total creative employment than published national statistics. We have not attempted to scale any of the raw data for either employment of self-employment to compensate for these gaps in the data. The estimates shown are, therefore, prepared on a conservative basis that may underestimate the size of the creative freelance workforce.
+LinkedIn provides data on which to construct estimates of workforce, not employment: subscribers may be unemployed or, conversely, carrying out freelance work in a number of fields. Results from analysis of LinkedIn data are therefore complementary to but not directly comparable to BRES data. 
+Our total LinkedIn sample of 7,375 includes 2,235 people in Calderdale who list their main industry as ‘IT & Computer Services’, compared to 450 computer consultants in BRES 2022.
+Analysis of the discrepancies between ONS data and our LinkedIn sample by creative industry sector (shown in Figure 8, below) highlights the presence of a significantly higher number of Calderdale residents working in high value sectors such as design, advertising and software development. Not all of those individuals identified via LinkedIn will be employed wholly in Calderdale – or even at all – and these higher estimates are very likely to reflect employment opportunities in the conurbations of Manchester and Leeds, as well as freelances whose project-based work may take them anywhere in the country and overseas. 
+However, the evidence within our sample of many more individuals working in crafts, music, performing and visual arts, writing, editing and photography than recorded in national statistics also reflects the presence and profile of many freelances, including the membership of CalderdaleCreates, who are  consistently employed within Calderdale. Bringing together this evidence with findings from consultations suggests that both the structure of Calderdale’s creative economy and the scale and significance of freelance creative workers within its cultural ecosystem differ in some fundamental ways from its metropolitan neighbours.
+
+Figure   Discrepancy between workforce data and national employmenbt statistics for Calderdale CCI
+
+Sources: The Fifth Sector analysis of LinkedIn (July 2023) and BRES (2022)
+
+In order to take account of potential ‘inflows’ of creative talent to Calderdale and to balance the ‘outflows’ to nearby conurbations, we also analysed LinkedIn data for a wider area, including parts of Burnley, Kirklees and Bradford immediately adjacent to Calderdale. This provided evidence of a further 3,090 people in creative occupations within an easy travel distance of Calderdale, plus 1,675 more in IT.
+We treat this second sample as evidence of a larger potential workforce which may represent capacity for the growth of creative employment within Calderdale. In thinking about future investment, it helps both employers and investors to be aware of a potential creative workforce of over 8,000 within a daily travel to work area (plus an additional 4,000 IT professionals) as part of the capacity available to support growth of the cultural and creative sector. 
+Awareness of this larger addressable market should also help local and national providers better understand potential demand in planning investment in delivery of creative skills education and training.
+Music workforce
+We carried out additional analysis of the music sector, using LinkedIn as a sample, and comparing this to data from the Musicians Union. As with the creative workforce, we also conducted analysis of the adjacent ‘travel to work area’.
+Music industry: 378 people on LinkedIn in Calderdale indicate that they are employed in Music. For Calderdale plus the wider TTWA, this increases to 595.
+
+Table  Music industry roles
+
+Music occupations: a further 399 (618 including the TTWA) give a job title that identifies their main role as related to music. This is a conservative estimate which excludes generic job titles, such as ‘Producer’ or ‘Promoter’, which could include music alongside other sectors.
+
+Table   Music occupations
+
+Music skills: an additional 918 people (1,377 in Calderdale and the wider TTWA) list music-related skills in their LinkedIn profile.
+
+Table   Music skills
+
+Musicians Union membership: MU membership lists show 273 individuals registered in Calderdale post codes. The breakdown for MU sections is shown below:
+
+Table   Musicians' Union membership
+
+The sections total is higher than the overall total as members can select as many sections as they like on sign up (though some, such as orchestras, are verified before they join that section) but Live in particular is a cross cutting area for many members. 
+
+Live music venues 
+Data on licensed premises indicates that there are 63 licensed music venues in Calderdale. The map at 
+Figure 9 shows their geographic distribtuion across the district. (We were not provided with data for Todmorden.)
+
+Figure   Calderdale music venues
+
+Source: Calderdale Council licensing data
+Trends
+Verify the collected data's accuracy and relevance by cross-referencing with other reports (e.g., Creative Radar) and additional data sources.
+Comparative analysis between different data sets.
+In-depth analsis of music workforce.
+Sector-specific and regional analysis, reflecting insofar as it is possible the evidence for those trends in Calderdale.
+
+
+Creative skills
+This sector provides our analysis of published data about education, skills training and apprenticeships for CCI in Calderdale and an accessible travel area.
+Context 
+Skills issues within the creative and cultural sectors are well documented. A House of Lords report at the start of 2023, quickly followed by two papers from the Creative Industries Policy & Evidence Centre (Creative PEC), identify similar trends in skills shortages for the creative sector. Issues highlighted include:
+Lack of the right skills (particularly a blend of creative and digital skills)
+Barriers to access
+Lack of business and management skills 
+Rising costs in the recruitment of freelancers 
+Despite the fact that British Film Institute (BFI) data, shows that there are more than 20,000 young people studying a scree-related course and over 75,000 individuals studying at school or college, recruitment of new entrants with the right mix of skills remains an issue. 
+The emergence of new blended creative and digital skills is in demand across a range of other sectors including health, finance, construction, etc. 
+The local scene – Calderdale
+Findings from our workshops with cultural organisations and creative employers align with national reports, with some employers finding difficulties recruiting (some citing a ‘brain drain’to London) and others mentioning the lack of available routes into the sector for young people. 
+We have examined the supply of the education and learning offer for the creative sector in Calderdale across across five creative career pathways: 
+Pathway 1 - Creative Originals : arts & crafts, fine art, apparel and fashion
+Pathway 2 - Creative Services: marketing and advertising, photography, architecture & planning, graphic design, product design, design services
+Pathway 3 - Creative Experiences: music, performing arts, museums and institutions, libraries  
+Pathway 4 - Creative Content: computer games, mobile games, publishing, motion pictures & film, broadcast media, animation
+Pathway 5 – Creative Digital Technologies: digital technologies including AR and VR, digital skills, coding , software development 
+Our research shows a good mix of both technical and academic choices across the five pathways identified above.
+The main distinction between Calderdale and other areas in England is the lack of a full 3-year degree in a creative subject, although there is a 2 year Foundation Course and a one-year BA Hons Top-Up in Creative Arts available at Calderdale College. 
+Our research shows a total of 40 courses available, with a 50:50 split between academic and technical courses.
+Provision includes two apprenticeships – one in digital marketing and a second in advance and creative hair professional - and a digital T-Level, all at Calderdale College. Calderdale College offers creative arts foundation degrees in music, acting, art & design and graphic media and an access to HE diploma in art & design. The college also offers the relatively new Digital T-Level which appears to focus on web development and networking ie: ore technical areas.
+There are clear signs of growth of creative courses within the next 18 months (see Calderdale College case study, below) and the College will be delivering the new Creative Media T-level from September 2024 (included in the table below): 
+
+Table   Courses available in the Calderdale area
+
+We have also looked at the wider TTWA (travel to work) surrounding Calderdale (to include Oldham, Burnley, Bradford and Kirklees) which shows a further 296 courses available across all five creative pathways – 181 academic courses and 88 technical (vocational) pathways (including T-Levels and Apprenticeships), plus 27 CPD courses, including some delivered online. 
+The wider TTWA area offers a good split between academic and technical/ vocational courses across the five creative career pathways. Although there are some examples of emerging Createch courses (involving a blend of creative and technology skills), notably BTEC computing for creative industries at both Bradford and Oldham Colleges. There is an opportunity for further growth in this pathway to respond to growing demand from employers for these blended skills in new areas of creative production, such as virtual and immersive production. There are some interesting Createch courses on offer.
+Three T-level courses are available in Digital Production and Design at Bradford College, Oldham College and Kirklees College. 
+
+Table   Courses available in the wider TTWA (including Burnley, Bradford, Oldham and Kirklees)
+
+Location of Learning
+Analysis of the location of creative learning courses reflects that Bradford, Burnely and Kirklees each has both an HE and an FE offer, although all colleges including Calderdale offer both a range of vocational and academic courses. 
+
+Figure   Learning locations
+	
+
+
+In the wider South and West Yorkshire area (including Sheffield, Barnsley and Leeds) there are an additional 530 courses available at all levels.  Beyond formal learning, there are signs of a growing range of opportunities for informal skills development, both for adults and young people, particularly in the areas of digital skills and coding.  While some of this is supported by the universities and other partners, many of the areas coding clubs and other informal activities are driven on a voluntary basis, making use of new technologies. For example in March 2023, Halifax libraries ran a two hour event ‘Introduction to Coding for Adults’and there are coding skills on offer in after-schools clubs in Halifax. 
+Voluntary and third sector organisations continue to support career and skills development throughout the area, increasingly funded through the Integrated Care Provider as part of its ‘social prescribing’ activity, including:
+Shared Harmonies, a ‘singing for wellbeing’ CIC with funding from a range of sources including community funds. 
+Artworks (now Everybody Arts) has offered a Core Creative Skills CPD course for arts practitioners. 
+
+
+
+
+
+Case study: Calderdale College
+There has been a change at senior leadership team within the College, with two new Deputy Principals coming from creative industries backgrounds. 
+Karl Veltman took up the post as Deputy Principal in January 2023. He comes from a creative arts background in the West Midlands where he ran a drama company, Urban Voice for approximately ten years until 2011, using drama to tackle social mobility and inequality issues. 
+With approximately £1m of new LSIF funding for the College (both capital and revenue) there is evidence that the College is keen to develop better career pathways into the sector in partnership with employers and stakeholders. 
+The College’s base at Dean Clough will be a key element of this allowing more employer engagement with students and offers the potential to grow into a larger Creative Hub. Over the summer its existing facilities within Dean Clough were re-modelled and there are plans for a new area taking over the third floor in one of the mills to support delivery of new courses in games, animation, design, film & TV, esports and (potentially) motion capture. 
+The College may introduce more courses around fashion and design and 3D modelling. It is currently recruiting specialist staff for these new courses, to begin in September 2024, and is planning more CPD in areas such as digital vendor qualifications and 3D modelling. 
+This year the College has been involved in the relaunch of  Halifax Digital Festival and the British Urban Film Festival (BUFF) recently held at Dean Clough.
+ 
+Case study: Screen Yorkshire Connected Campus
+Connected Campus is a ‘ground-breaking initiative forging closer links between TV and Film professionals, production companies, broadcasters and the students trying to break into this competitive industry.’
+Its stated aim is to forge and develop strong working relationships between employers and educators of film and TV related courses.
+There are special ‘broadcaster events’ and one-off workshops on a range of subjects – hair and make-up etc. The initiatives are strongly backed by employers in the region who seek greater diversity in their workforce and links to the supply pipeline. 
+Launched in 2018, Connected Campus now includes ten Yorkshire & Humber HEIs amongst its members:
+University of Bradford
+University of Huddersfield
+University of Hull
+University of Leeds
+MetFilm School – Leeds
+Leeds Beckett University
+Leeds Arts University
+Leeds Trinity 
+Sheffield Hallam University
+University of York
+York St John University.
+A sister version of the Connected Campus for FE institutions was launched in January 2021 and is expanding rapidl . It currently has ten members:
+Barnsley College
+Bradford School of Art
+Craven College
+University Centre Grimsby
+Leeds City College/University Centre Leeds
+New College Pontefract
+The Sheffield College
+Wakefield College
+Wilberforce Sixth Form College (Hull)
+York College/University Centre
+We understand Screen Yorkshire is talking to Calderdale College but its unclear if it plans to join Connected Campus. 
+Member institutions pay £5,000 per annum to be part of the Campus and in return get access to bootcamps, workshops and sessions with broadcasters including BBC, ITV and C4. The group meets every six weeks. 
+The funding model of the networks is key to their success. With up to 20 members paying £5k per annum, this allows the Campuses to be properly project managed, key contacts engaged and momentum maintained.
+Engagement and consultation
+This section summarises findings from primary (qualitative) reseach – interviews, round tables and attendance at meetings of other networks, held both in person and online between October and December 2023.
+Catherine Mitchell of Arts Council England stressed that although Calderdale was not a ‘Priority Place’, Arts Council understood the importance of its cultural organisaions and assets. 
+Our disussion highlighted opportunities in both music and screen media and particular links between the creative and visitor economy and Calderdale’s leading role in Yorkshire’s Local Visitor Economy Plan. Catherine further highlighed Calderdale’s leading position in creative health:
+‘Creative Health is a strength because of the work that David McQuillan is doing with SWYFT and I'm keen to see that be a vanguard around developments. David [has] morphed into this strategic person in relation to West Yorkshire [and the] Integrated Care Partnership and we've got a huge amount of momentum going on in terms of that.’
+She pointed to a stronger steer from Government (both DCMS and DHLUC) that the ‘arm’s-length bodies’, including ACE, Heritage Fund and BFI, need to work more closely to harness potential benefits from devolution, Trailblazers and investment zones, including those for heritage high streets and town centres. Catherine identified increased potential in the West Yorkshire Cultural Leaders meeting as a forum for sharing priorities and collective action, and one with more resource and more closely bound to WYCA because of its the development of the Culture Committee. Looking more closely at alignment of local patners, Catherine was keen to see the impact of additional resource for CalderdaleCreates; to see whether it leads it to position itself as belonging to wider cross sectoral networks, so it becomes more distinct from the local authority include commercial private enterprise and FE in thinking about development of a Cultural Compact.
+Louise Clare from the National Lottery Heritage Fund discussed the importance of prioritising investment in parts of the cultural strategy that need it most. Her comments highlight NLHF’s shift away from providing small grants and towards the four investment principles set out in Heritage 2033. This presents new opportunities for Calderdale which, despite benefiting from £34.5m investment since 1998, was not a priority for NLHF. 
+The new strategy predicates devolution of some of its responsibility to other parties who can act strategically and in concert to support the development and organisational sustainability of local and community offers – some of which may be discharged by the Council if it is successful in its bid to the last round of the current grants structure. Louise stressed that Calderdale, on the whole, benefitted from good governance and high levels of cooperation between organisations and was in that way well placed to benefit from the changes.
+The new strategy allows for a wider view of patrimony, as opposed to an exclusive focus on built heritage, and recognises the value of smaller commercial venues (including some of the grassroots music venues discussed below) to serve their communities in different ways (e.g., spoken word performances, exhibitions) that develop greater awareness of and engagement with local heritage whilst supporting their sustainability. 
+Louise was also keen to stress the importance of freelancers in the sector in providing skills to a wider range of organiations and the need for digital skills development – some of which may be picked up through developments at Calderdale College, but may also benefit from developing stronger links with specialist HE providers of heritage skills.
+Two conversations with Screen Yorkshire provided insights on the skills gaps and opportunities in the creative industries in Calderdale and across the North.
+There is a lot of skills development activity happening across the North, but it's unclear if this is leading to equitable access to jobs and careers, especially for women.
+The Keighley (Bradford) filmmaking hub, run on a grassroots level by a local practitioner, has been successful in providing facilities, equipment, training, and networking for local filmmakers. It is now located in a former Argos in Keighley after originally being located in Bradford city centre. Funded by Channel 4's Indie Growth Fund, overseen by Nicky Greenan at Bradford Council, facilities include a cinema, equipment and kit for members to borrow, spaces for training sessions and networking. The Hub has a growing membership and range of activity. 
+Community and geography present challenges in Calderdale - creative workers can be isolated and spread out. Could The Hub inform a similar initiative in Calderdale,  bringing in knowledge and raising awareness of what people can do with their talents? In Screen Yorkshire’s view, developing multi-disciplinary creatives - especially writers who can work across artistic platforms - could be valuable in Calderdale, where there is a gap between professional and amateur creatives. It remains unclear where people's ambitions lie and if support would translate into economic benefit.
+There is lots of skills development activity happening across the North, but it remains unclear if it's leading to equitable access to jobs/careers, especially for women (as per the Diamond report). The BFI Skills Partnership across the North – of which Screen Yorkshire is part - has had benefits in joining up the region, but only short-term funding. The relationship with the new management team at Calderdale College is at a formative stage - the college is developing creative skills courses but needs to build connections with businesses.
+Grassroots Music Venues and Promoters
+Engagement with Michael Ainsworth at Grayston Unity and independent promoter Andy Abbott was augmented by a meeting of small venue operators at the Puzzle Hall Inn Sowerby Bridge, where initiatives like the 'Sound of Young Calderdale', involving young interns in the music business, and discussions on licensing constraints for under-18s in music venues were highlighted. 
+Venue operators would welcome closer working with the Council to seek extension of the Victoria Theatre’s ‘ticket levy’ scheme and its expansion to other venues, including Piece Hall. The operators all see closer collaboration on programming and marketing. Andy Abbott planned to draw up a UKSPF bid for further consultation events in North/Central Halifax, especially around Calderdale Colleg; these would take the form of a grassroots roadshow/event with performances, Q&A, open mics and facilitated discussion about music interests and barriers.
+The Piece Hall's potential as an audience source for grassroots music venues was noted​​; discussion with Gary Rae confirmed that the Piece Hall too welcomed opportunities for closer collaboration in programming and marketing. 
+That conversation also emphasised that The Piece Hall too needed to strive for financial sustainability, audience reach, and the need for improved collaboration across cultural venues. The Piece Hall Academy, aimed at providing production skills training for disadvantaged youths, was mentioned. Gary emphasised the need for technical and vocational training routes and regional coordination for a more comprehensive cultural strategy.
+The consultation brought out some criticism of historic efforts to coordinate the sector. Lack of a shared vision hampered coordination and communication between large and smaller cultural organisations. Past branding efforts failed to inspire due to mixed reception.
+Round tables
+A detailed summary of the two round tables for artists, cultural organisations and creative employers in the district, held in person and online in November 2023, can be found at Appendix 5, below. The main issues and opportunities identified are embodied within the challenges and recommendations of this report.
+
+Challenges
+Main concerns identified through research and engagement include:
+
+Networking and connectivity: the need to map and connect various networks across arts, culture, creative industries, music and heritage.
+Resilience and sustainability: how to convene and support individual organisations to build resilience and sustainability across Calderdale’s cultural ecosystem and creative economy.
+Skills mapping and development: understanding the changing patterns of supply and demand for skills, including digital skills.
+Sector leadership and coordination: establishing local structures and devolving accountability and resource to them so that the Council can focus on managing relationships with regional and national stakeholders to secure new investment in Calderdale’s cultural ecology and creative economy.
+Networking and connectivity
+The difficulties of maintaining effective communication and coordinating programming, promotion and marketing of events across a largely rural district were a consistent theme of both round tables and stakeholder interviews, and one which united voices from all parts of the creative economy. There was little confidence amongst those engaged that Culturedale would address this, and even concern that its promotion may ‘drown out’ other parts of the cultural offer. With no new money and a nascent cultural networking organisation only just beginning to establish its own resource base and governance, this is a challenging agenda but one that the Council and its partners need to grasp.
+In terms of physical connectivity, Transport and infrastructure remain major barriers for accessing creative opportunities across the North. 
+Resilience and sustainability
+Representatives of national agencies and arm’s-length nodies are keen to impress the strategic importance of helping cultural producers and institutions increase their resilience and develop sustainable operating models, However, this objective is in conflict with an environment which reflects continual erosion of Council budgets and continuing dependency on short-term project funding for many organisations. Some of those agencies now concede that they will have to help manage the demise of some organisations, not just their restructuring, in order to manage available resource to achieve the most sustainable outcome – not a politically popular effort for the Council to be conjoined in. The Council and its partners need a clear and shared frameowrk of how they plan to prioritise the survival of critical infrastructure, both physical and organisational, including which assets will be allowed to be let go. Square Chapel presents an immediate, critical and highly visible test of any such approach,.
+Skills mapping and development 
+New leadership at Calderdale College with greater awareness of and commitment to developing pathways into creative careers represents an opportunity for Calderdale. Despite recent successes in securing funding, the College needs to quickly increase its level of engagement with creative employers and its profile within the industry to build momentum. Specific challenges remain for providers and stakeholders to increase visibility and coordination of skills development activity to increase diversity, inclusion and access for learners from all backgrounds and every part of Calderdale. At the same time, those providers and employers need better forums for collaboration to provide responsive professional skills training for the existing workforce, as well as new entrants, to keep abreast of a rapidly evolving set of industry needs which are driven by convergence of both technology and markets – detailed at Appendix 4, below. 
+Sector leadership and coordination
+Consultees cited ongoing difficulties coordinating Calderdale's cultural organisations, where a lack of shared purpose has exposed disparities between large and small organisations. Past forums have failed without ongoing leadership. Evidence of increased cooperation between West Yorkshire partners and greater coordination between national agencies and stakeholders across the North present opportunities for new investment. But Calderdale is in most cases starting from behind larger and better resourced competitors with more of a track record in developing sector initiatives and higher regional and national profiles. The Council needs to quickly and effectively convene its partners, stakeholders and the sector in order to address resilience in those assets (physical and organisational) at greatest risk, leverage existing strengths in creative visitor economy and creative health and secure the investment the sector needs.
+
+Calculating GVA
+[New section here which goes into difficulties of recombining ONS datasets with the other data and analysis we have provided, which suggests that those datasets will significantly misrepresent and underestimate the economic impact of culture and creative industries in Calderdale]
+
+Case study: Square Chapel  
+Square Chapel embodies several of the challenges facing development of the cultural sector and creative econmy in Calderdale. It was raised in several conversations as a significant cultural venue in Calderdale with various challenges and opportunities. It was viewed as a missing step in an ‘escalator’ of venues and opportunities for audiences and creatives in Calderdale. The previous management was viewed as operating at 'arm’s-length’ from the rest of the sector, leading to underutilisation and a shared feeling of untapped potential in the venue which could be leveraged for broader cultural and creative activities​​.
+‘It's a really important rung in the ladder for all of those organisations in terms of the scale of space and what it represents in terms of progression for artists and musicians as well as for the companies themselves. So I think there is a collective appetite and I think there's a sense of opportunity that having it under different management might present more opportunities to that wider group of actors than than it has.’
+The operator of Square Chapel is currently undergoing a Company Voluntary Arrangement (CVA) to continue trading while paying off creditors. Arts Council England has a further twenty-year charge on the lease of the building and will cooperate with the appointed Administrator and the Council to identify potential new operators. This opens up potential to explore new operating models to help Square Chapel to overcome the challenges of operating as a standalone venture. There was support for the idea of transforming it into a hub, potentially housing organisations like Northern Broadsides and other smaller creative businesses and serving as a resource centre for freelancers. This may suggest a shift towards a model like a Community Interest Company (CIC) or Creative Land Trust, where the venue's assets are held in common for multiple organisations​​.
+Arts Council stressed that, having invested £6 million into a place that was at the time a gold standard for disabled access not only for audience but to the lighting rig and backstage facilities, it is keen to ensure its continued use. However, the demise of the current operator means that there can be no guarantee of revenue funding for any future undertaking and the Council, Arts Council and other parties will need a clear plan to revitalise the venue and enhance its contribution to the cultural and creative sector in the region.
+
+Benchmarking
+
+[To follow]
+Benchmark aspects of Calderdale’s creative economy cultural and creative economy against case studies from comparable regions to corroborate findings and provide real-world insights.
+
+Recommendations
+Cultural Compact
+Criticisms of previous shortcomings in sector leadership can be addressed through a willingness on the part of the Council to devolve both responsibility and funding to the sector. This will in turn allow it to demonstrate leadership through a focus on building relationshps with regional and national stakeholders to advance Calderdale’s case. 
+Convening local partnerships is critical to the success of the Council’s strong and visible commitment that culture will remain a priority once Culturedale is over. The additional resource for CalderdaleCreates is a positive start, and can be used to seed development of wider cross-sector relationships around arts, culture, creative industries, creative health, heritage and the visitor economy. Calderdale College and larger cultural institutions and creative employers, including The Piece Hall and Eureka, and regional representatives of arm’s-length bodies such as ACE, Heritage Fund and (as a proxy for BFI through the Northern Skills Alliance) Screen Yorkshire have an important role in this; but it is also critical that CalderdaleCreates can build stronger relationships with creative employers and grassroots organisations across all creative sectors.
+Framing those ambitions in the form of plan to develop a Cultural Compact may help keep these ambitions in alignment whilst potentially attracting additional investment. ACE is increasingly vocal in advocating Compacts and may be expected to support Calderdale in developing its strategic leadership in this way. Convening local and regional stakeholders in the first instance in codesign of a solution to the management crisis at Square Chapel may be an effective tactival way to work toward that strategic end, and one that holds the potential to deliver a sustainable solution to the operation of a critical piece of cultural infrastructure for the wider benefit of culture and the creative industries in Calderdale. 
+Screen industries
+Despite its high visibility as a location through successful programmes including Happy Valley and Gentleman Jack (although not all locations were shot in the district) and resulting benefits to the visitor economy, Calderdale lacks an infrastructure for production of screen media and is underrepresented in the screen industries, an area of significant growth for Yorkshire (and for West Yorkshire in particular). Data from Screen Yorkshire shows that only 21 individuals (plus two trainees) are registered on its crew database. Only 5% of West Yorkshire’s film and television employees are based in Calderdale. Lack of an HE campus may be a factor in this; lack of an identifiable hub for local filmmakers (including writers, on-screen talent and skilled crew) could also help focus ambitions of residents unsure about the opportunitiy to pursue a career in the screen industries.
+The regional screen agency, Screen Yorkshire, is keen to address the shortfalls in skills provision and career development and to build a closer working relationship with the Council, with Calderdale College, with local production companies and with the potential talent base in Calderdale. In the short term, it comes armed with BFI funding through the Northern Screen Alliance – it would be timely to look to build a closer working relationship there.
+Creative skills
+There is a need for more development and better coordination across the pathways particularly, from the technical into the academic fields which could be better co-ordinated. Bradford University for example has a range of creative degrees courses such as animation and film and TV production yet there are no clear routes into these areas available in local colleges. 
+Providers should consider more development of ‘Createch’ courses (combining technical and creative skills) which are increasingly in demand by employers in a range of sectors including finance, health, construction and automotive. HE and FE institutions are still dividing creative study areas into Arts and Design OR Digital technologies, which makes it difficult for both learners and employers to identify courses offering the right mix of skills. This may well be compounded by recent funding changes which reduce the ‘tariff’ for some university arts courses; although this could also be an opportunity to embed more technical skills into arts and creative courses.   
+Further exploration of new ways of delivering learning and access to the sector is needed. For example, Burnley College has this year introduced non-accredited ‘taster’ programmes designed for years 10 & 11 looking to study creative subjects at FE, including a five-week introduction to the esports industry programme (part of a broader suite of esports programmes) and a dance and performing arts ‘taster’. 
+Consider further development of a wider range of access routes such as apprenticeships and T-Levels, including the new Flexi-job apprenticeships.
+Creation and expansion of CPD choices, including online courses and internships, in which Screen Yorkshire will be a useful ally. 
+Better careers guidance and marketing of available resources for both new entrants and freelances in the sector. For example, there is growing online provision, with both Screenskills and National Film & Television School (NFTS) increasing their offer of ‘bitesize’ CPD courses. Although mostly in the areas of TV and film, better promotion and marketing of these options and a centralised ‘one-stop shop’ to promote these resources and a range of others would be helpful.   
+Develop skills-based partnerships between Calderdale institutions, creative employers and other partners, including Screen Yorkshire and Creative UK.
+
+Appendix 1: Companies data
+
+We disaggregate data from the Interdepartmental Business Review (IDBR), taken from NOMIS, at a five-digit SIC code level and then reassemble into the sector definitions for the Creative Industries used by DCMS.
+
+This allows us to more closely observe fluctuations in the number of active businesses within individual SIC codes as well as within sectors. 
+
+Table   Count of Cultural and Creative Businesses in Calderdale – IDBR 2015-2023
+
+
+
+IDBR data is estimated using findings from an annual national survey of 85,000 businesses across all industry sectors. It only counts businesses with a PAYE payroll and therefore doesn’t take into account some smaller registered firms,  e.g., those with a sole director paying themselves via dividends. The size of the sample means that it is very unlikely that it will identify even one business within the Creative Industries in Calderdale. We therefore compare IDBR with our own analysis of companies data from Beauhurst, which reproduces Companies House data on all registered businesses. We parse this for evidence of ‘active’ companies (i.e., not  dormant ‘shell’ companies or those proposed to be struck off) within the relevant geography and SIC codes. This typically provides evidence of a higher number of businesses in sectors such as music, performing and visual arts and allows us to further interrogate changes in industry structure.
+
+Table   The Fifth Sector analysis of IDBR 2023 and Beauhurst, July 2023 (excluding SIC 62020 : Computer consultancy)
+
+
+
+
+Appendix 2: Workforce data
+
+Analysis of LinkedIn profiles of subscribers giving a geographical identifier within Calderdale, by creative supply chain. There are some 67,000 registered subscribers with a LinkedIn profile in Calderdale. 
+
+
+
+
+
+
+
+
+
+Appendix 3: Music sector analysis
+Music job titles
+Audio Engineer
+Music Professional
+Musician 
+Music Teacher
+Music Director
+Guitarist
+Sound Specialist 
+Sound Technician
+Sound Engineer      
+Sound Editor
+Sound Recordist     
+ Sound Mixer 
+Production Sound Mixer
+Sound Supervisor
+Audio Specialist
+AudioTechnician      
+ Audio Producer 
+Audio Editor      
+Audio Designer 
+Music Producer       
+Music Composer
+Music Manager       
+Music Coordinator 
+Minister Of Music      
+PianoTeacher 
+Piano Tedln.oan      
+GuitarSpecialist 
+Guitar Teacher      
+Composer 
+Music Supervisor       
+Sound Engineer 
+Recording Engineer      
+Voice Teacher 
+Sound Director
+Head Of Music 
+Music Specialist     
+Guitar Teacher 
+Bassist
+Trombonist  
+Bassoonist      
+Concertmaster 
+Drummer 
+Percussion instructor
+Percussionist      
+Orchestra Director
+Orchestra Manager      
+Strings Teadler 
+Studlo Enginter      
+Recording Artist 
+Lead Guitarist      
+Keyboardist
+Opera Singer
+Songwriter      
+Tour Manager
+Freelance Audio Engineer 
+Assistant Audio Engineer
+Senior Audio Engineer
+Music Programmer
+Music skills
+Music
+Music Production
+Music Industry
+Music Composition
+Music Education
+Music Theory
+Music videos
+Orrchestral Music
+Musical Theater
+Sound
+Sound Design
+Live Sound
+Production Sound
+Soundtrack
+Ausio Reording
+Sound Effects
+Piano
+Pianist
+Piano Plyaing
+Piano Educations
+Piano Performance
+Jazz Plano       
+Solo Piano
+Piano Tuning
+Classical Plano 
+Percussion        
+Orchestration
+Orchestral Percussion
+Choral Conducting
+Opera 
+Guitar Playing
+Acoustic Guitar
+Bass Guitar       
+Electric Guitar 
+Classical Guitar
+Lead Guitar
+Rhythm Guitar
+Guitar Instricution
+Jazz Band
+Singing        
+Vocal Music
+Backing Vocals
+Voice Lessons
+Bass
+Audio Engineering
+Audio Editing
+Audio Post Production 
+Audio Mixing       
+Audio Mastering
+Professional Audio      
+Studio Recording
+Live Recording
+Recording Studio
+Concert Band       
+Marching Band
+Song Production
+Singer-songwriter
+Songwriting
+
+
+Appendix 4: Creative skills mapping and development
+Key challenges for skills in the Creative and Cultural sectors include:
+Advanced digital and fusion skills
+The rise in multi-platforms is changing not only what content is produced but how it is produced.  As creative technology rapidly advances,  more and more creative workers will need ‘cross-over’ or ‘fusion’ skills – creative and technical. A growth in digital occupations both related to the technology sector and the wider creative industries is a key area of skills development over the next five years.
+Ongoing advances in technology are driving convergence of production techniques (including ‘virtual’ prodution) across different parts of the creative industries, including a blurring of the film and TV sector but also including games, esports and animation. Whilst this is turning certain jobs and traditional ways of working on their head through highly developed automation, robotics and sensor technology, 3D printing and ever more intelligent software systems, it also means that there will be stronger demand for specialist skills areas, which are more resilient to automation and outsourcing: for example, drone operators, VFX and special effects, riggers, animation, post-production, computer programming, ‘data wranglers’ and other big data-related roles. 
+Data analysis skills which previously were the preserve of the tech sector and digital marketing are now required in the creative sectors. For example, screen industries increasingly need to exploit big data to meet shifting customer preferences and improve consumer experiences. More creative businesses will therefore need data analysis skills – something unheard of five years ago. 
+Management, Leadership capabilities 
+Insufficient management and leadership skills are already a widespread issue within the creative and cultural industries . Evidence from the ScreenSkills Annual Skills Assessment suggest that skill deficiencies in the wider market could also be impacting screen firms, where, for example, employers are being forced to recruit at lower skill levels and promote people earlier than they may otherwise have been. This has given rise to significant skills gaps, whereby workers are progressing into senior positions without the range of skills needed to meet new role requirements, such as creating and Making management and leadership training relevant to creative careers, while also bolstering entrepreneurship skills amongst young people will be vital to ensuring the future strength of the creative economy.
+Professional and business skills 
+With an ongoing rise in self-employment and the industries increasing reliance on a freelance workforce, the need for professional and business skills is paramount as the sector emerges from the pandemic. Having the ability to diversify income streams, reach new markets , understand changing customer needs and undertake robust financial planning  is crucial.
+In addition, with the UK’s exit from the EU and opportunities in foreign markets, there is a growing need for the UK workforce to develop global skills in readiness. 
+Role of the freelance 
+Due to the project-based nature of the creative industries, around half the people working in the sector are self-employed. According to the annual ScreenSkills Assessment, self-employment in TV, for example, is almost twice as high as it is in the wider UK economy. The sector relies heavily on this workforce and some sub-sectors could not function without this workforce. However, freelances face a ‘double whammy’when it comes to skills training – not only must they pay for their own training but they lose wages whilst attending the training. By nature they are dispersed, often not well connected and , although they rely heavily on having up-to-date skills, they find it difficult to engage with formal training.  Whilst a number of incentives have been suggested to support the training of freelances through the tax system, this is not yet policy. 
+Diversity, inclusion and access
+The importance of developing and attracting talent from a broad range of backgrounds remains critical to the success of a flourishing creative sector. Research from the Creative Industries Policy & Evidence Centre shows that those from wealthier backgrounds are more than twice as likely to land a job
+in a creative occupation, with the issue further compounded when class is combined with gender, ethnicity, disability and skill levels. And there are concerns that the less advantaged may have found it harder to withstand the financial impact of the pandemic. 
+‘Drawing staff from a wider range of backgrounds helps companies understand and sell into a greater number of markets. It helps advertisers to land accounts internationally and broadcasters to develop audiences’
+Role of Higher Education
+In a swiftly changing digital environment, the collaboration between creative business and education has never been more essential and universities and FE Colleges have a key role in delivering the higher level skills that industry needs. With technical education reform imminent, there are opportunities to increase the numbers of higher-level apprenticeships for the sector. There are examples across the country of new education initiatives which embed industry into their delivery at all levels , from curriculum development to placements . Higher Education could also fill the gap in professional skills by developing and offering more professional short courses aimed at the market. 
+CPD
+Although there are some CPD options at Burnley and Bradford Colleges (e.g., social media for beginners, intro to podcasting) with more planned at Calderdale College, the current offer is characterised by ‘hobbyist’- type courses such as photography and life drawing. The lack of CPD for the sector is a national issue and due to a variety of reasons including:
+Cost of training (often a ‘double whammy’ for the freelance sector who have to give up a days work plus pay for training)
+Availability of competitive free online training (particularly for computer software skills)
+Lack of experienced trainers 
+
+Appendix 5: Findings from round table sessions
+Summary
+We had a total of 28 attendees – 14 at each of the in person and online sessions. In addition, Nicky Denison (part of the employment and skills consultant team) attended the online session.
+Most took the opportunity to use the Mentimeter polling app and we captured some other responses in our notes, which will be explored in more detail in the final report.
+Question 1: Do the research findings from The Fifth Sector to date reflect your reality? 
+A majority of attendees were in broad agreement with the research findings (8:4 in Session 1 and 10:1 in Session 2). 
+Tell us what you think about the findings
+Sensibly complements Government figures and is far more accurate
+Overly formal view, missing out grassroots creative work at a community level
+No demographic information; diversity not captured
+Not many artists/musicians use LinkedIn
+Funding is short term and uncertain so our organisation can only offer freelance roles even to key people.
+A lot of businesses and freelancers might not get registered as a creative business or they might be registered in other areas.
+I think there are perhaps deeper nuances and not sure if the findings reflect facilitators of creative industries - such as workspaces and their availability/ awareness.
+
+Question 2: Do the priorities and values in the Cultural Strategy reflect your ambition? 
+Again, most participants were in broad agreement (9:2 and 7:3 respectively).
+Comments
+Not inclusive: not enough attention paid to disability, class, neurodivergent people.
+Grassroots (including charities and social enterprises) missing.
+Needs to be an emphasis on and investment in grassroots and community engagement.
+There is a gross underestimation of the true cost of doing quality equitable creative delivery with communities that needs to be addressed.
+Calderdale needs Access and Inclusion Champions.
+I'd like to hear mention of large-scale making - for example, Handmade Parade, Full Scope  - Calderdale is a valley of makers.
+Our cultural strategies need to reflect Calderdale Community, co-produced content that is relevant to all the communities, that’s created with them and for them.
+I see it presently as a way of provoking possible future approaches rather than necessarily a masterplan.
+
+Question 3: What's currently working?
+
+
+Comments
+Despite direction to focus on positives, most comments highlighted gaps:
+Good but underused and under resourced venues
+The good beginning of networks that need to become more inclusive, bigger and more effective
+There is a good wealth of creative talent and a willingness to support each other but often this is not backed up with infrastructure and resources
+Lack of opportunities for skills training and emerging artists
+Not enough targeted business development support
+I think at the moment it's all working because of the passion of creatives. However, funding and an aligned strategy for Calderdale would ensure it is a priority with dedicated resource.
+There are networking sessions available to attend, though it can seem the opportunities are limited such as due to lack of funds.
+Business development is available, though can reach dead ends.
+
+
+Question 4. What's missing?
+
+
+
+There was consensus around a lack of investment. Session 1 participants had a higher proportion of social and community actors, which was reflected in a concern about access, communities and grassroots activity. Session 2 was more focused on collaboration, and the emphasis on a lack of networks in the responses from that group reflects that. The discussion in both groups identified a lack of consistent and joined-up marketing and communications on what activity was taking place.
+Comments
+Many world class artists and organisations but nearly all of them are under resourced and under capacity.
+Identifying who isn’t in the room.
+More funding for artists and grassroots to take risks.
+Very low follow-up/conversion rate on well intentioned networking group activity and discussions.
+There needs to be a greater recognition from funders about true full cost recover of an organisation not just delivery costs.
+A cultural map of Calderdale.
+Need to reach and include charities.
+Joined up thinking is required, so we collaborate and not duplicate.
+Use professional targeting of groups that are identified as not participating
+How do we join up grassroots creative opportunities with a skills and training strategy and then CPD - creating a ladder of opportunity?
+I think it's about ways to create an ecosystem where creatives can work together as well as network.
+Seemingly no startup/creative business or freelancer grants, funding, sponsorship or investment available.
+In joined up development of artists, resources, spaces and networks. Is there a clear flow of activity/opportunity for creatives in the region? What does a journey for a creative look like in Calderdale?
+Powerful stats presented earlier.  1 in 8 is a creative, we should seek government Investment to reflect this.  DCMS/DfE collaboratn! Also curious about engaging local donors local business more.
+Multi year support, so you don’t as an organisation limp from project to project never knowing if your organisation (or you!) have a longer term role.
+Lower Valley lacks performance venues / theatres.
+Upper Valley -  We're having to use pubs and chapels (plenty of these), but lacking a medium scale, multi-use venue for groups.
+
+Question 5. What does the future hold for you/your business?
+Despite reservations expressed in the comments, nearly all participants demonstrated confidence in the future of their own enterprises, with ten of eleven respondents in the first session and nine out of ten in the second stating that they expected their businesses to grow. No-one stated that their business would contract, although some of the comments reflected the difficulting of maintaining or growing their activities.
+Comments
+Will aim for growth but due to funding situation (as a charity) just staying in the same place is tough at the moment.
+If we collaborated as a sector we could put forward a powerful proposal for 
+A change in direction offering greater support to artists to develop new work alongside considerations around changes and volatility in the sector.
+The impact of the “cost of living” crisis as it's called (starvation by HMG of local investment) makes the prospect of growth difficult.
+As a craftsperson / maker I aim for growth but have noticed a real drop in spending on arts purchases – people come to markets and fairs but aren’t spending. Cost of living has bitten hard.
+It’s harder to attract trustees (volunteers) who have time and skills to support small not for profits in strategic growth than it used to be.
+Immersive and new technologies combine with creativity, optimisation of creative and postproductions workflows using AI.
+Question 6. Where and what are the opportunities for growth?
+
+
+Both groups were positive about the potential impact of Culturedale in helping them grow their audiences. The second group were more focused on the importance of collaboration, and in particular collaboration to innovate. Neither group prioritised national and international markets – although there was a lot of discussion of the potential to be more integrated within Yorkshire-wide initiatives such as Screen Yorkshire and to work more closely with regional partners, particularly Production Park.
+Comments
+Connectivity across the Yorkshire region (not just within Calderdale) is key for growth.
+CultureDale - two questions I have been asking (unanswered so far):
+How do creatives become involved?
+What is CultureDale beyond 2024?
+Developments in technology, AI -  be aligned to leading on the thinking around the ethics of AI, digital tech, IOT including consent in tech, sustainablity. A forerunner in application & thinking.
+skills and development.
+We’re two freelancers (equating to 0.7FTE together) running our organisation and it’s pretty impossible to scale up or respond to bigger opportunities due to lack of internal resource.
+Appendix 6: Live music venues
+
+
+Appendix 7: Consultees
+We would like to thanks the following individuals and organisations who gave their time to contribute through interview and round tables to this work:
+Leigh-Anne Stradeski, Eureka
+Caroline Cooper-Charles, Screen Yorkshire
+Jo Scholfield, Screen Yorkshire
+Chris Hordley , Screen Yorkshire
+Catherine Mitchell, Arts Council England
+Michael Ainsworth, Grayston Unity
+Gary Rae, The Piece Hall
+Louise Clare, National Lottery Heritage Fund
+Karl Veltman, Calderdale College
+Laurie Sansom , Northern Broadsides and Calderdale Creates 
+Lauren, Everybody Arts and Calderdale Creates. 
+Andy Abbott
+Faye Gilling
+Sma 
+Rebekah
+Joanne Wain, IOU Theatre
+Lydia Murray, IOU Theatre
+Gail Dudson
+Alixe
+Adelaide Assante 
+Chloe McNeil
+Helen Bretherton
+Jan Hinde
+Lucy Arden
+
+[to be completed]
+Other contributions came from:
+Paul Read, Musicians’ Union
+Sam Nicholls (‘Whiskas”, Music Hub
+
+
+
+
+
+[TABLE 1]
+ | LinkedIn | LinkedIn | BRES 2022
+Calderdale workforce | All profiles | Freelance | Employed
+Cultural and creative occupations | 4,225 | 1,470 | 1,580
+Games and software development | 915 | 150 | 330
+IT | 2,235 | 575 | 450
+[/TABLE]
+
+
+[TABLE 2]
+Job role | Calderdale | Calderdale + TTWA
+Music production and creation | 265 | 395
+Venues and live performance acitvities | 92 | 162
+Sales and promotion | 21 | 21
+[/TABLE]
+
+
+[TABLE 3]
+Job role | Calderdale | Calderdale + TTWA
+Music production and creation | 210 | 292
+Venues and live performance acitvities | 101 | 132
+Sales and promotion | 88 | 194
+[/TABLE]
+
+
+[TABLE 4]
+Job role | Calderdale | Calderdale + TTWA
+Music production and creation | 542 | 845
+Venues and live performance acitvities | 178 | 248
+Sales and promotion | 198 | 284
+[/TABLE]
+
+
+[TABLE 5]
+Section | Sub-total
+Live | 110
+Education | 99
+Music Writers | 49
+Orchestra | 36
+R&B | 35
+Theatre | 23
+[/TABLE]
+
+
+[TABLE 6]
+PATHWAYS | CREATIVE ORIGINALS | CREATIVE SERVICES | CREATIVE EXPERIENCES | CREATIVE CONTENT | CREATIVE DIGITAL TECHNOLOGIES | 
+ACADEMIC | 2 | 8 | 5 | 3 | 2 | 20
+TECHNICAL | 1 | 4 | 4 | 5 | 4 | 18
+APPRENTICESHIPS |  | 1 |  | 1 |  | 2
+CPD | 0 | 0 | 0 | 0 | 0 | 0
+TOTAL | 3 | 13 | 9 | 9 | 6 | 40
+[/TABLE]
+
+
+[TABLE 7]
+PATHWAYS | CREATIVE ORIGINALS | CREATIVE SERVICES | CREATIVE EXPERIENCES | CREATIVE CONTENT | CREATIVE DIGITAL TECHNOLOGIES | 
+ACADEMIC | 16 | 35 | 34 | 59 | 37 | 181
+TECHNICAL | 7 | 17 | 14 | 20 | 22 | 80
+APPRENTICESHIPS | 1 | 2 | * | 1 | 4 | 8
+CPD | 8 | 5 | 6 | 7 | 1 | 27
+TOTAL | 32 | 69 | 54 | 87 | 64 | 296
+[/TABLE]
+
+
+[TABLE 8]
+DCMS Sector | 2015 | 2020 | 2023
+Advertising and marketing | 50 | 50 | 60
+Architecture | 40 | 40 | 50
+Crafts | 5 | 5 | 5
+Design | 55 | 65 | 70
+Film, television, video, radio and photography | 55 | 70 | 80
+IT, software and computer services | 370 | 405 | 275
+Publishing | 35 | 30 | 20
+Museums, libraries and Galleries | 25 | 25 | 15
+Music, performing and visual arts | 80 | 80 | 75
+Total | 715 | 770 | 650
+Culture n.e.c. | 0 | 0 | 0
+Production services | 0 | 0 | 0
+[/TABLE]
+
+
+[TABLE 9]
+DCMS sector | IDBR 2023 | Beauhurst 2023
+Music, performing and visual arts | 75 | 155
+Film, television, video, radio and photography | 80 | 125
+Games and software development | 80 | 110
+Design | 70 | 70
+Advertising and marketing | 60 | 70
+Architecture | 50 | 55
+Publishing | 20 | 40
+Museums, libraries and Galleries | 15 | 10
+Crafts | 5 | 5
+Total | 460 | 640
+[/TABLE]
+
+
+[TABLE 10]
+Content | 
+Content Industries | 
+Photography | 278
+Animation | 78
+Broadcast Media | 220
+Motion Pictures & Film | 58
+Publishing | 201
+Mobile Games | 1
+Computer Games | 91
+Writing & Editing *** | 141
+Total | 1068
+ | 
+Employment | 
+FT | 628
+PT | 59
+Contractor | 97
+Internship | 17
+ | 
+Self Employed | 27
+Freelance | 267
+Students | 133
+ | 
+Past year recruitment | 73
+Open to new opportunities | 151
+Retention (10+ Yrs) | 101
+ | 
+Job Roles | 
+Sales | 195
+Marketing & Comms | 301
+Creative & Production | 360
+Admin & Operations | 212
+Seniority | 
+Founders & Directors | 204
+Managers | 82
+Entry level | 495
+ | 
+Experience Levels | 
+0-5 Years | 87
+6-10 Years | 147
+10+ Years | 496
+ | 
+Education | 
+1st Degree | 315
+Masters and above | 113
+ | 
+Company Size | 
+1 to 10 | 114
+11 to 50 | 106
+51 to 200 | 95
+201 to 500 | 38
+501 to 1000 | 21
+1001 to 5000 | 74
+5001 to 10,000 | 29
+10,000+ | 82
+ | 
+[/TABLE]
+
+
+[TABLE 11]
+Experiences | 
+Experience Industries | 
+Libraries | 28
+Museums and Institutions | 92
+Performing Arts | 159
+Total | 279
+ | 
+Employment | 
+FT | 151
+PT | 19
+Contractor | 28
+Internship | 5
+ | 
+Self Employed | 5
+Freelance | 41
+Students | 33
+ | 
+Past year recruitment | 26
+Open to new opportunities | 49
+Retention (10+ Yrs) | 20
+ | 
+Job Roles | 
+Sales | 25
+Marketing & Comms | 55
+Creative & Production | 73
+Admin & Operations | 77
+ | 
+Seniority | 
+Founders & Directors | 43
+Managers | 23
+Entry level | 122
+ | 
+Experience Levels | 
+0-5 Years | 22
+6-10 Years | 43
+10+ Years | 112
+ | 
+Education | 
+1st Degree | 105
+Masters and above | 52
+ | 
+Company Size | 
+1 to 10 | 32
+11 to 50 | 27
+51 to 200 | 55
+201 to 500 | 11
+501 to 1000 | 3
+1001 to 5000 | 9
+5001 to 10,000 | 19
+10,000+ | 9
+ | 
+[/TABLE]
+
+
+[TABLE 12]
+ | 
+Originals | 
+Originals Industries | 
+Apparel & Fashion | 309
+Fine Art | 139
+Arts and Crafts | 517
+Design ** | 129
+Total | 1094
+ | 
+Employment | 
+FT | 711
+PT | 80
+Contractor | 102
+Internship | 24
+ | 
+Self Employed | 41
+Freelance | 216
+Students | 111
+ | 
+Past year recruitment | 76
+Open to new opportunities | 187
+Retention (10+ Yrs) | 86
+ | 
+Job Roles | 
+Sales | 238
+Marketing & Comms | 89
+Creative & Production | 502
+Admin & Operations | 189
+ | 
+ | 
+Seniority | 
+Founders & Directors | 302
+Managers | 85
+Entry level | 621
+ | 
+Experience Levels | 
+0-5 Years | 126
+6-10 Years | 155
+10+ Years | 509
+ | 
+Education | 
+1st Degree | 369
+Masters and above | 105
+ | 
+Company Size | 
+1 to 10 | 174
+11 to 50 | 100
+51 to 200 | 90
+201 to 500 | 39
+501 to 1000 | 30
+1001 to 5000 | 64
+5001 to 10,000 | 25
+10,000+ | 51
+[/TABLE]
+
+
+[TABLE 13]
+Services | 
+Services industries | 
+Design ** | 448
+Graphic Design | 184
+Architecture & Planning | 255
+Marketing and Advertising | 848
+Writing & Editing *** | 141
+Total | 1876
+ | 
+Employment | 
+FT | 1201
+PT | 105
+Contractor | 190
+Internship | 35
+ | 
+Self Employed | 73
+Freelance | 385
+Students | 196
+ | 
+Past year recruitment | 206
+Open to new opportunities | 276
+Retention (10+ Yrs) | 156
+ | 
+Job Roles | 
+Sales | 415
+Marketing & Comms | 403
+Creative & Production | 585
+Admin & Operations | 261
+ | 
+ | 
+Seniority | 
+Founders & Directors | 429
+Managers | 123
+Entry level | 824
+ | 
+Experience Levels | 
+0-5 Years | 214
+6-10 Years | 312
+10+ Years | 980
+ | 
+Education | 
+1st Degree | 663
+Masters and above | 202
+ | 
+Company Size | 
+1 to 10 | 374
+11 to 50 | 291
+51 to 200 | 189
+201 to 500 | 86
+501 to 1000 | 55
+1001 to 5000 | 127
+5001 to 10,000 | 49
+10,000+ | 71
+[/TABLE]
+
+
+[TABLE 14]
+Creative Technology | 
+Creative Technology industries | 
+Computer Software | 825
+Information Technology and Services | 2235
+Total | 3060
+ | 
+Employment | 
+FT | 1821
+PT | 101
+Contractor | 334
+Internship | 38
+ | 
+Self Employed | 40
+Freelance | 111
+Students | 203
+ | 
+Past year recruitment | 597
+Open to new opportunities | 588
+Retention (10+ Yrs) | 401
+ | 
+Job Roles | 
+Sales | 497
+Marketing & Comms | 109
+Creative & Production | 1305
+Admin & Operations | 648
+ | 
+ | 
+Seniority | 
+Founders & Directors | 426
+Managers | 191
+Entry level | 963
+ | 
+Experience Levels | 
+0-5 Years | 315
+6-10 Years | 385
+10+ Years | 1654
+ | 
+Education | 
+1st Degree | 1057
+Masters and above | 328
+ | 
+Company Size | 
+1 to 10 | 227
+11 to 50 | 291
+51 to 200 | 304
+201 to 500 | 188
+501 to 1000 | 149
+1001 to 5000 | 314
+5001 to 10,000 | 140
+10,000+ | 723
+[/TABLE]
+
+
+[TABLE 15]
+Music #1  - Industry Codes | 
+Music Production/Creation | 265
+Venues & live performance activities | 92
+Sales & Promotion | 21
+Total | 378
+ | 
+Employment | 
+FT | 165
+PT | 17
+Contractor | 24
+Internship | 5
+ | 
+Self Employed | 11
+Freelance | 47
+ | 
+Students | 33
+ | 
+Past year recruitment | 8
+Open to new opportunities | 39
+Retention (10+ Yrs) | 20
+ | 
+Job Roles | 
+Sales | 58
+Marketing & Comms | 45
+Creative & Production | 179
+Admin & Operations | 39
+ | 
+ | 
+Seniority | 
+Founders & Directors | 72
+Managers | 43
+Entry level | 174
+ | 
+Experience Levels | 
+0-5 Years | 23
+6-10 Years | 60
+10+ Years | 200
+ | 
+Education | 
+1st Degree | 79
+Masters and above | 27
+ | 
+Company Size | 
+1 to 10 | 30
+11 to 50 | 22
+51 to 200 | 18
+201 to 500 | 7
+501 to 1000 | 3
+1001 to 5000 | 10
+5001 to 10,000 | 4
+10,000+ | 0
+[/TABLE]
+
+
+[TABLE 16]
+ | 
+ | 
+ | 
+ | 
+ | 
+Music #2 Job Titles | 
+Music Production/Creation | 210
+Venues & live performance activities | 101
+Sales & Promotion | 88
+Total | 399
+ | 
+Employment | 
+FT | 226
+PT | 21
+Contractor | 38
+Internship | 4
+ | 
+Self Employed | 11
+Freelance | 124
+ | 
+Students | 25
+ | 
+Past year recruitment | 23
+Open to new opportunities | 70
+Retention (10+ Yrs) | 22
+ | 
+Job Roles | 
+Sales | 46
+Marketing & Comms | 81
+Creative & Production | 319
+Admin & Operations | 73
+Total | 519
+ | 
+Seniority | 
+Founders & Directors | 59
+Managers | 61
+Entry level | 308
+ | 
+Experience Levels | 
+0-5 Years | 18
+6-10 Years | 67
+10+ Years | 247
+ | 
+Education | 
+1st Degree | 113
+Masters and above | 40
+ | 
+Company Size | 
+1 to 10 | 49
+11 to 50 | 49
+51 to 200 | 44
+201 to 500 | 15
+501 to 1000 | 8
+1001 to 5000 | 24
+5001 to 10,000 | 7
+10,000+ | 18
+ | 
+[/TABLE]
+
+
+[TABLE 17]
+ | 
+ | 
+ | 
+ | 
+ | 
+Music #3 Skills | 
+Music Production/Creation | 542
+Venues & live performance activities | 178
+Sales & Promotion | 198
+Total | 918
+ | 
+Employment | 
+FT | 677
+PT | 91
+Contractor | 143
+Internship | 24
+ | 
+Self Employed | 151
+Freelance | 294
+Students | 151
+ | 
+Past year recruitment | 101
+Open to new opportunities | 201
+Retention (10+ Yrs) | 89
+ | 
+Job Roles | 
+Sales | 178
+Marketing & Comms | 217
+Creative & Production | 424
+Admin & Operations | 204
+Total | 1023
+ | 
+Seniority | 
+Founders & Directors | 230
+Managers | 98
+Entry level | 459
+ | 
+Experience Levels | 
+0-5 Years | 82
+6-10 Years | 235
+10+ Years | 584
+ | 
+Education | 
+1st Degree | 401
+Masters and above | 161
+ | 
+Company Size | 
+1 to 10 | 120
+11 to 50 | 111
+51 to 200 | 121
+201 to 500 | 37
+501 to 1000 | 30
+1001 to 5000 | 76
+5001 to 10,000 | 33
+10,000+ | 56
+ | 
+[/TABLE]
+
+
+[TABLE 18]
+Name of Venue | Street Address | Postcode
+Vocation Brewery | 13 - 17 Alexandra Street Halifax | HX1 1BS
+Kobenhavn | 4 Westgate  Halifax | HX1 1DJ
+Bar Code | Ground Floor 24 - 26 Silver Street Halifax | HX1 1HS
+Hive Coffee And Kitchen | 2 Powell Street Halifax | HX1 1LN
+Victorian Craft Beer Cafe | 18 - 22 Powell Street Halifax | HX1 1LN
+Potting Shed(the)/ Fire Pit | 24 Fountain Street Halifax | HX1 1LW
+Dukes | 16 - 18 Market Arcade Russell Street Halifax | HX1 1NX
+Jubilee (The) | 18 Market Street Halifax | HX1 1PB
+Calderdale  Industrial Museum | Industrial Museum Square Road Halifax | HX1 1QG
+Old Post Office (The) | 55 Winding Road Halifax | HX1 1SJ
+Cat & Fiddle | The Cat And Fiddle 20 - 22 Cheapside Halifax | HX1 1TQ
+Upper George Hotel | Upper George Hotel 35 Crown Street Halifax | HX1 1TT
+Grayston Unity |  | HX1 1UH
+Acapulco | 3 Waterhouse Street Halifax | HX1 1XX
+Mecca Bingo | Mecca Bingo Broad Street Halifax | HX1 1YA
+Carlton Community Choir | Carlton United Reformed Church Carlton Terrace  Halifax | HX1 2AD
+Bees Knees | Harrison Social 11 Harrison Road  Halifax | HX1 2AF
+McCafferty's Bar | The Salvation Barum Top  Halifax | HX1 2DZ
+Halifax Snooker Club | Commercial Street  Halifax | HX1 2JE
+Halifax Playhouse | King Cross Street  Halifax | HX1 2SH
+Beehive & Cross Keys Inn | 1 Sun Fold HalifaxHX1 2LX | HX1 2SH
+Shay Stadium (The) | The Shay Shaw Hill Halifax | HX1 2YT
+Arch-Way Project | Arden Road Social Club Arden Road Halifax | HX1 3AG
+Pollino |  | HX1 3SU
+Coco's | 8 Bull Green  Halifax | HX1 5AB
+The Salvation | 1 5AB Salvation (The) | HX1 5AB
+Running Man (The) | 84 Pellon Lane  Halifax | HX1 5QN
+Long Can Hall | 3 - 10 Ovenden Wood Road  Halifax | HX2 0TQ
+Maypole Inn (The) | Maypole Inn32 Warley Town Stock Lane Warley Halifax | HX2 7RZ
+Daniel Lakin | Arrowbutt Lee Catherine House Lane Wainstalls Halifax | HX2 7UP
+Forest Cottage Community Centre | Forest Cottage Community Centre Cousin Lane Halifax | HX2 8AD
+Holy Nativity Church | Church Of The Holy Nativity Sunny Bank Road Mixenden Halifax | HX2 8RX
+Flying Pig |  | HX2 8TX
+Moss Farm | Moss Farm Nurseries Keighley Road Illingworth Halifax | HX2 8XD
+Good Mood | 26 Occupation Lane Illingworth Halifax | HX2 9RL
+Golden Fleece Inn | Golden Fleece Inn1 Bradshaw Lane Bradshaw Halifax | HX2 9UZ
+Murgatroyd Arms (The) |  | HX3 0RX
+Copley Cricket Club | Copley Cricket Club Copley Lane Halifax | HX3 0UG
+Eight Sixteen Coffee Co Ltd | F Mill Ground East AF Mill Dean Clough Halifax | HX3 5AX
+Next Level Bar | Next Level Bar E Mill Dean Clough Mills Dean Clough Halifax | HX3 5AX
+Stodfold Tap | Unit D1A D Mill Dean Clough Halifax | HX3 5AX
+The Arches | Design House Galleries D Mill Dean Clough Halifax | HX3 5AX
+Friendly Inn | Friendly Inn39 Ovenden Road Halifax | HX3 5QG
+Suggi's Bar | 17 Rochdale Road Todmorden OL14 5AA | HX3 5SJ
+The Prospect Inn | Prospect House 68 Prospect Street Boothtown Halifax | HX3 6LG
+Charlie Fastrax | Halifax Ski Centre The Sportsman Inn Bradford Old Road Claremount Halifax | HX3 6UG
+Shibden Park Mereside Centre | Coffee Culture Catering Mereside Visitor Centre Shibden Park Godley Lane Halifax | HX3 6XG
+Northowram Community Sports & Activity Club | Westercroft Lane Northowram Halifax | HX3 7EN
+22 Bar And Smoke House | Queen Victoria Inn10 - 12 Victoria Place Bradford Road Northowram Halifax | HX3 7HY
+Speights Gin | Stile House Bridle Stile Shelf Halifax | HX3 7NW
+Prince Of Orange (The) | Prince Of Orange Inn77 Carr House Road Shelf Halifax | HX3 7RJ
+Travellers Inn (The) |  | HX3 8HN
+Tannery (The) | Halifax Road Hipperholme Brighouse | HX3 8HQ
+Old Brodleians RUFC | Denholme Gate Road Hipperholme Brighouse | HX3 8JR
+Sun Inn | 154 Wakefield Road Lightcliffe Brighouse | HX3 8TH
+Cross Keys (The) | Cross Keys Inn3 Whitegate Siddal Halifax | HX3 9AE
+Shears Inn | 1 1HS Shears Inn | HX3 9EZ
+Park Lane Academy | Park Lane Siddal Halifax | HX3 9LG
+Cock And Bottle | Cock And Bottle Inn1 Common Lane Southowram Brighouse | HX3 9PA
+Pack Horse (The) | Cain Lane Southowram Brighouse | HX3 9SA
+Barkisland Cricket Club | Scammonden Road Barkisland Sowerby Bridge | HX4 0DE
+Catch Seafood | 5 Stainland Road  Elland | HX4 8AD
+Craft | 78 - 80 Saddleworth Road Greetland  Elland | HX4 8AG
+Craft Limited | 1 Brook Street  Elland | HX5 9AW
+Nook (the) | 68 Saddleworth RoadGreetland Elland | HX4 8AG
+Queens Hotel | Queen Hotel97 Stainland Road Elland | HX4 8BD
+Viaduct | Travellers Rest83 Stainland Road Elland | HX4 8BD
+Rose & Crown | Rose And Crown Hotel96 - 98 Rochdale RoadGreetland Elland | HX4 8HR
+GOLDS | The HubGoldfields Recreation GroundRochdale RoadGreetland Elland | HX4 8JG
+Heath Rugby Club | Heath RUFCStainland Road Elland | HX4 8LS
+Coopers Kitchen Bar | 48 Southgate Elland | HX5 0DQ
+Wellington Inn (The) | Southgate  Elland | HX5 0DQ
+Heist (The) | 44 - 46 Southgate Elland | HX5 0ES
+Unit 4A Ground Floor North SideExchange MillSaddleworth | RoadGreetland Elland | HX5 0RY
+Travellers Rest | Travellers Rest99 Huddersfield Road Elland | HX5 9AA
+BridgeHX | 7 8AD | HX5 9ES
+Sowerby Bridge Cricket Club | Walton Street Sowerby Bridge | HX6 1AN
+Roxy Venue | Roxy Bingo And Social Club Wharf Street Sowerby Bridge | HX6 2AE
+Turks Head | Turks Head Inn Back Wharf Street Sowerby Bridge | HX6 2AG
+Dandelion & Burdock | 16 Town Hall Street Sowerby Bridge | HX6 2EA
+Vibe | 18A Town Hall Street Sowerby Bridge | HX6 2EA
+Mustard | 5 Wharf Street Sowerby Bridge | HX6 2EG
+The Blind Pig | 4 Tower Hill  Sowerby Bridge | HX6 2EQ
+Artichoke Natural Foods | Sowerby Bridge | HX6 2QG
+Fire and Water | The Old Fire Station Hollins Mill Lane Sowerby Bridge | HX6 2QG
+The Loose Goose | 1 West Street Sowerby Bridge | HX6 3AN
+Navigation Inn | Navigation Inn47 Chapel Lane Sowerby Bridge | HX6 3LF
+Ripponden Conservative Club | Victoria Hall212  Halifax Road Ripponden Sowerby Bridge | HX6 4BG
+Unit 3 Rishworth Business Complex | Unit 3 Rishworth Business Complex Slitheroe Works Oldham Road Ripponden Sowerby Bridge | HX6 4EW
+The Malthouse | 270 Oldham Road Ripponden Sowerby Bridge | HX6 4QB
+Booth Wood Inn (The) | The Booth Wood Inn Oldham Road Ripponden Sowerby Bridge | HX6 4QU
+Mytholmroyd Working Mens Club | Stocks Avenue Mytholmroyd Hebden Bridge | HX7 5AS
+Dusty Miller Inn | Burnley RoadMytholmroyd Hebden Bridge | HX7 5LH
+Blue Teapot (the) | Millys Grange Dene YardBurnley RoadMytholmroyd Hebden Bridge | HX7 5LL
+Millys | Grange Dene Yard Burnley Road Mytholmroyd Hebden Bridge | HX7 5LL
+The Ark Nursery | Unit 3 The Ark Dean Hey Country Business Park Cragg Road Mytholmroyd Hebden Bridge | HX7 5RU
+The Hinchliffe Arms | Church Bank Lane Cragg Vale Hebden Bridge | HX7 5TA
+Aaron Hill Farm | Weather Hill LaneCragg Vale Hebden Bridge | HX7 5TX
+The Hermit | 2 Hope Street Hebden Bridge | HX7 8AG
+Birchcliffe Centre | The Birchcliffe Centre Birchcliffe Road Hebden Bridge | HX7 8DG
+Trades Club | Holme Street Hebden Bridge | HX7 8EE
+Crown Inn | 10 Crown Street Hebden Bridge | HX7 8EH
+Grilled Cheese Booth | Ground And First Floors 2 Crown Street Hebden Bridge | HX7 8EH
+Nelson's Wine Bar | Basement Carlton Chambers Crown Street Hebden Bridge | HX7 8EH
+Innovation Cafe-Bar | Innovation Shop Bridge Mill St Georges Square Hebden Bridge | HX7 8ET
+Shoulder of Mutton | Bridge Gate  Hebden Bridge | HX7 8EX
+White Swan | Bridge Gate  Hebden Bridge | HX7 8EX
+Old Gate Bar And Restaurant | 1 - 5 West End Hebden Bridge | HX7 8JP
+Robin Hood Inn | 26 Keighley Road Hebden Bridge | HX7 8QR
+Wadsworth Community Centre | Billy Lane Old Town Hebden Bridge | HX7 8RY
+[/TABLE]

@@ -1,0 +1,293 @@
+
+
+Growth Platform
+
+
+Liverpool City Region Cluster Mapping
+
+Lot 3: Digital and Creative
+
+
+January 2024
+
+
+
+Contents
+
+Experience and expertise	1
+Key team members	3
+Approach and methodology	6
+OODA Loop	6
+Step 1: Project inception	7
+Step 2: Observe	7
+Step 3: Orient	12
+Step 4: Determine	13
+Step 5: Act	14
+Project management	15
+Resource and timescales	16
+Pricing	16
+Appendix A	17
+Resource plan	17
+Timescale	18
+
+
+
+Experience and expertise
+The Fifth Sector’s proposal will draw on associates and sub-contractors to ensure we bring the best available combination of industry experience and expertise to bear.
+The Fifth Sector is a specialist digital & creative industries consultancy, established in 2011 and based in Liverpool. Since 2020, The Fifth Sector Limited has developed and implemented many iterations of successful sector mapping and stakeholder engagement for digital and creative industries leading to the development of (variously) sector strategies, action plans, Cultural Compacts, and funding bids. These include:
+2024: Herefordshire Cultural and Creative Industries (CCI) mapping
+2022/24: Leicester CCI strategy (in progress)
+2023: Calderdale CCI research and stakeholder engagement (in progress)
+2023: Create Growth Programme bids for South Yorkshire Mayoral Combined Authority and Solent LEP
+2023: Wakefield Council bid to West Yorkshire Combined Authority for Our Year of Culture ’24, a year-long programme of cultural events and education
+2022/23: Digital and Creative Industries (DCI) mapping for West Sussex, Brighton & Hove and Lewes District
+2022/23: CCI mapping and stakeholder engagement to inform recommendations for a cultural strategy and implementation plan for the new Somerset unitary authority
+2021/22: Inward investment narrative for the West Midlands’ Creative, Digital and Tech sectors (as subcontractor to Mickledore Ltd).
+2021/22: DCI Mapping for South Yorkshire Mayoral Combined Authority
+2021/22: Tees Valley Combined Authority Creative Investment Framework – a process of mapping and engagement to inform a £20m programme of investment in DCI businesses and infrastructure, skills development, festivals and events and visitor economy
+2021/22: Mapping of Derby’s DCI sector, workforce, skills, cultural assets and opportunities to regenerate Derby city centre through cultural investment resulting in recommendations for a Cultural Masterplan and Compact, including an implementation plan for the “Culture Derby” Strategy 2020-2030 and funding for creative businesses to occupy unused city centre premises.
+2021/22: Rushmoor Cultural and Creative Industries Strategy and Cultural Compact
+2021: Developing a new cultural leadership group for Manchester, reporting to Dave Moutrey, Head of Culture for Manchester City Council.
+2021: Kirklees CCI and music sector ecology mapping, to inform both Kirklees’ bid for Kirklees Year of Music 2023 and its evaluation (to be carried out by The Fifth Sector in 2024)
+2021: Interim evaluation of Liverpool Film Fund
+2019/20: Development of Liverpool Cultural Strategy 2020-2030 and proposals for a Cultural Compact for Liverpool City Region
+2018/19: As an Associate of BOP Consulting, Iain Bennett developed the LCR Music Strategy and provided guidance for the governance structures for LCR Music Board
+2018/19: As an Associate of BOP Consulting, Iain Bennett was the author of City of London Corporation’s report on Culture Mile Creative Enterprise and Innovation Research (bit.ly/3mcqxcM), which looked at the role of public bodies and NPOs in catalysing cultural innovation and economic regeneration, developing a theory of change for Culture Mile partners and the City of London Corporation and a series of recommendations which recognised the role of the cultural partners in driving economic growth, diversity and inclusion across cultural and creative enterprises and artists in the City and across London.
+2016/17: As an Associate of BOP Consulting, Iain led mapping of fashion sector and supply chains and developed a feasibility study and business case for the establishment of a new hub for London College of Fashion as part of the East Bank cluster of major cultural institutions (including V&A, BBC, UCL and Sadler’s Wells) in Queen Elizabeth Olympic Park, including a masterplan for development of the East London Fashion Cluster (now Fashion East), a supply chain and business development initiative to accelerate agglomeration of fashion design and manufacturing capacity to complement existing retail and distribution capacity in central London.
+Curator Technologies, based in Liverpool, has worked alongside The Fifth Sector since 2019 to develop a bespoke approach to mapping digital & creative workforces, using LinkedIn as a massive sample frame to determine the scale, geographical distribution and characteristics of the total workforce. Significantly, this analysis includes self-employed and freelance workers who fall outside the scope of ONS employment data. Freelances make up around one-third of the overall creative workforce and provide the majority of employment in sub-sectors including film & television, music, visual and performing arts, all of which are significant in LCR. In addition to The Fifth Sector projects summarised above, it has provided statistical analysis of businesses and workforce in clusters across the UK as part of the evaluation of UKRI’s Creative Industries Cluster Programme (Technopolis/BOP Consulting).
+Obsolete.com is a strategy consultancy which focuses on application of AI in the design and implementation of change programmes to transform the performance of individual businesses and business sectors, including the impact of AI on employment in knowledge-based industries.
+
+Key team members
+Iain Bennett, Project Director, founded The Fifth Sector in 2011. He was previously Sector Leader for Digital and Creative Industries at Northwest Regional Development Agency (2006-11), leading the development of regional strategy, design and project management of a £3.4m skills programme for the creative industries and project sponsorship of £30m of investment to support development of MediaCity. As Project Director for DCMS (2012-14), he worked with cities across the UK to implement digital innovation programmes valued at £80 million. He was a senior member of the CBN team which delivered the Digital Infrastructure Framework to Liverpool City Region Combined Authority which provided the blueprint for the LCR Connect network.
+He was the founder Director of Creative Lancashire (2005) and established and managed Accelerator, London Metropolitan University’s business startup incubator (2002-5). His career in the creative industries began in 1989, when he joined talent agency ICM Duncan Heath in London. Over the next twelve years, he was a co-founder of another agency (Jonathan Altaras Associates) before going on to join William Morris Agency’s London office, representing international acting and directing talent for film, television and theatre.
+Iain is a Life Fellow of Royal Society of Arts and a Trustee of UP Projects. He is a member of the Creative Industries Council’s Regions & Clusters working group and the Arts & Humanities Advisory Board of Royal Holloway, University of London. He has a Master’s degree in English from St Catherine’s College, Cambridge and an MBA (Distinction) from London Metropolitan University. He is an accredited PRINCE2 practitioner (Foundation).
+Lynne McCadden (Fifth Sector Associate and Skills Specialist) is a former BBC broadcast journalist with more than 20 years’ experience of advising on skills mapping and skills development strategies and programmes within the Digital & Creative Industries.
+She will lead on the evaluation of the supply of creative skills, collating data on skills courses delivered in relevant creative digital technology subjects and analysing the offer within supply chains spanning the breadth of the digital and creative sector. This work will follow the format of analysis previously conducted for local and combined authorities including Leicester, West Yorkshire (Calderdale, Wakefield and Kirklees), Tees Valley, Solent LEP, Somerset and South Yorkshire.
+She is a former Director at Vision+Media, a public agency working on behalf of the creative and media industries in North West England, where she successfully developed and negotiated a sector growth plan by establishing a strong network of business and education networks to ensure clear skills pathways and led the resulting £6m skills development programme, aligning creative skills development with sector productivity and growth.
+She works both nationally and internationally for a range of public and private clients mostly in the creative, cultural and media sectors specialising in advising on skills interventions. Clients include BBC, ITV, Salford University, Manchester Metropolitan University, Creative England, Wakefield Council, Calderdale Council, Greater Manchester Skills Gateway and private entities including Pearson In Practice, The White Room, the TV Skills Workshop and Creative Pioneers (for the IPA). Internationally, she managed a 2-year innovation programme working with the Malaysian state broadcaster, RTM, in Kuala Lumpur.
+She has both chaired and presented at international media conferences including at the Global Media Convention for KOCCA (Korean Creative Content Agency) in Seoul and at the Calvert Forum Creative Industries conference at Voronezh, near Moscow and has extensive national and international networks of personal and professional contacts in the creative, arts and media industries and maintains a myriad of pragmatically helpful connections in her portfolio.
+Steve Hunt (Fifth Sector Associate) is a strategic leader and organisational facilitator with a foundation economic development and over twenty-five years’ experience as a project manager and programme director. He specialises in collaborative approaches and supporting teams to conceive, develop and maintain delivery of new ways of working in both resource-led economic development and natural heritage conservation. He has worked on multi-partner and nationally significant infrastructure projects, including as Project Director for Broadband Delivery UK, where he led City of Edinburgh Council’s £10m DCMS-funded SuperConnected Cities programme, engaging local stakeholders, including Festivals, in commissioning a foundational set of projects. Between 2012 and 2015 he was DCMS – Commercial Director Broadband Delivery UK working with local authority commissioning bodies on £60M of bespoke projects to increase fibre penetration, with specific responsibility for assuring projects for VFM. 
+His portfolio over the past decade has extended to digital applications for tourism and the arts including 5G in diverse locations the World Heritage Sites of Edinburgh, the Orkney Islands and the Greenwich peninsular. He recently worked with The Fifth Sector to deliver the digital element of plans to develop Plymouth National Marine Park. 
+He has a first degree in social science, a Master’s in public policy (King’s College London), including assessment in research methods and evaluation. As a practitioner he has worked at every level of government across the UK as both a policy lead and project manager. He has extensive practical understanding of the HMT Green and Magenta Book in both oversight and delivery. 
+From 2000 to 2011 Steve worked in varying roles in South of Scotland partnerships delivering ERDF and ESF European Programmes, reporting and advising applicants on European projects including the £350M regional competitiveness strategy, which he led. 
+Jon Bains, Obsolete.com
+Jon Bains has been recognised as a digital leader for decades and more recently as a pioneer in the practical use of AI for business. Jon has over 25 years’ experience in delivering successful and award-winning digital experiences. He was founder and CEO of one of London’s first ‘dot.com’ digital marketing agencies, Lateral, where he also co-founded The Cluster of digital businesses based in and around Shoreditch in the late 1990s. He  uses Generative AI tools to help clients develop and execute their communications & brand strategy. Over the years he has worked with clients such as Levi’s, Nintendo, Five, Which?, CIPD, AXA Wealth, TES and Amnesty International.
+Curator Technologies - Andy Goodwin is Senior Research Analyst at Curator Technologies. His key responsibilities include:
+Research and analysis of key market and sector data
+Identification of new methods, techniques and data sources for improved analysis
+Developing systems to maintain data integrity, normalisation and harmonisation.
+The Fifth Sector has worked in partnership with Curator Technologies over the course of the last five years to develop and evolve a sophisticated workforce mapping methodology which draws on ‘live’ data from LinkedIn’s 27.5 million UK members to provide estimates of creative workforce. This approach, as well as representing a much larger sample size than the Business Register and Employment Survey (BRES), identifies microenterprises below VAT/PAYE thresholds and freelance workers which make up anything up to 60% of employment in some creative sectors.
+This method has been deployed in cultural and creative mapping projects across the UK and in identifying the scale, sector composition and key locations of emerging sectors, including immersive media production.
+Andy was a PhD/Post grad lecturer (GIS), at Manchester University and Liverpool Hope University. He is Co-Founder and Special Advisor to the Board of DoES Liverpool – a co-working and maker space in Liverpool – and Co-Founder & Organiser of Ignite Liverpool.  
+Approach and methodology
+The analysis will shape future growth, understand cluster composition, and guide export, supply chain, and investment activities. 
+OODA Loop
+The OODA Loop was developed by military strategist and United States Air Force Colonel John Boyd to help pilots make quick decisions when engaging in air combat.
+It has been widely used to help businesses and public authorities stay up to date and revise their strategies to keep pace with fast-moving and turbulent environments, in particular those driven by technological and regulatory change. OODA guides the analysis and problem-solving process in a structured approach similar to that embodied in other frameworks – e.g., McKinsey’s SPQA (Situation, Problem, Question, and Answer) methodology and ‘seven-step’ approach - but is more action-oriented and therefore offers a better platform on which to engage industry partners and stakeholders in evidence gathering and consultation with the promise of bringing about positive change. Its significance in this context lies in its ability to arrive at solutions which demonstrate how agility can overcome raw power in dealing with opponents – helping identify and determine sources of actual or potential competitive advantage which LCR can use to shape investment propositions to help its Digital & Creative Industries compete with larger competitors in the UK (including Manchester and London) and overseas. 
+The OODA Loop model is a four-point decision loop that supports quick, effective and proactive decision-making. The four stages of the Loop are:
+Observe – collect current information from as many sources as practically possible.
+Orient – analyse this information and use it to update your current reality.
+Determine – determine a course of action.
+Act – follow through on your decision.
+As its name suggests, the OODA loop sets in train an iterative process (e.g., ‘Plan-Do-Check-Act’) for continuous review and improvement of strategy. 
+
+Step 1: Project inception
+Our extensive experience of mapping digital and creative industries clusters has shown that the experience and views of a wide range of partners, stakeholders, businesses and audiences need to be accommodated in the planning and design of the work. It is, therefore, essential that the consultants and the client work very closely together from the outset around a clear and shared agenda to ensure clear and consistent communication of the intent and scope of the assignment, assurance of the evidence gathered from research and consultation and any recommendations for the further development of the cluster bid. We propose that a Project Inception meeting will comprise a workshop with the project steering group which will:
+Confirm the timetable and sequence of events set out in this proposal
+Identify key milestones, agree objectives and key results (OKRs) and a draft structure for the final report
+Establish a register of key risks and agree a risk management strategy for the project
+Develop a draft communications strategy and engagement plan to direct engagement and consultation in a way which prioritises access for a range of voices and communities and embodies a commitment to equality, diversity and inclusion in the collection and representation of evidence
+Confirm GDPR-compliant data sharing arrangements in a Data Processing Agreement which will allow client and contractor to share evidence securely and in a timely manner throughout the assignment
+The outcomes of this workshop will be reflected in a Project Initiation Document (PID) which, along with the Data Processing Agreement and draft engagement plan, will be appended to the contract.
+
+Step 2: Observe
+The mapping will help policy makers and investors better understand the current state of the Digital and Creative cluster in the Liverpool City Region in order to prioritise future investment in businesses, infrastructure and skills. We will take an asset-based approach to desk-based research, including use of Generative AI to identify knowledge and capital assets, both within the digital and creative supply chain and in other sectors of the economy, used by DCI businesses in development of new products and services.
+2.1	Scale and significance of DCI sector
+We understand that LCRCA has already built a database of DCI businesses. We will work with officers of LCRCA to review and update this, drawing our experience of using Beauhurst as a source of ‘live’ data on active businesses and to capture supply chain linkages within and beyond DCI.
+2.2	Workforce mapping
+We are aware that LCR has already compiled ONS data. However, employment and publicly available details from Annual Population Survey and Business Register & Employment Survey tend to underestimate total workforce – by as much as a third - through a combination of:
+Inaccurate definition: SIC codes are too imprecise to capture digital and creative industry activities in full
+Sample methodology: ONS employment data only refer to PAYE and omit the significant element of freelance and self-employed working in DCI
+Currency: the lag in available data (latest publicly available BRES data are for 2022)
+Geographical factors: HQ effects (employment registered to a head office location different from actual workplace)
+This means that analysis of company and employment data alone will not address the specific requirement to,
+‘Define the cluster, not just the vertical sector but the wider cluster ecosystem. Include number of enterprises, numbers employed within the LCR both on site and as remote workers, the economic impact generated by businesses and the cluster, its historical performance and key organisations/ stakeholders.’
+
+Most surveys of DCI clustering focus mainly or solely on agglomeration of business units and overlook the difficulties presented by employment structures which encompass high proportions of freelance working, and the related opportunities that exist where there is a significant ‘talent pool’ of freelance creative labour. Each sub-sector of digital and creative industries demonstrates structural differences, so this is not simply a case of averaging out freelance working across the whole sector and basing estimates on that – there is wide variation both between industry sectors (e.g., architecture typically has a lower proportion of freelance workers than sectors such as film and television) and at different points in the supply chain for each sector. 
+We have, over the last five years, developed and iterated a specific methodology to address the shortcomings of national statistical data using analysis of LinkedIn. This has several advantages:
+It is a massive sample (27.5 million users in the UK). 
+LinkedIn uses more specific and relevant industry descriptors – including Animation, Computer Games, Mobile Games – than even 5-digit SIC codes. 
+It allows us to segment different types of employment:
+Total employment 
+Full time employment
+Part time employment
+Contractor
+Internship 
+Self Employed
+Freelance
+Many students are registered, giving an idea of the talent pipeline.
+It allows us to monitor the relative mobility of the workforce by measuring:
+Past year recruitment 
+Open to new opportunities
+Retention (10+ Yrs)
+It allows us to understand the make-up of job roles
+Sales 
+Marketing & Comms
+Creative & Production 
+Admin & Operations 
+We can assess the relative seniority of the workforce, divided into:
+Founders & Directors 
+Managers 
+Entry level 
+It allows us to measure experience levels:
+0-5 Years
+6-10 Years
+10+ Years
+It helps understand the highest level of education of those within the digital and creative workforce – we typically assess number of those with a first Degree and those with a Master’s and above 
+Because it looks at employment across industry sectors, we can segment creative employment by company size, which brings in those in creative roles outside the DCI sector:
+1 to 10
+11 to 50
+51 to 200 
+201 to 500 
+501 to 1000 
+1001 to 5000 
+5001 to 10,000 
+10,000+
+We have carried out similar analyses in clusters across the UK, including comparator/competitor clusters in Brighton & Hove, South Yorkshire, East and West Midlands. Whilst this is not a census of all sector employment (which would require a survey outside the scope of this commission), the experience of conducting this research in different clusters gives us confidence that it produces a much more accurate ‘fingerprint’ of the scale and characteristic of digital and creative industries and workforces on which to based estimates of value, indications of potential threats and opportunities based on existing human and capital resource within the sector and opportunities for future investment.
+2.3	Skills mapping
+Using an approached developed and refined through studies of clusters across England, we will map the existing provision of creative and digital skills from colleges, universities and private sector training providers by:
+Academic qualifications (e.g., degree courses)
+Apprenticeships and T-Levels
+Technical training
+Continuing Professional Development
+We segment our findings across five creative career pathways:
+Pathway 1 - Creative Originals: arts & crafts, fine art, apparel and fashion
+Pathway 2 - Creative Services: marketing and advertising, photography, architecture & planning, graphic design, product design, design services
+Pathway 3 - Creative Experiences: music, performing arts, museums and institutions, libraries  
+Pathway 4 - Creative Content: computer games, mobile games, publishing, motion pictures & film, broadcast media, animation
+Pathway 5 –Digital Technologies: digital technologies including AR and VR, digital skills, coding, software development 
+We will further analyse the findings by geography to produce both a narrative and schematic view of existing provision and routes to progression through specific creative and digital pathways to employment to highlight how providers can best address skills gaps and shortages, under-supply of critical skills (particularly in emerging and fast growing areas of creative technologies) and address discontinuity in the provision of skills at different levels within creative and digital disciplines. This can help identify potential interventions to address:
+Lack of the right skills (particularly a blend of creative and digital skills)
+Barriers to access
+Lack of business and management skills within DCI sector businesses
+Rising costs in the recruitment of freelancers (including competition for the same skills and resource from other UK and international clusters)
+2.4 	Cluster analysis
+We will combine the data collected at steps 2.1-2.3 with analysis of existing research, notably Geography of Creativity (2023), to understand the specific ways and places in which LCR’s Digital and Creative Industries, key employers and key sub-sectors within it, use clustering as a source of competitive advantage. This will:
+Examine the sub-sectors or areas of specialisation within the cluster, as well as adjacent markets. 
+Identify specific industries or niches within the cluster that have the potential for global expansion. 
+Provide insights into areas where the city region can capitalise on emerging trends and leverage its strengths to maximise economic potential.
+
+2.5 Spatial analysis
+Spatial analysis will look more closely at specific concentrations of DCI businesses across the city region to consider the type of real estate that will facilitate or hinder growth within the cluster, including factors such as availability, suitability and affordability for real estate. 
+As part of this, we will engage with employers and workplace operators to understand drivers of demand and key constraints across strategic locations across LCR, including:
+Baltic Triangle
+CBD
+Daresbury
+Knowledge Quarter
+Ropewalks
+Ten Streets
+Wirral Waters
+Our engagement will include questions about the transport and logistical infrastructure of the LCR and its impact on the growth potential of the cluster to evaluate how the existing infrastructure facilitates or hinders cluster growth. It will consider factors such as transportation networks, connectivity, accessibility to markets (including the ability of audiences to take part in the night time economy and potential for extension of initiatives such as the Night Bus) and any constraints that impede growth, identify opportunities for improvement and highlight limitations that may exist.
+2.6	Supply chain analysis
+We recommend that the mapping should include creative workforce, supply chains and assets within a wider travel to work area, including parts of neighbouring local authorities including Cheshire East, Cheshire West & Chester, Warrington, West Lancashire and Wigan which supply a significant element of capacity for Digital & Creative Industries within Liverpool City Region. This includes institutions such as Edge Hill University as well as an analysis of the resident creative workforce within those areas.
+We will capitalise on the team’s combined international commercial experience to examine the cluster in a global context, drawing on desk research, experience of cluster and capital development programmes and existing contacts across UK, North, Central and South America, Europe, Africa, Asia and Australasia to explore synergies and potential collaborations that can be leveraged internationally. This will identify: 
+Opportunities for collaboration and knowledge exchange with other regions and countries which allow for growth and development.
+Strategic partnerships and initiatives that can be pursued to maximise their potential and expand reach beyond local markets.
+Within the analysis of supply chain, we will examine net zero interventions for the cluster and their potential for growth. The Fifth Sector is already a sponsor of a University of Liverpool PhD study into the options for cultural venues to measure their carbon impact as a first step to developing net zero carbon business plans. In this we will assess how the transition to net zero may constrain or enable growth in different digital and creative industries, evaluating the challenges and opportunities associated with achieving net zero emissions, such as changes in energy sources, technological advancements and regulatory frameworks. Drawing on the PhD research, we will identify what support businesses in the sectors need on their journey to net zero that will enable their transition and allow them to capitalise on the opportunities it presents.
+
+Step 3: Orient
+3.1	Update sector baseline
+Taking LCR’s own data and previous research into the games industry as a base, we will draw on the findings of Step 2 to prepare an updated sector baseline.
+3.2	Engagement and consultation
+We will carry out analysis to establish gaps in the evidence base and establish where engagement and consultation can address these and provide additional insight into significant barriers to growth and future investment opportunities. We will revisit the draft engagement plan shared at project inception to ensure that it best meets the evidence requirement and reflects the need to promote equality, diversity and inclusion in the findings and recommendations of the report.
+We will then use the resulting list of key employers, stakeholders and engagement forums as the basis of a programme of consultation to challenge and assure our interim findings.
+3.3	Potential impacts of technology
+We will consider the impact of technology on the cluster taking into account both positive and negative factors, such as increased efficiency, enhanced communication and collaboration, innovation and research, job displacement, cybersecurity risks, digital divide, dependency and reliability. 
+We will draw upon Obsolete.com’s specialist advisory services on the impacts of AI on:
+Future development of existing DCI sectors – increased competition, substitution, displacement, etc – for example, ways in which roles within the advertising and marketing sector may be affected by AI and how existing agencies may need to be reshaped to build resilience and competitive advantage.
+Changes in structure of DCI - emergent and new sectors arising from AI.
+Changes in future workforce – new jobs and displacement of existing DCI employment leading to changed requirements in skills and education for both new entrants and the existing workforce.
+3.4	Benchmarking and deep dive into key issues
+The outcome of consultation will help shape further analysis and benchmarking to understand the issues deeply, including
+Export (including any potential impact of Freeport)
+Sharing interim findings from research and consultation with consultants appointed to carry out mapping of Health & Life Sciences and Manufacturing sectors to determine potential for greater interaction and joint working between those key sectors and DCI to drive outcomes in:
+Creative Health
+Diagnostics (e.g., use of AI and XR in developing new diagnostics and treatments)
+Industry 4.0
+We will examine the cluster in a global context to identify and explore synergies and potential collaborations that can be leveraged internationally. This will identify opportunities for collaboration and knowledge exchange with other regions and countries which allow for growth and development, including those for increased inward investment in DCI, identifying key growth sectors within LCR. 
+This analysis will consider opportunities to leverage LCR knowledge and infrastructure assets, including STFC Daresbury and LCR Connect, to increase the city region presence in emergent technologies including quantum computing, cyber and AI.
+The research will suggest strategic partnerships and initiatives both within the region and with national and international partners that can be pursued to maximise their potential and expand reach beyond local markets.
+
+Step 4: Determine
+4.1	Findings from consultation
+Reflect on findings from engagement and consultation to clarify recommendations and identify areas for further research.
+4.2	SWOT analysis
+Summarise cluster strengths, weaknesses, opportunities and threats through a lens of economic impact, skill sets, and global context and formulate key questions to address in the analysis.
+4.3	Estimate GVA
+We will work with the project steering group and economists from the Growth Platform and the Combined Authority to agree a methodology by which the GVA of LCR’s DCI sector is calculated. Although DCMS produces Economic Estimates for the sector on a national level, many of the datasets used are not available at a NUTS 2 level, so there is no set methodology by which to produce regional sector economic estimates. Our approach to estimating the scale of the sector and workforce brings together diverse datasets in order to bridge some gaps in national statistics which result from the ways in which the sector does not conform to ‘norms’ in other industries. On other assignments, we have recombined several sources and methods (including apportionment of national data on creative industries exports and use of multipliers relating to regional productivity) in order to prepare estimates of regional sector output; but we recognise that LCRCA also needs to ensure that there is consistency between approaches to calculating GVA for different economic sectors and to avoid ‘double-counting’. We will set out those options with the Growth Platform and produce estimates in line with the methodology agreed.
+4.4	Develop recommendations
+Workshop with project team to establish which issues are most critical to address and develop recommendations that become the building blocks of a cluster action plan – for example market opportunities, skills development, innovation, adoption, decarbonisation and business support. 
+
+Step 5: Act
+5.1	Draft report
+Synthesise findings: bring together all findings, analysis and formulate actionable recommendations to form a coherent narrative in the form of a draft report in format agreed with project team.
+5.2	Review draft report
+Review draft report with project team and agree revisions.
+5.3	Final report
+Final report in agreed format in Word and PDF versions along with summary presentation for use by LCRCA and Growth Platform colleagues.
+
+Project management
+Iain Bennett will be the project director and will be responsible, as Director of The Fifth Sector, for sub-contracting the other partners. He will be accountable for delivering the contracted outputs and will ensure that any contractual obligations agreed with the Client will be reflected in ‘back-to-back’ contracts with all sub-contractors. 
+He will be supported by Steve Hunt, an experienced project manager with a track record of delivering complex public sector contracts. 
+After the initial project inception meeting, we will produce a project initiation document confirming the details of the programme and noting any significant changes from the original proposal in terms of resource or structure of the study. We will establish a timetable for fortnightly online meetings with the Growth Platform project team to provide updates on research, emerging findings and the progress of consultation and agree any changes necessary to the focus, scope or timing of elements of the programme. That level of contact will help achieve delivery within the 13-week study period. 
+Both employees and sub-contractors of The Fifth Sector are contractually bound to conform to its Quality Assurance process and its policies on Health & Safety, Equality, Diversity & Inclusion and Environmental Impact.
+Key deliverables are set out below and shown in the Appendix.
+Table 1  Supplier information
+
+Resource and timescales
+A detailed resource plan, showing a breakdown of resource, staffing and cost, is attached at Appendix A, along with a high-level Gantt chart giving an overview of timescales.
+These are summarised as:
+Step 1: Project inception – 2 days, w/c 15 January 2024 –cost £1,600 (exc VAT)
+Step 2: Observe – 25.8 days, 22 January to 16 February 2024 – cost £18,140
+Step 3: Orient - 16 days, 12 February to 15 March 2024 – cost £12,800
+Step 4: Determine – 5 days, 18-22 March 2024 – cost £4,000
+Step 5: Act – 5.4 days, 25 March to 2 April 2024 – cost £4,320
+This provides a total of 55.2 staff days across the project.
+Project milestones (shown in the plan) are:
+Project inception workshop (w/c 15 January 2024)
+Delivery of Project Initiation Document and Engagement Plan; signature of DPA and contract (by 20 January 2024)
+Updated sector baseline presented to project steering group (w/c 19 February 2024
+Review engagement plan and revise as necessary (w/c 19 February 2024)
+Draft report delivered to project steering group (w/c 1 April 2024)
+Delivery and presentation of final report (by 12 April 2024)
+The resource plan allows for fortnightly project updates from w/c 22 January 2024.
+Pricing
+The Fifth Sector will deliver the outputs as described above and detailed in the resource plan at Appendix A for a fixed fee of £41,660 (excluding VAT). This quotation remains valid for three months.
+Appendix A 
+Resource plan
+
+
+Timescale
+
+
+
+
+
+[TABLE 1]
+Potential supplier information | Potential supplier information
+Full name and address of the potential supplier submitting the information
+ | The Fifth Sector Limited
+301 Tea Factory, 82 Wood Street, Liverpool L1 4DQ
+Contact name and contact position (job title) for enquiries about this submission | Iain Bennett, Director
+Email address | iain@thefifthsector.co.uk
+Telephone number | 0151 203 3004
+Registered office address | 24 Sandown Lane, Liverpool L15 8HY
+Registered website address | www.thefifthsector.co.uk
+Company registration number | 07539809
+Registered VAT number  | 116 5537 20
+Insurance | Insurance
+Current insurance cover levels are shown below. | Insurance cover value
+Employer’s liability | £5m
+Public liability | £5m
+Professional indemnity | £2m
+[END TABLE 1]

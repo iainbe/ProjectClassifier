@@ -1,0 +1,788 @@
+
+
+
+
+
+
+Methodology
+Our research followed a five-stage process:
+A desk-based review of existing databases of immersive suppliers, academic research and R&D grants; along with a review of Science and Innovation Audits and the KTP database, to provide more specific intelligence about the sources and objectives of public investment in R&D. Investment databases such as Crunchbase were used to identify private sector investments in immersive tech. 
+Analysis of our initial findings was used to identify keywords relating to the supply and consumption of immersive content in a number of market verticals agreed with Digital Catapult: 
+Cultural and entertainment content (including museums and galleries)
+Manufacturing
+Healthcare (in particular medical training and mental health)
+Education
+Construction
+These keywords were used to ‘train’ Synoptica’s AI-driven search technology for extracting unstructured web data. The results of this search, when augmented with geolocation data, were manually analysed and cleansed. Attention was paid to whether the companies were active; for evidence of research-funded projects translating into spin-out companies; and to any patterns of cross-ownership between immersive suppliers. The cleansed data provided us with a footprint for businesses and research centres working in immersive tech across the UK. From this we were able to map, supply side companies and the main spatial concentrations of production and R&D activity both in database form and visually using GIS mapping.
+In parallel with the keyword search, we undertook desk-based research into industry reports and trends; and conducted face-to-face and telephone interviews with key respondents in industry, academic and research institutions and with investors to identify issues, barriers and opportunities for the sector. This included comparative studies of immersive tech ecosystems in North America and China that we believed may have developed approaches which have helped overcome some of the barriers experienced by UK businesses and researchers; and have begun to identify other market opportunities. These findings were used to develop two tools for the final stage of the research:
+A visual ‘example cluster map’ of core and supporting elements of an immersive business ecosystem;
+A discussion guide to direct semi-structured interviews.
+The final research stage used the example cluster map (shared with respondents) and discussion guide as the basis of a series of qualitative depth interviews to examine in detail the common barriers in technology, infrastructure, research, production and distribution for immersive content. These were built up as case studies of spatial concentrations of businesses and research capability across the UK, in most cases centred on a city or city region. This report sets out the dimensions and spatial concentrations of the sector; its most significant clusters; a refined definition of the barriers to developing scalable technology and distribution mechanisms in a number of key end user markets; case studies of comparable approaches; and our findings and recommendations. 
+Synoptica Overview
+Synoptica is a leader in sourcing and analysing business data using Artificial Intelligence. Synoptica offers a software platform that crunches content and data from the Web to identify and profile Small & Medium-Sized Enterprises (SMEs), and track their performance over time. Government authorities, analysts and research consultants use Synoptica to evaluate the strengths, weaknesses and characteristics of individual businesses in the United Kingdom and abroad. This information is utilised to support engagement with SMEs and the service offerings proposed to them, as well as informing wider-market policies and strategies.
+Synoptica Technology & Methodology
+Capturing insights into businesses and drivers of their growth or failure is particularly difficult without contextualised, complete and up-to-date information. The growing ability to extract and analyse information held on the Web offers opportunities to automatically generate rich business intelligence. Synoptica’s technology blends both traditional methods of aggregating data from multiple data sources with innovative extraction and analysis of unstructured Web-data. This means that the platform that offers accurate information and real-time updates on companies’ data.
+
+The Synoptica technology consists of a Java 8 and ReactJS presentation layer, which interfaces via a real-time messaging service to a ‘big data’ pipeline and cutting-edge data processing technologies, including NiFi and Spark. The technology architecture allows data to be collected, managed and displayed with maximum automation and flexibility, offering unprecedented access to Web data. This is combined with Natural Language Processing and Machine Learning techniques to filter and sort at scale Web-based information on companies.
+
+Synoptica utilises its software to deliver the following company information and analytics:
+
+Indicators - in many instances, there is no established database for company information. Here, Synoptica utilises its Artificial Intelligence technology applied across the Web to deliver bespoke ‘Indicators’ of company performance. These Indicators replicate individual web-searches across many companies to identify contextualised information. For example, a ‘Collaboration’ Indicator would highlight a company’s propensity to collaborate with universities. Other examples of insights the indicators provide include finding signals that a company has won new customers or entered new markets, is recognised through awards or media attention, or has hired recognised, C-level talent.
+
+Scores - by aggregating multiple data points and indicators into high-level scores, the technology allows a degree of quantitative and qualitative ranking that was previously time and cost prohibitive. For example, an ‘Innovation Score’ may combine the number of patents held by a company, the amount of grant money it has received and a ‘Collaboration’ Indicator.
+The underlying methodology for retrieving unstructured web data and subsequently generate the individual indicators and scores is as follows:
+
+1.	Query via Bing Web Search API
+Synoptica’s technology performs search queries via the Bing Web Search API on each company. Queries are defined by its in-house teams, or the client, who input search terms and criteria. For example, to generate an “Awards” score for a company, the technology runs a query that includes the company name and a string of specified keywords and phrases. The queries can be restricted in time (e.g. only use results from content published on the web in the past month), web location (e.g. only consider results from specified domains, countries, etc.) and content type (e.g. only view blog posts, etc.).
+
+2.	Analysis of top 1,000 results
+Once the query has been performed, the software assesses the top 1,000 results to decide those that are relevant and those that should be disregarded. At this stage, heuristics and Natural Language Processing methodologies are applied to structured (e.g. a website’s metadata, etc.) and unstructured data (i.e. the written content) to drive the software’s decision-making process. The technology then applies further heuristics and Natural Language processing to assess the context of the retrieved information.
+
+3.	Normalisation & scoring
+The final stage consists of generating a percentage score based on how many relevant results found and the number of times the same information is repeated online. The size and popularity of the websites where the information is retrieved are also factored in the scoring methodology.
+
+Sector Categorisation
+Synoptica created the sector categorisation tool by training a machine learning algorithm to recognise keywords, phrases and concepts commonly used on websites based on their sector. The training data set consisted of thousands of websites pre-categorised into the 147 LinkedIn sector categories. The software returns the top three sector matches with their associated confidence levels, which reflect the percentage match between the words found on the website and those found in the pattern.
+
+Keywords and Business Focus
+To determine the extent to which a company is focused on a technology, the client determines a set of keywords and phrases. The software then identifies the percentage of pages on the company’s website that hold these search terms.
+Figure 1. Data, their sources and how we have used them
+
+2.	Mapping
+
+We had always intended to undertake visual mapping of companies and research centres as a way to identify potential clusters of activity. But as we began to analyse the statistical data, the mapping took on a greater significance.
+
+The immersive content sector in the UK is still small - around 500 active companies. London is home to over 200 of these (see ‘Immersive Count by Functional Urban Areas, in main report); many other cities have ten or fewer companies.
+
+We had planned to use Synoptica’s AI-powered search of unstructured web data to identify value chain relationships between suppliers and end users of immersive content and to map these both spatially and by market vertical. However, most of the supplier web sites were not of high enough quality to provide this information.
+
+Similarly, we had hoped that a parallel search of websites of research centres would reveal information about networks of academic engagement with businesses. Again, this expectation was disappointed, as these sites were either insufficiently detailed, out of date or in some cases not present.
+
+At a mid-point of our study, we realised that there
+was no way that we could, in the time allowed,
+generate enough quantitative data to provide
+estimates of the scale of businesses, employment
+and GVA in the sector, and trends in its change
+over time. Much less would we be able to pinpoint
+links between immersive suppliers and specific
+market verticals in order to articulate value in the way we had planned. The difficulty we had in gathering organised quantitative data about the sector confirmed that the market is still emerging and is disorganised.
+
+We therefore changed our approach. Using the quantitative data that we had, along with draft findings of the Nesta/MTM national survey of immersive content and tech, we started to use GIS mapping to ‘heat map’ the sector. Adding geolocators to our dataset, we began overlaying the data on companies, investments, research centres and other specialist immersive technology facilities to see if we could visually identify any correlations between these, which suggested evidence of cluster activity.
+
+From this, and the findings of desk-based research and our own knowledge of the sector, we selected a group of cities and city regions where we found greater concentrations of activity and used these as the focus of our investigation into clusters. This reversed our anticipated process: we were now using qualitative data to test the existence and significance of value chains for immersive tech in market verticals. 
+
+
+
+3.	Clusters
+
+Clustering is an important factor in improving productivity through sharing of knowledge, tools, skills and access to markets. We interviewed respondents from centres across the UK, including in all the Nations and in regions in the North, the Midlands and South of England, to establish whether clustering, as opposed to simple concentrations of business or research assets, exists. 
+
+We focused our research on potential clusters outside London. Our reasons for this were:
+
+We were confident that London demonstrated all of the elements of an effectively functioning immersive tech and content ecology.
+London’s immersive sector has been mapped in much more detail, and a significant number of London-based firms are subjects of case studies already carried out by ImmerseUK - we saw no benefit in repeating that research.
+Clustering and knowledge transfer are ‘contact sports’ - as the map shows, London demonstrates a much higher density of immersive firms than any other part of the UK.
+Physical proximity, particularly between SMEs and the Digital Catapult, means that the barriers for business engagement are greatly reduced. 
+
+Based on the mapping work, nine geographical UK clusters were selected for further investigation, plus HVMC as a ‘national’ cluster. These areas reflect different combinations of research and business activity, and different stages of maturity in their development towards being national ‘hot spots’ for immersive activity. Examining the industry at this level of geography - typically a city or city region - provides a useful investigation. The ability to compare and contrast the formation and focus of business engagement with research and end users in different cities enhanced our understanding of the essential elements of an immersive technology ecosystem and acted as a way to focus and access the right people to speak to. The ten clusters identified represented a mixture of mature clusters, emerging clusters, nascent clusters and those with specific Digital Catapult facilities. This section provides a summary of the evidence from over 30 interviews; full information about the clusters is available in the technical appendix.  
+
+We carried out a mix of face-to-face and telephone interviews with local respondents in places where our mapping suggested that there was a conjunction of research and commercial activity in immersive content, to test for evidence of joined-up activity to support the immersive content sector. We used a semi-structured interview format (see figure xx below) and paid particular attention to responses that indicated the strength (or lack) of engagement between research institutions and industry. In the absence of clear quantitative data, this qualitative approach allowed us to investigate what kinds of positive externalities may exist in collaborative research and development and commercial transactions in these clusters, and whether these spillovers help lower barriers to research, development, production and distribution of immersive content in a way that suggests that there is a functioning cluster, or ecosystem.
+
+Figure 2. 	Indicative questions for cluster interviewees
+
+
+
+3.1	Cluster snapshot
+We presented our findings in three ways:
+A brief ‘snapshot’ of the main characteristics of the immersive ecology in that location (“Cluster snapshot”, below)
+Visual representation of various dimensions of essential and supporting elements of immersive content research and production in each place, highlighting comparative strengths and gaps.
+Analysis of key strengths, barriers and opportunities present in each place
+
+Figure 3.	Cluster snapshot
+
+
+
+	
+3.2	Cluster ecosystem
+Immersive technology clusters involve a complex interaction between start-ups, large established firms, higher education, spin outs, support agencies, investment, funding, networks and support agencies.  The diagram below shows an example ecology of an immersive technology cluster, which we devised as a provocation/straw man to stimulate discussion about the levels of presence of essential and supporting elements in each cluster location. This diagram was used to prompt conversations with cluster representatives and as a way of understanding the complex ecosystems which are emerging. 
+
+
+
+Figure 4. 	Example immersive cluster map.
+
+
+
+Essential ecology 
+None of the nine location-specific clusters we studied could claim to have “end-to-end supply chains” in any market vertical.
+
+The most commonly observed barriers were:
+
+Barriers in distribution: even in city regions with strong creative content sectors (eg, Manchester, Bristol, Glasgow and Belfast), market fragmentation and lack of clear commissioning frameworks can be seen to be holding back growth. 
+Barriers in research: although there are some good examples of universities (e.g. Nottingham Trent University) that have developed effective research design methodologies for particular market verticals, the transfer of research between HEIs and SMEs is inconsistent. 
+Geo-political barriers: the further one gets from London, the more excluded businesses feel from showcasing opportunities. This sense of exclusion is heightened in the devolved nations.
+Supporting ecology  
+The most common missing elements are access to venture capital and local angel investors.  This is lacking or weak in all the clusters studies. Other elements that are commonly lacking are UK and global distributors and public arcades for showcasing and supporting public adoption.  
+
+There are clearly ‘cold spots’ to focus attention in certain areas and ensure a consistency.  These cold spots include research funding (notably Manchester), meetups (Belfast), professional services (Glasgow) and regional support programmes (Sheffield) 
+3.3	Cluster case studies
+Belfast
+
+Key:
+Strong presence
+Some presence, not strongly clustered
+Little or no presence
+
+Snapshot - Belfast
+Still a fragmented picture of games SMEs and immersive startups, ad hoc meetups and occasional knowledge exchange events with Queens, Belfast and Ulster Universities, the cluster is being encouraged to emerge. The city deal, investment from Digital Catapult, and a ‘skunkworks’ team from the games and films sector all support the development. Belfast-headquartered Kainos software group commissions content from the cluster, but there is little VC/Angel investment. 
+Strengths
+Although there are no VR arcades, world class visitor attractions such as Titanic Belfast have provided public audiences with immersive content experiences, and there is demand for further immersive content from Game of Thrones fans who come to the city to see where the series was filmed. 
+Barriers
+The cluster has an international outlook, and sees the main barrier facing the UK’s development of an immersive content market as being China’s ability to make better technology faster, quicker and cheaper. They would like to make content for the Chinese market, but are unsure of the legislative and standards differences.
+Members of the cluster feel that their content should be included in national showcases for international markets, but that they have little influence over this, as they are remote from London both in distance and engagement.
+Opportunities
+NI Screen and Titanic Studios have an interest in developing an immersive content lab to create immersive content around global content successes Game of Thrones and Superman. The BIM and CAD driven sectors are beginning to see the opportunities for immersive content, but access to a lab to see its potential is required.
+There are opportunities for the cluster to become expert through research around location-based entertainment and end-user experience. 
+Surveys across the cluster are already cementing project ideas to progress into publicly funded opportunities and competitions.
+Brighton 
+
+Key:
+Strong presence
+Some presence, not strongly clustered
+Little or no presence
+
+Snapshot - Brighton
+Brighton has a mature immersive content cluster which initially developed organically as e-learning and games companies built interest. A meetup was launched, which today still sells out. Now, the growing number of immersive tech companies in the cluster is supported by regional programme Wired Sussex, a Digital Catapult Immersive Lab, a 5G testbed, and the Universities of Brighton and Sussex developing immersive content research and knowledge exchange opportunities through public funding. 
+
+The scene is supported by private sector tech incubators, professional services firms and small-scale VC/Angel investments. A few larger scale automotive and construction sports sector enterprises commission immersive content from within Brighton’s cluster, but with London close by, most larger enterprises look to work with companies in London. There are no public or private sector content commissioners or distributors locally, but there is evidence of public audiences engaging with #pubVR arcades installed and popping up in the town’s bars, and through Yes/No Productions’ home showings of their immersive 3D films.
+
+Strengths
+Formal networking and marshalling of collaborative development opportunities by Wired Sussex and the Digital Catapult Immersive Lab helps companies in Brighton address Issues such as the absence of complete supply chains locally, and the risk to SMEs of the rapid pace of evolution of hardware and software for development, which can become redundant before smaller companies can see a return on any investment.
+Barriers
+The cluster does not feel a part of the London supply chain, or of any international network. They are frustrated by the lack of horizontal, national, across-the-sector sharing of opportunities, research and networks, and by the lack of regional and national showcases for their immersive content. 
+Opportunities
+There are specific opportunities for the cluster to develop untethered experiences because of the 5G testbed, and immersive sport content with Brighton and Hove Albion’s growing interest.
+Bristol 
+
+Key:
+Strong presence
+Some presence, not strongly clustered
+Little or no presence
+Snapshot - Bristol
+With a small but tightly clustered base of immersive companies in Bristol, the VR Lab has been set up as a catalyst for growth of the sector in the South West region. Established by the CEO of immersive company OpposableVR, the Lab builds on the networks developed by Opposable VR through the annual VR conference they have hosted for three years in Bristol. The VR Lab is a physical space, hosting researchers and entrepreneurs (‘residents’) from across market sectors and technology applications. The Lab’s financial backing comes largely from academic partners - University of Bristol, UWE and Bath Spa University. The VR Lab has successfully engaged with large potential end users of immersive content including Airbus, Aardman, BBC and Sony.  
+Strengths
+Industry/academic partnership - large industry end users, including Airbus, Aardman, BBC and Sony, sit on the board of Bristol VR Lab alongside academic and research partners, in the form of University of Bristol and UWE, who are the main financial backers, and Watershed, which was brought in to manage the university funding going into the project. Other partners include The Engine Shed and Bath Spa University. 
+Physical space offers access to up-to-date and well-maintained equipment for testing and experimentation; flexible workspace, promoting co-working and knowledge exchange; and a hub for collaboration.
+Good mix of businesses, researchers and end users; 4 researchers from each of the Bristol universities. The focus of the residents varies from Nuclear Industry to Art, Entertainment Education and Aerospace.
+Three full time support staff.
+Provides some formal training for VR, AR, Surround Sound and Cloud/Enterprise Solutions.
+University of Bristol has provided access to nine datasets (including brain scans, environmental data and nanoscale materials) for VR companies to access and provided awards (funding) for some of those.
+Barriers
+Local SMEs need more content funding to explore and find out what works (e.g, the Creative XR funding initiative).
+Need further investment for the VR Lab to increase its capacity to engage both with developers and content producers locally and international companies and organisations.
+VR companies need larger teams - akin to games companies - to get product out of the door.
+Would like better relationships with hardware firms (especially HTC). 
+ Opportunities
+Large players like Airbus and global software firm PTC (ptc.com) have VR kit, but is not maintained and ready to go; so their developers have been coming to the Lab both to get out of the corporate environment and to take the opportunity to use primed kit and interact with the other developers. 
+Glasgow 
+
+Key:
+Strong presence
+Some presence, not strongly clustered
+Little or no presence
+Snapshot - Glasgow
+The Glasgow immersive content cluster has informally grown as its digital agencies have matured and scaled enough to be able to internally invest in immersive R&D. Regional support programmes, such as Innovation Vouchers, encourage SMEs to develop applied R&D projects with HEIs, which in turn have created larger-scale successful InnovateUK and RCUK funded projects, and new spin-outs. The cluster self-organises through meetups, and through HEIs and SMEs being closely networked. The BBC has worked with the Glasgow cluster on reality/spatial and 360 degree film capture, and the film sector is seen as key to the cluster to overcome barriers to international markets.
+Strengths
+It is supported through digital talent emerging from Scottish HEI, and there being complete supply chains (e.g. large BIM/Construction/Oil and Gas/Cultural Heritage sector commissioners, and NHS Scotland commissioning immersive content to overcome training and education needs across the Highlands and Islands). 
+The strong and mature games sector in Scotland has provided local angel investors interested in immersive content, as well as enough interested general public for Glasgow to be the only UK city with two VR arcades (Edinburgh also has a public arcade).
+Barriers
+Lack of access to large scale reality capture facilities. 
+The lack of a showcase of immersive content means that organic international development is difficult, only happening when the clusters’ commissioning companies introduce to international clients Glasgow’s immersive content companies - but as their own suppliers.
+The cluster feels it is not recognised by public funders Scottish Enterprise and Creative Scotland, nor the Digital Catapult. 
+They have no platform for a common voice, and feel that opportunities could work better for them if they had access to the kit available across the UK, and if matchmaking and networking interventions were UK-wide. 
+Opportunities
+Opportunities for the Glasgow’s immersive content sector are emerging mainly through the applied research projects developed between SMEs and HEIs. Glasgow seems to be uniquely already researching and developing the user-experience of immersive content (psychological, biological, social, ethical, hygiene factors).
+To use their 5G testbed for further R&D into untethered immersive experiences. 
+Manchester
+
+
+Key:
+Strong presence
+Some presence, not strongly clustered
+Little or no presence
+Snapshot - Manchester
+Greater Manchester and its hinterland has significant immersive assets, although the sector is emerging rather than mature. It is home to a number of high profile content providers and indie studios; production and post-production facilities (including MediaCityUK, Sharp and the Space Project) are allied to commissioning to create significant opportunities in creative content. This may in part explain why perceptions are that the barrier to entry to immersive technologies are already low. Local devolution of health and social care, and a well-developed innovation and testing ecosystem for life sciences, provides an opportunity to explore and grow immersive applications in medical training and clinical care. 
+
+Our mapping indicates that it is a regional cluster with arms in East Cheshire, Warrington, Liverpool and North Wales, with supportive and engaged HEIs at all points of the compass.
+Strengths
+Presence of content commissioners and suppliers - BBC, Sony, Warner Bros (TT Games), Cubic Motion, RealtimeUK, Immotion/Studio Liddell and other indie games studios.  
+Nationally significant and scalable production and post-production capability (including MediaCityUK and Sharp), including some that offer immersive facilities.  
+Commitment and support from engaged HEIs with specific and relevant research expertise and facilities (eg, MMU VR/AR lab, Salford Thinklab and Acoustic Studios).
+Barriers
+Lack of an ‘anchor tenant’ for immersive content developers (unlike the games industry in 1980s and 1990s) means the sector lacks clear leadership and fuels concerns over the climate for foreign direct investment. 
+None of the ‘big 5’ US players (Alphabet, Amazon, Apple, Facebook and Microsoft) have a technical or commissioning presence in the region (as distinct from satellite sales offices).
+Lack of ‘live’ commissions - BBC is engaged (through BBC R&D) but developing projects rather than developing content;  Sony’s Liverpool studio is experimenting in-house rather than commissioning content.  
+Lack of coordination and collaboration across the sector - although there are active meetups, people are busy getting on with delivering projects, rather than coming together to develop new opportunities.
+Skills gaps - despite concerted efforts of universities and public sector over the last decade to ‘fill the digital pipeline’, many immersive tech firms are experiencing gaps and shortages in skilled staff which limits their ability to grow.  
+Effort is required to encourage ‘mid-career’ developers and producers to relocate to the area - in contrast to London with its pool of ‘flexible technologists’.
+Public sector agencies are fragmented - there is no formal coordination of the 20-30 core companies around specific funding opportunities.  
+Barriers in procurement and adoption of immersive tech in this health and social care sector (despite the devolution in the sector). There is no process by which immersive suppliers can access clinicians to carry out testing and medical research that would help establish sound use and benefit cases, and address resistance to adoption of XR.
+Opportunities
+Opportunity for the Metro Mayors of Manchester and Liverpool City Region to be ‘amplifiers’ for messages about the sector and encourage other figures heads to encourage investors.  
+Unmet potential of greater convergence of content production, post-production, CGI, games, film and TV supply chains to address scalable opportunities in research, development and distribution of immersive content.  
+Devolution of health and social care - ecosystem of universities and agencies to support medical training, devices, clinical care, trials and commissioning.  
+
+North East and Tees Valley
+
+
+
+Key:
+Strong presence
+Some presence, not strongly clustered
+Little or no presence
+
+
+Snapshot – North East and Tees Valley
+The official immersive content sector in NETV has emerged to serve locally located large heavy manufacturing industries (such Nissan in the automotive sector), and the public sector (housing and heritage sectors). Gateshead City Council, regional support programme Secret Sauce, and the Digital Catapult Immersive Lab all enable the cluster, as do a healthy meetups and digital incubator scene. 
+
+The NETV Digital Catapult Lab provides SMEs and micro businesses with access to kit, which reduces their trial and development costs. Local HEIs secure public funds for immersive content research and development projects. Improving knowledge transfer and linking this activity into industry is a key objective of the Digital Catapult Lab. Public arcades (VR Gaming Experience in Newcastle, Virtual Arcade in Gateshead), annual hosting of national high profile conferences such as VR2GO, and the forthcoming Great Exhibition of the North engage end users and general audiences with immersive content and technology. The cluster has not yet looked to engage internationally but there is a core of companies (including a couple of scale-ups), and engagement from Newcastle University and the NE Fuse project. 
+Strengths
+The NETV cluster identifies a value proposition in linking regional strengths around manufacturing and creativity, and identifying opportunities for the Digital Catapult Lab to work in collaboration with HEIs and industry to secure big projects. 
+There is a legacy of informed, specialist VC investment in the tech sector (North Star; Ignite; Tech North).
+Other, well-established business support programmes (notably Generator, Sunderland Software City and North East Fuse) already combine university, public and private actors in sector support for both creative and tech.
+Barriers
+Digital Catapult still being treated as a building project by Gateshead Council and SSC
+Narrowness of focus on ‘founders’ from regional support programmes – service companies not paid much attention.
+Barriers to further take-up of immersive content and tech were described by the cluster as being an educational issue: the quality of the kit and the content experience has much improved recently, but they suspect businesses and the general public have not kept up.
+The cluster feels that most supply chains are based in, and that showcases highlight, London. 
+Opportunities
+NETV Immersive Lab staff would like to see a national network that could link-up clusters outside London for collaboratively developing opportunities, showcases, projects, and for matchmaking. 
+University of Newcastle National Institute for Smart Data Innovation should offer access to the kind of big datasets being talked about in Bristol and Canada.
+Knowledge exchange – Prof Jonathan Sapsed of Newcastle University founded Brighton Fuse and brings that experience to the North East cluster – with immersive as a big focus.
+Sector - big opportunities in high value manufacturing (eg Nissan at Washington).
+Geographic and sector– Centre for Process Innovation at NETPark in Durham attracts a range of potential end users and collaborators in other verticals.
+Nottingham
+
+Key:
+Strong presence
+Some presence, not strongly clustered
+Little or no presence
+Snapshot - Nottingham
+Nottingham has a distinct combination of assets - two universities (one Russell Group and one post-1992) working in complementary fields of research, strong support form the city council, space for showcasing (National Videogames Arcade) and it is centrally located with good connectivity.  We observed a strong culture of collaboration between business and universities and between the two universities in the city.  Nottingham Trent University - working in partnership with the local NHS Trust - is successfully developing research expertise in applications of AR in surgical procedures and medical training.
+Strengths
+Nottingham boasts a distinctive combination of assets:
+A Russell Group and post-1992 university working in complementary ways and in market verticals including museums, galleries and medical training.
+Strong support from the City Council in coordination and trade promotion, complementing the University of Nottingham’s strong international links. The University of Nottingham at Ningbo has an immersive incubator - and partnerships with Cyberlab in Karlsruhe, plus others in India.
+Showcasing - National Videogames Arcade and annual Ingenuity conference.
+Logistics - central location, road, rail and air links.
+Self-reliance: people in the city and region recognise that they need to come together to sort things out for themselves, reflected in high levels of cooperation between University of Nottingham and NTU.
+Sophisticated understanding of international opportunities, stressing that development needs to be international from the product concept stage, not developed for UK first then sold on.
+Barriers
+Local SMEs do not feel that they are recognised by Digital Catapult and Innovate UK.  
+Risk of uneven development of the cluster: local business support agencies report that it is more difficult to engage digital businesses than creative businesses. 
+Finding the right connection points, including at an international level, with key individuals and communities for business and investor development.
+Opportunities
+Creating a high value immersive sector addresses ‘pull to London’ for graduates - an ambition reflected in plans to develop further business incubator and lab facilities.
+Importance of access to large data sets (reflected in Vancouver case study, below) is reflected here. The emerging immersive content sector needs specialists to feed into it so that particular use cases and verticals can be addressed (eg British Geographical Society mapping data) through a structured approach.
+Both universities share the vision of excellence of Computer Science research generating opportunities to do more to demonstrate applications for immersive tech and content; not just researchers that come up with great ideas but growing awareness and stimulating an environment to work out the problem definition and innovative solutions between researchers, industry and end users.
+Creating a high value immersive sector addresses ‘pull to London’ and begins to address the comparative lack of high value businesses in the East Midlands.
+Importance of access to large data sets is reflected in work on medical training. 
+City partners are trying to put in place a cluster development manager who can oversee and aggregate up all those interactions (also reported in the Vancouver case study, below). 
+Sheffield
+
+Key:
+Strong presence
+Some presence, not strongly clustered
+Little or no presence
+Snapshot – Sheffield
+
+The Sheffield cluster has emerged over the past few years mainly due to the efforts of Sheffield Digital, a volunteer-run membership organisation which has supported immersive tech and content focussed meetups and projects. The cluster grew out of an early recognition amongst local games development companies of demand from local manufacturing, CAD and BIM sectors wanting to use immersive tech and content to improve their workflows. Identification of a strong games development sector in Sheffield has led BBC and C4 to commission immersive content from local suppliers. Both Universities have hatcheries; the UK’s largest PlayStation lab is hosted at Sheffield Hallam University; and the Advanced Manufacturing Research Centre (AMRC)  at Sheffield University is also encouraging SMEs to taste and test immersive content and tech (see HVMC case study, below). DocFest’s ‘Alternative Realities’ strand of programming generates popular opportunities for the public to engage with immersive content. 
+Strengths
+Sheffield boasts a wide range of business support and co-working spaces for creative and tech businesses, ranging from Showroom Workstation to Maker Lab to Electric Works - the last of these home to dotforge, a socially-focused tech incubator. Another 1,100-seat tech hub, Kollider, is due to open in 2019 in the former Co-op department store. 
+
+
+Barriers
+Lack of public sector investment - immersive tech is not a priority for the LEP
+Lack of collaborative R&D opportunities - HEIs do not partner with local SMEs in immersive research projects. Festival of the Mind - the only time when the academics engage in knowledge exchange more widely with local SMEs.
+Stronger presence of VC and angel investors in Manchester and Newcastle results in a loss of home-grown talent, and graduates, to these cities
+The Sheffield cluster feels that it could and should be better supported by the LEP, the Digital Catapult, and its local HEIs.
+Opportunities
+Better links with Sheffield’s strong independent film sector, which (boosted by DocFest) has a global reputation for short-form and documentary content, and the benefits of Sheffield’s rich cultural offer could be better showcased and leveraged to attract digital graduates to stay, settle, and develop the immersive content sector.
+Sheffield is also looking to China, generally engaging with investors and attracting students. More could be made of this link with the Chinese community, for example by supporting their involvement to develop a showcase of immersive content for the Chinese market. 
+South Wales
+
+
+Key:
+Strong presence
+Some presence, not strongly clustered
+Little or no presence
+Snapshot – South Wales
+There is a rapidly growing digital sector in South Wales, particularly in Cardiff. Our mapping suggests only ten or so active AR/VR companies in the region, although there is evident interest of both suppliers and commissioners in immersive - a nascent rather than mature sector. Strong support mechanisms, rooted in academic interest within Cardiff University around immersive technology, are leading on sector development and awareness, rather than industry itself. The range of partners seeking to engage in the cluster includes Cardiff University’s AR/VR research network, Creative Cardiff, BAFTA Cymru and BBC Wales (in particular, its R&D department.)  
+Strengths
+Strong local support networks, coordinated by local HEI.
+Mechanisms for interaction between academics and industry.
+Fast growing digital sector.
+Barriers
+Political geography of innovation and business support (including Science and Innovation Audit) that treats  South Wales and South West England as a single region; which doesn’t work for a devolved nation with its own policies in education, health and economic development.
+National Software Academy will produce its first graduates next year but there is still not enough supply to meet demand from tech companies in the region.
+Lack of engagement of Digital Catapult and ImmerseUK in Cardiff.  
+Much of the challenge and opportunity for Cardiff and Swansea is about making visible what already exists. However, the immersive content sector needs a specific intervention to get over path dependencies and to emphasis its authenticity. 
+Succession - Creative Cardiff is subject to time-limited funding. It needs to set a vision and a train of events and hand it on. Its challenge to the Digital Catapult is to find ways of making the local specificities of a small city that is also a national capital and the hub of a city region, with international links, an advantage rather than a disadvantage.
+Opportunities
+For digital content production - in part fuelled by demand for dual language content and therefore a greater supply of independent producers, than in other similarly sized cities.  
+Locally held view that, “Wales should be like Estonia” - a small but digitally dynamic nation within Europe - and the idea of Wales as a smaller nation within larger English-speaking polity has traction in government and HEI across the country.
+Prioritisation of immersive content and tech at a policy level in Welsh and UK Government, or at least a shared recognition that there is an opportunity here.
+There is a wealth of place-based thinking – Cardiff was recently designated a city region, as well as being the Nation’s capital, and the strategy of ‘the Innovation System’ promoted by Welsh Government involves thinking about connection with innovation across the country.
+Matching the appetite of local entrepreneurs with the location and content of events - as evidenced by the relocation of Digital Wales event from Celtic Manor to Tramshed in Cardiff city centre, the emerging immersive content cluster needs more opportunities, such as the new Virtual Reality South Wales (VRSW) meetup, for ‘physical collisions’ to stimulate knowledge transfer and catalyse self-awareness.
+NHS Wales and responsibility for the health system are devolved to the Welsh Government. As a result, healthtech generally is strong, although this not yet reflected in demand for immersive content. 
+Similarly, devolved responsibility for a (bilingual) education system could present further opportunities - and BBC R&D is pitching for a £300k project to the Welsh Government for educational VR work.
+Nation status also encourages development of strong international links.
+4.	Science and Innovation Audits Review
+Science and innovation audits have been commissioned/chosen in three waves.  Wave one and two are complete, wave three have been chosen but have not yet reported. The geographies for these do not align with LEP, LA or devolved administration boundaries.  
+The first twelve audits are available for review and there some background information on the others which may indicate whether immersive tech/AI/AR/VR are likely to place a key part in the evidence.  
+
+The review of the Science and Innovation Audits helped to:
+Identify areas which have expertise or aspiration around immersive technology (including AR/VR/AI), focusing on creative content, manufacturing and health (mental health and medical training)
+Document what these aspirations/areas of expertise are
+Identify what support is being offered for businesses in the areas
+
+First wave of Science and Innovation Audits 
+Published November 2016
+Available at https://www.gov.uk/government/publications/science-and-innovation-audits-first-wave-reports
+
+Second wave of Science and Innovation Audits
+Published September 2017
+Available at Wave 2 https://www.gov.uk/government/publications/science-and-innovation-audits-second-reports-published
+
+Bioeconomy of the North of England. 
+East of England
+Glasgow Economic Leadership. 
+Innovation South 
+Leeds City Region.
+Liverpool City Region Plus. 
+OffShore Renewable Energy consortium 
+
+
+Third wave
+Announced Autumn 2017, due to report Summer 2018
+List available from http://www.ukspa.org.uk/blog/17/10/science-innovation-audit-third-phase-update
+
+Cyber Resilience Alliance (led by Worcestershire LEP with support from The Marches, Gloucestershire and Swindon and Wiltshire LEPs)
+Maximising the Marine Economy of the Highlands & Islands (Led by Highlands and Islands Enterprise)
+North West Nuclear Arc Consortium (led by Bangor University with support from Welsh Government and North West England LEPs)
+North West Coastal Arc Eco-Innovation Partnership (led by Lancaster University with support from North West England LEPs and the Welsh Government)
+Northern Powerhouse Chemicals & Processing Science (led by Tees Valley Combined Authority with support from North East, Humberside, and Liverpool City Region LEPs)
+Northern Powerhouse in Health Research (led by Northern Health Science Alliance and includes LEPs, universities and teaching hospitals from across the Northern Powerhouse)
+The South Wales Crucible (led by Swansea University)
+Upstream Space (led by UKSA/Scottish Enterprise comprising Scotland; Leicester; Belfast and a corridor between Cambridge and Portsmouth)
+Precision Medicine Innovation in Scotland (led by the University of Glasgow)
+Applied Digital Technologies (led by North East LEP)
+Sustainable Airports (led by Brunel University, looking at Heathrow)
+The Knowledge Quarter, London
+
+There is a map of all the Science and Innovation Audit areas in the Industrial strategy – see page 86/87 https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+
+Figure 5. 	Science and Innovation Audit Themes
+
+
+
+
+
+4.1	Science and Innovation Audit Review 
+
+
+4.2	SIA key findings
+
+There are two distinct approaches taken to the development of the Science and Innovation Audits (SIA).  In seven areas, they are broad pieces, identifying a range of sector strength and in some cases, driving technologies.  The remaining five take a narrower focus from the offset – drawing together evidence focused around a specific sector such as offshore renewables, medical technologies or high value manufacturing. 
+
+The Science and Innovation Audit areas vary in size, most combine areas with multiple LEPs and across devolved administration boundaries.  
+
+Overall, the Science and Innovation Reviews contain little about the aspirations of regions around immersive technology.  They provide a useful round up of where the immersive technology assets are, but there is little evidence of areas taking a strategic approach to supporting immersive technology research or development.
+
+The table below identifies where the key immersive technology expertise/assets are, according to the SIA.
+
+
+In terms of focus and amount of attention for immersive technology, the one stand-out audit is the single SIA covering South West England & South East Wales.  This identifies clusters of active businesses, key research/support assets and future plans for a VR Hub.  None of the other audits identify so clearly how the opportunities for immersive technology are being addressed regionally.  
+
+Barriers
+
+Apart from South West England & South East Wales, none of the other audits identify so clearly how the opportunities for immersive technology are being addressed regionally.  
+
+Opportunities
+There are clearly opportunities to link immersive technology in with the smart specialisations and other market opportunities.  
+There are gaps in some of the audits around immersive technology, and the Digital Catapult could help plug these gaps in thinking.  
+Health technology – Leeds and Liverpool city regions
+Data driven innovation – Edinburgh and South East Scotland
+Advanced manufacturing – Sheffield city region and Lancashire, Midlands
+Operations and maintenance – North of England and Scotland offshore renewable energy consortium
+
+5.	Research facilities
+A spreadsheet with more details of the work of these centres is provided in the technical annex.
+
+
+
+
+6.	Knowledge Transfer Partnerships
+A spreadsheet with full details of the 34 identified KTPs has been provided in the technical annex.
+
+7.	Full list of spreadsheets in technical annex:
+
+
+
+
+
+
+[TABLE 1]
+ |  | 
+ | Digital Catapult
+Engaging with New Realities
+
+Technical report
+March  2018 | 
+ |  | 
+[/TABLE]
+
+
+[TABLE 2]
+Credits
+[/TABLE]
+
+
+[TABLE 3]
+Written and prepared by
+BOP Consulting
+Photo credits
+Mike Sheerin/Sound City
+Data credits
+BOP Consulting, Digital Catapult, Research Councils UK, Innovate UK, Office of National Statistics (ONS), Synoptic Technologies 
+
+This work contains statistical data from ONS which is Crown Copyright. The use of the ONS statistical data in this work does not imply the endorsement of the ONS in relation to the interpretation or analysis of the statistical data. This work uses research datasets which may not exactly reproduce National Statistics aggregates
+[/TABLE]
+
+
+[TABLE 4]
+Dataset | Source(s) | How we used it | Recorded in
+Immersive suppliers | Digital Catapult, ImmerseUK | Combined and used to define a ‘training set’ of keywords for AI search | BEI-WP7_Synoptica-suppliers-final.xlsx
+Keywords for market verticals | Curator Technologies | To inform second AI web search | BEI-WP7_Keywords_v3.xlsx
+AI web search of suppliers | Synoptica | To identify XR active companies. | ibid
+Information on companies and directors | LinkedIn/DueDil | Additional company information; shared ownership and groups of companies | ibid
+Grants for R&D | Research Councils UK | Identify research projects with an immersive content or tech element; from that, build database of research centres and private sector partners (suppliers and end users), cross-checked against list of active companies | BEI-WP7_Immersive-investments-master-list.xlsx
+Investors | Crunchbase | Private investors in XR - including companies with funding identified by Synoptica, which were then manually cross- referenced to the investor(s) | ibid
+Funding Directory | Immerse UK | Other private investments. | ibid
+Science and Innovation Audits | BEIS | To identify any correlation or causation between public policy and immersive content activities at a spatial level | BEI-WP7_Science-and-Innovation-Audit-Review.pdf
+Knowledge Transfer Partnerships | Innovate UK | To add to our analysis of which HEIs were most active in supporting business engagement with immersive through formal knowledge exchange | BEI-WP7_KTP-immersive-tech-projects_20180219.xlsx
+[/TABLE]
+
+
+[TABLE 5]
+Cluster | Snapshot
+Belfast | Fragmented picture of games SMEs and immersive startups, ad hoc meetups and occasional knowledge exchange events with Queens, Belfast and Ulster Universities, the cluster is being encouraged to emerge. The city deal, investment from Digital Catapult, and a ‘skunkworks’ team from the games and films sector all support the development. Belfast headquartered Kainos software group commission content from the cluster, but there is little VC/Angel investment.
+Brighton | Brighton has a mature immersive content cluster which initially developed organically as e-learning and games companies built interest. The growing number of immersive tech companies in the cluster is supported by regional programme Wired Sussex, a Digital Catapult Lab, a 5G testbed, and the Universities of Brighton and Sussex developing immersive content research and knowledge exchange opportunities through public funding.
+
+The scene is supported by private sector tech incubators, professional services firms and small-scale VC/Angel investments. A few larger scale automotive and construction sports sector enterprises commission immersive content from within Brighton’s cluster, but with London close by, most larger enterprises look to work with companies in London. There are no public or private sector content commissioners or distributors locally, but there is evidence of public audiences engaging with #pubVR arcades installed and popping up in the town’s bars, and through Yes/No Productions’ home showings of their immersive 3D films.
+Bristol | Although  our research revealed a base of around 20 active immersive agencies in Bristol, and fewer than 40 in the South West region, the city and surrounding region boasts a strong digital sector a well-established innovation ecosystem for creative content, with facilities such as the Pervasive Media Lab and Engine Shed offering access to funding and partners for collaborative R&D. Bristol VR Lab has been set up by the CEO of immersive company OpposableVR to build on the networks developed through the annual VR conference it has hosted for three years in Bristol. The VR Lab is a physical space, hosting researchers and entrepreneur (‘residents’) from across market sectors and technology applications. The Lab’s financial backing comes largely from academic partners - University of Bristol, UWE and Bath Spa University.  Along with the academic side, the VR Lab has engaged with large potential end users of immersive content including Airbus, Aardman, BBC and Sony and local academic partners from.
+Glasgow | The Glasgow immersive content cluster has informally grown as its digital agencies have matured and scaled enough to be able to internally invest in immersive R&D. Regional support programmes, such as Innovation Vouchers, encourage SMEs to develop applied R&D projects with HEIs, which in turn have created larger successful InnovateUK and RCUK funded projects, and new spin-outs. The cluster self-organises through meet-ups, and through HEIs and SMEs being closely networked. The BBC has worked with the Glasgow cluster on reality/spatial and 360 degree film capture, and the film sector is seen as key to the cluster to overcome barriers to international markets.
+Manchester and North West | Greater Manchester and its hinterland has significant immersive assets, although the sector is emerging rather than mature.  It is home to a number of high profile content providers and indie studios; production and post-production facilities (MediaCityUK) and supportive and engaged HEIs.   Our mapping indicates that it is a regional cluster with arms in East Cheshire, Warrington, Liverpool and North Wales.   Perceptions are that the barrier to entry to immersive technologies are already low.  Significant opportunities in creative content (aligning to production and post-production) and health technology.
+North East and Tees Valley (NETV) | The official immersive content sector in NETV has emerged to serve locally located large heavy manufacturing industries (such Nissan in the automotive sector), and the public sector (housing and heritage sectors). Gateshead City Council, regional support programme Secret Sauce, and the Digital Catapult Immersive Lab all enable the cluster, as do a healthy meetups and digital incubator scene. SMEs and micro businesses have access to kit through the Lab, which reduces their trial and development costs. Local HEIs secure public funds for immersive content research and development projects. Better linking this activity into industry is a current aim of the Immersive Lab. Public arcades (VR Gaming Experience in Newcastle, Virtual Arcade in Gateshead), annual hosting of national high-profile conferences such as VR2GO, and the forthcoming Great Exhibition of the North engage end users and general audiences with immersive content and kit. The cluster has not yet looked to engage internationally as it is still emerging.
+Nottingham | Although the base of active immersive agencies is small, Nottingham has a distinct combination of assets - two universities (one Russel group and one post-1992), strong support from the city council, space for showcasing (National Video games Arcade) and it is centrally located with good connectivity.  Strong culture of collaboration between business and universities and between the two universities in the city.  Regular networking event, particularly around the medical application of immersive technology.  Strong international links led by universities.
+Sheffield | The Sheffield cluster has emerged over the past few years mainly due to the efforts of Sheffield Digital, a volunteer-run membership organisation which has supported immersive tech and content-focused meetups and projects. The cluster grew out of an early recognition amongst local games development companies of demand from local manufacturing, CAD and BIM sectors wanting to use immersive tech and content to improve their workflows. Identification of a strong games development sector in Sheffield has led BBC and C4 to commission immersive content from local suppliers. Both Universities have hatcheries; the UK’s largest PlayStation lab is hosted at Sheffield Hallam University, and the Advanced Manufacturing Research Centre (AMRC) at Sheffield University is also encouraging SMEs to taste and test immersive content and tech. DocFest’s Alternative Realities strand of programming generates popular opportunities for the public to engage with immersive content.
+South Wales | Rapidly growing digital sector in South Wales, particularly in Cardiff.  In terms of immersive, our mapping suggests only a handful of AR/VR companies in the region, although sector interest in immersive is visible - a nascent rather than mature market.  Strong support mechanisms as well as some academic interest within Cardiff University around immersive technology, contributes to this developing sector.  Support mechanisms may be taking the lead at the moment on immersive technology, rather than industry itself.  There are strong networks such as Cardiff University’s AR/VR research network, Creative Cardiff, BAFTA Cymru and BBC Wales are all trying to engage in the cluster.
+[/TABLE]
+
+
+[TABLE 6]
+Edinburgh and South East Scotland City Region – Enabling a World-leading Regional Digital Economy through Data Driven Innovation
+South West England and South East Wales
+Sheffield city region and Lancashire – Driving productivity growth through innovation in high value manufacturing
+Greater Manchester and Cheshire
+The Midlands Engine
+[/TABLE]
+
+
+[TABLE 7]
+Area | Key points | Immersive Technology Expertise/Aspirations | Immersive Technology Support
+Edinburgh and South East Scotland City Region – Enabling a World-leading Regional Digital Economy through Data Driven Innovation | Making the best use of DDI asset base   
+Scaling up existing supply of world-class DDI talent
+Enable access to high-value datasets | No mention of immersive technology in the SIA for the region.  
+Focus on Data Driven Innovation.  In terms of application focus, Financial Services and Healthcare are identified as initial areas of focus.  
+
+Extremely strong research base in this, led by key institutes such as the School of Informatics at University of Edinburgh.  Research expertise includes theory, systems, language and speech interactions, artificial intelligence, robotics and computer vision and machine learning and neural computation.  Opportunity to build on this Strengths across four universities including significant collaboration – including The Data Lab.
+
+Strong digital business cluster (including unicorns) – audit indicates the need to exploit Edinburgh’s Status as a Pioneering digital hub. | Support programmes for Data Driven Innovation rather than immersive tech.  Specific programmes:
+Enterprise Fellowship
+LAUNCH.ed
+Scottish Institute for Enterprise
+Converge Challenge
+Informatics Ventures
+Supported by investment from sectors that are non-traditionally digital e.g. RBS, Standard Life, NHS National Service Scotland, Scottish Financial Enterprise 
+
+Priorities in terms of future investment identified by the SIA
+*Adoption of DDI across private and public sector
+* Research – globally competitive talent pool using high quality diverse datasets and leveraging world class research
+* Datasets – develop datasets, universal sharing agreements
+* Entrepreneurialism – regional data science innovation cluster implementing clear strategy
+* Talent – open dataset and increased pool of talent & expertise.
+South West England and South East Wales Science and Innovation Audit
+
+Includes key organisations from SW England (Gloucestershire, Heart of the South West, Swindon and Wiltshire, West of England and Cornwall and the Isles of Scilly LEP) and South East Wales | Identifies and focuses on  key sector strengths – 
+- Aerospace and Advanced Engineering, 
+- New Energy Systems (marine renewables, hydrogen/fuel cells, nuclear), 
+- Next Generation Microelectronics, 
+- Digital Living Innovation (digital health, creative economy, smart cities and transport), and,
+- Resilience, Environment and Sustainability (environmental risk and data, sustainable technologies and development)
+
+SWW core science and innovation capabilities cut across the SIA themes, and closer collaboration and cross-theme working will be vital in order to unlock the true potential of the SWW. As a result, the SIA focuses its conclusions in two areas: Advanced Engineering and Digital Innovation 
+
+Academic and industry research base. | Under the digital living strand immersive technology is identified part of the ‘underpinning technologies’.  It identifies AR and VR as a major opportunity for the UK’s world leading creative industries [page 23].  Aerospace, high tech digital and nuclear clusters all have their own agenda for the use of this technology to improve operations and lower cost of maintenance.  It identifies the following companies as having a particular interest
+*Airbus
+*GKN
+*EDF Energy
+Intel in Swindon hosts the Intel Wearable IP Lab.  
+
+VR also being utilised by innovative non-games start ups in the area such Interactive Scientific, Opposable group and ZUBR are applying VR to scientific and educational applications with broader citizen focused use cases. 
+Ecosystem/cluster mainly focused around * Bristol and Bath High Tech cluster.  Bristol Games Hub organises annual world VR conference (750 delegates in 2016).  Key firms driving activity here are Opposable games, Auroch Digital, Big Robots Games, Evil Twin Artwork, Force of Habit, Esportify and Yogscaft.
+* Cardiff.  Key firms On Par, Atticus, 4Pi Production, Orchard.  
+*  Other clusters with computer games related activity are in Cheltenham and Devon and Cornwall (Falmouth University Games Academy).
+
+Key assets include
+*Immersive Vision Theatre @ i-DAT, University of Plymouth 
+*Pervasive Media Studio, Creative Arts and Games, Playable City, creative Cardiff.  
+* @Bristol Data Drome UK’s only 3D 4K immersive presentation space
+* Bristol BBC Imersive Technology Lab – with partners such as Aardman Animation – research collaboration spanning engineering and psychology with application to creative arts.  
+*Centre for Research in Applied Cognition, Knowledge Learning & Emotion (CRACKLE) University of Glos, - application of VR in training  environment for care and forensic settings. | General Recommends 
+* Investment in High Value Engineering Design and Systems Integration capabilities – initially focused on aerospace but also designed to support other sectors
+
+*Establishment of Digital Innovation Hubs (DIHs) across to bring together academics and industry working on 
+- Environmental risk and innovation (MET office partner)
+- Smart Cities
+- Digital Media
+- Autonomous Systems
+- Digital Manufacture 
+- Digital Health
+
+Specifically to VR – mentions that plans are developing for a Bristol based VR Hub.  This is a private sector led proposal for the creation of a lab which will deliver work space for VR/AR researchers and developers, access to the latest technical innovation and hardware with introductory services to investors.  It will have strong ties to @Bristol Science centre, which will provide test space for VR content and hardware to be trialled with the public. 
+
+
+NB useful list of key companies in the ‘digital living’ theme which includes AR/VR in page 43 http://gw4.ac.uk/wp-content/uploads/2017/11/SWW-SIA-AnnexJ-DigitalLivingThemeReport.pdf
+Sheffield city region and Lancashire – Driving productivity growth through innovation in high value manufacturing
+
+October 2016 | Vision for a Northern Advanced Manufacturing Innovation Corridor –bringing existing, emerging and new science and innovation assets and programmes into collaboration with industry to drive growth in advanced manufacturing and key linked sectors across the region to world-class levels. | One mention of immersive technology and VR in the main report.  It is identified as one of the developments needed to underpin Industry 4.0.  It is particularly related to prototyping and enabling users/customers to try out products in immersive VR environments.  There is no further discussion on assets within the region or how this enabling technologies can be encouraged/grown.  
+
+Overall the SIA focuses on the change in manufacturing – future of high value manufacturing will be digital, reconfigurable, customisable, and will generate value through stronger connectivity and responsiveness to the changing requirements of the customer. | No information about support for immersive technology.
+
+Lists current investment opportunities:
+* Proposed new branch of Advanced Manufacturing Research Centre in Lancaster 
+*AMRC lightweighting centre – focus on development of materials with exceptional weight to strength properties
+*Sheffield Branch of Sir Henry Royce Institute- connection to materials expertise in Greater Manchester
+*Small Modular Reactors. Government competition to develop these – implications for the region.
+* Skill development – through AMRC training centre and Fes.
+
+Future opportunities around 
+*Health care technology (Lancaster University)
+Greater Manchester and Cheshire: A Science and Innovation Audit | Identified core strengths in 
+* Health innovation
+*advanced materials 
+Fast growth opportunities in
+*energy
+*digital
+*industrial biotechnology
+
+Innovation relies on people – importance of education, training and research 
+
+Overall vision
+* Health innovation – concentration of health expertise and health devolution to GM
+* advanced materials – opportunity to develop Graphene city
+*GM as a full-scale test-bed and lead market to develop and demonstrate innovative technology | No specific mention of immersive technology or VR in the audit.  Digital technology is included (as a key enabling technology for other sectors) – mention Big Data and test bed for smart cities/IoT.  
+
+
+Strengths in digital identified as 
+*Recognised as UK’s second digital hub through MediaCityUK
+*Farr Institute
+*CityVerve
+*Jodrell Bank
+*Hartree Centre (Sci-Tech Daresbury)
+
+Assets in digital include
+* legacy of Alan Turing at UoM in 1950s
+* UoM’s School of computer science – Big data, artificial intelligence and novel computing architectures.  Strong in tech transfer. 
+* UoM’s Data Science Institute  - big data focus
+* Cyber Innovation Centre of Excellence 
+*Jodrell Bank (part of UoM)
+City Verve – IoT demonstrator £10m from Innovate UK
+*GMConnect – data sharing authority
+*Planned international screen school – MMU – valuable lynch pin for Creative Digital sector
+
+Virtual Engineering Centre – UK’s leading centre for virtual engineering technology integration with commercial applications.  Allows firms to develop and test virtual prototypes, conducting R&D more cheaply and quickly.  Accelerating route to market – industry partners include: JLR, Bentley Motors, Aston Martin and SME BAC Ltd, Schlumberger, Sellafield (energy), Hitachi Rail | Nothing mentioned about immersive tech specifically.
+The Midlands Engine | Aim is for long term productivity driven growth.  For this they have identified
+3 enabling competencies 
+*Advanced Manufacturing and engineering
+*Digital technology and data
+*Systems integration
+
+Four market driven priorities
+*Next generation transport
+*Medical technologies and pharmaceuticals
+*Future food processing 
+*Energy and low carbon
+
+Connected through the wider innovation ecosystem which is enabled by strong networks | Mention of VR/AR and immersive is confined to the “digital technology and data” enabling competencies.
+
+Core components around this area are identified to be 
+* satellites and earth observations
+* sensor technologies and instrumentation
+* digital application development, gamification and cyber security
+* high performance computing 
+
+Mention of utilising virtual simulation to lower the cost of prototyping, analyse human interactions and provide as real test environment as possible.  However, this does not brought through into the main themes of the report. 
+
+
+Digital/data assets
+* University of Leicester Space Research Centre
+* University of Nottingham Geospatial Institute
+* National Centre for Earth Observation (NCEO)
+* High Performance Computing Midlands (a joint venture between the Universities of Loughborough and
+Leicester)
+* MidPlus, a regional HPC facility established in 2012 with support from partner universities of Warwick,
+Birmingham, and Nottingham
+*Institute of Creative Technologies at De Montfort University
+* Horizon Research Institute at Nottingham University
+* Aston Institute for Photonics
+
+Key immersive assets
+* Warwick Manufacturing Group (part of the University of Warwick), has a 3D visualisation suite the provides real time interactive immersive visualisation and virtual reality capabilities allowing virtual inspections and physical user interaction to allow effective design decision-making.  
+*Transport System’s catapult Visualisation Lab accurately simulates a built environment.  For example, users can walk around a virtual Milton Keynes, populated by pedestrians and next gen autonomous   vehicles.  
+* High Value Manufacturing Catapult (HVMC) can create virtual manufacturing environments to inform production. | No mention of specific support for immersive tech.  
+
+Immediate market opportunities identified are 
+*  The proposed National Space Park, which would bring a step change to space research and space-enabled data service provision
+*  Proposals for Life Science Opportunity Zone status for the former AstraZeneca site at
+Charnwood
+*  Emerging proposals for building on the significant investments made in the region through the Energy Research Accelerator (ERA).
+The Bioeconomy in the North of England
+August 2017 | Focused on 
+* agri-science, agri-technology, and industrial biotechnology
+Led by University of York – incorporating wide geography and large number of LEPs. | Very little overlap or connection to immersive technology | 
+East of England Science and Innovation Audit
+ 21 September 2017 | Focus on ‘strengths’
+*Life Sciences
+*Agri-tech
+*Advanced Materials and Manufacturing
+*ICT | AR/VR identified as one of the “technology and market based trends and drivers which are shaping the ICT ecosystem in the East of England”.  Identifies how AR/VR products are reaching a tipping point in terms of price and capability in consumer markets as well as commercial and research applications.  
+
+Interaction between VR/AR and IoT (mixed reality) provides opportunities for applications such as workers’ relationship with increasingly automated workplaces.  
+
+Immersive Tech Assets
+University of Hertfordshire – robotics, games and visual effects.  
+*Games and Visual Effects Research Laboratory – multidisciplinary creative research group and knowledge transfer working in films & TV, dynamics of virtual work, games and VFX. Lab facilities including motion capture and Oculus Rift virtual reality platform. The Lab works with industry – linking with local SMEs to use the facilities.  
+
+Anglia Ruskin University 
+Cambridge School of Art, the Cultures of Digital Economy Research Institute and PIER (a Policing Institute for the Eastern Region) collaborating to address the challenge of how we use “technology to make us more human” – includes variety of tools/techniques including virtual reality and gamification. | General support.  The report identifies eight ‘interventions’ in two themes
+-Building hard and soft infrastructure and capacities for innovation across EoE
+*Building innovation capacity
+*East of England Innovation
+*Smart Enabling Technologies testbed
+-Cluster and/or sector-specific ventures to encourage convergence and or/translation
+*Centre for AgriFood automation
+*MedTech Hubs
+*Microbiome Hub
+*Precision medicine cancer ecosystem
+*Cell & Gene Therapy R&D Centre
+
+Overarching requirements to address ICT skills gaps
+Enabling Technologies in Scotland’s Central Belt.  
+
+Glasgow Economic Leadership. | Focus on area’s strengths on enabling technologies i.e. those that improve productivity and efficiency in existing industries and new technologies that could have significant commercial impact.  
+
+Key enabling technologies 
+*Quantum
+*Sensors, senor systems and photonics
+*Electronics
+*Robotics and autonomous systems
+*Industrial biotechnology 
+*Advanced/smart materials
+*Software and data analysis
+*communications, including satellite
+*Monitoring and control | Immersive technology, VR and AR to not feature in the main report, summary or appendix. | 
+Innovation South | Examining region’s capacity to commercially exploit its expertise in digital enabling technologies.  
+
+focus of this Science and Innovation Audit report is the region’s capacity to commercially exploit its excellence in a portfolio of five mutually supportive digital enabling technologies – five technologies are 
+* Digital Communications (particularly focused on opportunities around 5G)
+* Cyber Security
+* Big Data Analytics; 
+* Photonics; Quantum
+
+Four high tech sectors
+* Connected Digital, 
+*Marine and Maritime, *Bioscience
+*Advanced Engineering.
+
+Large region from Weymouth to East coast and up to London. | Immersive technology connected with the ‘connected digital’ sector.  No mention of how it connects with other high-tech sectors.  
+
+Assets
+*Bournemouth University’s Orthopaedic Research Institute (ORI) has a virtual reality surgical training simulator.  The ORI is also developing a training and diagnostic scenario game in VR with National Centre for Computer Animation and SciTech Games Technology Group.  
+* Centre for Child Protection at the University of Kent – training centre for child protection.  Child protection simulator enables participants to practice their skills in complex virtual reality scenarios.  Centre is licensing the technologies to Police Forces across the UK.  
+* Digital Catapult Centre in Brighton (DCCB)– focused on the technologies associated with Internet of Place.  DCCB hosts 12 resident start up businesses which include those working in AR/VR.  
+* Centre for Insight, Design and Innovation at the University of Winchester focuses on design thinking and has expertise in augmented reality. | No specific mention of support for immersive technology.
+
+Five ‘responses’ to the evidence presented
+*Knowledge to Market Accelerator
+*Linking Innovation Hotspots
+*Developing 5G Innovation Centre
+*Quantum supply chain initiative
+*Future skills in digital technologies
+Leeds City Region
+Opportunities and Growth: Medical Technologies in Leeds City Region | ambition is to deliver successful innovation through concentration, convergence and smart specialisation in a single geography, the Leeds City Region, aligned with national centres of excellence in science and technology and substantial growth in an already established UK-wide network of academic, clinical and industrial collaboration. | No mention of immersive technology in the strategy whatsoever, despite clear strengths across the medical technology sectors within the region. | Key areas to be developed
+*Clinical evaluations: a national ‘test bed’ clinical evaluation hub and network for Medtech devices
+* Enhanced high level skills a medtech skills academy
+*Joined up connected and continuous innovation support: an integrated medtech innovation hub with soft and hard infrastructure with connected, interactive and collaborative medtech nodes across the UK
+*Sustainable infrastructure: grow-on and scale-up space, support for businesses to start and grow, coupled with continued infrastructure investment in national centres of research excellence
+
+* Strategic leadership, providing vision, direction and common purpose: strategic leadership for medtech innovation.
+Liverpool City Region Plus | Three themes/areas of growth potential identified
+*Infection (diagnosis, therapeutics and prevention)
+*Material Chemistry
+*High performance computing and cognitive computing | Only one mention of immersive
+
+Assets
+*Virtual Engineering Centre at the University of Liverpool.  Established in 2010, VEC works to support R&D in firms and consortia in Aerospace, Automotive Engineering, Energy, Medical Nuclear and connected sectors.  Core expertise includes advanced modelling, simulation and immersive visualisation technology.  
+* VEC@Alder Hey is linking the VEC to a dedicated Innovation Hub at Liverpool’s Alder Hey Hospital, with the initiative identifying how emerging modelling and Big Data techniques can be applied to improving the ‘patient journey’ – to support hospital’s ambition to become the world’s first ‘living hospital’. | Detailed project proposals contained in the Annex to the document.  It includes one key relevant proposal
+
+‘Deep Change’ in the High Performing & Cognitive Computing strand.
+
+‘Deep Change’ will combine and integrate these digital assets and take LCR organisations, private and public, on a journey of digital transformation through three core components; Discovery, Accelerator, and Rising Stars
+
+Full details of this programme can be found on page 126 
+https://www.liverpoollep.org/wp-content/uploads/2017/09/LCR-SIA-full-report-and-appendices-FINAL-September-2017.pdf
+OffShore Renewable Energy consortium 
+
+North of England and Scotland | Offshore Renewable Energy (focused on offshore wind, and a review of wave and tidal energy | Assets
+
+Application of VR to operations and maintenance of assets.  
+* University of Hull - Hull Immersive Visualisation Environment, HIVE
+
+*Virtual Engineering Centre (VEC) University of Liverpool - comprises a multi-disciplinary team including specialists in engineering, computer science, visualisation and manufacturing technology, and is underpinned by the University of Liverpool and specialist Centres of Excellence. The VEC works across a range of sectors including Energy and has developed specific expertise in supporting renewable energy technologies and developing innovative simulation and modelling to support new technologies within the oil and gas industry. | Identifies opportunity for  
+the development of digital technologies for offshore wind – particularly in operations and maintenance of deployed assets and in the design phase of elements such as foundations. This could be driven forward through the Industrial Strategy Challenge Fund.
+[/TABLE]
+
+
+[TABLE 8]
+Area | Expertise
+South West & South East Wales | Creative content
+Aerospace, energy, education/science communication, wearable technology.
+Greater Manchester | Virtual Engineering – prototyping development and testing 
+Virtual connected workspace
+Midlands | Transport Visualisation, Manufacturing Environments
+East of England | Creative applications/ content – visual effects and gaming
+Innovation South | Virtual training environments (orthopaedic, child protection)
+Creative content and Internet of place
+Liverpool City Region | Virtual Engineering – range of sectors, starting to link to hospital/health setting
+[/TABLE]
+
+
+[TABLE 9]
+Name | Description
+BEI-WP7_Synoptica-suppliers-final.xlsx | Final list of suppliers showing confidence ratings and keywords
+BEI-WP7_Keywords_v3.xlsx | List of keywords for market verticals used to inform second AI web search
+BEI-WP7_Immersive-investments-master-list.xlsx | Compilation of all Research Council UK, InnovateUK and commercial investments identified through desk research
+BEI-WP7_Immersive-Open-Lab-Facilities.xlsx | List of University and other immersive lab facilities (other than Digital Catapult Immersive Labs)
+BEI-WP7_KTP-immersive-tech-projects_20180219.xlsx | Details of Knowledge Transfer Partnerships in immersive tech and content
+[/TABLE]

@@ -1,0 +1,2450 @@
+
+[PAGE 1]
+ Liverpool City Region 
+Growth Platform  
+Mapping the 
+immersive tech and 
+content sector in 
+Liverpool City 
+Region 
+Final Report  
+May 2020  
+ 
+
+
+[PAGE 2]
+ 
+i 
+ Prepared by : Iain Bennett and Marta Moretto , BOP Consulting 
+ 
+Additional research by : Simon Sprince and Andy Goodwin, Curator Technologies; Jane 
+Leah 
+ 
+Cover photo : Martin Widenka, from Unsplash 
+
+[PAGE 3]
+ 
+i 
+ Contents 
+Executive Summary .............................................................................. 2  
+1. Introduction ....................................................................................... 7  
+2. Literature review ............................................................................... 9  
+3. Scale and significance of the immersive ecosystem in 
+Liverpool City Region ......................................................................... 13  
+3.1 Geographical focus of immersive sector ..................................................... 14  
+3.2 Assets .......................................................................................................... 15  
+3.3 Highly skilled immersive workforce .............................................................. 16  
+3.4 Immersive supply chains in LCR ................................................................. 17  
+4. Immersive sector survey ................................................................ 19  
+4.1 Survey findings: employment ...................................................................... 19  
+4.2 Survey findings: turnover ............................................................................. 22  
+4.3 Content genres and market verticals ........................................................... 23  
+4.4 Sentiment ..................................................................................................... 23  
+5. Benchmarking ................................................................................. 24  
+5.1 Comparator city regions............................................................................... 24  
+5.2 Comparator analysis .................................................................................... 26  
+5.3 Meetups ....................................................................................................... 30  
+6. Interviews and Case Studies.......................................................... 32  
+6.1 Business support ......................................................................................... 32  
+6.2 Investor development .................................................................................. 33  
+6.3 Attracting and retaining talent ...................................................................... 33  
+6.4 Signalling LCR’s ambitions for XR ............................................................... 33  
+6.5 LCR immersive case studies ....................................................................... 34  
+7. Review and analysis of the LCR immersive offer ......................... 37  7.1 The LCR immersive ecosystem ................................................................... 38  
+7.2 Gap analysis ................................................................................................. 38  
+7.3 Strengths ...................................................................................................... 39  
+7.4 Weaknesses ................................................................................................. 41  
+7.5 Opportunities ................................................................................................ 43  
+7.6 Threats ......................................................................................................... 44  
+8. Covid-19 emergency....................................................................... 45  
+9. Conclusions, priorities and recommendations ............................ 46  
+9.1 Categories / conclusions .............................................................................. 46  
+9.2 Priorities and recommendations ................................................................... 46  
+10. Initiatives ....................................................................................... 47  
+10.1 People ........................................................................................................ 47  
+10.2 Places ......................................................................................................... 47  
+10.3 Policies ....................................................................................................... 48  
+10.4 Promotion ................................................................................................... 48  
+11. Implementation strategy .............................................................. 49  
+11.1 Covid-19 emergency response .................................................................. 50  
+11.2 Advocacy and governance ......................................................................... 50  
+11.3 Sector development ................................................................................... 50  
+11.4 Market development ................................................................................... 50  
+11.5 Ecosystem development ............................................................................ 50  
+Appendix 1 - Methodology ................................................................. 51  
+Three-stage approach ........................................................................................ 51  
+References .......................................................................................... 53  
+
+[PAGE 4]
+ 
+1 
+ List of Figures  
+Figure 1  Combined current and projected size of the AR and VR industries ($ 
+USD Bn.) ............................................................................................................ 10  
+Figure 2  Main industries for AR/VR, by potential 2025 revenue ...................... 11  
+Figure 3  Liverpool City Region immersive companies by local authority ......... 14  
+Figure 4  Distribution of immersive companies in Liverpool City Centre ........... 14  
+Figure 5  Clustering of immersive assets in Liverpool City Centre .................... 15  
+Figure 6  LCR Highly Skilled Immersive workforce - levels of experience ........ 16  
+Figure 7  Industry groupings of immersive companies in LCR .......................... 17  
+Figure 8  Immersive supply chain relationships in Liverpool City Region ......... 18  
+Figure 9  Company location – survey responses .............................................. 19  
+Figure 10  Survey findings: number of permanent employees per company .... 19  
+Figure 11  Survey findings: number of freelance or contract employees .......... 20  
+Figure 12  Changes in LCR immersive employment ......................................... 20  
+Figure 13  'Hard to fill' vacancies ....................................................................... 21  
+Figure 14  Shortages of more experienced workers and managers ................. 21  
+Figure 15  Turnover of LCR immersive companies ........................................... 22  Figure 16  Turnover growth among LCR immersive companies........................ 22  
+Figure 17  Market verticals for immersive tech and content .............................. 23  
+Figure 18  Survey findings: sentiment toward LCR immersive ecosystem ........ 23  
+Figure 19  LCR immersive workforce – comparison with other cities ................ 26  
+Figure 20  Proportion of highly skilled workers in LCR immersive workforce – 
+comparison with other cities ............................................................................... 27  
+Figure 21  LCR immersive job functions as a proportion of immersive workforce 
+– comparison with other cities ............................................................................ 28  
+Figure 22  Industry focus of LCR immersive workforce – comparison with other 
+cities ................................................................................................................... 29  
+Figure 23  Comparison of city immersive ecosystems ....................................... 30  
+Figure 24  Evolution of city immersive ecosystems ........................................... 31  
+Figure 25  Survey findings: strengths of the LCR immersive ............................. 39  
+Figure 26  Survey findings: weaknesses of the LCR immersive ecosystem ..... 42  
+Figure 27  Survey findings: areas in need of support ........................................ 42  
+Figure 28  Five-step plan to recover and re-establish the LCR immersive 
+ecosystem .......................................................................................................... 49  
+
+[PAGE 5]
+ 
+2 
+ Executive Summary  
+Background 
+Liverpool City Region Growth Platform (‘the Growth Platform’) commissioned 
+this study from BOP Consulting, working with City Curator as data partners, in 
+November 2019. The purpose of the research was to:  
+ Reduce reliance on national reports to provide the narrative for 
+investment marketing  
+ Improve on the existing evidence base of companies and employment 
+in Liverpool City Region (LCR) 
+ Identify market niches or ‘smart’ specialisms in immersive tech, content, 
+and markets in LCR  
+During the course of the study, the covid-19 emergency imposed an urgent and 
+essential additional stage of the work: to identify a plan for the recovery and re-
+establishment of the immersive sector and ecosystem. This is set out as the first 
+stage of the implementation strategy set out below. 
+Market opportunity 
+Comparing industry and investment reports into the potential growth of 
+immersive technologies and content suggests a global market size of 
+(conservatively) $100bn by 2022. 
+Some trends emerge from our analysis of these secondary sources: 
+ Augmented Reality (AR) will dominate; as well as being more portable 
+and having a lighter technology overhead, which allows it to be 
+integrated within more consumer devices, the rollout of 5G will also 
+drive the greater availability of mobile AR applications and services 
+ Games is already, and will remain, by far the largest immersive creative 
+content sub-sector, representing one-third of market revenues  China will lead the market; but lacks experience in producing 
+international standard content companies. For example, using awards 
+for new content to benchmark international markets, companies based 
+in the US won 54% of awards. 8% of productions awarded since 2017 
+were (co)produced by companies based in the UK. 
+ Players in Liverpool City Region have big ambitions: 
+“We want to be the ARM of Spatial Audio” 
+The research also identifies barriers to growth 
+ Demand: although some reports suggest that growth will be faster in 
+other industrial sectors (including health, manufacturing and education) 
+as well as in other entertainment applications, these are at a much 
+earlier stage of maturity in their use of immersive tech than the games 
+market, and therefore projections are less certain 
+ Supply: The supply chain for immersive content remains fragmented on 
+a number of levels: absence of consolidation in consumer hardware and 
+exhibition leading to segmented distribution; skills shortages and 
+competition with other industry sectors in key areas of content and 
+technology; lack of integration with existing use-cases beyond games 
+ Regulatory environment: Greater awareness of personal data 
+protection, and consumer concerns around safety of 5G, may inhibit 
+take up of hardware and content 
+ Technology: Market is lacking a “hero device” AR headset 
+The LCR immersive ecosystem 
+Companies 
+LCR has an emerging immersive ecosystem with some characteristics that 
+suggest it can develop as a sustainable, high productivity sector. There are 114 
+LCR-based companies, of whom some 70% are based in Liverpool, plus a 
+
+
+[PAGE 6]
+ 
+3 
+ further 12 businesses from outside the region with strong connections to the 
+ecosystem.  
+The ecosystem contains companies of varying sizes and degrees of 
+specialisation. Unlike some recent reports1, this study has not limited itself to 
+‘specialist’ immersive companies (ie, those devoting more than 50% of time, 
+staffing or turnover to production of immersive content or tech.) Rather, it 
+records all companies making investments in immersive. These companies are 
+drawn from a range of sectors including digital and creative industries, but 
+including other manufacturing, and business and professional service 
+organisations.  
+ Liverpool is big enough to have opportunity and small 
+enough to have community. We are a good sized city for 
+getting things done. 
+LCR’s immersive ecosystem includes companies of all sizes, from individual 
+entrepreneurs, consultants and micro-businesses to small and medium-sized 
+agencies and production businesses to large companies which are investing in 
+immersive applications and technology. This last category includes household 
+names such as Alstom, Cammell Laird and Jaguar Land Rover, as well as 
+inward investors such as Royal HaskoningDHV. 
+Although the majority of LCR’s specialist immersive agencies and tech 
+companies are below reporting thresholds at which they have to declare fully 
+audited accounts and disclose details of turnover, evidence from LinkedIn and 
+the survey carried out as part of this study suggests that companies are larger, 
+both in employment and turnover, than the average for digital and creative 
+industries; more profitable; and growing strongly. LCR is home to some of the 
+pioneers and leading lights of the UK’s immersive services s sector, including 
+companies such as Draw & Code, Uniform, vTime and Laduma. The immersive 
+ 
+1 Nesta (2018). The immersive economy in the UK. https://www.nesta.org.uk/report/immersive-economy-uk/   supply chain also takes in larger businesses, such as production services 
+experts Adlib, and Lime Pictures.  
+Irrespective of the sector from which the companies are drawn, LCR’s 
+immersive ecosystem operates across four main supply chains: 
+ Experience: creation of content (original IP or commissioned work) for 
+live events, digitally distributed entertainment, exhibitions, or 
+installations 
+ Applications: content and platforms in AR/VR for social media, 
+marketing, education, health, and other industrial applications, whether 
+in the form of original IP or ‘work for hire’ 
+ Originals: creating original IP that combines an immersive application 
+and a physical product 
+ Tech: R&D-focused businesses looking to develop IP in technology and 
+tools for the creation, authoring, editing, processing and distribution of 
+immersive content, products, and hardware  
+Assets 
+As well as commercial businesses, LCR’s immersive ecosystem contains a 
+significant number of other organisations who make a significant contribution 
+through either commissioning of content, collaborative R&D, education and 
+skills development or provision of facilities and venues. These are drawn from a 
+range of sectors including culture, education and skills, health, digital 
+infrastructure, research and business support, and retail. 
+Cultural organisations such as National Museums Liverpool, whose 2019 
+Terracotta Warriors  exhibition made extensive use of AR content commissioned 
+from Draw & Code, and delivered by Adlib, play an important role in 
+commissioning new content and stimulating the development of new 
+technologies and applications for display and curation of museums and 
+galleries. Culture Liverpool, through its stewardship of St George’s Hall, acts as 
+
+
+[PAGE 7]
+ 
+4 
+ a curator for new immersive content. Each of the relatively newly-arrived 
+directors of NML, FACT, Liverpool Biennial and Tate Liverpool is aware of the 
+medium’s potential and committed to the development of immersive art and 
+technology as a key differentiator in the city region’s future cultural and visitor 
+economy offer. 
+Higher Education makes a significant contribution, including University of 
+Liverpool’s Centre for Architecture and the Visual Arts (CAVA), Liverpool John 
+Moores University’s Immersive Arts MA (the first of its kind in the UK, taught 
+across the Screen School and the Liverpool School of Art & Design) and LIPA, 
+which trains acting students in skills needed to work in ‘green screen’ and 
+volumetric capture studios used for production of immersive content. Facilities 
+including the Virtual Engineering Centre (VEC) at Sci-Tech Daresbury, LJMU’s 
+LiveLab, the MTC and Digital Innovation Factory provide vital facilities and 
+resource for teaching, experimentation, and collaborative R&D.  
+Although expressed in different ways, there is a shared appetite for a clearly 
+identified ‘hub’ or demonstrator facility, of the kind enjoyed by comparable cities 
+such as Bristol: 
+ I think we should have an R&D demonstrator for LCR 
+that could be toured. If we could smartly co-design a 
+brief which satisfied businesses’ R&D needs - we could 
+create a compelling offer that showed off the talent 
+across LCR. We're Making the Tools of the Future! 
+Investment and business support 
+Surveys and interviews consistently identify the shortage of ‘strategic investors’ 
+– individuals and institutions with experience and specialist knowledge of the 
+sector, willing to provide ‘patient capital’ – as a constraint on growth :  We need patient investors who can see the potential - 
+this is a core technology - with various vertical market 
+opportunities 
+There is also frustration at the lack of specialist business support and 
+proliferation of unconnected schemes through which businesses can access 
+finance for research and growth. For small research-led organisations, 
+‘business support is a necessary evil’, taking time and resource away from core 
+development activity and forcing them back on their own connections and 
+‘sweat equity’: 
+ In the absence of financial backing - time and 
+determination are a founder’s greatest assets 
+Challenges 
+Survey findings make it clear that there are challenges around competition for 
+experienced immersive talent, both  between XR companies in LCR and with 
+end-user businesses in other sectors (who may be able to pay better wages and 
+offer better conditions of employment than start-ups and SMEs with limited 
+capital resources.)  
+Whilst Liverpool is growing fast, Manchester is already operating at scale, 
+presenting an additional source of competition for the same talent pool. Slightly 
+further away, but still within a 90-minute commute, Yorkshire is putting 
+significant investment into development of its XR and screen industries. 
+In this context, the lack of a ‘tech voice’ for the city region – in the way that Phil 
+Redmond has been seen as a figurehead for film and television, for example – 
+is seen as a significant gap. LCR has initiated a successful, sector-led music 
+board; Salford has created the post of ‘Chief Digital Officer’ to draw attention to 
+its ambition for MediaCityUK. LCR should explore whether one or both routes 
+could help secure additional investment. 
+
+
+[PAGE 8]
+ 
+5 
+ Benchmarking 
+Although not as large as the cluster in Greater Manchester, less mature than 
+the community of content and R&D led businesses in Bristol and Bath and 
+lacking the levels of public, private and inward investment that have stoked 
+development in Newcastle Gateshead, Liverpool City Region is comparable to 
+all these benchmark cities and has similar size of workforce and percentage 
+penetrations when compared against the wider creative community. It has 
+strengths in software development, built upon the legacy of its games sector, 
+and a reputation as a hotbed of cultural and creative talent; although the 
+opportunities to commercialise that capability are limited by the absence of a 
+significant national media commissioning body in the city region. 
+The immersive sector recognises the value of Liverpool’s cultural legacy and 
+global reputation in framing opportunities for growth: 
+ Entertainment is a big part of the Liverpool City Region 
+story (football, music, film) and it would be great if the 
+creative tech sector were recognised as a worthy area 
+to get behind. It not only supports the entertainment 
+sector; it also taps into all aspects of our lives - and 
+offers a wide range of inspiring job opportunities. 
+Conclusions, priorities, and recommendations 
+Our interim findings suggest that Liverpool City Region has a fast-growing 
+immersive sector. It has a strong meetup ecosystem, and strengths in IT and 
+software, particularly in comparison to UK competitors such as Bristol, 
+Manchester, and Newcastle, although the perception that it is strongest in 
+creative talent is possibly overstated. Lack of strategic investors is a weakness; 
+and there are clear opportunities for greater coordination of public sector 
+support for skills, business, and investor development - and to align its 
+objectives to Local Industrial Strategy and Cultural Strategies.  LCR’s immersive sector has grown ‘organically’ with limited sector support, few 
+strategic investors, and no big conference to draw attention to itself– but other 
+city regions are more coordinated in their response: 
+‒ Bristol has a cohesive and well-established immersive sector, built on a 
+legacy of collaborative R&D experimentation at Pervasive Media Lab 
+and access to BBC commissioners, with the added potential of new 
+digital commissioning from Channel 4 
+‒ Manchester has invested in diverse production assets (MediaCityUK, 
+Sharp/Space Projects) and has a coordinated angel investor forum (GC 
+Angels) focused on immersive  
+‒ Newcastle Gateshead has hosted the Thinking Digital conference for a 
+decade, and secured AHRC funding for the ‘North East FUSE’ business 
+support project to link the region’s digital and creative sector to 
+opportunities for collaborative R&D inputs from its universities. Including 
+a  new University IT/Cloud centre  
+‒ Leeds City Region has forged strong strategic links between screen and 
+XR sectors, catalysed by AHRC investment in XR-focused collaborative 
+R&D facilities in Leeds and York 
+All stages of engagement with the immersive community identified a shared 
+vision around collective and collaborative development, with a strong sense of 
+‘place’ and Liverpool’s unique combination of local identity and global reputation 
+at its core. LCR’s immersive tech ecosystem has potential to be a positive 
+narrative for innovation in the city region and even further afield: 
+ If all components of the immersive ecosystem across 
+LCR were packaged as a single front end, it could offer 
+LCR a soft power - cultural and political capital. 
+
+
+[PAGE 9]
+ 
+6 
+ Initiatives 
+The action plan identifies over 25 initiatives through which the recommendations 
+may be achieved. This is not an exhaustive list of things which could be done to 
+underpin and grow the LCR immersive sector, but a framework for further development. The recommendations made around advocacy and governance 
+follow those used to establish the LCR Music Board, and reflect the commitment 
+of the private sector to take a leading role in development of strategy and action 
+planning.
+Implementation plan and covid-19 response 
+The final section of the report considers the impact of the covid-19 emergency 
+on LCR’s immersive sector. How has it affected businesses and individuals in 
+the short term? Are businesses able to access government and Growth 
+Platform support to tide them over the immediate period of disruption? What other urgent forms of financial (and other) support may be needed – and who 
+can deliver it? What further disruption might this wreak on existing business 
+plans in the next 6-18 months? And, importantly, has the need to operate 
+differently helped businesses to re-evaluate their business models, technology 
+road maps and client relationships in a way that could enhance their long-term 
+prospects, and that of the cluster? 
+ 
+Stages of an implementation plan for growth of the immersive sector in Liverpool City region 
+ 
+ 
+ 
+Source: BOP Consulting (April 2020)
+
+
+[PAGE 10]
+ 
+7 
+ 1. Introduction 
+1.1 Background to the brief 
+Liverpool City Region Growth Platform (‘the Growth Platform’) commissioned 
+this study from BOP Consulting, working with City Curator as data partners, in 
+November 2019. The purpose of the research was to:  
+ Reduce reliance on national reports to provide the narrative for 
+investment marketing  
+ Improve on the existing evidence base of companies and employment 
+in Liverpool City Region (LCR) 
+ Identify market niches or ‘smart’ specialisms in immersive tech, content, 
+and markets in LCR  
+The impact was envisaged to extend to supporting future (capital) bids for 
+Strategic Investment Fund (SIF) monies from the Liverpool City Region 
+Combined Authority (LCRCA) and clarifying the need to make provision of 
+specialist information, advice and guidance through the Growth Platform.  
+The Growth Platform recognised that business cases for new funding would be 
+strengthened were the research to identify both current sources of and gaps in 
+private equity and venture capital funding available to LCR businesses; and to 
+highlight those companies which are ‘growth ready’ and seeking investment.  
+The consultants were asked to establish whether the findings suggested options 
+for scalable ‘High Performance Opportunities’ around Liverpool’s immersive 
+sector, and to make recommendations on that basis. 
+During the course of the study, the covid-19 emergency imposed an urgent and 
+essential additional stage of the work: to identify a plan for the recovery and re-
+establishment of the immersive sector and ecosystem. This is set out as the first 
+stage of the implementation strategy set out in Chapter 11, below. 
+ 1.2 Definitions of immersive technology 
+Immersive experiences consist of both a perceptual  (input to the user) and 
+interactive  (output from the user) element in order to stimulate one or more 
+human senses (sight, sound, touch, taste and smell) to create a ‘realistic’ 
+environment for the user that blurs the line between the physical world and the 
+simulated or digital world.  
+Most immersive content focuses on visual, auditory, or tactile sensations – 
+although there are experiments (including in Liverpool) in olfactory solutions.  
+1.2.1 Augmented, virtual and mixed reality 
+The most commonly used definitions of immersive experiences are: 
+ Augmented reality (AR) , which overlays computer generated virtual 
+objects (sights, sounds, smells) on the real-world environment 
+ Virtual reality (VR) , which immerses users in a fully artificial, digitally 
+created environment 
+ Mixed reality (MR) , in which both real and computer-generated objects 
+are ‘blended’ to create a realistic environment, through which the user 
+can navigate and interact with both real and virtual objects 
+ Extended reality (XR) , which is an umbrella term used to describe 
+immersive technologies that can merge physical and ‘virtual’ worlds 
+1.3 Components of immersive technologies 
+The development, creation, recording, distribution, and experience of immersive 
+reality brings together three different types of technology.  
+1.3.1 Interaction 
+These technologies provide the user with the ability to interact and 
+communicate with the virtual environment. They encompass a range of human-
+computer interaction techniques: 
+
+[PAGE 11]
+ 
+8 
+  Computer vision 
+ Gesture recognition 
+ Speech processing 
+ Artificial Intelligence (AI) that uses machine learning to measure 
+perception in order to replicate and reflect human behaviour – eg, 
+Affectiva2, which combines deep learning architectures, computer vision 
+and speech processing 
+1.3.2 Hardware 
+There are many types of hardware that provide a physical interface for the user 
+to experience, navigate and control AR and VR experiences, including 
+ Head-mounted displays (HMDs) like the Oculus Rift, HTC Vive and 
+PlayStation VR, as well as mobile-based headsets like Samsung Gear 
+ VR controllers – hand-held haptic devices which incorporate tactile and 
+movement sensors 
+ 360° projection spaces – eg, Igloo domes3, Bristol’s Data Dome (a 
+stereo 3D hemispherical screen with 4K resolution)4 
+1.3.3 Software 
+Developers use a range of software and middleware to manage the creation, 
+authoring, editing, rendering and online distribution of immersive content. These 
+include Unity VR and Unreal Engine: the most commonly used ‘middleware’ 
+technologies, these ‘real time engines’, evolved from games engines, help 
+developers manage workflow by combining authoring tools (such as animation, 
+lighting, rendering and materials), an editor and a high-optimisation rendering 
+pipeline, 
+ 
+2 https://www.affectiva.com/ 
+3 https://www.igloovision.com/  1.4 Applications of immersive technology 
+Its applications and impact are not limited to the cultural and creative industries. 
+UK industry body ImmerseUK represents companies from the following sectors: 
+ 
+ Advertising and marketing | aerospace | digital agencies 
+| architecture | automotive | defence and security | 
+design | education & research | engineering | 
+entertainment & media | environmental | financial 
+services | games | hardware & devices | health & 
+medical | heritage & museums | investors | legal | 
+manufacturing | marine | oil & gas | post production | 
+retail | software development | telecommunications | 
+training | tourism | transport 
+ 
+Rather than treating immersive as a sub-sector of the creative industries, this 
+study therefore looked to uncover immersive activities within companies, 
+organisations and investors across the whole value chain described above, 
+looking for evidence of, ‘content, applications, services and solution providers 
+developing immersive technology solutions or companies creating content or 
+experiences using immersive tech.’5 
+ 
+ 
+ 
+4 https://www.bristolisopen.com/platform/#product2   
+5 ImmerseUK website,  https://www.immerseuk.org/about/about-us/ , accessed 31 March 2020 
+
+
+[PAGE 12]
+ 
+9 
+ 2. Literature review 
+A desk-based review  of academic and ‘grey’ literature was used to: 
+‒ identify and compare estimates of market scale, growth and key 
+market verticals for immersive content and technology 
+‒ inform further in-depth analysis of trends and barriers to growth, 
+including: 
+o expected changes in market size and share of augmented 
+reality and virtual reality  
+o developments in hardware and physical distribution 
+o dependence on other investment (eg, telecommunications 
+networks, cloud server infrastructure, middleware) 
+‒ map and classify important industry events nationally and globally  
+2.1 Key Findings 
+This section outlines key findings from the Wider Market Analysis that is 
+included below in Appendix D. The reports and data covered in this analysis are 
+mainly produced by commercial market research and forecasting companies. 
+As they are effectively in competition with each other, it is perhaps no surprising 
+to find that no attempt has been made across the various reports to align or 
+cross check with each other. This means that the reports provide varying 
+scenarios of growth, development, and market size. In reviewing this plurality, 
+we have therefore concentrated on the main trends and headlines that seem 
+broadly consistent across the studies. 
+2.2 Market size and growth 
+Estimating the market size and impacts of new technologies such Augmented 
+Reality (AR) and Virtual Reality (VR) is complex because of the rapid 
+development of the market and associated technologies, the various 
+methodologies used to estimate market size and growth, and the reluctance of  
+Key chapter insights 
+A conservative estimate of size of immersive technologies and content 
+suggests a global market of c. $100bn by 2022 
+Trends 
+ AR will dominate  
+ Games is already, and will remain, by far the largest immersive 
+creative content sub-sector  
+ China will lead the market but lacks experience in producing 
+international standard content c ompanies 
+Barriers to growth 
+ Demand : Uncertain beyond games 
+ Supply: Segmented distribution; skills shortage; lack of integration 
+with existing use-cases 
+ Regulatory:  Greater awareness of personal data protection 
+ Technology : Market lacking a “hero device” AR headset  
+Awards 
+ Using awards to benchmark UK’s reputation in international 
+markets, almost 8% of productions awarded since 2017 were 
+(co)produced by companies based in the UK (companies based in 
+the US won 54%) 
+ 
+mayor players to share sales insights. For these reasons, estimates of the 
+current and projected size of AR and VR industries vary widely.  
+As reported by The Immersive Economy in the UK report 2019 , sources 
+forecast that, ‘Worldwide spending on AR and VR will reach US$160 billion 
+
+[PAGE 13]
+ 
+10 
+ (about £130 billion) in 2023, up significantly from the US$16.8 billion (about 
+£13.7 billion) forecast for 2019. The five-year compound annual growth rate 
+(CAGR) for AR/VR spend is estimated at 78.3%1. PwC’s Future Forecast report 
+also reveals that £1.39 trillion will be added to the global economy through VR 
+and AR, and that £62.5 billion will be added to the UK economy by 2030. Over 
+400,000 UK jobs are predicted to be impacted by VR and AR by this time.’ 
+ 
+Figure 1  Combined current and projected size of the AR and VR 
+industries ($ USD Bn.) 
+Source 2018 2019 2020 2021 2022 2023 2024 2025 
+PR Newswire      
+94.4   
+Market Watch     
+117    
+Tech Crunch    
+108     
+Statista 12    
+193    
+Research and Markets    
+55     
+Consultancy.UK     
+170    
+Goldman Sachs        
+80 
+Average 12    
+160    
+Source: Various / Technopolis and BOP Consulting (2019) 
+ 
+Estimates of the global market value of Creative Immersive Content are not 
+available. A conservative estimate for the value of this market, based on the 
+range of forecasts reviewed, suggests a global market somewhere in excess of 
+$100bn by 2022.  2.2.1 Haptics, spatial audio and VUI 
+Immersive industries not only include AR and VR, but also haptics, spatial 
+audio, and voice user interfaces (VUI). The haptic technology market is 
+expected to be valued at USD 19.55 Billion by 2022, at a CAGR of 16.20% 
+between 2016 and 2022. The Global 3D Audio Market size was USD 3.80 billion 
+in 2018 and is projected to reach USD 12.97 billion by 2026, reflecting a CAGR 
+of 16.9% for the forecast period. Finally, the global speech and voice 
+recognition and interfaces market size is estimated to reach USD 31.82 billion 
+by 2025, exhibiting a CAGR of 17.2% during the forecast period. 
+2.3 Benefits and applications of immersive tech 
+Current benefits and business applications of immersive technologies are varied 
+and include:  
+‒ new markets and applications for gaming and entertainment 
+‒ applications in development and training 
+‒ accelerated product and service development for businesses 
+Further opportunities will unfold with the development of hardware, creation of 
+more sophisticated and engaging software, and the rolling out of improved 
+connectivity infrastructure (5G).  
+Projections anticipate that the games industry will be the one with the largest 
+potential (34% of the total revenues projected for 2025), followed by Healthcare 
+(15%) and Engineering (15%). 
+2.4 Trends 
+2.4.1 Trends: AR set to dominate  
+Sources reflect a consensus that AR as a technology, development platform 
+and content type will dominate the industry. Projected AR revenues for 2022 
+and 2023 are between double and nine times those projected for VR. This is 
+due to the following factors:  
+
+[PAGE 14]
+ 
+11 
+ ‒ AR is more portable and has a lighter technology overhead, and it is 
+already integrating into all the main social media platforms after the 
+success of AR features in Snapchat 
+‒ The rollout of 5G will also drive the greater availability of portable AR 
+applications and services 
+‒ VR remains expensive and while standalone VR headsets continue to 
+be developed, most headsets remain tethered to supporting hardware 
+‒ Distribution platforms for AR have already converged to the iOS app 
+store and Android’s Google Play Store, whereas VR distribution 
+remains segmented and split across different platforms 
+‒ Investment trends are shifting away from VR, with money going to 
+computer vision and other AR-related technologies  
+2.4.2 Trends: Games will be by far the largest 
+immersive creative content sector 
+The research suggests we may be at an inflection point for software sales, with 
+a spike representing an almost tenfold increase in software sales between 2019 
+and 2020. The projected increase is attributed to the introduction of new 
+hardware—Oculus Quest and Oculus Rift S—as well as the launch of several 
+exclusive hit games.  
+‒ Software will overtake hardware in share of industry revenues over the 
+next three years.  
+‒ Games is already the largest immersive technologies sector: 90% of VR 
+owners use headsets to play games and Pokémon Go’s recent 
+mainstream breakthrough generated revenues for a mobile AR game of 
+over $600m.  
+‒ Games will remain the largest immersive technology sector followed by 
+health care, engineering, and  live events and entertainment. Games’ 
+pre-eminence will not solely be based on VR-based ‘AAA games’ 
+played via consoles and PCs (as is the case in 2018), but also through the rapid expansion of the AR ‘casual games’ market as AR-equipped 
+mobile devices and 5G are rolled out. 
+Figure 2  Main industries for AR/VR, by potential 2025 revenue 
+ 
+Source: Wallace (2018) 
+ 
+2.4.3 Trends: China will lead the market but lacks 
+experience in producing international standard 
+content 
+‒ China leads global investment in immersive technologies. The Chinese 
+government’s industry development plan includes several national and 
+regional government backed investment funds to accelerate growth in 
+immersive.  
+‒ The Chinese government’s support for the development of the industry 
+and the centralised approach to government lowers regulatory barriers 
+and eliminates any personal data access issues for domestic 
+producers.  
+
+
+[PAGE 15]
+ 
+12 
+ ‒ Asia is set to dominate the consumption of AR/VR for the next five 
+years, driving more revenue than North America and Europe combined, 
+with China the largest single market for AR/VR in the long term. 
+‒ 5G, which is set to drive access to mobile AR applications, is already 
+being rolled out across tier 1 cities in China.  
+‒ Unlike the UK, China is a net-importer of content and content-based IP. 
+China does not have the experience or current industrial capacity to 
+create and produce international standard content. However, 
+censorship and regulatory issues relating to the importation of content 
+will hinder access to the Chinese market for international producers.  
+2.5 Barriers to growth 
+2.5.1 Barriers: Demand side 
+‒ Lack of demand and revenues beyond gaming remain uncertain. This 
+means that many developers and producers are waiting for greater 
+adoption before entering the market and advertisers are also unwilling 
+as yet to invest in creating expensive bespoke immersive content  
+‒ VR content is growing particularly slowly, with the distribution of 
+immersive live streaming events and entertainment segmented across a 
+range of proprietary systems, often tied into high end games consoles 
+2.5.2 Barriers: Supply side 
+‒ The distribution of live event experiences for VR or AR remains very 
+segmented for consumers due to competing platforms 
+‒ Lack of development talent for quality immersive experiences overlays 
+more general skills shortages in developers more generally 
+‒ There is a lack of integration with existing everyday use-cases – but 
+increasing the use of immersive experiences as integrated features 
+within mainstream apps (e.g. Google Maps) may be integral to driving non-games related use and associated revenues for immersive 
+producers 
+2.5.3 Barriers: Regulatory 
+‒ Greater awareness of the need for better person data protection and 
+related regulations: as awareness grows and government regulations 
+tighten it will become more difficult to access, use, and port users 
+personal-data cross borders and across different legal jurisdictions 
+‒ Although the biggest market and global investor, China’s regulatory 
+barriers are a problem for international immersive producers wishing to 
+access the market 
+2.5.4 Barriers: Technology 
+‒ The consumer market currently lacks a “hero device” AR headset, 
+though hopes are high for Apple to deliver one imminently that will bring 
+AR headsets into the mainstream. Apple’s iPhone X and 11 ranges 
+already have extensive AR capabilities 
+‒ Limited battery power still hampers immersive development as AR and 
+VR applications and devices have relatively high-power consumption 
+needs. 
+
+[PAGE 16]
+ 
+13 
+ 3. Scale and significance of the 
+immersive ecosystem in Liverpool 
+City Region 
+The research covered applications of immersive technology both in the cultural 
+and creative industries and in other sectors of the economy, including 
+education, health, and advanced manufacturing. The findings were 
+benchmarked  against a profile of immersive tech activity in three other English 
+‘core’ cities – Bristol, Manchester and Newcastle – to help clarify any existing or 
+emerging ‘niche’ or smart specialisations from which LCR can draw benefit and 
+competitive advantage now, or which could be developed further to increase 
+productivity and help grow investment, employment and markets.  
+The mapping included organisations producing, investing in, and making 
+extensive use of immersive content and technologies. 
+The results were as follows: 
+– Total organisations: 169 
+– Total companies: 126 (of which 114 LCR-based6) 
+– Total assets: 37 (of which 35 LCR-based) 
+– Investors: 6 (of which only one – MSIF - is LCR-based) 
+This list was generated from company searches, responses to an online survey 
+and information from interviewees. The resulting data base of company details 
+provided the basis for keyword-based search to assure, deepen and widen 
+initial findings through survey and interviews. 
+ 
+ 
+6 A handful of companies that are recorded as ‘dormant’  at Companies House have been left in either because we 
+believe they may have recently become active or they are still working on immersive activity even though officially 
+dormant. Key chapter insights 
+ The sector is spread out across most of the city region but 
+concentrated in and around Liverpool city centre 
+Assets 
+ Liverpool has a range cultural, educational and infrastructure assets 
+which can be connected and harnessed to create a uniquely rich 
+research, development, testing and entertainment destination for 
+immersive experiences and technologies 
+Companies 
+ The city region has a well-connected and rapidly expanding ecosystem 
+of XR creators, research-led businesses and large end-users in 
+construction, manufacturing, life sciences and logistics 
+ Specialist XR agencies are larger, more profitable and growing faster 
+than the average of all businesses in the digital and creative sectors 
+ Investors 
+ Local companies report a lack of ‘strategic’ investors – institutions and 
+individuals with experiences  and in-depth knowledge of the sector and 
+its markets 
+Business support 
+ Business support is not yet aligned with the business objectives or 
+market opportunities for XR 
+ 
+  
+Also included are companies which we believe to be ‘future’ immersive active: Eureka! Mersey (opening in 2022) 
+and ArCains, which promised a whole floor of immersive fun when it launched. 
+
+[PAGE 17]
+ 
+14 
+ 3.1 Geographical focus of immersive sector 
+Immersive companies and assets which form part of the LCR ecosystem are 
+concentrated within Liverpool, which houses 78 of 114 companies, and 
+physically clustered within the city centre. 
+Figure 3  Liverpool City Region immersive companies by local authority 
+Source: BOP Consulting/City Curator March 2020  
+Figure 4  Distribution of immersive companies in Liverpool City Centre 
+ 
+Source: BOP Consulting/City Curator March 2020 
+ 
+ 
+
+
+[PAGE 18]
+ 
+15 
+ 3.2 Assets 
+Figure 5  Clustering of immersive assets in Liverpool City Centre 
+ 
+ 
+Source: BOP Consulting/City Curator March 2020 
+ 
+
+
+[PAGE 19]
+ 
+16 
+ 3.3 Highly skilled immersive workforce 
+We analysed LinkedIn data to give numbers of workers (employees and 
+freelancers) with immersive skills, identified by keyword search. 
+Figure 6  LCR Highly Skilled Immersive workforce - levels of experience 
+Category Number  % 
+Total LCR Creative Industries (CI) workforce  31,022 100% 
+Total LCR highly skilled immersive workforce  190 0.61% 
+Experience: 0-5 years (# / % of LCR immersive 
+workforce)  50 26% 
+Experience: 5 -10 years  53 28% 
+Experience: 10+ years  87 46% 
+New recruits (in post for less than one year)  78 41% 
+Founders  18 9.5% 
+Company Directors  34 18% 
+Source: City Curator analysis of LinkedIn, January 2020 
+We don’t suggest that there are only 190 workers in LCR with immersive skills. 
+Our analysis of companies’ data, and findings from out online survey, suggest 
+that there is a much larger workforce in LCR engaged in some part of the 
+immersive supply chain. That number represents those individuals who list 
+themselves as having an immersive skill (identified by keyword) on LinkedIn. 
+We considered the options for scaling up these numbers by reference to other 
+data sources (including our survey) to try to provide an estimate of the total 
+ 
+7 Department for Culture Media & Sport (2016). Creative Industries Economic Estimates Methodology 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/499683/CIEE_
+Methodology.pdf   working population of LCR within immersive – but rejected this for several 
+reasons: 
+ We wanted to have comparable data for LCR and the three comparator 
+city regions (Bristol, Manchester, and Newcastle) for benchmarking 
+purposes, and did not have sufficient resource to repeat all parts of the 
+analysis and survey deployed in LCR 
+ We think it will be valuable to repeat this analysis on the same terms to 
+provide trends data 
+ Unlike in some other sectors, where Standard Occupation 
+Classifications (SOC codes) can provide the basis of an estimate for 
+total size of the workforce, there are no SOC codes that can accurately 
+identify immersive skills and provide the basis on which to ‘uplift’ the 
+raw data from LinkedIn across different geographies. 
+3.3.1 Estimating size of total immersive workforce in 
+LCR 
+As with all creative industries sectors, only a proportion of those working within 
+the immersive sector would be expected to be highly skilled in specific creative 
+or technical disciplines. The DCMS definition of the Creative Industries adopted 
+in 2001 uses a the ‘creative intensity’7 of those sectors, measured by the 
+proportion of total employees within companies within identified specialist 
+Standard Occupation Classifications (SOC codes). The threshold of ‘specialist’ 
+SOC codes is around 30%; within computer games, the figure is around 43%. 
+On that basis, taking into account that not all highly skilled immersive 
+employees will be registered on LinkedIn, and that others may not have listed 
+the skills identified by our keyword search, we would estimate that LCR’s 
+immersive sector employs more than 600 people. 
+
+[PAGE 20]
+ 
+17 
+ 3.4 Immersive supply chains in LCR 
+Immersive companies are drawn from a range of industry sectors – illustrated at Figure 7 below. 
+Figure 7  Industry groupings of immersive companies in LCR 
+Source: BOP Consulting/City Curator March 2020 
+
+
+[PAGE 21]
+ 
+18 
+ 3.4.1 Immersive supply chain relationships 
+The distribution of companies by industry grouping (Figure 7 above) makes it 
+clear that this is a diverse cluster – and reflects the fact that this is an emergent 
+industry, for which neither SIC codes nor existing sector definitions provide data 
+on which to base further analysis.  
+Additional analysis of immersive outputs, including an AI search of company 
+websites, gave a set of products and services representing the relationship 
+between suppliers and end users. These were then grouped to help identify 
+areas of specialisation across of the immersive supply chain within LCR. Based 
+on previous analysis of this kind carried out across the creative and digital 
+sector in the West Midlands, supply chain outputs were grouped as follows: 
+ Experience : creation of content (original IP or commissioned work) for 
+live events, digitally distributed entertainment, exhibitions, or 
+installations 
+ Application : content and platforms in AR/VR for social media, 
+marketing, education, health, and other industrial applications, whether 
+in the form of original IP or ‘work for hire’ 
+ Original : creating original IP that combines an immersive application 
+and a physical product 
+ Tech: R&D-focused businesses looking to develop IP in technology and 
+tools for the creation, authoring, editing, processing and distribution of 
+immersive content, products, and hardware  
+Immersive producer companies’ choice of four-digit SIC codes was felt to be too 
+fragmented and inconsistent to provide the basis for accurate supply chain 
+analysis, so these were grouped under single letter SIC sections to demonstrate 
+the spread of immersive content creation and tech development across all 
+sectors of the LCR economy. The results are summarised in Figure 8. Figure 8  Immersive supply chain relationships in Liverpool City Region 
+ 
+Source: BOP Consulting/City Curator March 2020
+
+
+[PAGE 22]
+ 
+— 
+www.bop.co.uk 19  4.  Immersive sector survey 
+An online survey, promoted through the immersive working group and via social 
+media, was conducted during December 2019 and January 2020. There were 
+56 responses, 36 from businesses and 20 from individuals. Results are 
+summarised below. 
+The companies making these returns were self-selecting and drawn 
+predominantly from creative industries, with a few educational and research 
+institutions included. The comparisons of company scale, turnover and 
+profitability drawn are, therefore, with the creative industries. 
+Of the 31 companies who gave a location, more than half (17) were based in 
+Liverpool.  
+Figure 9  Company location – survey responses 
+Location #  
+Liverpool 17  
+Knowsley 4  
+Warrington 3  
+Wirral  3  
+Greater Manchester 2  
+Sefton  2  
+Halton 0  
+St Helens 0  
+Source: BOP Consulting survey, 2020 4.1 Survey findings: employment 
+4.1.1 scale of companies – permanent employees 
+Although just over half were micro-enterprises, respondents tended to be larger 
+than typical surveys of creative industries businesses, with six companies 
+employing more than 51 staff. 
+Figure 10  Survey findings: number of permanent employees per company 
+ 
+ 
+ 
+Source: BOP Consulting analysis of survey findings, 2020 (n=31) 
+ 
+
+
+[PAGE 23]
+ 
+— 
+www.bop.co.uk 20  4.1.2 Freelance or contract employees 
+The sense of company scale was reinforced by the number of freelance or 
+contract workers employed in the last 12 months: 
+‒ Six companies reported hiring more than 50 contractors or freelance 
+employees in the last twelve months 
+‒ Four had engaged between 11 and 50 contractors 
+‒ Ten had relied on between five and ten contract or freelance workers 
+Figure 11  Survey findings: number of freelance or contract employees 
+ 
+Source: BOP Consulting analysis of survey findings, 2020 (n=30) 
+ 
+ 
+ 
+ 
+ 
+ 4.1.3 Changes in immersive employment  
+There was strong evidence of growth. Over the last 12 months: 
+‒ 57% of companies reported increased employment 
+‒ Six companies (20%) reported employment growth of 50% plus 
+‒ Only one company (3%) reported a reduction in headcount 
+Figure 12  Changes in LCR immersive employment 
+ 
+ 
+Source: BOP Consulting analysis of survey findings, 2020 (n=30) 
+
+
+[PAGE 24]
+ 
+— 
+www.bop.co.uk 21  4.1.4 ‘Hard to fill’ vacancies 
+In response to the question, ‘Which immersive roles do you find it hardest to 
+recruit for,’ companies identified software/IT, engineer and business 
+development roles as the ones for which they experienced most difficulty in 
+recruiting, along with machine learning and, ‘engineers/technicians to produce 
+immersive works from an artist brief.’ 
+Figure 13  'Hard to fill' vacancies 
+Source: BOP Consulting analysis of survey findings, 2020 (n=28)
+ 
+8 The ‘other’ responses here were all from companies not currently looking to recruit.  
+4.1.5 Shortages of more experienced developers and 
+managers 
+Employers found most difficulty in recruiting ‘middleweight’ and senior team 
+members and managers – typically, those with five or more years’ experience.8 
+Figure 14  Shortages of more experienced workers and managers 
+ 
+Source: BOP Consulting analysis of survey findings, 2020 (n=28) 
+ 
+ 
+
+
+[PAGE 25]
+ 
+— 
+www.bop.co.uk 22  4.2 Survey findings: turnover 
+4.2.1 Scale of companies - turnover 
+A significant proportion of those surveyed (11 out of 27 companies, or 41%) 
+reported annual turnover in excess of £1 million in the last year for which they 
+had full accounts. 
+Figure 15  Turnover of LCR immersive companies 
+ 
+Source: BOP Consulting analysis of survey findings, 2020 (n=27) 4.2.2 Scale of companies – turnover growth 
+Two-thirds of our sample (18 companies) reported turnover growth in the last 
+year for which they had full accounts. Ten companies (37%) increased turnover 
+by more than 30%. 
+Only two companies reported a (small) drop in turnover. 
+Figure 16  Turnover growth among LCR immersive companies 
+ 
+ 
+Source: BOP Consulting analysis of survey findings, 2020 (n=27) 
+
+
+[PAGE 26]
+ 
+— 
+www.bop.co.uk 23  4.3 Content genres and market verticals 
+Individuals reported working across immersive content genres and market 
+verticals – with the notable exception of esports. 
+Figure 17  Market verticals for immersive tech and content 
+ 
+Source: BOP Consulting analysis of survey findings, 2020 (n=17) 4.4 Sentiment 
+When asked, ‘How highly do you rate Liverpool City Region as a place to 
+develop immersive talent? With 10 indicating that this is a locality that supports 
+immersive talent in every possible way and zero indicating that it does not 
+support immersive talent at all,’ companies gave modal and median score of 6. 
+This suggests that, even before the current crisis, members of the ecosystem 
+felt there was considerable room for improvement 
+Figure 18  Survey findings: sentiment toward LCR immersive ecosystem 
+ 
+Source: BOP Consulting analysis of survey findings, 2020 (n=22) 
+
+
+[PAGE 27]
+ 
+— 
+www.bop.co.uk 24  5. Benchmarking  
+Although a number of UK cities can claim particular digital assets or 
+specialisms in immersive content production, there is at present no centre 
+dedicated to immersive technologies outside London in the UK that would 
+present a direct comparator or benchmark for economic impact for LCR. 
+The benchmarking exercise focused on comparing Curator analysis of 
+LinkedIn data on the existing immersive workforce in LCR with competitor 
+cities and city regions of Bristol, Manchester, and Newcastle.  
+It also looked at the social dimension of ecosystem development, using 
+data from Meetup.com on membership and attendance of networking 
+events as a proxy for cluster growth and engagement. 
+ 
+Benchmarking and trends analysis took into account scenarios for growth of 
+immersive content and tech over the next three to five years. 
+BOP and Curator’s sector analysis for Innovate UK has already provided an 
+initial analysis of the relative standing of Liverpool City Region’s immersive 
+content sector against 22 other UK geographies. It reveals that: 
+‒ London enjoys a considerable ‘head start’, as home to nearly 50% of 
+the UK’s creative industries-focused immersive content sector and 
+several national centres 
+‒ Liverpool City Region has an immersive content sector on a par with 
+several other core cities, but is smaller than comparator regions such as 
+Manchester and Bristol  
+In addition to a comparison of the scale of the workforce, the benchmarking 
+exercise sought to establish the relative strengths of LCR by other qualitative 
+measures, for example, whether the presence of key technology and/or 
+research organisations is likely to influence growth within any geography or how the number of immersive businesses correlates to the total population of 
+creative businesses and the total business population in each region. 
+5.1 Comparator city regions 
+5.1.1 Bristol, Manchester, and Newcastle 
+The benchmark criteria were based upon selecting cities (or city regions) with 
+similar population and a level of promoted immersive activity. The cities were 
+also assessed on the basis that they had a comparable creative community, 
+with significant representation within media production and games 
+development. Consideration was given to the wider sectors within these cities 
+that may be influenced by immersive technologies such as architecture and 
+construction, manufacturing, and cultural industries. Finally, selection of cities 
+was based upon their prevalence within the inward investment market, with 
+Manchester and Bristol performing well as a destination both for international 
+and UK expansion. Newcastle is less prominent in this market and seen as a 
+second-tier destination. 
+Liverpool City Region has its own strengths, particularly in software 
+development, built upon the legacy of its games sector; whilst the immersive 
+sectors in Manchester, Bristol, and Newcastle each have a discernible business 
+community and set of activities. They are all represented as hotspots in 
+ImmerseUK and InnovateUK’s Immersive economy in UK report. 
+The findings bear out the report’s conclusions that Liverpool is comparable to all 
+these benchmark city regions and has similar size of workforce and percentage 
+penetrations when compared against the wider creative community.  
+Greater Manchester is clearly the largest city region on the list in terms of both 
+company numbers and workforce; although the data does show that as a 
+percentage of the wider creative community Liverpool’s workforce shows a 
+greater level of highly skilled workforce.  
+In most factors Liverpool comes second to Manchester, and top in some 
+technical specialisms; and is overall a close comparator to Bristol. Newcastle is 
+
+[PAGE 28]
+ 
+— 
+www.bop.co.uk 25  fourth in most criteria despite being promoted as a centre for VR activity and 
+events.  
+Specific findings from analysis of comparative workforce data include: 
+ Liverpool has a comparably sized immersive workforce in proportion to 
+its overall CI workforce to Manchester and Newcastle, but more 
+recruitment is happening – 76 new recruits in the last year and 58 job 
+ads placed Nov/Dec 2019 
+ Liverpool has a relatively highly skilled immersive workforce, but shows 
+signs of a shortage of ‘middleweight’ and senior immersive talent – 
+reflected in survey findings on recruitment 
+ Liverpool is stronger in IT/software than the other cities, both in job 
+functions and its industry focus 
+ Bristol has the most mature immersive sector – reflected in experience 
+levels and the proportion of workforce in sales / marketing/ business 
+development. roles 
+ Although Manchester’s immersive sector is much larger, it shows 
+weaker levels of specialisation in content production and IT/software 
+than LCR 
+ Newcastle’s public sector investment in infrastructure and inward 
+investment marketing for games, digital media, and education, and its 
+longstanding industry events programme  is reflected in its higher 
+proportion of content-focused roles in XR, and higher skills levels 
+5.1.2 New competitors – Leeds City Region 
+There is a further  relevant comparator: the emerging  ecosystem in York and 
+the Leeds City Region. Its growth has been boosted by the award of Arts & 
+Humanities Research Council (AHRC) funding for a Creative Industries Cluster 
+ 
+9 https://ahrc.ukri.org/innovation/creative-economy-research/the-creative-industries-clusters-programme/ 
+10 https://ahrc.ukri.org/innovation/creative-economy-research/the-creative-industries-clusters-programme/ Partnership (CICP) – XR Stories9 at University of York, and University of Leeds’ 
+Centre for Immersive Technologies.10  
+XR Stories aims to,  
+ Establish … the screen industries of Yorkshire and the Humber as a 
+centre of excellence in immersive and interactive storytelling, 
+developing partnerships with film, TV, and games companies from 
+across our region, as well as nationally and internationally.  
+It is backed by industry partners including Screen Yorkshire, the British Film 
+Industry, New Moon Studios, British Telecom, Sony, Duck Soup, Warp Films, 
+Game Republic, and the BBC. This represents a body of commissioners without 
+comparison in Liverpool, where the lack of production infrastructure or 
+permanent offices of any of the television networks means that screen 
+industries are more dependent on inward investment from film and television 
+location shoots. Screen Yorkshire, the independent regional body for 
+development of the audio visual sector, operates a range of training and 
+development courses11 and is a partner(with sector skills agency ScreenSkills 
+and the National Film and Television School   in a new Centre of Screen 
+Excellence: Yorkshire (CoSE:Y), launched in Leeds in February 2020, 
+A more accurate comparison is with the North West region, not with an 
+individual city. Like Yorkshire, the North West has two cities in close enough 
+proximity to effectively share access to a single talent pool. Manchester has had 
+more investment in physical infrastructure, including a Digital Catapult 
+Immersive Lab at the Landing in MediaCityUK, and production facilities at the 
+Sharp and Space Projects. Liverpool has a different USP in terms of innovation, 
+with a clutch of research and development offices in the Universities and at 
+SciTech Daresbury. But neither at a city or regional level does the immersive 
+sector in Liverpool enjoy the same level of coordination with national bodies and 
+major industry players as that found in Yorkshire.
+11 https://www.screenyorkshire.co.uk/training-skills/ 
+
+
+[PAGE 29]
+ 
+— 
+www.bop.co.uk 26   
+ 
+5.2 Comparator analysis 
+Analysis of those in the workforce who are promoting themselves as having specialist immersive skills and/or sector focus shows that Liverpool has a smaller workforce 
+than either Manchester or Bristol, but a higher proportion of ‘middleweight’ staff (between 5 and 10 years’ experience) and a higher proportion of new recruits than the 
+other three city regions. 
+ 
+Figure 19  LCR immersive workforce – comparison with other cities 
+Category Liverpool Manchester Bristol Newcastle 
+Total CI workforce 31,022 - 121,302 - 41,205 - 22,382 - 
+Total immersive workforce 190 - 768 - 342 - 149 - 
+Immersive as proportion of CI workforce - 0.61% - 0.63% - 0.83% - 0.67% 
+Experience: 0-5 years 50 26% 170 22% 63 18% 43 29% 
+Experience: 5-10 years 53 28% 206 27% 84 25% 38 26% 
+Experience: 10+ years 87 46% 392 51% 195 57% 68 46% 
+New recruits 78 41% 268 35% 89 26% 46 31% 
+Founders 18 9.5% 33 9.6% 33 9.6% 14 9.4% 
+Company Directors 34 18% 74 22% 74 22% 35 23% 
+Source: City Curator analysis of LinkedIn, January 2020 
+  
+
+[PAGE 30]
+ 
+— 
+www.bop.co.uk 27  Comparison of the proportion of the immersive workforce with high level skills shows Liverpool second to Newcastle (where the city and University have invested heavily 
+in ICT facilities), and ahead of Bristol and Manchester. 
+Figure 20  Proportion of highly skilled workers in LCR immersive workforce – comparison with other cities 
+ 
+Source: BOP Consulting/City Curator analysis of LinkedIn, January 2020 
+ 
+ 
+
+
+[PAGE 31]
+ 
+— 
+www.bop.co.uk 28  Although the perception is that  Liverpool is a hub of creativity, analysis of the workforce suggests that its specialism lie more strongly in technical software and 
+development disciplines. The relative maturity of Bristol is reflected in its higher proportion of business development specialists, reflecting a city cluster which has bene 
+heavily invested in R&D and IP in new products and services over a longer period and is  now focusing on their commercialisation. 
+Figure 21  LCR immersive job functions as a proportion of immersive workforce – comparison with other cities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: City Curator analysis of LinkedIn, January 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Category  Liverpool  Manchester  Bristol Newcastle  
+Total immersive workforce 190 - 768 - 342 - 149 - 
+Design 33 17% 144 19% 63 18%  26 17% 
+Education 24 13% 80 10% 32 9% 21 14% 
+Business development 32 17% 123 16% 71 21% 26 17% 
+Media & Communications 13 7% 72 9% 39 11% 12 8% 
+Marketing 11 6% 37 5% 23 7% 10 7% 
+Sales 5 3% 43 6% 16 5% 3 2% 
+Software/ engineering 45 24% 161 21% 70 20% 27 18% 
+IT 23 12% 86 11% 37 11% 17 11% 
+Other job functions n.e.c. 4 2% 22 3% - - 7 5% 
+Total sales/marketing/business 
+development  61 32% 275 36% 149 44% 51 34% 
+Total of IT/software  68 36% 247 32% 107 31% 44 30% 
+
+[PAGE 32]
+ 
+— 
+www.bop.co.uk 29  The strength in software and technical skills is also reflected in the industry focus – in other words, the end-user sectors – for the output of LCR’s immersive sector. 
+LCR’s XR workforce is relatively more concentrated in ‘STEM’ sectors – software development, life sciences and advanced manufacturing – than the other three cities. 
+LCR also has emerging strengths in entertainment, and museums and galleries, reflecting both the city’s well-understood cultural legacy and recent investment from 
+major cultural institutions. Newcastle has the highest proportion of its XR workforce in games, where public bodies have secured large scale inward investment. Bristol 
+and Manchester’s greater mass and maturity as media hubs, including presence of major commissioning organisations including BBC, is reflected in the higher 
+proportion of XR workforce in digital media. 
+Figure 22  Industry focus of LCR immersive workforce – comparison with other cities 
+ 
+Categor y Liverpool  Manchester  Bristol Newcastle  
+Total immersive workforce 190  - 768 - 342 - 149 - 
+Games 24  13% 41 5% 19 6% 27 18% 
+Entertainment 8  4% 24 3% 3 1% 3 2% 
+Marketing & Advertising 6  3% 36 5% 10 3% 2 1% 
+Digital Media 7  4% 57 7% 33 10% 9 6% 
+Museums & Galleries 3  2% 1 0% 2 1% 1 1% 
+Education 16  8% 51 7% 21 6% 18 12% 
+Software & IT 44  23% 166 22% 56 16% 26 17% 
+Life Sciences 7  4% 22 3% 14 4% 3 2% 
+Advanced Manufacturing 8  4% 25 3% 12 4% 5 3% 
+Total ‘content’ sector  64 34% 210 27% 88 26% 60 40% 
+Total Software & IT / Life Sciences / 
+Advanced Manufacturing  59 31% 213 28% 82 24% 34 23% 
+Other industries n.e.c 67  35% 345 45% 172 50% 55 37% 
+ 
+Source: City Curator analysis of LinkedIn, January 2020 
+
+[PAGE 33]
+ 
+— 
+www.bop.co.uk 30  5.3 Meetups 
+Comparison of data from Meetup.com shows the relative scale and vibrancy of immersive ecosystems in Bristol, Liverpool, and Manchester – Newcastle has no 
+equivalent immersive meetup group currently. The Liverpool meetup community is comparable in size to the longer-established Bristol group – even considering that this 
+does not include the members of a now disbanded Liverpool VR meetup. 
+ 
+Figure 23  Comparison of city immersive ecosystems 
+ 
+ 
+Source: BOP Consulting/City Curator analysis of Meetup.com, January 2020  
+
+
+[PAGE 34]
+ 
+— 
+www.bop.co.uk 31  5.3.1 Evolution of the ecosystem 
+A timeseries comparison suggests that the  LCR ecosystem is growing faster than that of Bristol but not so fast as Manchester’s community. 
+Figure 24  Evolution of city immersive ecosystems 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: BOP Consulting/City Curator analysis of Meetup.com, January 2020
+
+
+[PAGE 35]
+ 
+— 
+www.bop.co.uk 32  6. Interviews and Case Studies 
+This chapter summarises findings from interviews conducted between January 
+and March 2020. Interview findings have been reported in two ways:  
+ A summary of key insights (see below and opposite) 
+ Case studies representing development across the four supply chains 
+identified – experiences, applications, originals, and tech. 
+6.1 Business support 
+Responses to questions about business support coalesced into two strands: 
+ Support for a peer-to-peer and collective approach to practical, project- 
+based development to encourage organisations (XR producers, 
+universities, cultural organisations, and other industry partners) to work 
+together to ensure that all parts of the ecosystem ‘evolve together’. This 
+is contrasted with an approach that seems to prioritise the ‘scalability’ of 
+individual firms at the expense of wider sector development objectives. 
+ Concern that lack of specialist knowledge of XR amongst those 
+designing and delivering support meant that funded programmes 
+tended to look too narrowly at development of immersive as part of 
+Digital and Creative Industries, missing opportunities for collaborative 
+and cross-sector working across all industry sectors.  
+ Interviewees suggested a stepped approach to reconcile these needs: 
+ Educating businesses across the economy on the potential of XR (eg 
+through seminars and online case studies and ‘white papers’) 
+ Directing business support funding into collaborative R&D&I projects 
+with end user companies that could potentially draw upon the input of 
+diverse specialisms from businesses and research institutions   Using the projects and collaborations that result to help XR content 
+producers and technologists build their businesses and strengthen 
+supply chains across the Liverpool City Region 
+Key chapter insights 
+ Consensus around the need to develop partnerships and work 
+together to ensure all parts of the ecosystem are effectively using 
+existing creative technology in order to  ‘evolve together’  
+ Sector development  needs practical support and capacity building 
+– including aligning Growth Platform business support and investor 
+development offers to the needs of immersive companies 
+ Attracting and retaining  experienced and senior talent – both 
+software developers and business development – is an immediate 
+priority; demand exceeds supply 
+ Strategic investment is needed to help organisations develop and 
+commercialise new IP  and reduce their dependency both on client 
+work and live experiences  
+ One way to accelerate this would be to create a central hub - an 
+Institute of Creative Technology , convened by universities and 
+cultural institutions (eg, FACT) to promote collaborative R&D and 
+joint project working, along the lines of Bristol’s Pervasive Media 
+Studio 
+ Whilst there are several events coming up which offer platforms to 
+demonstrate work of LCR organisations (eg. LIPA graduate show, 
+Good Business Festival), the sector feels there is a case for a 
+larger-scale immersive entertainment venue  to make clear the fit 
+between XR and the city region’s cultural, tourism and retail offer 
+
+[PAGE 36]
+ 
+— 
+www.bop.co.uk 33  6.2 Investor development 
+Interviewees reflected that in many cases, ‘Business support is a necessary evil 
+to get to some cash.’ There was concern that existing programmes were 
+generic, focused on delivering ‘outputs’  and too fragmented to allow companies 
+to identify appropriate funding to enable them to respond to immediate and 
+specific opportunities within XR:  
+Developing a deeper understanding of the opportunities that the 
+technology sector (including immersive) presents to us as a city 
+region: including how the technology is evolving and being applied; 
+the structure of the ecosystem; the complex challenges around 
+raising funds and ideally - financial support for businesses that are 
+contributing to job creation in the region. As far as I know, there 
+are no cash vehicles currently for the city region to actually invest 
+in companies.  
+Smaller and more research-focused businesses, in particular, reflected that the 
+time taken in meeting obligations of business support detracted from their 
+attempts to fund development – more practical, ‘hands-on’ support (eg, bid 
+writing) would be more effective.  
+Other barriers included managing cash flow for match funded projects where 
+claims had to be made in arrears, and the commitment of time and money 
+needed to enter into funding opportunities which require an academic lead. 
+Respondents reflected that a lack of ‘strategic investors’ – local individuals or 
+institutions with deep knowledge of the technology and markets for XR – put 
+LCR at a disadvantage in respect of other regions with more specialist funds 
+and networks (not only London, but other core cities including Manchester and 
+Newcastle). Sector mapping reflects this: only one LCR-based organisation – 
+MSIF – has made any investments in XR. 6.3 Attracting and retaining talent 
+Even prior to the covid-19 emergency, the survey and interview findings 
+reflected the difficulty that companies face in attracting and retaining 
+experienced developers and business development people. Liverpool has a 
+more limited pool of skilled digital people than places such as Manchester or 
+Leeds; and is in competition with both those cities for available talent. If this is 
+not addressed, it will constrain not only the growth of existing companies but 
+also the scope to attract new investors.  
+Whilst the pipeline of talent from the universities is felt to be a relative strength, 
+the present market uncertainties mean that there is a risk that companies will 
+not be able to take on and develop graduate talent to the levels required to 
+maintain and grow the immersive sector in LCR – threatening both graduate 
+retention and long term sector development. 
+6.4 Signalling LCR’s ambitions for XR 
+There was a shared view that Liverpool lacked the kind of flagship facilities and 
+events that had proved effective in attracting investment and talent to competitor 
+cities such as Bristol, Manchester, and Newcastle. Interviewees identified three 
+ways to address this: 
+ An Institute of Creative Technology, convened by universities and 
+cultural institutions (eg, FACT) to promote collaborative R&D and joint 
+project working, along the lines of Bristol’s Pervasive Media Studio 
+ A large-scale immersive entertainment venue, building on Liverpool’s 
+legacy in music, sport, and games, to make clear the fit between XR 
+and the city region’s cultural, tourism and retail offer 
+ Using Sci-Tech Daresbury and its role as a national centre to convene a 
+regional offer combining the strengths of Liverpool and Manchester’s 
+XR sectors as a way to attract more investment and talent 
+
+[PAGE 37]
+ 
+— 
+www.bop.co.uk 34  6.5 LCR immersive case studies 
+6.5.1 Shaun the Sheep: Developing a Responsive, 
+Spatial, Immersive Experience for Aardman  
+Prof Richard Koeck of University of Liverpool’s Centre for Architecture and 
+the Visual Arts  (CAVA)  is leading a new £1 million + collaboration between the 
+University of Liverpool, Liverpool John Moores University, Shanghai Theatre 
+Academy, and industry partners Aardman, Media Industry Association and 
+Digital Fun.  
+CAVA’s research innovation in the use of AI sensor technology will allow the 
+partnership to create a non-linear, real-time, responsive, spatially immersive 
+family visitor experience in Shanghai. Audiences will be able to interact directly 
+with a Shaun the Sheep story in real time without the need for headsets, gloves, 
+or personal devices. The story will be a true Shaun the Sheep adventure which 
+recognises China's cultural context and values. 
+The project is funded through the UKRI (UK Research and Innovation) Fund for 
+International Collaboration (FIC), and supported by the Virtual Engineering 
+Centre (VEC, University of Liverpool). It will link up six research centres/ 
+institutes, utilising their complementary expertise for an applied research project 
+with global industry partners. 
+6.5.2 Draw & Code 
+Draw & Code grew out of a collective of individuals working on projects around 
+AR and projection mapping. Incorporated in 2010, Draw & Code was the first 
+agency in the Liverpool City Region focused on immersive technologies. 
+Perhaps best known in the city region and nationally for its ground-breaking 
+work for National Museums Liverpool’s Terracotta Warriors exhibition (2019), it 
+has developed its own IP, including the augmented reality toy brand, SwapBots, 
+which has been successfully crowdfunded and is planned to reach retail in 
+2021. 
+Draw & Code sees 'out of home' experiences – immersive art and immersive 
+venues - as the dominant trend, and one which is yet to reach its peak. It points out that two of the organisations producing the biggest art shows globally are 
+themselves collectives – Meow Wolf and Team Lab. It sees Liverpool as a 
+creative city with a strong history in interactive content production –  
+ Big enough to have opportunity and small enough to 
+have community, Liverpool is a good-sized city for 
+getting things done. 
+However, although the pipeline of graduates from the city’s universities is good, 
+Liverpool companies experience a lot of competition for talent. Draw & Code 
+advocates that the city region should focus investment on developing facilities 
+that promote a collective approach in two areas: 
+ talent development, such as an Immersive Learning Studio that could 
+promote peer learning, sharing information about developments in 
+industry and technology and joint working on commissions (including 
+those from the public sector) as a way to grow that supply 
+ associating any production facilities mentioned with a tangible and 
+viable public offering. Not only is that of immediate benefit to the region 
+as immersive is already commercially strong in the cultural sector, but it 
+could help to encourage people into seeing the sector as a career 
+option by having a very good public-facing experience.  
+ Liverpool needs to fit immersive into its cultural, tourism 
+and retail offer - the fit is just too good to ignore. 
+ 
+Draw & Code’s Phil Charnock also points out the opportunity for a specialist 
+advocate for the city region’s XR sector, ‘in the same way Phil Redmond talks 
+about film,’ to build on the city’s global recognition and reputation.  
+
+
+[PAGE 38]
+ 
+— 
+www.bop.co.uk 35  6.5.3 Kinicho 
+Kinicho is one of the UK’s leading private sector R&D companies working in 
+development of the next generation of volumetric audio for immersive content. 
+Founded in 2015 and based on the edge of the Baltic Triangle, it employs only 
+the two founders but has ambitions to become, ‘the ARM of spatial audio.’ 
+Despite its small size, Kinicho has worked on major national and international 
+projects, including developing a 360° soundscape for the launch of the 
+audiobook of JK Rowling’s ‘Quidditch Through The Ages’ with Audible UK and 
+Pinewood Studios in 2018, and a public engagement project with CERN, 
+sonically animating the discovery of the Higgs Boson candidate from big data. 
+As founder Garry Haywood explains, 
+ 
+ Testing our service in real world environments is crucial 
+for our development. 
+ 
+Kinicho’s challenge is to find internal resources, from paying client work, to 
+create the best demonstrator for its technology. At present, 95% of that revenue 
+comes from national and international work, with only 5% coming from projects 
+within Liverpool City Region. It needs access to R&D funds - but finds the 
+current business support processes cumbersome and time-consuming. It is 
+looking to identify, ‘patient investors who can see the potential - this is a core 
+technology - within various vertical market opportunities.’ 
+6.5.4 Sci-Tech Daresbury 
+Sci-Tech Daresbury is an internationally recognised science and innovation 
+campus. It houses the Science and Technology Facilities Council’s (STFC) 
+Daresbury Laboratory, Hartree Centre and the University of Liverpool’s Virtual 
+Engineering Centre (VEC).  The VEC sits within the University’s IDEAS (Institute of Digital Engineering and 
+Autonomous Systems) and offers access to a VR/AR immersive laboratory, a 
+Virtual Engineering simulation laboratory and a robotics and autonomous 
+systems laboratory. Co-location with the Hartree Centre enables it to benefit 
+from access to the Atos Bull Sequana supercomputer that has been part of a 
+nearly £200m investment.  
+The Hartree Centre delivers world-class facilities and expertise in big data 
+analytics and AI, collaborating with the likes of IBM Research, Atos, Intel, and 
+NVidia. These facilities are used by many UK universities and SMEs as well as 
+an increasing number of industrial companies (including IBM, Unilever, Bentley 
+Motors, BAe Systems).The Hartree Centre and VEC have also made their 
+expertise and facilities available to SMEs through funded programmes such as 
+LCR4.0.  
+The campus is home to nearly 150 high-tech companies, one in six of which 
+have their headquarters outside the UK; These businesses are from a range of 
+sectors including advanced engineering, materials technologies, biomedical and 
+healthcare technologies, and digital technologies. They range from start-ups to 
+international corporates such as IBM and Hitachi, several which are in 
+immersive technology. Currently there are around 1500 people on site, including 
+entrepreneurs, technologists, and world class scientists. working in a variety of 
+scientific fields including accelerator science, high performance computing, 
+simulation and data analytics and sensors and detectors.  
+John Leake, Business Development Manager, Sci-Tech Daresbury and Luke 
+Vanstone, Business Development Manager STFC, felt that there remained a 
+lack of understanding from other sectors about the capabilities of immersive 
+technologies – this was a sector which needed greater public visibility. Through 
+networking events, meetups and seminars, Sci-Tech Daresbury is facilitating 
+meetings between investors and businesses (and industry bodies such as 
+Digital Catapult, Tech North and the European Space Agency) to help identify 
+which services are generic (and therefore deliverable at scale) and which are 
+specific: 
+ 
+
+
+[PAGE 39]
+ 
+— 
+www.bop.co.uk 36   We are still in the early adoption stage and audiences 
+don't necessarily understand the potential and value of 
+immersive technology. We're on that journey now - and 
+we are all looking to establish its purpose and benefits.  
+ 
+  
+John Leake cites work done with Bentley Motors at the Virtual Engineering 
+Centre as a great example of how various teams have engaged with the development process. Visiting the VEC each week,  they have taken their whole 
+business on an immersive technology journey with immersive technology, 
+developing champions and expertise from within their business - from finance 
+teams to designers – and embedding its potential into their normal design and 
+development processes.  
+Leake would like to see a combined North West approach to supporting the 
+growth of the immersive sector - for us to be more joined up and gain 
+collectively as a region, and to be more visible nationally and internationally. 
+This could include training programmes, investment in user facilities for 
+business and development of a NW immersive cluster. 
+ 
+
+
+[PAGE 40]
+ 
+— 
+www.bop.co.uk 37  7. Review and analysis of the LCR immersive offer  
+Using gap and SWOT Analysis, the following chapter reviews and analyses the strengths, weaknesses, opportunities, and threats of the LCR immersive offer. 
+ 
+Key chapter insights 
+Strengths  
+ Fast-growing immersive sector 
+ Immersive companies are larger (both turnover and employment) 
+than the creative industries average 
+ Strengths in IT / software 
+ Perception that the city region is a hub of creativity 
+ Affordable workspace and lower wage costs 
+ Active ecosystem  Weaknesses  
+ Lack of strategic investors 
+ Low levels of demand from both public and private sector in city 
+region 
+ Lack of coordination of research assets 
+ Lower level of production assets than competitors 
+ Limited sector support 
+ No major conference or event focused on immersive  
+Opportunities  
+ Better coordination of public sector support – Growth Platform, 
+universities, and other key assets, such as Sci-Tech Daresbury 
+ Better promotion of sector in LCR 
+ Local Industrial Strategy and Cultural Strategy present 
+opportunities to build immersive supply chain (eg, large events; 
+venues; extending into other industry sectors) 
+ Build on existing links with, and outstanding work in museums 
+and galleries  Threats 
+ Shortage of mid and senior level creative, software and business 
+development talent 
+ Better funded and coordinated public sector and university support 
+in Bristol and Newcastle 
+ Stronger investor networks in Manchester (GC Angels) and 
+Newcastle (Northstar Ventures) 
+ More extensive range of production assets (including MediaCityUK, 
+Sharp/Space Projects) in Manchester 
+ New commissioning hubs for digital content (BBC in Manchester and 
+Newcastle; Channel 4 in Bristol) may favour local producers 
+ 
+ 
+
+[PAGE 41]
+ 
+— 
+www.bop.co.uk 38  7.1 The LCR immersive ecosystem 
+LCR has an emerging immersive ecosystem with some characteristics that 
+suggest it can develop as a sustainable, high productivity sector. There are 114 
+LCR-based companies, of whom some 70% are based in Liverpool, plus a 
+further 12 businesses from outside the region with strong connections to the 
+ecosystem.  
+The ecosystem contains companies of varying sizes and degrees of 
+specialisation. Unlike some recent reports12, this study has not limited itself to 
+‘specialist’ immersive companies (ie, those devoting more than 50% of time, 
+staffing or turnover to production of immersive content or tech.) Rather, it 
+records all companies making investments in immersive. These companies are 
+drawn from a range of sectors including digital and creative industries, but 
+including other manufacturing, and business and professional service 
+organisations.  
+ Liverpool is big enough to have opportunity and small 
+enough to have community, We are a good sized city for 
+getting things done. 
+LCR’s immersive ecosystem includes companies of all sizes, from individual 
+entrepreneurs, consultants and micro-businesses to small and medium-sized 
+agencies and production businesses to large companies which are investing in 
+immersive applications and technology. This last category includes household 
+names such as Alstom, Cammell Laird and Jaguar Land Rover, as well as 
+inward investors such as Royal HaskoningDHV. 
+Although the majority of LCR’s specialist immersive agencies and tech 
+companies are below reporting thresholds at which they have to declare fully 
+audited accounts and disclose details of turnover, evidence from LinkedIn and 
+the survey carried out as part of this study suggests that companies are larger, 
+both in employment and turnover, than the average for digital and creative 
+ 
+12 Nesta (2018). The immersive economy in the UK. https://www.nesta.org.uk/report/immersive-economy-uk/   industries; more profitable; and growing strongly. LCR is home to some of the 
+pioneers and leading lights of the UK’s immersive services s sector, including 
+companies such as Draw & Code, Uniform, vTime and Laduma. The immersive 
+supply chain also takes in larger businesses, such as production services 
+experts Ad Lib and Lime Pictures. 
+Irrespective of the sector from which the companies are drawn, LCR’s 
+immersive ecosystem operates across four main supply chains: 
+ Experience: creation of content (original IP or commissioned work) for 
+live events, digitally distributed entertainment, exhibitions, or 
+installations 
+ Applications: content and platforms in AR/VR for social media, 
+marketing, education, health, and other industrial applications, whether 
+in the form of original IP or ‘work for hire’ 
+ Originals: creating original IP that combines an immersive application 
+and a physical product 
+ Tech: R&D-focused businesses looking to develop IP in technology and 
+tools for the creation, authoring, editing, processing and distribution of 
+immersive content, products, and hardware  
+7.2 Gap analysis 
+Gap analysis was informed by the additional depth of primary and secondary 
+research gathered in the previous stages of this research, to: 
+ Provide evidence for areas in which LCR’s immersive sector has 
+distinctive strengths and specialisms. 
+ Identify opportunities presented both commercially and by existing 
+strategic economic that may impact on immersive production for the 
+region.  
+
+
+[PAGE 42]
+ 
+— 
+www.bop.co.uk 39   Highlight the gaps in which further investment is needed (eg, skills 
+development; talent pipeline; supply chain development; technical 
+infrastructure) to build capacity and create a resilient immersive and 
+experiential content ecosystem (education, production, and 
+consumption) in Liverpool City Region. 
+ Articulate external threats (political, economic, social, technological, 
+legal, and environmental factors) that might have a negative impact on 
+the existing immersive ecosystem or limits its potential growth. 
+The gap analysis took into account existing Growth Platform planning (e.g., 
+skills provision, business support and access to finance) that could help 
+accelerate growth or mitigate risks to businesses the sector; and considered 
+how the development of other digital infrastructure and connectivity might 
+enhance the competitiveness of LCR. 
+It also took account of other opportunities, eg: 
+ How might existing infrastructure investment plans take account of 
+opportunities in immersive content and technology? 
+ Is there an opportunity for LCR to host an existing national or 
+international event focusing on immersive content? 
+ How should plans for the Good Business Festival reflect opportunities in 
+immersive technology? 
+ Resilience and disaster recovery plans 
+The importance of the last of these has, of course, been massively inflated by 
+measures to address the covid-19 pandemic, which has meant the enforced 
+closure of workplaces and venues and curtailed demand for other services. We 
+address the impact of government measures to suppress the spread of the 
+virus, and the gaps within current employment and business support measures 
+as they affect XR companies and individuals, below. 
+ 7.3 Strengths 
+LCR boasts a small, but fast-growing immersive sector, with some distinctive 
+emerging specialisms (including mixed reality entertainment, spatial audio 
+technology, and applications of virtual engineering technologies) that could lead 
+to the development of one or more ‘smart specialisations’ as a source of 
+increased competitive advantage in attracting both customers and investment. 
+The perception that the city region is a hub of creativity, built on its wider cultural 
+legacy in music, games, film, television and art and the global attention focused 
+on it through football, offers XR producers here access to a range of cultural 
+commissioning opportunities for new forms and content. 
+The city region’s immersive companies are larger (both in turnover and 
+employment) than the creative industries average; growing more strongly; and 
+more profitable. 
+The city region’s workforce reflects strengths in IT and software development, 
+again benefitting from its position as one of the early centres of the independent 
+games sector. 
+Affordable workspace and lower wage costs make LCR an attractive location for 
+start-up and experimental businesses. That is reflected in a strongly collective 
+mentality shared across the sector, and an active ecosystem of formal project 
+collaboration and informal forms of knowledge exchange between businesses, 
+cultural organisations, and universities. 
+The city region’s universities –University of Liverpool, Liverpool John Moores 
+University, Liverpool Hope University, LIPA and, although outside its 
+administrative boundary, Edge Hill – all contribute to a pipeline of new graduate 
+talent and have specialist facilities and expertise to contribute to growth of the 
+XR ecosystem.  
+  
+
+[PAGE 43]
+ 
+— 
+www.bop.co.uk 40  Figure 25  Survey findings: strengths of the LCR immersive ecosystem 
+ 
+Source: BOP Consulting analysis of survey findings, 2020 (n=28) 
+
+
+[PAGE 44]
+ 
+— 
+www.bop.co.uk 41  7.4 Weaknesses 
+The survey findings make it clear that there are challenges around competition 
+for experienced immersive talent, both  between XR companies in LCR and with 
+end-user businesses in other sectors (who may be able to pay better wages and 
+offer better conditions of employment than start-ups and SMEs with limited 
+capital resources.)  
+Whilst Liverpool is growing fast, Manchester is already operating at scale, 
+presenting an additional source of competition for the same talent pool. Slightly 
+further away, but still within a 90-minute commute, Yorkshire is putting 
+significant investment into development of its XR and screen industries. 
+In this context, the lack of a ‘tech voice’ for the city region – in the way that Phil 
+Redmond has been seen as a figurehead for film and television, for example – 
+is seen as a significant gap. LCR has initiated a successful, sector-led music 
+board; Salford has created the post of ‘Chief Digital Officer’ to draw attention to 
+its ambition for MediaCityUK. LCR should explore whether one or both routes 
+could help secure additional investment. 
+Companies reported challenges around accessing finance and investment for 
+R&D and for growth. The existing path to finance imposes time commitments 
+(eg, attending generic business support programmes as a condition of receiving 
+investment  or ‘masses of paperwork’) and is not responsive to the needs of 
+small, development-led organisations. 
+‘Tagging’ immersive tech as a sub-sector of digital and creative industries, 
+rather than as a set of enabling technologies, arguably hobbles potential to 
+further develop nascent supply chain links into other industry sectors in LCR 
+which present demand and opportunities for new growth alongside those in 
+entertainment content: construction , manufacturing, life sciences and logistics. 
+Liverpool City Region lacks: 
+ A demonstrator facility to showcase the city region’s technical and 
+creative innovations in content, of the kind offered by Bristol’s Data 
+Dome or (on a different scale) Montreal’s Quartier des Spectacles  An identified hub for collaborative R&D, learning, networking and 
+investor development activity: although more than half of the sector is 
+concentrated within Liverpool’s CBD, Knowledge Quarter and Baltic 
+Triangle, there is no clearly defined hub of the sort found in  
+Manchester/Salford (the Digital Catapult Centre at The Landing) or 
+Bristol (Pervasive Media Studio) 
+ A major industry event, along the lines of Newcastle Gateshead’ 
+Thinking Digital  festival 
+ Large-scale production facilities – a volumetric studio large enough for 
+production of immersive content for commercial film, television, and 
+exhibitions 
+ A major commissioner and distributor of immersive content – 
+Manchester/Salford, Bristol and Newcastle already have (or will soon 
+have) commissioning arms of the BBC; Leeds is home to Channel 4’s 
+new headquarters. 
+ ‘Strategic’ investors who bring sector know how and experience as well 
+as money 
+ We need patient investors who can see the potential - 
+this is a core technology - with various vertical market 
+opportunities 
+
+
+[PAGE 45]
+ 
+— 
+www.bop.co.uk 42  Figure 26  Survey findings: weaknesses of the LCR immersive ecosystem 
+ 
+Source: BOP Consulting analysis of survey findings, 2020 (n=28) 
+ 7.4.1 Areas in need of specific business support 
+Figure 27  Survey findings: areas in need of support 
+ 
+Source: BOP Consulting analysis of survey findings, 2020 (n=38) 
+ 
+
+
+[PAGE 46]
+ 
+— 
+www.bop.co.uk 43  7.5 Opportunities 
+Liverpool is seen as being the ‘right size’ to nurture a successful community of 
+immersive tech and content companies: 
+ Liverpool is big enough to have opportunity and small 
+enough to have community. We are a good-sized city 
+for getting things done 
+Its legacy in music, film, video games and large public events (including sport) is 
+an important opportunity: 
+ Entertainment is a big part of the Liverpool City Region story 
+(football, music, film) and it would be great if the creative tech 
+sector were recognised as a worthy area to get behind. It not 
+only supports the entertainment sector; it also taps into all 
+aspects of our lives - and offers a wide range of inspiring job 
+opportunities   
+Both in the survey and in subsequent interviews, participants identified 
+collective approaches to skills and project development, and opportunities 
+around collaborative R&D, as the best way to grow the sector. This contrasts 
+both with the focus on the individual business as the unit of sector growth 
+emphasised in the  ‘business scale-up’ approach being advanced by other 
+sector development initiatives, including the DCMS-funded pilots of ‘Creative 
+Business Scale-up’ programmes in Greater Manchester, West Midlands and 
+West of England.  
+This appetite to develop the sector by ‘evolving together’ whilst remaining open 
+to influences and ideas from the rest of the world backs up findings in other 
+creative technology-focused work (including for University of Edinburgh and 
+Coventry & Warwickshire LEP) that collaboration of institutions, companies and individuals is the critical success factor  in a creative technology 
+ecosystem: 
+ In Vancouver, institutions seem to look to other 
+institutions for advancements or to hear what is current 
+in the tech fields. They depend on outsiders to keep 
+environment current. 
+Derrick Shaughnessy, The Sawmill, Vancouver  
+7.5.1 Develop stronger supply chains for XR across 
+LCR  
+Developing programmes along those collaborative lines would also help to 
+identify immersive tech less as a subsector of digital and creative industries and 
+more as an enabling technology across all sectors of the LCR economy.  
+Many of the larger companies identified as part of the ecosystem – Curtins, 
+Cammell Laird, Jaguar Land Rover, Royal HaskoningDHV, plus those engaging 
+via VEC at Daresbury – are influential because of their investment in the 
+development and application of XR solutions in other industry sectors – 
+construction, manufacturing, logistics. Although ‘creative’ products such as 
+games  continue to represent a significant source of demand for XR, the fastest 
+growth in its adoption is expected to be in those ‘non-creative’ sectors.  
+The indirect impact of increasing productivity and employment in those other 
+sectors may in turn be greater than the direct impact of new jobs and GVA  
+within the immersive sector. Therefore, increasing capacity and capability of the 
+immersive tech sector through intervention in development of stronger supply 
+chains across LCR is likely to demonstrate as high or higher a benefit to cost 
+ratio than business scale-up or inward investment promotion activities directed 
+within the sector. 
+In this way, the LCR immersive tech ecosystem has further potential to present 
+a positive narrative for innovation in the region.
+
+
+[PAGE 47]
+ 
+— 
+www.bop.co.uk 44  7.6 Threats 
+The final section considers what threats could stall and reverse the growth of 
+the immersive sector in Liverpool City Region and its ambitions, including what 
+threats the identified weaknesses could expose it to. 
+Financial constraints around the ability of private, public, and cultural sector 
+bodies to invest in immersive tech and content require that any plan to develop 
+and grow the sector brings together substantial funding from multiple 
+sources  in order to transform their use. At the moment, much of the available 
+funding is made available on a project basis, where the combined intervention 
+lacks the scale needed to present a distinctive and high-quality offer from LCR 
+that would in turn attract new investment. 
+The failure of Liverpool (and the North West region) to attract funding from 
+AHRC for an R&D-focused creative industries cluster has accentuated the 
+investment gap in XR between LCR and competitors in Yorkshire, West of 
+England and South Wales, adding to the historic problem of a concentration in 
+public and private sector investment in London and the South East. Public and 
+private sectors need to urgently develop shared mechanisms for the advocacy 
+of XR activity in LCR that can help attract more investment. 
+Whilst cultural organisations are expressing greater interest in developing new 
+forms of XR to engage and grow their audiences, a shift given renewed stimulus 
+by closure of venues in response to the covid-19 emergency, a key threat lies in  
+the lack of capacity to sustain the momentum of increasing partnership 
+work once funding – including the short terms stimulus of extended Arts Council 
+funding for National Portfolio Organisations - for these and similar programmes 
+ends. LCR will always face competition from other cities . Substantial efforts 
+will need to be made to convince audiences and investors of the comparative 
+merit of LCR’s offer. This means both understanding what audiences and 
+investors want  and communicating the offer successfully . Given the 
+competitive pressures from other regions outlined above, it is likely that LCR will 
+need to demonstrate an intervention at scale if XR is to play a significant role in 
+helping Liverpool re-establish, renew, and grow its cultural and visitor economy  There is also a real risk that levels of public funding for culture, already 
+expected to decline as changing demographics place additional strains on 
+government and local authority services in health and social care, will be further 
+undermined by financial retrenchment once the immediate crisis has passed. To 
+do so will require actors across the board to recognise the value of joint activity 
+and communication, and their ongoing willingness and ability to engage. 
+Related to this is the threat of key stakeholders not recognising existing 
+opportunities and losing the chance to band-waggon on to those .  
+More than these individual threats, however, the biggest threat to the immersive 
+supply chain is in not seizing the moment: 
+ Not capitalising on the opportunity we currently have - to 
+be seen as hotbed of innovation in this space. 
+Hesitation and lack of action will mean we miss our 
+moment to showcase the region’s talent and other 
+clusters will be created elsewhere. 
+
+
+[PAGE 48]
+ 
+— 
+www.bop.co.uk 45  8. Covid-19 emergency 
+It is not clear at time of writing (April 2020) what the impact of the covid-19 
+emergency has been, will continue to be or whether the effects have been felt 
+consistently across the immersive sector. The most recent conversations with 
+immersive sector businesses and organisations suggest that: 
+ Funded projects, particularly in collaborative R&D, are experiencing 
+delays and require the agreement of funders to revise timescales 
+ New product release timetables (for both online and physical products) 
+have been postponed 
+ There has been volatility in demand for ‘work for hire’, with demand for 
+promotional campaigns and applications utilising XR from some sectors 
+(including construction) seeing an increase whilst other consumer 
+product sectors have seen a fall 
+ Some employers have been able to make use of ‘furlough’ provisions; 
+but worry that these will be too short term to address continuing volatility 
+over the next 6-18 months (especially as many ‘work for hire’ projects 
+are delivered over a 4-5 week timescale), meaning that there is a risk of 
+a second and subsequent waves of companies having to lay off staff 
+ That in turn risks losing capacity and skills built up over several years, 
+which may be harder to get back once demand returns to its pre-crisis 
+trend, leading to a shrinking of the sector, a relative weakening of the 
+competitive advantages inherent in its current workforce and a long-
+term loss of opportunities for inclusive growth in a high value 
+employment sector within LCR 
+ Immersive companies are subject to the same difficulties in accessing 
+the CBILS (business interruption loan) scheme and the same low levels 
+of acceptance as other businesses  Many smaller businesses will be sub-letting or in shared workspace 
+where business rates are included within rental payments, and 
+therefore not eligible for the business rates relief grant 
+ Owner-directors who pay themselves through a mixture of salary and 
+dividends are unable to access either employment-based reliefs or 
+support for self-employed people 
+ Freelance workers who entered the workforce in the last eighteen 
+months, or who have become self-employed in that time, are similarly 
+unable to access either employment-based reliefs or support for the 
+self-employed at this time; given the high levels of dependency on 
+freelance workers highlighted in the survey, this could have a lasting 
+effect on the supply of skilled labour in XR  
+ Measures announced to date by the Combined Authority for film, 
+television and music do not extend to XR businesses 
+ LCR’s XR content creating organisations reflect the reliance on ‘live’ 
+events found across the city region’s cultural sector and visitor 
+economy; too few businesses have been able to commercialise IP for 
+online distribution that would have given them an alternative revenue 
+stream and helped mitigate risks of disruption to commissions for live 
+entertainment content at this time 
+ 
+
+[PAGE 49]
+ 
+— 
+www.bop.co.uk 46  9. Conclusions, priorities, and 
+recommendations 
+9.1 Categories / conclusions 
+This chapter sets out the overarching concepts of the vision for the development 
+of immersive tech across LCR as well as stakeholders whose needs must be 
+considered. 
+Overarching categories and priorities: 
+ People – supply and demand for skilled people 
+ Places – where is potential ‘bubbling up’? Where are the assets which 
+can help leverage R&D&I? 
+ Policies  – how do city region policies and investment support XR 
+development, strengthen supply chains into all parts of the LCR 
+economy and exploit the potential of XR to contribute to a model of 
+inclusive growth? 
+ Promotion  – including links to city marketing, cultural strategy, visitor 
+economy – the ways in which XR can act as a ‘flagship’ for innovation 
+and culture in Liverpool City Region, and how its links to Liverpool’s 
+global cultural legacy can strengthen the cultural and visitor economy 
+offer whilst attracting new inward investment? 
+9.2 Priorities and recommendations 
+Specific goals that LCR must address to achieve a viable and sustainable 
+proposition for immersive sector sustainability and growth, underpinned by 
+broad strategic objectives that can be accomplished through collaboration 
+between private companies, universities, and public sector. 9.2.1 People 
+The success of the various initiatives, organisations, and facilities we have 
+looked at is built upon skilled personnel with an understanding of the technology 
+(and the market for XR products and services), not on spaces with great ‘tech’ 
+by themselves. The priorities and drivers for inclusive growth are to: 
+ Attract and retain immersive talent 
+ Develop the ecosystem  
+9.2.2 Places 
+Importance of place 
+ Identify existing assets  
+ Develop LCR plan for continuing transformation and inclusive growth 
+9.2.3 Policies 
+Strategic underpinnings of ecosystem growth 
+ Strengthen investment portfolio from both public and private sector 
+ Foster innovation 
+9.2.4 Promotion 
+Raising awareness and aspiration of LCR immersive sector 
+ Promote the value and potential of LCR immersive tech and content 
+ Strengthen Liverpool as a location for global companies 
+ 
+
+[PAGE 50]
+ 
+— 
+www.bop.co.uk 47  10. Initiatives 
+10.1 People 
+10.1.1 Attract and retain immersive talent 
+ Identify and address skills gaps 
+A More in-depth survey of skills requirements 
+B LJMU to lead EPSRC application for funded research to look into future 
+skills requirements, to provide Growth Platform and other funders with  
+ Build skills pipeline  (from schools, FE, apprenticeships, HE, and private 
+sector training) 
+C Inclusive growth – schools, skills careers advice and apprenticeships 
+(along lines of Music Sector Development Plan) 
+10.1.2 Grow the ecosystem 
+ Identify convenors  
+D Combine existing immersive groups into a Liverpool City Region XR 
+Board with open and transparent recruitment and selection processes 
+to provide single voice for the sector 
+E Role of universities: in convening sector forums; in helping strengthen 
+supply chains with end users in industries across the city region; in 
+leading partnership applications for funding, including collaborative R&D 
+and strategic cluster development (eg, any further rounds of funding for 
+AHRC creative clusters 
+F Assess feasibility and benefits of a North West regional cluster, 
+convened by SciTech Daresbury, to offer increased benefits of scale, 
+visibility, and a ‘bigger target’ for national funders 
+G Forge better connections to existing regional, national, and international 
+organisations and agencies H Connect to existing city and LCR boards / support agencies for culture, 
+film, and music,  
+I Extend film/VFX ecosystem along the model of engagement 
+demonstrated by Screen Yorkshire, which is very much involved with 
+XR Stories, and integrates coders, storytellers, and performance-based 
+venues 
+J Develop supply chain relationship with other LCR sectors 
+10.2 Places 
+10.2.1 Improve access to existing facilities 
+K Off campus offer - extend R&D&I support from existing orgs.to 
+businesses across LCR (including individual entrepreneurs, artists, and 
+cultural organisations). 
+L Support for development of co-working and lab spaces – CIC model, 
+University incubators and accelerators Could Immersive Liverpool have 
+a hot desk at SciTech Daresbury? This would provide them with a listing 
+on Campus and therefore a potential to join in Investor visits and 
+conversations? 
+ Provocation  
+In engaging universities, it is better to start work with individual 
+academics and then look to develop an overarching university 
+framework: this represents a much swifter, leaner, easier way to develop 
+an experimental and collaborative project and R&D ecosystem.  
+For Sci-Tech Daresbury (including VEC, MTC), Digital Innovation Factory 
+and other university departments, the challenge is the same: what 
+facilities do they have, and what facilities can they share with businesses 
+not on campus? 
+ 
+
+[PAGE 51]
+ 
+— 
+www.bop.co.uk 48  10.2.2 Develop LCR plan for continuing transformation 
+and inclusive growth 
+M Map potential ‘bubbling up’ – where will the next gen hubs be? 
+N Demonstrators – funding for feasibility and development of OBC for up 
+to three demonstrator facilities (site-based and mobile) 
+O Potential for a central site – an Institute of Creative Technology – to 
+convene and project LCR XR activity and provide a hub for other 
+‘spokes’ of XR activity across LCR 
+P Venue(s) – fund demand study, feasibility, options assessment and 
+OBC for a new, large scale XR entertainment venue of national and 
+international significance 
+10.3 Policies 
+10.3.1 Strengthen investment offer 
+Q Growth Platform and MSIF to produce ‘end to end’ prospectus for public 
+sector funding (from start up to IPO, encompassing grants, debt, 
+crowdfunding, VC/PE, mezzanine finance) 
+R Explore options to strengthen relationships between scale up 
+businesses and networks of strategic private sector funders in city 
+region and beyond  
+S Observatory to carry out further research on: 
+ What’s needed by the local sector, including e.g. data analysis, 
+interviews with sector representatives  
+ Horizon scanning 
+ Competitor analysis/ review of further comparators. 10.3.2 Foster innovation 
+T Programme built around ‘playful approach to R&D’ – look to invest in 
+and use SIF funding as match to other funders (ACE, Digital Catapult, 
+Creative England, UKRI) to invest in labs and a distinctive, exploratory 
+and ‘playful’ approach to project development that builds Liverpool’s 
+reputation as a creative lab and springboard for new content and forms: 
+ Embrace chaos: how else do completely new ideas 
+arise? Make quickly: this space is about making not just 
+talking. Test, prototype: don’t just go for finished work. 
+10.4 Promotion 
+10.4.1 Promote LCR immersive (outward) 
+U Establish regular calendar of events and conferences to provide a ‘shop 
+window’ for LCR immersive companies and a meeting point for local, 
+national, and regional companies 
+V Establish international exchanges with other clusters – Laval, Waterloo 
+(Toronto), Vancouver, Espoo (Finland), Tel Aviv etc 
+W Small grants programme to support LCR companies’ presence at 
+international events (along lines of Music Industry Sector Dev plan) 
+X Integrate immersive content and sector events within the city region’s 
+cultural offer, marketing and visitor economy plans 
+10.4.2 Develop inward investment offer 
+Y Soft landings for ‘mobile projects’, whether international or elsewhere in 
+the UK, with subsidised space and support within relevant workspace 
+Z Showcasing LCR’s smart specialisms in immersive tech at sector and 
+other major international events (eg, MIPIM, Expos)
+
+
+[PAGE 52]
+ 
+— 
+www.bop.co.uk 49  11. Implementation strategy 
+The covid-19 emergency has imposed an urgent and essential stage of recovery and re-establishment of the immersive sector and ecosystem. This calls for all parts of 
+the ecosystem to come together in a clear five-step plan: 
+Figure 28  Five-step plan to recover and re-establish the LCR immersive ecosystem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: BOP Consulting (2020)Emergency 
+response: 
+identify need, 
+restore 
+capacity and 
+communityAdvocacy and 
+governance : own 
+and agree 
+management of 
+solutionsSector 
+development:
+attract and retain 
+talent, put sector 
+on inclusive growth 
+footingMarket 
+development : 
+develop supply 
+chain links and 
+place marketing to 
+boost demand and 
+productivityEcosystem 
+development:
+invest, grow and 
+build national and 
+international 
+reputation of LCR 
+as a global hub 
+and centre of 
+excellence for XR
+
+[PAGE 53]
+ 
+— 
+www.bop.co.uk 50   
+11.1 Covid-19 emergency response 
+Immediate measures to mitigate risks to businesses, employees and freelance 
+workers posed by the covid-19 emergency 
+Tactical measures - short term, low cost measures to underpin employment in 
+XR (and games) and allow companies to continue to develop projects (both for 
+clients and their own IP). This would resemble measures just announced for the 
+film, television and music sectors within LCR, drawing on existing funding (SIF, 
+local regeneration funds) where possible, and using this as leverage for 
+additional appeals to national government and arms-length bodies, eg UKRI (up 
+to £1m, with immediate effect.) 
+11.2 Advocacy and governance 
+Establishing leadership and advocacy from within the XR sector 
+Establish an XR and Immersive Tech Board for Liverpool City Region – 
+adopting governance principles and recruitment guidelines developed for the 
+successful Music Board – whose (appointed) chair would be a tech 
+spokesperson for the LCR ecosystem. In the short term, the chair should have 
+authority to convene of discussions with all parts of the public sector business 
+support and private sector investment infrastructure to coordinate crisis relief 
+and recovery measures in the short term, and act as advocate in discussions 
+with government and other arms-length bodies.) In short to medium term, the 
+chair would lead on recruitment of the rest of the board and development of a 
+long-term strategy and business plan for the sector. 
+11.3 Sector development 
+Talent attraction and retention and inclusive growth – linked programmes of 
+support, requiring individual business cases and investment of £1-5m over a 
+five-year period. Skills development – extend employment and apprenticeship support measures 
+in the Music Industry Sector Development bid to immersive sector businesses 
+Support for development of co-working and lab spaces – CIC model, University 
+incubators and accelerators Could Immersive Liverpool have a hot desk at 
+SciTech Daresbury? This would provide them with a listing on Campus and 
+therefore a potential to join in Investor visits and conversations? 
+11.4 Market development 
+Supply chain and place-based promotion 
+SciTech Daresbury advocates a joined-up approach across the North West 
+region (inc VR Manchester) to give a comparable base to the scale of Yorkshire 
+and XR stories. Would need further coordination (eg in the form of an AHRC 
+CICP bid or similar) – would LCR partners and universities really invest the 
+political capital to do this? 
+ 
+11.5 Ecosystem development 
+High Performance Opportunities, £5m plus, 3-30 years 
+Feasibility study to establish viability of a large-scale immersive entertainment-
+focused venue/ attraction. 
+XR Board to convene a working group including the Universities, STFC, 
+SciTech Daresbury and local authorities to determine viability and potential 
+location for a network of hubs offering workspace, business and investment 
+support and enhanced digital infrastructure across the city region. 
+SciTech Daresbury advocates a joined-up approach across the North West 
+region (inc VR Manchester) to give a comparable base to the scale of Yorkshire 
+and XR stories. Would need further coordination (eg in the form of an AHRC 
+CICP bid or similar) – would LCR partners and universities really invest the 
+political capital to do this? 
+ 
+
+[PAGE 54]
+ 
+— 
+www.bop.co.uk 51  Appendix 1 - Methodology 
+Immersive content and technologies encompass a range of sectors, job titles, 
+skills, and markets which, because of their novelty and variety, cannot be 
+summarised through analysis of Standard Industrial Classifications (SIC codes) 
+and Standard Occupational Classifications (SOC codes) alone. To address 
+these complexities, this study took a three-stage approach to the mapping of 
+companies, assets, and investors. It employed a combination of primary and 
+secondary sources, including a bespoke database of companies identified by 
+Artificial Intelligence (AI) web search, to provide a knowledge base that was 
+then analysed for evidence of immersive activity.  
+The methodology for this study built upon previous sector analysis of UK 
+immersive content workforce and companies developed for Innovate UK as part 
+of a three-year evaluation of the Audience of the Future (AotF) project. It 
+extended that analysis to include agencies, producers and technology providers 
+in adjacent markets and end users in other industrial sectors - including 
+advanced manufacturing, education, health, construction, and logistics  - to 
+provide an updated and more comprehensive picture of immersive employment 
+and businesses within the Liverpool City Region. 
+ 
+Output Approach  
+Benchmarking and 
+horizon scanning Taken in two parts: initial desk-based  market 
+assessment and horizon scanning  to establish 
+market context for immersive activity in LCR; and, 
+following sector mapping, a further stage of 
+benchmarking  the scale and attributes of the 
+immersive sector in LCR against comparator cities  
+Mapping of sector 
+supply chains and 
+capacity An initial phase of desk-based research, using a 
+methodology developed and refined through 
+immersive sector analysis for Digital Catapult and 
+Innovate UK, to map the scale and significance  of 
+immersive supply chains and workforce within LCR, 
+complemented by primary research  with industry and other stakeholders to establish specialisms, facilities 
+and opportunities to grow the sector. 
+Gap analysis Analysis of findings to establish a clear picture of the 
+immersive ecosystem in the city region, accompanied 
+by a gap analysis to highlight weaknesses that could 
+be addressed by further intervention or investment 
+Recommendations A report summarising the findings and 
+recommendations in a clear and jargon-free way, 
+providing a document that can inform future research, 
+policy development or investment decisions 
+ 
+Three-stage approach 
+Stage 1 - identify 
+BOP and Curator have developed and refined an approach to mapping 
+immersive sectors through secondary research that draws on multiple sources   
+ Company data: Companies House and other proprietary sources of 
+financial data, parsed via DueDil  
+ Workforce: LinkedIn and Office of National Statistics (ONS) data, via 
+online access to the Business Register and Employment survey (BRES) 
+ Private sector investment: Crunchbase  
+ Research and innovation: (business and academic): analysis of UK 
+Research & Innovation Grants and Research Database (GRAND) and 
+Arts Council England investment 
+ Business community and ecosystem:  analysis of social media including 
+Meetup groups, Twitter, Facebook, and Instagram; trade organisations 
+and directories 
+These data build upon a bespoke database of companies identified by a n 
+Artificial Intelligence (AI) web search to give evidence of: 
+
+[PAGE 55]
+ 
+— 
+www.bop.co.uk 52   Number, size, age, and clustering of companies working across all part 
+of the immersive value chain in Liverpool City Region 
+ Size, experience, and analysis of key job roles within the immersive 
+workforce in Liverpool City Region and its travel to work area (TTWA) 
+ Recruitment trends (through analysis of ‘new starters’ via LinkedIn) 
+ Company website addresses 
+ Public funding for R&D activity in companies and universities in LCR 
+ Private sector funding for immersive companies  
+ 
+Core to the mapping of the skilled immersive workforce in LCR was an in-
+depth analysis of LinkedIn data. LinkedIn was used as a huge sample 
+frame into which a large proportion of the workforce  - 26 million UK users 
+to date - has opted to share information about the industry they work in, 
+their skillsets, job roles and experience. This mitigates the risk of low 
+response rates in other forms of sampling – including ONS data and online 
+surveys – to provide a more comprehensive and up-to-date record of 
+industry activity, skills, experience, and workforce trends. 
+This method:  
+ Can help define workforce experience 
+ Allows for key word search against individuals’ skillsets  
+ Identifies the top regional employers across the immersive value 
+chain. 
+ 
+Stage 2 – assure 
+Keyword search was used to assure our initial findings.  This stage allows us to ensure that the scale of the immersive cluster was not 
+overstated or understated – e.g. by removing  ‘false positives’, dissolved 
+companies etc. This process: 
+ Identifies all the businesses that could fall within scope 
+ Confirms that the businesses identified are active 
+ Confirms that the company is undertaking immersive activity 
+ Provides evidence of addresses of business premises (i.e., is the 
+business operating within LCR) 
+ Of the businesses that are no longer active, seeks to identify any that 
+have been acquired or merged (itself an indicator of potential growth 
+ambition) rather than just closed 
+ Checks whether the businesses that are dormant or have been 
+dissolved are continuing to trade under a different name or as part of 
+another group. 
+Web search also provided insight into other kinds of immersive activities, e.g.: 
+ Other kinds of ‘non-business’ activity (e.g., projects put together by 
+individuals or other ‘special purpose vehicles’, including in cultural 
+organisations or the public sector, rather than under the auspices of a 
+registered business 
+ Evidence of investments in research, innovation and development not 
+identified thorough analysis of public and private sector investment 
+databases (Gateway to Research and Crunchbase) 
+ 
+Stage 3 – Synthesise 
+Bringing together the mapping with the desk research, findings of an online 
+survey, interviews with industry and public sector bodies and case studies of 
+organisations within LCR to produce the final report. 
+
+[PAGE 56]
+ 
+— 
+www.bop.co.uk 53  References 
+Singh N., Singh S. Virtual Reality: A brief survey . International conference on 
+information, communication & embedded systems (ICICES), 2017 
+Mateos Garcia J., Stathoulopoulos K., Thomas, N., The immersive economy in 
+the UK. Innovate UK, 2018  
+Lakka E., Malamos A.G., Pavlakis K. G., Ware J. A., Spatial Sound Rendering – 
+A survey . International Journal of Interactive Multimedia and Artificial 
+Intelligence, Vol. 5, Nº 3, 2018. 
+Porcheron M., Fischer J.E., Reeves S., Sharples S ., Voice Interfaces in 
+Everyday Life.  Proceedings of the 2018 CHI Conference on Human Factors 
+in Computing Systems, 2018 
+Laurella C., Sandströmc C., Bertholde A., Larssone D., Exploring barriers to 
+adoption of Virtual Reality through Social Media Analytics and Machine 
+Learning – An assessment of technology, network, price and trialability.  
+Journal of Business Research 100, 469–474. 2019 
+Immersive UK and Digital Catapult, The immersive economy in the UK 2019  
+Pwc, Seeing is believing. How virtual reality and augmented reality are 
+transforming business and the economy . 2019 
+Global Virtual Reality Market Size is Growing With a CAGR of 34.5% During the 
+Forecast Period of 2019 to 2025 , Bloomberg, October 2019 
+Virtual Reality Market Size, Share & Industry Analysis , Fortune Business 
+Insights, 2019 
+Wang D., Ohnishi K., Xu W., Multimodal Haptic Display for Virtual Reality: A 
+Survey, ieee transactions on industrial electronics, vol. 67, no. 1, January 
+2020 
+Wallace B., Predictions for the Future of Augmented Reality , 2018 
+https://hackernoon.com/predictions-for-the-future-of-augmented-reality-
+63c7b8c9d794?gi=d59b61d1f5b5   3D Audio Market, Size, Share, Outlook and Growth Opportunities 2019-2026 , 
+Data Intelligence, 2020 https://www.datamintelligence.com/research-
+report/3d-audio-market  
+ 3D Audio Market Size, Share & Industry Analysis by component, by End-use 
+and Regional Forecast, 2019-2026, Fortune Business Insights, 2020 
+https://www.fortunebusinessinsights.com/3d-audio-market-102085 
+ Haptic Technology Market by Component (Actuators, Drivers & Controllers), 
+Feedback (Tactile, Force), Application, and Region - Global Forecast to 
+2022 https://www.marketsandmarkets.com/Market-Reports/haptic-
+technology-market-443.html 
+Speech And Voice Recognition Market Worth $31.82 Billion by 2025, 2018 
+https://www.grandviewresearch.com/press-release/global-voice-recognition-
+industry  
+Immersive Authority: What is immersive technology? 
+http://www.immersiveauthority.com/explain-immersive-technology/, 
+accessed 31 March 2020 
+JISC: Getting started with immersive technology 
+https://www.jisc.ac.uk/guides/getting-started-with-immersive-technology, 
+accessed 31 March 2020 
+Whatis.com:Mixed reality (hybrid reality, extended reality) 
+https://whatis.techtarget.com/definition/mixed-reality, accessed 31 March 
+2020 
+ 
+  
+
+[PAGE 57]
+ 
+— 
+www.bop.co.uk 54   
+  
+ 
+ 
+ 
+   
+    
+ BOP Consulting is an international consultancy 
+specialising in culture and the creative economy. 
+ 
+BOP convenes the World Cities Culture Forum  
+(WCCF), an international network of more than 
+35 cities. www.worldcitiescultureforum.com London 
+Henry Wood House, 2 Riding House Street,  
+London W1W 7FA 
+ 
+Edinburgh 
+16 Young Street, Edinburgh, EH2 4JB 
+ 
+Shanghai 
+213 – 214, No. 585 Fuxing Middle Road, 
+Shanghai 200025, China Web 
+www.bop.co.uk  
+ 
+Twitter 
+@BOP_Consulting 
+ 
+Blog 
+www.bop.co.uk/articles   
+ 
+   
+    
+ BOP Consulting is an international consultancy 
+specialising in culture and the creative economy. 
+ 
+BOP convenes the World Cities Culture Forum  
+(WCCF), an international network of more than 
+35 cities. www.worldcitiescultureforum.com London 
+The Office Group, 2 Riding House Street, London, W1W 7FA 
+ 
+Liverpool 
+Elevator, 29-31 Parliament Street, Liverpool L8 5RN 
+ 
+Shanghai 
+213 – 214, No. 585 Fuxing Middle Road, 
+Shanghai 200025, China Web 
+www.bop.co.uk  
+ 
+Twitter 
+@BOP_Consulting 
+ 
+Blog 
+www.bop.co.uk/articles  

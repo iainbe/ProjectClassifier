@@ -1,0 +1,831 @@
+
+
+
+Contents
+Executive summary	4
+1.	Approach and methodology	8
+1.1 Geography	8
+1.2 Methodology and terminology	8
+1.3 BOP Background	8
+2.	Liverpool’s Music Economy: Scale and Significance	9
+2.1 Turnover	10
+2.2 Employment in core music sectors	13
+2.3 Profile of music enterprises	15
+3.	Trends	16
+3.1 A fast-growing sector of the economy	16
+3.2 How Liverpool compares to the UK as a whole	16
+3.3 Distinctive elements of Liverpool’s offer	17
+3.4 Competition between the music sector and other users for strategic locations	17
+4.	SWOT of Liverpool’s music economy	19
+5.	Findings	22
+5.1 Liverpool, Music City?	22
+5.2 Our findings from consultation	23
+6.	Scenarios	28
+6.1 Scenario 1 – Do nothing	28
+6.2 Scenario 2: Facing up to our responsibilities - from organic growth to structural change	29
+6.3 Scenario 3: Innovation and renewal - Liverpool, World City of Music	30
+7.	Strategic choices	31
+7.1 Strategies of competitor cities and other UNESCO World Cities of Music	32
+8.	Recommendations	35
+8.1 Strategic recommendations	35
+8.2 Operational recommendations	38
+8.3 Capital projects	41
+8.4 Inclusive growth	41
+Annex 1 – Methodology - turnover	42
+Annex 2 – Methodology – employment	44
+Annex 3 - List of consultees	45
+Annex 4 - Music Education provision	46
+Bibliography and references	49
+Acknowledgements	51
+
+Executive summary
+We commend Culture Liverpool and the City Council for taking the initiative to develop a Liverpool City of Music strategy. We are delighted to have been asked to do the work.
+We’ve taken a rigorous approach to mapping the sector, including ground-breaking analysis of the scale and significance of the music sector within a single region. 
+We have built upon the experience of an industry advisory board drawn from all parts of the music sector and education in Liverpool; and added to that findings from a sector-led consultation exercise carried out in the summer and a comparison of Liverpool with other UK and international music cities. More than sixty individuals from over fifty organisations took part in depth interviews or round tables as part of our consultation.
+Liverpool is a music city with high levels of recognition amongst UK and international audiences. As recently as 2015, this was recognised in the award of UNESCO World City of Music status. Our analysis shows that its reputation, which is arguably much greater than that of any other city of comparable size in the Northern Hemisphere, is in many ways deserved. 
+Liverpool’s music economy is increasing in scale and significance. The core music sector generates over £100m in turnover each year and employs 2,330 people. Critical to its success is a vibrant festivals and live music offer worth over £48m per annum.
+The city boasts a clutch of high growth businesses across different music sectors – Adlib, Sentric, Ditto, Sound City, Modern Sky – as well as a major arena venue, anchoring the commercial music offer and bringing opportunities that could simulate further investment and growth. 
+The Royal Liverpool Philharmonic (RLP) is a major asset – it directly employs 250 people and contracted an additional 349 freelance musicians in 2016/17, when some 270,000 people attended RLP events, contributing to a turnover of £10.9 million.
+The Beatles’ legacy underpins an additional £98m per annum from the music visitor economy – and the number of visitors attending Beatles attractions has grown year on year for a decade.
+And the city benefits from a strong and diverse higher education sector with four universities, including the Liverpool Institute for Performing Arts (LIPA), and a range of undergraduate and postgraduate provision focused on developing careers in music as much as academic study
+The combination of heritage and a music sector that has strengths across contemporary and classical genres is reflected in Liverpool’s status as a UNESCO World City of Music – but there are concerns about the sector’s sustainability.
+Commercial pressures on venues – particularly risk of displacement – threaten the vibrancy and relevance of live music
+Fragmentation of responsibilities and lack of strategic planning and coordination across the public sector means that public resources are inefficiently allocated – as a result, sector support, marketing and inward investment are all sub-optimal
+Lack of sector voice in investment decisions undermines both the live music and visitor economy offer
+The industry does not represent the diversity of the city region and its communities
+Cuts to public funding mean that public bodies will need to re-prioritise and, in some areas, reduce support for music
+Cuts to education falling particularly hard on arts subjects, including music, increase the risk of exclusion of individuals and whole communities from the opportunity to pursue a career 
+These challenges remind us that music exists in a volatile and challenging political and commercial environment. Preserving the ‘status quo’ will see a decline in some or all parts of the sector, as levels of public funding continue to fall, competition increases, and uncertainties around Brexit limit opportunities for expansion and investment. Therefore, despite the evidence showing that music has a growing scale and significance within Liverpool’s economy, ‘doing nothing’ is not an option that we can recommend.
+We have set out three different future scenarios to help the reader understand the challenges and opportunities for the music sector in Liverpool; and drawn upon the expertise within the city and the experience of other cities with music development strategies to frame a set of recommendations that, we believe, will combine to underpin, project and magnify Liverpool’s global status and build opportunities for individuals and businesses from all the city region’s communities to pursue artistic and entrepreneurial opportunities in the music industry.
+These inform a series of strategic, operational and aspirational recommendations. 
+Strategic recommendations
+Liverpool’s music businesses need a stronger voice in local and regional decision making. We recommend that Culture Liverpool take a lead in helping to establish an industry-led structure - the Liverpool City of Music Board - to set strategy and advise and scrutinise quality and coordination of interventions by public sector and institutional actors.
+The group of industry and institutional representatives that came together in the production of the “Liverpool Music City?” report and the advisory group for this study are embryonic structures, already in place, that could form the basis of a sector-led Board, that would enhance cohesion and coordination and minimise the risk of unnecessarily duplication of structures and initiatives between public and private sectors. With appropriate support to develop governance and capacity, the formation of the Liverpool City of Music Board should be accompanied by a review of existing industry/heritage advisory groups with a view to consolidating them within the new structure, removing duplication and better aligning the objectives for which existing groups were established with new realities of city region governance.  
+Once constituted, Liverpool City of Music Board should have lead on development of key elements of the City of Music strategy:
+A sector-led strategy, backed by all local government and economic development agencies and non-departmental public bodies, to underpin, preserve and sustain growth in live music and other core music sector activities
+Music and education sectors to come together with a plan to increase engagement in music and investment in and development of talent from all communities across the city region.
+Engagement with Apple Corps to secure agreement on the use of Beatles-related IP rights in order to honour the contribution is has made to the city over six decades, to optimise revenue-generation from the visitor economy (including export, in the form of international exhibitions), more effectively preserve the legacy of the Beatles for future generations and invest in building music infrastructure and developing future talent.
+Measures to develop Liverpool as a music industry hub include a more strategic inward investment offer focused on the label and publishing sector; and proposals to develop a national centre of excellence for production skills, focused on the shared capacity and needs of the Royal Liverpool Philharmonic and private sector production services businesses.
+One of the major concerns expressed was the threat to existing music venues from consents for new residential developments. We endorse the ‘Liverpool, Music City?’ report’s recommendations that Liverpool adopt ‘Agent of Change’ principles in assessing planning applications in sensitive areas. This forms part of a placemaking and promotion strategy that would look to reconcile the demand for new development to recognise the need to maintain provision of suitable and affordable creative workspace, which in turn would reinforce distinctive character and emerging clustering of music businesses in existing music districts within the city centre, Ropewalks, Baltic Triangle and Ten Streets.
+There was a widespread concern that the quality of the visitor experience and management of public realm around heritage sights (including critical entry points such as Mathew Street and Pier Head, neighbourhoods such as Penny Lane and Strawberry Field, and national heritage including the childhood homes of Lennon and McCartney) needs to be raised; so that the City of Music offer can be made integral to city marketing for both visitor economy and inward investment.
+
+Operational recommendations
+Our research identified areas in which public sector engagement with and support for the music sector could be better coordinated. We make a number of recommendations that relate to way in which the public sector engages with and promotes the city’s music offer, including:
+Set up Liverpool Music Office (run along lines of, and mentored by, Liverpool Film Office) to streamline engagement between music sector and investors and all statutory functions of Liverpool City Council (and other local authorities across the city region).
+Within that, integrate (the Council-owned) ACC Liverpool’s capacity and capability in ticketing, promotion, venue management and collation and analysis of data within a service offer to independent promoters and venue owners, coordinated through the Liverpool Music Office.
+Culture Liverpool should review its current operations and seek to emphasise its role as an ‘executive producer’ rather than a promoter, building on its strategic partnership working, coordination and joint marketing capabilities.
+Develop a shared calendar for promotion of live music, festivals, music heritage and the visitor economy.
+A review of business support, access to finance and support for R&D to ensure that the potential to grow the city’s music economy is fully exploited.
+Establishing a sector observatory to ensure that the City of Music strategy and associated action plan is achieving its key performance indicators
+Look into the feasibility of a new signposting and wayfinding strategy to link and enhance the live music experience for residents and visitors alike.
+The next stage of development would require detailed feasibility studies to establish the costs and resource available for these proposals.
+Aspirational capital projects
+The city’s music organisations are brimming with bold and imaginative proposals that would address gaps in the city’s live music venue infrastructure; improve the public realm in key tourist sites; develop new showcase facilities for heritage; and increase the capacity for music education and industry training to provide an accessible ‘escalator’ of education, rehearsal and recording facilities, supported by industry mentors, to provide development opportunities for emerging artists from all communities.
+Individually, we believe that these all have potential to attract additional investment and create new jobs and GVA in the City Region. Taken together, these would set Liverpool’s status as a UNESCO City of Music in context of both its past glories and future ambitions.
+We recommend that City Region partners look at the feasibility of these proposals both as individual projects and as part of a strategic programme that would form a transformational strand of the Liverpool City Region Combined Authority Strategic Investment Fund activity.
+Inclusive growth
+There is a duty on the public sector and the music sector to work together to build social capital, recognising the interplay between the history and heritage of diverse local communities, cultural and commercial organisations, to achieve inclusive growth.
+Historically, the diversity of the people and communities of Liverpool was identified – rightly - as a strength and a source of potential for the music industry. The influence of music of black origin on The Beatles is a case in point. But evidence from consultation reveals ongoing, and in some cases worsening, challenges around diversity. It is essential that music venues take a more positive stance on promotion of music of black origin, and that the industry as a whole improves the recruitment, retention and advancement of women, BAME, disabled people and those from less advantaged backgrounds to remain economically and creatively competitive.
+This calls for greater engagement with local community-based organisations – such as Heritage Development Company Liverpool – to ensure that community views are respected, and access ensured.
+The sector has expressed its willingness to work with education and other public services, such as the NHS, in applying the benefits of music to health and wellbeing. This has a mutual benefit in providing new economic opportunities for musicians, and in renewing the talent base for the sector.
+Seizing the opportunity
+Liverpool’ year as European capital of Cultural 2008 created an increased awareness of all aspects of its cultural offer – music, and the music tourism business, is just one sector that has benefitted from that over the last decade. There is now a shared awareness of the need to lock in some of these gains, whilst renewing the city’s strategy and structures to sustain and grow the music economy.
+There are structural challenges, but opportunities too in the Devolution of new powers, including decision making in culture, planning, housing and transport, from Whitehall to the Liverpool City Region.
+There is a feeling abroad that this is a time to seize the initiative, reflected in the level of attention and urgency behind public and private efforts to translate the prestige of UNESCO World City of Music status into benefits to the music sector, the visitor economy and communities and musicians across the city region.
+Partners and stakeholders from all sides of the music sector, and across the city region, recognise that this proposition is all about scalability, and is clearly more transformative when delivered on a city regional basis. We hope that our recommendations will provide both a strategic framework and the impetus to translate the energy and will of all partners into transformational action.
+
+Approach and methodology
+Culture Liverpool, on behalf of Liverpool City Council, commissioned this report on the music sector of the city. The report outlines the importance of the sector to the city (region), provides an analysis of how the sector currently operates and suggests ways of enabling it to reach its potential to meet City and City Region priorities.  An action/project plan is included along with a scoping of available funding. The report examines the current context and latest developments, recommends a way forward within available resources that will build the music sector and ultimately, improve the future cultural offer of the city to attract visitors, talent and investment.
+Geography
+The geographical focus of this report is Liverpool and the Liverpool City Region. Unless otherwise stated, statistical evidence refers to the whole City Region (Liverpool, Wirral, Knowsley, St Helens, Sefton and Halton local authorities.)
+Methodology and terminology
+We have used a diverse range of sources to estimate the scale of the music economy in Liverpool.
+The Advisory Board developed and agreed a definition of Liverpool’s music economy. This definition is composed of a series of different elements straddling the live, recorded and heritage music economies. In respect of each of these elements, distinct methodologies have been employed to quantify the revenue and employment generated by these activities within Liverpool. These distinct methodologies are explained in greater detail within the report.  
+Literature review
+We have undertaken a literature review covering music trends, planning and music cities across the world. We have also reviewed the latest policy recommendations for growing local creative clusters. 
+Findings from consultation
+We have complemented our own research with interviews and round tables with over sixty local music practitioners, experts and stakeholders (listed in Annex 1 to this report.) We thank them all for giving their time and insights to this work.
+BOP Background 
+BOP is a specialist Creative Industries consultancy, established in 1997 and with offices in London, Liverpool and Shanghai. We understand how culture and the Creative Industries enrich people’s lives; how venues and commercial premises help shape places; and how together they make modern economies more competitive. We are expert in producing strategies to optimise the economic and social value and benefit of both.  
+BOP has played a critical role in defining the role of Creative Industries in economic development through strategies and toolkits for organisations including the United Nations Organization for Economic Co-operation and Development (OECD); the World Intellectual Property Organization (WIPO); the British Council; Arts Council England (ACE); and the Department for Digital, Creative Media & Sport (DCMS)’s Creative Industries Council. 
+BOP specialises in producing place-specific strategies for the development of Creative Industries clusters and capital projects. Our track record of advising local authorities and commercial developers which are planning to invest in capital developments focused on growth of the Creative Industries is second to none. BOP often works in a regeneration context, so we are used to articulating all the direct/indirect and measurable/qualitative ways in which the Creative Industries drive local economic development.  
+Liverpool’s Music Economy: Scale and Significance 
+This chapter looks at the whole scope of music-related enterprises in Liverpool and the other local authorities that compose Liverpool City Region, and estimates their scale and value.
+We begin by setting out a definition of what composes the music economy of Liverpool. Various definitions of music economies have been provided in the past – for example, the definition of the UK music economy used in UK Music’s Measuring Music report. However, this report uses a bespoke definition of Liverpool’s music economy for a variety of reasons:
+The desirability of having a definition that captures the distinctive strengths and characteristics of Liverpool’s music economy. 
+The need to use a definition for which data is known or can be gathered. 
+Following consultation with our Advisory Board, we deployed a definition of Liverpool’s music economy that combines:
+Core Activity: The economic activities that define the music economy of Liverpool. 
+Wider Context: Parts of the supply and skill chains of the core music economy that link it to the broader economic and cultural contexts of Liverpool.
+Core activity
+Live Music: Concerts, Festivals 
+Labels
+Music Publishers 
+Music Production Services: Staging, Lighting, Security, etc.
+Musicians: Performers, Songwriters, Recording Artists, Educators (Teachers, Lecturers, Tutors)
+Instrument Manufacturers and Retailers
+Music Managers
+Recording: Studios, 
+Wider context
+Heritage: Beatles Museums and Tours
+Visitor economy and hotels
+Education: Schools, Colleges, Universities, Training Centres, Music Tuition
+Local / voluntary community music organisations
+Music Radio/TV
+Pubs, restaurants, nightclubs 
+
+
+
+Turnover
+We estimate below the current annual turnover (sometimes referred to as revenue or sales) of the different elements of the core of Liverpool’s music economy.
+We report on turnover because:
+It is more widely understood than other metrics sometimes used in economic assessment, such as Gross Value Added (GVA). 
+We found there is more data available on turnover than other measurements of business performance. 
+It is important to compare the scale of the components of the core music economy on equivalent terms – which we are doing in terms of the turnover directly associated with each of these component parts.
+Details of the methodology used for each sector of Liverpool’s core music economy are provided at Annex 1, below.
+Figure 1 – Turnover of Liverpool’s core music economy
+
+
+
+Economic impact of heritage and music tourism
+UK Music estimates that direct music tourism spending in Liverpool City Region amounts to £98 million per annum (see Figure 2, below). This closely reflects the findings of the 2015 IPM report, which estimated the total estimate impact of the Beatles at £81.9m per year; and suggested that this figure was growing by 5-15% each year.
+IPM reported that the turnover of Beatles attractions within this was £10.2m, with the remainder of the impact made up by the ancillary spend of attendees (on food and drink, transport, merchandise, hotels, or other goods/services associated with their visits.) 
+
+Wider economic impacts of music
+We have arrived at an estimate of £100.5 million for the direct annual turnover of the core music industry in Liverpool. If we look beyond the activities associated with the core music economy to the wider music economy, the economic impact of music upon Liverpool seems larger still. In various ways, this turnover is associated with further economic activity – spend on suppliers, spend by visitors to gigs and Beatles attractions, the multiplier generated by this supplier and visitor spending, and so on. We might refer to these additional economic impacts as the downstream impact associated with a direct impact of £100m.  
+Within that £100m total, the box office figure of £48.4 million understates the economic impact of live music, in the sense that it does not it does not capture spend by gig-goers on food and drink, transport, merchandise, hotels, or other goods/services associated with their visits to music gigs and festivals.
+Looking at the £100.5m as a direct turnover estimate for core activities next to the £98m annual turnover reported by UK Music for music tourism in Liverpool (all of which, in the terms used here, beyond box office spend is downstream), it seems likely that the full economic footprint generated by music activities in Liverpool – bringing together the direct turnover of the core music sector with its downstream impacts, and the impact of music-related activity in its wider context of education, heritage, visitor economy and conferences – exceeds £200m. 
+
+Figure 2. Economic contribution of Royal Liverpool Philharmonic 2016-17
+
+
+Figure 3. Liverpool’s music economy ‘at a glance’
+
+
+
+Employment in core music sectors
+We have estimated employment in Liverpool’s core music sectors as follows:
+Box Office from Live Music – 1,240 
+Musicians – 810
+Music production services – 160 
+Labels and Publishers – 70 
+Instrument retailers and manufacturers – 40 
+Recording studios - 40
+Total – 2,360 
+We estimate that, in addition, Beatles attractions together employ 140 people. (Please see Annex 2 – Methodology for further details.)
+Why our estimates of employment differ from those given by national statistics
+The estimate of number of professional musicians that we report here exceeds that which ONS data on musicians is likely to attribute to Liverpool. The anecdotal evidence all points strongly to a larger number of people who earn some or all of their income from music – which is why we worked with our Advisory Board to generate a bespoke estimate (as detailed in the Methodology at Annex 2, below). There are a number of disincentives for people with multiple occupations to register themselves as musicians – not least, the actuarial view of risk associated with professional musicians when applying for motor insurance! This may explain ONS data potentially underestimating the number of professional musicians within this geography; past research by UK Music has also pointed towards ONS data underestimating the number of professional musicians across the UK as a whole. 
+Alternative Employment Data
+There are 1,932 LinkedIn profiles in Liverpool that include ‘music’ in their description. 
+LinkedIn captures more of what we’ve called ‘wider context’ (e.g. support staff at universities and colleges), while potentially under-capturing musicians and the many temporary staff at music festivals. Equally, there may be some crossover between these education roles and those captured within our employment estimate of 2,330 – for example, someone might be both working professionally as a musician (and, therefore, falling within our estimate of employment within the core music economy) and at the same time, having some employment in a music education role, such as being a music tutor – which is part of what we have described as the wider context of this music economy. 
+Figure 4. Employment in Liverpool’s core music sector
+
+
+Profile of music enterprises 
+As may be expected, the majority of music enterprises in Liverpool are very small – many of them one or two individuals. Only a tiny percentage of music businesses in Liverpool employ more than 10 people, although this group of businesses is responsible for a large proportion of employment, both full time and casual, in the sector.
+This reflects national and international experience of the creative industries as a whole; and in part reflects a dynamism and willingness to grasp new entrepreneurial opportunities. In common with other creative sectors, Liverpool’s core music sectors are split between a small number of larger firms, although still technically SMEs, many of them with strong export earnings; and a larger number of sole traders and microbusinesses which are thinly capitalised businesses with few or no reserves on which to draw in event of any market downturn. 
+
+But there are other ‘structural’ factors, that apply to the global nature of the music industry, to consider. There is a concentration of music industry ‘infrastructure’ (particularly labels, publishing, agents and large promoters) in London, one of a small number of global hubs of the music industry. This has historically meant that companies and individuals with ambitions to grow their business have left Liverpool to access national and international market opportunities. This means that whilst Liverpool generates a lot of talent, many employers report that it can be hard to find suitably qualified staff, or enough people with the right kinds of skills at times of peak demand, such as festivals and music production specialists.
+Music businesses’ attempts to grow are further hampered by (in many cases) lack of formal business skills and barriers access to finance. This also reflects structural imbalances in the economy. Despite a strong record of growth – music forms part of the creative industries, which generate £92 billion per annum, more than 5% of UK GVA. Despite the established trend that creative industries are growing faster than other parts of the UK economy – by 45% between 2010 and 2016, and by 7.8% in the last year - both retail (banks) and other investors perceive creative industries to represent a riskier investment than other sectors.
+Further up the supply chain, structural failings of Venture Capital for intellectual property (IP)-based and growth-oriented businesses outside London are widely recognised. Relative to the rates of comparable investment in other sectors, it is thought that lack of data about opportunities and returns from previous investments leads to fewer people from within the music sector taking the decision to reinvest their profits in their own research and development (R&D) and in other early-stage ventures, and fewer experienced angel investors, venture capitalists and institutional investors from other backgrounds being attracted to the sector. 
+
+
+Trends
+
+A fast-growing sector of the economy
+Music is part of a sector that has been the fastest growing part of the UK economy throughout a decade in which austerity has seen the public sector, on which Liverpool is overly dependent, contract. The UK’s music, visual and performing arts have grown by a combined 51% between 2010 and 2016, and generate over £8 billion in GVA.
+Despite the recorded music industry’s continuing struggle to address the difference in revenues between streaming and digital downloads and physical products, the sector is buoyant.
+Global recorded music revenues increased by 5.9% in 2016.
+The British Phonographic Institute (BPI – UK trade body for record labels) reports a 9.5% year-on-year increase in UK music consumption in 2017 – the fastest growth in a decade – including 68.1 billion audio streams and, at the other end of the technology spectrum, an increase of 26.8% in sales of vinyl albums.
+UK Music reported a 33% increase (to £500m) in total direct and indirect spend by music tourists in the North West between 2015 and 2016.
+UK Music also reports that the total live music economy across the UK grew by 14% over the same time period – given this growth, it is likely that businesses operating in music production services in Liverpool have experienced growth. 
+ONS reports an increase by 9%, to 3,700, in the number of musicians in the North West of England between 2016 and 2017. 
+ONS figures also indicate increases in the numbers of music instrument retailers (an 18% increase, to 40 workers) and sound recording and music publishing activities (a 6% increase, to 35 workers) in Liverpool in the year to 2015.
+While time series data is limited, what is available all points in same direction: music is becoming increasingly economically important to Liverpool.
+How Liverpool compares to the UK as a whole
+Where possible, we have compared relative size of components of Liverpool’s music economy vs UK (as represented by UK Music in Measuring Music):
+Live Music: 44% of output in Liverpool, compared with 23% of output in UK music economy
+Labels and Publishers: 20% vs 25%
+Musicians: 15% vs 46%
+Recording studios: 1% vs 3%
+These comparisons between our estimates on Liverpool and UK Music’s analysis of the UK as a whole suggest some particular features of the music economy in Liverpool: 
+Live music is comparatively much more important to Liverpool than to the rest of the UK.  
+The performance of labels and publishers is impressive, as this sector is heavily skewed toward the presence of international companies in London. The growth of technology and IP-driven companies such as Sentric and Ditto, and the emergence of Modern Sky UK to complement long-standing local labels such as Deltasonic and 3 Beat, mean that this part of Liverpool’s music sector is probably more productive (and earning more in overseas revenues) than at any time before.
+Musicians’ earnings are lower, in part due to the relatively small number of the highest-value musicians residing in Liverpool. 
+Recording studio activity is broadly comparable, with a relatively healthy ecosystem ranging from high quality studios with resident producers to cheaper alternatives such as Pirate Studios.
+Distinctive elements of Liverpool’s offer
+Two important features of Liverpool’s music economy do not feature as prominently in the UK picture: Beatles heritage and production services. 
+Beatles heritage
+Liverpool’s music visitor economy is comparable in value to its core music sectors. The Institute of Popular Music study states:
+The Beatles-related economy is growing – by between 5-15% a year depending upon which sector one is looking at. 
+The offer is not limited to the city centre; it includes the neighbourhoods in which members of the band grew up, including the childhood homes of Lennon and McCartney and places immortalised in song, such as Penny Lane and Strawberry Field.
+This is a distinctive feature of the Liverpool music economy, and one that creates specific opportunities for investment and growth, detailed in the recommendations below. But it needs sensitive management, both to continue to improve access to and public realm around historic sites whilst preserving the fabric of the heritage sites and to ensure that the environmental impacts of tourism are minimised.
+Music production services
+In production services, Adlib, based at Speke, is a major employer and a recognised centre of excellence for music production services covering sound, lighting, staging and video.  
+Its scale and range of competencies mean it has significant markets in other sectors, including conferences, theatre and other non-music related events. The proposed development of film studios at the Littlewoods building could catalyse the potential to build a centre of excellence for production services around a combined music and film production services offer – explored further in our recommendations.
+Competition between the music sector and other users for strategic locations
+Many cities have a problem in preserving existing music venues and identifying and providing enough affordable workspace to allow the development of the sector. Lobbying for Agent of Change has now resulted in a commitment from the Secretary of State to translate its provisions into legislation. 
+Developments such as Baltic Creative have meant that Liverpool enjoys relatively more affordable creative workspace than many other core cities – but displacement of venues remains a major concern. Without the right approach to planning of new developments, particularly residential developments in industrial areas, the ‘critical mass’ of music infrastructure in strategic locations could be threatened. This in turn may lead to existing creative clusters such as Baltic Triangle losing their distinctiveness and appeal, and undermine demand for development of other creative quarters, such as Ten Streets.
+SWOT of Liverpool’s music economy 
+This chapter draws upon insights from our data analysis, interviews and workshops, and our literature review to present this analysis of the Strengths, Weaknesses, Opportunities and Threats (SWOT) of Liverpool’s music economy.
+SWOT analysis is undertaken by organisations to identify their internal strengths and weaknesses, as well as their external opportunities and threats. In the case of Liverpool, success can be conceived in a variety of ways, such as:
+The scale of the music industry– its turnover and FTE employment contributions
+The significance of these contributions within the overall productivity (GVA) and employment contributions of Liverpool and the city region
+The importance of these contributions to the achievement of wider economic goals set by relevant strategic economic plans, i.e. those developed by the City Council and the Combined Authority
+Music and the visitor economy
+Music education
+Diversity and community engagement
+
+
+
+
+Figure 5 - SWOT analysis of music economy in Liverpool City Region
+
+Findings
+More than sixty individuals were engaged in consultation. This combined individual interviews (a mix of face to face and by telephone) and ‘round tables’ conducted between September 2017 and January 2018. 
+Interviews were conducted using a semi-structured approach that looked to explore respondents’ experience and opinions of:
+Space and infrastructure
+Markets for live and recorded music
+Supportive environment
+Access to finance
+Human capital and talent
+Culture of the cluster
+The Beatles, heritage and the visitor economy
+Unless they gave explicit permission to be quoted, we assured participants that their responses would not be attributable. Selected comments on each of these subjects are included below (in Annex 2).
+
+
+Liverpool, Music City?
+Our report builds upon the findings of the independent ‘Liverpool, Music City?’ report., produced by Craig Pennington of Bido Lito! and Liverpool John Moores University. This took the form a much wider consultation, including an online survey and open public meeting, which engaged 573 individuals between May and October 2017 and elicited 749 comments.
+Throughout our research we have sought to provide complementary evidence, rather than seeking to duplicate consultation and analysis that has already taken place. Our findings and recommendations develop those of the Liverpool Music City report.
+The main recommendations of the earlier report were:
+Establish a Liverpool Music Office with representation from all parts of the music sector, and grassroots organisations, to deliver a city music strategy that will assist and support the sector to survive and flourish
+Liverpool should adopt an ‘Agent of Change’ policy to safeguard existing and future independent music venues from threat of closure in the form of competition from residential developments
+Develop Liverpool’s music tourism experience and communications to better integrate the city’s vibrant live music and festivals offer
+Review current arrangements for public funding and support to focus on artist development and ensure greater co-ordination, knowledge development and diversity of the music sector
+Carry out sector mapping
+Long term strategic focus on creating a music industry hub to drive jobs and investment
+Strengthen links between musicians, businesses, local government, education, the voluntary sector and public bodies such as the NHS to better coordinate and support opportunities for music education and employment within the music industry 
+Our findings provide further detail of how the ambition of, “A new future for Liverpool, with music rightly embedded at its heart,” might best be achieved through development of a music strategy for the UNESCO City of Liverpool and the Liverpool City Region.
+Our findings from consultation
+Responses from interviews and round tables reflected a consistent view that:
+The city (Liverpool City Council, LCR Combined Authority and LEP) needs to be more strategic and joined up.
+2018 should mark the start of the journey –  and that strategy and plans should be conceived on a ten-year timeline.
+The separation between Liverpool’s city brand, strategy and operations need to be clearly identified.
+The public sector should devolve responsibility for delivery whenever possible (eg to a sector-led Music Board or existing organisations such as the BID) rather than trying to fix everything.
+Sector leadership and governance
+The Bido Lito! Report contained a recommendation for a Liverpool Music Office to engage the private sector and streamline public sector engagement with all parts of the music sector. Discussion with Liverpool Film Office and other public bodies suggests that there are two functions here that would be best dealt with by separate organisations:
+An industry-led Liverpool City of Music Board to give musicians and music organisations a stronger voice in strategy and promotion of the city music offer.
+A Liverpool Music Office, run along lines of and mentored by Liverpool Film Office) to streamline engagement between music sector and investors and all statutory functions of Liverpool City Council (and other local authorities across the city region).
+Safeguarding existing music venues
+A clear recommendation from our findings and that of the Liverpool, Music City? Report is that Liverpool should adopt Agent of Change policies to safeguard existing independent venues. Agent of Change provisions require that new developments take account of pre-existing venues, and that provision for sound-proofing, transport plans, utilities and other amenities does not enforce changes on the existing business.
+Although we are pleased to note that the Secretary of State has agreed to bring forward legislation, its provisions do not yet have legal status. It is important that the City Council bring forward policy and guidance to reflect Agent of Change in advance of it passing into law
+Growing a music industry hub
+There is a widely-expressed ambition in the music sector to grow Liverpool’s importance as a music industry hub. There are some great examples of inward investment and indigenous growth. The relocation of Ditto Music from Birmingham in 2011 and Modern Sky’s investment in growing its UK record label from a base in Liverpool are significant investments; and the leaders of these businesses, and others like Sentric and AdLib, are strong advocates of the city region.  
+But there is fierce competition from other UK cities, including
+London – 75%+ of all creative foreign direct investment (FDI) projects never look at any other UK city
+Greater Manchester – both MediaCityUK (TV and digital) and Manchester City (digital agencies, fintech) act as strong magnets for creative talent and investment
+Brighton – where a music census has identified music as a key creative sector alongside IT/software, games, TV/film, AR/VR
+Glasgow – the first British UNESCO World City of Music
+Liverpool’s music sector has recognised strengths in live music and production services; but there is less awareness of high growth businesses in sectors such as labels and publishing. Promoting these opportunities will help retain and develop talent that is ‘fixed’ by the live music sector and the city’s universities; and provides the basis for more targeted inward investment marketing to help grow the sector.
+Liverpool needs both to encourage high growth indigenous business and attract new inward investment. The city enjoys extraordinarily high levels of international recognition, much of it based on The Beatles and football; and could benefit from the trend for established and mid-career music industry employees, in common with other creative professionals, to move out of London in search of more affordable business premises and a better quality of life.
+But to date there has been no clear strategy from the city region’s investment promotion agencies to attract music businesses.
+Liverpool’s global reputation as a music city is based on its musical heritage, not on its reputation as a commercial hub. And businesses looking to relocate need to base their investment decisions on a description of benefits of locating in Liverpool that go beyond affordable rents, lower salary demands and quality of life. 
+Liverpool’s music heritage, however, acts as a ‘door opener’. It promotes an awareness of the city amongst people in the music and wider creative sectors that provides an opportunity for the city to identify companies that demonstrate how Liverpool-based businesses are succeeding in developing and exploiting IP in national and international markets, and to use them as the thrust of a marketing campaign to attract investment from international music businesses and from London-based businesses facing risk of displacement by high rents and other costs. 
+The city needs an investment strategy that recognises the opportunity that exists in creating a vibrant music industry ecosystem between organisations. Growth of the city as an industry hub depends on improving graduate retention, promoting awareness of employment opportunities amongst local people and attracting mid-career professionals looking to relocate. Within this, importance of the ‘second job’ – confidence that there will be opportunities to progress to second, third and further jobs in Liverpool and the wider North West region -cannot be understated. This will also give confidence to companies looking to relocate to Liverpool, the employer knowing that there is a pool of available skilled labour in addition to the training, research and development opportunities within the city’s universities.
+Developing the music heritage and visitor economy offer
+The city of Liverpool has been trading on the intellectual property rights of The Beatles for over half a century, without any comprehensive agreement between the city and the rights owner, Apple Corps, about how these rights are exploited and developed to grow Liverpool’s music sector, and visitor economy to the benefit of all parties. 
+There is now a once in a generation opportunity, justified in part by UNESCO World City of Music status, to establish a relationship between Apple Corps and the city to agree the joint development of nationally significant heritage, educational and visitor economy assets that clearly define and project the linkages between Liverpool’s history, human rights and the role of music in economic, social and political development, as uniquely crystallised in the Beatles story.
+Culture Liverpool to refresh its engagement with the music sector 
+The City of Liverpool’s powerful cultural offer means that there is capacity and infrastructure available, particularly within the city core, that can be harnessed for the development of leadership skills, diversity and more inclusive growth to build capacity across the core music sector and its wider cultural context.
+It is important that Cultural Liverpool continue to support educational and cultural activity that underpins and extends the diversity of the music sector in Liverpool; building audience awareness of new acts and other genres. 
+In helping establish the music strategy, and in line with the emerging recommendations of the review of the Culture Liverpool Investment Programme, we recommend that Culture Liverpool should review its current operations and seek to emphasise its role as an ‘executive producer’ rather than a promoter, building on its strategic partnership working, coordination and joint marketing capabilities.
+Placemaking and promotion
+Regeneration of areas such as Baltic Triangle and the ‘Ten Streets’ is predicated on growth of creative industries. However, the lack of a strategy for music has meant that other commercial development, intended to regenerate these areas, has had unintended consequences. For example, the displacement of iconic venues such as The Kazimier has diminished the live music experience in the city centre, given that Wolstenholme Square was the meeting point of a number of ‘desire lines’ for clubbers and concert goers. There is a risk that the damage may be permanent and irreparable.
+Policy and planning need to reconcile the distinctive character and emerging clustering of music businesses in these districts with demand for more recent residential and leisure development.
+When looking at promotion of the sector, the importance of conferencing should not be overlooked. The growth of Austin, Texas as a music and tech hub was catalysed by SxSW, initially an independent music festival. Sound City is important in bringing international visitors to Liverpool and should be integrated within inward investment strategy and planning for the city region.
+Promoting and increasing diversity
+The influence of black music on popular music as a whole, and on the development of The Beatles in particular, does not always feature as strongly as it should either in the contemporary music offer or in the expression of the heritage and music visitor economy of the city.
+Events such as Africa Oyé demonstrate the huge levels of interest amongst audiences in this shared cultural heritage, and should continue to benefit from public support. Other initiatives to support music infrastructure, marketing and talent development need to take account of the need for access to facilities, training and business support of minority communities across the city region, and work with local organisations, such as Heritage Development Company Liverpool, to ensure that community views are respected, and access ensured.
+Figure 6 -  Heritage Development Company Liverpool
+
+
+
+
+Scenarios
+
+Scenario 1 – Do nothing
+Lack of a sector-led city-wide approach and strategy, combined with continuing austerity in the public sector, means that the closure of live music venue and cuts to music education continue unabated. A lack of innovation and investment to refresh the visitor economy attractions based around The Beatles’ heritage sees this audience start to decline.
+Competition for space from and planning conditions around new residential developments will see more independent venues close. Continuing uncertainty about the Council’s willingness to recognise and protect music infrastructure will further constrain investment in new performance spaces in Liverpool City Centre, Baltic, Ropewalks and Ten Streets.
+Cuts to public expenditure will limit the ability of funders such as Culture Liverpool and Arts Council England to intervene in development of the music sector and individual artists.
+Lack of clearly defined development path for young musicians, especially from BAME communities, allied to cuts in education budgets, will result in reduced opportunity and, in turn, reduced attention on Liverpool-based artists from labels and publishers.
+Concerns about safety and public realm in and around Mathew Street, and lack of a clear strategy to develop and promote the place-based aspects of the city’s music heritage, combine with a lack of capacity, quality control, innovation and investment in the commercial sector currently responsible for preservation and promotion of The Beatles’ heritage, and results in atrophy of visitor numbers and revenues.
+A declining music economy will undermine ambitions to grow Liverpool’s music, night time and visitor economy through its status as a UNESCO World City of Music. 
+Music does not exist in a vacuum. The sector in Liverpool faces a volatile external environment – including continuing public austerity, cuts in music education in schools, competition for space in strategic city centre locations, and Brexit, which threatens both touring and export revenues for local artists and music entrepreneurs and the ability of promoters and venues to attract international artists to the city.
+Therefore, doing nothing will not preserve the ‘status quo’ – it will mean a decline and narrowing of the live music offer, fewer opportunities for new talent to pursue opportunities in music, a continuing failure to engage diverse communities across the city region in music and the music economy, and a fall in visitor numbers which will result in a  loss of revenue and jobs in the visitor economy associated with the city’s music heritage.
+Other sectors, including universities and the wider creative sector, already threatened by the risk that international students and businesses will perceive Liverpool to be a less ‘open’ place post-Brexit, may be further damaged by a diminution of the ‘positive externalities’ of Liverpool’s reputation as a vibrant, global music city. 
+This in turn may reduce the city region’s appeal to other institutional and international investors, many of whom will know Liverpool first as ‘the home of The Beatles’ and who are attracted by that spirit of creative endeavour.
+
+
+Scenario 2: Facing up to our responsibilities - from organic growth to structural change
+The cultural and visitor economy of Liverpool has grown for a decade in the aftermath of European Capital of Culture 2008. Safeguarding, sustaining and building upon that growth in the next decade will require that the city’s institutions, public bodies and music enterprises, in common with the rest of the cultural sector, have
+A sector-led Liverpool City of Music Strategy, governed by an industry board with well-defined links to and operational agreements with the public sector and non-departmental public bodies, helps determine strategy and coordinate public/private sector efforts to grow the local music sector.
+A Liverpool Music Office (based on the template of the successful Liverpool Film Office, co-located within Liverpool City Council and sharing systems and procedures wherever possible) provides an effective ‘one stop shop’ giving both local music entrepreneurs and inward investors easy access to public sector statutory functions (eg, licensing and permits) and funding opportunities from all public bodies within Liverpool City Region, with the goal of increasing investment and growing economic output and employment in the city region’s music economy.
+Local Enterprise Partnership and Combined Authority recognition of music as a distinctive and important sector of the LCR economy, driving both inclusive growth, skills development, inward investment and the visitor economy, leads to better allocation of public spending in music infrastructure, talent development and more effective leverage of Strategic Investment Fund monies against other funding and investment opportunities.
+Culture Liverpool takes the opportunity of the focus on cultural renewal around 2018 (10th anniversary of Capital of Culture), and a more strategic positioning of music within cultural and economic strategy, to reimagine and realign its own role within development of the music sector over a ten-year period: 
+UK Music and the City of Music Board to take part in a review of Culture Liverpool’s current funding for music to direct investment in and manage risks of working with the core music sector. This should include identifying sources of risk capital, joint ventures etc. that are cost neutral or raise profits for reinvestment in education, talent development, events, infrastructure and marketing.
+Take steps to build capacity within the city region’s independent music organisations, including through secondment of staff and devolving project delivery (and budgets) to private sector organisations
+Lead efforts to increase coordination between music businesses, other cultural organisations and with public bodies to share data and marketing resource to increase ticketing and sponsorship revenue
+Liverpool’s universities take a more strategic role within the Liverpool City of Music Board to help improve coordination, planning and delivery of capital developments to extend the city’s music infrastructure and increase the diversity of the live music offer across the City Region.
+
+Scenario 3: Innovation and renewal - Liverpool, World City of Music
+Embracing the energy and commitment of the music sector to its own development, and that of the visitor economy, to put the City of Music at the centre of a transformational change management and city branding programme for Liverpool City Region.
+Cultural and economic strategy across the Liverpool City Region are aligned to recognise music and music heritage as a distinctive and defining element of branding and economic development of the city.
+Strategic Investment Funds are used to leverage both public and private investment in: 
+new capital developments to increase capacity for the music sector and visitor economy and improve the public realm
+strategic development of the music sector to increase employment and output across Liverpool City Region, and 
+safeguarding and projecting the city’s musical heritage as a critical success factor in the visitor economy.
+A new strategic partnership between Liverpool City Council, Culture Liverpool, the Liverpool City Region Combined Authority, Apple Corps, National Museums Liverpool and sector-led Liverpool City of Music Board secures a once-and-for-all agreement on use of intellectual property rights owned by Apple Corps in respect of The Beatles’ music and heritage. 
+This enables the development of nationally significant heritage, educational and visitor economy assets that clearly define and project the linkages between Liverpool’s history, human rights and the role of music in economic, social and political development, as uniquely crystallised in the Beatles story.
+And generates revenue to fund not only the maintenance and development of the archive, but also to replace lost funding for education, talent development and investment in music sector and visitor economy infrastructure.
+Development of a new Production Park, collocated with the Liverpool Film Studios, forms the basis of a second, private-sector led National College of the Creative Industries with a focus on skills for staging, sound, lighting and video display for the commercial music, film and television sectors and related industries.
+Liverpool is now in a position to powerfully leverage its status as one of UNESCO’s World Cities of Music to attract a greater international audience and investment for both its music heritage and contemporary music offer.
+Making the UNESCO City of Music a central theme of a city region-wide integrated strategy for culture and liveability, informing wider strategic and investment decisions on transport, housing, employment and skills, to:
+Harness the ‘diversity dividend’ for all citizens and businesses.
+Highlight the value of the city region’s cultural offer in increasing wealth and wellbeing for the whole population, increasing its profile and status in policy and planning.
+Increase awareness of opportunities for employment and development for all.
+Improve graduate retention.
+Attract new inward investment.
+Strategic choices
+Strategic choices are about more than “just” directly attributable money. One important factor is the ‘soft power’ and branding impact that music brings to the city.
+The Institute of Popular Music observes that its study on Beatles impact on Liverpool:
+“Significantly under-represents the true impact of the Beatles legacy because it is difficult to quantify both the scale of local, national and global media coverage of the Beatles and precisely what benefits it brings to the city”
+Continuing public sector austerity, although tempered by expansion of devolved authority over investment in some areas of public life, including culture, mean that both City Council, the Combined Authority, the other city region local authorities, universities and the sector itself need to come together to agree a set of strategic priorities to drive the long-term growth of the music sector in Liverpool.
+This imposes some immediate challenges:
+Should Liverpool’s City of Music strategy prioritise measure to build on the core music sector’s strengths (heritage / The Beatles, production services, live music) or tackle relative weaknesses in the wider environment (diversity, talent retention, career development of musicians)? 
+Are there interventions that could do both?
+What governance arrangements will engage and enable the city’s music sector to play a leading role in the development, continuing oversight and renewal of the City of Music strategy and action plan, both in the short and long term?
+How can the music sector work with public bodies to build and share capacity to optimise its own revenue generation, including through better use of customer data for marketing, ticketing and sponsorship?
+What role should the city’s four universities and other educational establishments play in development of the sector? And how can the music sector better support the provision of education, training and professional development?
+How can the public sector and non-departmental public bodies be best coordinated to bring forward and deliver transformation projects, both capital and revenue, and optimise new private sector investment?
+
+
+
+
+Strategies of competitor cities and other UNESCO World Cities of Music
+One of the most notable trends is for major cities and other World Cities of Music to publish strategies – for music, for the cultural sector, for the night time economy. Some of these are set out in more detail below.
+
+Figure 7 -  Strategies of other music cities
+
+Recommendations
+We conclude with recommendations to Culture Liverpool for the growth and development of the music economy within the Liverpool city region.
+The success of the music economy within Liverpool is critical to achieving targets for growth within the city region economic strategy – and reflects priorities of national industrial strategy to identify place-based clusters, linked to strong institutional structures equipped with the appropriate resource to accelerate local growth.
+We believe that these recommendations form the basis of a ten-year strategic plan, focusing on artist development and building music industry capacity.
+Our recommendations are of three types:
+Strategic
+Operational
+Aspirational – including capital projects
+
+Strategic recommendations
+Our recommendations for a Liverpool City of Music strategy are formed from an evidence-based set of proposals:
+A sector-led strategy, backed by all local government and economic development agencies and non-departmental public bodies, to underpin, preserve and sustain growth in live music and other core music sector.
+Music and education sectors to come together with a plan to increase engagement in music and investment in and development of talent from all communities across the city region.
+Engagement with Apple Corps to secure agreement on the use of Beatles-related IP rights in order to honour the contribution is has made to the city over six decades, to optimise revenue-generation from the visitor economy (including export, in the form of international exhibitions) and more effectively preserve that legacy for future generations.
+Sector leadership and governance
+Liverpool’s music businesses need a stronger voice in local and regional decision making. We recommend that Culture Liverpool take a lead in helping to establish an industry-led structure - the Liverpool City of Music Board - to set strategy and advise and scrutinise quality and coordination of interventions by public sector and institutional actors.
+The group of industry and institutional representatives that came together in the production of the “Liverpool Music City?” report and the advisory group for this study are embryonic structures, already in place, that could form the basis of a sector-led Board, that would enhance cohesion and coordination and minimise the risk of unnecessarily duplication of structures and initiatives between public and private sectors. But they will need support to:
+Identify an appropriate governance structure.
+Develop protocols that will continue to engage and enable the participation of leaders from business and communities across the city region in oversight and renewal of the strategy and action plan over time
+Fund full-time resource and co-ordination of contributions ‘in kind’ to support capacity building, so that Culture Liverpool can devolve more direct responsibility the City of Music City Board and help build its capacity for sustainable operation over the long term. 
+Consider whether budgets and responsibility for commissioning and delivery of some of the actions within the strategy could be delegated to the Liverpool City of Music Board
+Formation of the Liverpool City of Music Board should be accompanied by a review of existing industry/heritage advisory groups with a view to consolidating them within the new structure, removing duplication and better aligning the objectives for which existing groups were established with new realities of city region governance, 
+Agent of Change
+We are pleased that the Secretary of State has undertaken to put Agent of Change provisions into law. This was a key recommendation from our findings and those of the “Liverpool, Music City?” report to safeguard existing independent venues. Agent of Change provisions require that new developments take account of pre-existing venues, and that provision for sound-proofing, transport plans, utilities and other amenities does not enforce changes on the existing business.
+Action: in advance of legislation, adopt (and encourage other local authorities across the Liverpool City Region to adopt) the ‘Agent of Change’ principle to safeguard performance venues against threat of displacement, by ensuring that planning conditions for any nearby residential development cannot threaten the licensing of the pre-existing venue.
+Action: Develop and disseminate an information pack for developers about the implementation of an Agent of Change policy in advance of its passing into law.
+Action: provide planning officers with information and training to help ensure that plans to increase housing provision are sensitive to the need to support the development of sustainable clusters of music businesses and performance spaces.
+Engage with Apple Corps
+Establish a ‘task and finish’ group, led through the Liverpool City of Music Board and answering directly to both the City of Liverpool Mayor and the Mayor of Liverpool City Region, to agree priorities and clear delegated responsibilities for engagement with Apple Corps in future development of Beatles heritage strategy and offer. 
+As part of a feasibility study, identify options for new public/private partnership structures (including “not-for-profit” trusts) to manage the development and exploitation of the heritage and visitor economy offer.
+Identify Liverpool as a music industry hub
+Invest Liverpool and the LCR Local Enterprise Partnership should work with the Liverpool City of Music Board to develop an inward investment strategy and marketing plan. This should use case studies of successful Liverpool-based businesses that are succeeding in developing and exploiting IP in national and international markets as the thrust of a marketing campaign to attract investment from international music businesses and from London-based businesses facing risk of displacement by high rents and other costs. 
+In production services, the growth of Adlib presents an opportunity for the city and other music organisations to invest together in the development of a new Production Park, possibly collocated with the Liverpool Film Studios, to form the basis of a second, private-sector led National College of the Creative Industries with a focus on skills for staging, sound, lighting and video display for the commercial music, film and television sectors and related industries.
+Planning and infrastructure
+It is important that development of creative quarters should recognise existing clustering and use devolved powers to minimise displacement of cultural and creative organisations, including those in music
+“England has this year seen the election of new metro mayors [in six city regions, [including Liverpool City Region], and devolution deals with combined authorities are unlocking potential for greater economic autonomy across the country. A planning system that is supported by local people will only be possible with higher levels of public trust. Section 106 and Community Infrastructure Levy (CIL) agreements should not be subject to commercial confidentiality, which allows some developers to weaken their obligations to deliver benefit to communities from new developments.”
+RIBA Manifesto (2017). Building Global Britain
+Early intervention to establish policies to earmark Section 106 and CIL monies to specific cultural and creative uses, for example for investment in affordable workspace or cultural provision, and to enforce Article 4 provisions to limit conversion of commercial space to residential, could help retain and build upon the cultural grain of Liverpool city centre.
+Action: Further consultation with the city region’s local authorities, the Combined Authority and investment agencies about the distribution and benefits of music infrastructure to help accelerate growth of creative clusters in town centres across the city region. 
+Placemaking and promotion
+Policy and planning need to reconcile the distinctive character and emerging clustering of music businesses in existing music districts in the city centre, Ropewalks, Baltic Triangle and Ten Streets, and emerging venues across the city region, with demand for more recent residential and leisure development.
+The quality of the visitor experience and management of public realm around heritage sights (including critical entry points such as Mathew Street and Pier Head) needs to be raised; so that the City of Music offer can be made integral to city marketing for both visitor economy and inward investment.
+Operational recommendations
+Liverpool Music Office
+Set up Liverpool Music Office (run along lines of, and mentored by, Liverpool Film Office) to streamline engagement between music sector and investors and all statutory functions of Liverpool City Council (and other local authorities across the city region).
+Within that, integrate (the Council-owned) ACC Liverpool’s capacity and capability in ticketing, promotion, venue management and collation and analysis of data within a service offer to independent promoters and venue owners, coordinated through the Liverpool Music Office.
+Culture Liverpool to refresh its engagement with the music sector 
+The City of Liverpool’s powerful cultural offer means that there is capacity and infrastructure available, particularly within the city core, that can be harnessed for the development of leadership skills, diversity and more inclusive growth to build capacity across the core music sector and its wider cultural context.
+In helping establish the music strategy, Culture Liverpool should review its current operations and seek to emphasise its role as an ‘executive producer’ rather than a promoter, building on its strategic partnership working, coordination and joint marketing capabilities.
+Invite UK Music and the City of Music Board to take part in a review of Culture Liverpool’s current funding for music to direct investment in and manage risks of working with the core music sector. This should include identifying sources of risk capital, joint ventures etc. that are cost neutral or raise profits for reinvestment in education, talent development, events, infrastructure and marketing.
+Take steps to build capacity within the city region’s independent music organisations, including through secondment of staff and devolving project delivery (and budgets) to private sector organisations
+Lead efforts to increase coordination between music businesses, other cultural organisations and with public bodies to share data and marketing resource to increase ticketing and sponsorship revenue; including market testing of ticketing for festivals and events where there is a commercial element, even where attendance is free of charge
+Collaborate with the City of Music Board in design of a programme of support for cultural event managers and independent festivals promoters to emphasise value of Culture Liverpool’s continuing support for talent development and cultural expression
+Better coordination of marketing and promotion of music
+Marketing Liverpool, Liverpool City of Music Board and ACC to collaborate on development of a shared calendar for live events, to be shared with LEP tourism officers, to increase investment in and cohesion of promotion and marketing of live music and music heritage events.
+Business support and talent development
+The role of technology in transforming skills and productivity in other areas of creative industries is clearly demonstrated in some of Liverpool’s most successful music businesses.
+Plans for business support should build on strength of cultural ‘anchor institutions’ in the city region and draw on the expertise of appropriate intermediaries including national industry organisations, non-departmental public bodies, local music businesses and the voluntary sector, building capacity where this is the most effective way to deliver interventions.
+RLP, NML, Sound City, the universities, FACT (especially through its LCR Activate programme) and Culture Liverpool all have relevant capacity and expertise to help develop the music sector. This should be harnessed through the Liverpool City of Music Board.
+The Liverpool City of Music Board should lead a task and finish group to look at measures to make skills provision and music education fit for purpose, including
+Developing an online ‘jobs board’ to provide a ‘shop window’ for local employment opportunities
+Collaboration between formal education providers, music organisations and the voluntary sector to address school-age music education
+Apprenticeships – establishing the feasibility of Group Training Agreements or other forms of collaboration between micro-enterprises and larger employers to deliver apprenticeships in the sector
+Universities to work with the sector to assure relevance of taught undergraduate curriculum and better coordinate work experience
+Access to finance
+Structural failings of Venture Capital for IP-based businesses outside London are recognised. Lack of data about opportunities and returns from previous investments leads to fewer people from within the music sector taking the decision to reinvest their profits in their own R&D and in other early-stage ventures, and fewer experienced angel investors from other backgrounds being attracted to the sector. This results in businesses accepting too little investment at each ‘raise’ to effectively mobilise R&D and commercialisation of original IP – so the UK creates the innovation, but overseas owners reap the commercial benefit.
+Public sector (e.g., the Combined Authority) and private investors (e.g., Advanced Digital Ventures, which has backing from British Business Bank as well as private investors) are striving to address those barriers, but to do so requires granular information about angel networks and existing deals in the music sector that don’t appear on databases such as Crunchbase. 
+This is one area in which the music industry in Liverpool could help itself by coming together to address the information gaps so that the public sector and private finance markets can more effectively address opportunities to develop and exploit innovation across the sector.
+Take steps to build the night time economy
+One way to both boost consumption and to promote development of supply chains in music is to support an integrated planning and licensing framework to support the development of the night time economy.
+This would have additional benefits in enhancing the perception of Liverpool as a cultural hot-spot in the eyes of audiences, investors, students and potential workforce. In some cities, this has extended to appointing a ‘night czar’ – this may be subject of further feasibility study to establish the need and viability of such a role for Liverpool City Region.
+
+
+Source: UK Music (2017). UK Music Manifesto
+Invest in R&D
+Build upon existing initiatives by educational institutions, such as the ERDF-funded LCR Activate programme, Liverpool John Moores University’s Centre for Cultural Enterprise and the University of Liverpool’s bid for funding for a Creative Industries Cluster programme, by establishing a city region-wide forum to coordinate research and development of the music offer, including bidding for funding.
+Establish a sector observatory
+The importance of recognising and measuring the economic, social and cultural value of very different kinds of cultural engagement – from LIMF, to the ‘Phil, to mapping of informal cultural activity (dance, eating out) and social value is critical to the success of the strategy, Public sector partners should establish a music observatory to monitor key performance indicators and repeatable measures of performance for both the core music sector and the wider music economy, to ensure buy in from commercial, community, educational, independent and public sectors of Liverpool’s music economy.
+Signposting and wayfaring strategy
+Culture Liverpool to lead joint working across City Council, LEP and CA and the BIDs to develop signposting and wayfinding strategy for music to boost live music venues, music heritage and visitor economy. 
+
+Capital projects
+Culture Liverpool, the industry-led Liverpool City of Music Board, the LEP and Combined Authority should come together to coordinate development of slate of potential capital investment projects for SIF. This will include determining the approach to appraisal of project proposals and commissioning initial feasibility studies.
+City partners should carry out feasibility studies for new capital investment to improve the public realm and develop new showcase facilities and grow the music sector heritage and visitor economy offer to set Liverpool’s status as a World City of Music in context of both its past glories and future ambitions.
+Some examples of projects that demonstrated widespread support in our interviews and round tables include:
+National Beatles Archive
+National Museums Liverpool to lead and coordinate feasibility study into a new national museum, incorporating a National Beatles Archive. (Possibly as part of an Institute of Popular Culture.)
+Ceiling of Light 
+£1m project (already scoped by Liverpool BID) to improve safety and the environment in and around Mathew Street.
+Production skills hub
+The strength of the existing music production sector, potentially catalysed by increased demand from the proposals for film and television production studios in the former Littlewoods building on Edge Lane, offers an opportunity to explore the  potential to develop a private sector-led National Centre for Creative Industries focusing on provision of staging, sound, lighting and video skills for the commercial music, film, television and conferencing industries, providing a sustainable base and platform for growth for one of Liverpool’s most distinctive music sectors.
+Rehearsal and recording spaces 
+University of Liverpool, RLP and City Council to establish demand for and feasibility of new facilities to diversify options for mid-size venues, accommodate and extend music education offer and provide a focus for contemporary and other musical forms.
+Youth music services and facilities 
+Work with education and private sectors to establish accessible ‘escalator’ of education, rehearsal and recording facilities, supported by industry mentors, to provide development opportunities for emerging artists from all communities.
+Inclusive growth
+Build social capital to achieve inclusive growth
+Historically, the diversity of the people and communities of Liverpool was identified – rightly - as a strength and a source of potential for the music industry. The influence of music of black origin on The Beatles is a case in point. But evidence from consultation reveals ongoing, and in some cases worsening, challenges around diversity. It is essential that music venues take a more positive stance on promotion of music of black origin, and that the industry as a whole improves the recruitment, retention and advancement of women, BAME, disabled people and those from less advantaged backgrounds to remain economically and creatively competitive.
+Work regionally to deliver investment and growth
+This proposition is all about scalability, so is clearly more transformative when delivered on a city regional basis; but music business and community leaders to work together to identify opportunities for growth. 
+
+
+Annex 1 – Methodology - turnover
+While we have made every effort to gather all available information and to make the most accurate estimate possible of the economic scale of the music economy in Liverpool, this information remains incomplete and imperfect. As we discuss below, while we have sometimes needed to make (what we feel are reasonable) assumptions, we have been able to utilise this information to paint the economic picture that we present here.   
+Here we discuss how we estimate the turnover figures shown in the report: 
+
+Box Office from Live Music 
+Wish You Were Here – an annual report published by UK Music – contains national and regional figures on the impact of live music and music tourism on the UK economy. Collating a vast amount of ticketing and other data from hundreds of venues, UK Music – working with Oxford Economics - compiles this unrivalled insight into live music in every region of the UK and its impact on local economies.
+The box office figure reported here comes from UK Music’s analysis of the Liverpool City Region using the methodology of Wish You Were Here. We acknowledge this important contribution to improving understanding of the economic impact of live music upon Liverpool.    
+While this UK Music box office figure covers festivals as well as venues, further insight into the breadth of venues in Liverpool is provided by Sentric Music’s insight that they have collected live performance data in respect of their writers across 341 different verified/licensed venues across the Liverpool City Region in the past 18 months. 
+Labels and Publishers 
+We analysed two ONS datasets both concerned with the Standard Industrial Classification (SIC) on ‘Sound Recording and Music Publishing Activities’ (SIC: 5920):
+NOMIS data on the number of people employed within this SIC code in the Liverpool city region. 
+The turnover-per-worker for this SIC code contained within the most recent publication of the Annual Business Survey.
+We derived an estimate of turnover for labels and publishers in Liverpool based upon these two ONS data-points, which we reviewed with our Advisory Board. The Board indicated that this method understates the scale of output by labels and publishers in Liverpool. We report here the figure based upon the local market understanding of our Advisory Board. That this figure is higher than that which we derived from an ONS-based method suggests that labels and publishers are more productive in Liverpool than elsewhere in the country.
+Musicians 
+Based upon publisher collections data, we have worked with our Advisory Board to estimate:
+Number of staff and freelance musicians employed by RLP.
+The number of bands in the Liverpool city region. 
+Average number of members of these bands.
+What proportion of these bands are full-time professional.
+We then assumed that these professional musicians had average earnings in line with the average reported in the Working Musician report published by the Musicians Union and that the summation of these earnings equates to the turnover generated by musicians in Liverpool. 
+Production Services 
+With the assistance of our Advisory Group, BOP ran a confidential survey of music production businesses in the Liverpool city region. This survey established: a.) the combined annual turnovers of these businesses, b.) the proportion of this combined turnover associated with music production activities – as opposed to other forms of production service activities (e.g. providing a PA system to a conference).  We have used the second, lower figure as the basis of our estimate of core music sector activity here, but note that the figure of £7.6m excludes an additional £3m turnover from non-music related production services
+Demand from the music sector can therefore be seen as the core a thriving production services sector that includes film, theatre, conferences and other community, cultural and religious events. This is a sector which is also generating significant amounts of revenue outside the city region, and even from export.
+We expect that plans to expand film production activity in the city will provide a further driver of growth for this sector.
+Beatles attractions 
+In 2015 the Mayor of Liverpool, Joe Anderson OBE, commissioned research on the economic and social impact upon Liverpool of Beatles heritage. In November of that year, a response to this commission was published by three research institutes based in the University of Liverpool and Liverpool John Moores University: the Institute of Popular Music at the University of Liverpool; the European Institute of Urban Affairs at Liverpool John Moores University; and the Institute of Cultural Capital, a department jointly supported by both universities, established after the 2008 European Capital of Culture.
+On page 20 of this report, it reports that the Beatles attractions have an annual turnover of £10.2m; and notes that this is increasing by 5%-15% each year. We have not sought to update the detail of this report, but interviews carried out as part of this study confirm the story of continuing growth. The report also values the net impact of spending by attendees to Beatles attractions on food and drink, transport, merchandise, hotels, or other goods/services associated with their visits. When these wider impacts are taken into account, the November 2015 publication reported that the net impact of the Beatles legacy in 2014 was £81.9m turnover and 2,335 jobs
+Instrument Retailers and Manufacturers 
+This category was calculated in the same way as our ONS-based method for labels and publishers by combining data on number of employees within the Liverpool city region from NOMIS and turnover-per-worker from the Annual Business Survey. The relevant SIC code was ‘Retail sale of musical instruments and scores in specialised stores’ (47591)
+Recording Studios 
+We have estimated this turnover by following these steps:
+Undertaking a mapping of recording studios in the city region, i.e. identifying and counting these studios.
+Assuming that the average number of full-time employees per studio is two.
+Deriving a ratio of GVA-per-worker for workers in recording studios from the most recent Measuring Music published by UK Music. 
+Multiplying this GVA-per-worker ratio by our estimate of the number of workers in recording studios in Liverpool to get to an estimate of GVA for Liverpool recording studios and finally, converting this GVA figure to a turnover figure by assuming that the proportionate relationship between GVA and turnover for Liverpool recording studios is consistent with that contained in the most recent Annual Business Survey for the 5920 SIC code. 
+ Annex 2 – Methodology – employment
+
+Box Office from Live Music
+We estimated this by dividing the UK Music estimate of relevant turnover (box office) by a turnover-per-worker figure (derived from the latest Annual Business Survey on ‘Operation of arts facilities’ – SIC 9004). 
+Labels and Publishers 
+This figure is based upon the ONS (NOMIS) estimate on number of workers in the city region within the ‘Sound Recording and Music Publishing Activities’ (5920) SIC code. 
+Musicians 
+This figure is based upon BOP’s consultation with our Advisory Board discussed earlier in relation to the amount of turnover attributable to musicians. 
+Music Production services
+This is based upon BOP’s survey of relevant businesses in Liverpool. It does not, however, correspond to the total employment of these businesses but that proportion attributable specifically to music production services.   
+Instrument retailers and manufacturers 
+This figure is based upon the ONS (NOMIS) estimate on number of workers in the city region within the ‘Retail sale of musical instruments and scores in specialised stores’ (47591) SIC code. 
+Recording studios 
+This figure is based upon our mapping of recording studios. 
+Beatles attractions
+To be consistent with our other employment estimates, we have rounded to the nearest 10 the employment estimate at Beatles attractions provided in the IPM report on these attractions referenced in the text. 
+ Annex 3 - List of consultees
+
+Annex 4 - Music Education provision
+
+
+
+
+Source: University representatives and targeted internet research 
+
+
+Bibliography and references
+Accelerating Toronto’s Music Industry Growth: Leveraging Best Practices from Austin, Texas. (2012). [online] Music Canada. Available at: https://musiccanada.com/wp-content/uploads/2014/06/Accelerating-Torontos-Music-Industry-Growth-Leveraging-Best-Practices-from-Austin-Texas.pdf.
+
+Adelaide City Council Live Music Action Plan 2014 - 2016. (2018). [online] Adelaide City Council. Available at: http://livemusicoffice.com.au/wp-content/uploads/2014/08/Adelaide-Live-Music-Action-Plan.pdf.
+Adelaide Festival Centre. (n.d.). Strategic Pillars. [online] Available at: https://www.adelaidefestivalcentre.com.au/about-us/adelaide-unesco-city-of-music/strategic-pillars/.
+Austin Music Policies and Issues, Exhibit A. (2016). Austin Music & Creative Ecosystem Omnibus Resolution. [online] Austin. Available at: http://www.mayoradler.com/wp-content/uploads/2016/02/IFC_CJC-Austin-Music-Creative-Exhibit-A.pdf.
+Baker, A. (2017). Algorithms to Assess Music Cities. SAGE Open, [online] 7(1), pp.1-12. Available at: http://journals.sagepub.com/doi/pdf/10.1177/2158244017691801.
+
+Baker, A. (2016). Music Scenes and Self Branding (Nashville and Austin). Journal of Popular Music Studies, [online] 28(3), pp.334-355. Available at: http://onlinelibrary.wiley.com/doi/10.1111/jpms.12178/full.
+Berlin-music-commission.de. (n.d.). Das macht die BMC - Berlin Music Commission. [online] Available at: http://www.berlin-music-commission.de/ueber-uns/das-macht-die-bmc.html.
+beyond! before! bright! in Berlin. (2016). [online] Berlin: Sound Diplomacy for Senate Department for Economics, Technology and Research. Available at: https://www.sounddiplomacy.com/case-study-music-tech-berlin/.
+City of Melbourne Music Strategy: Supporting and Growing the City's Music Industry. [online] Melbourne: City of Melbourne. Available at: https://www.melbourne.vic.gov.au/SiteCollectionDocuments/music-strategy-final.pdf.
+Does a brand make a difference? Nashville refined “Music City” to the tune of 60+ straight months of growth and counting. (2016). [Blog] Destination Think. Available at: https://destinationthink.com/brand-make-difference/.
+Gibson, C. and Connell, J. (2007). Music, Tourism and the Transformation of Memphis. Tourism Geographies, [online] 9(2), pp.160-190. Available at: http://www.tandfonline.com/doi/abs/10.1080/14616680701278505.
+Gibson, C. and Davidson, D. (2004). Tamworth, Australia's ‘country music capital’: place marketing, rurality, and resident reactions. Journal of Rural Studies, [online] 20(4), pp.387-404. Available at: https://www.sciencedirect.com/science/article/pii/S1877916614000423.
+Guide to New Orleans Street Performance. (2015). [online] New Orleans: Music and Culture Coalition of New Orleans (MaCCNO). Available at: https://static1.squarespace.com/static/5839e0cf8419c204f71e961c/t/585c292903596e058c4262c9/1482434859986/MACCNO_street_performance_guide.pdf 
+Homan, S. (2014). Liveability and creativity: The case for Melbourne music precincts. City, Culture and Society, [online] 5(3), pp.149-155. Available at: https://www.sciencedirect.com/science/article/pii/S1877916614000423.
+Imagine: The Value of Music Heritage in the UK. (2014). [online] London: UK Music. Available at: https://www.ukmusic.org/assets/general/UK_Music_-_IMAGINE.pdf.
+Institute of Popular Music et al (2015). Beatles heritage in Liverpool and its economic and cultural sector impact. University of Liverpool.
+Katowice Music Strategy. (2018). [online] Katowice: Katowice Miasto Ogrodów and Katowice Miasto Muzyki. Available at: http://miasto-ogrodow.eu/userfiles/images/UNESCO/Polityka_rozwoju_sektora_muzycznego_w_Katowicach_EN.pdf.
+Live Music Strategic Plan:. (n.d.). [online] Ballarat: City of Ballarat. Available at: http://www.ballarat.vic.gov.au/media/4234841/livemusicstrategy.pdf.
+The Mastering of a Music City: Key Elements, Effective Strategies, and Why It’s Worth Pursuing. (2015). [online] IFPI and Music Canada. Available at: http://www.ifpi.org/downloads/The-Mastering-of-a-Music-City.pdf.
+Murray, E. (2014). ‘Musicians Priority Loading Zones’ come to Seattle – a City of Music partnership to increase safety and access for local musicians. [Blog] Office of the Mayor of Seattle. Available at: http://murray.seattle.gov/musicians-priority-loading-zones-come-to-seattle-a-city-of-music-partnership-to-increase-safety-and-access-for-local-musicians/.
+Music Cities Tool Kit. (n.d.). [online] Canadian Chamber of Commerce and Music Canada. Available at: http://www.chamber.ca/resources/music-cities/Music_Cities_Toolkit.pdf.
+Oltermann, P. (2017). The party city grows up: how Berlin's clubbers built their own urban village. [Blog] The Guardian. Available at: https://www.theguardian.com/cities/2017/apr/30/berlin-clubbers-urban-village-holzmarkt-party-city.
+Review of the Regulatory Framework Related to Live Music Venues in the City of Melbourne. (2014). [online] Music Advisory Committee for the Melbourne City Council. Available at: https://www.melbourne.vic.gov.au/SiteCollectionDocuments/review-regulatory-framework-live-music-venues.doc.
+Rosi, M. (2014). Branding or Sharing? The dialectics of labeling and cooperation in the UNESCO Creative Cities Network. City, Culture and Society, 5(2), pp.107-110.
+Sisson, P. (2017). Creative Footprint project finds numbers behind nightlife’s impact. Curbed. Available at: https://www.curbed.com/2017/4/12/15274410/berlin-nightlife-clubbing-report.
+Terrill, A. (2015). News Music Cities: Mannheim Music Model. [Blog] Music Canada. Available at: https://musiccanada.com/news/music-cities-mannheim-music-model/.
+Toronto Music Strategy Supporting and Growing the City’s Music Sector. (2016). [online] Toronto: Toronto Music Advisory Council for the City of Toronto. Available at: https://www.toronto.ca/legdocs/mmis/2016/ed/bgrd/backgroundfile-90615.pdf.
+UNESCO Creative Cities Network. (n.d.). Mannheim City Profile. [online] Available at: https://en.unesco.org/creative-cities/mannheim.
+Visitmusiccity.com. (n.d.). About the Nashville Convention & Visitors Corp | Visit Nashville, TN - Music City. [online] Available at: http://www.visitmusiccity.com/aboutncvb.
+Acknowledgements
+We would like to thank Culture Liverpool, in particular Claire McColgan, Alicia Smith and Sean Durney, for the opportunity to carry out this study. Throughout this work, we have been supported by an Advisory Board consisting of:
+Andy Dockerty, Ad-Lib
+Becky Ayres, Sound City
+Becky Pope, Constellations
+Chris Meehan, Sentric Music
+Chris Taylor, Parr Street Studios
+Craig Pennington, Bido Lito!
+Kevin McManus, British Music Experience
+Michael Eakin, Royal Liverpool Philharmonic 
+Michael Jones, University of Liverpool
+Yaw Owusu, Nothin’ But The Music
+We also gratefully acknowledge contributions from other organisations, including the University of Liverpool, Liverpool John Moores University, LIPA, Live Music Census, Music Managers Forum (MMF), PRS Foundation and UK Music, and research support from Luis Vázquez de Lara Padilla and research interns Erin Gibson and James Grant
+
+BOP Consulting
+February 2018
+
+
+
+[TABLE 1]
+ |  | 
+ | Culture Liverpool
+Developing a Liverpool City of Music Strategy
+February  2018 | 
+ |  | 
+[/TABLE]
+
+
+[TABLE 2]
+Credits
+Written and prepared by
+BOP Consulting
+Photo credits
+Mike Sheerin/Sound City
+Data credits
+BOP online surveys, LinkedIn, UK Music, Office of National Statistics (ONS), the University of Liverpool, Bido Lito! and Liverpool John Moores University, Live Music Census, Sentric Music
+This work contains statistical data from ONS which is Crown Copyright. The use of the ONS statistical data in this work does not imply the endorsement of the ONS in relation to the interpretation or analysis of the statistical data. This work uses research datasets which may not exactly reproduce National Statistics aggregates
+
+
+
+.
+[/TABLE]
+
+
+[TABLE 3]
+Strengths | Weaknesses
+Strengths in a range of core music activity: vibrant live music and festivals scene; a clutch of international and highly productive music labels, publishers and managers; and a nationally significant hub of production services and skills
+Strong music heritage, with The Beatles at its core, drives a large (and growing) visitor economy turning over £98m 
+Low cost of business premises: Liverpool has cost advantages over competitors - London, Manchester, Brighton and Glasgow – that could make it attractive both to start ups and more established music businesses looking to relocate
+Housing supply, type and cost – relatively low price-to-earnings ratios mean that young people can afford to buy a starter home and professionals with families can aspire to have both space and access to a great urban and active lifestyle
+Universities with a range of strong music-related offers and associated specialisms in creative disciplines including journalism, computer games, virtual and augmented reality
+Private sector training organisations offer industry-focused training in both performance and technical disciplines 
+http://www.ybnews.co.uk/industry/liverpool-number-one-uk-city-digital-skills/ | Image: Liverpool is not recognised as a music industry hub
+Leakage: ‘home grown’ talent leaves for London and other cities with more established industry ‘infrastructure’
+Lack of diversity in all core sectors of music
+Scale: the music sector is predominantly made up of thinly capitalised micro-enterprises, which may make it less resilient to any future economic downturn
+Linkages within the music sector and between it and the rest of the city region’s creative/tech ecosystem are poorly understood (even by businesses themselves, in many cases)
+Self-imposed limitations: the idea of ‘selling out’ is still strong
+Inclusive growth: further effort required to promote employment and entrepreneurial opportunities in music to women, young people and diverse communities
+Current public funding overly focused on provision of ‘free’ events, and failing to stimulate development of sector or address diversity
+No clear inward investment proposition as to why Liverpool is the best place to access new market opportunities in the music sector
+Division of responsibility between public bodies results in fragmented marketing of live music and visitor economy
+Opportunities | Threats
+Clustering of music sector, both geographically and in sectors that demonstrate local strengths, offers potential growth in jobs and productivity
+Other creative industries developments, such as the proposed development of Liverpool Film Studios, could further increase demand for production services, music composition and performance to complement the growth in live music and music tourism.
+Liverpool could more actively promote itself as a location for established and mid-career music industry employees, in common with other creative professionals, looking to move out of London in search of a better lifestyle and lower cost of living 9and doing business)
+Better shared utilisation of existing capacity – eg, ACC’s data and ticketing resource – could improve marketing and help attract bigger acts
+Developing the city region’s digital infrastructure to allow all parts of the sector to benefit as production and consumption of music and related creative services moves increasingly online. 
+Closer working with Universities and the thriving local tech sector to develop innovative approaches and business models to exploit new technologies for distribution, rights and revenue management, such as Ethereum and other distributed ledger (“blockchain”) methods. | Displacement of existing businesses – particularly venues - has resulted in a loss of audience and damage to the coherence of the city’s live music offer. Venues, both in traditional and emerging locations for the music sector – Ropewalks and Baltic Triangle – face competition from residential developments, particularly student housing. 
+Supply of city centre premises is tightening, and prices are rising, in part due to competition with space for residential development
+Weak demand for new music: promoters report that it is much easier to sell a club night – particularly to students – than to develop an audience for new artists. 
+Cuts to local authority and education funding may worsen position in respect of diversity and ambition to start a career in music, particularly amongst women, BAME and other marginalised communities
+Competition for audiences and investment from other UK cities
+Brexit: increased costs (both tariff and non-tariff barriers) in distribution of entertainment content, both in physical and digital form
+[/TABLE]
+
+
+[TABLE 4]
+Strategy | Adelaide | Austin | Berlin | Katowice | Mannheim | Toronto
+Summary | Weaving music culture throughout city life and supporting Adelaide’s music entrepreneurs | Creating a more music-friendly policy environment to help musicians and venues thrive in a changing city | Providing a link between government and the music sector to drive innovation in Berlin’s music industry | Putting Katowice’s music scene on the map through a new anchor music hub | Elevating a pop music city through new government and education initiatives | Applying best practice from leading music cities to create new spaces, partnerships, and opportunities for the music sector
+Developing coordinating mechanisms to support music sector alignment | Recommendation to develop a South Australian Contemporary Music Advisory Council to support and champion local music development. The SACMAC will be the body through which the City Council engages on issues and opportunities re: live music in Adelaide. | Elevate the role of the Austin Music Office in bolstering local music economic development. Responsibilities for the office to include: strategic planning, industry voice, policy and community relations, and advocacy. ‘The music office should act as a liaison between the City Manager, City Council, and local music businesses to help achieve mutual goals and build on existing private sector-initiated music ventures.’ | Berlin has established the Musicboard, which currently has three full-time employees, as a government-supported agency to act as a networking and advocacy intermediary between music venues and city officials, providing ‘knowledge transfer, coaching and consulting’ for the music industry. 
+
+The Musicboard also funds the Berlin Clubcommission which provides support around ‘legal, financial, security and health and safety issues’ for member nightclubs. | Establishment of a music hub, with a mix of public and private funding, to be advised by a steering group with representatives from UNESCO, local municipality, and the private sector, to act as a convening body for public institutions and the private sector’. 
+
+The Hub to act as the first point of contact in the city for music-related inquiries and establish a music industry advisory council to act as a conduit between the city council and local music community. | The city has a designated Commissioner of Music and Pop Culture dedicated to ‘youth, young talent and cultural development’.
+
+The Cluster Management Office serves as the designated contact office for Mannheim’s music industry and as a networking body organising working groups, hosting an Entrepreneurship Club and connecting music start-ups with potential investors. | Development of a new business networking website, featuring a listing and database of all music businesses and assets in the city. 
+
+A designated working group to encourage the development of public-private funding partnerships for the music sector.
+Bolstering music infrastructure and placemaking | Council to leverage public spaces and buildings, including the Adelaide Town hall, as key live music venues and rehearsal spaces. 
+
+‘Plug and play’ strategy for nurturing music opportunities in council-run public spaces and places. |  | In Berlin, the new Holzmarkt development is experimenting with what it looks like for a new quarter to be developed by nightclub owners and music professionals themselves. |  |  | Partnerships with commercial businesses and business districts to leverage underutilised buildings and municipal properties as music rehearsal space. The strategy also recommends the development of a music hub to act as the physical centre of the city’s music ecosystem.
+New funding streams and mechanisms for music development (including startups and entrepreneurs) | Support from the Council in facilitating funds to support, ‘the development of business acumen, creative initiatives, projects and ideas’ around music through sponsorship and grant programmes. 
+
+New seed funding for ‘creative, entrepreneurial initiatives for south Australian musicians’. | Exploring options to:’
+expand “Business Retention and Enhancement’ funding to include focus on creative/music venues; 
+
+create a foundation for music sponsorships funded by major corporations located in Austin, nationally, and internationally;
+
+add a ‘music gratuity’ to the bill at live music establishments. | Berlin’s Musicboard –funded by the City of Berlin—administers funding for companies, artists, and organisations in Berlin’s music sector, and financially supports the Berlin Music Commission to put on networking opportunities and conferences for the music business community. | The music strategy recommends looking into tax credits, incentives and relief for music business in the city through, including exploring new tax incentives related to music infrastructure. | The city established Music Park, a start-up hub for the Mannheim’s music community spanning two buildings home to 80 businesses. | The City and Music Advisory Council to help connect the music communities with potential sponsors and financiers and ‘create a sponsorship toolkit to educate the music sector on how to present and pitch their opportunities’. 
+
+Considering a hotel tax to fund music initiatives in the city.
+Easing policy and regulations in support of live music | City processes and training around noise management response for live music and operating procedures for street permits, events in public space, and liquor licensing guidelines under review to ensure ‘a proactive and balanced approach’ | Looking into potential impacts of ‘zoning’ – creating a codified entertainment district – 
+
+Proposal to streamline permits for entertainment to, ‘provide for new creative space as well as preservation of existing spaces for not only musicians but also all creative industries’. |  | Proposed review of licensing and planning systems, particularly relating to ‘noise attenuation’, use and permits for use of public space. |  | Recommends that planning, ‘acknowledge the value of pre-existing music venues in ascribing greater noise mitigation obligations to new neighbourhood entrants’.
+
+Easing and clarifying issue of performance permits for use of public spaces.
+
+Facilitating temporary loading and unloading zones next to music venues in the city.
+City branding and tourism alignment around live music |  | Recommendation to develop a joint tourism and market development plan including representatives from across city government (Economic Development, Arts and Music commissions), music industry, and cultural tourism stakeholders. |  |  |  | City to collaborate with Tourism Toronto to promote the city’s music scene externally, to develop digital resources to more easily connect visitors with live music in Toronto and to ensure hospitality workers are informed to make recommendations on music experiences. 
+
+Develop a Toronto Music brandmark to align messaging and awareness of Toronto as a music destination.
+Supporting music education initiatives |  |  |  |  | Mannheim established the Popakademie ten years ago –a public/private educational partnership that provides BA and MA-level courses on pop music and the music business and is the only high education institution in Germany dedicated specifically to pop music. | Toronto’s music plan recommends the city explore a household tax hypothecated to, ‘safeguard existing school music programs and expand current offerings, paying special attention to providing relevant music programs for at-risk youth’.
+Mapping and auditing music infrastructure |  |  | Creative Footprint, a new initiative led by Lutz Leichsenring, head of the Berlin Clubcommission, is working to measure and index music venues across the city. Their Berlin report breaks down venues by neighbourhood and gives each venue, and then the city as a whole, a score on a series of indicators including size and capacity, uses, and external perception and positioning. | Recommendation as part of their city music strategy to produce a map and assessment of the city’s music venues. |  | Strategy recommends a comprehensive mapping of the city’s music industry, including tracking venues, festivals, and music businesses; revenue and tax collected from music businesses, and overall impact of music on Toronto’s economy.
+[/TABLE]
+
+
+[TABLE 5]
+Bill | Addy | Liverpool BID
+Jake | Ansell | Live Music Census
+Becky | Ayres | Sound City
+Andy | Blackmore | Liverpool City Council
+Chris | Brown | Marketing Liverpool
+Jan | Brown | LJMU Business School
+Francisco | Carrasco | LUMA Creations
+Annabella | Coldrick | MMF
+Mike | Deane | Liverpool Music Week
+Jonathan | Dickson | Resonate
+Andy | Dockerty | Ad Lib
+Tony | Draper | Parr Street Studios
+Michael | Eakin | Royal Liverpool Philharmonic
+Jon | Egan | LCR Combined Authority
+David | Fleming | National Museums Liverpool
+Mat | Flynn | LIPA
+Joe | Frankland | PRS Foundation
+Beatriz | Garcia | Institute of Cultural Capital
+Peter | Garden | RLP
+John | Gibbons | Anfield Wrap
+Alistair | Goldsmith | Allegro
+Al | Groves | Motor Museum
+Richard | Haswell | RLP
+Philip | Hayes | 
+Peter | Hooton | Beatles Legacy Group
+Jose | Ibanez | 3rd Planet
+Mike | Jones | University of Liverpool
+Tom | Kiehl | UK Music
+Martin | King | The Beatles Story
+Joanne | Kushner | Liverpool CC
+Jon | Lawton | Crosstown Studios
+Sue | Lees | Liverpool CC
+Kevin | McManus | British Music Experience
+Chris | Meehan | Sentric Music
+Keith | Mullin | LIPA
+Mike | Murphy | Ditto Music
+Yaw | Owusu | LIMF
+Craig | Pennington | Bido Lito
+Barbara | Phillips | Positive Impact
+Dave | Pichilingi | Sound City
+Steve | Powell | Ark
+Bob | Prattey | ACC Arena
+Mark | Reader | ex-Tonewood Studios (now closed)
+Phil | Rose | Sentric Music
+Peter | Sandman | LCR LEP
+Lynn | Saunders | Liverpool Film Office
+Wendy | Simon | Liverpool CC
+Cathy | Skelly | Invest Liverpool
+Tim | Speed | Elevator Studios
+Rob | Swerdlow | Starwood
+Chris | Taylor | Parr Street Studios
+Rory | Taylor | Positive Vibrations
+Luis | Vasquez de Lara Padilla | Live Music Census
+Stephen | Vondy | I Love Live Events
+Emma | Webster | University of Edinburgh
+Beverley | Whitrick | Music Venue Trust
+Becky | Wild | Constellations
+Ben | Williams | ACC Arena
+Paula | Williams | Knowsley MBC
+[/TABLE]
+
+
+[TABLE 6]
+Institution | Student and Staff Numbers | Qualifications Offered | Graduate Destination Stats | Notes
+Liverpool Institute of Performing Arts | Staff – 63
+Contracted staff – 48
+Guest lecturers (mainly from local film industry) - 15
+
+Students - 227 | Sound Technology (BA Hons)
+Management of Music, Entertainment, Theatre & Events (BA Hons)
+Popular Music & Music Technology (Foundation Certificate)
+Music (BA Hons)
+Music (Songwriting & Performance) (BA Hons)
+Music (Songwriting & Production) (BA Hons) | (Based on a survey of students who graduated in 2017)
+
+Most alumni (85%) are currently employed, of whom all are working in performing arts-related fields, with many working freelance or self-employed. | 84% of music students are between 18 and 22
+University of Liverpool | Staff - 20
+Students – 283
+Postgraduate research - 21
+Postgraduate taught - 66
+Undergraduate - 195 | Music (BA)
+Popular Music (BA)
+Music/Popular Music (BA)
+Music and Technology (MA)
+Music (MRes)
+Music (MMus)
+Music Industry Studies (MA)
+The Business of Classical Music (MA)
+Music (MPhil/PhD) | (Based on the 2014/2015 cohort) A majority of alumni are currently employed (with 41% in full time employment and 22% part time). 11% are currently studying. | There is an almost even split of men and women enrolled in music programmes at Uni. of Liverpool (51% female and 49% male).
+
+The majority of students (63%) are 21 or under.
+Liverpool John Moores University | Staff - 7
+Students - 61
+Postgraduate PhD - 1
+Undergraduate - 60 | Audio and Music Production (BSc Hons)
+Audio and Music Production with Foundation Year (BSc Hons)
+Musical Theatre (MA) | There is a distributed mix of alumni trajectories after the programme of those securing permanent positions in the industry, those working freelance, those setting up their own businesses, and those who ultimately pursue work outside of music. | There is a relatively even mix of student geographic backgrounds, with roughly a third each from Liverpool, Northern Ireland and the rest of UK. 
+
+Most students are between 18-25 but there are some mature students as well (up to 60 years old)
+Liverpool Hope University | Staff -  36
+Full-time - 6 Lecturers/Senior Lecturers - 1 
+Administration and Part-time staff - 4 
+Visiting professors - 8 Hourly-paid lecturers - 17 
+
+Students - 113 
+Undergraduate – 71
+Postgraduate taught – 30
+Postgraduate research - 12 | Music (BA) 
+Popular Music (BA) 
+Creative Practice (MA)
+Music (MA) 
+The Beatles, Popular Music and Society (MA)
+Music (PGCE)
+Education & Music (MA) | N/A | N/A
+Edge Hill University |  | Media, Music and Sound (BA Hons) 
+Music (BA Hons) 
+Music Production (BA Hons)
+Musical Theatre (BA Hons) 
+Making Performance (MA) |  | 
+[/TABLE]
+
+
+[TABLE 7]
+Institution | Courses Offered
+Notre Dame Catholic College | Music A-Level
+St John Bosco Arts College | Music A-Level
+Music BTEC
+All Saints Sixth Form College | Music A-Level
+St Edwards College | Music A-Level
+Musical Theatre BTEC
+LMA | Music Performance & Industry (BA Hons)
+Musical Theatre (BA Hons)
+Music Performance (BTEC)
+Musical Theatre (BTEC)
+Rare Studio | Musical Theatre BTEC
+Blue Coat School | Music A-Level
+Music Technology BTEC
+The Academy of St. Nicolas | Music BTEC
+Music GCSE
+[/TABLE]

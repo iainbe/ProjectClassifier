@@ -1,0 +1,1053 @@
+
+__
+
+
+Greater Birmingham & Solihull LEP
+Proposal for a West Midlands Creative Industries ‘Scale-Up ready’ mapping study
+30 July 2019
+
+
+
+
+ 
+
+Credits
+Written and prepared by
+BOP Consulting and Curator Technologies
+Photo credits
+Daniel Alexander (@DAFilms on Twitter)
+Data credits
+DueDil, 2019
+UK Business Register and Employment Survey
+DCMS Sector Economic Estimates and Methodology, 2017
+__
+
+
+ 
+
+Contents
+1. Our understanding of the brief	1
+1.1 Definition of creative businesses	1
+1.2 Addressing gaps in the definition	1
+2. Approach and methodology	3
+2.1 Schedule of work	3
+2.2 Methodology	4
+2.3 Work packages	6
+3. Repeatability, extensibility and transferability of methodology	13
+3.1 Repeatability	13
+3.2 Extensibility into other geographies	13
+3.3 Transferability into other sectors	13
+3.4 Report of methodology	13
+4. Previous experience	14
+4.1 Sector analysis for Audience of the Future	14
+4.2 London Borough of Havering	14
+4.3 Mapping the Creative Economy of Culture Mile	14
+4.4 Digital Catapult	14
+4.5 A blueprint for growth of the videogames sector in the West Midlands	15
+5. An experienced and expert team	16
+6. Timescale and pricing	18
+6.1 Timescale	18
+6.2 Pricing	19
+7. Company information	20
+7.1 Statement of Insurance Cover	21
+7.2 References	23
+7.3 Health and Safety	25
+7.4 BIRMINGHAM LIVING WAGE	25
+8. Confirmation certificate	27
+Appendix 1:  DCMS Creative Industries groupings	28
+Appendix 2. DCMS Creative Occupations	29
+Appendix 3: Matching LinkedIn codes to DCMS Creative Industries groupings	30
+Table of Figures
+Figure 1  Key data sources	5
+Figure 2  Example of eligibility and ranking criteria used to determine ‘scale-up score’	12
+
+Our understanding of the brief
+West Midlands Combined Authority (WMCA) is one of three areas to have agreed a Sector Deal for Creative Industries. This includes funding for a creative business scale-up programme, to boost growth and productivity in the sector across all parts of the region.
+The scale-up programme is likely to be organised in the form of a number of cohorts, each of ten to twenty businesses drawn from a similar sector or across a supply chain for creative content, services, products and experiences. BOP has previously carried out a mapping of the creative economy in Greater Birmingham & Solihull, using these definitions as a baseline and assessing the strengths and opportunities within those sectors and supply chains. This mapping exercise builds on that experience and adds a number of experimental methods to provide both a fine-grained understanding of ‘scale-up potential’ and contact, financial and employment details of individual creative businesses.
+Definition of creative businesses
+The starting point of our definition of creative businesses is the DCMS Creative Industries sector: a list of official creative industries SIC codes based on the Dynamic Mapping methodology developed by Nesta and adopted by DCMS. 
+These definitions have provided the basis for creative industries mapping studies, including Nesta’s Creative Nation report (2018) and many studies carried out by BOP over the years, for the last twenty years. It breaks down Creative Industries into nine sub-sectors: advertising and marketing; architecture; crafts; design; film, television, video, radio and photography, IT, software and computer services; publishing; music, visual and performing arts; and museums, galleries and libraries. 
+The sector definitions are arrived at through analysis of the proportion of creative occupations within those industries. Both industry and occupational definitions will be used to inform both statistical analysis and selection of keywords for searches of other sources, as described in the methodology set our below, to help overcome the limitations of national statistics.
+A listing of DCMS Creative Industries sector groupings and occupations is provided in the Appendices below.
+Addressing gaps in the definition
+The weaknesses of Office of National Statistics’ Business Register and Employment Survey (BRES) data as the basis of creative industries mapping are widely acknowledged – including by DCMS itself, which commissioned an extensive survey in 2017 to identify potential ways to improve on the way in which it aggregates and analyses data on the sector. Those weaknesses include the fact that BRES represents only a sample of businesses; and that it takes into account inly registered companies, which means that it tends to underestimate the contribution of self-employed and freelance workers who may form an important element of the talent pool and capacity for innovation in the creative industries.
+Furthermore, in our recent work for Coventry & Warwickshire LEP, GBS LEP, Digital Catapult, UK Research and Innovation and others, we have established that an significant proportion of businesses engaged in production of creative content, services and experiences and manufacture of creative products do not register themselves under one of the 31 DCMS Creative Industries SIC codes, either because they have selected the ‘wrong’ SIC code for their activity, because the main activity of the company has evolved over its lifetime or because the company’s activities cover other areas (eg, manufacturing, retail, head office of a group of companies) as well as creative industries. Examples of this include:
+A digital creative business engaged in creation of immersive entertainment content or software, recorded under SIC code 63990: Other information services activities not elsewhere classified (included in the DCMS Digital Industries definition, but not in Creative Industries)
+A bespoke gents tailor, who may also have a retail premises and manufacturing capacity, registered under 47710: Retail sale of clothing in specialised stores (rather than, say, 74100: Specialised design activities.)
+The parent of a group of post-production and visual effects companies that has registered itself under 70100: Activities of head offices
+All three business could have scale-up potential and could benefit from forming part of a cohort of other creative businesses with scale-up potential: eg, a group of immersive content developers, a fashion cohort or a group of film and television production companies, respectively.
+Jewellery
+	•	We know that the extent of jewellery trade activity within DCMS Creative Industries definition is limited to the SIC code 32120: Manufacture of jewellery and related articles. Other ‘adjacent’ codes are excluded on the basis that these industries do not contain a sufficiently high proportion of ‘creative’ workers (determined by the list of Standard Occupational Classification codes used to determine which SIC codes meet the definition of a Creative Industry sub-sector.) These may include:
+	•	47770: Retail sale of watches and jewellery in specialised stores
+	•	32130: Manufacture of imitation jewellery and related articles
+We feel that there may potential in Birmingham, with one of the UK’s largest and most strongly clustered jewellery sectors, to form a cohort of jewellery designers within its ‘scale-up’ programme; but some of the businesses most likely to scale may be defined by their retail or manufacturing activities, rather than by design. 
+We will use a mixture of methods, described in our methodology section below, to seek to identify and validate creative businesses in this sector.
+Digital creative businesses
+ We would therefore look to add to our initial scan of businesses within DCMS Creative Industries SIC codes a limited number of SIC codes from within DCMS’s Digital Industries definition which, in our experience, include a significant minority of companies with creative outputs that are appropriately aligned with other Creative Industries firms – including:
+62090: Other information technology and computer service activities
+63910: Other news agency activities (also part of the related DCMS definition of the Audio Visual sector)
+63990: Other information services activities not elsewhere classified
+The methodology set out below will explain how we will then combine other commercial and public data sources to arrive at a list of creative businesses which takes account of the significant proportion of digital businesses that can be considered as part of the creative industries supply chain and which in turn provide evidence of their scale-up potential..
+Approach and methodology
+Schedule of work
+The work will be divided into three phases, each subdivided into work packages. Individual work packages are described in more detail below; here, we describe the sequence and logic chain for our proposed activities.
+Phase One - Identification
+Using a mix of public, commercial, online and private sources to identify the total pool of creative businesses within the WMCA geography:
+	•	WP1: Identify all creative businesses (defined by DCMS Creative Industries definitions and including some Digital SIC codes, as outlined at 1.2 , above) in WMCA constituent and non-constituent member and partner areas
+	•	WP2: Identify creative businesses within UK Creative Industry and sector networks and WMCA hubs (including Meetups)
+	•	WP3: Identify creative businesses who have received or are looking for private finance
+	•	WP4: Identify creative businesses who have received or are looking for public finance, including funding for R&D
+Phase Two – Analysis and assurance 
+Using a mix of commercial and free data sources in an experimental methodology to, (a) assure that the companies identified in Phase One are active creative businesses and (b) find additional evidence to define their scale-up potential and (c) identify contact details:
+	•	WP5: Scrape of all websites of companies within the list
+	•	WP6: LinkedIn analysis – including keyword search
+	•	WP7: Social media analysis 
+	•	WP8: Recruitment analysis 
+ Phase Three – Ranking  
+This process will result in a list of creative businesses ‘RAG rated’ (red, amber, green) against ‘scale-up’ common application gateway criteria and confidence factors. (see Figure 3, below for examples):
+	•	WP9: Scale-up score
+Optional survey
+We have considered the potential to design and implement an online business survey as a further refinement of the validation and ranking process of eligible businesses that meet the common application gateway criteria. However, we have not included it in our main proposal as it may not need to be deployed unless there are insufficient businesses that pass the common application gateway criteria and/or have a high or very high scale-up score identified by the initial three phases of work.
+Methodology
+Use of innovative data sources
+We describe this as an ‘experimental’ methodology – in that it uses a mix of national statistics, commercial and publicly-available data source. But in fact, we have refined this approach over the course of the last two years across several projects, at local authority, regional and national level, as described at Section 4, below.
+Our approach moves away from dependency on a single set of sample-based national statistics (as enshrined in the methodology for DCMS sector estimates) to use commercially available data that are collected on an individual company and job basis and updated in real time. Examples are shown at Figure 2, below; and a table showing how LinkedIn occupational codes relate to DCMS Creative Industries sector groupings is appended to this document.
+
+Figure 1  Key data sources
+ 
+Source 
+Theme 
+Benefit 
+Output
+DueDil
+Creative industries companies 
+Search companies within SIC codes and Keywords 
+Number and age of companies across CCI industries 
+Breakdown by creative industries sub-sector
+Linkedin
+Workforce of creative businesses 
+Deep dive into workforce profiles across whole of Linkedin
+Creative Industries workforce numbers, skillsets, experience and location. 
+
+Crunchbase 
+Investment 
+Worldwide view on investment activity within Creative Industries sector
+Investment activity in UK
+ONS 
+Creative Industries Workforce & Company 
+ONS is cruder than other analyses but will give a standardised regional view to help verify other data analysis 
+Creative Workforce and creative businesses (DCMS CI definition) at regional level 
+Grants & Research database
+Public Investment 
+Search research projects with keywords 
+Number and value of public investment 
+Adzuna and  Glassdoor
+Workforce 
+Set keywords for search from job adverts 
+Keywords for analysis, salaries and volume of job adverts 
+
+Source: BOP Consulting and Curator Technologies, 2019
+
+
+Keyword search
+Use of sector definitions is augmented by keywords that interrogate in more detail the sub-sector, market vertical, product, services and roles within the creative industries. The exact structure of primary and secondary keywords is determined by the specification and outputs in the ITQ, but in this case they may include:
+	•	Industry sector (which can be correlated against Companies House records of SIC codes and LinkedIn industry codes)
+	•	Skills (which can be correlated against SOC codes)
+	•	Themes
+	•	Technologies (eg, Augmented or Virtual Reality)
+	•	Markets
+	•	KPIs of the ‘scale-up’ programme
+Development and refinement of data
+We have already tested the approach proposed here by means of an initial high level scan of the proposed sources. 
+Agile project management
+The project will be managed using ‘agile’ techniques, defined by a number of sprints, some of which will overlap (as they will be carried out by different teams.) This will allow us to continuously improve our method and improve accuracy of our results by iterative refinement of the findings through combining and comparing the different data sources.
+ Work packages
+Phase One: Identify a list of creative businesses in West Midlands Combined Authority area
+WP 1: Identify all creative businesses in WMCA 
+Inputs
+	•	Analysis of Companies House data via DueDil, searching for companies based upon keywords as well as SIC codes. 
+	•	DueDil also used to interrogate company finances (only available for financial reporting companies), directors and company relationships, serial entrepreneurs and company sizes. 
+Outputs
+This process will enable us to create a directory of creative businesses within WMCA registered to relevant SIC codes. 
+	•	Companies with DCMS CI SIC codes
+	•	DCI companies mapped to identify clusters/hubs
+	•	Identification of high growth financial reporting companies (initial results show 50-100)
+	•	Identification of companies by age 
+	•	Identification of potential serial entrepreneurs  
+Risks 
+Companies have not categorised themselves into correct SIC codes 
+Mitigation
+	•	Include categories adjacent to DCMS Creative Industries defiinitions where companies may sit, from our experience we have identified these (see note on sector definition, above)
+Start date: 19 August 2019
+
+WP2: Identify creative businesses within national and regional bodies
+Create a members list pool from membership directories and information about funding awards held by UK Creative and Digital industry bodies, and (keyword-based) web search of Meetups for the West Midlands
+National industry and sector bodies
+	•	Ukie
+	•	TIGA 
+	•	BIMA 
+	•	IPA 
+	•	BFI 
+	•	Arts Council  
+	•	Creative England 
+	•	Creative industries Federation
+	•	RIBA
+	•	The Publishers Association
+	•	The Theatrical Management Association
+	•	British Fashion Council 
+	•	UKFT (fashion and textile manufacturers)
+	•	PRS / MCPS
+	•	UK Music 
+	•	Musicians’ Union
+	•	DCMS 
+	•	Nesta 
+	•	Tech Nation 
+	•	Pact
+	•	The Indie Club
+	•	Crafts Council
+	•	Design Council
+	•	Media Trust
+Regional bodies
+	•	Mailing lists of companies held by LEPs, Growth Hubs and local authorities
+	•	Workspace providers – eg, Custard Factory 
+	•	ACE West Midlands
+	•	Film Birmingham
+	•	Research institutes (eg, WMG)
+	•	Science Parks
+	•	West Midlands Creative Industry Networks and Meetups, eg, Silicon Canal, Digital Birmingham, VRARA Birmingham
+	•	Local Incubators and Accelerators 
+	•	Universities (including business schools)
+	•	Creative Industry Charities and CICs (eg, Rural Media)
+Output 
+	•	List of member companies associated to each body to, (a) cross check against DueDil and (b) start the process of identifying sector-specific cohorts
+Risks
+	•	There is no way of identifying if companies are active, dormant or dissolved
+	•	There is no accurate way of identifying companies as DCMS 
+Mitigation
+	•	Parse list against Companies House data (from DueDil)
+Start date:  19 August 2019	
+
+Milestone:   Initial list of creative businesses (without contact details), combining outputs of WP1 and WP2, shared with the client by 02 September 2019
+
+
+WP 3: Identify companies that have received or are looking for private finance
+Crunchbase’s platform identifies companies that have received investment. Keyword search of Crunchbase for creative products and services will enable us to create a wider list of West Midlands creative businesses, ie. Including those outside DCMS CI sector groupings, which have received finance, as well as the level of finance they have received and the number of funding rounds. 
+We will also be able to create a list of creative businesses who are yet to receive finance but have created profiles on Crunchbase in order to attract investors. 
+Output 
+	•	List of companies who have received finance (initial searches indicate that this is 100-150 companies in WMCA area)
+	•	List of companies who have a profile on Crunchbase (initial searches show 300-350)
+Risks 
+	•	There is no way of identifying if companies are active, dormant or dissolved
+	•	Crunchbase does not allow us to identify companies within DCMS CI SIC codes
+Mitigation
+	•	Parse list against Companies House data from DueDil
+Start date:  19 August 2019		
+ 
+WP 4 – Identify creative businesses that have received or are looking for public finance (including R&D funding)
+Grants and Research database holds a list of all organisations and companies who have received grants from InnovateUK (UK’s main R&D grant body) and funding for PHD’s or post doctorates through Knowledge Transfer Partnerships. 
+Output 
+	•	Identification of R&D grant projects within WMCA within the last three years, active and competed. (initial results show 250-300)
+	•	Filtering of projects to identify companies 
+Risks 
+	•	Grants and Research database does not identify whether companies are active, dormant or dissolved
+	•	Grants and Research database does not include SIC codes 
+Mitigation
+Parse list against Companies House data from DueDil
+Start date: 4 September 2019
+Milestone:   List of creative businesses (without contact details), combining outputs of WP1 to WP4, shared with the client for review and comment by 16 September 2019
+	•	 Phase Two:  Analysis and assurance of list of creative businesses to identify high growth companies
+This process is made up of four steps that will enable us to analyse the companies gathered in Phase One and create a detailed list of high growth creative scale-up candidate companies within the WMCA area. 
+WP 5: Scrape websites of all companies within the list 
+	•	Scraping all company websites will help us to further define their creative activity based upon keywords: e.g., games, immersive, advertising etc. 
+	•	Where companies have team or staff pages on their website, we will be able to estimate staff numbers to determine their eligibility in terms of the common application gateway criteria.
+Output 
+	•	This process will also enable us to parse all companies, filtering out non-creative businesses and categorising those who fit DCMS categories 
+	•	Assuring that at least one of the company’s main products or services is within one of four creative supply chains (content, services, experiences, physical products) helps establish the eligibility of companies registered at Companies House under an SIC code outside the DCMS Creative Industries definition
+	•	Workforce list for companies with team or staff pages will be used to prepare an estimate of employment levels
+Risks 
+	•	Companies have not categorised themselves into correct DCMS codes 
+Mitigation
+Include additional companies whose website gives strong evidence of creative business activity, even if their non DCMS broad categories where companies may sit, from our experience we have identified these (see ‘Addressing gapes in the definition,’ above)
+Start date   30 September 2019		
+
+WP6: Linkedin 
+Through investigation on Linkedin we can estimate the total number of employees and their roles within each company.  
+Output 
+	•	Workforce list for companies 
+Risks 
+	•	Not everyone is on LinkedIn 
+	•	Many people do not update their profiles. 
+Mitigation
+Curator has been using Linkedin for sector and workforce mapping for over four years and has created a series of models for uplifting workforce numbers based upon their sector’s usage of linked and company size; including comparisons with national estimates of total numbers of workers in a sector. We will give the client both raw and uplifted numbers. 
+Start date: 30 September 2019
+
+
+WP 7 – Social analysis   
+Scraping all company social media profiles will help us to define their activity, reach i.e. number of followers etc, volume (level of activity) and engagement (social discussion etc) 
+Output 
+	•	Score for companies’ social presence based upon reach, volume and engagement 
+Start date:   14 October 2019
+
+WP8: Recruitment analysis   
+Analysis of each company’s recruitment over the last 12 months through interrogation of commercial recruitment sites including Glassdoor, Adzuna, Indeed, and others. 
+Output 
+	•	Number of vacant posts advertised 
+	•	Level of seniority of roles advertised 
+Start date: 21 October 2019 		 
+
+Milestone:  long list of potential companies assembled for final analysis and application of scale up score by 8 November 2019
+ 
+Phase Three: Scale-up scoring
+We will collate the outputs of Phase Two in a table which will give a ‘red, amber, green’ score for each of the common application gateway criteria and a high growth indicator: 
+Common application gateway
+	•	Creative Industries Sector – company’s main activity is registered at Companies House under one of the SIC codes identified within DCMS Creative Industries sector
+	•	Financial growth – actual figures, based upon accounts from previous 3 years, to identify growth of at least 10% 
+	•	Employees – estimate of number of employees and contractors to assure that the company meets the gateway criterion of 8 employees 
+Scale-up indicators
+	•	Private sector investment – volume of investment and potential IP registered on commercial investment websites; seeking investment 
+	•	from professional and ‘angel’ investors is a strong indicator of ambition to grow the business, irrespective of amount
+	•	Public investment –receipt of public funding for product development or collaborative R&D is an indicator that the company is looking to invest in development of IP 
+	•	Social media index – indicator of businesses with marketing budget and collateral i.e. client testimonials and case studies 
+	•	Recruitment index – to identify which companies have used online recruitment sites in the last six months, the number of posts and level of seniority of the role(s) advertised
+
+WP9: Scale-up scoring   
+Based upon the data on each company we will now be able to create final spreadsheet of companies, scoring their eligibility for the scale up programme and a confidence level for their growth. 
+Output 
+	•	Categorisation of companies into Creative Industries sub-sectors
+	•	Scoring for eligibility (sector, growth and employees) against common application gateway criteria
+	•	Confidence score based on
+	•	Private sector investment 
+	•	Public sector investment 
+	•	Social activity 
+	•	Recruitment activity 
+	•	Contact details for companies 
+Start date: 28 October 2019
+Scale-up score
+	•	Eligibility – if the company meets all three common application gateway criteria, it is scored ‘green’ and is automatically eligible for the scale-up programme. However, we are aware that WMCA is concerned that there may not be enough companies in the region that meet all three criteria, so we will also give an ‘amber’ rating to companies that meet one or two criteria.
+	•	Confidence – is the combined score of scale-up indicators:
+	•	Very high- company meets all four indicators
+	•	High – company meets three indicators
+	•	Medium – company meets two indicators
+	•	Low- company meets one indicator
+	•	Very low – company does not demonstrate that it meets any of the indicators
+	•	
+Milestone: final database of scale-up companies, broken down by DCMS Creative Industries sub-sector, with scale-up scores and contact details, delivered by 22 November 2019
+The eligibility and confidence scores can be used together to determine whether companies who do not meet the common application criteria should be considered for entry to the programme. 
+An example of how this may appear in the final list of scale up companies is shown at Figure 2, below.
+
+Figure 2  Example of eligibility and ranking criteria used to determine ‘scale-up score’
+Company name 
+Common application gateway criteria
+Scale-up indicators
+Scale-up score
+
+
+Creative Industries Sector
+Financial growth
+Number of employees
+Private sector investment
+Public investment
+Social media
+Recruitment
+Eligibility  
+Confidence
+Flinch Interactive 
+Iain Flinch CEO 
+iain@flinch.co.uk 
+Tel: 07796 4322xx
+IT, Software & Computer Services
++12%
+7
+Y
+£ Undisclosed
+N
+Very active 
+4 adverts -mostly junior roles
+Amber
+Sector 
+Growth 
+Employees x
+Medium
+(2 Green rankings)
+
+
+Green   
+Amber 
+
+Green
+
+Green 
+
+Amber 
+
+
+
+Green
+
+
+
+Red
+
+
+
+
+BigAd Serve 
+Phil Matthews CEO 
+Phil@bigad.com 
+Tel: 07734 4322xx  
+Advertising 
+Undisclosed 
+12
+Y 
+£150k
+N
+Very active 
+3 adverts  - mostly senior roles
+Amber
+Sector 
+Growth x
+Employees 
+High
+(3 Green rankings)
+
+
+
+
+Green
+Red   
+Green  
+
+
+
+Green
+
+
+
+Red
+Green 
+
+
+
+Green 
+
+
+Neurontics 
+Nigel Neuro CEO 
+nigel@neuro.co 
+Tel: 07547 4322xx 
+Other information services nec 
+
++21%
+
+25
+Y 
+£ Undisclosed
+
+Y
+
+Very active 
+
+2 adverts –senior roles
+Amber
+Sector x
+Growth 
+Employees 
+Very High
+(4 Green rankings)
+
+
+
+Amber
+
+
+Green   
+
+
+Green  
+
+
+Green
+
+
+Green
+
+
+Green 
+
+
+Green
+
+
+Source: BOP Consulting and Curator, 2019 – company examples and details are fictitious and for the purpose of illustration only
+
+Repeatability, extensibility and transferability of methodology
+Repeatability
+The method proposed is based upon work previously carried out by BOP Consulting and Curator Technologies working together to address problems of identifying populations and clustering of creative businesses, including nascent sectors such as immersive creative content developers.
+Whilst we describe it as an ‘experimental’ methodology, in that it moves away from reliance on national statistics to incorporate more up-to-the-minute commercial evidence of company performance and real time social media and recruitment information contributed by employers and employees working within the sector, it has been proven to be robust both in its application to studies of creative industries within the UK and in its use within City Curator, a commercial product that uses the same sources as the basis of investment benchmarking of 27 cities across UK, Europe and North America.
+The method combines use of national statistics, Companies House data (parsed via DueDil), LinkedIn and commercial databases of investment (eg, Crunchbase) and recruitment (eg, Glassdoor, Adzuna, Indeed.)  LinkedIn is a global product, owned by Microsoft, with 26 million UK members. The commercial platforms used are stable businesses; but if one or more of them were to fail, the same data would be available through other sources. 
+Extensibility into other geographies
+Elements of the methodology have previously been used at different levels of geography, from local authority (London Borough of Havering) to national studies (sector analysis for evaluation of Audience of the Future, Digital Catapult study of barriers to growth of UK immersive content producers). 
+Both public and commercial datasets are available that cover the whole of the UK, and the study can be repeated at any level of geography, including bespoke geographies – for Audience of the Future, we came up with a listing of the top 20 UK cities, which involved determining functional economic geographies around core and key cities in all four nations, and compared these with results at NUTS1 level to understand where clustering of immersive creative content producers was happening.
+Transferability into other sectors
+The methodology is informed by the development of a commercial product, City Curator, which uses a similar set of data sources to provide international benchmarking of 27 UK, European and North American cities for companies looking to invest or relocate. City Curator already includes a wider definition of the digital sector amongst the options for comparison, including emerging sectors such as fintech and edtech. A new commercial application is in development that will see its coverage extend to advanced manufacturing and other business and professional service sectors.
+In its international application, City Curator also ranks university and private sector R&D and innovation centres, which is of direct relevance both to other sectors and to the ‘grand challenges’ within UK Industrial Strategy.
+Report of methodology
+BOP Consulting and Curator Technology will prepare a report of the methodology to be shared within the client organisation and with the Creative Sector ‘scale-up’ programme sponsors at DCMS, subject to an agreement that reflects commercial confidentiality and prior intellectual property rights.
+Previous experience
+In addition to BOP’s 2017 mapping of the Creative Economy of Greater Birmingham & Solihull LEP, which highlighted the importance of spillovers between the creative industries and other high-growth sectors of the West Midlands economy, the last three years have seen BOP develop a portfolio of innovative approaches to mapping of creative industries sectors, clusters and firms. Our work in this respect is action-focused and informed by a strong awareness of ‘place’ – in particular, looking to identify ‘smart specialisations’ and supply chain relationships within localities and regions that offer actual or potential competitive advantages that can drive future productivity growth.
+Sector analysis for Audience of the Future
+BOP and Curator are currently working together to carry out the analysis of the immersive creative content sector as part of an evaluation of the Audience of the Future programme for UK Research and Innovation. 
+BOP and Curator developed an experimental methodology that combined national statistical data from the Business Register and Employment Survey with analysis of Companies House records (parsed via DueDil), LinkedIn records (to identify the size of the UK workforce with immersive skills, including technical skills) and commercial investment and recruitment databases.
+Data was recombined at national, NUTS1 and a bespoke ‘top 20’ cities level to help analyse clustering of immersive firms and the impact of other Industrial Strategy Challenge Fund investments, notably Arts & Humanities Research Council awards to nine university consortia to form R&D partnerships with creative businesses, on growth of the sector.
+London Borough of Havering
+BOP and Curator collaborated on mapping of cultural and creative industries for London Borough of Havering. An innovative methodology combined analysis of the Business Register and Employment Survey (BRES) via NOMIS with commercial data sources including DueDil and Crunchbase to help identify emerging strengths and sources of resilience in the local creative economy. Companies were mapped down to Medium Super Output Area (MSOA) level in order to identify specific clusters and risks of displacement from regeneration plans for Romford town centre. Our recommendations also highlighted potential for Rainham to become a strategic location for creative manufacturing within the Thames Estuary Production Corridor (TEPC) – an opportunity that had been overlooked in a wider mapping exercise carried out on behalf of TEPC by other consultants.
+Mapping the Creative Economy of Culture Mile
+BOP worked in partnership with placemaking consultancy Publica to map the creative economy of the Culture Mile within the City of London. Mapping of creative firms down to a Local Super Output Area (LSOA) level, backed by a street-by-street analysis of the different typologies of creative business across the City, highlighted distinct clusters of creative businesses. This combined approach helped identify the supply chain and research and development relationships between them and with the larger cultural organisations, Barbican, London Symphony Orchestra, Museum of London and Guildhall School of Music & Drama. This pointed up a much stronger and more direct relationship between public investment in innovation in the arts and knowledge transfer through creative businesses and into the wider tech and knowledge economy than had previously been suspected. The findings were expressed in the form of a Theory of Change 
+Digital Catapult
+BOP and Curator jointly developed an experimental methodology to establish the population of immersive content and technology companies in the UK, identifying clusters and smart specialisms in locations across the four nations to provide the basis of an analysis of barriers to growth in access to investment, production techniques and distribution networks for the sector.
+A blueprint for growth of the videogames sector in the West Midlands
+BOP was commissioned by Coventry & Warwickshire LEP and Ukie, the national videogames industry association, to carry out a mapping study of the games sector in and around Leamington Spa. The BOP team, led by Iain Bennett, combined  mapping, primary research with local businesses and stakeholders and case studies of other international digital clusters. The final report highlighted the importance of smart specialisms in technology and IP development in Leamington Spa in building the strength of the West Midlands digital sector. The final action plan contained recommendations for skills, capital and cluster development for the sector, as well as actions to harness the cultural impact of games in education and the visitor economy.
+
+
+
+An experienced and expert team
+West Midlands Combined Authority is looking to establish a valuable information and analytical resource of a kind that does not currently exist
+BOP has assembled a bespoke team to deliver upon these aims.  
+ 
+Jonathan Todd will act as Project Director for this team. He joined BOP as Chief Economist, having managed the research programme of UK Music, the umbrella trade body for the commercial music industry, for four years. At UK Music, he managed all research output, including Wish You Were Here, a ground-breaking study that quantifies the economic and tourist impacts of live music upon the UK. At BOP, he developed and implemented a similar methodology to quantify the economic and cultural impacts of festivals upon Ireland. 
+At BOP, Jonathan leads our work on economic impact assessment – in which he has 15 years’ experience. Jonathan led the quantified analysis in the GBSLEP Creative Economy mapping project discussed above, Economic Impact research for Leeds 2023 and BOP’s impact study of the creative sector in Warwick District For BOP, he has also pioneered assessment of the economic impact of fashion in east London, advised the Midlands Engine on better utilising culture to achieve their economic aims, and undertaken analysis to support the case for Channel 4 to relocate to the West Midlands. He lives in the Jewellery Quarter, Birmingham, where he co-founded 1000 Trades, a neighbourhood bar and arts venue.  
+Iain Bennett, Associate Director, BOP Consulting
+Iain will be Project Manager. He has 30 years’ experience in digital and creative industries, working in senior roles in public, private and educational sectors. In those roles has both developed, sponsored and delivered significant programmes to support the development of the creative and digital sector, including: Strategy for Digital & Creative Industries for Northwest Regional Development Agency (2006-11), to underpin the development of MediaCityUK and the relocation of five BBC departments and 2,500 staff.
+At BOP Consulting he is currently developing a framework for the development of Wakefield Creativity Network and is leading on sector analysis for a three-year-long evaluation of Audience of the Future, a £33 million programme of investment into immersive creative content sector, for UK Research and Innovation. Recent relevant experience includes a study of cultural and creative industries for London Borough of Havering (2019); research into barriers to investment, production and distribution in the UK’s immersive economy (Digital Catapult, 2018); mapping the creative economy of Culture Mile (City of London Corporation, 2018). In the West Midlands, Iain managed the mapping of the creative economy of Greater Birmingham & Solihull LEP (2017/18) and was author of a ‘Blueprint for growth’ for the games sector in Leamington Spa and the West Midlands for Coventry & Warwickshire LEP and Ukie (2017). He also co-wrote an evaluation of digital clusters outside London for the Digital, Creative and Design Knowledge Transfer Network, part of Innovate UK (2015).
+Marta Moretto, Senior Researcher 
+Marta’s recent projects include project managing BOP’s impact study of the creative sector in Warwick District; carrying out demographic and spatial analysis of British Council’s UK programmes and partners; a study for UNESCO providing quantitative evidence and data on a major report looking at the progress made on promoting the Diversity of Cultural Expression around the world via the 2005 Convention; and data analysis of surveys of grantees across both the Catalyst and Catalyst:Evolve major arts fundraising programmes for Arts Council England. 
+Simon Sprince, Managing Director, Curator Technologies
+Simon is the Co-founder and Managing Director of Curator Technologies Ltd, and a Dealmaker on the Department for International Trade’s Global Entrepreneurs’ Programme. His background is in digital media with over 20 years’ experience of content and application production. He specialises in analysing user and market trends and understanding how they influence the development of new products and services. This experience, and his in depth understanding of the key sub sectors of digital and creative industries as well as the technologies and markets that drive them, led him to develop City Curator. City Curator is a tool for investors, businesses and investment agencies to understand the dynamics and relative competitiveness of different locations across Europe and North America. It draws on real time information (both open source and licensed) from a range of sources (including LinkedIn, Crunchbase and DueDil) to profile the skills, talent and capacity of the creative and digital economy at a city, regional or national level.
+Simon has co-designed Curator’s collaborations with BOP in mapping creative sectors, including the evaluation of Audience of the Future for UK Research & Investment (2019), London Borough of Havering (2019) and a study of barriers to the growth of the UK’s immersive content sector (Digital Catapult, 2019).
+He brings in depth knowledge of the capacity, projects and individual academics within key UK research centres, and up-to-date knowledge of the eligibility and application of a range of UK R&D Grant Funding schemes and tax incentives.
+Andy Goodwin, Senior Research Analyst, Curator Technologies
+Andy is a high performing manager with expertise in collaborative research, stakeholder engagement, innovation processes and project delivery. Prior to joining Curator, he was Collaborative Research manager for Open Labs at Liverpool John Moores University. In this role he provided bespoke research to academics and industrial partners on emerging technology opportunities and advised clients on business innovation, market opportunities and new technology product development.
+Andy was senior research analyst on Curator’s collaborations with BOP, including the evaluation of Audience of the Future for UK Research & Investment (2019), London Borough of Havering (2019) and a study of barriers to the growth of the UK’s immersive content sector (Digital Catapult, 2019).
+Andy has a BSc (First Class) in Geography from University of Liverpool and is a certified PRINCE 2 practitioner. Andy will be responsible for research and analysis of key market and sector data and identification of new methods, techniques and data sources for improved analysis.
+Timescale and pricing
+Timescale
+Figure 3  Proposed timescale for ‘scale-up ready’ research
+
+
+Milestones
+
+Pricing
+We undertake to deliver the research as described above for the fixed sum of £29,987 excluding VAT.
+
+
+Company information
+
+Name of Organisation 
+Burns Owens Partnership Ltd
+Trading Name of Applicant
+BOP Consulting Ltd
+Address of Registered Office
+3-5 St John Street
+London
+
+Postcode
+EC1M 4AA
+Company Registration No. (if applicable)
+04665658
+Date of Registration
+13th February 2003
+Certificate of Incorporation, and all certificates of change of name issues by the Company Registrar
+
+(Or include reasons if not applicable)
+ Yes
+
+ No
+Is the applicant a consortium joint venture or other arrangement? If so, please provide details of the constitution
+ Yes
+
+ No
+Contact Name for enquiries about this application
+Richard Naylor
+Telephone Number
+020 7253 2041
+Fax Number
+n/a
+Email
+richard@bop.co.uk
+
+
+
+The Quotation Provider must inform GBSLEP if they are receiving funding to undertake similar or related activities to that defined in this procurement exercise. Please provide details with your quotation in the table below.
+
+Funder 
+n/a
+Funding Activities
+n/a
+Date
+n/a
+Period of Funding 
+n/a
+
+Statement of Insurance Cover 
+Details of existing policies which will provide insurance cover for the contract
+Public Liability Insurance
+
+(Minimum Cover: £1m for each
+and every incident)
+Insurer 
+Allianz Insurance
+
+Policy Number
+TX13592839
+
+Level of Indemnity
+£5,000,000
+
+Limit for Single Event
+£5,000,000
+
+Expiry Date
+28th May 2020
+Professional Indemnity Insurance
+
+(Minimum Cover £500,000 for each and every incident)
+Insurer 
+Allianz Insurance
+
+Policy Number
+TX13592839
+
+Level of Indemnity
+£2,000,000
+
+Limit for Single Event
+£2,000,000
+
+Expiry Date
+28th May 2020
+Employers’ Liability Insurance
+
+(minimum statutory limit as laid down by legislation)
+Insurer 
+Allianz Insurance
+
+Policy Number
+TX13592839
+
+Level of Indemnity
+£10,000,000
+
+Limit for Single Event
+£10,000,000
+
+Expiry Date
+28 May 2020
+
+Details of any new policies or endorsements to existing policies that will be required to comply with the insurance provisions of the contract.
+
+Type of Policy
+n/a
+Proposed Insurers
+
+Details
+
+
+Details of Insurance Agent/Broker
+
+Name
+Champion Insurance Brokers Ltd
+Address
+1 Worsley Court
+High Street
+Worsley
+Manchester 
+Postcode
+M28 3NJ
+Contact Name
+Dan Maloney
+Telephone No.
+03330 430 430
+Fax No.
+n/a
+Email
+info@champion-insurance.co.uk
+
+
+I confirm that the insurances detailed in paragraph 2.1 and 2.2 will provide all the Insurance cover required under the Contract.
+
+I agree that the details provided in the insurance statement may be checked with the Insurance Agent/Broker named above
+
+In the event that our offer is under consideration I agree to arrange, with the insurers the provision of a Statement to GBSLEP: -
+	
+	•	that valid Insurance is held in accordance with the requirements of Conditions of Contract;
+	•	that all premiums due to the Insurer have been paid including instalment payments;
+	•	that the Insurer agrees to give notice forthwith to GBSLEP of withdrawal or intention to withdraw insurance cover in connection with the project.
+
+Date
+
+Signatures of Quotation Provider/Agent
+
+Trade of Business Name
+
+Address
+
+
+
+
+Telephone No.
+
+Email
+
+
+
+References
+
+
+Reference 1
+Organisation (Name):
+Warwick District Council
+Customer Contact Name 
+
+Customer Telephone No:
+
+Customer Email Address:
+
+Date Contract Awarded:
+
+Contract Completion Date:
+
+Contract Reference and Brief Description:
+
+Contract Value:
+
+Contract Outcomes:
+
+
+
+Reference 2
+Organisation (Name):
+Coventry & Warwickshire LEP
+Customer Contact Name 
+Sarah Windrum
+Customer Telephone No:
+01926 452462
+Customer Email Address:
+Sarah.windrum@emeraldcomms.co.uk
+Date Contract Awarded:
+06 October 2016
+Contract Completion Date:
+22 February 2017
+Contract Reference and Brief Description:
+Mapping of computer games sector in the West Midlands and development of an action plan for the growth of the sector.
+Contract Value:
+£14,938 + VAT and expenses
+Contract Outcomes:
+Delivery of report and action plan
+
+Have you had any contracts terminated for poor performance in the last three years, or any contracts where damages have been claimed by the contracting authority?
+ Yes
+
+ No
+
+If “Yes” please give details:
+
+Health and Safety 
+
+Please provide evidence that you have a health & safety management policy. If your organisation holds Health & Safety accreditation by SSIP (Safety Systems in Procurement Forum) assessment provider, or, UKAS accredited certification to OHSAS 18001 you should provide a copy of a valid in-date accreditation certificate as evidence.
+
+Answer	
+
+
+Birmingham Living Wage
+
+You are required to pay employees the Birmingham Living Wage in accordance with Birmingham Living Wage Policy.  The Birmingham Living Wage is not the same as the National Living Wage which is a legal requirement (see embedded attachment). The Birmingham Living Wage is the same as that set out by the Living Wage Foundation and independently determined on an annual basis by the Centre for Research in Social Policy at Loughborough University.  The current living wage rate is £9.00 per hour. (https://www.livingwage.org.uk/)		                                        
+       Please confirm you will pay the Birmingham Living Wage in accordance with the Birmingham Living Wage Policy.
+ Yes
+ No
+Confirmation certificate
+
+	•	BOP Consulting Ltd confirm that we understand and accept that GBSLEP has in its Invitation to Quote stated that the terms and conditions to this ITQ are in accordance to those set out in the Standard terms and conditions. 
+
+	•	BOP Consulting Ltd confirm that the quotation submitted is on the basis as set out in the document and that a relevant consideration for GBSLEP determining to proceed with the evaluation of our quotation is that we do not seek to negotiate on the Specification, or the standard terms and conditions.
+
+	•	 If for any reason following the submission of our Quotation we seek to propose any changes to the Specification, Terms and Conditions or to put forward any proposal which conflicts, and we do not withdraw that change following a written request to do so by GBSLEP then we agree GBSLEP may determine not to evaluate our tender submission any further.
+
+Date
+30 July 2019
+Quotation Provider’s Signature
+(by a director)
+
+
+Name of director in block capitals
+Richard Naylor
+Quotation Provider’s name
+BOP Consulting Ltd
+Quotation Provider’s address
+3-5 St John Street, London EC1M 4AA
+Quotation Provider’s telephone number
+020 7253 2041
+Quotation Provider’s facsimile
+transmission number
+
+Quotation Provider’s e-mail address
+tenders@bop.co.uk
+
+
+
+Appendix 1:  DCMS Creative Industries groupings
+The DCMS Creative Industries groupings are:
+Advertising and marketing 
+	•	Public relations and communication activities 
+	•	Advertising agencies 
+	•	Media representation 
+
+Architecture
+	•	Architectural activities 
+
+Crafts
+	•	Manufacture of jewellery and related articles 
+
+Design and designer fashion
+	•	Specialised design activities 
+
+Film, TV, video, radio and photography
+	•	Motion picture, video and television programme production activities 
+	•	Motion picture, video and television programme postproduction 
+	•	Motion picture, video and television programme distribution 
+	•	Motion picture projection activities 
+	•	Radio broadcasting 
+	•	Television programming and broadcasting activities 
+	•	Photographic activities 
+
+IT, software and computer services
+	•	Publishing of computer games 
+	•	Other software publishing 
+	•	Computer programming activities 
+	•	Computer consultancy activities
+
+Publishing 
+
+	•	Book publishing 
+	•	Publishing of directories and mailing lists 
+	•	Publishing of newspapers 
+	•	Publishing of journals and periodicals 
+	•	Other publishing activities 
+	•	Translation and interpretation activities
+
+Museums, galleries and libraries
+	•	Library and archive activities 
+	•	Museum activities
+
+Music, Performing and Visual Arts 
+	•	Sound recording and music publishing activities 
+	•	Cultural education 
+	•	Performing arts 
+	•	Support activities to performing arts 
+	•	Artistic creation 
+	•	Operation of arts facilities
+
+Appendix 2. DCMS Creative Occupations
+Advertising and marketing
+	•	Marketing and Sales Directors 
+	•	Advertising and Public Relations Directors
+	•	Public Relations Professionals
+	•	Advertising Accounts Managers and Creative Directors
+	•	Marketing Associate Professionals 
+
+Architecture
+	•	Architects
+	•	Town Planning
+	•	Chartered Architectural Technologists
+	•	Architectural and Town Planning Technicians 
+
+Crafts
+	•	Smiths and Forge Workers
+	•	Weavers and Knitters
+	•	Glass and Ceramics Makers, Decorators and Finishers
+	•	Furniture Makers and Other Craft Woodworkers
+	•	Other Skilled Trades Not Elsewhere Classified
+
+Design and designer fashion
+	•	Graphic Designers
+	•	Product, Clothing and Related Designers
+
+Film, TV, video, radio and photography
+	•	Arts Officers, Producers and Directors
+	•	Photographers, Audio-Visual and Broadcasting Equipment Operators 
+
+IT, software and computer services
+	•	Information Technology and Telecommunications Directors
+	•	IT Business Analysts, Architects and Systems Designers
+	•	Programmers and Software Development Professionals
+	•	Web Design and Development Professionals 
+
+Publishing
+	•	Journalists, Newspaper and Periodical Editors
+	•	Authors, Writers and Translators 
+
+Museums, galleries and libraries
+	•	Librarians
+	•	Archivists and Curators
+ 
+Music, visual and performing arts
+	•	Artists
+	•	Actors, Entertainers and Presenters 
+	•	Dancers and Choreographers
+	•	Musicians 
+
+Appendix 3: Matching LinkedIn codes to DCMS Creative Industries groupings
+
+LinkedIn  Code Number
+ LinkedIn  Code Name
+ Creative Industries grouping  (Red = Curator Category)
+3
+Computer Hardware
+Tech Nation
+4
+Computer Software
+IT, Software and Computer Services
+5
+Computer Networking
+Tech Nation
+6
+Internet
+IT, Software and Computer Services
+8
+Telecommunications
+Tech Nation
+19
+Apparel & Fashion
+Design: Product, graphic and Fashion Design
+28
+Entertainment
+Music, performing and visual arts
+35
+Motion Pictures and Film
+Film, TV, Video, Radio and Photography
+36
+Broadcast Media
+Film, TV, Video, Radio and Photography
+37
+Museums and Institutions
+Museums, Galleries and Libraries
+38
+Fine Art
+Music, performing and visual arts
+39
+Performing Arts
+Music, performing and visual arts
+50
+Architecture & Planning
+Architecture
+60
+Textiles
+Design: Product, graphic and Fashion Design
+81
+Newspapers
+Publishing
+82
+Publishing
+Publishing
+84
+Information Services
+Tech Nation
+85
+Libraries
+Museums, Galleries and Libraries
+96
+Information Technology and Services
+IT, Software and Computer Services
+99
+Design
+Design: Product, graphic and Fashion Design
+103
+Writing and Editing
+Publishing
+108
+Translation and Localization
+Publishing
+109
+Computer Games
+IT, Software and Computer Services
+111
+Arts and Crafts
+Crafts
+112
+Electrical/Electronic Manufacturing
+Tech Nation
+113
+Online Media
+Digital Media
+115
+Music
+Music, performing and visual arts
+118
+Computer & Network Security
+Tech Nation
+119
+Wireless
+Tech Nation
+126
+Media Production
+Digital Media
+127
+Animation
+Digital Media
+132
+E-Learning
+EdTech
+136
+Photography
+Film, TV, Video, Radio and Photography
+140
+Graphic Design
+Design: Product, graphic and Fashion Design
+143
+Luxury Goods & Jewelry
+Crafts
+
+
+
+
+
+
+
+
+
+
+
+
+__
+
+
+
+
+
+
+
+
+
+BOP Consulting is an international consultancy
+specialising in culture and the creative economy.
+
+BOP convenes the World Cities Culture Forum
+(WCCF), an international network of more than
+35 cities. www.worldcitiescultureforum.com
+London
+3 – 5 St John Street, London, EC1M 4AA
+
+Edinburgh
+16 Young Street, Edinburgh, EH2 4JB
+
+Shanghai
+213 – 214, No. 585 Fuxing Middle Road,
+Shanghai 200025, China
+Web
+www.bop.co.uk
+
+Twitter
+@BOP_Consulting
+
+Blog
+www.bop.co.uk/articles
+

@@ -1,0 +1,501 @@
+Creative Industries Mapping for 
+Solent  & Hampshire Combined Authority
+
+
+
+
+Prepared by The Fifth Sector Limited 
+
+
+
+
+July 2025
+Executive summary
+A thriving, evolving, and under-reported sector
+This report presents a comprehensive analysis of the Creative Industries in the Solent and Hampshire Combined Authority (SHCA) region, revealing a dynamic and resilient sector that is a significant driver of the local economy. Our research, combining official statistics with innovative data analysis, indicates the sector's Gross Value Added (GVA) is an estimated £5.25 billion, with a total workforce of over 80,000 individuals. This is substantially larger than previously understood, primarily due to a large and often uncounted freelance and micro-business community.
+
+
+
+
+
+Key Findings
+Significant economic contributor: The Creative Industries contribute an estimated £5.25 billion GVA when accounting for freelance and micro-business activity. National statistics suggest a 26% increase in Creative Industries GVA between 2020 and 2023.
+A Tale of Two Sectors: The overall number of creative businesses registered at locations across SHCA has seen a decline of 17% since its 2020 peak, a figure driven almost entirely by a 31% contraction in the IT & Computer Consultancy sub-sector. In contrast, core creative fields like Advertising and  marketing and Film, TV and Music (which more than doubled between 2010 and 2023) demonstrate strong, sustained growth, indicating a structural shift rather than a sector-wide decline.
+The hidden workforce: Official figures (BRES) capture 39,800 Creative Industries employees, an 8.6% decline from the 2022 peak, reflecting changes in employment computer consultancy. However, our analysis of professional network data (LinkedIn) reveals a much larger creative economy workforce of over 80,500 creatives with a further 28,500 workers in related digital supply chains. Our analysis suggests that more than 30% of the sector's creative talent operates on a freelance, contract, or micro-business basis, a critical factor for policy and support initiatives.
+Missing businesses: official statistics identify 7,530 active Creative Industries firms registered in Hampshire, Isle of Wight, Portsmouth and Southampton, Analysis of other databases shows more than 1,000 additional businesses registered in SHCA, and a further 2,800 business units active across the region but registered in other parts of Great Britain, making a total business population of 11,420.
+Geographic & economic clustering: While traditional metrics show modest clustering of creative sub-sectors across SHCA, particularly in Advertising & Marketing (LQ 1.28) and Publishing (LQ 1.29), deeper analysis reveals powerful, localised hubs of creative activity in sectors including Film and television, Advertising and marketing, IT, software and computer services and Music, performing and visual arts, Furthermore, these creative clusters are often co-located with other professional services, creating a robust, interconnected economic ecosystem.
+Wider economic impact of creative employment across the SHCA economy: Strong employment in both Services (31,246) and Tech (21,387) supply chains reflects the extent to which creative occupations form an important part of a professional business services sector wider than just Creative Industries,
+Strategic Implications
+A large proportion of SHCA’s creative workforce operates outside traditional employment structures, highlighting the need for nuanced data interpretation. The evidence indicates the presence of a highly entrepreneurial and flexible creative workforce, but also highlights potential challenges in accessing traditional business support and finance.
+It underscores the need for a nuanced approach to supporting the creative economy. A "one-size-fits-all" strategy is insufficient. Policy and investment should focus on:
+Nurturing the freelance ecosystem: Providing targeted support for the 23,000+ independent professionals – 31% of the creative workforce - who form the backbone of the industry.
+Strengthening high-growth sub-sectors: Capitalising on the momentum in areas like film, television, and advertising to drive regional growth.
+Fostering cross-sector innovation: Leveraging the co-location of creative and professional services to stimulate new business models and opportunities.
+In conclusion, Solent & Hampshire Combined Authority’s creative sector is larger, more resilient, and more complex than official data suggests. Understanding its unique composition is key to unlocking its full potential as a driver of economic prosperity and cultural vibrancy for the region.
+
+
+1.	Solent & Hampshire’s Creative industries 
+1.1	Creative Industries definitions
+Creative Industries are defined as, 
+“Those industries which have their origin in individual creativity, skill and talent and which have a potential for wealth and job creation through the generation and exploitation of intellectual property.”
+The Department for Culture, Media and Sport (DCMS) uses overlapping sector definitions of Digital Industries, Creative Industries and Cultural Sector – shown in . 
+Figure   Count of employees in Digital Industries, Creative Industries and Cultural Sector 
+
+Source: The Fifth Sector analysis of employee numbers in Hampshire and Isle of Wight ITL2 region, BRES 2023
+The largest overlap (shown at [1] in , coloured yellow) is between Digital and Creative Industries, both of which include sub-sectors of publishing, computer games, software publishing, computer programming and computer consultancy activities. Other Creative Industries activities in film, TV, radio and music (shown at [2] and coloured dark orange) and arts, museum, galleries and libraries [4] also form part of the Cultural Sector.
+Other sub-sectors of Digital Industries – shown above in blue, and including telecoms, manufacture, wholesale and repair of computer equipment and operation of data centres – are not primarily concerned with generation of new intellectual property (IP), and do not form part of the Creative Industries.
+Across the Solent & Hampshire Combined Authority area (SHCA), the difference in total employees between Creative Industries and Cultural Sectors is limited to just over 1,000 individuals in related industries, including operation of historical sites (“Heritage’, [5] in the figure above) and some music-related activities (retail of music and video recordings, manufacture of musical instruments, reproduction of recorded media, shown at [3]) which, again, are not primarily concerned with generation of IP:
+Our analysis, therefore, focuses on the Creative industries definition – nine sub-sectors which comprise:
+Advertising and marketing
+Architecture
+Crafts
+Design and designer fashion
+Film, TV, radio and photography
+IT, software and computer services
+Publishing
+Museums, Galleries and Libraries
+Music, performing and visual arts
+1.2. 	Data sources and methodology
+To build a comprehensive picture, this analysis integrates data from multiple sources, each with its own strengths and limitations.
+Office for National Statistics (ONS) - Inter-Departmental Business Register (IDBR): Provides official, reliable data on the number of registered businesses (VAT/PAYE-based) up to 2024. This is our baseline for business counts.
+DataCity: A proprietary data platform that uses web-scraping and AI to identify active Creative businesses, including those not registered under Creative industries SIC codes and including branch offices of firms registered elsewhere in Great Britain. This gives a more realistic view of the total number of trading entities.
+Business Register and Employment Survey (BRES): The official source for employee numbers, based on PAYE records. This data is robust and provides time series data for longitudinal analysis but does not capture freelancers or the self-employed.
+LinkedIn: Provides a rich, real-time dataset of the professional workforce, including freelancers, contractors, and those in "creative roles" within non-creative companies. This helps to quantify the "hidden" creative economy.
+Regional productivity data: Provided by ONS at a two-digit SIC code level, this is analysed to provide estimates of output within the SHCA area,
+DCMS Economic Estimates: National-level data on the economic value (GVA) of creative sectors, used for top-down analysis and comparison.
+By triangulating these sources, we can build a more accurate and nuanced understanding of the sector's true scale and impact.
+
+
+2. 	The business landscape: Size, scale and trends
+The creative industries in SHCA are a significant and evolving part of the regional economy. While headline figures suggest a slight contraction, a deeper analysis reveals a story of resilience and transformation.
+2.1. Business population: A tale of two sectors
+Analysis of official data from IDBR shows SHCA was home to 7,530 active creative businesses in 2024. This represents a 17% decrease from the 2020 peak of 9,050 businesses. However, this decline is almost entirely attributable to a sharp 31% contraction in the 'IT, software and computer consultancy' sub-sector. We observe similar trends in employment across other English regions: likely causes include post-pandemic market adjustments and the rise of new technologies like AI.
+In contrast, other core creative sectors have shown remarkable resilience and growth:
+Advertising and marketing: Grew by 7.4% between 2020 and 2024.
+Film, TV, radio and photography: Grew by 14.3% in the same period.
+Music, performing and visual arts: While volatile, this sector has also seen overall growth since 2010.
+This divergence indicates a structural shift within the creative economy rather than a widespread decline.
+2.2. Beyond official statistics: The DataCity perspective
+Analysis of DataCity's platform, which includes businesses self-identified by “non-creative” SIC codes and branch offices, identifies 11,420 active creative business units in the region – 50% more than official figures suggest. This highlights a substantial base of smaller, micro, and satellite operations that are vital to the ecosystem.
+The largest discrepancies between official data and the DataCity analysis are found in:
+Publishing: 144% more businesses identified.
+Music, performing and visual arts: 97% more businesses identified.
+Advertising and marketing: 75% more businesses identified.
+This confirms that these sub-sectors, in particular, are powered by a large number of smaller, often unregistered, enterprises
+
+
+3. 	The creative workforce: Beyond the payroll
+The distinction between official employment data and the reality of the creative workforce is stark. While traditional metrics provide a baseline, they significantly under-represent the true number of people working in the creative economy.
+3.1. Official employment data vs. the real workforce
+BRES Data (2023): Records 39,980 full- and part-time employees within Creative Industries businesses in SHCA. This number has seen an 8.6% decline since its 2022 peak, again driven by the contraction in the IT sector.
+LinkedIn Data (2025): Identifies 80,500 individuals working in Creative Industries in the region, including freelancers, sole traders and the self-employed. This figure is nearly double the official employee count.
+LinkedIn also provides evidence of a further 28,500 individuals working in related digital supply chains,
+3.2. The freelance economy
+Analysis of LinkedIn profiles reveals a "hidden" creative workforce: freelancers, sole traders, and creatives embedded in non-creative companies (the "Creative Trident").
+ independent professionals:
+12,700 individuals identify as freelance or self-employed (17% of the total).
+When combined with contractors, this figure rises to over 23,000, accounting for 31% of the entire creative workforce.
+Freelance working is particularly prevalent in sectors like Film & TV, Design, and Music, performing and visual arts, explaining the large discrepancy between official employment. These independent professionals are not just part of the workforce; they play a critical role in innovation and knowledge transfer between creative firms and other sectors of the Solent and Hampshire economy and between institutions such as Universities and cultural organisations and the private sector. 
+
+4.	Economic contribution: a £5.25 billion sector
+SHCA’s Creative Industries generate substantial economic value. 
+ONS data, based on employee numbers, suggested GVA of £3.4 billion in 20203. 
+By combining and weighting data from ONS, DCMS, and LinkedIn to reconcile differences between datasets, we arrived at a more accurate GVA estimate (including freelancers) of £5.25 billion in 2024
+The adjusted figure was  £1.8bn, or 54%, higher than suggested by national statistics. 
+Table   Estimate of SHCA Creative Industries GVA
+Source: The Fifth Sector 2025
+
+5. 	Geographic clusters and hotspots
+The distribution of creative businesses is not uniform across the region. We combined methods of Location Quotient (LQ) analysis and advanced spatial mapping to identify key clusters of activity.
+Regional Specialisms: While the overall creative industry LQ is just below the national average (0.94), there are clear specialisations in Advertising & Marketing (1.28) and Publishing (1.29). The Museums & Galleries sector also shows a very high concentration (LQ of 1.75).
+Local Hotspots: Heatmap analysis reveals significant clusters of creative activity in and around major urban centres and along key transport corridors.
+Sector-Specific Hubs
+Film & TV: Concentrated around established studio facilities.
+IT & Software: Forms a series of closely-linked clusters.
+Advertising & Marketing: Shows a more dispersed pattern, often co-located with other professional services, indicating a strong B2B ecosystem.
+Music & Performing Arts: Centred in urban areas with established venues and cultural infrastructure.
+This data suggests that SHCA’s creative economy is not a single entity, but a network of interconnected, specialised hubs.
+
+
+
+
+Appendix 1: Analysis of business counts
+Count of number of active businesses in both Creative Industries and Cultural sectors was made in June 2025 from two sources:
+Safeguarded data from the Interdepartmental Business Register (IDBR). This assembles sample data from ONS based on Standard Industrial Classifications (SIC codes) which relate to the DCMS definition of Creative Industries
+Companies’ data extracted using DataCity – this is a proprietary platform which combines data from Companies House and other financial analysis with its own AI-based ‘scrape’ of over 2 million UK registered company websites, to provide a more in depth analysis of company and the sector to which it belongs, including those who may have registered the business under a ‘non-Creative Industries” SIC code (e.g, those registered under ‘operation of head offices’) but which clearly demonstrate that this is their main area of business.
+1.1	Creative Industries - IDBR
+Very little overall change in business population and LQ over the period 2010-24
+Number of active businesses peaked (at 9,050) in 2020, driven by a spike in IT-related companies, which at that point represented 58% of Creative Industries businesses in SHCA.
+Subsequent decline (to 7,530 companies) in 2024 – a fall of 17% from 2020 - almost exactly mirrored a drop in number of IT-related firms (1,660), which by 2024 represented only 48% of active Creative Industries (CI) firms.
+The drop was most pronounced in a single SIC code – 62020, Computer consultancy activities – which fell by 1,515, or 37% of the 2020 total for that sector, 
+We have seen similar patterns in business numbers in SIC 62020 in other places (including Surrey and across the Enterprise M3 geography), which reflects structural changes to the sector post-pandemic, when many independent consultants sought ‘safety’ of employment with larger firms, plus changes in technology (e.g., influence of AI and ‘NoCode’ development) reducing demand for more traditional forms of IT consultancy.
+Other CI sectors were more resilient, with growth in Advertising and marketing (7.4%) and Film, TV, radio and photography (14.3%) over the period from 2020,
+Film, TV, radio and photography, though still the highest growth sector (63%) overall, reflected fluctuations in demand for new productions, growing from 515 to 915 active firms between 2010 and 2022 before falling back to 840 in 2024.
+Music, performing and visual arts showed similar volatility – from 645 to 700 between 2015 and 2020, peaking at 950 in 2022 and then falling back to 745 in 2024 
+Table 2  Creative Industries businesses, 2010-2024
+Source: The Fifth Sector 2025
+
+1.2	Creative Industries – DataCity
+DataCity was used as a source of evidence of active businesses in April 2025 – a year on from the latest IDBR survey. DataCity also allowed us to measure the number of creative business units – not just those with registered offices within SHCA.
+Table 3 compares totals for IDBR 2024, count of registered company addresses and total number of creative business units.
+Analysis of DataCity identified 8,600 registered CI businesses, 13% more than in IDBR 2024. 
+We were able to identify an additional 2,820 businesses with operating locations within SHCA (11,420) but registered elsewhere.
+For sectors with more than 500 businesses, the variances between companies identified by IDBR and all CI businesses across SHCA were greatest in:
+Publishing (62% and 144% respectively)
+Music, performing and visual arts (55%/97%)
+Advertising and marketing (39%/75%) 
+Film, TV, radio and photography (34% /74%)
+The sector with the greatest absolute variance between registered businesses in IDBR and all business units DataCity was IT, software and computer services, where the count was 1,400 (39%) greater than in IDBR 2024. Conversely, the discrepancy between IDBR and registered companies found on DataCity in that sector was less than 1%, suggesting that many firms were ‘branch’ operations of larger groups.
+Table   Creative Industries business count 2024-2025
+Source: The Fifth Sector/DataCity 2025.
+Some variations observed here reflect those observed in similar studies across England.
+The number of Music, performing and visual arts firms was significantly higher than that recorded in ONS
+Similarly, the count of Advertising and marketing businesses reflected a much larger sector than reported in national statistics.
+There is a caveat on the number of businesses in Film, TV, radio and photography, in that a proportion of these are typically ‘single purpose vehicles’ registered for accounting purposes for a single production; these firms may not be ‘live’ in a real sense (for example, they may have no employees) but remain ‘active’ as a registered business for the purpose of collecting royalties and other income from licensing of IP. 
+Also, further analysis of the Publishing sector may reflect the presence of larger newspaper publishing groups in SHCA – e.g., in Basingstoke – in which individual titles are recorded as single businesses, which would in turn result in a much higher count of active business units than reflected in ONS.
+
+Appendix 2: Analysis of employee numbers using national statistics
+Count of employees within registered business units using SIC codes for Creative Industries and Cultural sectors which reflect DCMS definitions.
+The latest available data comes from the 2023 Business Register and Employment Survey. We will address the shortcomings of this in our analysis of creative workforce built up from LinkedIn (below). 
+ONS methodology changed between 2010 and 2015 – prior to 2015, data reflected only businesses which made PAYE returns. The difference in total business numbers that resulted from this is not material – there were 0.7% more businesses on the basis of the ‘new’ methodology in 2015.
+2.1	Creative Industries – BRES
+Similarly to the findings for business units, there was very little change in the number of creative employees. Total employees were 39,980 in 2023 – an increase of 1.9% since 2015. However, this represented a fall of 3,775 employees (8.6%) from the peak of 43,295 recorded in 2022. 
+Once again, much of this volatility was attributable to changes in computer consultancy employment, which rose by 4,560 between 2021 and 2022 (to 19,170) before contracting by 9.2% (to 17,430) in 2023.
+No individual CI sector showed consistent growth in employee numbers:
+Advertising and marketing shrank by 1,180 between 2015 and 2020 before rebounding to its previous level in 2021 and maintaining that growth in 2023, ending on 2,695 employees
+The number of designers peaked at 1,860 in 2020 but had reduced to 1,315 by 2023
+Film, TV, radio and photography added 840 employees between 2015 and 2020 (to 2,700) but stayed around that number in the following three years
+Music, performing and visual arts fluctuated from 1,500 in 2015 to a peak of 2,600 in 2022 before falling back to 1,805 in 2023.
+Publishing saw a massive fall (from 7,700 to 2,345) between 2010 and 2020, then continued to fluctuate between 2020 and 2023 (ending at 1,835 employees)
+2.2	Average number of employees per firm in each creative industries sub-sector
+Comparing IDBR data on business numbers and BRES data on employees allows us to estimate the average size of businesses within each creative industries sector:
+Table   Average company size - Creative Industries
+
+This analysis reflects that, whilst SHCA’s creative businesses are on average of a similar size to those in the rest of the UK, some sectors – notably Advertising and marketing, Architecture and Film, TV, radio and photography – are considerably smaller than their GB peers. Only in IT, software and computer consultancy is the average SHCA business larger than the GB average. 
+Taking average company size for each sector in Hampshire as recorded in ONS data and projecting it onto the total number of business units recorded in DataCity gives a markedly higher estimate of the number of employees in the sector – which provides useful context for our analysis of the wider Creative Industries workforce, including freelancers, in the next section,
+Table   Projected employee numbers based on analysis of DataCity
+Source: The Fifth Sector analysis of BRES and DataCity
+
+
+Appendix  3: Analysis of creative workforce using LinkedIn
+Relevance of using LinkedIn
+We use LinkedIn as, effectively, a massive pre-filled sample. It is not a census of employment, but provides a much larger sample than other sources; and whilst some sectors of the Creative Industries (including cultural occupations in the arts, crafts, museum staff and librarians) may be less well represented than others, the overall penetration of LinkedIn, and the fact that it includes both employees and freelance/self-employed members of the workforce, makes it a powerful tool for analysis.
+The total number of LinkedIn subscribers in Solent & Hampshire was 829,074 at time of the survey (April 2025). For comparison, the total working age population for Solent in Hampshire was 1,194,960. So, LinkedIn represented 69.3% of working age population. Total number of employees for all sectors was 897,885 (BRES 2023), meaning that LinkedIn’s subscriber base is equivalent to 92.3% of PAYE-registered employees.
+The number of subscribers giving their location as a named place in Solent and Hampshire and citing a Cultural or Creative Industries occupation (80,500) represented 9.7% of all LinkedIn subscribers in the region. This compares with ONS data which identified 4.6% of all employees in Solent and Hampshire within the Cultural and Creative Industries (BRES 2023). 
+Methodology
+LinkedIn data analysis for workforce mapping offered a deep search methodology, based on LinkedIn's data categorisation, which was used to identify the scale and composition of the Cultural and Creative Industries workforce for SHCA. This included full-time and part-time employees, contractors, self-employed and freelance creative professionals, interns and students. 
+LinkedIn Industry codes were aggregated up within five supply chains as follows:
+Content – ‘traditional’ sectors of film, television, broadcast media, music, photography and publishing whose main output is in the form of creative IP.
+Experiences – reflects the input of cultural and creative producers to live events and cultural experiences including performing arts, libraries and museums.
+Originals – fine artists, craft makers, fashion designers and others whose original IP is in the form of a physical artefact, plus retail art galleries.
+Services – creative professional services relating to advertising, marketing, architecture and design whose output is primarily ‘B2B’.
+Tech – videogames, software development and technology and information service providers where the main input is related to the ‘creative’ function of software development. 
+We also regrouped LinkedIn industries to reflect DCMS sector definitions for the purposes of comparative analysis with other datasets.
+
+Findings
+Analysis of LinkedIn for SHCA identified a creative workforce of more than 75,500 individuals, as shown in Table 6 below.
+Table   Scale of creative workforce in Solent & Hampshire Combined Authority area 
+Source: The Fifth Sector/Unscrambled 2025
+Extending our analysis to include IT Consultancy and IT services identified a further 33,500 individuals:
+Table   IT Services and Consultancy workforce
+Source: The Fifth Sector/Unscrambled 2025
+Including IT Consultancy allowed direct comparison with related SIC codes used in the DCMS definition of Creative Industries, notably 62020 – computer consultancy activities, and in addition provided a sense of the scale of a wider digital supply chain to the creative content and service industries. 
+
+Comparing LinkedIn and BRES data
+We regrouped the findings from LinkedIn to align with DCMS sector definitions to allow comparison with ONS data from the Business Register and Employment Survey (BRES). 
+Table   Hampshire Creative Industries workforce 
+Source: The Fifth Sector/Unscrambled analysis of LinkedIn, April 2025
+Comparing the analysis of LinkedIn with actual and scaled up employee data from BRES produces a clear picture of the significance of the freelance Creative Industries workforce across SHCA.
+Table   Comparison of creative industries workforce data
+
+Evidence of a larger freelance and self-employed creative workforce
+There are two main factors which account for the larger creative workforce identified in LinkedIn:
+Creative workers in ‘non-creative”  sectors of the economy – e.g., those with specialist skills in disciplines including advertising, marketing and design.
+Sectors with a high number of freelance and self-employed  workers, such as Film, TV, radio and photography, Design and designer fashion and Music, performing and visual arts
+The first of these is comparable with the ‘Creative Trident’ identified by Nesta in its analysis of employment in the creative economy, as distinct from the creative sectors identified by DCMS. LinkedIn Industry definitions are self-selected by subscribers – and as the platform is designed to help people identify work opportunities across the economy, this means that they are as likely to reflect the discipline in which the individual specialises as the sector  within which they work. For example, our analysis of LinkedIn suggested that SHCA was home to more than six times as many people working in advertising and marketing and eight  times as many designers as identified by BRES, which counts employees within Standard Industrial Classifications. There was no evidence from companies’ data to suggest such an extraordinarily high degree of agglomeration of those sectors of the creative industries in the region; although, combined with evidence of clustering of business locations (see above), it did point to the presence of strong clusters of diversified professional services, including employers in creative, engineering, financial, manufacturing, scientific and technical sectors.
+The second point reflects that many of the freelance and self-employed people in creative occupations may have this as part of a portfolio of work, and therefore not all of their output will be attributable to creative industries. In fact, many industry and union surveys in sectors such as film/TV and music highlight that a significant proportion of those workers will earn less than £10,000 per annum from their creative occupation. 
+
+Analysis of employment status
+LinkedIn allows subscribers to self-report their employment status, providing further insight into the scale and  significance of the freelance and self-employed creative workforce. 
+Table   Nature of employment in the SHCA creative workforce
+Source: The Fifth Sector/Unscrambled 2025
+These totals do not match those for supply chains because not all subscribers identify their employment status and some may identify themselves under more than one category, e.g., Full time and Freelance. As before, we did not attempt to scale up the LinkedIn data in any way as this may have distorted the proportions of workers within each employment category, However, even the ‘raw’ LinkedIn data reflected an additional 12,700 freelance and self-employed creative workers – 17% of the total. Adding in contractors and interns brought this to more than 23,000, or 31% of the total creative workforce. This figure matches almost exactly the difference between the “scaled up” estimate of employees from BRES and total Creative Industries workforce in Linked in (22,846). Even so, it may still underestimate the full impact of freelance and self-employed working where creatives have identified this as their ‘full time’ occupation.
+Conclusions from analysis of LinkedIn
+The LinkedIn analysis produces some expected outcomes, some surprises and raises some questions.
+It demonstrates that the workforce in Film, TV, radio and photography, Crafts and Music, performing and visual arts is much larger than shown in both ‘raw’ and scaled-up ONS data – an outcome we might expect for sectors known to contain a very large freelance workforce.
+Museums, Galleries and Libraries workforce, where many are public sector employees and may either not use LinkedIn or classify their main industry in a different way, is typically underestimated in LinkedIn – but here is much closer to the 2023 BRES figure than typical in similar surveys of other places.
+Workforce for Publishing and IT, software and computer services closely reflects ONS data, and is lower than the scaled-up estimates for both sectors. That may arise from LinkedIn subscribers describing their main industry in a way which doesn’t immediately translate into DCMS sector definitions – e.g., people involved in printing of newspapers and magazines may associate themselves with the manufacturing process, or with design, rather than publishing.
+The outcomes for Advertising and marketing and Design and designer fashion are of a completely different order. The number of LinkedIn subscribers giving a Hampshire location and citing their main industry as one of Advertising Services, Public Relations and Communications Services or Marketing Services – 17,910 in total – was more than six times greater than the ONS total employees within those sectors (2,695). For design occupations, the discrepancy was larger still (10,783 vs 1,315, a factor of more than eight). These proportions are outliers in terms of similar studies we have carried out in other English regions, 
+This is most likely the result of a combination of other factors, including:
+Digital marketing employment in firms classified under an IT or software SIC code
+Employment of advertising and marketing professional roles in ‘non-creative’ sectors – part of the ‘Creative Trident’ of employment identified by Nesta
+Remote working by SHCA-based professionals whose main employer is based outside the region
+Separating out employment in those terms would require a manual input beyond the scope of this commission, did point to another potential strength of SHCA’s creative economy – significant clustering of professional service occupations, including accountants and lawyers alongside creative workers in advertising, marketing, architecture, design and software development – something analysed further in the section below.
+Appendix 4: Creative industries GVA
+We used two initial methods to measure the GVA of the sector:
+A ‘bottom up’ approach building on published ONS data for regional economic output defined at a regional level for Hampshire and Isle of Wight ITL 2 region, apportioned on the basis of ONS employee data from BRES
+A ‘top down’ approach which apportioned DCMS Economic Estimates – prepared on a national level – against the scale of the creative workforce measured by LinkedIn
+Table   Strengths and weaknesses of the respective approaches to GVA estimates
+Initial estimates of GVA using the two different methods
+Total Creative Industries output for Hampshire and Isle of Wight ITL2 region in 2023 was £3.4 billion by the regional data method. As observed above, neither regional output data nor DCMS Economic Estimates provide clear evidence of the output of freelance or self-employed work in the creative industries. LinkedIn does; but since that data does not form part of a time series, it is hard to compare the different datasets. However, using LinkedIn as a sample to identify both employed and freelance workers in the creative economy does provide some indication of additional output. Comparing our findings from LinkedIn with the latest available annualised data from DCMs Economic Estimates (January – December 2024) shows considerably higher levels of GVA.
+Measured at their full extent, the estimate based on apportionment of DCMS Economic Estimates by LinkedIn data on creative workforce would suggest sector GVA for SHCA of £6.9 billion – more than double that evidenced by regional output data based on number of Creative Industries employees alone. 
+Figure   Comparison of GVA estimates derived from ONS data, DCMS Economic Estimates and analysis of LinkedIn
+
+Source: The Fifth Sector / Unscrambled 2025
+For reasons explored in the analysis of creative workforce above, the higher figure is almost certainly an overestimate of sector output – although it represents a more accurate reflection of the output of the regional creative economy, taking into account creative occupations in other industry sectors.
+Our estimate of Creative Industries output used a bespoke methodology to reconcile differences and inherent biases between datasets. This apportioned published ONS data for regional economic output defined at a regional level for SHCA on the basis of:
+ONS employee data from BRES 
+A scalar to reflect the level of creative industries employment suggested by the higher number of active business units identified by analysis of DataCity than in data from the ONS Interdepartmental Business Review
+A further scalar, based on analysis of LinkedIn subscribers giving their location within the SHCA area, to reflect the prevalence of freelance and  self-employed working within the creative economy.
+Change in Creative Industries GVA over time
+Using BRES estimates of creative industries employees as a baseline, we compared outputs derived from regional productivity data and DCMS Economic Estimates for the period 2020-23. Note that these figures provide an indication of trends in output, they do not take account of the potential impact of freelance and self-employed working in the creative industries, nor do they represent the contribution of creative occupations in other industry sectors (the ‘Creative Trident’ approach.)
+Figure   Creative Industries GVA for Hampshire and Isle of Wight ITL2 area, 2020-2023
+
+Source: The Fifth Sector, 2025
+Regional output data indicated a 26% increase in GVA over the period whereas DCMS Economic Estimates suggested that output had risen more quickly between 2020 and 2022 (to £3.6 bn) before falling back in 2023 to a net position only 2% higher than in 2020. As with the employee and company data, the DCMS estimates reflected a decline in output from IT, software and computer services between 2022 and 2023 to a level below that of 2020  - although as DCMS outputs are aggregated up at a sector level, we cannot tell if that resulted from a similar national fall in computer consultancy output to that observed in the other indices.
+DCMS Creative Industries estimates of output were consistently higher in Advertising & Marketing, Film, TV, radio and photography, lower in Architecture and Design and designer fashion and more volatile in Publishing and Music, performing and visual arts.
+Figure   DCMS Estimates higher for Advertising and marketing and Film, TV, radio and photography
+ 
+
+Figure   DCMS Estimates lower for Architecture and  Design and designer fashion
+
+
+
+Figure   DCMS Estimates more volatile in Publishing and Music, performing and visual arts
+
+Appendix 5:  Evidence of clustering
+Location Quotient (LQ), which measures the respective density of either business units or employees within a specific geography relative to the national sector average, was used to look for evidence of  ‘clustering’ of creative industries. An LQ of 1 represents the average density of sector businesses or employment for Great Britain; given the concentration of Creative Industries in London, which distorts the GB average, any LQ of more indicates the presence of agglomeration effects, which may in turn suggest higher levels of specialisation, knowledge exchange and productivity within and between sector businesses. 
+Our findings are indeterminate. Creative Industries business LQ ranged from 1.00 (in 2015) to 0.94 (in 2024) – although DataCity evidence suggested both a higher LQ (of 1.08) for the Creative Industries and stronger evidence of clustering in sub-sectors such as Publishing (1.29, versus an IDBR-derive LQ of 0.80) and Advertising and marketing (1.28 vs. 0.92, respectively). 
+LQs for the number of creative employees across all Creative Sectors were very similar to those recorded the number of businesses; but differed greatly within individual subsectors of Advertising and marketing (with a lower LQ of 0.52, suggesting smaller business units) and IT, software and computer consultancy (LQ of 1.32 in 2023, suggesting larger business units). 
+LQs for employees in Cultural sectors were again consistent with those for businesses overall, but with greater concentrations in Museums and Galleries (LQ of 1.41) and Operation of historical sites (1.61), and lower in Film, TV and Music (LQ 0.53), suggesting smaller business units.
+Sub-sector clusters
+Analysis of LQ for Creative Industries businesses (compared to baseline of IDBR 2024) suggested stronger evidence of clustering in Advertising and marketing, Music, performing and visual arts and Publishing.
+Summary
+ONS data provided weak evidence of clustering in Creative industries, which showed overall LQ < 1 for the whole period. Exceptions were Architecture (1.06) and IT, software and computer services (1.12, even taking into account falls in the number of computer consultancy firms).
+Museums and galleries (Cultural sector) showed strongest evidence of clustering, with an LQ of 1.75.
+Evidence of sustained growth in Advertising and marketing, Film, TV and Music and Arts – but (on ONS data) none of these demonstrated a ‘cluster’
+DataCity provided clearer evidence of clustering in Advertising and marketing (LQ of 1.28) and Publishing (1.29)
+Localised clusters
+The LQ analysis for employment and workforce was drawn across the pan-Hampshire area and did not, therefore, reflect geographical clusters of creative businesses within specific districts. 
+Initial analysis was carried out from DataCity evidence of companies’ postcodes, which was then geocoded to provide a physical location. 
+The methodology to establish physical clustering reflected that used in the PEC Creative Radar study. It employed the HDBSCAN (Hierarchical Density-Based Spatial Clustering of Applications with Noise) algorithm - a density-based machine learning clustering technique that improves upon traditional cluster analysis algorithms by using a hierarchical approach which takes into account both the distance between points and local point density. The algorithm was run with a range of distance thresholds to assess how company groupings emerge at different spatial scales. The final map, shown below, used a distance threshold of 1km and a minimum cluster size of 50 companies. Identified clusters were then converted from point-based groupings into polygon shapes to represent their spatial extent more clearly. 
+Constraints and caveats on the data
+Of over 100 postcode areas in Hampshire with more than 10 registered companies, all but three contained accountants’ offices, each with multiple businesses, which makes the exact extent of clustering uncertain. 
+However, the presence of those accountants does point to another valuable phenomenon: that of combined professional services clusters, including elements of creative services such as advertising, marketing, architecture, design and software development.  This is explored in more detail in analysis of LinkedIn workforce and economic outputs, below.
+Findings
+The HDBSCAN methodology shows the distribution of clusters of creative businesses across SHCA – darker colours indicate more dense agglomerations.
+Figure 7  Clustering of Creative Industries firms across SHCA
+ 
+Source: The Fifth Sector/Unscrambled
+
+Point markers
+The map of point markers (Figure 8), on which each coloured dot represents an individual business, indicates that clusters run along major arterial routes as well as town and city centres.
+
+Figure 8  SHCA Creative Industries businesses - point markers
+
+Source: The Fifth Sector/Unscrambled 2025
+
+At this scale, the relative density of agglomeration of businesses is obscured, as dots will be stacked one on top of the other. The following heatmap more clearly highlights density: 
+Heatmap of Creative Businesses 
+Figure 9  Heatmap of SHCA Creative Businesses
+
+Source: The Fifth Sector/Unscrambled 2025
+
+The following maps show the very different nature and distribution of sub-sector clusters. Because the mapping algorithm doesn’t measure out from a single centrum but stresses the nature of the spatial relationship between businesses within 1km of each other, each cluster will take a different shape.
+Film and television clusters
+The map of film and television clusters emphasises the relationship with existing production facilities:
+Figure 10  SHCA Film and television clusters (SIC codes 59 and 60)
+
+Source: The Fifth Sector/Unscrambled 2025
+IT, software and computer services 
+IT, software and computer services (including development and publishing of videogames, other types of software development and computer consultancy) reflects a series of closely clustered locations:
+Figure 11  IT, software and computer services clusters across SHCA
+
+Source: The Fifth Sector/Unscrambled 2025 
+
+Advertising and marketing 
+Conversely, the Advertising and marketing clusters depict a very different type of distributed cluster, reflecting the nature of combined professional services clusters referenced above.
+Figure 12  SHCA Advertising and marketing clusters
+
+Source: The Fifth Sector/Unscrambled 2025 
+Music, performing and visual arts
+The music, performing and visual arts cluster emphasises the concentration of arts and cultural assets within major urban centres:
+Figure 13  SHCA Music, performing and visual arts clusters
+
+Source: The Fifth Sector/Unscrambled 2025 
+
+
+
+Comparison of Creative Industries and Visitor Economy clusters
+The Visitor Economy (Tourism and related activities) had 11,345 firms in 2023 in SHCA employing some 113,000 workers making it one of the largest local employers. The County area accounts for around two thirds of SHCA visitor economy businesses and employment. 
+Figure 14 shows that high business concentrations (marked in darker green) are found on the Isle of Wight and several concentrations exist across Solent and neighbouring authorities. Employment concentrations are far more widespread, with the south coast an obvious cluster that also extends contiguously into Dorset, but also with high employment concentrations in parts of North Hampshire. Since this sector includes hospitality and a range of tourism related activities that are found in most places across the country it is not unusual to find relatively few concentrations relative to the national average. Relative concentrations may be few but employment effect of this sector on SHCA is large.
+
+Figure 14  SHCA Visitor Economy clusters
+                       Business Clusters                                              Employment Clusters
+
+
+
+
+Source: Hampshire County Council analysis of ONS (2023)
+Hampshire CC’s analysis of IDBR produced a comparable map of Creative industries. This suggested that employment was spatially concentrated in North Hampshire, parts of Central Hampshire (Winchester) and Solent (Portsmouth). The major difference between the two analyses was that this method failed to identify clusters or concentrations of creative businesses in Solent.
+
+Figure   SHCA Creative Industries clusters
+                    Business Concentrations                                   Employment Concentrations
+
+
+            Source: ONS 2023
+Source: Hampshire County Council analysis of ONS (2023)
+
+
+
+
+
+ 
+
+
+[TABLE 1]
+Creative Industries sub-sector | GVA (£mn)
+Advertising and marketing | 799
+Architecture | 128
+Crafts | 8
+Design and designer fashion | 128
+Film, TV, radio and photography | 706
+IT, software and computer services | 2,425
+Publishing | 604
+Museums, Galleries and Libraries | 20
+Music, performing and visual arts | 432
+Total Creative Industries | 5,251
+[/TABLE]
+
+
+[TABLE 2]
+Creative Industries sector | IDBR 2010 | IDBR 2015 | IDBR 2020 | IDBR 2021 | IDBR 2022 | IDBR 2023 | IDBR 2024
+Advertising and marketing | 515 | 600 | 675 | 720 | 730 | 690 | 725
+Architecture | 350 | 450 | 535 | 535 | 525 | 530 | 510
+Crafts | 15 | 15 | 20 | 15 | 15 | 25 | 25
+Design and designer fashion | 455 | 655 | 700 | 705 | 710 | 695 | 680
+Film, TV, radio and photography | 515 | 615 | 735 | 760 | 915 | 810 | 840
+IT, software and computer consultancy | 3,395 | 4,710 | 5,285 | 4,815 | 4,115 | 3,715 | 3,625
+Publishing | 270 | 260 | 285 | 270 | 275 | 260 | 255
+Museums, Galleries and Libraries | 90 | 90 | 115 | 130 | 135 | 130 | 130
+Music, performing and visual arts | 665 | 645 | 700 | 710 | 715 | 725 | 740
+Total Creative Industries | 6,270 | 8,040 | 9,050 | 8,660 | 8,135 | 7,580 | 7,530
+[/TABLE]
+
+
+[TABLE 3]
+Creative Industries sector | IDBR 2024 | DataCity 2025 - registered businesses | Data City 2025 - all business units
+Advertising and marketing | 725 | 1,010 | 1,270
+Architecture | 510 | 535 | 665
+Crafts | 25 | 45 | 65
+Design and designer fashion | 680 | 620 | 790
+Film, TV, radio and photography | 840 | 1,125 | 1,465
+IT, software and computer consultancy | 3,625 | 3,670 | 5,025
+Publishing | 255 | 405 | 610
+Museums, Galleries and Libraries | 130 | 40 | 60
+Music, performing and visual arts | 740 | 1,155 | 1,470
+Total Creative Industries | 7,530 | 8,600 | 11,420
+[/TABLE]
+
+
+[TABLE 4]
+Creative Industries sector | No. of SHCA businesses 
+(IDBR 2023) | No. of SHCA employees
+(BRES 2023) | Average company size SHCA (2023) | Average company size GB (2023)
+Advertising and marketing | 690 | 2,695 | 3.9 | 6.8
+Architecture | 530 | 1,790 | 3.4 | 5.4
+Crafts | 25 | 65 | 2.6 | 2.8
+Design and designer fashion | 695 | 1,315 | 1.9 | 2.4
+Film, TV, radio and photography | 810 | 2,755 | 3.4 | 4.7
+IT, software and computer consultancy | 3,715 | 25,870 | 7.0 | 6.2
+Publishing | 260 | 1,835 | 7.1 | 9.7
+Museums, Galleries and Libraries | 130 | 1,850 | 14.2 | 16.4
+Music, performing and visual arts | 725 | 1,805 | 2.5 | 3.1
+Total Creative Industries | 7,580 | 39,980 | 5.3 | 5.5
+[/TABLE]
+
+
+[TABLE 5]
+Creative Industries sector | Average company size (SHCA,2023) | No. of business units (SHCA, DataCity 2025) | No. employees scaled up to reflect DataCity
+Creative Industries sector | Average company size (SHCA,2023) | No. of business units (SHCA, DataCity 2025) | No. employees scaled up to reflect DataCity
+Advertising and marketing | 3.9 | 1,270 | 4,960
+Architecture | 3.4 | 665 | 2,245
+Crafts | 2.6 | 65 | 170
+Design and designer fashion | 1.9 | 790 | 1,495
+Film, TV, radio and photography | 3.4 | 1,465 | 4,985
+IT, software and computer consultancy | 7.0 | 5,025 | 34,990
+Publishing | 7.1 | 610 | 4,305
+Museums, Galleries and Libraries | 14.2 | 60 | 855
+Music, performing and visual arts | 2.5 | 1,470 | 3,660
+Total Creative Industries | 5.3 | 11,420 | 57,665
+[/TABLE]
+
+
+[TABLE 6]
+ | Hampshire | Isle of Wight | Portsmouth | Southampton | Total
+Content | 10,343 | 1,087 | 1,133 | 4,430 | 16,993
+Experiences | 2,247 | 226 | 474 | 729 | 3,676
+Originals | 1,499 | 129 | 161 | 554 | 2,343
+Services | 19,746 | 1,592 | 2,565 | 7,343 | 31,246
+Tech | 14,235 | 736 | 1,663 | 4,753 | 21,387
+Sub-total | 48,070 | 3,770 | 5,996 | 17,809 | 75,645
+[/TABLE]
+
+
+[TABLE 7]
+ | Hampshire | Isle of Wight | Portsmouth | Southampton | Total
+IT Services | 16,555 | 448 | 1,501 | 4,076 | 22,580
+IT Consultancy | 7,898 | 134 | 629 | 2,275 | 10,936
+Sub-total | 24,453 | 582 | 2,130 | 6,351 | 33,516
+[/TABLE]
+
+
+[TABLE 8]
+Advertising and marketing | 17,910
+Architecture | 3,338
+Crafts | 767
+Design and designer fashion | 10,783
+Film, TV, video, radio and photography | 9,628
+IT, software and computer consultancy | 27,597
+Publishing | 2,402
+Museums, Galleries and Libraries | 1,516
+Music, performing and visual arts | 6,570
+Total Creative Industries | 80,511
+[/TABLE]
+
+
+[TABLE 9]
+Creative Industries | BRES (2023) | Scaled-up BRES data | Scaled-up BRES data | LinkedIn (2025)
+Advertising and marketing | 2,695 | 4,960 | 4,960 | 17,910
+Architecture | 1,790 | 2,245 | 2,245 | 3,338
+Crafts | 65 | 170 | 170 | 767
+Design and designer fashion | 1,315 | 1,495 | 1,495 | 10,783
+Film, TV, radio and photography | 2,755 | 4,985 | 4,985 | 9,628
+IT, software and computer consultancy | 25,870 | 34,990 | 34,990 | 27,597
+Publishing | 1,835 | 4,305 | 2,402 | 2,402
+Museums, Galleries and Libraries | 1,850 | 855 | 855 | 1,516
+Music, performing and visual arts | 1,805 | 3,660 | 3,660 | 6,570
+Total Creative Industries | 39,980 | 57,665 | 57,665 | 80,511
+[/TABLE]
+
+
+[TABLE 10]
+ | Hampshire | Isle of Wight | Portsmouth | Southampton | Total
+Full time | 27,181 | 2,418 | 3,985 | 11,633 | 45,217
+Part time | 3,232 | 347 | 759 | 1,795 | 6,133
+Contractor | 4,761 | 381 | 718 | 2,290 | 8,150
+Internship | 953 | 55 | 294 | 914 | 2,216
+Self-employed | 965 | 118 | 185 | 711 | 1,979
+Freelance | 5,938 | 742 | 974 | 3,080 | 10,734
+Sub-total | 43,030 | 4,061 | 6,915 | 20,423 | 74,429
+[/TABLE]
+
+
+[TABLE 11]
+ | ONS regional output data | DCMS Economic Estimates
+Strengths | Uses measurements of regional economic output for Hampshire and Isle of Wight ITL2 region | National data consider other factors – in particular, subsidies and export of services – which may not be reflected at ITL2 level
+Strengths | Allows analysis of relative productivity in GVA per capita terms | Measures are aligned with DCMS sector definitions
+Strengths | Annual data available from 2009 to 2023 | Monthly data available from Jan 2019 to Dec 2024
+Weaknesses | Regional data only available at 2-digit SIC level, so apportionment of CCI SIC codes at three, four and five-digit level may over-or underestimate average GVA per capita for each CCI sector | Apportionment of total GVA by proportion of employees (Hampshire & Isle of Wight ITL2 as a proportion of national total) may not reflect regional variances in productivity from the GB average
+Weaknesses | Based on SIC (industrial) classifications rather than evidence of earnings from SOC codes – no way to analyse impact of freelance/self-employed working | Based on SIC (industrial) classifications rather than evidence of earnings from SOC codes – no way to analyse impact of freelance/self-employed working
+[/TABLE]

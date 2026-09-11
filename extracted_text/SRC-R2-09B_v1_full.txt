@@ -1,0 +1,1200 @@
+
+Liverpool City Region Combined Authority
+
+
+
+
+Digital & Creative Cluster mapping
+
+
+
+
+
+Final report
+July 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+www.thefifthsector.co.uk
+0151 203 3004
+Contents
+Executive summary	1
+Situation	1
+Evidence	1
+Challenges	2
+i.	Weak demand	2
+ii.	Image	2
+iii.	Cluster	2
+iv.	Skills and employment	3
+v.	Equality, diversity and inclusion (EDI)	3
+vi.	Wider economy and governance	3
+vii.	Differentiating for greater competitiveness and resilience	4
+Findings from research	6
+I.	Evidence from mapping	6
+i.	Definition of the Digital & Creative cluster	7
+ii.	Business numbers	7
+iii.	Digital industries	9
+iv.	Creative industries	10
+v.	Cultural sectors	11
+vi.	Digital and Creative Workforce	11
+vii.	Comparison of digital and creative sector workforce data	13
+viii.	Structure of digital and creative workforce	14
+ix.	Supply chain analysis	15
+x.	Clustering	17
+xi.	GVA	22
+II.	Skills	24
+i.	Digital and creative skills	24
+ii.	Impact of policy changes in education	25
+iii.	Equality, diversity and inclusion	26
+iv.	The local scene – Liverpool City Region	27
+v.	Supply of education and skills training	28
+vi.	Challenges	35
+vii.	Opportunities	36
+III.	Engagement	37
+Women’s Digital and Creative round table	37
+i.	Digital/creative start up and scale up ecosystem	38
+Strategic Challenges	39
+Tactical Challenges	39
+IV.	Megatrends affecting the Digital and Creative cluster	40
+i.	Future of agency and client relationships	40
+ii.	AI and the future of creative work	40
+iii.	Adoption of immersive technologies	42
+VI.	Case Studies	45
+i.	Film and television	45
+ii.	Games Industry : from AAA to ‘triple-i’	47
+Annapurna Interactive	50
+Devolver Digital	50
+Devolver Digital supports quirky and innovative games that often defy conventional expectations. Its success with games like Hotline Miami and The Messenger showcases how backing unconventional projects can lead to significant traction and success in the market.	50
+iii.	Extending the reach and ambition of immersive technologies	50
+VII.	Situational analysis	53
+Scenario 1 - Worst case: uncontrolled decline	54
+Scenario 2 – Most likely case: jobs-free growth	54
+Scenario 3 - Best case: competitiveness through differentiation	55
+VIII.	Summary	57
+Next steps	58
+Appendices	60
+Appendix 1: Methodology	61
+Clustering	61
+GVA	62
+Appendix 2: Workforce/employment, GVA and LQ data	63
+Appendix 3: Business data	71
+Appendix 4: Consultees	74
+Appendix 5: References	75
+
+Index of Figures
+Figure 1  Overlapping definitions of digital and creative sectors	7
+Figure 2  Comparison of business numbers in LCR’s digital, creative and cultural sectors	8
+Figure 3  Count of LCR Digital businesses	9
+Figure 4  Creative industries businesses	10
+Figure 5  Cultural sector businesses	11
+Figure 6  Comparison of BRES employment and LinkedIn workforce totals for digital and creative industries	12
+Figure 7  LCR workforce count by industry sector	13
+Figure 8  Structure of LCR digital & Creative workforce	14
+Figure 9  Supply chain analysis of LCR digital and creative workforce	17
+Figure 10  Comparison of LQs based on analysis of LinkedIn workforce data	20
+Figure 11  GVA estimates (£m) for digital, creative and cultural sectors in Liverpool City Region	22
+Figure 12 Supply of Digital & Creative courses in Liverpool City Region by study pathway	29
+Figure 13 Supply of Digital & Creative courses in Liverpool City Region by creative skills pathway	29
+Figure 14  Arts and Digital A levels (grades A* to C) attained in LCR in 2018/19	31
+Figure 15 Courses available in wider TTWA by creative pathway	34
+
+Index of Tables
+Table 1  Agglomeration of digital and creative employment in Liverpool City Region	18
+Table 2  Supply of Digital & Creative courses in Liverpool City Region	28
+Table 3 Courses available in wider TTWA (including Ormskirk, Wigan and Chester)	34
+Table 4  Digital and creative employment, GVA and LQ, BRES 2022	63
+Table 5  Digital sector employment, GVA and LQ, BRES 2022	63
+Table 6  Creative industries employment, GVA and LQ, BRES 2022	64
+Table 7  Cultural sector employment, GVA and LQ, BRES 2022	64
+Table 8 Digital and creative workforce, GVA and LQ, LinkedIn 2024	65
+Table 9  Digital sector workforce, GVA and LQ, LinkedIn 2024	65
+Table 10 Creative industries workforce, GVA and LQ, LinkedIn 2024	66
+Table 11 Cultural sector workforce, GVA and LQ, LinkedIn 2024	66
+Table 12  Difference between Digital and creative workforce, GVA and LQ, LinkedIn 2024 - BRES 2022	67
+Table 13 Difference between Digital sector workforce, GVA and LQ, LinkedIn 2024 - BRES 2022	67
+Table 14  Difference between Creative Industries workforce, GVA and LQ, LinkedIn 2024 - BRES 2022	68
+Table 15 Difference between Cultural sector workforce, GVA and LQ, LinkedIn 2024 - BRES 2022	68
+Table 16  Percentage difference between Digital and creative workforce, GVA and LQ, LinkedIn 2024 - BRES 2022	69
+Table 17 Percentage difference between Digital sector workforce, GVA and LQ, LinkedIn 2024- BRES 2022	69
+Table 18 Percentage difference between Creative Industries workforce, GVA and LQ, LinkedIn 2024- BRES 2022	70
+Table 19  Percentage difference between Cultural sector workforce, GVA and LQ, LinkedIn 2024- BRES 2022	70
+Table 20  Business counts, Digital and creative industries	71
+Table 21  Business count, Digital sectors	71
+Table 22 Business count, Creative Industries	72
+Table 23  Business count, Cultural sector	73
+
+
+
+
+Executive summary
+Situation
+The mapping provides a comprehensive analysis of the digital and creative industries in the Liverpool City Region. It includes quantitative data on businesses and workforce, as well as qualitative research and case studies. It identifies challenges, opportunities and trends for the sector and provides recommendations for future growth.
+Liverpool City Region's (LCR) legacy and reputation as a creatively driven city coincides with its emerging position as a leading region in developing an innovation ecosystem which combines the advantages of Investment Zone and Freeport status with a cluster of nationally significant digital assets, including STFC/Hartree and LCR Connect. Recent investment has brought new focus to digital start up and scale up activity.
+Digital and Creative is one of three new priority clusters, defined where Liverpool City Region has a critical mass of businesses and demonstrable competitive advantage to attract further investment. 
+The mapping exercise being carried out will, among other things, look at:
+Characteristics of the cluster
+Size and significance of digital, creative and cultural sectors and workforces
+Interdependencies and complementarities across the cluster
+Specialisms
+Skills profile
+The findings will provide the new Cluster Board with evidence to inform development of a Digital & Creative cluster strategy and growth plan based on the opportunities and threats faced regionally, nationally and internationally.
+Evidence
+Mapping of Liverpool City Region's (LCR) Digital, Creative and Cultural Industries carried out in the first quarter of 2024 has revealed a thriving ecosystem of over 6,500 businesses and 51,000 digital and creative professionals, including a freelance and self-employed workforce of over 20,000 people. The sector's strengths are evident in its diverse range of sub-sectors, from computer programming and advertising to film, TV, and the arts.
+We estimated that LCR’s digital and creative workforce contributed £4 billion in GVA. This represents around 4% of national creative industries GVA. Although impressive, this does not take account of the economic contribution from the visitor economy and hospitality generated by cultural events.
+Challenges
+Developing LCR's sector strengths into a cluster that can amplify its potential competitive advantages presents several challenges. 
+Compared to other 'core' cities, Liverpool lacks scale – in part a result of historic underinvestment in its capital base. 
+The rapid advancement of artificial intelligence and automation is disrupting traditional business models and skill requirements. Lack of specialisation makes it harder for companies to identify new, profitable activity to help them diversify or identify new markets in response to those challenges. 
+Freelancers, who make up a significant portion of the workforce but whose income is increasingly unstable and threatened by variations in demand, face increasing pressure to adapt and stay competitive.
+Underlying these challenges are a set of issues spanning education and skills development, identifying and developing specialisations in new creative digital technologies, funding and investment, diversity and inclusion, collaboration, property and infrastructure, and local governance.
+Weak demand
+Beyond the problems of definition, there remains the question of what is a cluster? LCR Combined Authority’s own positioning of the priority cluster programme assumes that the city region’s Digital & Creative industries show,
+A critical mass of businesses and demonstrable competitive advantage to attract further investment. 
+Our research will test those assumptions against concerns that the defining problem facing all LCR’s Digital & Creative sectors is lack of demand.
+Image
+The city region and its digital and creative organisations are not sufficiently credited nor recognised for their dynamism and innovation.
+The city has led with a ‘b2c’, visitor economy-focused cultural offer which has diverged from the initial, community-led direction which inspired Capital of Culture and is only weakly connected with any idea of building digital and creative supply chains. The digital and creative cluster needs to reflect on whether there are steps that can be taken to better link supply and demand: e.g., can the £54 million benefit from Eurovision 2023 be realised in new investment to grow the supply side of LCR’s cultural and creative economy?
+Cluster
+With some notable exceptions, there is a lack of specialisation amongst businesses and researchers and little discussion of R&D opportunities other than those related to the expansion of digital infrastructure.
+Digital and creative is not a single sector vertical. Multiple data sources, metrics, and methodologies result in overlapping definitions of digital, creative and cultural activity and create ambiguity in understanding the growth and potential of the sector. The role of place-based development and physical agglomeration, particularly beyond the city centre, is poorly articulated in policy and suffers from undercapitalisation. Poor communication between existing and emergent organisations and communities exacerbates feelings of exclusion.
+Skills and employment
+The distribution of employment and opportunity within those sectors reflects other structural problems and social/economic disadvantage endemic across LCR’s communities and places. 
+There is a lack of coordination between universities, businesses, and local authorities in developing relevant skills. 
+Short courses are limited, graduate retention is poor, and there is inadequate tracking of creative industry graduates. Many end up in non-graduate jobs due to the dearth of large companies to employ them. National funding models for education and innovation are also poorly suited to Liverpool's needs.
+The digital and creative sector itself has been slow to adopt new technologies and struggles with limited cross-sector collaboration and international partnerships. The business property market has been unresponsive, failing to provide sufficient Grade A office space. Economic and social disparities across the region mean the benefits are unevenly distributed. 
+Equality, diversity and inclusion (EDI)
+Diversity is another concern, with the sector being predominantly white and male, and inaccessible to lower socioeconomic groups. Compounding this are negative perceptions and reputational issues inhibiting the sector's growth.
+Leadership; lack of representation of women, people of colour, disabled people and people from lower socio-economic backgrounds in senior roles.
+Skills shortage vacancies are above the national average – creative industries employers across the North West report that nearly two in every five vacancies  (38.2%) result from a skills shortage in the workforce. That reflects a lack of diversity in the workforce and the need for greater equity in addressing opportunities for diverse communities, including those from lower socio-economic backgrounds and neurodiverse learners, who benefit greatly from higher level education but face significant barriers to entry.
+Wider economy and governance
+Local governance and strategic direction have been ineffective in shaping a globally competitive cluster proposition for the city region’s digital and creative industries – reflected in repeated failure to secure national funding for cluster and innovation activities. Levels of private sector investment are lower than in comparable city cores, influenced in part by lack of demand and planning constraints. Cultural strategies are not well integrated with broader social and economic goals, and there is a lack of clear policy for the creative industries. Uncertainty around arts and humanities funding adds to the difficulties faced by cultural organisations and creative businesses in all sectors and of all sizes.
+In summary, Liverpool City Region’s Digital & Creative Cluster faces multifaceted and interconnected challenges:
+Uncoordinated and inadequate skills development pipelines
+Funding mechanisms ill-suited to local needs
+Slow technology adoption and limited collaboration
+Unresponsive property market and infrastructure gaps
+Lack of specialisation in both existing sectors and emerging technologies
+Lack of diversity and inclusion
+Ineffective governance and unclear strategic direction
+Uneven distribution of economic benefits and social disparities
+The scale of these issues is significant, impacting the entire lifecycle from education to employment to business growth. Resolving them will require concerted effort and alignment between industry, academia, and government.
+Differentiating for greater competitiveness and resilience
+The digital and creative cluster in Liverpool City Region demonstrates a set of ‘path dependencies’ based on assumptions around the opportunities within existing models which are contradicted by evidence of trends in global technology and consumer behaviour. If it is unable to change, it risks falling further behind other larger, better capitalised and more diverse digital and creative clusters in a global competition for consumers and investment. To break that path dependency, the cluster organisation needs to:
+Support the development of new business models that leverage Liverpool's strengths in independent production, focusing on cost-effective, high-quality content with strong local narratives that can appeal to global streaming audiences.
+Foster collaboration and knowledge-sharing between diverse content creators, technology innovators, and cultural institutions to develop innovative, immersive experiences that blend physical and digital realms.
+Invest in upskilling and reskilling initiatives to ensure the local workforce can adapt to the changing demands of the creative industries, particularly in relation to AI, interactive technologies, and new forms of storytelling.
+Develop a compelling brand narrative around Liverpool's unique cultural assets, creativity, and production capabilities to attract investment and partnerships from global players seeking distinctive content.
+Advocate for policies and funding models that support risk-taking, experimentation, and IP retention within the local creative ecosystem, enabling businesses to develop new revenue streams and scale effectively.
+By embracing these changes and recommendations, Liverpool's digital and creative industries can differentiate themselves, build resilience, and capitalise on emerging opportunities in the evolving media landscape. The cluster organisation can play a critical role in facilitating this transition and ensuring that businesses across digital and creative sectors can collaborate effectively to drive innovation and growth.
+
+Findings from research
+Evidence from mapping
+This report brings together data on businesses, infrastructure, workforce and economic impact of the digital and creative industries in Liverpool City Region.
+Use of a mix of innovative sources and methods builds on existing evidence to provide insight into sector trends, growth areas, and challenges faced by digital and creative enterprises and freelances living and working in LCR. Findings from desk research have been corroborated through qualitative research and consultation to inform the Digital and Creative Cluster Board’s planning for 2024 to 2029.
+The scope of our analysis included:
+Collating available data on businesses and employment in CCI, based on sector definitions used by Department for Culture, Media and Sport (DCMS) and Department for Science, Innovation and Technology (DSIT).
+Introducing experimental methods: 
+Using Beauhurst as a database for primary data collection on business activities, based on sector definition used by DCMS. 
+Using LinkedIn as a massive sample to develop a more comprehensive picture of the employed, self-employed and freelance digital and creative workforce.
+Combining evidence of workforce, GVA and regional productivity from LinkedIn, DCMS, DSIT and ONS to provide to arrive at experimental data for sector LQ and GVA.
+Collation and analysis of published data about education, skills training and apprenticeships for CCI along lines of skills pathways.
+Definition of the Digital & Creative cluster
+Department for Culture, Media and Sport (DCMS) and Department for Science, Innovation and Technology (DSIT) use separate and overlapping definitions for Digital, Creative Industries and Cultural sectors (see Figure 1, below). We have reflected all three definitions in our dataset.
+DCMS has prepared monthly economic estimates for the combined sectors since 2019. These were last updated in May 2024. Responsibility for digital economic estimates passed to DSIT in February 2024.
+
+Figure 1  Overlapping definitions of digital and creative sectors
+
+
+Business numbers
+Analysis of Beauhurst data (February 2024) shows 6,500 active businesses in Digital, Creative and Cultural Industries – 2,595 (66%) more than indicated in the latest available report from the Office of National Statistics’ Interdepartmental Business Register (IDBR 2023).
+Figure 2 compares Beauhurst data (extracted from Companies House records) with IDBR 2023 estimates. This suggests that ONS consistently underestimates the number of active businesses in LCR. (Because of the overlap between the sector definitions, totals are not cumulative.)
+
+Figure 2  Comparison of business numbers in LCR’s digital, creative and cultural sectors
+
+Source: The Fifth Sector analysis of Beauhurst and Nomisweb data, January 2024
+
+There is a discrepancy between Beauhurst and IDBR in all sectors. Beauhurst suggest that there are 1,750 more Creative Industries firms and 1,450 more digital firms than shown in official estimates. Although the business numbers are smaller, IDBR underreports Cultural sectors by 87% overall. Some differences between individual sub-sectors are larger still: fewer than half of active Arts businesses (a cultural subsector which includes performing and visual arts and support activities to the performing arts) are recorded in IDBR.
+
+Digital industries
+Using the Beauhurst data as our benchmark, Computer programming, consultancy and related activities is the largest sub-sector of digital industries, with Film, TV, video, radio and music making up the next biggest group of businesses. Both these sectors overlap to a large extent with the definitions used for those activities within Creative Industries.
+Telecoms has fewer, larger businesses with significant GVA; and Information service activities includes operation of data centres.
+
+Figure 3  Count of LCR Digital businesses
+ 
+Source: The Fifth Sector analysis of Beauhurst data (2024)
+Creative industries
+IT, software and computer services is the biggest sub-sector. This takes in development and publishing of computer games, business and domestic software and computer consultancy activities.
+Music, performing and visual arts make up the next biggest creative industries sector, closely followed by Film, TV, video, radio and photography. The count of Advertising and marketing businesses reflects the strength of creative services, particularly in the city region core of Liverpool and Wirral.
+
+Figure 4  Creative industries businesses
+
+Source: The Fifth Sector analysis of Beauhurst data (2024)
+Cultural sectors
+Arts – including performers, artists, support for live performance and venue operators – is the largest Cultural sub-sector. Film, TV and Music make up the next biggest group of businesses.
+
+Figure 5  Cultural sector businesses
+
+Source: The Fifth Sector analysis of Beauhurst data (2024)
+Digital and Creative Workforce
+ONS uses the Business Registration and Employment Survey (BRES) to measure employment. This survey is a sample of 85,000 businesses across Great Britain which pay PAYE or VAT and counts only full time or part time employees of those companies which are registered for VAT and/or make PAYE contributions through payroll. It therefore overlooks businesses below those thresholds, the self-employed and freelances which make up a significant proportion of the workforce of the digital and creative industries. In addition, evidence of employment at a sector (SIC code) level is published about 18 months after the survey is conducted, so the latest data available to us in carrying out mapping in 2024 comes from a survey which took place in April 2022 and was published in October 2023.
+To address this weakness of the sampling methodology, we have used LinkedIn as a massive sample (27.5m UK users) to arrive at better estimates for the total creative workforce. 490,151 of those subscribers give a location in Liverpool City Region – 72% of total employment in all sectors.
+LinkedIn provides evidence of full or part-time employment, contractors, self-employed, freelance and internships within digital, creative and cultural industries. Using a set of LinkedIn industry codes most similar to the DCMS/DSIT SIC definitions, our analysis showed 51,779 subscribers who identified their location within Liverpool City Region (including descriptors such as ‘Greater Liverpool area’) and whose first named occupation is within a digital or creative industry. This is considerably more than the BRES employment figure of 23,145. 
+We also included a comparison with those 31,705 LinkedIn subscribers in LCR who specified full time or part time employment status in digital and creative occupations – which left a further 20,000 people who formed part of the digital and creative workforce in LCR. By this account, the proportion of LinkedIn subscribers employed in the digital and creative sectors in LCR (excluding freelances and self-employed) is 6.5% - a far higher proportion of the employed workforce than the 3.6% evidenced in BRES.
+
+Figure 6  Comparison of BRES employment and LinkedIn workforce totals for digital and creative industries
+
+Source: The Fifth Sector analysis of Nomisweb and LinkedIn
+
+Whilst analysis of LinkedIn provides a measure of capacity for LCR, it does not represent a count of digital and creative employment which can be directly correlated with BRES estimates:
+BRES estimates are based on workplace location, whereas LinkedIn subscribers can choose to identify themselves by where they work or where they live. Therefore, evidence from LinkedIn may include people based in LCR but working mainly or wholly in neighbouring cities/counties, nationally or internationally.
+LinkedIn does not require subscribers to provide evidence of earnings and our total may therefore include some who are economically inactive.
+LinkedIn subscribers may have multiple occupations; some may only be employed for part of the time in the digital and creative industries. Our analysis has included only the ‘primary’ occupation. (This can also work the other way round: further analysis of music employment showed an additional cohort of people earning money from music whose ‘primary’ occupation was in another industry.)
+Comparison of digital and creative sector workforce data
+We apportioned LinkedIn industry codes to the nearest relevant SIC code to provide a comparative analysis of BRES and LinkedIn data. As before, it should be borne in mind that the overlap of definitions mean that the totals shown are not cumulative. 
+
+Figure 7  LCR workforce count by industry sector
+
+Source: The Fifth Sector analysis of Nomisweb and LinkedIn
+
+Structure of digital and creative workforce
+LinkedIn allows for a breakdown of the nature of employment. 89% of LCR digital and creative subscribers analysed reported one of the following types of employment: full time, part time, self-employed, freelance, contractor and internship
+This indicated that:
+65% of sector workforce was in employment (full-time, part-time or internship)
+35% were freelance, self-employed, contractor or ‘not known’
+These ratios reflect national evidence that one-third of creative workforce is freelance or self-employed.
+
+Figure 8  Structure of LCR digital & Creative workforce
+
+Source: The Fifth Sector analysis of LinkedIn
+
+Supply chain analysis
+To provide a more easily understandable measure of the overlapping SIC-code based definitions, we analysed LinkedIn results using five supply chains built up from the industry definitions used by LinkedIn. These were:
+Creative Originals: creation of original cultural artefacts, including Apparel & Fashion, Artists, Crafts, Jewellery Designer, and some Design occupations.
+Creative Experiences: live experiences and operation of cultural and heritage sites, including Circuses and Magic Shows, Dance Companies, Performing Arts, Theater Companies, Museums, Libraries, Galleries, Retail Art Dealers and Historical Sites.
+Creative Content: creation, capture, distribution and exploitation of original intellectual property (IP) in various media formats including Animation and Post-production, Broadcast Media Production and Distribution, Cable and Satellite Programming, Radio and Television Broadcasting, Media Production, Sound Recording, Sheet Music Publishing, Online Audio and Video Media, Internet News, Blogs, Computer Games, Mobile Gaming Apps, Writers, Musicians, Photography, Newspaper Publishing, Periodical Publishing and Book Publishing.
+Creative Services: professional services with a significant level of creative input: Advertising Services, Public Relations and Communications Services, Marketing Services, Architecture and Planning, Accessible Architecture and Design, Graphic Design, Regenerative Design, Internet Publishing, Business Content, Internet Marketplace Platforms and Design (part).
+Technology, Information and Internet: software development, computer programming and consultancy, information services, telecoms and data infrastructure and security, including:
+IT Services and IT Consulting
+Computer and Network Security
+Digital Accessibility Services
+IT System Custom Software Development
+Media & Telecommunications
+Blockchain Services
+Social Networking Platforms
+Software Development
+Data Security Software Products
+Desktop Computing Software Products
+Embedded Software Products
+Mobile Computing Software Products.
+The analysis confirmed the importance of digital industries (made up of Technology, Information and Internet occupations) in LCR, which has a workforce of some 21,500 (plus a further 2,200 students). Of those, just over one third were primarily engaged in software development and the remainder in other forms of computer consultancy and programming.
+Creative Content had a workforce of 13,450 (with a further 1,600+ students), including nearly 4,000 across broadcast and online media production, post-production and distribution, 3,170 musicians, some 1,850 in computer games and around 1,700 photographers. Closure of printing presses in Liverpool and Knowsley was reflected in a decline in newspaper publishing employment to just over 400.
+Creative Services was dominated by advertising and marketing disciplines, which accounted for 9,250 of the creative workforce, supplemented by 1,350 graphic designers. Architecture and planning was relatively smaller, with a workforce of just over 1,400.
+Creative Experiences was dominated by over 1,500 performing artists. A further 1,000 worked in museums, galleries and libraries. It should be stressed that these numbers understate the wider economic contribution of the cultural, live entertainment and hospitality sectors for a combination of reasons: 
+It is impracticable to use LinkedIn to measure all inputs from the music and live entertainment-related supply chain in visitor economy and hospitality. Most of the workforce in music and entertainment venues (including bars) would not be reflected in LinkedIn industry codes used to measure Creative experiences. This gap is being addressed by further research being carried out by University of Liverpool on behalf of the LCR Music Cluster Board, to be published later in 2024. 
+Employees in small cultural organisations, museums, galleries and libraries, and in operation of heritage sites, tend to work in either public or charitable sectors, which are underrepresented on LinkedIn. 
+Much of this workforce will be volunteers and casual workers, who are not typically registered users of the platform; some may have a primary occupation in another sector and not be using an industry code which our analysis would pick up.
+Creative Originals was the smallest supply chain, with some 1,600 registered subscribers, of whom nearly 1,000 were artists. LinkedIn provided evidence of over 200 craftspeople and jewellery designers (far more than identified in BRES). However, consultation and qualitative research in LCR reflected findings from other parts of the country that artists and makers are less likely to use LinkedIn than other social networks which offer a more direct ‘B2C’ route to market, particularly Instagram and Pinterest.
+
+Figure 9  Supply chain analysis of LCR digital and creative workforce 
+
+Source: The Fifth Sector analysis of LinkedIn
+
+Comments on LinkedIn supply chain definitions
+The Technology, Information and Internet sector included 7,535 whose primary occupation was in software development. These also form part of the Creative Industries definition of games development and software publishing, and therefore could equally be counted as part of the Creative Content supply chain.
+There were no LinkedIn industry codes which would have allowed us to define the full spectrum of digital industries businesses or employment counted by ONS under SIC codes 18, 26, 61, 63 and 95, including elements of manufacture or repair of computer components or equipment, data services and telecoms. Our analysis is therefore likely to produce a conservative estimate of the total digital workforce.
+The Creative Content sector includes 3,170 Musicians, indicated by the orange dotted line in Figure 9. Many of those will combine IP-based activity (sound recording, songwriting, publishing) with live performance, and may equally be counted under Creative Experiences. 
+
+
+Clustering
+Creative industries research repeatedly emphasises the importance of clustering, measured by geographical agglomerations of businesses and workforce and the associated assumption of increased capacity for knowledge sharing and specialisation, in boosting innovation, productivity and growth in city economies.
+It was therefore important that we should provide accurate measures of the factors which contribute to clustering – including business counts, workforce and other factors including supply of skills. Analysis of national data provided us with little evidence of digital and creative clustering at a local authority or city region level – the reasons for which are detailed under Appendix 1: Methodology.
+The sector is characterised by a large proportion of microenterprises and flexible workspaces, with a small (and dwindling) number of medium and large employers. We therefore mapped agglomerations of digital and creative employment rather than businesses.
+
+Table 1  Agglomeration of digital and creative employment in Liverpool City Region
+Source: The Fifth Sector analysis of BRES (2022)
+This did not provide clear evidence of clustering, although the numbers for Liverpool suggested nascent cross-sector clustering. Closer analysis of ONS data for the city region more clearly indicated clustering in some subsectors:
+Cultural education – LQ of 1.96
+Publishing – LQ of 1.53
+Film, TV and Music – LQ of 1.12 
+Museums, galleries and libraries – LQ of 1.05 
+Figures for the city of Liverpool helped pinpoint some of this activity:
+Museums, galleries and libraries – LQ of 1.67
+Telecoms – LQ of 1.21
+Information service activities – LQ of 1.03
+Music, performing and visual arts – LQ of 1.03 
+Wirral demonstrated limited evidence of clustering, but on the basis of a smaller employment base:
+Cultural education – LQ of 1.70 (50 employees)
+Photography – LQ of 1.30 (70 employees)
+Architecture – LQ of 1.27 (410 employees)
+Libraries and archives – LQ of 1.12 (110 employees)
+Halton showed clustering in the ‘hardware’ end of the digital sector:
+Repair of computers and communication equipment – LQ of 1.88, 155 employees
+Wholesale of computers and electronics – LQ of 1.12, 170 employees
+These data provided little meaningful information on clustering on sectors which we anecdotally observed to have a significant presence in the city region. We therefore constructed an alternative method drawing on a comparison of LinkedIn data and DCMS/DSIT sector estimates. This highlighted clustering within and across eight digital, creative industries and cultural subsectors, shown in Figure 11 below:
+
+Figure 10  Comparison of LQs based on analysis of LinkedIn workforce data
+
+Source: The Fifth Sector analysis of LinkedIn workforce data for Liverpool City Region
+
+Complementarity with existing LCR Innovation strategy
+The Combined Authority has well-developed mapping of an innovation ecosystem in which digital technology and infrastructure plays a significant role in supporting growth across all sectors of the city region’s economy. The mapping detailed in this report is intended as a complement to that work. 
+Our findings demonstrated unmet potential to drive competitiveness and value through the transformation of business models focused on creative consumption. Whilst LCR boasts significant clusters of digital innovation, notably around the Hartree/STFC centre at Daresbury and in the Knowledge Quarter within the city of Liverpool, those actors are not typically drawn from, and do not typically prioritise growth of, a digital/creative ecosystem. There was little appetite expressed either by partners in that innovation ecosystem or by digital and creative businesses to pursue greater specialisation around creative digital technologies; it is more likely that the digital and creative cluster will benefit from wider gains in productivity associated with the exploitation of general purpose digital technologies such as generative AI and quantum computing. 
+Relationship of clustering to place-based economic development
+Engagement with partners highlighted the importance of understanding cultural and creative industries within the context of wider place-based economies. One example of this is the development of Birkenhead’s creative and night time economy, including capital developments such as Future Yard and Make CIC, demonstrates greater sustainability through the combined ability of these venues and a wider supply chain to generate venues from hospitality and the visitor economy beyond those from creative production and consumption. 
+The route to greater competitiveness and a greater place-based resilience of creative businesses and the communities in which they are based lies in differentiating the LCR offer and identifying not just the city centre, but a series of town centre and industrial hubs as places where creativity and innovation meet. This may include a greater focus on securing opportunities for creative showcasing and consumption in places including Liverpool’s Ten Streets, Huyton Village and an emerging workspace offer in Southport focused on the area around The Atkinson. This approach can demonstrate the complementarity of a content and consumer-led approach to existing digital infrastructure and innovation strategy. 
+GVA
+The evidence of clustering provided by LinkedIn informed analysis of GVA for digital and creative sectors. This showed that LCR’s digital and creative workforce contributes £4.0 billion in GVA., This represents around 4% of national creative industries GVA and 3.5% of the total output for all industries in Liverpool City Region, above the 3% average for the creative industries across the North of England but still less than half of London and the South East’s 10% share of GVA.  
+The increased level of GVA would also represent a digital and creative workforce whose productivity matched the GB average. Liverpool City Region’s economic output was only 87.8% of the national average in 2022.
+Although impressive, this does not take account of the economic contribution from the visitor economy and hospitality generated by cultural events.
+
+Figure 11  GVA estimates (£m) for digital, creative and cultural sectors in Liverpool City Region
+
+Source: The Fifth Sector, 2024
+
+Our estimates were constructed through comparison of LinkedIn data with DCMS Sector Estimates. Estimates of digital and creative GVA drawn from ONS data were much lower - £1.635 billion, or 41% of our estimate. The discrepancy can be accounted for by a combination of factors:
+Underrepresentation of the digital and creative workforce in national statistics  (in particular, the exclusion of freelance and self-employed workers)
+ONS estimates of GVA are based on indexes that are available for industrial 'divisions' (i.e., sections defined by combinations of 2-digit SIC codes), whereas DCMS sectors are defined using more detailed industrial 'classes' constructed through combinations of 4-digit SIC codes. 
+DCMS and DSIT sector estimates take into account other income – including export of digital and creative products and services and licensing and other revenues from exploitation of IP - which may not be included in ONS estimates of city region GVA constructed on the basis of  payroll data gathered on a workplace basis (allocated to the location where the economic activity takes place).
+Skills
+ This section provides our analysis of published data about education, skills training and apprenticeships for digital and creative industries in the Liverpool City Region and an accessible travel-to-work area (TTWA). 
+ Context – National   
+The creative industries generate £108 billion a year to the UK economy and employ more than 2.3 million people across the UK. They rank among the world’s fastest-growing sectors providing high-quality employment, drive innovation, and support civic and social wellbeing. 
+Accelerating technology convergence is seen as a driver of competitive advantage in the sector. The World Economic Forum’s Future of Jobs 2023 report found that technology adoption would remain a key driver of business transformation in the next five years. It also stated that the fastest-growing roles relative to their size today were driven by technology, digitalisation and sustainability and that employers estimated that 44% of workers’ skills would be disrupted in the next five years.  Over 85% of those surveyed identified increased adoption of new technologies and broadening digital access as the trends most likely to drive business transformation. 
+UK Government’s recently published Creative Industries Sector Vision (June 2023) identified the creative industries as one of five priority growth sectors. The 2023 Spring Budget proposed over £75m of new investment into the sector to grow the creative industries by £50bn and support a million more jobs by 2030. The vision aimed to create more creative clusters, develop the workforce and maximise the impact of the sector both in the UK and internationally. 1 
+Digital and creative skills  
+Skills issues within the creative and cultural sectors are well documented. A House of Lords report at the start of 20232, quickly followed by two papers from the Creative Industries Policy & Evidence Centre (Creative PEC)3, identified similar trends in skills shortages for the creative sector. Issues highlighted include: 
+Lack of the right skills (particularly a blend of creative and digital skills) 
+Barriers to access 
+Lack of business and management skills  
+Rising costs in the recruitment of freelancers  
+ 
+Although British Film Institute (BFI) data4 showed there were more than 23,000 young people studying a screen-related course in Higher Education and over 75,000 individuals studying at school or college, recruitment of new entrants with the right mix of skills remained an issue.  
+The emergence of new blended creative and digital skills was in demand across a range of other sectors including health and well-being, finance and construction. For example, designers blend creativity with ever increasing technical skills to create CAD designs for construction and civil engineering as well as solely for creative businesses.  
+Impact of policy changes in education 
+There have been some major shifts in Government policy which have impacted on the design and delivery of creative and digital formal learning courses both in HE and FE institutions throughout England. Limiting international student numbers and imposing tighter visa requirements led to declining numbers of international students and an associated drop in fee income for HEIs throughout the UK: dozens of institutions have announced redundancies in full time and part time staff.  
+In 2022, top-up funding for non-prioritised subjects - which include the arts, creative and media courses – was cut from £36m to £19m, with savings redirected to other areas such as nursing and computing. This resulted in reduced provision of arts, creative and media courses in some institutions, and a greater focus on technical and further education. Along with the continuing freeze on undergraduate fees, this led to redundancies at some HEIs – although, other than Rose Bruford College closing its acting course and campus in Wigan,, this has not yet been reflected in impacts on institutions in LCR and the wider TTWA. There were also concerns about HE and FE either dropping fine arts courses or incorporating more creative technology-based practice in those courses. 
+The Auger Review of 2018 on post-18 education and funding also highlighted the need for greater access to the Lifelong Learning Entitlement (LLE) and the need for more Higher Level apprenticeships.  The Skills and Post-16 Education Bill (from April 2022) aimed to, 
+‘Embed employers in the heart of the skills system by making it a legal requirement that employers and colleges collaborate to develop skills plans so that the training on offer meets the need of local areas, and so people no longer have to leave their home-towns to find great jobs’  
+The Bill resulted in the creation of LSIPs (Local Skills Improvement Plans) which were created by involvement with employers and most notably, the creation of new ‘T’ levels which offered a more vocational route equivalent to three A levels. There are currently 2 pathways designed for the sector:  
+Media Broadcast and Production (starting September 2024)  
+Craft and Design (starting September 2024)  
+There are also 3 digital pathways (all at Level 3)  
+Digital Production, Design and Development 
+Digital Support Services 
+Digital Business Services  
+The impact of T-levels was still being assessed but anecdotal evidence from employers in the sector was that they were not widely recognised and were difficult to engage with due to the requirement for a minimum 45 days’ placement time. Many FE colleges also preferred to deliver the UAL (University of the Arts London) accredited qualifications, which they deemed to be more relevant to the skills needed for the industry. Although graded similarly to BTEC’s, the UAL standards have been designed by industry and education partners and were much preferred by some Colleges as an A-level equivalent route over T-Levels or apprenticeships for reasons outlined above.  
+In addition, there are apprenticeship pathways such as:  
+Level 3 – Advertising and Media Executive 
+Level 3 – Broadcast Production Assistant 
+Level 3 – Digital Marketer 
+Level 3 – Creative Venue Technician 
+Level 4 – Junior 2D Visual Effects 
+Level 4 – Assistant Technical Director
+And at Higher level :  
+Level 6 – Digital Marketer (degree)  
+Level 6 – Broadcast and Media Systems Engineer (degree)     
+Equality, diversity and inclusion
+Digital and creative industries have serious institutional and workforce issues around diversity and inclusion; there remain some considerable barriers for new entrants to the sector. Research from the Creative Industries Policy & Evidence Centre showed that those from wealthier backgrounds were more than twice as likely to land a job in a creative occupation, with the issue further compounded when class was combined with gender, ethnicity, disability and skill levels. The research identified that only through,
+‘Significant, systemic and sustained action – Government, industry and educators can work together to seize this moment, as we emerge from an unprecedented crisis, to address long-standing inequalities in the sector’   
+The local scene – Liverpool City Region  
+Findings from our workshops with sector organisations and creative employers aligned with national reports, with some employers finding difficulties recruiting (some citing a ‘brain drain’ to London) and others mentioning the lack of available routes into the sector for young people.  
+The LCR Local Skills Improvement Plan (LSIP) ,published in spring 2023, outlined a two-year roadmap of actions. It identified four priority sectors - construction, manufacturing, warehousing and logistics and professional and business services – and did not prioritise Digital and Creative as a sector for further analysis. The data gathered for Digital and Creative as part of this process was therefore not detailed at a sector level although the following was identified: 
+‘The boundaries between digital and creative skills are increasingly unclear with significant areas of overlap and convergence. … Increasingly in demand are a fusion of skills across digital and creative – including business management, design and computing skills.’ 
+A previous policy document, Liverpool City Region Skills for Growth: Digital and Creative6 contained a large amount of information on the sector’s make-up and skills needs. Although compiled almost a decade ago (2015), much of this was still relevant and current, including the need for the development of fusion skills.  
+Current landscape of provision  
+We were given to understand that a new long-term Skills Plan was being developed for the region which identified a strong network of colleges, local authority learning providers and independent training providers in addition to the five universities.   
+‘Liverpool City Region is home to six general FE Colleges, adult and community learning provision from all our 6 Councils, 2 outstanding standalone sixth form colleges, 26 schools offering sixth form provision, over 40 specialist indigenous independent training providers delivering publicly funded training programmes directly and five Universities with complementary and reinforcing specialisms allowing for special progression in advanced manufacturing and engineering.’ 
+In comparison to other similar regions, LCR boasted a strong offer, including an above average range of 10-12 week skills 'bootcamps' in digital, creative and design and with active and engaged independent providers such as the Agent Academy and Mode Training.
+Supply of education and skills training  
+ 
+We examined the supply of the education and learning offer for the creative sector in the Liverpool City Region across five creative career pathways:  
+Pathway 1 - Creative Originals: arts & crafts, fine art, apparel and fashion 
+Pathway 2 - Creative Services: marketing and advertising, photography, architecture & planning, graphic design, product design, design services 
+Pathway 3 - Creative Experiences: music, performing arts, museums and institutions, libraries   
+Pathway 4 - Creative Content: computer games, mobile games, publishing, motion pictures & film, broadcast media, animation 
+Pathway 5 – Technical, Internet & Information (matched against the new LinkedIn industry codes covering the sector) : digital technologies including AR and VR, digital skills, coding, software development  
+Our research showed a dominance of academic routes across all five pathways, reflecting the significant presence of universities in the region. 7  There was a total of 503 courses available – of these 290 were academic courses and 186 technical or vocational courses. Of the five routes, the most populated pathways were the Creative Content, Creative Experiences and Technology, Internet and Information Pathways; the least populated is Creative Originals (possibly reflecting downgrading of HE funding for arts courses).  
+
+ Table 2  Supply of Digital & Creative courses in Liverpool City Region
+
+
+Figure 12 Supply of Digital & Creative courses in Liverpool City Region by study pathway
+   
+ 
+
+Figure 13 Supply of Digital & Creative courses in Liverpool City Region by creative skills pathway 
+ 
+
+Academic 
+Although there was some duplication, each of the city’s Universities had a distinctive specialism or offer.   
+University of Liverpool:  both under- and postgraduate courses with a research theme around digital; big architecture and planning departments.  
+Liverpool John Moores : range of under- and postgraduate courses including computer games development foundation year and full honours degrees in fashion, fine art, media and TV. 
+Liverpool Hope offered a series of combined honours degrees which presented students with a range of mixed pathways (e.g., marketing with sports nutrition, accounting and finance with digital creativity, health and well-being with criminology.) It also offered a new Digital Creativity BA (Hons) course combining creative practice with new technologies.  
+LIP: a specialist performing and creative arts university, LIPA offered Foundation courses in acting and music technology and Masters courses in acting, costume making and music industry management alongside its Undergraduate specialisms in acting, applied theatre, dance, design and technology, film making, music, sound technology and music and creative industries management.
+Within the wider TTWA, Chester University offered some 60 courses across all pathways with specialisms in graphic design, a range of fashion courses and new courses in AI and maths. Edge Hill University offered 20 courses across all pathways, including under- and postgraduate courses in creative writing, film, media and broadcast production and marketing and an MSc in data science and artificial intelligence. 
+Schools
+There was significant take-up of creative and digital A levels in the city region’s schools. In the latest Dept of Education statistics (years 2018/19) just over 1000 people attained an A* to C grade in a creative or digital A level.  
+Art & Design (including fine arts, graphics, textiles photography): 442 
+Arts  (including media and film studies; drama and theatre studies): 381  
+Music: 75 
+Design and Technology (including product design and engineering): 40 
+Dance: 6  
+Figure 14  Arts and Digital A levels (grades A* to C) attained in LCR in 2018/19 
+ 
+Source: Department for Education
+ Apprenticeships  
+The draft Skills Plan contained strong policy support for Apprenticeships:
+Apprenticeships are strongly valued and regarded within Liverpool City Region but the introduction of the 2017 reforms has had a more profound effect in the City Region than elsewhere: this is as a result of the previous balance of the levels of apprenticeships offered, with a national desire to move away from entry level apprenticeship for young people to higher level apprenticeships to develop technical and graduate level skills. Starts locally are at 54% of their 2017 levels, compared to 71% nationally.
+The reduction in the number of starts, coupled with the cost-of-living pressures and mix of delivery and funding bands locally, have put providers of training under significant financial pressure. Many of them are trimming their provision with some leaving the market altogether. There are also quality issues and pressures through Ofsted which are forcing a narrowing of provision. Employers on the whole remain strongly in favour of apprenticeships as a route to securing future talent but are finding that the system is not working for them as they would hope.
+However, LCR’s current provision reflected a national issue around lack of apprenticeship provision for the digital and creative industries. The industry consists of micro SME’s; current structures and funding requirements made it difficult for the sector to deliver and, indeed, for colleges to have big enough cohorts of students to justify putting on the course. Whilst the draft Skills Plan reported a problem across the region with apprenticeship take-ups declining in other sectors, the lack of suitability of the current apprenticeship system remained a significant issue for the creative and digital sector. This also exacerbated diversity and inclusion issues.  
+Current provision through colleges included just three digital and creative apprenticeships – two in IT delivered by colleges and one advertised on the Government apprenticeship website with an employer, Nest Box Live. Other commercial provision included:
+Level 6 data scientist apprenticeship offered by Unilever at Port Sunlight 
+Data science apprenticeship at United Utilities 
+Digital Design apprenticeship at the Science and Facilities Technology Council in Daresbury. 
+On the outskirts of the region, there is a content creator apprenticeship in Wigan.
+Although not a formal apprenticeship, Liverpool Film Office recently promoted a new skills initiative8, ACTION, which worked with up to 1,000 18+ year olds for a series of training, masterclasses and work placements. This was the first major initiative delivered as part of the new Screen Alliance North funded by the BFI and in partnership with North East Screen, Screen Manchester, and Screen Yorkshire. 
+T-levels  
+The city region was well provided for with the new T-level provision, with delivery of all T-Levels pertinent to the sector:  
+Digital Production, Design and Development (at St. Helens College; Cronton 6th Form, Hugh Baird College  and Wirral Met). 
+Media, Broadcast and Production (at Hugh Baird College and at City of Liverpool College, with two different pathways in content creation and event and venue technician).
+Craft and Design at Hugh Baird College: a pathway in textiles and fashion.  
+Southport College also offered a T-Level in Construction Design.  
+Continuing Professional Development (CPD) 
+Throughout the sector there was a broad range of good practice in providing CPD (continuing professional development) opportunities tailored to needs of professionals; but it existed largely in dispersed pockets and was often poorly matched, in volume and accessibility, to current and foreseeable needs for and professional development. 
+Across England, there was a pattern of low investment by employers who cited the use of freelancers as a barrier to investing in training. Most employers in the sector would fund training for experienced workers rather than new entrants or apprentices.  Freelances and the self-employed also cited the ‘double whammy’ as a hindrance to training (the cost of training and the need to take time away from paid work, sometimes accompanied by logistical difficulties and costs of rescheduling caring responsibilities.)
+Research by HEFCE on CPD within HE provision for the sector found, 
+‘Existing provision to be inflexible in terms of content and delivery. Opportunities are often inadequately responsive to individual requirements, with too much material re-used from other courses (within HE) or infrequently updated’5 
+More positively, there were some notable developments in the region, such as the 15-week Content Creation and Graphics visualisation part-time short course at LJMU, aimed at, ‘those already working in digital content design’. University of Liverpool also offered a 30-month online marketing course.  The screen sector saw an increasing supply of short courses available online – notably from ScreenSkills, which notably ramped up its online course provision after COVID. There was a plethora of online resources for the development of digital skills at all levels. However, most sector specific private training providers were London and South East based. 
+The ‘Creative Originals’ CPD provision shown in Table 2 below consisted mostly of ‘recreational’ courses such as life drawing, photography, as opposed to professional development. 
+ TTWA  
+There were a further 143 courses available in a wider travel-to-work area which included Ormskirk, Wigan and Chester.
+
+Table 3 Courses available in wider TTWA (including Ormskirk, Wigan and Chester)
+
+
+Figure 15 Courses available in wider TTWA by creative pathway 
+ 
+Challenges  
+Attracting talent: although we found that the academic offer from the five universities was significant, there was some duplication, particularly in the pathways of creative content, and not a huge amount of emphasis placed on 'future skills' (both creative digital skills and applications of AI).
+Lack of apprenticeships: some around IT support but very few creative apprenticeships.
+Professional development opportunities for those working in the sector were clearly lacking. Whilst there was an ever-increasing availability of online learning, the volume and diversity of what was available could be confusing and sometimes expensive, especially for technical specialisms.
+Diversity: 38.2% of vacancies in the Creative Industries in the North West resulted from skills shortages. That particularly affected more diverse sections of the creative workforce, with less access to ‘informal’ networks through which much recruitment takes place. The level of skills shortage vacancies in LCR was higher than the national average (33.2%). A comprehensive subsector breakdown was not available at a regional or city regional level, but the data suggested that this is less of a problem in IT, software and computer services and more pronounced in advertising and marketing, architecture and heritage.
+Graduate pathways: There were challenges in the current graduate pipeline, with entry-level talent struggling to progress to mid-career levels. This skills gap was exacerbated by a lack of industry experience and the misalignment between university curricula and employer needs. There may be a need to rethink degree structures and encourage more industry collaboration in course design.
+Apprenticeships and technical education: Participants highlighted the need to make better use of apprenticeship levy funding in the region and learn from successful initiatives like Manchester's digital apprenticeships. While T-Levels aimed to provide technical pathways into the industry, there were limitations and concerns about their long-term sustainability and employer engagement.
+Mid-career development: Supporting the development of mid-career professionals was identified as a critical challenge, particularly in the games industry. This could involve targeted upskilling programs, mentorship schemes, and greater investment in continuing professional development.
+Opportunities
+By taking a holistic approach to skills development, LCR could build a strong and diverse talent pipeline for the digital and creative industries, ensuring that the region had the capabilities and expertise needed to drive innovation and growth. This would require close collaboration between industry, education, and government, as well as targeted investment and policy support to address key challenges and seize emerging opportunities. This may take different forms:
+Strategic: Develop a comprehensive skills strategy for the digital and creative industries, identifying key gaps and priorities for action.
+Tactical: Work with universities and colleges to co-design industry-relevant curricula, encourage work placements and internships, to foster greater collaboration and knowledge-sharing between industry and education, establishing regular forums for dialogue and partnership and exploring new models of delivery such as accelerated degrees or modular learning.
+Leverage the apprenticeship levy more effectively, working with employers and training providers to develop high-quality apprenticeships in key areas such as software development, digital marketing, and content creation.
+Invest in targeted support for mid-career professionals, including leadership development programs, mentorship schemes, and funding for continuing professional development.
+Pilot innovative approaches to attracting and supporting digital nomads (see below), such as targeted marketing campaigns, co-working spaces, and streamlined visa processes.
+Operational: Flexible working arrangements; recruitment practices that ensure equal opportunities to diverse candidates; supportive approach to on-the-job learning.
+ 
+ 
+
+
+Engagement
+Findings from primary (qualitative) research with a wide range of consultees across arts, technology, education, investment and public policy were embedded throughout the report. Interviews were conducted under ‘Chatham House’ rules, so individual comments were not attributable. 
+A Liverpool City Region Women’s Digital & Creative round table discussion was convened to address the perceived under-representation of women in leadership positions and across the creative workforce. 
+Women’s Digital and Creative round table
+Key Takeaways
+There was a perceived lack of collaboration, access to finance, and diversity in the sector for women. Innovation was seen as a strength of the female workforce, along with being problem-solvers and having great leadership.
+Concerns were raised about investors perceiving women as risk-averse and struggles in accessing investment. Business support programs were seen as somewhat helpful but needed to be more sector-specific. Women defined ‘growth’  differently and more broadly than economic growth, including consideration of lifestyle balance and social impact.
+Challenges for Women in the Sector
+Lack of diversity in the sector (including gender, sexuality, ethnicity, socio-economic background, neurodiversity) led to a perception that women were in a ‘boys’ club’ with no seat at the table. Many felt they were working in silos with lack of collaboration.
+Strengths of the Female Workforce
+Round table attendees were positive about the benefits women brought to the sector, including:
+Innovation and bringing new ways of thinking
+Problem-solving abilities
+Great women leaders
+Diverse backgrounds (though underrepresented)
+Deep sector specialisms and skills
+Investment and Finance
+The sense of exclusion correlated with lack of access to appropriate finance/funding opportunities was almost universally reported. There was a perception that investors, most of whom were male, had different attitudes to risk and saw women as more risk-averse. Too few investors had sector specific knowledge and funding programmes were not tailored to the needs of creative businesses – although the (female led) Baltic Ventures digital start up incubator programme had successfully targeted women entrepreneurs and would retain that focus.
+Business Support
+Some found general business support helpful, others felt it lacked sector-specificity. There was frustration about the short-term nature of most business support programmes and an appetite for longer-term, continuous support – including through informal peer support networks, which were seen as valuable.
+Growth and the Future
+Women brought a valuable difference to perspectives on what ‘growth’ means - lifestyle factors and social impact were valued alongside economic benefits.
+Interest in developing new markets and learning about new technologies intersected with recognition of the importance of place-based strategies that had impact beyond sector verticals.
+Men had a responsibility to be allies and partners in addressing gender issues.
+Next Steps
+Explore developing more female investor networks
+Advocate for funding programs tailored to creative/social enterprises
+Foster more collaboration and open communication across networks
+Engage men as allies in addressing gender disparities
+Conduct further research on place-based economic development strategies
+Digital/creative start up and scale up ecosystem
+There was consensus among digital and creative entrepreneurs and investors we spoke to that LCR’s digital and creative cluster lacked scale and cohesion in comparison with those found in competitor city regions. There were concerns that there were too few entrepreneurs with ‘repeat’ experience and a lack of formal business skills including determining product market fit and establishing compelling investment propositions. However, two programmes funded by the Combined Authority demonstrated a more joined up approach to ecosystem development. Baltic Ventures had a successful first cohort of its digital start up incubator and Gather, a support network for digital and creative entrepreneurs looking to scale their businesses, had been reinvested in for a further year. 
+Consultation with the leaders of those programmes, other private sector investors and those responsible for promoting export and FDI revealed a common and shared view of some key strategic, tactical and operational challenges in growing the digital and creative ecosystem in Liverpool City Region:
+Strategic Challenges
+1. Lack of a cohesive identity or brand story for Liverpool City Region's digital/creative sector that differentiated it from other cities like Manchester. The local connection wasn't part of companies' narratives.
+2. Difficulty bridging the gap between the digital/creative cluster and other key sectors like health and life sciences to foster cross-sector collaboration and innovation. 
+3. Global economic uncertainty and fluctuating client demand impacting the sustainability and growth trajectories of agencies and studios.
+4. Retaining high-potential scale-ups as they reached a certain size, with some relocating to larger hubs like Manchester for talent and funding access.
+Tactical Challenges
+1. Helping early-stage founders develop the right product-market fit and gain initial traction to become viable for follow-on funding. Many had unrealistic valuations relative to revenue.
+2. Expanding companies' access to new markets, both in terms of landing key client contracts and pursuing international opportunities. Over-dependence on founder-led sales.
+3. Connecting a fragmented funding landscape, from seed capital at Baltic Ventures to later-stage finance, in a way that supported companies' full journey to scale.
+4. Matching companies experiencing rapid growth with the specialised talent they need, especially as the local labour market was quite constrained.
+Operational Challenges
+1. Embedding more structured processes for nurturing collaborative networks and knowledge sharing between cohort companies once accelerator programmes ended.
+2. Bringing an informed perspective on key industry trends like generative AI to help agencies and studios proactively adapt their business models and offerings.
+3. Developing leaders' skills in areas like team development, operational management and resilience to navigate rapid scale-up. Founder-centric cultures predominated.
+4. Encouraging companies to think more long-term and globally in their strategy and brand positioning, not just pursuing short-term local opportunities.
+Growing LCR’s digital/creative ecosystem required defining a differentiated identity, building bridges between sectors and stages of funding, opening access to markets and talent, and equipping founders to lead sustainable scale-ups. A more unified growth strategy across stakeholders could amplify impact.
+
+Megatrends affecting the Digital and Creative cluster
+Our research identified three ‘megatrends’ that the team believed will significantly shape the future of the creative sectors in Liverpool and beyond. We have drawn on evidence and stakeholder engagement drawn from local evidence and wider studies of comparable regions to corroborate findings and provide real-world insights.
+Future of agency and client relationships
+The traditional models of creative agencies serving clients are being disrupted. This was observed in factors such as:
+The rise of in-housing – where clients take on increasing amounts of the content and strategy development of campaigns, including greater use of AI.
+The impact of AI on skills and recruitment, in particular on graduate recruitment, detailed in Section III, Skills above. 
+Shifting client expectations.
+This trend was particularly evident in the marketing and advertising space, where the changes in the client-agency relationship have implications for the future business models and resilience of agencies. The risks around this are exacerbated by the small number of larger agencies in LCR with the capacity and ‘clout’ to retain more influence on creative development and decision making, lack of specialisation and the lack of clustering observed in comparison to other urban centres. 
+There were parallels in other creative sectors in the shifting power relationship between commissioners/ streaming platforms and independent content producers, where customer engagement and ARPU metrics and analysis of second (and even third) screen usage have been increasingly used to enforce changes to narrative structures. Increasing pressure for creatives to accept ‘buy outs’ for their services was undermining existing industry-wide agreements on minimum levels of remuneration and moral rights of creators. 
+AI and the future of creative work
+Artificial Intelligence (AI) is poised to have a profound impact on various sectors of LCR’s digital and creative economy, although the speed and extent of disruption may vary. The IMF Staff Discussion Note, 'Gen-AI: Artificial Intelligence and the Future of Work' provides insights into several key issues related to AI's impact on the workforce and economy.
+Skills impacts on LCR’s digital and creative workforce
+AI adoption will have significant implications for the skills required in LCR’s digital and creative workforce. 60% of employment in advanced economies is exposed to AI, highlighting the potential for substantial labour market disruption. While women and college-educated workers are more exposed to AI, they are also better positioned to benefit from it. The IMF report suggests that college-educated workers are better placed to transition into high-AI-complementarity roles, while lower-skilled workers may face greater risks of displacement.
+Given the likelihood of AI-related job disruption in LCR’s digital and creative cluster, there will be a clear need for policies and initiatives to support worker upskilling and transition. This could include targeted training programs to help creative professionals develop the skills needed to work alongside AI technologies, as well as support for those who may need to transition to new digital and creative roles to as a way to manage the decline and obsolescence of ‘legacy’ industries. Historical data suggests that some workers, particularly older ones, may struggle to adapt to technology-induced job market shifts, further emphasising the importance of policies to support worker transitions and maintain a focus on retaining and growing engagement in the workforce of the LCR economy as a whole.
+Moreover, the impact of AI on production, post-production and back-office operations could lead to changing job roles and responsibilities, as well as the risk of undercutting entry-level occupations. This could have significant implications for collective bargaining arrangements in creative content production sectors, some of which were illustrated by the 2023 SAG-AFTRA disputes over the rights of writers and performers in respect of AI-based manipulation and exploitation of their IP, image and voice. 
+Differential economic impacts for nations and regions
+The impact of AI on national and regional economies will vary depending on their level of development and preparedness for AI adoption. Advanced economies like the UK need a stronger focus on regulatory frameworks and innovation to ensure that they are not outflanked by other administrations in the US and EU. 
+The IMF report highlights key policy areas for successful AI integration, including digital infrastructure, human capital, innovation/integration, and regulation/ethics. Countries' and regions’ preparedness and policy priorities for AI adoption will vary based on their level of economic development, and the impact of AI on income and wealth distribution will depend on their choices regarding AI property rights and redistributive policies.
+In this context, we need to understand that at this time some cities within those advanced economies, including London, are ‘first amongst equals’ with a far more developed technical, innovation and investment ecosystem to support the transition to AI; less developed regions like LCR will need to prioritise digital infrastructure and skills to retain competitiveness. Despite the risks of increased inequality, AI also presents opportunities to improve public services, boost productivity, and foster inclusion in a way that is consistent with models of social innovation already widely understood to have impact in the context of LCR.
+ Sector-specific impacts and opportunities
+Creative sectors such as film, games, and music are likely to experience significant impacts from AI, not just in terms of production techniques but also in terms of business models, pricing, and distribution. Like other advanced economies, LCR's creative industries have a significant proportion of workers in occupations exposed to potential AI disruption, including roles in design, media, and content creation.
+However, AI also presents opportunities for productivity gains and innovation in these sectors. In the context of the creative industries in LCR, this could manifest in the form of AI-assisted design tools, automated content generation, or more efficient production processes. Some LCR businesses, notably in music, have already successfully leveraged increased investment and competitive advantage over other platforms by developing innovative publishing and distribution models.
+LCR benefits from a significant concentration of digital innovation infrastructure at STFC-Hartree in Daresbury, including high-performance and quantum computing, and virtual production technologies. This extends the potential for the region to explore combinations of production technologies, pricing, and distribution mechanisms that might have a transformational impact on the ethics and pricing strategies of music agencies, games, and film and TV. By doing so, LCR's digital and creative cluster could potentially 'leapfrog' competitor firms and regions.
+While the impact of AI on the creative industries in Liverpool will depend on various factors, including the local creative ecosystem's characteristics, the pace and extent of AI adoption, and the effectiveness of policy responses, proactively addressing the challenges and opportunities presented by AI can help position the region's creative clusters for success in the face of this transformative technology.
+Shifts in pricing and distribution models
+The way creative products and services are priced and distributed is undergoing a major shift, moving away from single purchases towards subscription-based models. This has been particularly transformative in areas like music (Spotify), video games, and film/TV (Netflix and other streaming platforms). As highlighted above, there are particular opportunities in LCR to harness digital infrastructure, applications of AI and creative R&D in developing new and disruptive models to help further the competitive advantages already enjoyed in limited parts of the sector. Widening understanding and adoption and helping more creative businesses adapt to these new models will be critical to the sustainability and future growth of LCR’s digital and creative cluster.
+Adoption of immersive technologies 
+An informal collective of LCR businesses drawn from across games, software development and creative industries has met intermittently over the last three years to explore applications of immersive technologies in both digital/creative and wider economic contexts. At the same time, investment in significant digital infrastructure, in the form of DIF (the Digital Innovation Factory) at University of Liverpool, and the creation of a ‘virtual twin’ of the city, has increased awareness of and interest in developing other applications of immersive technology. 
+This case study builds on meetings and interviews with LCR stakeholders and other research to highlight various challenges, opportunities, and value drivers associated with the adoption of immersive technologies. This case study seeks to understand whether there is a business case to prioritise a more strategic approach to immersive technology development within the work of the new Digital and Creative Cluster Board. 
+Opportunities
+Improved storytelling and engagement: Immersive technologies can help communicate complex ideas and designs more effectively to a wider audience, benefiting areas like development of new buildings, regeneration projects and the planning consultation process.
+Cost savings: By using immersive technologies to consolidate information and collaborate more efficiently, projects of all scales and across all sectors may be able to save money in the long run.
+Enhanced decision-making: Immersive technologies can provide decision-makers with more comprehensive and objective information, leading to greater confidence in their choices.
+Increased transparency: The use of digital models and immersive technologies can enhance transparency in the decision making process, potentially removing the need for separate steps and methods to verify the feasibility and product-market ‘fit’ of any proposal and speeding up the overall process of project approvals and mobilisation.
+Demonstrating value: Immersive technologies can showcase qualitative benefits, providing a compelling argument for their adoption in contexts like visitor attractions, chemical compound testing, and sensitive building/site modifications.
+Standardisation and benchmarking: There is an opportunity to establish agreed-upon performance indicators and benchmarks for immersive technology use, driving adoption and consistency across creative industries and other sectors. 
+Innovation in standards: Investment in facilities such as the DIF (Digital Innovation Factory) and VEC (Virtual Engineering Centre) position LCR as a potential leader in developing and implementing immersive technology standards across various sectors. 
+Challenges
+Cost and ROI: The upfront costs of implementing immersive technologies can be a barrier, particularly for private sector entities needing to justify the investment's profitability. This may also hinder microbusinesses in immersive content production from securing development funds or self-funding R&D. 
+Lack of standardisation: Rapid technological changes and a multitude of platforms/applications have led to a lack of governing standards, potentially causing collaboration difficulties.
+Resistance to change: Established practices and complexity in cross-industry collaboration can limit the adoption of new immersive technologies. 
+Accessibility: Ensuring immersive technologies are accessible to all stakeholders, regardless of technical expertise, can be challenging.
+Education and awareness: Many stakeholders and investors may not fully understand immersive technologies' capabilities and benefits, requiring education and value demonstration to encourage adoption.
+Data ownership and control: Questions around data ownership and control, particularly in public-private partnerships, need to be addressed. This is further complicated by AI's widespread adoption in generating creative assets and workflows for immersive production.
+Integration with existing processes: Immersive technologies need seamless integration into existing R&D, commercialisation, planning, construction, and regulatory compliance processes to maximise value and minimise disruption.
+Potential Next Steps
+Identify specific immersive technology use cases and value drivers aligned with LCR's goals, priority clusters and development of the built environment. 
+Engage stakeholders across industries to build awareness, understand benefits, and gather input on potential challenges and solutions. 
+Develop a roadmap for immersive technology adoption in LCR, including milestones, resource requirements, and key performance indicators. 
+Collaborate with industry, academic, and government partners to establish standards and best practices. 
+Pilot immersive technology use in selected projects to demonstrate value, gather lessons learned, and refine the implementation approach. 
+Explore funding and support opportunities, such as Innovate UK projects focused on education and net-zero goals, to drive immersive technology adoption in LCR.
+Map and convene opportunities to showcase immersive R&D and content production (explored further under Case Studies, below.)
+
+
+Case Studies
+Film and television
+Liverpool's high-end television sector has achieved notable success by producing authentic and highly original mid-scale productions. Local producers like Colin McKeown and acclaimed writers such as Jimmy McGovern, Frank Cottrell-Boyce, and Tony Schumacher have collaborated with A-list talent like Sean Bean and Martin Freeman. These projects, grounded in the specificity of place and top-tier craftsmanship, have transformed TV dramas with ‘regional’ subject matters into must-see events that attract large audiences.
+Blumhouse Productions and A24 provide potential models for further success in Liverpool’s film production industry. Blumhouse pioneered a new studio filmmaking model by producing high-quality films on micro-budgets, launching profitable horror franchises like Paranormal Activity, Insidious, and The Purge. Despite primarily producing horror films, Blumhouse’s projects often achieve broader mainstream appeal. The company has effectively adapted to the shift from cinema to streaming, forming strategic partnerships with platforms like Amazon Prime Video and collaborating with Atomic Monster to strengthen their presence in both film and streaming markets.
+Similarly, A24 has reshaped the industry by betting on bold, singular visions from filmmakers. Founded in 2012, A24 has produced and distributed notable films such as Moonlight, Under the Skin, Ex Machina, and Everything Everywhere All At Once. A24’s commitment to original, auteur-driven filmmaking prioritises creativity over safe bets, turning niche projects into cultural events.
+Liverpool can draw inspiration from Blumhouse and A24 by focusing on the untapped potential of traditionally niche genres, narratives, and talent. By scaling up these projects and embracing creative risks, Liverpool’s production community can capture broader audiences and cultural buzz, rewriting the rules of the industry and creating a profitable model for the future.
+Liverpool's production industry can greatly benefit from adopting the models exemplified by Blumhouse Productions and A24 for several reasons:
+
+
+A further international case study is Neon. Neon has followed a similar path by focusing on bold, unconventional projects which tell stories of the breadth of human experience. Its films appeal to audiences under forty-five who are not afraid of violence, foreign languages, and non-fiction stories. Known for films like Parasite, which won the Oscar for Best Picture, in seven years, Neon has been nominated twenty-five times with five wins. has demonstrated that risk-taking in film production can lead to significant critical and commercial success. This approach aligns well with the innovative spirit that Liverpool’s industry is known for.
+Local Production Enhancement
+With additional backing from the successful HETV investment fund, adopting these models can promote continued investment in the talent base in front of and behind the camera and encourage its production community to:
+Expand Global Reach: Leverage streaming platforms to showcase local talent to a worldwide audience.
+Foster Creativity: Support mid-budget TV, micro-budget films and auteur-driven projects to encourage innovative storytelling.
+Build Strategic Alliances: Form partnerships with established independent production houses and distributors to enhance resources and expertise.
+By focusing on the untapped potential of niche genres, narratives, and talent, Liverpool’s film and television industry can create a profitable, sustainable model that prioritises creative risks and achieves broad audience appeal.
+This focus on talent, skills and the development of original IP could also provide resilience and sustainability of demand. The much-delayed development of Littlewood Studios arrives at a point when the UK film and television sector is expressing concerns about the risk of overcapacity in the sector. Liverpool’s planned investment comes alongside other large publicly-funded studio projects both in the North of England – the £450m Crown Studios development in Sunderland – and commercial expansion of studio facilities in the South East. Conversely, falling advertising revenues, increasing costs and declining take up of subscription services may undercut the business case for investment in UK-based production driven by US streamers and distributors, responsible for 90% of the UK sector budget.
+Games Industry : from AAA to ‘triple-i’
+Liverpool City Region has a rich history in the gaming industry dating back to the 1980s with pioneering companies like Imagine Software, Denton Designs, and Psygnosis. Psygnosis (in particular) became renowned for games like Lemmings and Wipeout, which were pivotal in growing demand and shaping the industry. These early successes laid the foundation for the vibrant game development community present in Liverpool today. Notable current studios include Lucid Games, Ripstone Studios, and d3t, which continue to innovate and contribute to the global gaming landscape. 
+However, challenges and opportunities facing the games industry, both globally and within the LCR context, were brought into sharper focus by Sony’s retrenchment in its Liverpool office and reduction in headcount at Firesprite. This is reflected the current state of turmoil in the sector, with uncertain demand, shifts in business models, team structures, and the disruptive potential of AI. 
+Industry shifts: The games industry is moving away from the traditional model of large studios producing AAA titles, towards smaller teams and indie developers. This is driven by factors such as changing consumer preferences, the rise of subscription-based models, and the increasing capabilities of AI and game development tools.
+AI disruption: AI has the potential to significantly impact the games industry, enabling smaller teams to create more content more quickly and more cheaply. This can already be seen to have had an impact on levels of employment (including reducing graduate recruitment), which could have a longer term impact on development of middleweight staff and continuing ability to generate new IP, rather than servicing ‘work for hire’. However, it is still early stages, and the full implications are yet to be seen.
+Sector immaturity: Input from a games industry professional highlighted the relative immaturity of the sector compared to others, with challenges around agreeing on job titles, seniority levels, pay, and diversity. 
+Indie opportunity: While AI disruption may threaten some traditional roles, it could also present opportunities for indie developers in LCR to create new content and IP. However, they often lack the necessary funding, business skills, and support to capitalise on this potential.
+Skills and talent: The games industry struggles with skill gaps and mismatches, particularly in mid-career roles. There is a widely reported lack of communication and collaboration between industry and education providers. Universities across LCR seem not to be able to replicate the success of other institutions, notably Abertay, in producing graduates with the right skills and preparing them for the diversity of opportunities that exist in all roles and at all levels of the industry. Although national bodies such as Ukie have implement schemes to promote skills development and diversity (including raising awareness of neurodiversity in the workplace), the ability of microbusinesses to apply those standards remains an issue. 
+This also reminds us that Liverpool has been through similar peaks and troughs of over-dependency on FDI before: indie developers acquired by major (typically foreign-owned) studios, but remaining vulnerable to market shifts and, having given up the opportunity to develop a self-supporting capital base, have found themselves exposed to significant lay-offs or closure should one of the ‘marquee’ IPs fail. Whilst on each occasion a core of indie developers have emerged from these shake-outs with original IP which has stimulated the growth of new small studios, and a greater focus on ‘work for hire’ as a sustainable proposition has  been able to sustain a significant proportion of LCR’s games workforce has, in none of these cycles have the underlying structural weaknesses of the games sector been addressed in a way which results in sustained growth over the long term. Indeed, despite a relative recovery in the last decade, Liverpool’s relative position both as a centre for UK game development outside London and the South East and in the context of increased competition from overseas competitors is weaker now than it was 30 years ago. This reminds us that the games sector across the North West has never operated effectively as a regional cluster: production of games, immersive content and VFX in Manchester is largely ‘decoupled’ from that in LCR.
+LCR's games sector can look to build resilience and sustainability by adopting models exemplified by successful indie game developers and leveraging subscription services and digital distribution platforms. The shift from AAA (console) to indie games has highlighted how smaller studios can thrive through creative freedom, innovative gameplay, and new distribution models.
+Embracing Subscription Models
+Xbox Game Pass and PlayStation Plus: Subscription services such as Xbox Game Pass and PlayStation Plus provide developers with a continuous revenue stream and ensure broader audience reach. For LCR-based developers, getting their games onto these platforms can offer substantial exposure and financial stability. These services also encourage players to try games they might not have purchased individually, increasing engagement and player base
+Apple Arcade and Google Play Pass: Mobile game developers in LCR can leverage services like Apple Arcade and Google Play Pass to reach a wider audience and gain consistent income. These platforms curate high-quality games and provide developers with a share of the subscription revenue, making them attractive for innovative mobile game projects
+Creative Freedom and Cost-Effective Production
+Indie game developers have shown that creative freedom and innovative gameplay can lead to critical and commercial success. Local developers can emulate this approach by supporting smaller budget projects that focus on unique storytelling and gameplay mechanics. Games like The Garden Path and Still Wakes the Deep are examples of how developers can maximise limited resources to create impactful and engaging experiences
+Leveraging Digital Distribution
+The rise of digital distribution platforms such as Steam, GOG, and console online stores has revolutionised how games reach audiences. LCR’s game developers can use these platforms to distribute their games globally, ensuring wider reach and accessibility. This approach reduces dependency on traditional retail distribution and allows for direct engagement with players.
+
+
+Examples of Successful Models
+
+By adopting subscription models and leveraging digital distribution platforms, the games sector in LCR can enhance its creative output, ensure financial stability, and reach a global audience. These strategies provide a sustainable path forward, allowing developers to focus on creating unique and engaging gaming experiences without the financial pressures associated with traditional sales models. This approach, combined with Liverpool’s rich legacy and collaborative spirit in the gaming sector, positions the city region to continue being a major player in the global games industry.
+Extending the reach and ambition of immersive technologies
+LCR already boasts notable elements of an immersive technology infrastructure, from the work of the Virtual Engineering Centre, working across the region with a hub at Daresbury and a new dedicated facility within the Digital Innovation Factory (DIF) and the University; immersive content creation at CAVA, the University’s multi-disciplinary research centre for Architecture and the Visual Arts; LJMU’s Experimental Technologies Lab; and FACT’s 20-year commitment to promoting immersive technologies and content within its wider remit as a centre of excellence for media art. 
+However, the approach to developing strategic specialisations across the cluster is fragmented and there is a risk that individual initiatives may amount to ‘less than the sum of their parts’.
+Europe provides further examples of successful combinations of academic research, creativity, and consistent investment in showcasing immersive content and technology, producing outsized economic, social, and reputational benefits
+Ars Electronica in Linz, Austria
+Ars Electronica demonstrates the long-term value of engaging immersive media art and technology in a dialogue with wider societal and research agendas.
+Festival: founded in 1979, the festival (and the associated Prix Ars Electronica, the world’s longest-running media art competition) was conceived as an opportunity to use digital technology to ‘scrutinize [sic] potential futures and to focus these inquiries on the nexus of art, technology and society.’ 
+Futurelab: a ‘think-and-do tank’ for human-centred design and research, focused on social aspects of technological developments such as artificial intelligence, robotics, media architecture and interactive technologies, with significant commercial clients and outputs.
+Museum – Ars Electronica Centre, a combination of museum, public research institute and laboratory, brings an increasing focus on the impact of AI and its applications in all elements of society and technology 
+Laval Virtual
+Laval Virtual in France demonstrates the importance of specialisation. 
+Laval, a rural town in the Loire region with a population of 50,000, is situated 300 km southwest of Paris. It is accessible via a 70-minute train ride or a two-hour drive from Charles de Gaulle airport. In 1999, the Mayor of Laval strategically invested the town’s entire FrenchTech budget (equivalent to InnovateUK investment) into the development of the Laval Virtual Centre, a hub for virtual reality (VR) and augmented reality (AR) technologies, as well as an annual conference. By 2024, the outcomes of this strategic decision to reposition Laval's economy are evident: 26 iterations of an annual conference (Laval Global) which attracts thousands of global visitors; 65 VR/AR companies support 2,000 highly skilled jobs; A skills hub (Institut Arts et Metiers de Laval) offers dedicated immersive content and tech courses for 1,000 students and influences creative and tech skills offerings across the Loire region. Laval is identified as a global hub for extended reality (XR) technologies. Laval's experience offers several potential lessons for Liverpool: 
+The focus, international reputation, and scale of Laval's immersive content sector demonstrate what might be achieved by strategically aligning Liverpool’s immersive and computer games cluster with applications of VR and other priority industry sectors, as well as representing a rejuvenated screen cluster. 
+The City of Laval has recognized the need to create new and dedicated studio and workspace – La Licorne – to help address cost and accommodation shortages for early-stage businesses within a heritage environment. LCR presents opportunities for more clustering to take advantage of available, inexpensive space in town centres. 
+Laval has determinedly built its global reputation through outreach, exemplified by its annual conference and Laval Virtual's three-month 'road trip' around other European VR/AR hubs. Laval is a historic city of arts and culture, with a distinctive heritage environment that supports a strong economy of day visitors. The combination of arts, industrial heritage, and cutting-edge tech could project a distinctive image to boost LCR’s appeal to investors and to complement the existing museums and galleries offer.
+To address the challenges inherent in a volatile environment for production and consumption of original games IP and seize the opportunities of greater strategic coordination of games with other elements of creative content supply chains, LCR should:
+Support indie developers and startups with access to funding, business skills training, and mentorship from experienced professionals.
+Foster greater collaboration and knowledge-sharing between the games industry and other sectors, such as education, to tackle skills gaps and mismatches.
+Encourage diversity and inclusion in the sector, promoting opportunities for underrepresented groups and challenging traditional industry culture.
+Invest in the development of specialist skills and expertise around AI, game design, and interactive storytelling, positioning LCR as a hub for innovation in these areas.
+Advocate for greater industry coordination and standard-setting at a national level, ensuring that LCR's games industry has a voice in shaping the future of the sector.
+By proactively addressing these challenges and opportunities, LCR can position itself as a leading hub for indie game development and innovation, capitalizing on the disruptive potential of AI and the shifting landscape of the industry. This will require a coordinated effort across industry, education, and government, as well as targeted investment and support for the sector's growth and development.
+
+Situational analysis
+We analysed findings from data, qualitative research and case studies to assess the challenges and opportunities related to supporting and growing digital and creative industries in LCR.
+Desk-based analysis and stakeholder engagement raised important questions about LCR’s competitiveness in the digital and creative industries compared to other Northern clusters like Greater Manchester and West Yorkshire. These competitors are significantly ahead in terms of scale and investment; should LCR therefore focus on agility, responsiveness, and differentiation rather than trying to directly compete on size? Challenges include:
+Scale difference: West Yorkshire's digital and creative cluster is much larger than LCR's, with at least 50,000 more people employed in the sector. Within that, West Yorkshire’s creative content, advertising, and software sectors are considerably larger and demonstrate greater benefits of clustering.
+Investment and infrastructure: Competitors have benefited from sustained investment and development over the past 15 years, such as the development of MediaCity in Salford, relocation of Channel 4 and successful retention of and long-term reinvestment in a regional screen agency, Screen Yorkshire, in Leeds. LCR has not yet succeeded in developing similar large-scale infrastructure projects like a film studio.
+Specialisation: With a few notable exceptions, there is little evidence of actual or emerging specialisations (in products, services or processes) being exploited to create competitive advantage or build barriers to entry for competitors.  
+‘Three body problem’
+Using existing sector definitions helped provide consistent metrics for the scale and significance of the LCR digital and creative cluster and facilitated comparative analysis of performance of LCR against regional, national and international competitors. However, it did not provide conclusive evidence of effective clustering of digital and creative industries across LCR, either in the form of geographical agglomeration, increased cooperation around skills and R&D, attracting investment and raising barriers to competition. 
+With limited capital budgets in the public sector and historically low levels of investment in creative workspace and affordable office space from commercial developers, the digital, creative and culture sectors lack the capacity to drive the physical regeneration and development of future skills the city region needs to remain competitive.
+This highlighted that LCR has its own variant of the ‘three body problem’: none of digital technology, creative industries or culture can be seen to be sustainable without the other but lack of investment and structural barriers prevent the three worlds from arriving at a new synthesis which could transform economic and social outcomes. The problem isn’t in the way we measure the industries – it is that we continue to view future potential growth through that lens of separate, vertically siloed sectors. To find a resilient and sustainable path to growth, LCR’s digital and creative cluster needs to develop a model which recognises the dynamic relationship between production  and  consumption in different contexts.
+AI compounds these problems by challenging what we have historically seen as the axes of ‘growth’ in the creative economy and brings new discontinuities – in particular, threat that automation of a wider range of ‘craft’ skills and reduced opportunities for graduate employment will in very short order undermine the education sector’s role and viability in training new talent whilst in the medium term leaving a ‘hollowed out’ sector with no opportunities for progression. 
+Scenario 1 - Worst case: uncontrolled decline
+Whilst full of creative and tech talent, LCR’s digital and creative businesses and associated institutions (especially HEIs) are not sufficiently well-capitalised or differentiated to maintain their competitive position. Where that is currently reflected in underinvestment, a dependency on low business costs and lower wage base than comparative cities in order to remain competitive, in this scenario AI could completely undercut even the cost advantages held out by LCR and see up to 60% of creative occupations replaced or displaced. At that level, LCR would lack critical mass even to support its own original cultural production and risk becoming an adjunct to the visitor economy, with only large and well-capitalized institutions (NLM, Tate etc.) able to generate the footfall needed to keep cultural consumption by locals and visitors in equilibrium with the demand for experiences. That could in erode advantages of LCR's strong cultural identity and make it impossible to sustain even those functions, leading to a catastrophic loss of social equity.
+Scenario 2 – Most likely case: jobs-free growth
+Ongoing disruption through the entry of digital technology, in particular Generative AI, can be expected to have an accelerating impact on the structural resilience of digital and creative industries in LCR, in particular in transforming the nature of creative work. Evidence of trends both in creation of original IP and in models of creative agencies serving clients point to increasing reliance on AI in the production of creative assets. Whilst there is some evidence that links this to productivity gains in the sector, the changes in behaviour and business models brought about by this shift are also correlated with increased ‘in-housing’ of client work and a reduction in recruitment of agency staff. This could lead to significant reductions in graduate employment, or at best a rebalancing of where those opportunities are found. With a smaller business base and lack of ‘network’ agencies, LCR’s digital and creative agencies may find it increasingly difficult to provide a ‘full service’ offer which can compete with larger, better coordinated and better capitalised competitors. This may be addressed by one or a combination of changes to the business model of digital and creative firms in LCR:
+Greater specialisation within vertical market niches, exemplified by Uniform’s success in transforming itself into a group structure with separate divisions focused respectively on brand consultancy and creative agency for property and place.
+More focus on craft skills and high end design values in development of both original IP and agency work.
+A greater focus on national and export markets to rebalance the lack of demand coming from other sectors of the city region.
+Our research directed us to explore the scope for greater synergies between digital and creative and the other priority clusters in Advanced Manufacturing and Health and Life Sciences. Whilst this revealed some opportunities – including greater specialisation in the development of data scientist roles within life sciences – there was insufficient evidence that a focus on cross-cluster synergies would either help digital and creative companies adapt to changing demand for services nor bring about new forms of multi-disciplinary innovation in the short to medium term
+Scenario 3 - Best case: competitiveness through differentiation 
+The third scenario takes a different perspective, opening LCR’s digital and creative businesses to opportunities resulting from transformation in consumption of creative content and services rather than focusing on attempts to compete through supply side interventions. By identifying different lenses on the problem, LCR can transform the cluster from a number of uncoordinated, overlapping sectors competing with one another for a shrinking customer base to one which can be at the forefront of  a new paradigm of cultural consumption.
+The traditional siloed approach to categorising creative sectors (film, TV, games, etc.) is becoming less relevant. Content is increasingly cross-platform, with a focus on screens of various sizes (often experienced simultaneously), interactive experiences, and physical/experiential content. Generational shifts in content consumption are impacting traditional models. For example, the 18-30 demographic, previously key for blockbuster films, is now more likely to wait for streaming releases than visit cinemas. Box office revenues are down 25% compared to pre-pandemic levels. Independent, lower-budget productions with high profit participation for creatives are proving more resilient and attractive for streaming platforms, as exemplified by the success of companies like Blumhouse and A24. Liverpool City Region's cluster organisation should use this evidence to encourage a shift away from traditional sector-based thinking and towards a more fluid, cross-platform approach centred around content creation for screens, interactive experiences, and physical/experiential content.
+Liverpool’s innovative music distribution businesses have already demonstrated how investing in the development of new business models can leverage the city region's strengths in independent production, focusing on cost-effective, high-quality content with strong local narratives that can appeal to global streaming audiences. A focus on up-skilling and re-skilling collaboration and knowledge-sharing between diverse content creators, technology innovators, and cultural institutions is needed to develop innovative, immersive experiences that blend physical and digital realms. Building on the approach taken by existing start up and scale up programmes, and advocating for policies and funding models that support risk-taking, experimentation, and IP retention within the local creative ecosystem, this approach could develop a compelling brand narrative around Liverpool's unique cultural assets, creativity, and production capabilities to attract investment and partnerships from global players seeking distinctive content.
+Summary
+The challenges set out in the mapping evidence may best be addressed by a hybrid approach:
+Agility and responsiveness: LCR can differentiate itself by being more agile and responsive to emerging opportunities and challenges, such as leveraging its strong university and research assets, a coordinated approach to securing and promoting affordable workspace (including in ‘non-core’ locations such as Ten Streets, New Brighton and Southport), and aggressively promoting its appeal to digital nomads.
+Coordination and collaboration: While competitors like Greater Manchester have well-established industry bodies and initiatives, LCR has the opportunity to differentiate through greater coordination and collaboration across the sector, bringing together existing social models such as Make CIC and the LCR Music Board with the newly-formed cluster organisation and engaging with local authorities beyond the city core.
+Differentiation strategy: Rather than aiming to catch up on scale, LCR should capitalise on its unique strengths and international brand. This could involve focusing on specific niches where LCR has a competitive advantage, such as its distinctive cultural identity and independent spirit.
+Potential to ‘leapfrog’ other regions: megatrends of changing agency-client relationships, new pricing and distribution models, and the transformative potential of AI are likely to have a major bearing on the future of Liverpool's creative industries. The cluster analysis should explore these themes in depth and consider how Liverpool's businesses can best position themselves to thrive in this shifting landscape.
+Measurement and evaluation framework: The brief for the mapping exercise identified the need for robust data and evidence on the sector's performance, challenges, and opportunities to provide the case for further intervention to support the growth and development of the digital and creative industries. This could involve establishing a set of key performance indicators (KPIs) specific to those goals prioritised by the cluster board and regularly monitoring progress against these metrics.
+That in turn provides opportunities for:
+More ‘traditional’ content sectors to differentiate around specialisations (product, service, process and place)
+Advertising agencies to focus more on dynamics around end user behaviours and niche market verticals 
+engage with innovative IP-generating sectors to build themselves through focus on investment in convergence and future skills
+However, LCR is unlikely to evolve a globally competitive tech investment ecology in the short term. The digital and creative cluster needs to explore the potential transformation and competitive advantages that can be brought about through a dynamic and original combination of 
+Agility
+Collaboration
+Creativity
+Cultural infrastructure
+Disruption
+Future skills
+Place-based growth
+A social model
+Skills
+Potential solutions could include:
+- Joint initiatives between universities and industry to develop targeted skills programs
+Funding
+- Use the success of the HETV fund to lobby for regionalised funding models that better fit Liverpool's circumstances
+Collaborative R&D
+- Incentives and support structures to boost cross-sector partnerships and R&D
+EDI
+- Diversification strategies to broaden access and participation
+Policy and governance
+- Overhauling governance with greater transparency and accountability
+- Cohesive policymaking that links cultural, technological and economic strategies
+- 'Cluster champion' with authority and resources to drive ecosystem development
+- Infrastructure planning to provide appropriate and affordable business properties
+Next steps
+Overall, the discussion highlighted the significant potential of the digital and creative industries to drive economic growth, innovation, and social value in LCR. However, realising this potential will require a coordinated and strategic approach, led by industry and supported by government, academia, and other key stakeholders. An empowered cluster leadership could significantly boost the development of a resilient, inclusive and competitive Digital & Creative Cluster in Liverpool City Region. However, this requires collaboration from all actors in the ecosystem and meaningful commitment to a set of basic operating principles, including:
+Need for a clear vision and strategy: Throughout our discussions, there was a recognition of the need for a clear, coordinated vision and strategy for developing the digital and creative industries in LCR. This should build on the region's unique strengths and assets while also addressing key challenges and opportunities.
+Importance of leadership and coordination: The role of the newly formed cluster organisation in providing leadership, facilitating collaboration, and driving the implementation of the strategy was seen as critical. Consultees emphasised the need for the organisation to be action-oriented and to deliver tangible outcomes.
+Funding and investment: Access to finance and investment was identified as a key enabler for growth and innovation in the digital and creative industries. This included both public funding (e.g., through the Combined Authority) and private investment, as well as more innovative financing models such as venture capital and crowdfunding.
+International engagement: While discussions focused primarily on the UK context, participants recognised both the importance of international engagement and collaboration for the growth of the digital and creative industries. This could involve attracting inward investment, supporting businesses to access international markets, and building partnerships with other global clusters and regions. Consultation identified an issue that LCR businesses and the city region’s ‘offer’ were underrepresented in national and international promotion of the sectors. 
+Inclusivity and diversity: Ensuring that the digital and creative industries are inclusive and diverse was seen as essential for both social equity and economic competitiveness. This includes supporting under-represented groups to access skills, training, and employment opportunities, as well as promoting diversity in leadership and decision-making roles.
+By addressing the key challenges and opportunities identified in mapping, LCR can position itself as a leading hub for the digital and creative industries, delivering benefits for businesses, communities, and the wider economy.
+
+Appendices
+Appendix 1: Methodology
+We used a multi-method approach (including but not limited to desk-based quantitative and qualitative research, consultation through interviews and round tables and textual analysis using AI) over the period January-May 2024.
+Situational analysis and interrogation of ‘megatrends’ in the sector and wider economy were used to derive scenarios for the future prospects of the cluster.
+Clustering
+There are several barriers to defining clustering of digital and creative industries at the city region level. 
+The first is the national statistical evidence base. As Section I (above) demonstrates, national figures underestimate Liverpool City Region’s business and employment base in the digital and creative industries, often by a significant margin. This means that the standard measure of geographical agglomeration of the sectors which make up the digital and creative cluster - ‘LQ’, or location quotient - will also understate the extent and economic impact of clustering in absolute terms and relative both to the national picture for the sector and to the wider LCR economy.
+Although there is a growing body of sector specific research which tries to provide more granular analysis of ‘microclustering’ within the creative industries, these analyses contain some additional structural barriers to accurate measurement of the extent of agglomeration in LCR: notably, the use of a ‘travel to work area’ (TTWA) for Liverpool which excludes Halton and Wirral but does include parts of West Lancashire. This means that Liverpool, although recognised as one of the top 55 creative clusters which together account for the majority of national creative industries turnover, is counted amongst smaller ‘incipient clusters’ including Medway, Middlesbrough and Stockton, and Warrington and Wigan, rather than ‘creative capitals’ such as Manchester and Leeds or even ‘creative challengers’ such as Chester!
+These factors, plus the grouping of outputs by region (as opposed to city region), meant that we have had to construct a different set of measures of LQ, drawing on a comparison of LinkedIn data and DCMS/DSIT sector estimates, to inform our analysis of clustering. 
+GVA
+Analysis of LinkedIn workforce data and DCMS Economic Estimates for the sector leads us to estimate that LCR’s digital and creative workforce contributes £4.5 billion in GVA. This represents around 4% of national creative industries GVA – above the 3% average for the creative industries across the North of England but still less than half of London and the South East’s 10% share of GVA.  
+
+
+Appendix 2: Workforce/employment, GVA and LQ data
+
+Table 4  Digital and creative employment, GVA and LQ, BRES 2022
+
+Table 5  Digital sector employment, GVA and LQ, BRES 2022
+
+Table 6  Creative industries employment, GVA and LQ, BRES 2022
+
+Table 7  Cultural sector employment, GVA and LQ, BRES 2022
+Table 8 Digital and creative workforce, GVA and LQ, LinkedIn 2024
+
+Table 9  Digital sector workforce, GVA and LQ, LinkedIn 2024
+Table 10 Creative industries workforce, GVA and LQ, LinkedIn 2024
+
+Table 11 Cultural sector workforce, GVA and LQ, LinkedIn 2024
+Table 12  Difference between Digital and creative workforce, GVA and LQ, LinkedIn 2024 - BRES 2022
+
+Table 13 Difference between Digital sector workforce, GVA and LQ, LinkedIn 2024 - BRES 2022
+
+
+Table 14  Difference between Creative Industries workforce, GVA and LQ, LinkedIn 2024 - BRES 2022
+
+Table 15 Difference between Cultural sector workforce, GVA and LQ, LinkedIn 2024 - BRES 2022
+
+
+Table 16  Percentage difference between Digital and creative workforce, GVA and LQ, LinkedIn 2024 - BRES 2022
+
+
+Table 17 Percentage difference between Digital sector workforce, GVA and LQ, LinkedIn 2024- BRES 2022
+Table 18 Percentage difference between Creative Industries workforce, GVA and LQ, LinkedIn 2024- BRES 2022
+
+Table 19  Percentage difference between Cultural sector workforce, GVA and LQ, LinkedIn 2024- BRES 2022
+
+Appendix 3: Business data
+
+Table 20  Business counts, Digital and creative industries
+
+Table 21  Business count, Digital sectors
+
+
+Table 22 Business count, Creative Industries
+
+
+
+Table 23  Business count, Cultural sector
+
+Appendix 4: Consultees
+
+
+
+
+Appendix 5: References
+Arts Professional, 24 May 2024: Rose Bruford to close Wigan base, https://www.artsprofessional.co.uk/news/newsreel/rose-bruford-close-wigan-base  
+Creative Industries Policy and Evidence Centre: Siepel, J. et al (2020). Creative Industries Radar: Mapping the UK’s creative clusters and microclusters. Nesta, London.
+Creative Industries Policy and Evidence Centre: Siepel, J. et al (2023). Geographies of Creativity. Creative Industries Policy and Evidence Centre, Newcastle University.
+Department for Culture, Media and Sport. Creative Industries Economic Estimates Methodology, published 10 February 2016. https://www.gov.uk/government/publications/creative-industries-economic-estimates-methodology
+Department for Culture, Media & Sport. Creative industries sector vision: a joint plan to drive growth, build talent and develop skills, updated 20 June 2023. https://www.gov.uk/government/publications/creative-industries-sector-vision/creative-industries-sector-vision-a-joint-plan-to-drive-growth-build-talent-and-develop-skills 
+Department for Culture, Media and Sport. DCMS Sectors Economic Estimates, last updates 27 June 2024. https://www.gov.uk/government/collections/dcms-sectors-economic-estimates 
+IMF Publications: Gen AI: Artificial Intelligence and the Future of Work, 14 January 2024. https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379 
+Mateos-Garcia, J. and Bakhshi, H. (2016). Geography of Creativity in the UK: Creative clusters, creative people and creative networks. Nesta, London
+Office for National Statistics. Subregional Productivity in the UK: June 2023. https://cy.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/regionalandsubregionalproductivityintheuk/june2023 
+Office for National Statistics: Labour market in the regions of the UK: June 2024. https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/regionallabourmarket/latest
+Office for National Statistics (2024). Regional gross value added (balanced) by industry: city and enterprise regions, released 24 April 2024. https://www.ons.gov.uk/economy/grossvalueaddedgva/datasets/nominalandrealregionalgrossvalueaddedbalancedbyindustry 
+RSA Press Release, 14 November 2023: “Grand coalition formed to create a ‘Northern Creative Corridor” https://www.thersa.org/press/releases/2023/11/grandcoalition-formed-to-create-a-northern-creative-corridor 
+
+
+
+
+
+
+
+
+Prepared by Iain Bennett, Jon Bains, Lynne McCadden and Steve Hunt 
+for Liverpool City Region Combined Authority Growth Platform, July 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Tea Building  |  82 Wood Street  |   Liverpool  |  L1 4DW
+www.thefifthsector.co.uk
+0151 203 3004
+
+[TABLE 1]
+Local authority LQ | Digital sectors | Creative industries | Cultural sectors
+Halton | 0.72 | 0.56 | 0.45
+Knowsley | 0.25 | 0.15 | 0.14
+Liverpool | 0.80 | 0.80 | 0.96
+St Helens | 0.31 | 0.30 | 0.28
+Sefton | 0.34 | 0.31 | 0.22
+Wirral | 0.39 | 0.43 | 0.38
+Liverpool City Region | 0.59 | 0.56 | 0.64
+[END TABLE 1]
+
+
+[TABLE 2]
+PATHWAYS   | CREATIVE ORIGINALS   | CREATIVE SERVICES   | CREATIVE EXPERIENCES   | CREATIVE CONTENT   | TECHNOLOGY, INTERNET & INFORMATION    |   
+ACADEMIC  | 25  | 57  | 61  | 92  | 55  | 290 
+TECHNICAL   | 14  | 36  | 46  | 48  | 42  | 186 
+TECHNICAL   | (incl.1 T-Level)   | (incl. 2 T-Levels)   | 46  | (incl. 8 T-Levels)  | (incl. 1 T-Level)   | 186 
+APPRENTICESHIPS   | 0  | 0  | 0  | 3  | 2  | 5 
+CPD  | 8  | 3 (all bootcamps)   | 0  | 8  | 3 (1 bootcamps)   | 22 
+TOTAL   | 47  | 96  | 107  | 151  | 102  | 503 
+[END TABLE 2]
+
+
+[TABLE 3]
+PATHWAYS   | CREATIVE ORIGINALS   | CREATIVE SERVICES   | CREATIVE EXPERIENCES   | CREATIVE CONTENT   | TECHNOLOGY, INTERNET & INFORMATION    |  TOTAL
+ACADEMIC  | 12  | 26  | 20  | 27  | 25  | 110 
+TECHNICAL   | 5  | 6  | 6  | 10  | 1  | 28 
+APPRENTICESHIPS   | 0  | 0  | 0  | 0  | 0  | 0 
+CPD  | 10  | 0   | 0  | 0  | 3   | 13 
+TOTAL   | 27  | 32  | 26  | 37  | 29  | 143 
+[END TABLE 3]
+
+
+[TABLE 4]
+Blumhouse Productions | A24
+Micro-Budget, High-Quality Films Blumhouse’s strategy of producing high-quality films on micro-budgets has proven highly profitable. This model reduces financial risk while allowing for innovative storytelling. Liverpool can emulate this by supporting local filmmakers with smaller budgets, enabling more creative freedom and diverse projects.
+Adaptation to Streaming
+Blumhouse’s successful shift to streaming platforms, such as partnerships with Amazon Prime Video, has broadened their distribution reach and audience base. Liverpool’s industry could leverage streaming platforms to reach global audiences, ensuring that local productions gain international recognition.
+Collaboration with Genre Experts
+Blumhouse’s partnerships, like their collaboration with Atomic Monster, have strengthened their market presence. Liverpool can similarly form strategic alliances with other production houses or talent to enhance the quality and reach of their projects. | Focus on Auteur-Driven Projects 
+A24’s commitment to auteur-driven filmmaking has led to critically acclaimed projects like *Moonlight* and *Ex Machina*. This focus on bold, singular visions attracts top-tier talent and generates buzz. Liverpool can encourage local filmmakers to pursue unique, creative projects that stand out in the crowded media landscape.
+Cultural Impact
+A24’s ability to turn niche projects into cultural events demonstrates the power of distinctive storytelling. By fostering a culture of originality and risk-taking, Liverpool can create films and TV shows that resonate deeply with audiences and generate significant cultural impact.
+High Profile, Low-Risk Projects
+A24’s strategy of backing unconventional projects that defy traditional Hollywood formulas has proven financially successful. By extending the Combined Authority’s  HETV production fund, LCR can adopt this approach by supporting innovative projects that might not fit mainstream moulds but have the potential to achieve critical and commercial success.
+[END TABLE 4]
+
+
+[TABLE 5]
+Annapurna Interactive | Devolver Digital
+
+Annapurna Interactive has successfully leveraged subscription models and digital distribution to support distinctive and artistically driven projects. Titles like Outer Wilds and What Remains of Edith Finch highlight their commitment to unique storytelling and innovative gameplay, providing a model for Liverpool developers to follow. | Devolver Digital supports quirky and innovative games that often defy conventional expectations. Its success with games like Hotline Miami and The Messenger showcases how backing unconventional projects can lead to significant traction and success in the market.
+
+[END TABLE 5]
+
+
+[TABLE 6]
+LCR method | DCMS (experimental) method
+Step 1: Find the nearest SIC code with available GVA data for LCR (e.g. for four-digit SIC code 2611 that would be the two-digit SIC code 26, sector C and for 5911, two-digit SIC code 59, Section J). | This method uses published data from DCMS Economic Estimates (https://www.gov.uk/government/collections/dcms-sector-economic-estimates-gross-value-added)
+Step 2: Divide the number of LCR jobs in the SIC code by the number of LCR jobs in the nearest available SIC code (i.e. jobs in 2611 divided by jobs in C). | Step 1: Analyse LinkedIn data to determine the total LCR workforce for each DCMS subsector 
+Step 3: Use this ratio to scale the nearest available SIC code (i.e. multiply the ratio from step 2 by the LCR GVA in the Section C). This gives estimated GVA for the SIC code 2611. | Step 2: Use that figure and ONS subsector employment totals to determine DCMS subsector LQ for LCR 
+Step 4: Sum the estimated GVA for each of the SIC codes in the definition | Step 3: Use DCMS Sector Estimates to identify GVA by subsector.
+ | Step 4: Multiply Step 3 by product of Step 2 (optional: if Step 2 produces an LQ > 1.0,  adjust the multiplier to 1.0)
+ | Step 5: Multiply product of Step 4 by the relative productivity of city region (ONS ITL data)
+ | Step 6: Sum the estimated GVA for each of the subsectors in the definition.
+[END TABLE 6]
+
+
+[TABLE 7]
+Digital & Creative (all sectors) | Sector employment | Sector GVA (£m) | Sector GVA per capita (£) | LQ
+Employment, GVA and LQ, BRES 2022 | 24,365            | 1,635.6           | 67,130            | 0.58                
+[END TABLE 7]
+
+
+[TABLE 8]
+Digital sector | Sector employment | Sector GVA (£m) | Sector GVA per capita (£) | LQ
+Manufacturing of electronics and computers | 270 |                15.0  |           55,690  | 0.32
+Wholesale trade | 520 |                25.5  |           49,025  | 0.35
+Publishing (exc. translation & interpretation activities) | 2,475 | 191.5              | 77,364            | 1.21
+Software publishing | 70 | 5.4                   | 77,364            | 0.15
+Film, TV, video, radio and music | 1,835 | 142.0              | 77,364            | 0.48
+Telecoms | 4,030 | 311.8              | 77,364            | 0.90
+Computer programming, consultancy and related activities | 7,765 | 600.7              | 77,364            | 0.50
+Information service activities | 960 | 74.3                 | 77,364            | 0.55
+Repair of computers and communication equipment | 500 | 9.8                   | 19,602            | 0.61
+Total (Digital) | 18,425 | 1,376.0         | 74,679            | 0.59                
+[END TABLE 8]
+
+
+[TABLE 9]
+Creative Industries  | Sector employment | Sector GVA (£m) | Sector GVA per capita (£) | LQ
+Advertising and marketing | 790 | 54.7 | 98,637 | 0.41
+Architecture | 1,375 | 27.9                 | 20,282            | 0.70
+Crafts | 30 | 2.0                   | 66,628            | 0.34
+Design and designer fashion | 600 | 45.1                 | 75,143            | 0.56
+Film, TV, video, radio and photography | 1,920 | 147.9 | 77,046            | 0.49
+IT, software and computer services | 6,570 | 508.3              | 77,364            | 0.50
+Publishing | 2,510 | 194.1 | 152,507 | 1.53
+Museums, Galleries and Libraries | 1,250 | 42.7                 | 34,162            | 1.05
+Music, performing and visual arts | 1,525 | 65.4 | 42,854            | 0.62
+Total (Creative Industries) | 16,570 | 1,088.1           | 65,665            | 0.56                
+[END TABLE 9]
+
+
+[TABLE 10]
+Cultural sector | Sector employment | Sector GVA (£m) | Sector GVA per capita (£) | LQ
+Arts | 985 | 33.6                 | 34,162            | 0.45
+Crafts | 30 | 2.0                   | 66,628            | 0.34
+Film, TV and Music * | 1,905 | 146.3              | 76,773            | 1.12
+Radio | 300 | 23.2                 | 77,364            | 0.53
+Photography | 275 | 20.7                 | 75,143            | 0.84
+Museums and Galleries | 500 | 17.1                 | 34,162            | 0.84
+Libraries and archives | 750 | 25.6                 | 34,162            | 1.26
+Cultural Education | 350 | 17.0                 | 48,583            | 1.96
+Heritage | 110 | 3.8                   | 34,162            | 0.37
+Total (Culture) | 5,205 | 289.2              | 55,570            | 0.64                
+[END TABLE 10]
+
+
+[TABLE 11]
+Digital & Creative (all sectors) | Sector workforce | Sector GVA (£m) | Sector GVA per capita (£) | LQ
+Workforce, GVA and LQ (LinkedIn) | 51,779 | 4,000.0 | 77,252 | 1.15
+[END TABLE 11]
+
+
+[TABLE 12]
+Digital sector | Sector workforce | Sector GVA (£m) | Sector GVA per capita (£) | LQ
+Manufacturing of electronics and computers | 240 | 7.4 | 30,808 | 0.26
+Wholesale trade | 505 | 14.7 | 29,027 | 0.31
+Publishing (exc. translation & interpretation activities) | 1,674 | 123.4 | 73,701 | 0.76
+Software publishing | 240 | 7.1 | 29,445 | 0.49
+Film, TV, video, radio and music | 4,796 | 505.2 | 105,335 | 1.26
+Telecoms | 4,005 | 426.4 | 106,470 | 0.83
+Computer programming, consultancy and related activities | 22,864 | 1,673.3 | 73,184 | 1.35
+Information service activities | 1,063 | 58.6 | 55,143 | 0.57
+Repair of computers and communication equipment | 505 | 13.7 | 27,224 | 0.57
+Total (Digital) |           35,892  | 2,829.7        | 78,840            | 1.07                
+[END TABLE 12]
+
+
+[TABLE 13]
+Creative Industries  | Sector workforce | Sector GVA (£m) | Sector GVA per capita (£) | LQ
+Advertising and marketing | 9,247 | 907.1 | 98,095 | 9,247
+Architecture | 1,422 | 32.5 | 22,875 | 1,422
+Crafts | 213 | 15.2 | 71,411 | 213
+Design and designer fashion | 2,109 | 109.8 | 52,056 | 2,109
+Film, TV, video, radio and photography | 6,488 | 571.6 | 88,105 | 6,488
+IT, software and computer services | 9,392 | 665.2 | 70,824 | 9,392
+Publishing | 1,674 | 115.1 | 68,737 | 1,674
+Museums, Galleries and Libraries | 997 | 11.8 | 11,809 | 997
+Music, performing and visual arts | 6,427 | 530.8 | 82,591 | 6,427
+Total (Creative Industries) | 37,969 | 2,959.1 | 77,934 | 37,969
+[END TABLE 13]
+
+
+[TABLE 14]
+Cultural sector | Sector workforce | Sector GVA (£m) | Sector GVA per capita (£) | LQ
+Arts | 5,244 | 398.2 | 75,941 | 2.20
+Crafts | 213 | 15.4 | 72,477 | 2.21
+Film, TV and Music * | 4,679 | 465.3 | 99,441 | 0.40
+Radio | 117 | 3.4 | 29,130 | 4.78
+Photography | 1,692 | 74.7 | 44,160 | 2.21
+Museums and Galleries | 740 | 19.7 | 26,606 | 1.15
+Libraries and archives | 257 | 0.5 | 1,962 | 0.40
+Cultural Education | 0 | 0.0 | 0 | 0.00
+Heritage | 17 | 0.0 | 1,480 | 0.04
+Total (Culture) | 12,959 | 977.3 | 75,413 | 1.45
+[END TABLE 14]
+
+
+[TABLE 15]
+Digital & Creative (all sectors) | Sector workforce | Sector GVA (£m) | Sector GVA per capita (£) | LQ
+Difference LinkedIn 2024 - BRES 2022
+ | 27,414 | 2,364.4 | 10,122 | 0.57
+[END TABLE 15]
+
+
+[TABLE 16]
+Digital sector | Sector workforce | Sector GVA (£m) | Sector GVA per capita (£) | LQ
+Manufacturing of electronics and computers | -30 | -7.6 | -24,883 | -0.06
+Wholesale trade | -15 | -10.8 | -19,998 | -0.03
+Publishing (exc. translation & interpretation activities) | -801 | -68.1 | -3,664 | -0.45
+Software publishing | 170 | 1.7 | -47,919 | 0.33
+Film, TV, video, radio and music | 2,961 | 363.2 | 27,970 | 0.78
+Telecoms | -25 | 114.6 | 29,106 | -0.07
+Computer programming, consultancy and related activities | 15,099 | 1,072.5 | -4,181 | 0.86
+Information service activities | 103 | -15.7 | -22,222 | 0.02
+Repair of computers and communication equipment | 5 | 3.9 | 7,622 | -0.04
+Difference (Digital) |       17,467  | 1,453.8 | 4,161 | 0.48
+[END TABLE 16]
+
+
+[TABLE 17]
+Creative Industries  | Sector workforce | Sector GVA (£m) | Sector GVA per capita (£) | LQ
+Advertising and marketing | 8,457 | 852.4 | -542 | 2.17
+Architecture | 47 | 4.6 | 2,593 | -0.03
+Crafts | 183 | 13.2 | 4,783 | 1.87
+Design and designer fashion | 1,509 | 64.7 | -23,086 | 1.28
+Film, TV, video, radio and photography | 4,568 | 423.7 | 11,059 | 0.97
+IT, software and computer services | 2,822 | 156.9 | -6,541 | 0.16
+Publishing | -836 | -79.0 | -83,770 | -0.81
+Museums, Galleries and Libraries | -253 | -30.9 | -22,353 | -0.27
+Music, performing and visual arts | 4,902 | 465.5 | 39,736 | 1.88
+Difference (Creative Industries) | 21,399 | 1,871.0 | 12,269 | 0.63
+[END TABLE 17]
+
+
+[TABLE 18]
+Cultural sector | Sector workforce | Sector GVA (£m) | Sector GVA per capita (£) | LQ
+Arts | 4,259 | 364.6 | 41,779 | 1.76
+Crafts | 183 | 13.4 | 5,850 | 1.87
+Film, TV and Music * | 2,774 | 319.0 | 22,668 | -0.12
+Radio | -183 | -19.8 | -48,234 | 3.67
+Photography | 1,417 | 54.1 | -30,983 | 1.37
+Museums and Galleries | 240 | 2.6 | -7,556 | 0.31
+Libraries and archives | -493 | -25.1 | -32,200 | -0.86
+Cultural Education | -350 | -17.0 | -48,583 | -1.96
+Heritage | -93 | -3.7 | -32,682 | -0.33
+Difference (Culture) | 7,754 | 688.0 | 19,844 | 0.82
+[END TABLE 18]
+
+
+[TABLE 19]
+Digital & Creative (all sectors) | Sector workforce | Sector GVA  | Sector GVA per capita  | LQ
+ % Difference, LinkedIn 2024 - BRES 2022 | 113% | 145% | 15% | 99%
+[END TABLE 19]
+
+
+[TABLE 20]
+Digital sector | Sector workforce | Sector GVA  | Sector GVA per capita  | LQ
+Manufacturing of electronics and computers | -11% | -51% | -45% | -18%
+Wholesale trade | -3% | -42% | -41% | -10%
+Publishing (exc. translation & interpretation activities) | -32% | -36% | -5% | -37%
+Software publishing | 243% | 30% | -62% | 218%
+Film, TV, video, radio and music | 161% | 256% | 36% | 161%
+Telecoms | -1% | 37% | 38% | -8%
+Computer programming, consultancy and related activities | 194% | 179% | -5% | 173%
+Information service activities | 11% | -21% | -29% | 3%
+Repair of computers and communication equipment | 1% | 40% | 39% | -6%
+% Difference (Digital) | 95% | 106% | 6% | 82%
+[END TABLE 20]
+
+
+[TABLE 21]
+Creative Industries  | Sector workforce | Sector GVA  | Sector GVA per capita | LQ
+Advertising and marketing | 1071% | 1558% | -1% | 528%
+Architecture | 3% | 17% | 13% | -4%
+Crafts | 610% | 661% | 7% | 559%
+Design and designer fashion | 252% | 144% | -31% | 226%
+Film, TV, video, radio and photography | 238% | 286% | 14% | 195%
+IT, software and computer services | 43% | 31% | -8% | 33%
+Publishing | -33% | -41% | -55% | -53%
+Museums, Galleries and Libraries | -20% | -72% | -65% | -26%
+Music, performing and visual arts | 321% | 712% | 93% | 301%
+% Difference (Creative Industries) | 129% | 172% | 19% | 111%
+[END TABLE 21]
+
+
+[TABLE 22]
+Cultural sector | Sector workforce | Sector GVA  | Sector GVA per capita | LQ
+Arts | 432% | 1083% | 122% | 394%
+Crafts | 610% | 672% | 9% | 559%
+Film, TV and Music * | 146% | 218% | 30% | -64%
+Radio | -61% | -85% | -62% | 811%
+Photography | 515% | 262% | -41% | 164%
+Museums and Galleries | 48% | 15% | -22% | 37%
+Libraries and archives | -66% | -98% | -94% | -68%
+Cultural Education | -100% | -100% | -100% | -100%
+Heritage | -85% | -99% | -96% | -89%
+Difference (Culture) | 149% | 238% | 36% | 129%
+[END TABLE 22]
+
+
+[TABLE 23]
+Digital and Creative - all active businesses | Halton | Knowsley | Liverpool | Sefton | St Helens | Wirral | LCR total
+Beauhurst (2024) | 500 | 395 | 2,975 | 995 | 405 | 1,225 | 6,500
+IDBR (2023) | 245 | 215 | 1,615 | 620 | 300 | 800 | 3,795
+Difference (Beauhurst - IDBR) | 255 | 180 | 1,360 | 375 | 105 | 425 | 2,705
+% Difference (Beauhurst - IDBR) | 104% | 84% | 84% | 60% | 35% | 53% | 71%
+[END TABLE 23]
+
+
+[TABLE 24]
+Business count - Digital sectors | Halton | Knowsley | Liverpool | Sefton | St Helens | Wirral | LCR Total (Beauhurst 2024) | LCR total (IDBR 2023) | Difference | Variation
+Manufacturing of electronics and computers |               25  |                15  |              120  |                55  |                35  |              105  |              355  |                50  |              305  | 608%
+Wholesale of computers and electronics |                10  |                  5  |                35  |                10  |                10  |                15  |                85  |                65  |                20  | 31%
+Publishing (exc. Translation) |                10  |                10  |                90  |                45  |                20  |                70  |              250  |              140  |              110  | 80%
+Software publishing |                  5  |                  5  |                65  |                20  |                  5  |                20  |              115  |                30  |                85  | 290%
+Film, TV, video, radio and music |                30  |                30  |              310  |              125  |                35  |              145  |              675  |              350  |              325  | 93%
+Telecoms |                50  |                90  |              215  |                55  |                30  |                50  |              495  |              280  |              215  | 76%
+Computer programming, consultancy and related activities |              180  |              125  |              900  |              380  |              150  |              585  |           2,325  |           1,355  |              970  | 72%
+Information service activities |                25  |                20  |              165  |                60  |                25  |                85  |              385  |              125  |              260  | 207%
+Repair of computers and communication equipment |                  5  |                10  |                35  |                15  |                  5  |                15  |                85  |                90  |                 (5) | -8%
+Total (Digital sectors) | 335              | 315              | 1,935            | 770              | 320              | 1,095            | 4,770            | 2,485            | 2,285            | 92%
+[END TABLE 24]
+
+
+[TABLE 25]
+Business count - Creative Industries | Halton | Knowsley | Liverpool | Sefton | St Helens | Wirral | LCR Total (Beauhurst 2024) | LCR total (IDBR 2023) | Difference | Variation
+Advertising and marketing | 30 | 25 | 335 | 90 | 45 | 125 | 650 | 340 | 310 | 91%
+Architecture | 15 | 10 | 125 | 45 | 20 | 65 | 285 | 215 | 70 | 32%
+Crafts | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | -5 | *
+Design and designer fashion | 25 | 20 | 135 | 65 | 30 | 80 | 355 | 240 | 115 | 48%
+Film, TV, video, radio and photography | 35 | 35 | 375 | 115 | 40 | 155 | 750 | 375 | 375 | 100%
+IT, software and computer services | 135 | 100 | 750 | 315 | 110 | 460 | 1,875 | 1,185 | 690 | 58%
+Publishing | 15 | 15 | 115 | 50 | 25 | 85 | 300 | 140 | 160 | 115%
+Museums, Galleries and Libraries | 0 | 0 | 10 | 5 | 5 | 5 | 25 | 85 | -60 | -72%
+Music, performing and visual arts | 45 | 40 | 525 | 130 | 85 | 170 | 990 | 505 | 610 | 121%
+Total (Creative Industries) | 300 | 250 | 2,370 | 810 | 365 | 1,140 | 5,225 | 3,090 | 2,265 | 73%
+[END TABLE 25]
+
+
+[TABLE 26]
+Cultural sector | Halton | Knowsley | Liverpool | Sefton | St Helens | Wirral | Total LCR (Beauhurst 2024) | Total LCR (IDBR 2023) | Difference | Variation
+Arts | 40 | 35 | 465 | 120 | 80 | 150 | 890 | 380 | 510 | 134%
+Crafts | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | -5 | *
+Film, TV and Music | 25 | 25 | 290 | 120 | 35 | 135 | 635 | 330 | 305 | 92%
+Radio | 5 | 5 | 20 | 5 | 0 | 5 | 40 | 20 | 20 | 110%
+Photography | 10 | 5 | 105 | 20 | 15 | 45 | 200 | 110 | 90 | 84%
+Museums and Galleries | 0 | 0 | 5 | 0 | 5 | 0 | 15 | 20 | -5 | -20%
+Libraries and archives | 0 | 0 | 5 | 0 | 0 | 0 | 10 | 65 | -55 | -88%
+Cultural Education | 0 | 0 | 60 | 10 | 5 | 20 | 95 | 40 | 55 | 143%
+Heritage | 0 | 0 | 10 | 5 | 0 | 5 | 25 | 5 | 20 | 360%
+Total (Cultural sector) | 85 | 75 | 965 | 280 | 145 | 365 | 1,915 | 975 | 940 | 96%
+[END TABLE 26]
+
+
+[TABLE 27]
+First name | Last name | Organisation
+Richard | Anderson | University of Liverpool
+Andrew | Borland | VEC
+Margaret | Bourke | Department for International Trade
+Jonny | Clark | Investor
+Kirsty  | Connell | University of Liverpool
+Mat | Flynn | University of Liverpool
+Sher | Galen | Barclays Eagle Labs
+Sarah | Goulden | Form
+Ruth | Hartnoll | Matchstick Creative
+Matt | Johnson | Form
+Liam | Kelly | Make CIC
+Richard | Koeck | University of Liverpool
+John  | Leake | SciTech Daresbury
+Claire | Lewis | Baltic Ventures
+Sarah  | Lovell | LCR CA
+Paul | Marshall | Pragmatix
+Rachel | McLean | University of Liverpool
+Kevin | McManus | Liverpool City Council
+Craig  | Pennington | Future Yard
+Lynn | Saunders | Liverpool Film Office
+Cathy | Skelly | Liverpool City Council
+Robin | Tabb | LCR Combined Authority
+Naomi | Walsh | Liverpool CC
+Clemens | Wangerin | Independent
+John  | Whaling | LCR Combined Authority
+[END TABLE 27]

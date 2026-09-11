@@ -1,0 +1,208 @@
+Creative Industries in Leeds City Region
+Introduction
+This document is submitted on behalf of University of Leeds and West Yorkshire Combined Authority in support of the case to consider Leeds City Region as a candidate for an extension to the Creative Scale Up programme. The paper:
+Provides a summary of the scale and significance of the Creative Industries sector in Leeds City Region
+Offers some brief analyses of trends, demographics and other factors which would make Leeds City Region a suitable location for a Creative Scale Up programme
+Quantitative analysis of the sector since 2015 highlights the structural changes that have shaped the growth of the creative industries in Leeds City Region over a longer period, including:
+Sustained and coordinated support for and investment in film and high end television production: Yorkshire retained its own screen agency (Screen Yorkshire) when many others were folded into the Creative England structure in 2011, and has used ERDF and other public funding to attract both productions and companies to the region; the strength of both the industry base and the pool of skilled freelance labour to support it was a significant factor in Channel 4’s decision to relocate its HQ to Leeds – which will give a further boost to employment in the sector in future years
+Increasing recognition as a centre of excellence for digital industries, both in marketing and communications, games development, and as an important part of the financial, professional and businesses services cluster 
+A vibrant centre for both live music and performing arts, which will receive further impetus from the Leeds 2023 international cultural festival
+
+Creative Industries employment, 2015-18
+Analysis of the Business Register & Employment Survey (BRES) shows growth of 32% in creative industries employment in Leeds City Region between 2015 and 2018. Employment in the sector stood at 58,840 in 2018, a net increase of 14,420 jobs.
+Within that overall picture, strongest growth can be observed in:
+Film, television, video, radio and photography: 91%, an additional 2,110 jobs
+IT, software and computer services: 81%, 13,465 new jobs of a total of 30,145
+Music, performing and visual arts: 75%, or 2,125 jobs out of a total of 5,160
+
+Figure 1  Creative Industries employment in Leeds City Region, 2015-18
+
+Source: The Fifth Sector analysis of BRES via Nomisweb, 27 July 2020
+Growth in employment
+Analysis of employment growth between 2015 and 2018 at the level of individual SIC codes more clearly identifies emerging specialisms within the creative industries of Leeds City Region:
+Television programming and broadcasting activities increased by 494%, or 790 jobs 
+Radio broadcasting grew by 300%, adding 600 jobs
+Post-production also grew by 300%, from a smaller base
+Employment within games development grew by 140%, to 240
+Public relations and communication activities added 550 jobs, a 138% increase
+Music, performing and visual arts grew strongly, including: Sound recording and music publishing (75 net new jobs, a 214% increase); Support activities to performing arts (370 new jobs, an increase of 161%); and Operation of arts facilities, which doubled in size from 500 to 1,000 employees
+Creative industries businesses
+Between 2015 and 2018, Leeds City Region saw a net increase of 870 creative industries businesses (115), with a further 3% increase, or 290 businesses, between 2018 and 2019. 
+IT, software and computer services businesses showed the largest increase between 2015-2019, by 840 businesses or 21% - although this reflected a slight contraction (95 businesses, 2%) from 2018. Similar volatility is reflected in the film and television sector, which contracted by 29% (from 690 to 490 businesses) between 2015 and 2018 before rebounding to add 315 businesses in 2019, resulting in overall growth of 21% (115 businesses) over four years. Architecture grew more steadily, from 585 to 645 businesses – a 10% increase.
+
+Figure 2 Creative Industries Businesses in Leeds CIty Region, 2015-2019
+
+Source: The Fifth Sector analysis of ONS Business Counts via Nomisweb, 27 July 2020
+
+Creative clusters within Leeds City Region
+Although growth of the sector overall over this period is lower than the national average, this is an effect observed in most creative economies outside London and the South East. What is notable is the presence of clusters of businesses (with a Location Quotient of 1.0 or above) in Leeds in Advertising and Marketing, and IT, Software and Computer services.
+Looking at employment, the evidence of local clustering extends further: to Design in both Leeds and Bradford, and a strong Publishing cluster (LQ of 5.3) in Bradford, reflected in city region-wide clusters for Design (LQ of 1.2) and Publishing (1.1).
+Using Tech Nation’s definition of the digital sector also shows that Leeds has an LQ of 1.3 in those industries, measured by employment within those SIC codes.Figure   Creative Industries Businesses in Leeds City Region, 2015-19
+
+High growth industries
+Pursuing the analysis at the level of individual SIC codes reveals that some industries showed very high growth between 2015 and 2019, including:
+The number of games developers (62011: Ready-made interactive leisure and entertainment software development) increased by 33%, from 45 to 60
+Film and television production (5911 : Motion picture, video and television programme production activities) grew by 27%, from 295 to 375 companies
+Computer consultancy (62020 : Computer consultancy activities) was responsible for the highest increase in the net number of businesses, 800, or 27% growth 
+Within music, performing and visual arts, Operation of arts facilities (60%),  Cultural education (33%) and Support activities to performing arts (27%) all grew strongly
+A strong digital ‘core’ in the Leeds City Region
+Using Tech Nation’s definition of the digital sector, which includes a broader basket of digital-related SIC codes than are contained within DCMS definition of IT, software and computer services, reveals that both digital employment and businesses (as defined by Tech Nation) have grown faster than the GB average in Leeds and the Leeds City Region. Analysis of LQs indicates clustering of businesses and workers in Leeds (on both DCMS and Tech Nation definitions).
+
+Coordinated City Region approach
+The Local Enterprise Partnership, local authorities and universities work collaboratively to build a strong support ecosystem, which increases the  opportunities for the creative and digital industries in the city region to scale up. The partners have identified 7 key opportunities on which Creative Scale Up could build:
+Alignment with and between local economic development strategies
+Existing AHRC-funded Creative Industries Cluster programmes in Leeds and York
+Changing media landscape – including a move from broadcast to IP-based platforms – builds on existing digital media production strengths
+Evolution of immersive content and future audiences – and adjacent technologies involved in evolution of immersive content and future audiences
+Increasing importance of creative content and role of digital industries in adjacent sectors including financial, professional and business services, and healthcare
+Adoption of international best practice to increase innovation within Leeds City Region businesses – exemplified by Leeds’ selection as one of 8 international partners for Massachusetts Institute of Technology’s MIT REAP (Regional Entrepreneurship Acceleration Programme)
+The diversity of Leeds City Region’s population, presenting opportunities for new audiences, new workforce, new connections
+1.	Alignment with local economic strategies
+The importance of the creative and digital industries to the economic development of the city region is recognised within the Leeds City Region Strategic Economic Plan (SEP) 2016-2036, whose objectives include: 
+Implement coordinated and wide-ranging action to radically increase innovation
+Become a global digital centre – with specialisms in data storage, analytics, digital health and tech skills
+Boost business growth, productivity, exports and investment by linking businesses to support and funding, including through the LEP growth service, skills service and trade and investment programme 
+Digital and creative industries (alongside energy, health innovation, and advanced manufacturing) is one of the four priority sectors with, “growth potential, and are at the heart of City Region and wider northern strengths”. 
+Leeds City Council’s Inclusive Growth Strategy focuses on the ways in which reducing deprivation and inequality can promote growth. Its 12 ‘Big Ideas’ include:
+Maximising the economic benefit of culture
+Backing innovators and entrepreneurs in business and social enterprises
+Leeds as a Digital City
+2.	AHRC Creative Industry Cluster programme
+Future Fashion Factory, the AHRC -funded Creative Industries Cluster programme led by University of Leeds, has a complementary focus on, “agility in design and manufacture, developing technologies to increase productivity.” 
+Creative Scale Up could help build upon this to:
+Identify benefits within a focused economic geography
+Focus on growth through increasing productivity and diversification of workforce along the whole fashion supply chain
+Connection through the Northern Powerhouse to XR Stories at DC Labs (University of York) will also bring delivery of national programmes around digital and immersive content, including Story Futures and Digital Catapult closer to Leeds City Region.
+2.	National Centre for Cultural Value
+A major Arts Council, Paul Hamlin Foundation and AHRC investment, the Centre for Cultural Value at University of Leeds is building a shared understanding of the differences that arts, culture, heritage and screen media make to people’s lives and to society. 
+Working in collaboration with partners across the UK, including The Audience Agency, The University of Liverpool, The University of Sheffield, The University of York and Queen Margaret University, Edinburgh, the Centre for Cultural Value develops cultural policy and practice shaped by reflective practice and based on rigorous research and evaluation of what works and what needs to change. 
+Creative Scale Up funding could help creative businesses access and develop a better understanding of the commercial opportunities to:
+Access existing research so its insights can be understood and applied more widely across a range of sectors and applications
+Support company founders to be rigorous in their approaches to evaluation and to foster a culture of reflection and learning as they grow their businesses
+Encourage new research partnerships between academics and the creative sector through the Centre’s Collaborate fund
+3.	Changing media landscape
+People are moving away from traditional broadcast channels and preferring a plurality of forms of media consumption.
+For example: 
+More people are watching on-demand video services (+7% in one year) and more are using subscription video-on demand services such as Netflix and Amazon Prime Video
+People spend less time in front of the TV: the average number of minutes that people in the UK spent watching TV fell by 11 minutes in one year (it is now 3 hours 12 minutes each day)
+Shift in market is having an impact on broadcasters. In 2019 there was a 4% decline in advertising revenue and spend in content was cut down by 5% on 2016. However, growth in pay TV and revenue from other sources manages to keep revenues stable.
+(Source: Ofcom Communications Market Report 2019)
+4.	Evolution of immersive content and future audiences
+The other significant ISCF investment in Creative Industries is the Audience of the Future programme (AotF). DC Labs (University of York) is a partner in one of the four Demonstrator projects. It brings not only technical and research inputs, but significant awareness of market and supply chain opportunities.
+Opportunities: 
+Creative Scale Up coudl build upon XR Stories’ existing networks / relationships with producers, suppliers and end users in Leeds City Region
+DC Lab’s early experience of AotF highlights gaps into which Creative Scale Up could address (eg, tech / knowledge transfer and skills)
+Partners bring strengths in augmented, mixed, virtual reality and associated technologies (including AI, 3D sound, haptics) 
+
+Figure 4  Evolution of immersive content beyond the creative industries
+ 
+Source: XR Industry Survey, 2019
+
+Figure 5  Adjacent technologies involved in evolution of immersive content and future audiences
+
+Source: XR Industry Survey (2019)
+5.	Increasing importance of creative content and digital technology in other industries   
+The importance of creative content and digital technology to other industries is recognised within the West Yorkshire Digital Framework. This framework sees enhanced digital strengths contributing to local growth in:
+Smart cities, and therefore energy and transportation
+Health and medtech
+Financial services and fintech
+Manufacturing and textiles
+The cross-sectorial relevance of digital is also integral to the Leeds City Region Strategic Economic Plan (SEP). 
+6.	To increase innovation within businesses of Leeds City Region 
+There is evidence that innovation is decreasing within businesses in LCR:
+The 2019 Leeds City Region Business Survey showed that between 2017 and 2019 the percentage of businesses engaging in any form of innovation fell from 71% to 65%.
+This decline was mirrored across the areas shown in Figure 6:
+ Figure 6  Proportion of businesses engaging in innovation activity in Leeds City Region
+
+Source: 2019 Leeds City Region Business Survey
+Creative Scale Up would complement and bring a creative industries-specific focus to existing innovation activity in Leeds, including:
+Nexus at University of Leeds, an international and cross-disciplinary hub, and a community for technology businesses of all shapes and sizes that work, connect and collaborate with world-leading research in data, engineering, environment and health
+Leeds is one of eight international cities selected for Cohort 6 of MIT’s REAP programme.  REAP Team Leeds City has stakeholders from the University of Leeds, KPMG, Arup, the Nexus Innovation Centre, and the Leeds Academic Health Partnership. They are excited to develop entrepreneurial ecosystems in Leeds that will have both local and national impacts.
+7.	The diversity of Leeds City Region
+Leeds City Region has a relatively ethnically diverse population. Along with the increasing awareness in the creative sector of the importance of promoting equality, diversity and inclusion in recruitment – an awareness given greater urgency by the emergence of the Black Lives Matter movement – there is strong evidence that more diverse workforces are more innovative. Therefore, there is an innovation opportunity in building a more diverse workforce and cohort of creative entrepreneurs within the creative industries of the city region.
+'Companies in the top quartile for racial and ethnic diversity are 35 % more likely to have financial returns above their respective national industry medians.’ 
+Diversity Matters, McKinsey (2015)
+‘BAME groups (13% of the population) are underrepresented in the UK screen industry, accounting for 3% of the production and post production workforce, 8% of those working in sales and distribution and 4% employed in exhibition.’
+BFI: Future Film Skills - An Action Plan
+‘More diverse companies are better able to win talent and improve customer orientation, employee satisfaction, and decision making. Given the ideas- based products and services they sell, creative businesses may stand to benefit from having culturally diverse workforces and leaders even more than other sectors.’ 
+Create Together: A Creative Industries Council Strategy for Cross Industry Collaboration
+There is a lack of diversity in the workforce of the TV and digital media industries in the UK, with employees from minority ethnic backgrounds representing only 15% of the UK based television industry. Although this figure (15%) is higher than the UK labour market figure (12%), much of the sector is based predominantly in London where minority ethnic groups represent 36% of the workforce. Comparatively, parts of Leeds CR are much more ethnically diverse; an opportunity which Channel 4 has placed at the forefront of its recruitment for its new HQ.
+
+Figure 7  Diversity of Leeds City Region workforce
+
+Source: BOP Consulting, 2019
+
+Where Creative Scale Up could accelerate growth of Creative Industries in Leeds City Region
+The Creative Scale Up programme could help magnify strengths, bring forward opportunities for inclusive growth and address underlying structural weaknesses in Leeds City Region’s Creative Industries:
+Magnifying strengths: building on emerging specialisms in areas such as high-end television production, games development, and immersive content as well as more established sectors such as advertising and marketing, software development, live music and performing arts
+Intensifying existing efforts (including via MIT REAP) to engage more of the city region’s BAME population in entrepreneurial activity within the creative industries
+Addressing structural weaknesses: giving an incentive to founders to look to scale up and increasing the number of microbusinesses and start ups that go on to be sustainable small and medium sized businesses will help embed measures to help the sector recover and re-establish itself post COVID-19 and provide a platform for future growth.
+Appendix 1 - DCMS Creative Industries Standard Industrial Classifications 
+The Standard Industrial Classifications (SIC) used by DCMS to define Creative Industries are:
+Advertising & Marketing 
+Public relations and communication activities 
+Advertising agencies 
+Media representation 
+
+Architecture
+Architectural activities 
+
+Crafts
+Manufacture of jewellery and related articles 
+
+Design: product, graphic and fashion design  
+Specialised design activities 
+
+Film, TV, Video, Radio & Photography
+Motion picture, video and television programme production activities 
+Motion picture, video and television programme postproduction 
+Motion picture, video and television programme distribution 
+Motion picture projection activities 
+Radio broadcasting 
+Television programming and broadcasting activities
+Photographic activities
+
+
+IT, Software & Computer Services
+Publishing of computer games (Ready-made interactive leisure and entertainment software development)
+Business and domestic software development
+Other software publishing 
+Computer programming activities 
+Computer consultancy activities
+
+Publishing 
+Book publishing 
+Publishing of directories and mailing lists 
+Publishing of newspapers 
+Publishing of journals and periodicals 
+Other publishing activities 
+Translation and interpretation activities
+
+Music, Performing and Visual Arts 
+Sound recording and music publishing activities 
+Cultural education 
+Performing arts 
+Support activities to performing arts 
+Artistic creation 
+Operation of arts facilities
+
+Museums, Galleries and Libraries
+Library and archive activities 
+Museum activities
+
+
+
+
+
+
+Prepared by Iain Bennett, The Fifth Sector Ltd
+
+30 July 2020
+
+[TABLE 1]
+ | White ethnic groups | Minority ethnic groups
+Bradford (2011 census) | 67% | 33%
+Leeds (2011 census) | 85% | 15%
+Leeds City Region (2011 census) | 85% | 15%
+UK-based employees in television industry (2017/18) | 85% | 15%
+[/TABLE]

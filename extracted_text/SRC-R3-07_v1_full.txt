@@ -1,0 +1,523 @@
+Speaker 1  0:01  
+So that's frustrating. The other thing I was going to kind of flag up is the work the RSA and Fred are doing is going ahead of pace, but they're getting their nickels into a complete twist about data.
+
+Iain Bennett  0:20  
+We can really help them with that. We should really have the conversation with Fred. The thing, the thing that the thing you were open for conversation, the thing that John built now is absolutely, you know, it's just it just covers the whole thing, because it's, it's not just got companies details, and it's got all of the, all of the geographical data service data about indices and multiple deprivation, earnings, house ownership. It's got wiki data on churches, libraries, non-company, non-registered company venues, all the kind of stuff that you could possibly think of. So, and it's built on a time series, so you can kind of go, what happened when this, when this was put in or removed,
+
+Speaker 1  1:06  
+as I understand it. John and Fred are old Vinton pals,
+
+Iain Bennett  1:10  
+yeah, and they've, they have met recently, but they haven't talked about it in detail, so
+
+Speaker 1  1:16  
+no, I think, I think, so I think it would have happened again off the record, Ghost Star, who is kind of reading on the data at University of Portsmouth, thinks he's an expert and he's not.
+
+Iain Bennett  1:32  
+What do they think that they're building?
+
+Speaker 1  1:36  
+Joe, last time Joe was talking to me, basically he was saying he wanted to stick very closely to the government data set,
+
+Iain Bennett  1:48  
+right?
+
+Speaker 1  1:49  
+Not least because that meant it would be comparable nationally, and I get where he's coming from,
+
+Iain Bennett  1:58  
+but we can do that, we can do, we can do DCMS sectors, we can even do DCMS sectors on the basis of the new sit codes that are being introduced next year.
+
+Speaker 1  2:08  
+I think, I mean, I think, where do I mean, the two areas which I suppose need explaining are mean, essentially your figure for freelancers,
+
+Iain Bennett  2:27  
+that's always a separate piece of work, because it comes out of LinkedIn, although, although we can now do some inference to get if the turnover of Business X is Y, and there's only two people in it, that leaves the gap between what those two people are generating, where the rest of the income is being generated from, and that's contract,
+
+Speaker 1  2:46  
+which needs explaining, is creative jobs in non-creative businesses.
+
+Iain Bennett  2:57  
+Okay,
+
+Speaker 1  2:59  
+now I think where we're going to get, if we're not going to have two data sets, your data set and their data sets that marry perfectly. What we are going to have is an explanatory narrative, which explains the difference.
+
+Iain Bennett  3:16  
+Yeah, I mean, there's always, there's always a crosswalk, we we've, we've come up with, and also until, until such point, we've had this conversation with the PEC, until such point as we can have any employment data that is reliable, we're all screwed. Even the pet acknowledges that where they are at the moment is hopeless, because they're relying on labour force survey stuff they have. They have to get a separate authorised research licence to dig into that, and the data that everybody actually needs, which is the annual population survey, is suspended because the sample size went horribly wrong after Brexit and lockdown, so nobody's nobody's got it at the moment. Everybody is working on some kind of heuristic basis of what we think we're looking at, so yeah,
+
+Speaker 1  4:14  
+the deeper I get into these data sets Data sets, the more I'm aware that, whether it be creative industries or various other data sets, actually all of them are based on some assumptions which don't bear too much scrutiny.
+
+Iain Bennett  4:45  
+Yeah, and I think the thing that we've tried to do with the foresight thing is, is it's very customizable, so whoever is whoever is using the tool for whatever purpose can switch things on and off and classify things differently from the way that they appear, that's actually one of the main things we don't assume 100% of anything is what it says it is, so you can. The
+
+Speaker 1  5:09  
+outcome is that I think we know John, and you talk to Joe and Freddie Broccoli at some point, but it probably is when they actually know what the when Joe actually knows what he wants to say,
+
+Iain Bennett  5:26  
+and I guess that Joe and Fred are tied up with contributing to the clusters bid that Portsmouth's part of as well
+
+Speaker 2  5:36  
+be rejected.
+
+Iain Bennett  5:44  
+Oh, okay. I thought they might have been on the short list. Okay.
+
+Speaker 1  5:49  
+No, Christine told me a couple of weeks ago they've been rejected.
+
+Iain Bennett  5:53  
+Okay,
+
+Speaker 1  5:55  
+which is a bit of a shame.
+
+Iain Bennett  5:56  
+It is, yeah, but actually it gives more, it gives more of an opportunity for us once we've finished what we're doing at the moment to show them what we've been doing and come back in jointly, so what we are doing at the moment is that we're building two iterations of the model, one of the University of South Wales, which is looking, it's a really interesting one, because they want to do things like touring and icedeadfod, which is a movable feast anyway, so that's kind of interesting, and then one in Lancashire and Cumbria, which is looking at sort of creative and nature overlap,
+
+Speaker 1  6:41  
+that's usually topical, and South Downs National Park are doing something in that field as
+
+Iain Bennett  6:49  
+well. That's interesting, because we were having a conversation with Plymouth about a specific coastal index, which John actually built, and then they got cold feet about it. So, yeah, all of that same thing, because we've got the geographical data service stuff, we can go, what kind of a community is any of this activity landing in? What are its characteristics as a community, not just as a creative place?
+
+Speaker 1  7:16  
+Yeah, Eucharist would also be very interested in that from a national park point of view.
+
+Iain Bennett  7:24  
+Okay, well, we should don't
+
+Speaker 1  7:28  
+know them. I don't know them as well, but I think they probably would be.
+
+Iain Bennett  7:31  
+We should set you up with a demo, and then we can perhaps jointly approach some of these folk once you, once you've had a chance to play with it
+
+Speaker 3  7:42  
+1000 years
+
+Speaker 1  7:47  
+ago, I attended mr. workshop on Lara Creative Industries.
+
+Iain Bennett  7:54  
+I remember it well, which I think David Powell and facilitated, yeah. Almost certainly, because that conversation also involved Nick Millington and the late Ian Hunter.
+
+Speaker 1  8:16  
+I mean, I remember very prominent connection. connection now. Where that kind of cuts back to Hampshire, before we talk about Derby, probably cuts into Derbyshire as well, is do the one of the things which at that time Peck or its predecessor weren't picking up was the strength of rural creatives in in and around London, so Surrey Hampshire, back in Berkshire, and in the main, the greatest strength wasn't in the towns, but was in the leafy expensive villages,
+
+Iain Bennett  9:22  
+yeah,
+
+Speaker 1  9:26  
+and because so much of the narrative was urban that was getting missed,
+
+Iain Bennett  9:36  
+yeah, I mean it's interesting, actually, even our future Prime Minister has acknowledged that there is a kind of trickle out, not just a trickle down, because if you look even in Greater Manchester, where all the flag shakers are out in force protesting about how all the focus goes on the city, if you look at the actual GDP per capita is bigger in the areas around the city centre than is in the city centre, so yeah, and we can, we can again, partly because the work with Wales, which is really focused on rural clusters in North and Mid Wales, we can, we can do a lot more of that now, in terms of looking at, looking at who's, you know, which things associate with which other things in order to generate that stuff,
+
+Speaker 1  10:31  
+imitating creative, inconvenient creative industries, and indeed sport correlation with middle class people, and so it's hardly surprising the clusters are strongest where the most middle class people live.
+
+Iain Bennett  10:52  
+Well, of course, because they've got the, they've got the convening power as well as spending power. Yeah,
+
+Speaker 1  10:58  
+and the spend power, and also they've got the risk power, yeah, that if their children want to work in the sector, they can afford them to go and study a creative course, and they can afford to support them while they get their career going,
+
+Iain Bennett  11:12  
+yeah, yeah, yeah. We had a very interesting chat with Rachel Granger from DMU Monday, Thursday, recently, anyway. Who was talking about similar effects around Leicester and Leicestershire, where she was kind of going, you know, Blaby is where all the money is, not Leicester, and also the sheer volume of students who are supplementing their income with freelancing, particularly in design studies, so yeah, there's there's a tonne of stuff that,
+
+Speaker 1  11:48  
+which is actually what works really well with seeds and baking sport,
+
+Iain Bennett  11:55  
+right? Okay,
+
+Speaker 1  11:58  
+I mean, we're posting 100% this year
+
+Iain Bennett  12:01  
+we really, really do need to get you with eyes on the stuff that John's built, and a chance to kind of poke it and ask questions on it. So we should set a time for
+
+Speaker 1  12:11  
+that. Always, always happy to do that. So, yes, see where we go to, I mean, when the house eventually gets sold, which hopefully will be there's some other, it is one step forward, one step back, as we've always had sales, particularly at the moment.
+
+Iain Bennett  12:40  
+Yeah,
+
+Speaker 1  12:40  
+I'm likely to have a little conflict of virtual life between here and Box
+
+Iain Bennett  12:47  
+One. Okay, I was gonna say, does it, does it, you know, imply relocation of some kind?
+
+Speaker 1  12:59  
+Well, it does imply relocation. I'm going to have a flat in Princess Risper, which is going to be my prime location.
+
+Iain Bennett  13:06  
+Nice,
+
+Speaker 1  13:06  
+but I'm hoping that I'll probably have a flat in Gaborone. Wow,
+
+Iain Bennett  13:19  
+wow, and I thought my retirement planning was well advanced, but blindly, that's not that's not that into a cocked hat, very exciting though. It's Botswana. There's a family link to Botswana. I'm guessing. Okay,
+
+Speaker 1  13:48  
+and this is a mad story. Woman who looked after my mum when she died.
+
+Iain Bennett  13:56  
+Yeah, okay.
+
+Speaker 1  14:00  
+And then she lived with me for the year after my mum died,
+
+Iain Bennett  14:04  
+yeah. And
+
+Speaker 1  14:05  
+then I found she didn't have a visa.
+
+Iain Bennett  14:08  
+Okay,
+
+Speaker 1  14:10  
+the only way to remedy that problem is to get me to live in Botswana for a while,
+
+Iain Bennett  14:15  
+okay? Okay, that seems that seems like a reasonable trade. So I'm hoping
+
+Speaker 3  14:30  
+to
+
+Iain Bennett  14:32  
+lost you for a sec. Are you still there?
+
+Speaker 1  14:39  
+I
+
+Iain Bennett  14:44  
+It's coming back. Sorry, Charles, we had incoming cut us off,
+
+Speaker 1  15:03  
+so yeah, I need to be resident in the UK for half a year, or else everything gets incredibly complicated in terms of pensions and tax and rest of it, and hence I will tell exist in a very small flat in Princess Lisburn, probably a not much bigger flat just outside Gabriel. Wow, but the good news is Botswana has good Wi-Fi most of the time.
+
+Iain Bennett  15:44  
+Great, it
+
+Speaker 1  15:45  
+doesn't rain, and so coexistence is possible.
+
+Iain Bennett  15:53  
+That's amazing.
+
+Speaker 1  16:00  
+So we shall see everything may collapse in the pile of sand at any moment. Well, fingers crossed. I'm hoping not. Yeah, I mean, I mean, Benford, Southampton, and with Derby, if I can add value, I'd like to add value.
+
+Iain Bennett  16:20  
+That'd be great. That would be great. So let me talk to you a little bit about Derby. My thinking about Derby was forged not on the fact that I think you know Derby terribly well, it's the fact that all the schmozzle around local government regeneration that's going on in and around the south coast is very germane to the situation that Derby, Derby City in particular, finds itself in. Right, they've always been the, although it's the madness that, in terms of income, Derby appears to be like one of the richest places in the UK, because it's Rolls Royce and Toshiba and Toyota, actually, none of that money, none of that money is in the city centre, it's all in the Shire, so, so there's no footfall in the city centre at all, and also they're, yeah, and also they're the poor, they're the poor relation culturally to Nottingham, not because they really are, because actually there's been a lot of really interesting cultural organisations in and through Derby, but they've never been well convened, the council's always been shit at doing this, partly because, unlike in Nottingham, where until recently they've had pretty solid Labour majorities, the pendulums always swung in Derby, they've always been partly because they had that system where a third of the seats are up each year, and it's so they've they've gone kind of laboratory, laboratory, laboratory, then now, of course, they've got a hideous dose of reform, but just the whole, the whole situation has been febrile, so the, we did some work in 2021 which, which made some recommendations, which they've partly acknowledged in terms of setting up this culture derby network, but I've just been speaking to Hannah. So, Hannah is an old university bit one stage further. Yeah, there
+
+Speaker 2  18:33  
+is
+
+Speaker 4  18:35  
+going to be a East Mids combined authority.
+
+Iain Bennett  18:42  
+There is already an East Midlands combined county authority, yes,
+
+Speaker 1  18:47  
+and that covers historic Derbyshire, Nottinghamshire, Leicestershire.
+
+Iain Bennett  18:52  
+I'm not sure what the Leicestershire situation is, actually, because that's that's another one that's a basket of snakes, because of Peter Salisbury's, Peter Salisbury is uniquely North Korean view of governance. Let me just check that, but whichever bit it includes, Derby is not punching above its, is not punching its weight or anything close. It would be nice if they just had a map with the fucking boundaries for what this is, wouldn't it, rather than just a page with the mayor. No, it's not Leicestershire, it's Derbyshire, Nottinghamshire, Derby City, and Nottingham City. So it's not Leicester and Leicestershire. Okay. The mayor is somebody called Claire Ward, who kind of not got her background in, but she is the elected mayor and person who is in charge of the cultural brief, there is a woman called Alison Clark, who is one of those people I know of, but I don't think I've ever actually been in close proximity with. She used to be head of culture at Durham, where she did some really good things, including that light festival, and of course, now Durham has gone before, and that all went tits up, but again, because of Broadway and the theatre and all that kind of stuff, the focus has always been on Nottingham's cultural assets and not on Derbys, so Derby, Derby actually lost an MPO in relatively recent history, because Dada, the dance company, just folded, they just couldn't
+
+Speaker 1  20:52  
+remember that.
+
+Iain Bennett  20:54  
+Yeah.
+
+Speaker 1  20:55  
+Okay. Well, next picture geography question, are they messing about with the other local authority boundaries?
+
+Iain Bennett  21:09  
+Not in the, not to my knowledge, not in anything like the way that they are in Hampshire now.
+
+Speaker 1  21:14  
+Okay, so they're not kind of forming new unitaries and dropping and changing everything. Derby is going to remain
+
+Iain Bennett  21:25  
+I'm not sure, actually I've not, not, it's not one that's popped up, I've done, if you've come across that fantastic TikTok site that LadyGoat, which is, which is get your maps out, kind of thing. There is a consultation on it, like there is everywhere else. Derbyshire County Council's proposed one unitary, which is including the whole lot,
+
+Speaker 1  21:57  
+because that's what countries do.
+
+Iain Bennett  21:59  
+Yeah, Amber Valley. has proposed North and South, in which Amber Valley, Bolsover, Chesterfield, Dales, High Peak in North East Derby, should go in one, and Derby, Erewash, and South Derby, should go in the other. Bolsover has done a similar version, but grabbing 14 parishes off Amber Valley, the one that the city council, Chesterfield, Erewash, and High Peak favour is a north and south, which is in which the southern bit is Derby, Erewash, South Derbysham, and 14 parishes from Amber Valley, so yeah, actually, Bolsover and Derby, Bolsover, North East Derbyshire, Chesterfield, Era Wash, High Peak are all in favour of pretty much the same thing, so it's the county that's that's standing out and holding one,
+
+Speaker 1  22:58  
+I mean, Derbyshire has a history of bonkers politics, doesn't it? Because it elected both Skinner and Curry,
+
+Iain Bennett  23:06  
+and it's got bonkers economic geography as well, because High Peak is essentially part of the Manchester Troll to work area. When I went, when I went to school in Stockport, a considerable number of the kids that sat alongside me came from Gloucester, for Buxton, or Chapel, and Frith.
+
+Speaker 1  23:24  
+Okay? Is it part of the football about?
+
+Iain Bennett  23:30  
+Not really. It might be part of the Sheffield football about, but that's the other
+
+Speaker 1  23:35  
+thinking. Is it part of the kind of Cheshire?
+
+Iain Bennett  23:41  
+Yeah. No, because just because it's bloody cold and windy up there, and, and, and you, and you do actually get cut off quite a significant proportion of the year, although it's that close to Manchester, but that's the other complication, once she gets the north, once she gets the north and west of the county, then the spillovers into the, the Manchester and Sheffield economies, respectively, become enormous. So, Derby's got its really well-defined manufacturing centre, and then it's then the rest of it is a bit of a schmozzle between Nottingham and Leicester, but the bigger pools are actually to the north and west,
+
+Speaker 5  24:23  
+yeah, yeah, whereas when you get to the south,
+
+Iain Bennett  24:31  
+it's a totally different animal, yeah.
+
+Speaker 1  24:38  
+Yeah, interesting, very interesting. I mean, it sounds to me as though the kind of cultural partnership approach, if it can be got right is the way to go.
+
+Iain Bennett  25:06  
+Yeah, it depends. I mean, there's there's a focus within the ITQ on the fate of five particular organisations. There's also been a disastrous series of initiatives, so the main theatre and event space in Derby historically was the assembly rooms. It closed about 10 years ago, just because it was, I think, there was a fire, and then it was like, and when we did this work in 2021 there were proposals as to how they were going to redevelop the assembly rooms as what they called a learning theatre, because the Derby Theatre is now owned by the University of Derby. The theatre has been in a space in the shopping, yeah, the theatre's been in a space in the shopping centre forever, and the idea was they were going to redevelop the assembly rooms and put this new whiz bang thing in. I was just speaking to Hannah, who's our local string on the ground, is probably she.. she's
+
+Speaker 1  26:08  
+university friend.
+
+Iain Bennett  26:10  
+Yeah, she's a friend of Sara's, and she also now is the co-director of Arts Derbyshire, which is the kind of membership body for all of the creatives in the county area, but not in the city. She lives in the city. She's a director of a letterpress business that her husband runs in the city. She's very well connected with all of those networks, but she's sufficiently arm's length, in a formal sense, from the city council to be able to kind of go, yeah, but that's how it's going. She's not, she's, you know, she doesn't have a conflict of interest with the art star, which thing, and she was just saying that the carousel of options for what happened to the assembly room site was again supposed to have been resolved in the last month they were supposed to be making a decision to knock it down, rebuild something called Make Derby, which would be a maker space and something else, but the vote got deferred, and this is just such a pattern for Derby, they have absolute institutional paralysis about any sensible long long term investment in the city, they just kind of get sugar rushes around particular things, where they can get private developer. Yes. No, it's too. Not this is the other thing, not in this. So, I think Darby's in the key. I think Derby's key city network, which is the, again, everything about Derby is slight, is slightly whingy second division. Well, there is that as well. If you look, if you look at where the football team is, it's in an industrial estate on the edge of town. So
+
+Speaker 1  28:15  
+to be the baseball ground used to be part of the trend, really.
+
+Iain Bennett  28:21  
+Yeah, I yeah,
+
+Speaker 1  28:31  
+I'm just thinking so much of this resonates with not actually probably Portsmouth, more than Southampton, and
+
+Speaker 6  28:55  
+there were echoes of Southampton, the
+
+Speaker 1  29:00  
+university had great ambitions that the Nut Field would be a learning theatre, and it never happened. Theatre Royal was bought by University of Portsmouth, who then walked away from it when they found they couldn't fund it. It's a familiar pattern of big institutions in the city struggling, and then nothing, everything else being moribund because no one can solve perfectly public issues.
+
+Iain Bennett  29:50  
+Yeah, and I think what they're trying to do with this brief is they're trying to limit it to a small number of things that they think that they can manage, which I think they think will be sufficiently prominent within the portfolio of the new combined authority to be sustainable, so they've gone for Art Corps, which is a BME-led arts organisation in the city centre, the museums in which the Museum of Making is the absolute jewel in the crown, and Tony Butler, who runs it, is actually a real force for good, and quite nationally well connected. And the Museum of Making is a real, real asset for them. The theatre, owned by the university, and Hannah was saying it's had, I think, it got 20 million quid out of the last slug of cultural venues, money out of DCMS, so it's probably now stable. It's going to be redeveloped. Derby Live, which is an awful halfway house that the council runs, which is sort of a promotion and entertainment agency, which everybody hates, because it just sucks life out of everything, and Quad, which has had it's a mixed, it's a multimedia art centre again, along the lines of Broadway, that never had anything like the profile, but it used to host quite renowned international photography exhibition. The university has got a real track record in photography, so photography has historically, historically been a very big deal.
+
+Speaker 4  31:28  
+Is the university the fact it's joining most of us up?
+
+Iain Bennett  31:34  
+Well, the university, as is, as this will sound familiar to you as well, likes to play both games, so it's not a tremendously prestigious institution. It's physically sitting separated from the city centre by an awful bloody ring road. It's not very far away, but you know you have to make a real mental effort to cross the ring road if you're a student there, especially now that the bit of the art school used to be more central is actually no longer part of the university. It's because they couldn't maintain it because of health and safety, so yeah, they're kind of, they they decide whether they want to be in or out, essentially, and it is quite interesting within the overall ITQ that there is no specific reference to the university and the document, which is kind of surprising, since they are the owner of the theatre, so stakeholders, and also because Derby is designated as a UNESCO Learning City as well, so you would imagine university would want to be pretty involved in that, but it's, it's not there, it's it's a kind of obvious gap, but
+
+Speaker 7  33:06  
+I guess the university is going to say we have a university, we've got no money, we've got no money,
+
+Iain Bennett  33:17  
+and in that case it's probably true, because I suspect the number of international students who find their way to Derby is negligible,
+
+Speaker 7  33:25  
+it's now less than negligible, because the government is, yeah,
+
+Speaker 8  33:30  
+refused the visas of the ones who might,
+
+Speaker 1  33:33  
+yeah, yeah, okay,
+
+Iain Bennett  33:37  
+I mean, you're not going to be, you're not going to be, you know, treading on people's heads to make it to Derby as an international student,
+
+Speaker 1  33:52  
+which my kind of briefest page in Botswana taught me is actually you have to be surprisingly well informed if you're a student from Botswana who wants to study in the UK, you're quite likely to get a government scholarship that would enable you to study in the UK. Yeah, but they don't have an understanding of the hierarchy of institutions in the way that someone in England would have been indoctrinated into.
+
+Iain Bennett  34:33  
+Okay,
+
+Speaker 1  34:34  
+and so it's quite likely that they would see a course, probably an international development of Do Botswana student, which might be at a lesser institution that, as being as good as one from a good institute institution.
+
+Iain Bennett  34:55  
+So, in other words, it's down to it's down to how unmarked they are.
+
+Speaker 1  34:59  
+Yes, and probably also down to who has contact with who,
+
+Iain Bennett  35:05  
+right? Yeah, I doubt, I doubt that they're terribly well connected in that sense.
+
+Speaker 1  35:15  
+Yeah, apart, it's less to the creative subjects anyway.
+
+Speaker 2  35:24  
+Yeah, although
+
+Speaker 1  35:29  
+the Rolls Royce thing actually ought to be a really major connection,
+
+Iain Bennett  35:41  
+Rolls Royce and Toyota and Toshiba have again a very strange relationship. There have been individuals who different times have suggested that they will be, you know, active on boards within cultural life of Derby, but again I think that the council sort of fluffed it and missed and missed the opportunity that they had five years ago when there was somebody who was on the board of Rolls Royce who was very much like I want to lean into this and get involved, but you know it's one of those local authorities, which is extraordinarily anxious about losing control of things, and its default is if it looks like we're going to lose control, we'd rather stop it from happening,
+
+Speaker 1  36:38  
+curiosity. Curiosity, which institution credits the apprenticeships at Rolls-Royce Deliver?
+
+Iain Bennett  36:50  
+I've no idea.
+
+Speaker 1  36:55  
+Not sure. I'm not sure why I think that might end up being relevant. Just, just go through my head,
+
+Iain Bennett  37:02  
+yeah, yeah, that could be, that could be a useful consideration. Let me do some digging.
+
+Speaker 1  37:17  
+It sounds a really interesting one, even if slightly thorny and slightly difficult,
+
+Iain Bennett  37:25  
+well, it is a thorny one, and there is a chance that they'll kind of go, you did the 2021 thing, so you'd be marking your own homework, but the point I'm going to make to them is that this is almost entirely a different team from the one that we assembled for that, what? What
+
+Speaker 1  37:43  
+does actually some advantages of people progressing from BHDMA?
+
+Iain Bennett  37:50  
+Sorry,
+
+Speaker 1  37:51  
+there's some advantage in someone progressing.
+
+Iain Bennett  37:54  
+Oh, I see what you mean. Yeah, so when we did it last time we did it. We did it from a very kind of inside out view. We very deliberately, you know, enlisted the support people from inside and did all of that kind of thing. The there's a chance we'll get competition, because when we did it last time, we did it in partnership with Paul Ogard from Ogard and Partners, who was just setting up at that point, and I think that he might put in a bid to do it separately, and I think he might do it in partnership with Adam Buss, who used to be the director at the quad, so that's that's a potential threat, and I also think that Cara Pickering from the audience agency, who's based in Coventry and has been doing work with Leicester, and as a big kind of community engagement person, might also be in the mix for the audience agency to do something, so it could be quite, it could be quite competitive. I think the differentiators are we've now got a platform where we can actually map the impact for the changes in funding in culture and opening and closing of different institutions over a 10 year time period, and we can physically show them, plus your experience in local government reorganisation based stuff, and more widely, plus Nick Middleton having done the arts council review of cultural compacts, so coming at it from a point of view of having seen all of these things, so I think we're kind of, you know, we've, we can definitely say that we've adapted the approach to fit the particular need city council
+
+Speaker 2  40:01  
+interesting getting coverage,
+
+Iain Bennett  40:09  
+yeah. Well, I'm assuming city council, it doesn't say I But anyway, that's where we are.
+
+Speaker 9  40:30  
+Let's see what happens.
+
+Iain Bennett  40:32  
+Okay, I have done a complete kind of step by step days and dates work plan for this year,
+
+Speaker 1  40:43  
+actually, to some extent I think a little bit of flexibility about what you would like me for, what you wouldn't like me for, is quite useful, not least if the house sales thing means that I just blow up my no,
+
+Iain Bennett  41:06  
+that's absolutely fine. My thinking, my thinking about this is, and actually this is this is kind of interesting, because it's great. So I think I was having a conversation with Rachel Granger at DMU, about the map and stuff. Yeah, yeah, can you hear me? Okay. Oh, sorry, we're back,
+
+Speaker 1  41:42  
+do Yeah, I think it's quite possible that if the house sale goes ahead at some point in August or September, I will just disappear off the face of the universe in order to get the house clear and into the new place.
+
+Iain Bennett  42:00  
+Okay, so there is there is an interim deliverable in late September, which is setting out high-level investment proposals. I think we can probably do quite a lot in the.. I'm away the last week in July, so until the 20-seventh of July, the inception is supposed to be the 16th, so there is a bit of a narrow path towards some of that stuff. What I, what I've thought about is actually working with Lynne on this, in terms of a lot of, a lot of the consultation being handled by her, because she's just got that journalistic instinct of being able to really get hold of a brief and go we need to know this out of you and it's not
+
+Speaker 1  42:50  
+and that sounds to me really good and she does it very very well
+
+Iain Bennett  42:56  
+yeah
+
+Speaker 10  42:56  
+and so I mean if the
+
+Speaker 1  43:00  
+kind of hands-on stuff you expect from me in that first phase is relatively light, that probably helps.
+
+Iain Bennett  43:11  
+Yeah, I mean, I think the foot that first bit is just, we're going to have to, it says high level investment proposals, so this is just like it's a very, it's a very high level options assessment. What we understand to be coming in at the moment, and what we understand their commitments to be over a sort of five year period to inform a theory of change, essentially. So I think we can do that quite quickly, and then, as you say, we can determine what further consultation, because they've just left a huge gap in the quote, and they say they want it's like, okay, so we need it by September, and then we want a draft report by January, and there's not much that they say in the middle, but all of the stuff around policy alignment and implementation roadmap is all of that local government reorganisation stuff that can happen sometime between October and December.
+
+Speaker 1  44:15  
+Yeah, but be interesting to catch up with Nick about where he sees cultural compacts going. The thing which has kind of disappointed me going way back to Culture South East states is how difficult it is to get meaningful alignments, which involve money flowing against local authority priorities, I mean the obvious ones being skills and health
+
+Iain Bennett  44:58  
+rights
+
+Speaker 1  45:01  
+and there ought to be a logic would suggest, particularly because I'm closest to skills with skills, there ought to be ways where the idea, like a learning university, worked
+
+Iain Bennett  45:23  
+particularly, particularly in context of University of Unrescoed City of Learning status. Yeah,
+
+Speaker 1  45:30  
+yeah, it's actually really, really hard to find any examples where that kind of label has actually released any resource, possibly harder now to find good examples than it was 20 years ago. Possibly you remember Pauline Tambling's idea of a hub and spokes from the On the centre that they developed in Thurrock,
+
+Iain Bennett  46:11  
+yeah, yeah, but then unfortunately the centre in Thurrock was a massive commercial disaster,
+
+Speaker 10  46:18  
+yes,
+
+Iain Bennett  46:20  
+which slightly took the window at the sails of that one, which possibly is my point. Yes. Well, yeah, I mean, I, my, my feeling is, I mean, I don't know what you think about this, but all of those, all these attempts to choreograph one set of one set of deliverables by the institutional organisation of another seems to me to have an inherent problem with them, that the reason that they're different to start with is baked in, and if you want to find ways of actually navigating through that, you need a structure which is neither Washington nor Moscow, in order to make it work.
+
+Speaker 1  47:05  
+I think that's true. I mean, I suppose also there ought to be a deal. Every college I visit, every university I visit is saying how difficult it is to give their students real industry experience.
+
+Speaker 2  47:26  
+Yeah,
+
+Iain Bennett  47:29  
+yeah, and just thinking about the organisations that we're asked to focus on, in that sense, I mean, art core is very artsy craftsy sort of thing, the museums potentially could offer that kind of thing. The theatre certainly could offer that kind of thing. Quad would be, would need to be resourced to do that kind of thing, but if it were, if it were supported to do that, then it would potentially be on the same level as a place like Watershed or Fact or Broadway in its ability to leverage that into really exciting R and D stuff, but
+
+Speaker 1  48:11  
+actually Watershed is quite a good example with one, which has played ground. Yeah,
+
+Iain Bennett  48:15  
+because the University of West of England stood off and supported it rather than getting Hunts insisted on running it, yeah,
+
+Speaker 2  48:22  
+yeah,
+
+Iain Bennett  48:24  
+but I don't know that there's an equivalent personality in the mix at the university in Darby,
+
+Speaker 1  48:35  
+possibly one could emerge,
+
+Iain Bennett  48:37  
+possibly, and also you've now got me thinking about the distribution of colleges, because I'm pretty sure that thinking about Hannah's own children, both of them have gone outside Derby for their, for their 16 to 19, so their son went to confetti in Nottingham, which is a really interesting public-private hybrid, I and
+
+Speaker 1  49:04  
+again, it kind of raises that really interesting Derbyshire thing about mental maps not being too far travel distance.
+
+Iain Bennett  49:13  
+Yeah, it's a 45 minute bus ride. It's the easiest thing in the world. Well, apart from the awful, inevitable traffic on the edge of both cities, but it's not impossible. Yeah, interesting. I think. Okay, great. I will try and tighten this thing up. It's.. it's one of those.. we've got to thread the eye of a needle, because it's 1800 words, and there's quite a lot of things you want to say within 1800 words, both about what we want to do, why we want to do it, and why it's different from the last time we approached this. So I'm just trying to wrap my head around that one, and I need to speak to Nick, because I haven't spoken to him yet.
+
+Speaker 1  49:56  
+Just annoy me that people put the word limits. Yes, you understand it needs to be concise, and I can understand people marking you down if you're not concise, but being so rigid about work limits doesn't like me.
+
+Iain Bennett  50:08  
+Oh, yeah, and also you have to do it on our form, you can't submit a separate Word document, you know, it's just like
+
+Speaker 1  50:14  
+this isn't, yeah, it doesn't kind of make it Frankie,
+
+Iain Bennett  50:23  
+no, no, and you have to be canny about where you put charts and things in that don't come in the word limit, in that case, but I'm going to try and do what I can within the scope of what offered
+
+Speaker 10  50:36  
+anyway. That's a bit of moaning. Anyway,
+
+Iain Bennett  50:39  
+very good speech. Thank you, Charles.
+
+Speaker 1  50:41  
+Thank you. Cheers.
+
+Iain Bennett  50:42  
+See you soon. Take care.
+
+Speaker 2  50:44  
+Bye
+
+Unknown Speaker  50:44  
+bye.
+
+Transcribed by https://otter.ai

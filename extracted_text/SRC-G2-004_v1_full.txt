@@ -1,0 +1,85 @@
+East London Fashion Cluster
+Notes on the economic rationale for intervention
+3rd October 2016
+Introduction
+
+GLA Economics was invited to comment on proposals for an East London Fashion Cluster and to be part of the working group which has commissioned consultants BOP to undertake a feasibility study.  GLA Economics is roughly divided into three sub-teams focusing on the macroeconomy, the labour market and appraisal and evaluation. Amongst other things, the appraisal and evaluation team scrutinises proposals that eventually reach a stage in which GLA Senior Management Team/Mayoral approval is sought for funding. This process typically involves an assessment of whether the proposal has a clear economic rationale for intervention and offers value for money from a public sector perspective. 
+
+Anticipating that funding could be requested in future years for development of the fashion cluster, either from the GLA, central government or other sources, GLA Economics is of the view that a clear economic rationale for intervention needs to be established early on in the process. 
+
+To that end, the following note sets out some of the key questions that would need to be addressed and some initial thoughts on how to respond to them, without providing any definitive answers.
+
+Background
+
+The Olympic Park Site
+
+The Olympic Park is clearly an atypical piece of land in London having had substantial public investment to remediate and develop the site for the 2012 Olympics.  
+It is worth remembering that a key part of the rationale for intervention in hosting the Games was the regeneration of this deprived part of East London, i.e. on equity grounds.
+Large areas of brownfield and derelict land tend to suffer from market failure, with the private sector unable to fund the high land remediation and assembly costs associated with redevelopment. However, this is not an argument that could be made now, with the land now remediated it could quite easily be put out to the market. 
+The ‘equity’ argument however still stands. Government continues to invest in this area for the purposes of economic regeneration. In this sense, maximising the sales value of the land still need not necessarily be the priority. Moreover, ensuring there is a legacy from the games is a clear policy priority hence why the LLDC was set up. 
+While these are general arguments for continued public intervention in the Olympic site they do not necessarily justify why the fashion sector deserves special attention.
+
+The Cultural and Education District
+
+The LLDC has identified two sites around the Arcelor Mittal sculpture for its ‘Cultural and Education district’. UCL East will be the site of a new university campus for UCL while Stratford Waterfront features the UAL’s new London College of Fashion as well as major new spaces for the V&A and Sadler’s Wells. 
+In December 2014, the Chancellor announced £141m in funding for the District. 
+In Spring 2015 master planners and a design team were appointed.
+UAL's London College of Fashion will create a 32,000m2 research and education hub for the global fashion industry, near the traditional heart of the East End fashion trade. It will bring together London College of Fashion’s 6,500 students and staff for the first time in the college’s 100 year history. 
+These are all important elements of the wider narrative and context for potential further intervention.
+
+What do we mean by an East London Fashion Cluster?
+
+The East London Fashion Cluster is currently a concept with no firm proposals; this makes setting out the rationale for intervention difficult as the nature of those interventions are currently unknown.
+The closest thing to a vision for the cluster is that set out in the UAL/LCF East London Fashion Cluster Discussion document:
+“The East London Fashion Cluster will bring together manufacturers surface decoration textile studios, garment technology labs, designer showrooms and ateliers, digital creative agencies, journalists, stylists, media labs, tech providers and entrepreneurs. Living, working and meeting in an environment built by master planners, place makers and engineers supported by a hybrid fashion business incubator and accelerator.”
+“In a fashion cluster, every part of the industry is represented”.
+The discussion document promotes clustering as “a ‘high level strategy’ ….[which] brings expertise, skills and specialties together, joining up businesses to create an industrial ecosystem with widespread competitive advantage’. 
+Clearly, this is a highly ambitious vision for the cluster which is admirable but from an economics perspective, the evidence on how effective government can be in creating clusters is at best patchy, as discussed below.   
+
+Cluster theory and agglomeration
+
+The main arguments for cluster policy stem from the work of Michael Porter in the 1990s but it is rooted in the work of Alfred Marshall from a hundred years earlier.  
+Porter said that clusters emerge due to: factor conditions (such as skilled labour and infrastructure); demand conditions; the presence of related industries that are internationally competitive; and the strategy, structure and rivalry of firms. He illustrated the interaction between these different conditions and the positive feedback effects in his ‘diamond model’.  
+The RDAs put considerable effort into building clusters in the 1990s/early 2000s but as Max Nathan and Henry Overman of the LSE show there is very little empirical evidence that cluster policy has been effective. The argument against cluster policy is generally that clusters form organically in the private sector, e.g. Tech City.
+There are some (seemingly rare) examples of governments creating clusters or ‘picking winners’ successfully as highlighted by heterodox economists like Ha Joon Chang who cites the Korean steel industry.  In a similar vein, Mariana Muzzucato points to the important (often indirect) role that the state has played in clusters like Silicon Valley, where a lot of the innovation came out of government investment in defence (she also notes that many of the components of the iPhone stem from government research). 
+‘Horizontal’ (non-sector specific) policies which promote agglomeration in city economies have been more popular in recent years.  While the current Government under Theresa May has indicated that a new Industrial Strategy will be developed it is not clear yet what this will entail.  
+It may therefore be more appropriate to talk about the fashion sector in the context of the economic regeneration and agglomeration economies in East London. 
+Whether clustering or agglomeration is used as theoretical basis for intervention; there ideally needs to be evidence to show:
+a history of activity in the fashion cluster in the area.
+a mass of businesses and jobs on which to build and some demand/appetite for co-location. 
+spillover effects / ‘externalities’ from co-location in the fashion sector.
+other ‘assets’, e.g. the LCF/university.
+similar clusters from abroad that can be cited, and the drivers behind their creation.
+
+Have other options been considered?
+Here it would be useful to call on research from the LLDC on options for use of the sites, e.g. the workspace study they have commissioned. 
+The Business Case (in development) for the Cultural and Education Quarter would also be a useful reference point.
+The counterfactual in this case is that the land is put out to market with no further public sector intervention. This would almost certainly mean it is turned over to housing.  However, as noted above, the policy decision was made a long time ago that maximising the sales value of the land was not necessarily the priority and that other factors such as the regeneration of East London were important. 
+
+What is the market failure? 
+
+We are not at the stage of writing a business case for intervention to support the cluster - this is a much earlier feasibility phase. However, a Green Book compliant strategic outline business case typically involves being able to identify one or more market failures. 
+As noted above, as no interventions are yet proposed, it is difficult to develop the rationale for intervention. Some initial suggested barriers in the fashion sector have included:
+The lack of affordable workspace – the fact there is little affordable workspace for fashion start-ups is not itself a market failure, it is a price signal that higher value firms in other sectors can ‘outbid’ fashion companies. Some other form of information failure would need to be identified to justify intervention in this case. 
+Leakage of graduates abroad – again, this could be argued to be a global market functioning effectively with free movement of labour. However, a case might be made that it is in UK plc's interests to retain this labour especially if it can be demonstrated that information failures mean fashion businesses in London cannot recruit the skills they need or UK students fail to see the opportunities. 
+Opportunities for start-ups in the fashion sector are being missed – this could be due to information failures on the part of students (or others) and could be addressed with clearer guidance on the route to starting a business. 
+Access to finance – is this credit providers responding to the perceived risk or is there a market failure? 
+More generally a case could be made for Apprenticeships or support for other forms of training on the unusual grounds. 
+It would be helpful if the feasibility work being undertaken by BOP could start to identify the specific barriers facing the fashion sector and, crucially, evidence them before proposing interventions.
+
+Why does the fashion sector deserve special attention?
+
+Richard Florida, argued there was a special case for creative industries in terms of the spillover benefits on the rest of the economy in terms of productivity and wages. There is some evidence from America that the so-called ‘creative class’ are more prevalent in successful city economies - although the direction of causality is not always clear.
+Ultimately, it would seem very difficult to argue that fashion is a special case. However, there is the practical argument that UAL will shortly have a campus of 5,000+ students in the area and that it makes sense to address barriers in the fashion sector in this location. 
+
+Concluding remarks
+
+To conclude, it is difficult to make an economic case for public intervention to support a fashion cluster in East London. The argument would need to be made in the wider context of the regeneration of East London and the policy priorities for the area which have a long history pre-dating the Olympics. It may be more appropriate to promote the fashion sector rather than a cluster in the context of wider agglomeration benefits that could accrue from the economic regeneration of East London. 
+
+The main building blocks of the argument, if one can be made, would seem to be:
+The Olympic Park legacy and the regeneration of East London i.e. a rationale based on equity grounds and which does not seek to maximise land sales value. 
+The relatively large numbers of fashion jobs and businesses in the sector in East London (if this can be evidenced) which are part of a long history of textile manufacturing and retailing in East London. 
+Existing and proposed ‘assets’ in the fashion sector in East London – most significantly, the LCF move to the Stratford site. But also other assets such as Fashioning Poplar. A case could possibly be made around maximising and extending the economic impact of the existing public investment.  
+Specific evidenced market failures/barriers facing the fashion sector that could potentially justify interventions, e.g. information failures on the part of graduates/banks, coordination failures in the sector, etc. 
+
+While evidence to support these points would certainly help to develop the case for intervention, an argument for a more laissez faire type approach could equally still be made. 

@@ -1,0 +1,739 @@
+Creative Industries strategy for West Sussex, Brighton & Hove and Lewes District
+
+
+
+
+
+
+Draft report v2
+
+April 2023
+
+
+
+
+
+
+
+Contents
+Creative Industries strategy for West Sussex, Brighton & Hove and Lewes District	1
+Executive summary	1
+A Creative Industries Strategy for West Sussex, Brighton & Hove and Lewes District	1
+Findings – scale and composition of the creative sector	3
+Trends	4
+Skills	5
+SWOT analysis	6
+Recommendations	8
+1.	Creative employment and workforce data	11
+Creative employment	11
+Change in employment	12
+Creative workforce	13
+2.	Mapping creative enterprises in West Sussex, Brighton & Hove and Lewes District	17
+Clustering of creative businesses	18
+Trends analysis: new business formation and survival	20
+3.	Situational analysis	22
+Creative sub sectors	22
+Creative growth models	25
+Headwinds	25
+Creative ecosystem – the independent opportunity	26
+Structural challenges	27
+4.	People and skills	28
+Creative Skills – the national picture	28
+Analysis of creative training and skills provision in West Sussex, Brighton & Hove and Lewes District	33
+6.	Equality, diversity and inclusion	40
+7.	Evidence from consultation and engagement	41
+Findings from business engagement	41
+Creative workspace and infrastructure	43
+Creative ecology	44
+Skills and talent development	45
+Promotion and marketing	46
+Equality, diversity and inclusion	46
+8.	Recommendations	47
+Equality, diversity and inclusion	47
+Phase 1: Move from recovery to renewal	47
+Phase 2: Build capacity for growth	48
+Phase 3: Strategic creative leadership	48
+Appendix 1	50
+Workforce and business mapping methodologies	50
+
+Executive summary
+A Creative Industries Strategy for West Sussex, Brighton & Hove and Lewes District
+An innovative partnership between the Greater Brighton Economic Board and the Coastal West Sussex Partnership is supporting the creation of a Creative Industries Strategy for the West Sussex, Brighton & Hove and Lewes District geographical area. This is a broad and diverse area, but one with economic coherence and a network of established and emerging clusters, where greater strategic collaboration has the potential to unlock growth. 
+The value of the Creative Industries to the area has been clearly demonstrated. The Strategy will focus on those sub-sectors that, with targeted support and interventions, can deliver growth and generate economic value for the wider area and creative industries sector.  The strategy and delivery plan will cover the period 2023 – 2028.
+Objectives of the project:
+Enable creative businesses in the area to compete more effectively, to scale-up their enterprises, to attract investment, and to create value and employment.
+Identify what type and scale of intervention will best support growth for freelancers, organisations and clusters. 
+Review and make recommendations around the multi-faceted role of HEIs (the geography includes three leading universities) and other education and skills providers in support of the sector.
+Identify opportunities for strategic collaboration around sharing knowledge, skills and talent, space for business growth and accessing investment.
+Consult with a range of industry and other stakeholders to ensure a diverse range of voices and experiences are represented, and that Equalities, Diversity & Inclusion are an integral part of the strategy.
+Make the case for support and investment locally, regionally and nationally, including with government.
+The project has been informed by research that identifies clusters around the West Sussex & Greater Brighton area where there is already comparative advantage. The strategy will seek to build on these existing strengths and also on the potential areas for development and growth.
+The Creative Industries interconnection with the publicly funded arts and cultural sector is acknowledged. So, whilst this is not a strategy for the area’s cultural sector, the work will include an understanding of its role in contributing to broader Creative Industries growth. 
+The aim is for a strategy document, with supporting evidence, that can be used as a call to action for stakeholders and as an advocacy tool, and that will help unlock funding and support. 
+Process
+A Steering Group has come together to guide the process, formed of representatives from the Greater Brighton Economic Board, Coastal West Sussex Partnership, Brighton & Hove City Council, West Sussex County Council, Wired Sussex, Sussex Innovation Centre, University of Sussex, University of Brighton, University of Chichester and four industry reps. 
+The Fifth Sector began work on data research and mapping of the creative sectors in West Sussex, Brighton & Hove and Lewes District in December 2022. This report provides evidence for policy through:
+Mapping creative businesses, the creative workforce and the supply of creative skills to establish potential for economic growth
+Engaging business owners, freelancers and stakeholders
+Reviewing use and sharing of assets – public sector, Higher Education Institutions (HEIs), network and private – including those beyond the geography, where needed
+Identifying opportunities for strategic collaboration around knowledge, skills and talents
+Our research took an asset-based approach to provide a robust evidence base that can be used by stakeholders to support, develop and advocate for this sector in the future.
+
+
+Geography
+West Sussex covers the County Council and the seven District and Borough Councils of West Sussex: Arun DC, Worthing BC, Adur DC, Mid Sussex DC, Crawley BC, Chichester DC, Horsham DC
+Greater Brighton Economic Board covers Brighton & Hove CC, Lewes DC, Crawley BC, Mid Sussex DC, Adur DC, Worthing BC, Arun DC
+Coastal West Sussex Partnership covers Adur DC, Worthing BC, Arun DC, Chichester DC and is supported by WSCC
+Table 1 Map of the strategy area
+
+
+Findings – scale and composition of the creative sector
+Our research demonstrates that West Sussex, Brighton & Hove and Lewes District’s creative industries comprise 10,225 companies and a workforce of 54,428 people. (National statistics, based on a smaller national sample of businesses reflect 7,470 registered businesses and 23,690 employees.)
+The strategy area demonstrates existing or emerging strengths which respond to the differing identities and capabilities of each place. For example:
+Brighton & Hove: drawing on the experience of cross-sector collaboration around emergency Covid response (ABCD) to forge stronger creative networks and a more inclusive future plan for the freelance workforce; one of 47 creative clusters of national significance highlighted in Nesta’s 2016 report, including five microclusters which together house some 1,070 creative businesses.
+Crawley: already identified as a microcluster for creative businesses, investment opportunities exist around ACE Priority Place status, Towns Fund investment in developing cultural infrastructure and building on existing cultural networks (including the Creative People and Places partnership) to build a more strategic creative compact. 
+Worthing demonstrates strong infrastructure (entertainment venues, flexible workspace, creative networks), an emerging microcluster of creative businesses and demand for location filming providing justification for investment in new studio facilities, supportive local Council and cultural organisations with appetite to convene their peers’ neighbouring authorities in growing the coastal cultural and creative industries offer.
+Adur is an ACE Levelling Up for Culture place and has seen growth in creative services sectors including advertising and architecture.
+Arun is an ACE Levelling Up for Culture place, and has University of Chichester Tech Park and a creative digital hub (Track) funded by the County Council in Bognor Regis
+Chichester is identified (along with Bognor) as one of Nesta’s 47 creative clusters and boasts nationally significant cultural venues including Chichester Festival Theatre and Goodwood.
+Horsham is home to leading software businesses including Creative Assembly and Red River.
+Lewes has a growing design and making sector, manifest in the highly visible presence of craft businesses in the town centre, is home to the internationally recognised Glyndebourne Festival and benefits from growing demand as a location for film and television location shoots.
+Mid Sussex has also seen sustained growth in creative services – advertising, architecture and design – and an increasing presence of film and television production companies.
+Trends
+Research carried out pre-pandemic, including the four Fuse reports (2013-15) and the 2019 study of Creative Industries in Greater Brighton, pointed to a pattern of sustained growth of the creative economy, including a thriving freelance sector, at a rate faster than that of the regional economy and national creative industries. It also indicated growth in creative industries businesses in Crawley, Lewes and Worthing. These findings reflect strengths intrinsic to the growth of creative industries in the region, which include:
+Easy access to London markets
+Successful attraction and retention of skilled workforce drawn by quality of life, more affordable housing, range of opportunities and the appeal of Brighton (in particular) as a diverse, culturally vibrant city
+However, our research suggests that there has been over the last three years a fundamental change in economic conditions and competitive forces for which the region’s creative economy and public sector are ill-prepared. This has been accentuated by Covid-19, but new business growth had plateaued much earlier, around 2015, long before the impact of lockdowns.
+Despite a range of imaginative interventions, particularly focused around the cultural sector in Brighton, the creative sector is still to fully recover: our analysis suggests that there have been 1,050 creative industries start-ups across the region since April 2022, below the trend for the last ten years.
+This shift has been brought about by factors including:
+Covid-19 pandemic, whose immediate acute impacts on the creative economy (in particular, cultural organisations and the ‘live’ sector) were somewhat mitigated by interventions such as the ABCD Cultural Recovery Plan for Brighton & Hove, but whose longer-term structural challenges still reverberate.
+Limitations on freedoms of movement and international trade (including touring) imposed by Brexit.
+Economic recession and cost of living crisis depressing demand from audiences and businesses.
+Increasing costs of energy and labour and pressure from redevelopment threaten sustainability of live venues.
+Acceleration of trends toward remote and ‘hybrid’ working – which result in greater competition for key skills, wage inflation for experienced workers and increased costs and risks in bring new entrants to the workforce.
+Pressure on local authority budgets – still the main source of investment in culture – resulting in underinvestment in capacity and workforce development.
+A very tight property market, dominated by increased demand for housing and constrained by planning requirements, resulting in loss of affordable workspace and lack of specialist facilities and ‘grow on’ spaces.
+Skills
+West Sussex, Brighton & Hove and Lewes District has an excellent supply of formal creative qualifications but there is an opportunity for greater collaboration between education and businesses and evidence of skills gaps by employers. 
+Each of the three Universities has a distinctive offer to the sector:
+University of Sussex is a research-led University with a founding principle of interdisciplinary working.
+University of Brighton has a strong cross-sector under-graduate and post-graduate offer.
+University of Chichester offer a new tech park with a focus on the convergent skills of creativity, engineering and technology – including Createch. 
+All three contribute to investment in the region via a range of methods from direct sponsorship (University of Sussex sponsors Brighton Dome and Festival) to offering degree apprenticeships and internships and there is support via the learning institutions to develop start-ups and support creative businesses, such as through the Sussex Innovation Centre.
+In Further Education, the new collaborative formation of the Chichester College Group offers alternative access routes into the sector with some examples of good careers pathways from Level 1/2 through to Levels 4 and 5 with some creative foundation courses which can support a pathway into Higher Education. Beyond the CCG, there is an extensive offer in other colleges and Sixth Forms. 
+However, employers are still unsure how to engage with these institutions, with many reporting that communication is often ad hoc and dependent on social contacts which can ebb and flow. They also are unaware of the facilities within these institutions and how to access them. 
+Some had good experience with placements, but others reported that graduates were often not ‘job-ready’ when they left University. 
+Social and information barriers to entry persist, including financial barriers and lack of good careers information. Opportunities to access the new highly paid roles within the sector emerging from the fusion of creative and digital technologies are often not understood by both parents and careers advisors. 
+
+
+SWOT analysis
+
+Recommendations
+This report identifies opportunities for new investment, in the creative industries in West Sussex, Brighton & Hove and Lewes District, in three phases:
+Short term measures to help the sector and its workforce move from recovery to renewal.
+Medium-term focus on building physical, network, skills and investment capacity to bring the sector back to pre-2015 levels of growth.
+Longer term development of strategic and knowledge assets to maintain a globally leading position in creative technology.
+Interventions need to support the principle of independence to ensure that delivery reflects the priorities and operating models of creative practitioners and businesses themselves. This means gearing business support and investment around what works – established and successful programmes delivered in both public and private sectors – and taking risks in advance of private sector investors to show confidence in the sector.
+Equality, diversity and inclusion
+There was a shared recognition of the disproportionate impact of inequality on cultural participation and opportunities to access creative occupations, particularly at a leadership level. There is a cross-cutting recommendation for public sector partners to convene, hold space, broker and facilitate forums to address equality, diversity and inclusion in cultural and creative industries collectively and in a way that is reflective of the people of West Sussex, Brighton & Hove and Lewes District as it is now and how it will be.  
+Move from recovery to renewal
+Commit to a policy to support growth of creative industries and convene a sub-regional policy forum to coordinate creative sector investment.
+Build on networks, intelligence and pilot activities developed through Covid interventions such as ABCD – (e.g., ABCD successor project, the Brighton & Hove Culture Alliance) and look to extend their reach and deployment across the sub-region.
+Promote more joined up provision of creative skills and marketing of creative skills pathways, building on the work of the Local Skills Improvement Plan (LSIP), to establish a co-ordinated employer-led approach to skills development across creative and digital sectors.
+Form a compact between all West Sussex, Brighton & Hove and Lewes District local authorities which identifies a commitment to use policy levers (including Article 4 and Agent of Change provisions in planning) to safeguard existing cultural venues and infrastructure from threats of displacement and increasing costs, and to prioritise use of existing commercial premises under threat of redevelopment as housing for creative workspace.
+Build capacity for growth
+Use the opportunities of Crawley’s status as an ACE Priority Place and Stronger Towns funding to establish a representative cross-sector body which can influence and drive culture-led regeneration, including provision of new creative workspace and showcasing in the town centre.
+Support Adur and Arun to leverage their status as ACE Levelling Up for Culture places, working with regional NPOs (National Portfolio Organisations) including AudioActive and Brighton Festival to establish a framework for growth.
+Invest in a more distinctive creative leadership skills and business support offer that will help creative employers develop their own teams, particularly at mid-career level, and help freelancers develop and lead virtual teams. and to ensure that recommendations of this and other reports, including the Sussex Local Skills Improvement Plan, are understood and followed through by educational institutions, national agencies and the public sector, acting in concert.
+Convene employers, schools, colleges, universities and public sector agencies within a re-invigorated sub-region-wide careers structure which encompasses the changing dynamics of the sector and provides students, teachers and parents with insight into how new creative and technology skills, offered within a creative course, can be applied across many sectors. 
+Link the development of Sussex Studios to support for Sussex Film Office to grow investment in production:
+Feasibility study into potential to create a Production Fund, along the lines of Liverpool City Region, which links offers of production finance for incoming and indigenous productions to quotas for local crew and trainees to strengthen the regional supply chain.
+CPD for production services roles for local freelancers.
+More coordinated marketing of investment in film, high end television and digital content.
+
+Strategic creative leadership
+Strengthen links with creative and economic forums in East Sussex to integrate approaches to delivery which build on successful examples from across the county.
+Extend and amplify the role of coastal towns in community engagement and cultural and economic renewal, sharing capacity and expertise from Bognor Regis to Hastings.
+Promote and champion innovative models to transfer assets and accountability from the public sector to creative businesses and independents, including:
+Build on recommendations of the ABCD Space to Grow report and a study already in process for Brighton & Hove to look at feasibility of establishing a Creative Land Trust for the strategy area.
+Lobbying central government for funding to embed the Creative Workers’ Income Guarantee as a part of the creative infrastructure.
+Universities and colleges to work with business networks and workspace providers to establish collaborative frameworks and a new research-innovation model which build on FuseBox24’s findings on interdisciplinary integration to provide effective economic outcomes.
+Creative employment and workforce data
+Creative employment
+The ‘official’ count of employment in the cultural and creative industries (CCI) is taken from the Office of National Statistics’ annual Business Register and Employment Survey (BRES). The latest data available are those for the year to April 2021. 
+The sector definitions used here reflect University of Sussex’s 2019 report into Creative Industries in Greater Brighton. These exclude other employment in Libraries and archives (675), Museums (365) and Heritage (325) which would bring total Cultural and Creative Industries employment to 23,690.
+
+Figure 1 Creative employment, BRES 2021 (n=22,325),
+
+The Fifth Sector 2023
+Change in employment
+ONS (Office of National Statistics) data suggest that creative employment grew over the five years 2015-2020 before declining after the introduction of lockdowns from 23 March 2020, with the net result that the number of jobs in 2021 (22,325) was only 1.5% higher than in 2015 (22,000).
+Advertising and marketing showed the strongest recovery of any creative sector, adding 1,065 net jobs (53.7%) having contracted between 2015-20. 
+Several sectors contracted between 2020 and 2021 but still showed overall growth:
+Design and designer fashion, which grew by an overall 420 jobs (45.9%)
+TV and radio demonstrated more volatility, adding 1,460 jobs between 2015 and 2020 and losing 1,005 in the following year, reflecting the immediate impact of forced closure of UK sets during lockdown, to end up 22.2% larger
+Architecture, which added 185 jobs (17.0%)
+Performing arts and music, which added a net 150 jobs (6.7%)
+Publishing showed a consistent decline, losing more than half its workforce (1,295 jobs, or 48.8%) since 2015 – although some of this relates to businesses changing their classification to reflect a switch to digital platforms.
+
+Figure 2 Changes in creative employment, 2015-2021
+
+The Fifth Sector 2023
+Creative workforce
+The methodology used by ONS to collect BRES data tends to exclude freelance workers, sole traders and micro-enterprises with earnings below the VAT threshold, which together make up a significant proportion of creative employment. 
+To address these gaps, we analysed LinkedIn data. LinkedIn has 28 million UK members, out of a total employed workforce of 33 million; and it uses a set of industry codes much more closely aligned to industry definitions (Table 1). We found that Brighton & Hove had one of the highest levels of LinkedIn usage of anywhere in the UK, in which active LinkedIn profiles reflected 91% of the city’s working age population.
+LinkedIn records total workforce, including both employment and self-employment; it also reflects the geography identified by the account owner, rather than a workplace location. We know that many freelance workers and sole traders will be working outside the region; but this is still a useful indicator of the capacity of the creative workforce and therefore the potential to harness the potential for growth in the creative business base and output. 
+Analysis of LinkedIn (Figure 3) indicates a much larger workforce: over 54,400 individuals who identify a location in the strategy area, 33,250 of whom report being in full time or part time employment. This supports the anecdotal evidence that the strategy area is home to a large freelance workforce of over 21,000 people, or 38.9% of the total creative workforce. This is higher than the national average proportion of freelances in the creative workforce, estimated by Creative UK at 33%. 
+
+Figure 3 Comparison of employment and creative workforce in strategy area
+
+ The Fifth Sector/Curator Technologies 2023
+
+Relating the LinkedIn industry codes to the nearest equivalent DCMS sector definitions (Figure 4) highlights the scale of the discrepancy between official employment statistics and our mapping of the creative workforce. It also highlights that a lower proportion of performing artists use LinkedIn, as there are more targeted and industry-specific platforms which identify commissions or employment opportunities – so, despite the very strong showing for music, these data still underestimate the scale of the ‘live’ sector.
+
+Figure 4 West Sussex, Brighton & Hove and Lewes District creative workforce – BRES 2021 vs LinkedIn 2023
+
+The Fifth Sector/Curator Technologies 2023
+
+The list of LinkedIn industry codes used is shown below. We group these codes by supply chains which reflect creative sectors which share similarities in their skills base and nature of their market. This also allows us to analyse skills pathways into creative employment.
+Figure 5 LinkedIn industry codes by supply chain
+
+The Fifth Sector/Curator Technologies 2023
+The breakdown of creative workforce across the strategy area by supply chain is shown in Figure 6.
+This emphasises the strength of creative services: advertising and marketing, architecture, graphic design, product design and service design represent a workforce approaching 18,000 people, with employers distributed across the strategy area.
+More significantly, the extent to which digital capabilities are ‘fused’ within other creative sectors is highlighted by the low proportion (13%) of creative professionals identifying their industry as ‘Computer Software’, particularly when compared with ONS data which shows IT, software and computer services occupations as 43.6% of creative employment.
+‘Making’ in its various forms – including fashion design and manufacture, visual arts and crafts – is a significant strength across the strategy area.
+Brighton & Hove shows a higher proportion of those engaged in creative experiences – 15% - than the rest of the strategy area. Within this, music (3,020) and performing arts (880) are the strongest sub-sectors.
+ 	Figure 6 Estimate of West Sussex, Brighton & Hove and Lewes District creative workforce based on analysis of LinkedIn
+
+The Fifth Sector/Curator Technologies 2023
+
+Mapping creative enterprises in West Sussex, Brighton & Hove and Lewes District
+Similar considerations about the quality of official data apply to analysis of the stock of creative businesses. We compared data from the Inter-Departmental Business Register (IDBR), the government’s official sample-based analysis of business by sector, to Companies House data obtained via Beauhurst. 
+We searched both databases using the SIC (Standard Industrial Classification) codes and sub-sector groupings used by DCMS to define cultural and creative industries. This highlighted wide discrepancies in estimates of CCI business population. 
+Even after cleansing data for TV and radio to take account of several hundred service companies or Special Purpose Vehicles (companies established for the purposes of a single production, often with no employees) registered with accountants in the strategy area but with no evidence to confirm their location, the analysis makes a robust case that the number of active creative businesses in West Sussex, Brighton & Hove and Lewes District (10,255) is 38.6% greater than shown in official statistics (7,400). 
+
+Figure 7 Comparison of Companies House and IDBR data on creative business counts (n=10,255)
+
+
+
+The Fifth Sector 2023
+Clustering of creative businesses
+Two levels of clustering exist within the strategy area. Nesta’s 2016 report into The Geography of UK Creativity, the reference text for analysis of creative clusters, identifies three clusters of national significance:
+Brighton
+Chichester and Bognor
+Eastbourne, of which Lewes forms part
+Figure 8 shows clustering of creative businesses across Greater Brighton prior to the Covid-19 pandemic. It shows microclusters of creative businesses across the strategy area. 
+The location and scale of creative clusters and microclusters across the strategy area was reflected in the successful bid for Create Growth funding and is detailed in Table 1, below. 
+
+
+Figure 8 Clustering of Greater Brighton CCI businesses, 2019 (n=3,799)
+
+
+
+Policy & Evidence Centre (2020)
+
+Table 2 Location of clusters and microclusters across the strategy area
+
+
+Trends analysis: new business formation and survival
+The sub-region has seen over 1,000 creative start-ups in the year from 1 April 2022. This is below the trend for the past ten years, which indicates that the sector’s recovery from the impacts of Brexit, Covid-19 and economic uncertainty caused by the cost of living crisis still has some way to go. The evidence points to continued strengthening of TV and radio, Performing arts and Advertising.
+Figure 9 Supply chain analysis of CCI company formations in the year from 1 April 2022 (n=1,050)
+
+The Fifth Sector/Curator Technologies analysis of Companies House data, April 2023 
+
+Analysis of company formations since 2013 suggests that the rate at which new creative business are being established across the strategy area has been declining since 2015. 
+Figure 10 Company foundations and cessations 2013-2023
+
+Source: Beauhurst April 2023
+
+That plateauing of the number or active businesses is more apparent in Figure 11:
+Figure 11 West Sussex, Brighton & Hove and Lewes District active creative companies formed since April 2013
+
+Source: Beauhurst April 2023
+Together, these charts visualise the impact of Covid-19. The ‘blip’ in Q2 2020 (Figure 11) coincides with the first Covid ‘lockdown’. Rather than a surge in new businesses, it reflects that many companies suspended operations in response to the sharp drop off in orders whilst assessing the novel economic situation in which they found themselves. The realisation of the impact of loss of markets is reflected in higher than average rates of business ‘deaths’ which can be observed in the last quarter of 2020 (Figure 10) and have persisted until now.
+Situational analysis 
+Creative sub sectors
+The impact of the Fuse report and the strategy area’s acknowledged strengths in ‘Createch’ – those ‘fused’ sectors which take advantage of interdisciplinary advances in application of creative technology to a range of markets – is reflected in the Digital Catapult Centre Brighton (DCCB). This one of only three satellites of the national organisation. Based in New England House, with additional facilities and innovation support provided through an interdisciplinary digital economy and technology R&D ‘hub’ being developed at the University of Brighton at Moulsecoomb, this development builds on the success and high impact of the Brighton Fuse study, which highlighted the role of creative arts, design and humanities as accelerators in the creative and digital economy, and the innovative FuseBox24 business support programme drawing on these areas to develop innovators and new businesses.
+The strategy area shows increased strengths in its advertising and marketing offer and is benefitting from strong demand for production of new entertainment content, including high-end television and games.
+Music and performing arts remain a strength, although these are amongst the sectors whose workforces were most immediately impacted by lockdown and whose longer-term sustainability is threatened by higher costs and risks imposed by a combination of rising property and utility costs at home and increased costs and bureaucracy of touring and exporting to Europe imposed by Brexit. 
+Computer games and digital content
+The strategy area has significant ‘anchor’ investors in computer games and wider areas of digital content and convergent media. The larger players, including Creative Assembly in Horsham, generate significant demand for jobs and skills and contribute tens of millions of pounds to the regional economy each year. In turn, they support a supply chain of smaller digital creative businesses and skilled contractors essential to the region’s capacity to respond in an agile way to future opportunities across games, film, television and short form content of all kinds.
+Ukie (the national trade association for games developers) identifies more than 90 games companies in the strategy area (with the majority in Brighton) and 13 specialist service providers to games companies and entrepreneurs offering services from media monitoring to investment advice,  which differentiates the strategy area from many competing UK regions.
+Every region in the UK experiences skills gaps and shortages in games – in some cases coinciding with those in other high value creative and digital content sectors. The strategy area’s problems are exacerbated by wage inflation which results from a combination of competition for experienced professionals, including from London, itself made more significant as a result of an accelerating trend toward remote and hybrid working, and increased costs of living locally, driven by escalating property prices. This is highlighted by the recent decision of Creative Assembly to establish a new studio in Newcastle from which to develop a new games IP (Intellectual Property) rather than growing its workforce in its Horsham base.
+Music
+Brighton, in particular, has an international reputation as a seedbed for innovative new music and is home to an internationally significant festival of new music – The Great Escape. Despite this, it is overlooked when it comes to national planning for music infrastructure. There are a high number of musicians based here, grassroots music venues and small indie labels but not formal status as a ‘Music City’. 
+AudioActive and Create Music both demonstrate commitment to developing new artists and the next generation of music talent; and the engagement of grassroots venues through the Music Venues Trust has been a critical factor in helping many of them see their way through lockdown.
+However, consultation highlighted continuing precarity in the sector, which had been directly affected by lockdown, raised barriers to touring and export resulting from Brexit, increased cost of staff and energy for live venues and a cost of living crisis which is further constraining audience footfall and spend. If music is to remain a ‘live’ legacy, a concerted action of public and private sector actors is needed to ensure that musicians and music enterprises across West Sussex, Brighton & Hove and Lewes District can successfully develop their talent and market opportunities.
+Performing arts
+The presence of large cultural institutions, including Chichester Festival Theatre (CFT), Brighton Festival and Glyndebourne, plus the diversity of the performance venues on offer in Worthing, sees this sector pull together more effectively than some others. Wider regional partnerships also exist, including those with DeLaWarr in Bexhill on skills and education and with South East Dance around artist development, catalysed by the opening of the new Dance Space in Brighton. The Attenborough Centre for the Creative Arts provides not only a venue but an active interface to the University of Sussex’s training, research and innovation offers.
+There remain constraints around affordable space for rehearsal and some gaps in the performance ecosystem:
+Over-dependence on CFT as the strategy area’s sole commissioning theatre
+Lack of funds for commissioning new work and supporting R&D
+Spaces in which the larger institutions, smaller NPOs and independent performers, and organisations working in parallel field such as music, can convene
+Visual arts
+Visual arts, including fine arts and crafts, emerges as a regional strength, both in the scale and diversity of the offer and in its engagement in R&D through digital arts. Concerns about workspace and exhibition/ showcasing space – scarcity and cost of space, and lack of a convening hub – reflect those of the performing arts sector.
+Design and creative services
+Sector and workforce mapping emphasises the significance of design and creative services as an employment sector; the growth in creative services, especially advertising and marketing; and the extent to which a relatively small number of companies supports a much larger freelance workforce. 
+This has driven growth of microclusters in places like Shoreham and provides an important source of new creative opportunities for freelances and new graduates alike. 
+Film and television
+Regional investment and marketing should more effectively communicate region’s offer as a location for film and television production and add to that investment in production facilities to secure a greater proportion of budgets from ‘mobile’ film and television productions.
+But lack of large-scale permanent production facilities limits opportunities for West Sussex, Brighton & Hove and Lewes District residents to benefit from skills development opportunities and is unlikely to be sustainable. 
+
+
+
+Creative growth models
+The Fuse reports helped identify Brighton & Hove as a leading UK creative cluster – not because of its scale (although the growth of the creative sector at the time outstripped that of the UK) but because of its distinctive approach to interdisciplinary collaboration, which anticipated interest in what came to be called ‘Createch’. The importance of that analysis in shaping UK policy was restated in a recent paper by Chris Smith, Executive Chair of the Arts & Humanities Research Council.
+The Fuse reports helped reinforce findings that behavioural factors are as important in growth of the creative economy, arguably more so than structural ones. The motivations and operating models of creative entrepreneurs differ markedly in some respects from their peers in finance and manufacturing. There is a premium on collaborative, interdisciplinary research in generating new products and services:
+Emphasis on intrinsic value rather than a business plan.
+Project-based working, drawing on additional resource through collaboration rather than through investment in the business or acquisition of talent.
+Portfolio working – the necessity of diversifying effort across projects which will keep cash flowing whilst larger projects are in development.
+Process innovation – new ways of working – as part of the creative process, rather than a separate activity.
+Fusebox 24 highlighted the role of ‘interdisciplinary integration’ - the importance of doing that which is distinctive and follows from collaborative research (both digital and creative) rather than following a business plan. 
+Collaborative, project-based working is a feature of creative industries, not a ‘bug’. 
+To take a term from software development, this intuitive, unplanned way of working is, ‘a feature, not a bug’; it is a proven business model and a deliberate choice, not a failure of the business owner to take responsibility for a planned outcome. The assets generated are not just tangible forms of IP but reputational goods and knowledge exchange which result from collaboration. That collaboration, in turn, strengthens trust relationships between individuals within the cluster. The Fuse reports were significant in their recognition and analysis of those behaviours and their integral role in the growth of clusters in Brighton. 
+Headwinds
+The end of ‘Goldilocks’ economics
+The Fuse reports accurately reflected a period of high growth for Brighton & Hove’s digital creative sectors, and the contemporaneous growth of creative industries in West Sussex and Lewes district. This was driven by several factors which contributed to growth of effective clustering – not simply co-location, but systemic advantages and competitiveness which arose from sharing of skills, knowledge and access to markets. These included:
+Easy access to large markets in London and Europe
+Comparative cost advantages for domestic and business property leading to an outflow of experienced creative professionals from London, bringing with them their skills, businesses and order books
+A cluster at a physical scale which made collaboration and knowledge transfer straightforward
+Legacy of management expertise developed through larger companies (often foreign owned) being transferred through spin outs and start-ups which emerged once those larger entities divested their interests.
+The situation now, however, is quite different:
+Covid-19 accelerated a shift to remote and ‘hybrid’ working which means that residents are free to sell their skills to the highest bidder, wherever they are based – quite often London. The resulting wage inflation and skills shortages add to increasing property costs to nullify the cost advantages of being based out of London
+Brexit has seriously restricted access to international talent which had previously plugged skills gaps and shortfalls.
+Covid-19 had an immediate impact on the creative sector varying from total shutdown to loss of orders, resulting in a net outflow of skilled workers and capital from the sector. Although creative industries have ‘bounced back’ three times faster than the economy as a whole, its longer-term impact on audiences for cultural production – particularly live events - has yet to be fully understood. 
+A cost of living crisis, driven by increasing energy costs, has pushed the economy to the brink of recession and depressed demand. Along with Brexit, this means net growth in the economy will be lower than anticipated in 2019 and may never return to pre-pandemic levels.
+Pressure on commercial space
+Local authorities face a need to rent or sell Council-owned estate at market rate to meet funding gaps. This adds to pressure to redevelop commercial property to meet the demand for housing and leaves little flexibility to support infrastructure initiatives where space is required, although a strategy and plan may help enable local authorities to advocate for this internally.
+Property prices
+The cost of local rent and house prices is pricing out creatives from all backgrounds but particularly those who do not have support from families early in their careers. It is unsustainable for many to maintain a career as a freelancer in large parts of the sub-region. 
+Creative ecosystem – the independent opportunity
+Whilst there are some significant creative employers across the strategy area, there is extraordinary value in the skills held within the freelance workforce. There are internationally award-winning individuals who work as creatives in the commercial side of the creative industries across games, TV, film and design, many of whom are not known by government funded agencies or public bodies as they rarely need their support or are not the producers seeking funding and do not understand the world of grant funding. Yet the experience within the talent pool is extraordinary. 
+Much of the growth of the creative sector has been based on the reputation of Brighton (in particular) as a good place to live as a creative freelancer in the country. The Fusebox24 report identified a structured approach to interdisciplinary collaboration; despite investment from Digital Catapult, however, it has not been systematically applied across the strategy area.
+As demand factors shift and competition increases, strategy for the creative industries needs to reflect those changes and articulate how this freelance workforce can then support a growing larger business ecology. That will require aligning support for the freelance and creative business community to funding allocations. Raising the profile of prominent freelancers to help both advocate for an increased understanding of the conditions in which freelancers can survive and thrive, will not only communicate the value they have in the creative sector, but also to help create role models, particularly for those from marginalised backgrounds who want a career but don’t know where to start or sustain that career.
+Opportunities for growth include working not only across urban, coastal and rural districts but also across both East and West Sussex with partners to create programmes that address workforce entry and scaling up opportunities for creative businesses (including Create Growth).
+Structural challenges
+Public investment in risk-taking – including de minimis grants - can stimulate and help unlock far greater levels of private investment from retail banks, angel investors, venture capitalists. 
+One of the most significant challenges faced by local authorities and stakeholders is how to structure investment in the sector in a way which makes available working capital to support, encourage and develop those successful creative behaviours, rather than requiring security for those investments. If successful, this will:
+Ratchet up the knowledge intensity and innovation of individual creative entrepreneurs and microbusinesses,
+Seed the development of more dynamic clusters and supply chains
+Provide a spur to productivity, employment and business growth in the process. 
+Relative to other regions, including not only London but also the M10 ‘core cities’ and other medium-sized, post-industrial cities across the North and Midlands, West Sussex, Brighton & Hove and Lewes District demonstrates a lack of specialist physical infrastructure; but more important, it means that the region is lacking in the ‘soft’ infrastructure to support collaboration, investment in skills and the perception amongst local people that creative industries represent a viable and worthwhile career choice.
+
+
+People and skills
+Creative Skills – the national picture
+Peter Bazalgette’s Independent Review of the Creative Industries in 2017 emphasised the role of education in addressing the productivity gap in creative industries: 
+‘Growth and greater productivity in the talent pipeline for the (creative) industries are held back by two main factors: social and informational barriers to entry; and quality, consistency and availability of post-secondary education and training, which includes further and higher education, and continuing development’. 
+Six years on from that report, those shortcomings remain. Although the UK’s Creative Industries are projected to grow faster than the economy at large and almost 1 in 8 UK businesses are creative businesses, it is still very much dominated by freelancers (32% nationally, and nearly two in every five creative professionals in the West Sussex, Brighton & Hove and Lewes District sub-region) and 95% of creative businesses employ nine people or fewer.
+The sector has severe challenges in addressing inclusion and diversity – its workforce is whiter and more middle class than the population as a whole, and some sectors and most senior roles are skewed disproportionately to males. It needs to take action to address equality of opportunity for those looking to access work in the sector, which involves working harder to educate students, teachers and parents about the wide range of potential lifelong and lucrative careers creative and technical careers on offer. 
+There are five key themes which impact on skills, training and professional development for the creative industries:
+Future and fusion skills (‘Createch’)
+Leadership and business skills
+The role of the freelancer 
+Improving access, widening participation and diversity
+The role of Higher and Further Education
+
+1.	Future and fusion skills - Createch
+‘Createch’ describes the combination of technology and creativity flagged as a driver of innovation and growth in the Fuse reports of the last decade. The rise in immersive and emerging technologies such as Virtual Reality (VR), Mixed Reality (MR) and Augmented Reality (AR), collectively known as XR, are changing not only what content is produced but how it is produced. We can observe this in the convergence of different parts of the creative industries, with film and TV businesses, games and animation companies and producers of live experiences all investigating and investing in new Virtual Production processes.
+As creative technology rapidly advances, an increasing proportion of creative workers will need ‘cross-over’ or ‘fusion’ skills – creative and technical. Technologies including turning AI-led automation, robotics and sensor technology and 3D printing are disrupting traditional production processes and transforming jobs.
+Brighton and the wider sub-region are already experiencing difficulties in meeting the demand for digital skills which relate both to the technology sector and the wider creative industries. It is essential that immediate steps are taken to boost supply in these cross-pollinating skills pathways if the creative sector is to maintain competitiveness over the medium to long term.
+2.	Leadership and business skills 
+Inadequate management and leadership skills are acknowledged to be widespread within the creative and cultural industries. Evidence from the ScreenSkills Annual Skills Assessment suggests that competition for skills means that creative employers are being forced to recruit at lower skill levels and promote people earlier than they may otherwise have been. This has given rise to significant skills gaps, with workers progressing into senior positions without the range of skills or experience needed to both ‘traditional’ requirements, such as creating and managing a budget or line management, and the process of managing change. Within an industry going through a constant and accelerating technological revolution, this last shortcoming is potentially more damaging in the long term.
+Sector specific leadership courses which tackle issues such as the speed of change; dealing with freelancers; development of IP and idea creation are few and far between. 
+Although individual motivations for seeking a career in this sector are typically driven by creative aptitude and ambition, the ability to diversify income streams, reach new markets, understand changing customer needs and undertake robust financial planning is critical to business survival and growth. Making management and leadership training relevant to creative careers whilst also bolstering entrepreneurship skills amongst young people will be vital to ensuring the future strength of the creative economy.
+3.	Role of the freelancer 
+The project-based nature of the creative industries, matched with its structural undercapitalisation, means that the sector relies heavily on an available and skilled freelance workforce. Our evidence suggests that over 60% of West Sussex, Brighton & Hove and Lewes District’s creative workforce is self-employed. The level of dependency on freelance workers varies from sector to sector: according to the annual ScreenSkills Assessment 2018-19, self-employment in TV is almost twice as high as it is in the wider UK economy. 
+Whilst they are in high demand, freelancers face a ‘double whammy’ when it comes to skills training needed to update their skills and maintain their marketability– not only must they pay for their own training, but they lose wages whilst attending courses. The requirement for flexibility also makes it more difficult to plan to engage with formal, scheduled training. Creative employers – the majority of which are themselves micro-businesses – are limited in their ability to support freelance development. Whilst industry has lobbied for incentives to support the training of freelancers through the tax system, this is not yet policy.
+With an ongoing rise in self-employment and the sector’s increasing reliance on new creative technologies as a way to maintain innovation and increase productivity, the need to address creative, technical, professional and business skills needs amongst this cohort is paramount to secure the creative industries’ recovery from the impact of pandemic and create a skilled workforce to drive its recovery, and that of the national economy. 
+4.	Improving access, widening participation and diversity 
+Research from the Creative Industries Policy & Evidence Centre confirms what can be observed in most creative workplaces: that those from wealthier backgrounds are more than twice as likely to land a job in a creative occupation. 92% of creative industry jobs are occupied by more advantaged groups. 
+Across the sector, social mobility is a challenge, further compounded when class and unequal access to educational opportunity are combined with other protected characteristics. As a result, ethnic minorities, women (particularly those with caring responsibilities), those with disabilities, and people from less advantaged backgrounds are seen to face the biggest challenges to entering and progressing in creative industry sectors.
+Entry opportunities into the creative workforce for young people are challenged by all the national barriers that exist but the strategy area also faces two key challenges:
+Lack of diversity in creative and cultural leaders. This is not limited to the subsidised sector but true across commercial sector as well and it is not only about race but also about socio-economic backgrounds.
+Too much independence can be seen as a bad thing: the relative lack of medium-sized and scale-up companies limits opportunities for employment and development for new entrants and early career creatives. 
+
+Equity - talent
+Skills audits of UK film and screen industries identify persistent barriers to accessing job and careers opportunities, including financial barriers, lack of networks, and barriers in knowledge and information, geography and attitudes.
+Entry into the sector is also impeded by poor understanding amongst pupils, teachers and parents of the kinds of careers that are available, with a perception amongst many that jobs are poorly paid, insecure or not open to those without existing links into industry. There may also be a limited awareness that areas of the Creative Industries involve specialised technical skills that are transferable to other valuable and interesting areas of the economy. 
+With very few exceptions, current cultural provision and access to training, jobs and opportunities do not take account of or reflect any nuanced diversity. This is a critical concern in terms of ‘levelling up’ and optimising life chances for people – including young people – across West Sussex, Brighton & Hove and Lewes District. There is little or no evidence that consideration has been given to lived experience or any kind of diversity and socio-economic challenges within existing training, private sector networks or public sector support for creative industries.
+In West Sussex, Brighton & Hove and Lewes District, failures both to develop diverse talent from local communities and to attract and retain it from elsewhere are reflected in over-reliance on ‘bought in’ talent, which is now leading to critical skills gaps and shortages and driving wage inflation.
+Access routes which work well in other sectors (for example, apprenticeships) are structurally unsuited to the needs of a sector dominated by micro-enterprises, freelancers and project-based working. However, there are new models emerging nationally and good examples of best practice in the sub-region (see Flexi-apprenticeships and Chichester Festival Theatre case studies). 
+5.	Role of Higher and Further Education
+In a swiftly changing digital environment, the collaboration between creative business and education has never been more essential and universities and FE Colleges have a key role in delivering the higher-level skills that the sector needs.
+ With technical education reform imminent, there are opportunities to increase entry points into the sector, for example via the new T-Level route. T-Levels must include a minimum of 45 days’ work experience. Only one pathway for the sector has been approved - Digital: Digital Production, Design and Development Level 3 designed to lead to jobs in web development, software development, mobile app developer, programmer. Two new T-levels in Craft and Design (to cover jewellery, ceramics, furniture and textile making) and Media, Broadcast and Production were due for release in September 2023, but these have now been set back for at least a year (although some FE institutions in the sub-region have received funding this year to develop the courses).
+Although gaining in popularity amongst students, there is no evidence to date that these technical qualifications are working for the sector as many employers are unaware and therefore disengaged from the qualification.
+ Changes in funding
+Underpinning future development of creative courses at both HE and FE level is the Department for Education’s plan, announced in May 2021, to spend less in non-prioritised subjects - which include the arts, creative and media courses - with the savings being redirected to other areas such as nursing and computing, signalling a greater focus on technical and further education. 
+Fears that this change would lead to universities and colleges dropping fine arts courses appear to be confirmed. Students’ choice of courses reflects sensitivity to those changes: the overall number of students who took art and design A-Levels fell by 305 from 39,220 in 2019 to 38,915 in 2020, the third consecutive year of a downward trend in popularity for creative subjects at school, college and university levels. Between 2010 and 2020 there has been a 37% decline in arts GCSE entries. 
+However, there are examples across the country of new education initiatives which continue to embed industry into their delivery at all levels, from curriculum development to placements. With a flexible, agile approach and an understanding of shared goals, educational institutions have a leading role to play in sustaining and retaining talent for the sector
+Analysis of creative training and skills provision in West Sussex, Brighton & Hove and Lewes District 
+
+Research into creative skills pathways follows the same sector supply chain definitions used for workforce and business mapping (Figure 5).
+West Sussex, Brighton & Hove and Lewes District offers a significant scale and variety of skills training for the creative sector workforce. 
+Our research has shown that there are 752 courses across all five creative pathways:
+258 at Further Education level
+269 at Higher Education level
+13 T-Levels
+11 Apprenticeships 
+207 Continuing Professional Development (CPD) offers
+The region boasts an excellent supply of formal creative qualifications and demonstrates some excellent best practice examples and opportunities for development to ensure the supply of suitable skills for the sector in the next decade. 
+There remains an opportunity for greater collaboration between education and businesses to address skills gaps and shortages identified by employers. 
+
+Table 3 Supply of creative skills training across West Sussex, Brighton & Hove and Lewes District
+
+Table 4 Supply of creative skills training by creative pathway
+The Fifth Sector / Morra 2023
+There are good routes into the sector via academic learning (GCSE and A levels) but limited vocational routes. Although this reflects a national picture, there are opportunities to promote better understanding of both apprenticeships and T- levels to employers and individuals. Table 5 Supply of creative skills training by Level
+The Fifth Sector / Morra 2023
+Future and Fusion Skills - Createch 
+Under the digital pathway, the skills work focuses on education and training in creative digital skills. 
+In both HE and FE there are example of courses which combine creative skills with technologies. Brighton Metropolitan has just recently installed a new VR ‘cave’, at a cost of £100k, which is being used by several departments within the College. All three Universities indicate that innovative technologies are being integrated into creative content courses. 
+University of Sussex offers training sessions in delivering teaching via VR or AR to its staff and the University is also conducting research into these innovative technologies via six labs, including a Media Technology Lab and a product design lab. 
+University of Brighton has also gained an Office for Students capital grant for a £1.7m in new AR and VR leaning facilities in 2021 (used mainly for health and medical-related and architecture courses). The Arts and Media Department also has a VR platform as part of its Creative Futures project. 
+University of Chichester teamed up with Twitch for its esports degree, launched in 2019. 
+Continuing professional development (CPD)
+There is also a good supply of CPD, or short courses offered for professionals at colleges including Brighton Metropolitan and Crawley College, but there remains scope to expand provision, particularly outside Brighton and Hove. Brighton Metropolitan College has an extensive range of courses which could be attractive to professionals including ‘Introduction to VR’, digital filmmaking, advanced motion graphics, podcasting and graphic design for professionals. The Screen and Film School offers screenwriting at introductory and intermediate level and an introduction to filmmaking.
+Other colleges also offer professional skills courses for Adobe or Microsoft products, and there is evidence of craft specialisms, such as blacksmithing at Plumpton College. However, most short courses are what could be described as ‘hobbyist’ or adult education courses such as Drawing for Beginners, Write a Book and Get it Published at Northbrook College in Worthing or Creative writing and photography at Varndean College.
+Leadership and Business
+One of the issues identified by the Local Skills Improvement Plan - commissioned ‘Deep Dive’ into the Digital Sector published in August 2022 was that internal skills and professional development planning within businesses is often ad-hoc and reactive to immediate needs. Our investigation revealed that workspace providers, creative business networks and universities are all contributing to the development of leadership and business skills:
+Workspace provider Freedom Works has signed a three-year agreement with Barclays Eagle Labs to host an ‘Eco-System Manager’ based across its Hove, Crawley and Worthing sites.
+Werks provides mentoring and support for creative business leaders based in its ten sites across Brighton, Hove and Lewes.
+The_Track at Bognor Regis offers regular events as part of its ‘Start-Up Club’ support for creative and digital businesses.
+Wired Sussex has previously offered a three-day Leadership and Management training to its members.
+A 12-week Help to Grow course offered by University of Brighton has been accessed by six businesses (out of 100 which have accessed the course) described in the ‘Arts Entertainment and Recreation’ sector. 
+Through the RISE project (Research and Innovation in Sussex Excellence), funded by the European Union and the West Sussex local authorities, the Universities of Brighton and Sussex are offering free business innovation support to small and medium enterprises (SMEs) in West Sussex.
+Support for freelancers
+Brighton & Hove demonstrates extensive networks offering a range of support for freelancers in different creative sectors: 
+Wired Sussex offers extensive support to freelancers including networks for design freelancers which meets weekly at The Fuse Box at New England House in Brighton. They also offer half day training courses on emerging technologies, exploring AI, VR and AR.
+Brighton has a host of networks that can support creative freelancers, such as Brighton & Hove Cultural Alliance, Creative Future and Create Music. A network for creative workspace providers takes place at The Phoenix Gallery.
+Workspace providers including Werks and Platform 9 offer mentoring and freelance network support.
+A new 16-week mentoring programme for 18–27-year-old creatives is soon to be launched by Soho House. 
+Rifa Thorpe-Tracey runs coaching sessions for Wired Sussex members and is also the organizer of SheSays Brighton, a networking group for women in tech. 
+Outside the city, however, networks of creative businesses and freelances are more fragmented. There are some good examples of both formal and informal network support for freelances – including The_Track’s Start-Up Club and monthly meet ups for creatives organised by Worthing & Beyond (described as a ‘side project’ by local design business Huxley) – but these are very localised and demonstrate limited reach to potential growth areas in other coastal and rural towns.
+Access – apprenticeships and T-levels
+The lack of apprenticeships for the sector is common throughout England due to a lack of pathways and the funding structures of apprenticeships which are currently difficult to deliver by SMEs in the creative/ cultural sectors which is largely made up of SMEs or freelancers. 
+Whilst most pathways into the creative sector are offered via the academic route, the two main vocational entry routes into the sector – apprenticeships and T-levels – are offered in the sub-region at Brighton Metropolitan College, Chichester College, Crawley and Lewes. University of Chichester offers a Digital Marketer Degree Apprenticeship. 
+Intermittent funding and changes in policy from central government also present a barrier to potential entrants and providers alike:
+The Kickstart Scheme provided funding to employers to create jobs for 16- to 24-year-olds on Universal Credit; Kickstarter placements in Brighton & Hove provided an opportunity for paid placements that enabled smaller organisations to take on young people for six-month placements and demonstrated good conversion rates into jobs. However, funding was withdrawn from January 2023.
+Interviewees within FE expressed disappointment that the new T-levels for broadcast and crafts, including the now-postponed Broadcast Media and Production T-level at Crawley College, are not now going ahead until September 2024 at the earliest, as interest had been good. 
+Larger sector organisations have had more success in using apprenticeship frameworks, as exemplified in the case study of Chichester Festival Theatre, opposite. There is scope for more, and more coordinated, sharing of best practice between creative employers in the strategy area to address skills gaps across the creative economy.
+
+Local Skills Improvement Plan (LSIP) Digital ‘Deep Dive’
+Much of our evidence above aligns with initial findings from the Local Skills Improvement Plan ‘Deep Dive’ into the creative sector. Although it has yet to publish its findings, engagement with employers to date indicates that demand is outstripping supply in areas such as skills in AutoCAD, marketing, animation, content creation and SEO optimisation.
+Most in demand were specialised skills in digital TV production and postproduction technical skills; 3D animation and special effects; social and digital marketing and content production. 
+The research also indicated the following:
+Creative employers lost a lot of talent to other industries during the pandemic
+A shortage of technical backstage staff (set design, lighting etc) 
+High-end digital skills gaps in TV production and post-production 
+Very few referral routes into the sector for agencies working with the unemployed
+A shortage of apprenticeships and work experience opportunities 
+The Local Skills Improvement Plan for Sussex Trailblazer Report (March 2022) sought to identify skills needs in key sectors. These sectors did not include creative industries but did include Digital (IT and technology) which can intersect with many sectors including creative. 
+LSIP commissioned a ‘Deep Dive’ into the Digital Sector as an extension to the initial report. This report published in August 2022 identified key challenges including the following five areas:
+Skills gaps in technical staff with coders and developers in short supply and salaries for these staff increasing rapidly 
+The digital sector is extremely varied meaning that people often do not understand the breadth of roles available, the skills needs and different routes into them
+Lack of diversity in Digital workplaces
+Often graduates of Digital courses can lack up-to-date technical skills for the workplace or struggle to adapt to the pace of digital businesses.
+Internal skills and professional development planning within businesses is often ad-hoc and reactive to immediate needs
+
+
+
+Location of West Sussex, Brighton & Hove and Lewes District skills training
+Analysis of the wider offer, including online delivery, highlights the prevalence of Brighton, which has a good offer across all levels of learning, including continuing professional development (CPD). 
+Figure 12 Location of creative skills training delivery across West Sussex, Brighton & Hove and Lewes District
+
+The Fifth Sector/Morra 2023
+
+Equality, diversity and inclusion
+The ‘People and skills’ section above highlights the difficulties in improving access, widening participation and inclusion in the creative workforce. There is an equally clear and urgent need to move beyond instrumentalism and ‘deficit analysis’ when referencing communities and to reframe cultural engagement and co-production, design and creation.
+Equity and inclusion in audiences and participation
+Although Brighton is recognised as a place of opportunity for LGBTQIA+ creatives, the creative industries in the region skew whiter, more middle class and disproportionately male. Social conditions, including rising property prices, the intersectionality of socio-economic background and the other characteristics assume particular importance, taking into account such factors as zero-hour contracts and gender-based care responsibilities.
+Diversity in cultural leadership and identifying skilled diverse talent to grow the cultural and creative economy and assets correlates directly with diversifying audiences. Across West Sussex, Brighton & Hove and Lewes District, there is a strong and urgent need to improve representation of people with other protected characteristics, including socio-economic background, so that the creative and cultural offer truly reflects the diversity of local, national and international audiences, visitors and consumers. 
+Other considerations also need to be balanced: cost of transport, access to kit, education and literacy equity, and equality of inclusive access. This could include access to work education for employers, multiple formats (easy read, video etc) for inclusive recruitment and an understanding of embedded cultural and social perceptions which lead to ‘imposter syndrome’ in parallel with judgements on talent (education and experience) and what constitutes cultural value and taste.
+As long as underrepresentation exists, however, the sector and its associated networks can feel exclusive and inhibiting. Simultaneously, this means the sector is not creating content which reflects diversity as the potential to address global audiences and missing the opportunity for West Sussex, Brighton & Hove and Lewes District to be a market leader.
+There is a role here for West Sussex, Brighton & Hove and Lewes District partners to convene and hold space; to broker and facilitate. Working in this way can address equality, diversity and inclusion cohesively and collectively and in a way that is reflective of the populace of West Sussex, Brighton & Hove and Lewes District as it is now and how it will be. Ensuring that equality, diversity and inclusion is an approach, not just an outcome, means it can flex and adapt as both local and national societal environments change.
+
+Evidence from consultation and engagement
+Consultation with creative businesses, workspace providers and local authorities across the strategy area revealed both a breadth of ambition and a distinctive and differentiated focus on opportunities to invest in growing creative jobs and businesses in each area. We drew evidence from: 
+Stakeholder engagement: a mix of 1-2-1 interviews and round tables brought together the views of creative businesses, local authority officers, universities, workspace providers and national agencies.
+Industry round tables: five online round tables were conducted in March 2023, attracting 43 attendees. The round tables were sectorally themed around: 
+Design and creative services
+Digital art
+Film and television
+Games and immersive tech
+“Live” sector
+Online survey: most of the 40 respondents to the online questionnaire were limited companies. Self-employed / sole traders made up about a third of those surveyed, with three charities / CICs participating and two public limited companies. 
+Findings from stakeholder engagement are incorporated into the situational analysis and findings reported here. We highlight some of the findings from business engagement separately here. 
+Findings from business engagement
+Sample
+Most of the businesses and arts organisations engaged through both survey and round tables were based in Brighton & Hove and had been operating for four or more years. Most organisations were microbusinesses with a split of full time and freelance / contractor models; about a quarter were sole traders. Only two start-ups responded to the survey, 
+Benefits
+The area’s reputation as a creative hub was seen as the best thing about running a creative business in West Sussex, Brighton & Hove and Lewes, with access to markets and collaborative R&D inputs from universities and colleges being less highly valued. 
+More than half creative businesses in the strategy area operate UK-wide, closely followed by London & the South East, other international markets, and Europe. About a third operate primarily within the strategy area.
+Business performance
+Those businesses who provided evidence of turnover were split equally between three bands: under £50k per annum; £100k - £500k; and £1m – 10m. One company reported a turnover of over £10m. This sample reflected a roughly even split between those who had increased turnover in the last year and those whose turnover had stayed constant; but around a fifth had business reported a decline in turnover, with half of those seeing a significant decrease (more than 20%). 
+When asked about their level of confidence for the coming year, the response was less positive. About a third expected their turnover to stay the same over the next financial year; a similar amount expected it to increase by up to 20%, with many of these seeing that route to growth through developing new products or services.
+ But a third of businesses expected their turnover to decline, some by more than 20%, reflecting increased economic ‘headwinds’ faced by creative businesses in the strategy area. 
+Barriers
+Increasing costs were seen as the most significant barrier to business growth, followed by competition for people with the right skills. The cost of living in the area was seen to hinder recruitment.
+Few businesses saw lack of sector-specific business support and access to finance for project development as a barrier to growth, with more expressing the need for business development (i.e., marketing) and R&D support.
+Many of those questioned stated that workspace and affordable workspace is lacking; that networks and training support was needed, as well as funding; finance; and infrastructure, including a support for grassroots venues.
+Equality, diversity and inclusion
+There is a need for,
+‘Full-time leadership roles, tangible inclusion and strategic representation from People of Colour and other marginalised groups to accurately reflect the composition of creative contributors, artists and business owners that provide the content and talent pool for the region's tourism.’ 
+Those interviewed would also like to see support for career changers.
+Sector
+Whilst the round tables were designed to ensure input from across the sector supply chains used in mapping and skills analysis, the survey sample presented a quite different picture.
+Nearly half of respondents classified themselves as ‘creative experiences’ (live music, performing arts, dance, theatre, venue management, festivals, events, museum, libraries, galleries) – a higher proportion of the workforce that suggested by mapping, Conversely, just one individual identified as a ‘creative original’ (fashion design, making, fine art, crafts, visual art, public art). 
+Perhaps the most consistent finding is one which reflects the ‘fused’ nature of creative businesses in the strategy are: more than half worked across different disciplines and markets. 
+
+
+Creative workspace and infrastructure
+Both employers and stakeholders consistently identified need for:
+More affordable workspace for cultural producers and early-stage creative businesses
+More collaborative co-working environments to support interdisciplinary collaboration, adapted to the needs of hybrid and remote working
+More grow-on space to retain high growth businesses
+Consultation also reflected threats to the sustainability of existing cultural infrastructure, particularly “grassroots” venues and studios on short tenures.
+Consultation also highlighted and acknowledged barriers to this:
+Scarcity of space in town centres
+Increasing costs of land, buildings and the staff and energy needed to operate them
+Risk of displacement through permitted redevelopment of commercial space to meet demand for housing
+Investment in new workspace – and sustainable operation of existing infrastructure, including venues - will require a public-private partnership in which the public sector needs to provide confidence in the demand and a coordinated and streamlined planning environment that would allow developers to commit the investment needed. 
+Not all the solutions to this require funding. The public sector could lower barriers at no cost by:
+Making greater use of Article 4 provisions to define and safeguard areas from permitted redevelopment for cultural and creative investment.
+Enforcing Agent of Change requirements in planning for new developments which place responsibility for issues such as soundproofing and access on the developer rather than threatening the continuation of established cultural venues and workspace.
+Consistent policy in licensing of venues (in particular, to ensure that there is no discrimination against venues promoting urban music genres).
+Convening planning and “blue light” services to ensure consistent standards of policing and public safety.
+Other interventions may include protecting grassroots music venues – offering business rate relief and help with licencing to venues- and providing financial support to improve accessibility at venues for deaf and disabled audiences and performers.
+
+
+Creative ecology
+The research highlighted the need for greater coordination between public sector partners in planning and delivery of support for the creative economy. 
+Existing capital and sector initiatives for the creative industries, including the development of Sussex Studios in Worthing, are complementary; but that is more the result of serendipity than a coordinated approach to sector investment. Public sector stakeholders across West Sussex, Brighton & Hove and Lewes District need to intervene strategically and at scale to create a shared, accessible creative infrastructure. This is essential to:
+Capitalise on available funding from DCMS and its arm’s-length bodies, including ACE, BFI (British Film Institute) and National Lottery Heritage Fund.
+Make shared investments in key elements of a shared, accessible creative and digital production infrastructure which provides the tools and environments in which businesses and freelance specialists can collaborate on the development and testing of new products and services. 
+The shared delivery mechanism to deliver the Create Growth programme could provide the starting point for a regional panel which brings together planning, investment and regeneration, skills, business support, cultural and creative specialist team members for Coastal West Sussex Partnership, the Greater Brighton Economic Board and local authorities  across the strategy area to help shape the business case for strategic intervention and support development of funding applications for individual projects. 
+Place-based opportunities
+
+
+
+
+
+
+
+
+
+
+
+Adur & Worthing and Arun
+Worthing already demonstrates good cultural infrastructure, growth of its creative businesses sector and success in attracting inward investment to the sector, which will be increased by development of Sussex Studios.
+There was support for the idea of encouraging the growth of a Worthing Fringe Festival, using the town’s excellent infrastructure (including four live performance venues) to increase the scope and reach of Brighton Festival and to provide a platform to accelerate collaboration and development of producers and performers from Adur, Arun and Worthing, to leverage Adur and Arun’s status as Levelling Up for Culture Places.
+Skills and talent development
+Creative and ‘fusion’ skills
+As creative technology rapidly advances, more and more creative workers will need ‘cross-over’ or ‘fusion’ skills combining creative and technical disciplines. A growth in digital occupations both related to the technology sector and the wider creative industries is a key area of skills development over the next five years.
+In this rapidly changing digital environment, the collaboration between creative business and education has never been more essential. Opportunities identified for West Sussex, Brighton & Hove and Lewes District partners to take the lead in developing provision of creative skills included:
+Grow an education collaboration network, which would have a clear and more cohesive approach to the higher-level skills needed for the creative sector.
+Encourage universities to fill the gap in professional skills by developing and offering more short courses more aligned to business need for the sector. 
+More targeted marketing to the sector (in a language they understand) could increase take-up of existing business support (e.g., Skills Accelerator).
+Local marketing of existing sector-specialist support, including the new online courses for new entrants to the TV and film sector.
+Further research to establish whether the ScreenSkills examples give any pointers for ways in which HE, FE, private providers and the sector can come together in a more agile way to use online delivery to address gaps in training supply across the cultural and creative industries to help address known skills gaps and shortages. 
+A wider public-private skills partnership including both HE, FE and smaller supply chain businesses to ensure that the strategy area becomes the best place to acquire skills for making games and digital content.
+The growth of short-form content – including on platforms such as TikTok and Instagram – offers both creative and commercial opportunities to a wider and more diverse community of content makers and marketers. Development of those skills pathways and routes to market should sit alongside those for film and high-end television.
+Leadership and management skills for creatives
+Despite the evidence of good levels of provision though workspace providers, creative business networks, universities and colleges, our research identified unmet needs for more sector specific support for development of leadership and management skills:
+‘Does anyone know where I could find management training for one of our designers who is new to management? Really don’t want anything generic – something more geared to the pace and specifics of a design-based business.’ 
+Round table participant, March 2023. 
+One comment heard several times at the round table discussions was the lack of business skills for creative freelancers – doing accounts, tax issues:
+‘New talent doesn’t know how to be self-employed.’
+Promotion and marketing
+Games and digital content
+There was an expressed wish to investigate the potential to hold more national and international gaming events, building on existing expertise in delivery of festivals.
+That needed to be matched by a campaign to promote the value of local creative and digital producers to angel and VC (Venture Capital) investors.
+Film and television
+A single private sector business – Sussex Film Office - is responsible for attracting and directing over £10m of new investment into filming across Sussex. 80% of that investment comes from London and makes no differentiation between East and West Sussex in its choice of locations.
+Screen businesses wanted to be engaged in identifying, planning and - where appropriate - lobbying for investment in the required infrastructure, both in terms of new capital developments and to enable the full potential of remote working and workflows.
+Music
+Hastings is a Music City: the potential to identify Brighton as a music city to complement that was identified as one of many areas in which a closer strategic relationship with East Sussex might develop a coastal relationship that built on the differences and similarities that exist across Sussex to forge a campaign with greater reach and impact.
+
+Equality, diversity and inclusion
+Increase lived experience or awareness amongst commissioners of skills training and business support.
+Invest in the recommendations and reputations of diverse led creative businesses and producers (there are some significant people in West Sussex, Brighton & Hove and Lewes District).
+Collaborate with disabled/neurodiverse/D/deaf practitioners and disabled led organisations to look at inclusive access framework for creative occupations (not just physical access but well-being, remote working, adjustments etc.) for disabled, D/deaf and neurodiverse people).
+Collaborate with LGBTQI+ practitioners and queer led organisations to look at inclusive access framework for LGBTQI+ artists, creatives and audiences.
+Collaborate with ethnically diverse practitioners and ethnic-led organisations to look at inclusive access framework for ethnically diverse artists, creatives and audiences.
+These could be addressed through:
+Employer training programmes on disability access to work.
+Employer training programmes and resources on inclusive recruitment.
+Leadership development (early and mid-career).
+
+
+Recommendations 
+This report identifies opportunities for new investment, in the creative industries in West Sussex, Brighton & Hove and Lewes District, in three phases:
+Short term measures to help the sector and its workforce move from recovery to renewal.
+Medium-term focus on building physical, network, skills and investment capacity to bring the sector back to pre-2015 levels of growth.
+Longer term development of strategic and knowledge assets to maintain a globally leading position in creative technology.
+Interventions need to support the principle of independence to ensure that delivery reflects the priorities and operating models of creative practitioners and businesses themselves. This means gearing business support and investment around what works – established and successful programmes delivered in both public and private sectors – and taking risks in advance of private sector investors to show confidence in the sector.
+Equality, diversity and inclusion
+There was a shared recognition of the disproportionate impact of inequality on cultural participation and opportunities to access creative occupations, particularly at a leadership level. There is a cross-cutting recommendation for public sector partners to convene, hold space, broker and facilitate forums to address equality, diversity and inclusion in cultural and creative industries collectively and in a way that is reflective of the people of West Sussex, Brighton & Hove and Lewes District as it is now and how it will be.  
+Phase 1: Move from recovery to renewal
+Commit to a policy to support growth of creative industries and convene a sub-regional policy forum to coordinate creative sector investment.
+Build on networks, intelligence and pilot activities developed through Covid interventions such as ABCD – (e.g., ABCD successor project, the Brighton & Hove Culture Alliance) and look to extend their reach and deployment across the sub-region.
+Promote more joined up provision of creative skills and marketing of creative skills pathways, building on the work of the Local Skills Improvement Plan (LSIP), to establish a co-ordinated employer-led approach to skills development across creative and digital sectors.
+Form a compact between all West Sussex, Brighton & Hove and Lewes District local authorities which identifies a commitment to use policy levers (including Article 4 and Agent of Change provisions in planning) to safeguard existing cultural venues and infrastructure from threats of displacement and increasing costs, and to prioritise use of existing commercial premises under threat of redevelopment as housing for creative workspace.
+Phase 2: Build capacity for growth
+Use the opportunities of Crawley’s status as an ACE Priority Place and Stronger Towns funding to establish a representative cross-sector body which can influence and drive culture-led regeneration, including provision of new creative workspace and showcasing in the town centre.
+Support Adur and Arun to leverage their status as ACE Levelling Up for Culture places, working with regional NPOs including AudioActive and Brighton Festival to establish a framework for growth.
+Invest in a more distinctive creative leadership skills and business support offer that will help creative employers develop their own teams, particularly at mid-career level, and help freelancers develop and lead virtual teams. and to ensure that recommendations of this and other reports, including the Sussex Local Skills Improvement Plan, are understood and followed through by educational institutions, national agencies and the public sector, acting in concert.
+Convene employers, schools, colleges, universities and public sector agencies within a re-invigorated sub-region-wide careers structure which encompasses the changing dynamics of the sector and provides students, teachers and parents with insight into how new creative and technology skills, offered within a creative course, can be applied across many sectors. 
+Link the development of Sussex Studios to support for Sussex Film Office to grow investment in production:
+  Feasibility study into potential to create a Production Fund, along the lines of Liverpool City Region, which links offers of production finance for incoming and indigenous productions to quotas for local crew and trainees to strengthen the regional supply chain.
+CPD for production services roles for local freelancers.
+More coordinated marketing of investment in film, high end television and digital content.
+
+Phase 3: Strategic creative leadership
+Strengthen links with creative and economic forums in East Sussex to integrate approaches to delivery which build on successful examples from across the county.
+Extend and amplify the role of coastal towns in community engagement and cultural and economic renewal, sharing capacity and expertise from Bognor Regis to Hastings.
+Promote and champion innovative models to transfer assets and accountability from the public sector to creative businesses and independents, including:
+Build on recommendations of the ABCD Space to Grow report and a study already in process for Brighton & Hove to look at feasibility of establishing a Creative Land Trust for the strategy area.
+Lobby central government for funding to embed the Creative Workers’ Income Guarantee as a part of the creative infrastructure.
+Universities and colleges to work with business networks and workspace providers to establish collaborative frameworks and a new research-innovation model which build on FuseBox24’s findings on interdisciplinary integration to provide effective economic outcomes.
+Appendix 1
+Workforce and business mapping methodologies
+Table 6 Comparison of DCMS sectors and LinkedIn industry codes
+
+
+The Fifth Sector/Curator Technologies 2023
+
+
+[TABLE 1]
+Strengths | Opportunities
+Established reputation of Brighton as a creative cluster with high levels of innovation and interdisciplinary collaboration.
+Large, experienced and highly skilled creative workforce with access to market opportunities.
+Global brand recognition of Brighton as a cultural destination (festivals, LGBTQI+ community, major industry events including The Great Escape) and strong cultural anchor institutions (e.g., Brighton Festival and Dome, Chichester Festival Theatre).
+The strategy area offers a very high quality of life for those with resource to access it: rich and diverse natural heritage of its coast and rural areas, high quality urban environments in its cities and towns
+Good supply of creative skills training, including CPD, at FE and HE.
+Access to global markets via London and Gatwick Airport.
+Ability to think differently and embrace bold visions – e.g., Creative Worker Income Guarantee research as part of the ABCD Cultural Recovery programme. | Create Growth funding (until 2025) to stimulate creative scale-ups
+Sussex Studios plans to develop virtual production and studio capacity to capitalise on increased demand for film, television and digital content production.
+Opportunities to further capitalise on the ‘fused’ skillset and frameworks for interdisciplinary collaboration.
+Crawley’s status as an Arts Council England Priority Place and funding for culture-led regeneration of the town centre.
+Adur and Arun are Levelling Up for Culture places.
+Renewed impetus to establish effective cultural and cross-sectoral networks as part of Covid recovery.
+Opportunities for extended collaboration with East Sussex initiatives around coastal towns’ cultural offer and creative education.
+Underutilised links to global brands in adjacent sectors with global resonance and markets – e.g., Goodwood, Rolls Royce.
+Weaknesses | Threats
+Lack of affordable workspace, specialist production facilities and grow-on spaces for creative businesses. 
+Inflated costs of accommodation and living.
+Networks of creative businesses and freelancers are fragmented and demonstrate limited reach to potential growth areas in coastal and rural towns.
+Lack of coordinated strategy or public sector networks for delivery of strategic priorities around creative industries at sub-regional level.
+Self-reinforcing low levels of diversity within creative leadership and the creative workforce exacerbate lack of social mobility for some communities, especially coastal towns with less history of creative industries engagement.
+Steady and largely unnoticed decline in rate of creative business formations over the medium term (since 2015).
+High costs and competition for space make it difficult to justify the business case for investment in the creative workspace and production facilities that the sector needs, leaving the sub-region at a disadvantage to competitors both near (Bournemouth, Thames Estuary Production Corridor) and further afield (cities and towns in North, Midlands and South West with stronger investment portfolios and access to regeneration funding.)
+Low levels of coordination of strategy and delivery in respect of creative industries between the three universities means that the absorptive capacity for innovation is underdeveloped amongst regional creative businesses. | Economic headwinds have both immediate and long-term impacts:
+Many creative businesses and freelancers are still recovering from the immediate loss of income and longer-term disruption to supply chains brought about by Covid-19
+Longer term impact of behaviour change amongst audiences for culture yet to become clear
+Cost of living crisis has dampened consumer demand and confidence 
+Political
+Brexit has imposed new cost and non-cost barriers to touring work in Europe and attracting creative talent to address skills gaps and shortages.
+‘Levelling up’ agenda tends to direct public investment away from the South East to cities and towns in the Midlands, North and South West whose creative industries are in direct competition with those in West Sussex, Brighton & Hove and Lewes District.
+Competition
+For skills, including from London businesses, exacerbating skills gaps and shortages, driving wage inflation and leading businesses to have to recruit more junior people who find it difficult to progress in roles for which they are underprepared.
+For private sector investment, from London and areas in receipt of ‘levelling up’ support.
+For resource, from other South East partners in the Create Growth programme, notably Thames Estuary Production Corridor - West Sussex, Brighton & Hove and Lewes District partners need to quickly identify a plan for recruitment and delivery for Create Growth so that the opportunity is fully realised.
+For customers and commissions, from creative businesses located in areas with better infrastructure and more available sources of public funding support.
+Lack of diversity in visible leadership of culture and creative sector and its workforce risks limiting wider global appeal of the sub-region’s cultural and creative offer.
+[/TABLE]
+
+
+[TABLE 2]
+Cluster | Local authority areas | Microcluster | Count of businesses in microcluster
+Brighton & Hove | Brighton & Hove | Brighton 1 | 659
+Brighton & Hove | Brighton & Hove | Brighton 2 | 170
+Brighton & Hove | Brighton & Hove | Brighton 3 | 93
+Brighton & Hove | Brighton & Hove | Brighton 4 | 68
+Brighton & Hove | Brighton & Hove | Hove | 82
+Chichester & Bognor Regis | Chichester and Arun | Chichester | 279
+ | Crawley | Crawley | 228
+ | Crawley | Leatherhead | 182
+ | Crawley | Reigate | 164
+ | Crawley | Redhill | 78
+ | Crawley | Oxted | 59
+ | Mid Sussex | Haywards Heath | 121
+ | Mid Sussex | East Grinstead | 75
+ | Mid Sussex | Burgess Hill | 66
+ | Worthing | Worthing | 249
+ | Adur | Shoreham by Sea | 65
+Eastbourne | Lewes | Lewes | 119
+[/TABLE]
+
+
+[TABLE 3]
+ | CREATIVE ORIGINALS ​ | CREATIVE SERVICES ​ | CREATIVE EXPERIENCES ​ | CREATIVE CONTENT ​ | CREATIVE DIGITAL TECHNOLOGIES ​ | TOTAL ​
+CPD​ | 116 | 15 | 11​ | 49 | 17 | 207
+HE​ | 30 | 45​ | 92 | 96 | 6​ | 269
+FE​ | 50 | 33​ | 78 | 92 | 5​ | 258​
+T-LEVELS​ | N/A​ | 4​ | N/A​ | 6​ | 3​ | 13
+APPRENTICESHIPS | 3​ | 5 | 1 | 1 | 1​ | 11
+TOTAL ​ | 199 | 102 | 182 | 243 | 32 | ​752
+[/TABLE]
+
+
+[TABLE 4]
+Pathways​ | Total
+Creative Content​ | 243
+Creative Experiences​ | 182
+Creative Services​ | 102
+Creative Originals​ | 199
+Creative Digital Technologies​ | 32
+[/TABLE]
+
+
+[TABLE 5]
+Level | Count
+Levels 1 – 2 (GCSE) | 49
+Level 3 ( A Levels) | 171
+Apprenticeships and T Levels | 24
+Levels 4 – 5 (HND or HNC) | 20
+Level 6 (Degree) | 178
+Level 7 – 8 (Masters or PhD) | 104
+All levels (CPD) to include Diplomas | 198
+[/TABLE]
+
+
+[TABLE 6]
+Creative sector | SIC code | LinkedIn industry code
+Advertising and marketing | 7021: Public relations and communication activities | Public Relations and Communications
+ | 7311: Advertising agencies | Marketing and Advertising, Writing and Editing
+ | 7312: Media representation | Public Relations and Communications
+Architecture | 7111: Architectural activities | Architecture and Planning
+Design | 7410: Specialised design activities | Design; Graphic Design; Apparel and Fashion
+Performing arts and music | 1820: Reproduction of sound recordings | N/A
+ | 3222: Manufacture of musical instruments | N/A
+ | 4763: Retail sale of music and video recordings in specialised stores | N/A
+ | 5920: Sound recording and music publishing activities | Music
+ | 8552: Cultural education | N/A
+ | 9001: Performing arts | Performing arts
+ | 9002: Support activities to performing arts | Performing arts
+ | 9004: Operation of arts facilities | Performing arts
+Publishing | 5811: Book publishing | Publishing; Writing and Editing
+ | 5812: Publishing of directories and mailing lists | Publishing; Writing and Editing
+ | 5813: Publishing of newspapers | Publishing; Writing and Editing
+ | 5814: Publishing of journals and periodicals | Publishing; Writing and Editing
+ | 5819: Other publishing activities | Publishing; Writing and Editing
+ | 7430: Translation and interpretation activities | Translation and Localization
+Software | 5821: Publishing of computer games | Computer Games
+ | 5829: Other software publishing | Computer Software
+ | 62011: Ready-made interactive leisure and entertainment software development | Computer Games
+ | 62012: Business and domestic software development | Computer Software
+ | 6202: Computer consultancy activities | Computer Software
+TV and Radio | 5911: Motion picture, video and television programme production activities | Motion pictures and Film; Broadcast Media
+ | 5912: Motion picture, video and television programme post-production activities | Motion pictures and Film; Broadcast Media
+ | 5913: Motion picture, video and television programme distribution activities | Motion pictures and Film; Broadcast Media
+ | 5914: Motion picture projection activities | Motion pictures and Film; Broadcast Media
+ | 6010: Radio broadcasting | Broadcast Media
+ | 6020: Television programming and broadcasting activities | Broadcast Media
+ | 7420: Photographic activities | Photography
+Visual arts, fine art and craft | 3212: Manufacture of jewellery and related articles | Luxury goods and jewellery
+ | 9003: Artistic creation | Arts & Crafts, Fine Art
+[/TABLE]

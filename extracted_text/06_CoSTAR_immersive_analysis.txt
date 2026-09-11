@@ -1,0 +1,53 @@
+CoSTAR: Immersive Economy Analysis
+
+     The UK’s standing in the Immersive Economy is at a crucial point for R&D to maintain and consolidate its competitive market position. Care must be taken to ensure that the integration of AI into media production workflows is done ethically to manage commercial risk around future regulation of AI models. Supporting information comes from the following:
+
+	•	IE - Immerse UK, Immersive Economy Report (2022) Immersive-Economy-2022-final-13-Oct.pdf (immerseuk.org)
+	•	Anantrasirichai, N., Bull, D. Artificial intelligence in the creative industries: a review. Artif Intell Rev 55, 589–656 (2022). https://doi.org/10.1007/s10462-021-10039-7
+	•	MF - Mozilla Foundation - The Long Road to Redress: Mozilla’s Comments on the EU’s Proposal for an AI Liability Directive 
+	•	SF - StoryFutures Virtual Production Skills Report (2021) StoryFutures VP Skills Report, November 2021
+
+OVERALL 
+
+     As of 2022, the immersive economy had a £1.4bn turnover, with media and entertainment seeing the highest as a sector at £164m (IE: 10). Outside of London, Manchester has the most immersive companies with 118 (IE: 11), making up part of the North West’s thriving immersive ecosystem, which has a “strong combination of public and private partnerships to support the creation of new opportunities” (IE: 31). The multi-sector application of immersive technologies extends beyond the creative outputs, meaning UK companies stand to benefit from R&D that increases competitive advantage in the creative industries.
+
+Virtual Production (VP) leads to efficiencies with significant savings in production time and costs, “but might also be more sustainable, reducing carbon footprint by removing travel and transportation costs of location filming." (SF: 4). Costs for VP are high but will lessen as the technology is normalized over the next five years. According to Sky’s VR Creative Director, there is currently not a single key show on Sky “that does not use immersive tech in some way” (SF: 14).
+
+OPPORTUNITIES 
+
+     VP represents a true STEAM R&D opportunity, promising to “transform the way we make film, television, games and immersive experiences” (SF: 19). Over recent years, the UK has laid the “groundwork to position itself as a global leader in XR technology" (IE: 4). Manchester’s unique combination of complementary production factors is reflective of the UK overall, which has “an established production infrastructure, a world class VFX supply chain, and a skilled and adaptable workforce” (IE: 5).
+
+The workflow for VP also provides follow-on opportunities in licensing and sales worldwide, where:
+ 
+"…creating scans or models of well-known locations or unique props [could] be licensed as digital assets to other productions. The ability to reuse digital 3D assets and virtual scenes is also likely to have an impact on driving productions towards a more efficient approach to budgeting and scheduling of resources between and across productions” (SF: 14).
+
+CHALLENGES
+
+     Consistent workflows, interoperability, cultural differences across sectors, access to talent, EDI, and access to funding are some of the challenges facing the adoption of convergent screen and real-time technologies in the UK:
+
+	•	"In this fast-paced landscape of innovation developing repeatable and documented workflows becomes crucial" (SF: 19)
+	•	Producer Annalise Davis says: "Because the film industry and film sets work in a very specific way, and there are cultural differences between games and film, and communication can be a challenge” (SF: 12)
+	•	In the 2022 Immerse UK survey, "Public funding was seen as small in scale and requiring long application processes for grants. Private funding in the UK was seen as lacking in ambition and being risk averse” (IE: 21)
+	•	The development of appropriate standards and IP regimes is important, yet often lags behind the rapid pace of innovation
+	•	For EDI, "As well as race and gender, both visible and invisible disabilities are characteristics that need greater consideration when developing immersive technologies." Another challenge is “making sure that immersive experience creators consist of and have access to a community of people with lived experiences of disability in order to be able to come up with ideas, and test concepts out" (IE: 79)
+
+COVID RECOVERY
+ 
+     Covid seems to have had a net-positive effect on the immersive economy owing to “increased demand for online, virtual experiences; a culture shift in how people and businesses expected services to be delivered; and better international recruitment" (IE: 8). The ease of remote working lends itself well to elements of VP and immersive, which could give UK companies access to world-class talent as well as support other efficiencies associated with a distributed workforce.
+
+Additionally, “pressures on healthcare systems created by the COVID-19 pandemic have increased demand for new approaches to increasing efficiency and performance via digitalisation” (IE: 41). Advantages gained through creative R&D in immersive will positively impact other sectors, including healthcare.
+
+ AI IN THE CREATIVE INDUSTRIES
+
+     Elements of VP and immersive are intertwined with AI technology for the scalability of data management as well as motion capture, content moderation, and the generation of creative concepts.
+  
+Cultural conversation around creative AI brings up questions of business practices, ethics, and rights in a context where "applications of AI in the creative industries have dramatically increased in the last five years" (Anantrasirichai & Bull: 590). Human intervention still guides algorithms toward creative outputs because “defining, cleaning and organizing bias-free data for creative applications are not straightforward tasks" (Anantrasirichai & Bull: 638). Collaboration between human creators and machines is promising for cost-saving and time efficiency, but “UNESCO mentions that collaboration between intelligent algorithms and human creativity may eventually bring important challenges for the rights of artists" (Anantrasirichai & Bull: 635).
+
+Researchers Anantrasirichai and Bull also stated:
+
+	•	"As AI methods begin to pervade the creative sector, developers and deployers must however continue to build trust; technological advances must go hand-in-hand with a greater understanding of ethical issues, data bias and wider social impact" (Anantrasirichai & Bull: 639)
+	•	"We foresee, in the near future, that AI will be adopted much more widely as a tool or collaborative assistant for creativity, supporting acquisition, production, post-production, delivery and interactivity” (Anantrasirichai & Bull: 639)
+
+Although the UK is no longer part of the EU, companies will still have to meaningfully respond to EU directives to continue doing business there. Worldwide regulation of AI will continue to affect UK companies who need to consider not only the utility of AI, but also its ethical implications to avoid commercial risk in the future. The Mozilla Foundation responded to the EU’s Proposal for AI liability, which will set rules and standards for AI systems brought to market in the EU. They highlighted that the “AILD extends to immaterial harms, including fundamental rights harms, like discrimination and infringements of people’s privacy” (MF). AI models trained on internet data with unclear rights conditions could become a problem depending on forthcoming regulations.
+ 
+

@@ -1,0 +1,657 @@
+
+[PAGE 1]
+ 
+ 
+ Greater Birmingham & 
+Solihull LEP  
+West Midlands 
+Creative Business 
+scale-up mapping  
+Final report 
+January 2020  
+ 
+
+
+[PAGE 2]
+ 
+ i Credits  
+Written and prepared by 
+Iain Bennett, BOP Consulting; Simon Sprince and Andy Goodwin, Curator Technologies 
+ 
+Data credits 
+Curator Technologies 
+Image credits 
+Daniel Alexander (@DAFilms) 
+ 
+__ 
+    
+  
+
+
+[PAGE 3]
+ 
+ ii Contents 
+Executive summary .............................................................................. 1  
+1. Mapping the creative sector ............................................................ 2  
+1.1 Total population of creative businesses ........................................................ 2  
+1.2 Common application gateway criteria ............................................................ 2  
+1.3 Measuring turnover growth ............................................................................ 2  
+1.4 Measuring employment ................................................................................. 3  
+1.5 Additional growth criteria ............................................................................... 3  
+2. Selection of the shortlist .................................................................. 4  
+2.1 In-depth analysis of the longlist ..................................................................... 4  
+2.2 Eligibility ......................................................................................................... 5  
+2.3 Confidence ..................................................................................................... 5  
+2.4 Summary of findings ...................................................................................... 5  
+3. Eligibility ........................................................................................... 6  
+3.1 Businesses meeting both Common Application Gateway (CAG) Criteria ..... 6  
+3.2 Businesses meeting one of the CAG criteria ................................................. 6  
+4. Scale-up scores ................................................................................ 7  
+5. Correlation between CAG and scale-up scores.............................. 9  
+6. Creative supply chain groupings .................................................... 9  
+Appendix 1 : Methodology ................................................................. 10  
+Dashboard ......................................................................................................... 10  
+Data 11  
+Appendix  2: DCMS Creative Industries SIC Codes 2015 ................ 13  
+ 
+ List of Figures  
+Table 1  Active DCMS Creative Industries companies within West Midlands ..... 2  
+Table 2  Additional growth criteria ........................................................................ 3  
+Table 3 Subsector breakdown of shortlisted businesses ..................................... 4  
+Table 4  Companies meeting both Common Application Gateway criteria .......... 6  
+Table 5  Companies meeting one of the CAG criteria ......................................... 6  
+Table 6  Businesses meeting two or three of the scale-up criteria ...................... 7  
+Table 7 Businesses meeting one scale-up criterion ............................................ 8  
+Table 8  Correlation of business performance against CAG criteria and scale-up 
+confidence scores ................................................................................................ 9  
+Table 9  Explanation of data sources used in the dashboard ............................ 10  
+Table 10  Data sources ...................................................................................... 11  
+Table 11 DCMS Creative Industries SIC code groupings .................................. 13  
+
+[PAGE 4]
+ 
+— 
+www.bop.co.uk 1  Executive summary  
+West Midlands Combined Authority (WMCA) is one of three city regions to have 
+agreed a Sector Deal for Creative Industries. This includes funding for a 
+creative business scale-up programme, to boost growth and productivity in the 
+sector across all parts of the region. 
+WMCA needed to establish which creative businesses in the region would most 
+likely be eligible for, and derive most benefit from, this programme. The 
+Common Application Gateway (CAG) criteria established for the programme by 
+DCMS – turnover growth of 10% and a minimum of 8 employees (a mixture of 
+four permanent and four freelance workers) – represent a high bar for the 
+majority of West Midlands creative businesses. A more detailed and specialist 
+account of the creative sector was needed to unearth the latent scale-up 
+potential of creative businesses across the city region. 
+BOP had previously carried out a mapping of the creative economy in Greater 
+Birmingham & Solihull in 2017/18, using Business Register and Employment 
+Survey (BRES) data analysed by standard DCMS Creative Industries sector 
+definitions to compile a dataset of creative businesses. This was analysed for 
+the strengths and opportunities both within the creative industries sub-sectors 
+defined by DCMS1 and across four supply chains defined by product type:  
+‒ Creative Content: eg, television, film, digital media, software and 
+applications, computer games, publishing, recorded music 
+‒ Creative Experiences: eg, live performance, venues, museums, 
+galleries and libraries 
+‒ Creative Originals: eg, visual arts, fashion, crafts, product design 
+‒ Creative Services: eg, advertising and marketing, architecture crafts, 
+graphic design, design consultancy, computer services 
+ 
+ 
+1 Advertising and marketing; architecture; craft; design; film, television, video, radio and photography; IT, software 
+and computer services; publishing; museums, galleries and libraries; and music, performing and visual arts. For this study, BOP joined with City Curator to pursue an innovative and multi-
+method approach to mapping creative businesses and workforce to provide 
+both a fine-grained understanding of creative businesses’ ‘scale-up potential’ 
+and contact, financial and employment details of individual creative businesses.  
+Initial mapping of the scale and significance of the sector in September 2019 
+identified some 14,900 businesses registered at Companies House under one 
+of the DCMS Creative Industries subsectors with an office in one of the WMCA 
+constituent and non-constituent member and partner areas.  
+Initial analysis of this cohort to establish details of employment, turnover, 
+profitability and assets resulted in a ‘longlist’ of 2,336 businesses for further 
+analysis by a range of methods including AI web search, social media analysis, 
+records of public grants and proprietary investment databases. The method 
+used LinkedIn data to provide more up to date information on company size, 
+location and activities. This resulted in a shortlist of 645 companies, including 49 
+‘non-creative industries businesses’ (ie, those not in a DCMS CI SIC code), 
+uncovered through keyword search, whose products or services either clearly 
+formed part of a creative industries supply chain or made extensive use of 
+creative and immersive content and technologies .  
+As suspected at the outset, very few of the shortlist – 26 companies – met both 
+the CAG criteria, with a further 386 meeting one or other criterion. We applied 
+other measures of private sector investment value, public investment, social 
+media and recruitment activity to establish a level of confidence in the scale-up 
+potential of the shortlisted companies. This indicated that there were 168 West 
+Midlands creative businesses with a very strong likelihood of scale-up potential, 
+and a further 253 which we think could benefit from the programme. 
+We organised our findings into a colour-coded dashboard (provided as an 
+accompanying document to this report) which also sets out further details of 
+company founders, employment numbers and contact details. The result is a 
+comprehensive toolkit to assist the programme director in marketing and 
+recruitment. 
+
+[PAGE 5]
+ 
+— 
+www.bop.co.uk 2  1. Mapping the creative sector 
+1.1 Total population of creative businesses  
+Our initial analysis of DueDil identified 14,903 active companies of all ages with 
+West Midlands addresses registered under one or more of the DCMS Creative 
+Industries SIC codes at Companies House. Table 1 Error! Reference source 
+not found.  shows those companies broken down by age since incorporation. 
+Table 1  Active DCMS Creative Industries companies within West Midlands 
+Companies within West Midlands Number of 
+companies  
+DCMS Creative Industries SIC code 14,903 
+DCMS CI SIC and aged less than two years 4,267 
+DCMS CI SIC and aged 2-10 years  7,291 
+DCMS CI SIC and aged 11 years or more 3,345 
+Source: BOP/City Curator analysis of DueDil 
+1.2 Common application gateway criteria 
+We tested all 14,903 eligible creative businesses against DCMS’s ‘common 
+application gateway’ (CAG) criteria for the creative business scale-up 
+programme:  
+‒ Turnover growth equal to or greater than 10% in the last year (see 1.3, 
+below) 
+‒ Eight or more employees (see 1.4, below) 
+Only a tiny minority of company records - ten companies, of which two were part 
+of the same group – contained data which indicated that the business met both 
+CAG criteria. Below we explain why this information is not available in most 
+cases, and the steps we took to try to mitigate that. 1.3 Measuring turnover growth 
+Most companies are below the £10.2 million per annum turnover threshold at 
+which they have to submit full accounts to Companies House. This means that 
+most companies submit accounts in one of two forms: 
+Micro-entity accounts 
+Companies may submit ‘micro-entity accounts’ if they meet two of the following 
+criteria: 
+‒ Turnover is no more than £632,000 
+‒ Balance sheet total is no more than £316,000 
+‒ Average number of employees is no more than 10  
+The minimum level of disclosure for micro-entity accounts consist of: 
+‒ Simple balance sheet and footnotes 
+‒ Signature of a director and their name printed on the balance sheet. 
+‒ Statement on the balance sheet above the director’s signature that the 
+accounts have been prepared 
+‒ Simple profit and loss account 
+Whilst companies that can be defined as micro-entities are potentially in scope 
+of the scale-up programme, theses limited reporting requirements mean that it is 
+very unlikely that the public record will contain details of turnover or turnover 
+growth. 
+Abridged accounts 
+Companies may submit abridged accounts whose: 
+‒ Turnover is no more than £10.2 million 
+‒ Balance sheet total is no more than £5.1 million 
+‒ Average number of employees is no more than 50 
+
+[PAGE 6]
+ 
+— 
+www.bop.co.uk 3  Abridged accounts include abbreviated versions of the company balance sheet 
+and profit and loss account. Again, this can mean that the public record does 
+not contain details of turnover; but we are more likely to able to find evidence of 
+turnover or growth, either year-on-year or on a Compound Annual Growth Rate 
+(CAGR) basis, for these companies. 
+1.4 Measuring employment 
+DCMS had already indicated that there was some flexibility around the definition 
+of ‘employees’. To reflect the known prevalence of freelance and contract 
+working, the common application gateway criteria could be interpreted to mean 
+businesses with four permanent and four freelance employees in the last year. 
+However, in most cases it was not possible to determine an exact number of 
+employees from publicly available data, nor a split of permanent and freelance 
+workers. Our main sources of data for employment numbers were: 
+‒ Team pages on the company web site – although many companies do 
+not have either a web site or a team page 
+‒ Information about the company and its employees from LinkedIn.  
+LinkedIn now has 25 million UK users and provides a much larger and more 
+accurate sample of employment than BRES data. LinkedIn also generates an 
+estimate of employee numbers based on the number of subscribers with links to 
+the company, for which the lowest band is companies with 2-10 employees. 
+This led us to determine that we would carry out further analysis on all 
+companies for which we could find evidence of at least two employees. This 
+‘permissive’ approach allowed us to include more businesses in our initial 
+longlist for further detailed analysis. 
+1.5 Additional growth criteria 
+We developed a wider set of growth criteria, based on other financial and 
+employment information available from DueDil, to enlarge the pool of potentially 
+eligible businesses within four areas: scale, growth, profitability and assets. The list of the eleven additional growth criteria applied are shown in Table 2. Error! 
+Reference source not found.  
+Table 2  Additional growth criteria 
+Criteria Definition  Justification  
+Employees Two or more 
+employees Excludes sole traders, which are 
+unlikely to be ready to scale 
+Employee Growth 25%+ in the last 
+year Identifies smaller companies 
+whose workforce is growing  
+Employee Growth  25%+ Compound 
+Annual Growth 
+Rate (CAGR) over 
+the last 3 years Identifies long term growth; 
+accounts for temporary variations 
+in staffing numbers in a single 
+year 
+Turnover 8%+ CAGR over 3 
+years Identifies long term growth; 
+accounts for temporary variations 
+in turnover in a single year 
+Turnover Delta 10,000 or greater  An indicator of growth based on 
+the difference in turnover 
+between two financial years. 
+Pre-tax profit Positive Identifies companies that do not 
+report other information or fall 
+below CAG thresholds but are 
+worth further investigation  
+Pre-tax profit growth Positive ibid 
+Current assets £100,000 or more Identifies companies that do not 
+report other financial figures but 
+may be worthy of further 
+investigation 
+Intangible Assets £80,000 or more Identifies companies that do not 
+report other indicators but may be 
+growing in less obvious ways.   
+Intangible Asset 
+growth 25% + ibid 
+
+[PAGE 7]
+ 
+— 
+www.bop.co.uk 4  Source: BOP Consulting/City Curator analysis of DueDil 
+ 
+2. Selection of the shortlist 
+2.1 In-depth analysis of the longlist 
+Our initial analysis has resulted in a cohort of 2,336 businesses – 2,082 aged 
+between two and ten years, 66 younger than two years and 188 between 11 
+and 15 years old. We carried out further detailed analysis of their scale-up 
+potential to arrive at a ‘scale-up score’ for each company. 
+These analyses included: 
+‒ AI web search  that looked for additional evidence of growth factors, eg, 
+by searching for team, project and client pages on the company web 
+site. This: 
+o Provided more information about company size, products and 
+services) 
+o Helped us categorise businesses into product or services 
+companies, and allocate them to one of four creative supply 
+chains (or none) 
+o Gave insight into the scope of their activity for further (manual) 
+analysis 
+o Eliminated those companies without a web site 
+‒ Crunchbase , to establish evidence of private investment within the last 
+three years 
+‒ LinkedIn  data, to provide more accurate estimates of total employment, 
+including freelancers, and details of directors active in the business 
+‒ UK Research & Innovation’s Grants for R&D (GRAND)  database, for 
+evidence of successful applications for public funding 
+‒ Recruitment  web sites, to identify companies actively hiring  
+ 
+2 The Department of Digital, Culture, Media & Skills (DCMS) classifies ‘Creative Industries’ as consisting of 
+businesses registered within 31 Standard Industrial Classifications (SIC codes), last updated in 2007. It then sub-
+divided these into nine creative subsectors. See Appendix 2 for a list of SIC codes and sub-sector groupings. ‒ Social media  analysis, to provide further evidence of other growth 
+factors, eg, export activity, exhibitions, new products and services 
+This returned a shortlist of 645 businesses: 596 of which were registered at 
+Companies House under one of the DCMS CI SIC codes2 and 49 of which were 
+registered under a non-DCMS Creative Industries SIC code.  
+ 
+Table 3 Subsector breakdown of shortlisted businesses 
+DCMS Creative Industries sector No. of 
+businesses  % of total 
+Advertising and marketing 79 12% 
+Architecture 46 7% 
+Crafts 12 2% 
+Design: product, graphic and fashion design 48 7% 
+Film, TV, video, radio and photography 45 7% 
+IT, software and computer services 240 37% 
+Publishing 36 6% 
+Museums, galleries and libraries 1 0% 
+Music, performing and visual arts 89 14% 
+Non-DCMS sectors 49 8% 
+Total 645 100% 
+Source: BOP Consulting / City Curator analysis 2019 
+ 
+  
+
+[PAGE 8]
+ 
+— 
+www.bop.co.uk 5  ‘Non-DCMS’ sector businesses fell into two camps: 
+ Businesses registered under a non-DCMS Creative Industries SIC code 
+whose primary business activity was clearly identified as forming part of 
+creative industries – eg, a film company registered under ‘Business 
+support services’ 
+ 
+ Business which, whilst working in a market vertical other than creative 
+industries, had a product or service that was wholly or largely 
+dependent on creative or immersive technology (eg, manufacturers of 
+fairground rides and training companies using VR and other immersive 
+technologies) 
+2.2 Eligibility 
+‘Eligible’ businesses are those which met both the Common Application 
+Gateway criteria established by (DCMS) for admission to the creative business 
+scale-up programme. From the shortlist, only 26 companies met both criteria. 
+2.3 Confidence (scale-up criteria) 
+The research methodology was designed to address the risk (crystallised 
+through analysis) that too few West Midlands creative businesses would meet 
+the CAG criteria. The combination of sources detailed at 2.1, above, was used 
+to determine a further four scale-up criteria: 
+‒ Private Sector Investment Value 
+‒ Public Investment 
+‒ Social Media Test  
+‒ Recruitment 
+2.4 Summary of findings  
+We analysed a shortlist of 645 businesses against the Common Application 
+Gateway criteria and the four scale-up criteria. A summary ‘dashboard’ of our findings is attached. Further analysis of these numbers is shown in Section 3 
+below. 
+ 
+  
+
+[PAGE 9]
+ 
+— 
+www.bop.co.uk 6  3. Eligibility  
+3.1 Businesses meeting both Common 
+Application Gateway (CAG) Criteria  
+26 businesses (out of the shortlist of 645) met both CAG criteria, of which 50% 
+were in IT, Software and Computer Services. 
+Table 4  Companies meeting both Common Application Gateway criteria 
+DCMS Creative Industries sector No. of 
+businesses  % of total 
+Advertising and marketing 0 0% 
+Architecture 1 4% 
+Crafts 0 0% 
+Design: product, graphic and fashion design  0 0% 
+Film, TV, video, radio and photography 2 8% 
+IT, software and computer services 13 50% 
+Publishing 0 0% 
+Museums, galleries and libraries 0 0% 
+Music, performing and visual arts 4 15% 
+Non-DCMS sectors  6 23% 
+Total 26 100% 
+Source: BOP Consulting / City Curator analysis 2019 
+ 3.2 Businesses meeting one of the CAG criteria 
+An additional 386 businesses (out of the shortlist of 645) met one or other of the 
+CAG criteria, taking into account a more generous interpretation of company 
+employment which counted both permanent and freelance workers. 
+Table 5  Companies meeting one of the CAG criteria 
+DCMS Creative Industries sector No. of 
+businesses  % of total 
+Advertising and marketing 55 14% 
+Architecture 29 8% 
+Crafts 5 1% 
+Design: product, graphic and fashion design 30 8% 
+Film, TV, video, radio and photography 21 5% 
+IT, software and computer services 151 39% 
+Publishing 20 5% 
+Museums, galleries and libraries 0 0% 
+Music, performing and visual arts 46 12% 
+Non-DCMS sectors 29 8% 
+Total 386 100% 
+Source: BOP Consulting / City Curator analysis 2019 
+ 
+ 
+  
+
+[PAGE 10]
+ 
+— 
+www.bop.co.uk 7  4. Scale-up scores 
+The following tables summarise our analysis of the 645 businesses using the 
+scale-up scoring methodology described in our proposal.  
+The scale-up criteria were very useful in discerning the differences between the 
+619 businesses that did not meet both of the CAG criteria, and yielded the 
+following results: 
+‒ None of the shortlisted businesses met all four scale-up criteria 
+(outlined at 2.3 above.)  
+‒ 168 businesses met two or three criteria (scored ‘Very Good’) 
+‒ A further 253 businesses met at least one criterion (scored ‘Good’) 
+‒ 224 businesses met none of the investment or recruitment tests and 
+had either no or partial social media coverage (scored ‘Low’.) 
+For the purposes of interpretation, we have assumed that companies scoring 
+‘Very Good’ or ‘Good’ have some scale-up potential. We have not analysed the 
+companies scoring ‘Low’ in the same level of detail. However, should you wish 
+to pursue those companies further, the report and appendices include data on 
+all 645 shortlisted companies. Table 6  Businesses meeting two or three of the scale-up criteria 
+DCMS Creative Industries sector No. of 
+businesses  % of total 
+Advertising and marketing 16 10% 
+Architecture 7 4% 
+Crafts 1 1% 
+Design: product, graphic and fashion design 11 7% 
+Film, TV, video, radio and photography 4 2% 
+IT, software and computer services 81 48% 
+Publishing 7 4% 
+Museums, galleries and libraries 0 0% 
+Music, performing and visual arts 9 5% 
+Non-DCMS sectors 32 19% 
+Total 168 100% 
+Source: BOP Consulting / City Curator analysis 2019  
+
+[PAGE 11]
+ 
+— 
+www.bop.co.uk 8  Table 7 Businesses meeting one scale-up criterion 
+DCMS Creative Industries sector No. of 
+businesses  % of total 
+Advertising and marketing 45 18% 
+Architecture 13 5% 
+Crafts 4 2% 
+Design: product, graphic and fashion design  18 7% 
+Film, TV, video, radio and photography 17 7% 
+IT, software and computer services 78 31% 
+Publishing 15 6% 
+Museums, galleries and libraries 0 0% 
+Music, performing and visual arts 55 22% 
+Non-DCMS sectors 8 3% 
+Total 253 100% 
+Source: BOP Consulting / City Curator analysis 2019   
+
+[PAGE 12]
+ 
+— 
+www.bop.co.uk 9  5. Correlation between CAG and 
+scale-up scores 
+We looked at the way that the scale-up scores reflected compliance with CAG 
+criteria. This showed that: 
+‒ All businesses meeting both CAG criteria also scored well against 
+scale-up criteria (14 ‘Very Good’ and 12 ‘Good’) 
+‒ 297 businesses which met one of the CAG criteria also scored well 
+against scale-up criteria – 129 of which were ‘Very Good’, and the 
+remaining 168 ‘Good’ 
+‒ 98 businesses which failed to meet either CAG criteria showed 
+indications of scale-up potential, with 25 of these scoring ‘Very Good’ on 
+scale-up confidence 
+ 
+Table 8  Correlation of business performance against CAG criteria and 
+scale-up confidence scores 
+CAG score ‘Very Good’  
+# of 
+companies  ‘Very Good’ 
+% of 
+companies  ‘Good’ 
+# of 
+companies  ‘Good’  
+% of 
+companies  
+Pass 14 8% 12 5% 
+Amber 129 77% 168 66% 
+Fail  25 15% 73 29% 
+Total 168 100% 253 100% 
+Source: BOP Consulting / City Curator analysis 2019 
+ 
+ 
+3 BOP Consulting (2018). Mapping the Creative Economy of Greater Birmingham & Solihull LEP. 6. Creative supply chain groupings 
+We further analysed of the results using the methodology established in our 
+2017/18 mapping to the creative economy of the Greater Birmingham & Solihull 
+LEP area3. This recombined SIC codes of our shortlisted companies into 
+descriptions of creative supply chains established in our previous study.  
+The 645 shortlisted companies divided into the following creative supply chain 
+groupings: 
+‒ Creative Content: 325 (50%) 
+‒ Creative Experiences: 50 (8%) 
+‒ Creative Originals 57 (9%) 
+‒ Creative Services: 183 (28%) 
+A further 30 businesses (5% of the total shortlist) were included because of their 
+use of creative and immersive technologies in non-creative applications, 
+although they did not fit the definition of any of the four creative supply chains. 
+
+[PAGE 13]
+ 
+— 
+www.bop.co.uk 10  Appendix 1 : Methodology 
+A range of different data sources were analysed and combined to establish eligibility and scale-up scores. Their use is explained in Table 9, below. 
+Dashboard 
+Table 9  Explanation of data sources used in the dashboard 
+Column header   Description   Source(s) 
+Company Name As registered on Companies House DueDil 
+Contact Email Primary contact  Companies only contactable via an online form are marked Form. Company website, DueDil 
+Contact Name & 
+Profile Where possible the name and LinkedIn profile of a senior member of staff or the owner has been provided.   Company website, LinkedIn 
+Website Several companies use different domain names than the company name DueDil, web search, LinkedIn 
+Telephone Main contact number DueDil, company website 
+Subsector Based on SIC 2007 codes DueDil 
+Turnover % Percentage growth in turnover in the last year for companies reporting this figure  DueDil 
+Number of Employees The higher of reported values from company website (eg, the ‘Team’ or ‘About Us’ page) or LinkedIn4 Company website, LinkedIn 
+Private Sector 
+Investment Value Taken from Crunchbase https://www.crunchbase.com Crunchbase 
+Social Media Test An analysis of the company’s social media marketing based on: official company presence on one or more 
+platforms, active profiles (i.e., new activity within the last six months), frequency of posts, reach and 
+integration into other marketing assets Facebook, Instagram, Twitter, 
+YouTube 
+Recruitment Evidence of recent recruitment advertising (0-6 months) Company website; recruitment 
+websites  
+Eligibility Common Application Gateway criteria for scale-up programme (10% turnover growth, 8 employees) DueDil, LinkedIn 
+ 
+4 Note that all companies fit the SME criteria on DueDil but due to the way LinkedIn associates people with companies some of the companies show an employee count larger than the SME maximum.  Getting an accurate count for the 
+individual company is impossible without sifting through every single employee  
+
+[PAGE 14]
+ 
+11 Data 
+The ‘Data’ spreadsheet provided as a counterpart to this report includes a larger number of data fields, summarised in Table 10, below 
+ 
+Table 10  Data sources
+ 
+Column header  Detail / source  
+Registered company name DueDil 
+Registered Address DueDil 
+Registered address postcode DueDil 
+Age DueDil 
+LinkedIn Contact Link Where possible the name and LinkedIn profile of a senior member of staff or the owner has been provided; the LinkedIn url is 
+hidden   
+Website Note that for a variety of reasons several companies use different domain names than the company name 
+Telephone From official Companies House records or from website 
+Subsector DCMS Creative Industries subsector, or non-DCMS primary SIC code 
+SIC 2007 Definition From ONS 
+Product Whether the company website identifies a product 
+Employees on LinkedIn Number of individuals who show employment at this company on their personal profile 
+Website employees The number of employees taken from the company website or social media 
+Recruitment Number of jobs advertised in the last six months, obtained from company websites and recruitment sites 
+Max Employees Higher of the employment count from the company website or LinkedIn 
+
+[PAGE 15]
+ 
+12 LinkedIn Company Size LinkedIn provides an estimate of company size, by size bands: this is initially set by the user but over time LinkedIn analyses 
+collects data on past employees and/or freelancers to improve this score 
+Turnover Growth (Annual) Taken from last accounts available on DueDil 
+Turnover Growth (3 Year CAGR) Taken from last accounts available on DueDil 
+Private Funding Value Taken from Crunchbase: where the value of deals is not disclosed, these have been tagged as ‘Unknown’   
+Public Funding Awards Number of grants awarded to the company 
+Public Funding Value Value of grants awarded : note that a number of these are partnership awards and it is impossible to split out a definitive figure 
+from publicly available data; in these case a rounded figure has been given (eg, >£1m) 
+Social Media Pass/Fail Does the company have a social media presence 
+LinkedIn page Link to the companies LinkedIn page where available 
+Facebook  Link to the companies Facebook page where available 
+Twitter Link to the companies Twitter feed where available 
+Insta Link to the companies Instagram feed where available 
+YouTube Link to the companies YouTube channel where available 
+Ultimate Parent Name The ultimate parent of the company listed 
+Geography Check1 A number of companies report an office location in their online profiles to their  registered / trading addresses on Companies 
+House.  A small number of these appear to be the activity has moved away from the West Midlands.  A much larger number are 
+companies that advertise their location as London, but all the indicators suggest that their activity is still based in the region.  
+Companies that require further checks have been flagged. 
+LinkedIn About Us Abridged A short (250 word) extract from the companies LinkedIn page – where available 
+ 
+Source: BOP Consulting / City Curator analysis 2019 
+  
+
+[PAGE 16]
+ 
+13 Appendix  2: DCMS Creative Industries SIC Codes 2015 
+Table 11 DCMS Creative Industries SIC code groupings 
+Creative Industries 
+Group SIC 
+2007 Description 
+Advertising and 
+marketing  70.21 Public relations and communication 
+activities   
+ 73.11 Advertising agencies   
+ 73.12 Media representation 
+Architecture  71.11 Architectural activities 
+Crafts 32.12 Manufacture of jewellery and related 
+articles 
+Design: product, 
+graphic and fashion 
+design 74.1 Specialised design activities 
+Film, TV, video, radio 
+and photography  59.11 Motion picture, video and television 
+programme production activities 
+ 59.12 Motion picture, video and television 
+programme post-production  
+ 59.13 Motion picture, video and television 
+programme distribution   
+ 60.1 Radio broadcasting 
+ 60.2 Television programming and 
+broadcasting activities   
+ 74.2 Photographic activities IT, software and 
+computer services  58.21 Publishing of computer games 
+ 58.29 Other software publishing 
+ 62.01 Computer programming activities 
+ 62.02 Computer consultancy activities 
+Publishing  58.11 Book publishing 
+ 58.12 Publishing of directories and mailing lists   
+ 58.13 Publishing of newspapers   
+ 58.14 Publishing of journals and periodicals   
+ 58.19 Other publishing activities   
+ 74.3 Translation and interpretation activities 
+Museums, galleries and 
+libraries  91.01 Library and archive activities   
+ 91.02 Museum activities 
+Music, performing and 
+visual arts  59.2 Sound recording and music publishing 
+activities 
+ 85.52 Cultural education 
+ 90.01 Performing arts 
+ 90.02 Support activities to performing arts 
+ 90.03 Artistic creation 
+ 90.04 Operation of arts facilities 
+Source: DCMS Sectors Economic Estimates Methodology https://www.gov.uk/government/publications/dcms-sectors-economic-estimates-methodology   
+
+[PAGE 17]
+ 
+14  
+ 
+ 
+ 
+   
+    
+ BOP Consulting is an international consultancy 
+specialising in culture and the creative economy. 
+ 
+BOP convenes the World Cities Culture Forum  
+(WCCF), an international network of more than 
+35 cities. www.worldcitiescultureforum.com London 
+Henry Wood House, 2 Riding House Street,  
+London W1W 7FA 
+ 
+Liverpool 
+Elevator, 29-31 Parliament Street, Liverpool L8 5RN 
+ 
+Shanghai 
+213 – 214, No. 585 Fuxing Middle Road, 
+Shanghai 200025, China Web 
+www.bop.co.uk  
+ 
+Twitter 
+@BOP_Consulting 
+ 
+Blog 
+www.bop.co.uk/articles  

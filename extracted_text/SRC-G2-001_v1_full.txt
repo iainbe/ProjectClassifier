@@ -1,0 +1,143 @@
+
+[SHEET 1: Trident]
+Title: Estimation of Creative Economy Employment in Kirklees |  |  |  |  | 
+ |  |  |  |  | 
+ | Kirklees - Creative Industries Employment  | Kirklees - Creative Economy Employment  | % of Creative Industries Employment | % Creative Economy Employment | 
+Advertising and marketing | 240 | 770 | 0.07142857142857142 | 0.15338645418326693 | 
+Architecture | 290 | 420 | 0.08630952380952381 | 0.08366533864541832 | 
+Crafts | 10 | 110 | 0.002976190476190476 | 0.021912350597609563 | 
+Design: product, graphic and fashion design | 510 | 750 | 0.15178571428571427 | 0.14940239043824702 | 
+Film, TV, video, radio and photography | 270 | 300 | 0.08035714285714286 | 0.05976095617529881 | 
+IT, software and computer services | 1250 | 1790 | 0.37202380952380953 | 0.3565737051792829 | 
+Publishing | 290 | 240 | 0.08630952380952381 | 0.04780876494023904 | 
+Museums, galleries and libaries | 300 | 390 | 0.08928571428571429 | 0.07768924302788845 | 
+Music, performing and visual arts | 200 | 250 | 0.05952380952380952 | 0.049800796812749 | 
+ | 3360 | 5020 |  |  | 
+Source: BRES data and BOP analysis  |  |  |  |  | 
+[/SHEET 1]
+
+
+[SHEET 2: SOC]
+Title: Number working in culture, media and sport occupations in Kirklees | 
+ | 
+ | Number working in culture, media and sports occupations (SOC2010) in Kirklees
+Oct 2009-Sep 2010 | 3300
+Oct 2010-Sep 2011 | 3800
+Oct 2011-Sep 2012 | 3100
+Oct 2012-Sep 2013 | 5600
+Oct 2013-Sep 2014 | 3000
+ | 
+Source: AnnualPopulation Survey (ONS) | 
+[/SHEET 2]
+
+
+[SHEET 3: Sole Prop]
+Title: Number of sole proprietor businesses by creative industry groupings in Kirklees | 
+ | 
+ | Number of sole proprietor businesses
+Advertising and marketing | 10
+Architecture | 0
+Crafts | 0
+Design: product, graphic and fashion design | 30
+Film, TV, video, radio and photography | 15
+IT, software and computer services | 30
+Publishing | 0
+Museums, galleries and libraries | 0
+Music, performing and visual arts  | 15
+ | 
+Source: ONS | 
+[/SHEET 3]
+
+
+[SHEET 4: Business size]
+Title: Breakdown of creative industry businesses in Kirklees by size |  |  | 
+ |  |  | 
+Industry | Total | Micro (0 to 9) | Small (10 to 49)
+Advertising and Marketing  |  |  | 
+7021 : Public relations and communication activities | 10 | 5 | 0
+7311 : Advertising agencies | 65 | 65 | 0
+7312 : Media representation | 15 | 15 | 0
+Total: Advertising and marketing | 90 | 85 | 0
+Architecture |  |  | 
+7111 : Architectural activities | 60 | 55 | 0
+Total: Architecture | 60 | 55 | 0
+Crafts |  |  | 
+3212 : Manufacture of jewellery and related articles | 5 | 5 | 0
+Total: Crafts | 5 | 5 | 0
+Design: product, graphic and fashion design |  |  | 
+7410 : Specialised design activities | 115 | 110 | 0
+Total: Design: product, graphic and fashion design | 115 | 110 | 0
+Film, TV, video and photography |  |  | 
+5911 : Motion picture, video and television programme production activities | 30 | 30 | 0
+5912 : Motion picture, video and television programme post-production activities | 0 | 0 | 0
+5913 : Motion picture, video and television programme distribution activities | 0 | 0 | 0
+5914 : Motion picture projection activities | 0 | 0 | 0
+6010 : Radio broadcasting | 0 | 0 | 0
+6020 : Television programming and broadcasting activities | 10 | 10 | 0
+7420 : Photographic activities | 30 | 30 | 0
+Total: Film, TV, video and photography | 70 | 70 | 0
+IT, software and computer services |  |  | 
+5821 : Publishing of computer games | 0 | 0 | 0
+5829 : Other software publishing | 5 | 5 | 0
+6201 : Computer programming activities | 135 | 135 | 0
+6202 : Computer consultancy activities | 305 | 295 | 10
+Total: IT, software and computer services | 445 | 435 | 10
+Publishing  |  |  | 
+5811 : Book publishing | 10 | 10 | 0
+5812 : Publishing of directories and mailing lists | 0 | 0 | 0
+5813 : Publishing of newspapers | 5 | 5 | 0
+5814 : Publishing of journals and periodicals | 10 | 5 | 0
+5819 : Other publishing activities | 15 | 10 | 0
+7430 : Translation and interpretation activities | 0 | 0 | 0
+Total: Publishing | 40 | 30 | 0
+Museums, galleries and libraries |  |  | 
+9101 : Library and archive activities | 20 | 15 | 5
+9102 : Museum activities | 5 | 0 | 0
+Total: Museums, galleries and libraries | 25 | 15 | 5
+Music, performing and visual arts  |  |  | 
+5920 : Sound recording and music publishing activities | 5 | 5 | 0
+8552 : Cultural education | 0 | 0 | 0
+9001 : Performing arts | 20 | 15 | 0
+9002 : Support activities to performing arts | 5 | 5 | 0
+9003 : Artistic creation | 45 | 45 | 0
+9004 : Operation of arts facilities | 0 | 0 | 0
+Total: Music, performing and visual arts | 75 | 70 | 0
+ |  |  | 
+Source: ONS  |  |  | 
+[/SHEET 4]
+
+
+[SHEET 5: VAT]
+Title: Total Number of Private Creative Industries businesses in Kirklees and Estimation of Proportion below VAT threshold |  | 
+ |  | 
+ | Total number of private businesses | Proportion estimated to be below VAT threshold 
+Advertising and marketing | 90 | 0.1111111111111111
+Architecture | 60 | 0
+Crafts | 5 | 0
+Design: product, graphic and fashion design | 115 | 0.2608695652173913
+Film, TV, video, radio and photography | 70 | 0.21428571428571427
+IT, software and computer services | 445 | 0.06741573033707865
+Publishing | 40 | 0
+Museums, galleries and libraries | 0 | 0
+Music, performing and visual arts  | 75 | 0.2
+ |  | 
+Source: ONS and BOP analysis  |  | 
+[/SHEET 5]
+
+
+[SHEET 6: GVA]
+Title: GVA of Creative Industries in Kirklees  |  |  | 
+ |  | % | 
+Advertising and marketing | 11387000 | 0.11276602065776052 | 
+Architecture | 5159000 | 0.05108983055882906 | 
+Crafts | 246000 | 0.0024361500906128998 | 
+Design: product, graphic and fashion design | 8242000 | 0.08162093108468098 | 
+Film, TV, video, radio and photography | 6246000 | 0.06185444498361045 | 
+IT, software and computer services | 63935000 | 0.6331514473306331 | 
+Publishing | 2510000 | 0.02485665336357064 | 
+Museums, galleries and libraries |  | 0 | 
+Music, performing and visual arts  | 3254000 | 0.03222452193030234 | 
+Total | 100979000 |  | 
+ |  |  | 
+Source: ONS and BOP analysis  |  |  | 
+[/SHEET 6]

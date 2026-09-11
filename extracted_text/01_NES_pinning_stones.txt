@@ -1,0 +1,200 @@
+From Pinning Stones to Convergence Economy
+
+Mapping of Creative Industries in Aberdeen and Aberdeenshire
+
+
+
+
+Prepared for Aberdeen City Council
+April 2026
+
+
+
+
+Iain Bennett and Lynne McCadden, The Fifth Sector
+Jon Bains, Obsolete.com
+Andy Goodwin and Simon Sprince, Unscrambled.world
+
+Preface: Two studies, conducted twelve years apart, reveal structural similarities
+In the winter of 2012–13, François Matarasso travelled across Aberdeenshire speaking to artists, makers, musicians, community organisers and cultural practitioners. He published his findings in 2014 as The Pinning Stones: Culture and Community in Aberdeenshire. It is a precise and honest assessment of a regional creative culture. Its central argument was structural rather than celebratory: that Aberdeenshire’s cultural life was rich, dispersed, self-reliant, largely invisible to policy, and, like the small stones set between the larger granite blocks of a traditional rubble wall, essential to holding everything together. Remove the pinning stones, he wrote, and the mortar cracks faster. The wall looks fine until it doesn’t.
+Twelve years later, this research arrives at a different place by a different route and finds, in several important respects, the same thing. And something more.
+The methodology is entirely different. Where Matarasso walked and talked, this analysis counted: LinkedIn profiles, company registrations, four tiers of workforce modelling, gross value added calculations, skills comparisons and place-based counterfactuals. Where Matarasso offered a humanist portrait, this report offers an economic audit. The core finding about scale and visibility is structurally identical to his: the region holds a creative economy that is significantly larger, more economically significant, and more strategically important than any official dataset records, and it is hidden in plain view.
+But this research finds something Matarasso’s lens could not have seen in 2014: a second structural asset, visible only to an entirely different set of lenses. The simulation and visualisation firms of the Westhill-Dyce corridor and the creative, marketing, and content agencies of Aberdeen City centre each hold precisely what the other commercially lacks. The gap between them is ten miles and the absence of any institution with the mandate to broker a connection. The analysis does not locate a deficit to be remedied, but locates a trading relationship waiting to be made.
+The question is why twelve years of intervening policy, strategy and investment have not closed the visibility gap that Matarasso first documented. The answer to that question is also the answer to the Regional Economic Strategy and Local Outcomes Improvement Plan question the commissioners are now asking.
+
+Part One: What this document is and who it is for
+1.1 Scope and purpose
+This document presents the findings of a comprehensive assessment of the creative economy of Aberdeen City and Aberdeenshire. It is addressed at once to Regional Economic Partnership members and local authority decision-makers; to practitioners and organisations working across the creative, cultural and digital sectors; and to any reader with an interest in how North East Scotland positions itself for sustained economic growth during a period of rapid structural transition.
+It draws on original analysis combining official government data, real-time company intelligence and workforce profiling with stakeholder consultation and comparative research. It makes the case for strategic investment grounded in evidence, identifies specific funding opportunities that are available now, and charts the growth pathways available at each level of a creative economy that is larger, more productive and more strategically distinctive than any previous account has recognised.
+1.2 Articulating the region’s creative economy
+North East Scotland contains three geographically disparate and commercially disconnected creative communities: 
+	•	The creative, marketing, and content production agencies in the City of Aberdeen hold the narrative capability, client management experience, and commissioning relationships through which major contracts flow. 
+	•	The second community is the one identified by Matarasso’s 2014 study, The Pinning Stones: Culture and Community in Aberdeenshire: distributed and often disconnected creative practitioners from Banff to Fraserburgh to Montrose and across rural Aberdeenshire, 
+	•	The third group, a cluster of  digital-technical firms collocated alongside the energy sector in Westhill,  hold world-class technical capability at concentrations far above those of comparable UK cities but have no connection, awareness of or stimulus to connect with the other two groups.
+Each is arriving at the limit of what its standalone capability can deliver. Neither currently has a commercial relationship with the other. The separation between them is entirely institutional: a product of geography, sectoral self-identification, and the absence of any mechanism through which a cultural and commercial exchange could be brokered.
+This finding sits alongside, and reinforces, the broader finding about scale. The creative economy of North East Scotland accounts for more than 10,700 workers, generates direct gross value added of £582 million, and produces a total annual economic impact of £894 million. Simply acknowledging that there could be greater convergence between those three disparate groups would raise those figures to 12,000 workers, £732 million in GVA and more than £1.1 billion in total economic impact. These figures are not visible in any current policy framework because the measurement tools applied to date were not designed to find them.
+1.3 Reframing the strategic question
+The tender for this research asked for evidence to demonstrate the position that creative industries should occupy in Regional Economic Strategy. That framing accepts the existing category of creative industries as the unit of analysis. The evidence from both Matarasso’s 2014 analysis and this 2026 research shows that framing is insufficient.
+The question the evidence demands is this: what distinctive role can the creative economy of North East Scotland play in sustaining communities through the energy transition, economically, socially, and culturally, in ways that no other region in the United Kingdom is positioned to deliver?
+This reframing has four immediate consequences. 
+	•	It changes the competitive frame: the region does not need to compete with the Central Belt or London in conventional creative industries terms. What the region can offer, and what no other UK city or region can match, is the combination of industrial-scale simulation capability, authentic energy domain knowledge, and the rural-coastal cultural identity that makes technical storytelling about the energy transition credible to international clients and communities. 
+	•	It changes the measurement framework: if the question is about sustaining communities through transition, then gross value added is one measure but the Local Outcomes Improvement Plan outcome domains become equally important. 
+	•	It changes the policy architecture, removing a false binary choice between investment in digital sectors and creative industries, and argues that the right approach is a sequenced strategy that addresses different populations at different timescales. 
+	•	It calls for a change to current institutional configuration: no existing body is currently configured to provide solutions that respond to the evidence presented in this research, and the answer is a new mandate rather than a new agency.
+How this document is organised
+Part Two documents how the economy was measured and explains why previous accounts of this economy have understated it. Part Three presents a new four-tier economic model and its aggregate findings. Part Four analyses the convergence opportunity. Part Five gives an overview of skills supply. Part Six correlates data analysis with findings from primary research. Part Seven describes the cultural ecosystem as economic infrastructure, including its role in the city centre. Part Eight documents the structural challenge of the organisational “churn” that results from time-bound public funding. Part Nine sets out five growth strategies. Part Ten presents five strategic recommendations. Appendices provide the full methodology, skills dashboard data, case studies, funding landscape detail, options assessments and policy playbook.
+
+Part Two: Scale and significance of the Creative Industries in North East Scotland
+2.1 What this analysis measures, and how
+National statistics are designed to count employment within registered companies. The structural and methodological limitations of applying those measures to analysis of the creative industries are well known and documented. In particular, national statistics typically fail to count creative capability that exists outside registered creative sector employers, or technical capability within non-creative sector firms that has a creative origin and a creative application. In a regional economy structured like that of North East Scotland, both of these omissions are significant.
+This research applies a methodology that works across three distinct layers of evidence: official employment and company registration data, real-time firmographic classification derived from company website analysis, and LinkedIn workforce profiling treated as a large-scale occupational survey. These are reconciled through a sequence of analytical steps designed to avoid both double-counting and systematic exclusion. The result is a more complete structural picture than official statistics alone can provide, identifying firms and workers not captured by previous analyses. The differences in scale and composition that follow reflect what becomes visible when the frame of analysis is widened to match the actual shape of the economy being studied. It also reflects Throsby and Bakhshi’s recommendations that analysis should reflect three different but complementary types of value: economic value (gross value added, employment, exports); non-market cultural value (cultural goods’ intrinsic and social worth); and symbolic and heritage value (longer-run identity and heritage impacts).
+2.2 Official baseline
+Standard approaches to measuring creative industries rely on two official data sources: the Business Register and Employment Survey (BRES), which counts formally employed workers in registered businesses; and the Inter-Departmental Business Register (IDBR), which records companies by their declared Standard Industrial Classification (SIC) code, the system used to categorise businesses by their primary economic activity at the point of registration. Both systematically undercount the creative economy in Aberdeen City and Aberdeenshire.
+Employees
+BRES data for Aberdeen City and Aberdeenshire, filtered against creative industries SIC codes and adjusted to remove general IT consultancy, produces a count of 4,965 full and part-time employees. 
+Of that total, the IT consultancy sub-sector (SIC 62.02) accounts for between 1,400 and 1,600 full and part-time jobs and an estimated £150 million in gross value added. Detailed analysis of sector intelligence and stakeholder consultation confirm that this activity functions primarily as enterprise support for the whole economy, in particular for the energy sector. This part of the workforce is already recognised in Opportunity North East’s mapping of the digital sector in North East Scotland; including them in our assessment of Creative Industries would inflate the creative economy data while misrepresenting its character. As the comparison in Table 1 shows, it has also been a volatile employment sector in recent years; for those reason, and to avoid double counting, we exclude this section of the workforce from the resulting total of around 3,300 employees who form the basis of our assessment of the strategic creative core (see Part Three, below).
+Table 1 Count of Creative Industries full-time and part-time employees, Aberdeen and Aberdeenshire, 2024
+Creative Industries
+BRES 2023
+BRES 2024
+Advertising and marketing
+255
+180
+Architecture
+400
+400
+Crafts
+20
+10
+Design and designer fashion
+250
+160
+Film, TV, video, radio and photography
+455
+370
+IT, software and computer consultancy
+2,300
+2,150
+Publishing
+270
+200
+Museums, Galleries and Libraries
+435
+760
+Music, performing and visual arts
+580
+460
+Total Creative Industries
+        4,965 
+4,690
+Excluding 62.02 – Computer consultancy
+1,600
+1,400
+Total for sector analysis
+3,305
+3,290
+
+Source: The Fifth Sector analysis of Business Register and Enterprise Survey, via Nomisweb
+Business base
+We apply a similar methodology to assessment of company numbers using IDBR, which  similarly identifies DCMS Creative Industries sub-sectors using SIC codes at the four-digit level. We first count the total number of businesses (to retain national comparability) and then provide a further calculation which excludes SIC 62.02 to avoid distortion of the scale and structure of the region’s “core” Creative Industries and double-counting of firms already captured in the ONE Digital sector analysis. 
+ Table 2  Creative Industries business count in Aberdeen and Aberdeenshire, 2024-25
+Creative Industries business counts
+IDBR 2025
+Advertising and marketing
+70
+Architecture
+120
+Crafts 
+10
+Design and designer fashion
+110
+Film, TV, radio and photography
+85
+IT, software and computer services
+435
+Publishing
+25
+Museums, Galleries and Libraries
+50
+Music, performing and visual arts
+85
+Total (Creative Industries)
+990
+Excluding 62.02 - Computer consultancy
+290
+Total for sector analysis
+700
+
+Source: The Fifth Sector analysis of Interdepartmental Business Review, via Nomisweb
+
+2.3 Real-time data sources
+Real-time workforce data
+BRES data forms the floor of the workforce analysis: the population whose economic activity is formally registered, reliably counted and analytically secure. It captures the region’s publicly funded cultural institutions, its registered design and architecture practices, and its other commercial creative firms; but it misses the large population of self-employed and freelance practitioners who are neither employed by a firm nor registered as an employer. In a sector where over 90% of registered creative enterprises employ fewer than ten people, and where many practitioners operate through portfolio working, part-time activity and informal contracts, this is a methodological shortcoming rather than a marginal omission. 
+We address this through analysis of LinkedIn profiles, treating the platform as a large pre-filled workforce survey rather than a social media tool, to identify more than 8,000 unique profiles of residents of North East Scotland working in Creative Industries, with a further 4,000 IT services and IT consultancy occupations. Excluding the IT services and consultancy component, comparing LinkedIn data with BRES provides evidence of more than 1,500 additional employees and 3,280 self-employed and freelance workers not captured in official employment statistics.
+Table 3  Evidence of creative workforce in Aberdeen and Aberdeenshire from LinkedIn, September 2025
+Total workforce
+8,455
+100%
+Employment 
+
+
+Full-time employees
+3,735
+44%
+Part-time employees
+1,140
+13%
+Sub-total: employees
+4,875
+58%
+Contractor
+925
+11%
+Internship 
+485
+6%
+Self Employed
+365
+4%
+Freelance
+1,505
+17%
+Sub-total: freelance + self employed
+3,280
+39%
+Total roles
+8,155*
+95%
+
+* Discrepancy between workforce total of 8,455 and total roles results from the fact that not all subscribers provide detail of their employment type 
+Source: The Fifth Sector and Unscrambled.world analysis of LinkedIn, September 2025
+Real-time companies’ data
+IDBR measurement of business populations suffers from similar limitations to those of BRES. We used The Data CityTM Industry Engine to validate data from IDBR, and to distinguish active regional operations from holding companies, dormant registrations, and businesses registered in the region but operating primarily elsewhere.
+The Data City platform analyses company website content and other proprietary data sources to assign Real-Time Industrial Classifications to companies: descriptions of what firms actually do rather than how they are officially classified. This reveals a differently configured population of active creative businesses from that shown in official statistics, particularly in the Createch sub-sector (creative technology: firms applying creative methods to digital and technological products and services). All company identifications were subject to human validation to confirm operational presence in the region and to exclude subsidiaries with no substantive local operation.
+Analysis of the Industry Engine provided evidence of over 1,700 companies registered under at least one of the DCMS Creative Industries SIC codes with either a registered office or commercial activity undertaken in North East Scotland; further analysis and validation using The Data City’s Real Team Industry Classifications and manual validation of the company’s activities reduced this to list of around 1,200 active companies, from which a further 280 companies were excluded as being primarily computer consultancy businesses. (A detailed description of the methodology used can be found at Appendix B, below).  
+Part Three: A creative economy in four tiers
+3.1 The four-tier model: construction logic
+A four-tier model was constructed to reflect the actual structure of the regional creative economy rather than the categories imposed by official classification. Each tier is defined by its relationship to formal employment statistics, by its economic character, and by its function in the wider ecology. 
+Table 4  Scale and dimensions of the Strategic Creative Core in Aberdeen and Aberdeenshire, 2026
+Definition & methodology
+Registered businesses
+Headcount
+FTE Intensity
+FTE Total
+Tier 1: Institutional anchors Source: BRES. Publicly funded culture, museums, libraries, and major performing arts venues. High incidence of part-time working.
+65
+1,180
+0.68
+800
+Tier 2: SME commercial creative core Sources: BRES and The Data City Industry Engine. Registered businesses in Creative Industries sub-sectors excluding IT Consultancy. High full-time stability.
+855
+4,340
+0.91
+3,950
+Tier 3: Visible freelancers Source: LinkedIn status. Independent professionals in DCMS Creative Industries sub-sector and CreaTech occupations identifying as "Freelance", “Self Employed”, "Contractor" or “Intern”.
+-
+3,240
+0.75
+2,430
+Tier 4: Invisible workforce Source: Penetration gap analysis. Practitioners in core cultural sectors (Arts, Crafts, Music), portfolio workers and shared utility staff not captured by LinkedIn.
+-

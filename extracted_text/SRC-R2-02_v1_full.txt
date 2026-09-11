@@ -1,0 +1,743 @@
+
+Mapping of creative industries in Aberdeen and Aberdeenshire
+
+Prepared for Aberdeen City Council
+May 2026
+
+Iain Bennett and Lynne McCadden, The Fifth Sector
+Jon Bains, Obsolete.com
+Andy Goodwin and Simon Sprince, Unscrambled.world
+
+Preface: Two studies, twelve years apart
+In the winter of 2012-13, Francois Matarasso travelled across Aberdeenshire speaking to artists, makers, musicians, community organisers and cultural practitioners. He published his findings in 2014 as The Pinning Stones: Culture and Community in Aberdeenshire. It is a precise and honest assessment of a regional creative culture. Its central argument was structural rather than celebratory: that Aberdeenshire's cultural life was rich, dispersed, self-reliant, largely invisible to policy, and, like the small stones set between the larger granite blocks of a traditional rubble wall, essential to holding everything together. Remove the pinning stones, he wrote, and the mortar cracks faster. The wall looks fine until it doesn't.
+Twelve years later, this research arrives at a different place by a different route and finds, in several important respects, the same thing. And something more.
+The methodology is entirely different. Where Matarasso walked and talked, this analysis counted: LinkedIn profiles, company registrations, four tiers of workforce modelling, gross value added calculations, skills comparisons and place-based counterfactuals. Where Matarasso offered a humanist portrait, this report offers an economic audit. The core finding about scale and visibility is structurally identical to his: the region holds a creative economy that is significantly larger, more economically significant, and more strategically important than any official dataset records, and it is hidden in plain view.
+But this research finds something Matarasso's lens could not have seen in 2014: a separate convergence opportunity. Technical firms with transferable creative-digital capability and creative firms with energy-sector client relationships operate alongside one another, but often unaware of each other. A strategic focus on turning that coexistence into effective cooperation could unlock opportunities to grow the region's creative economy in ways that reinforce a just transition from dependence on fossil fuels. The report puts forward ways to market test and exploit those nascent synergies.
+The report casts new light on these opportunities, as well as those presented by the city's creative core and the distinctive strengths of cultural life in the region's urban and coastal districts. It seeks to close the visibility gap that Matarasso first documented; and in doing so, it looks to demonstrate how the creative economy can be identified as a critical success factor in both Regional Economic Strategy and the Local Outcomes Improvement Plan.
+
+Part one: What this document is and who it is for
+1.1 Scope and purpose
+This document presents the findings of a comprehensive assessment of the creative economy of Aberdeen City and Aberdeenshire. It is addressed at once to Regional Economic Partnership members and local authority decision-makers; to practitioners and organisations working across the creative, cultural and digital sectors; and to any reader with an interest in how North East Scotland positions itself for sustained economic growth during a period of rapid structural transition.
+It draws on original analysis combining official government data, real-time company intelligence and workforce profiling with stakeholder consultation and comparative research. It makes the case for strategic investment grounded in evidence, identifies specific funding opportunities that are available now, and charts the growth pathways available at each level of a creative economy that is larger, more productive and more strategically distinctive than any previous account has recognised.
+1.2 Articulating the region's creative economy
+North East Scotland contains three geographically dispersed and commercially disconnected creative communities:
+City-centre creative, marketing and content production agencies hold narrative capability, client management experience and commissioning relationships.
+Rural and coastal creative practitioners operate across Aberdeenshire and the north-east coast, often outside registered business structures.
+Technical firms with transferable creative-digital capability sit across the four convergence geographies identified in Part Four: city centre; a corridor running from Westhill to Dyce; south Aberdeen and Stonehaven; and Inverurie and Kintore.
+Each community has capability that matters to the region's future creative economy. The evidence shows that the base creative economy is larger than official datasets record: 10,490 workers, 7,715 FTE, £453 million in direct GVA and £675 million in total economic impact. It does not yet prove that these communities are already selling into the same markets, or that demand for new forms of creative experience is large enough to support a new growth programme; it identifies potential growth that requires market testing.
+1.3 Strategic significance of creative industries in North East Scotland
+The evidence gathered here points to the distinctive role that the creative economy of North East Scotland can play in sustaining communities through the energy transition, economically, socially, and culturally, in ways that no other region in the United Kingdom is positioned to deliver.
+The significance of the creative economy exists across four dimensions:
+The region has distinctive strengths: it does not need to compete with the Central Belt or London in conventional creative industries terms. What the region can offer, and what no other UK city or region can match, is the combination of industrial-scale simulation capability, authentic energy domain knowledge, and the rural-coastal cultural identity that makes technical storytelling about the energy transition credible to international clients and communities.
+Recognising the gross value added contribution made by creative industries and how to increase that is significant: but if the question is about sustaining communities through transition, strategy for the sector needs to recognise that the Local Outcomes Improvement Plan outcome domains are equally important.
+The evidence contradicts a false binary choice between investment in digital sectors and creative industries, and argues that the right approach is a sequenced strategy that addresses different populations at different timescales.
+Addressing those combined opportunities calls for a change to current institutional governance: no existing body is currently configured to provide solutions that respond to the evidence presented in this research, and the answer is a new mandate rather than a new agency.
+How this document is organised
+Part Two documents how the economy was measured and explains why previous accounts of this economy have understated it. Part Three presents a new four-tier economic model and its aggregate findings. Part Four analyses the convergence opportunity. Part Five gives an overview of skills supply. Part Six correlates data analysis with findings from primary research. Part Seven describes the cultural ecosystem as economic infrastructure, including its role in the city centre. Part Eight documents the structural challenge of the organisational churn that results from time-bound public funding. Part Nine sets out five growth strategies. Part Ten presents five strategic recommendations.
+The detailed evidence, methodology and data tables supporting this summary are set out in Parts Two to Nine, with technical detail in Appendices A to F.
+
+Part two: Scale and significance of the creative industries in North East Scotland
+2.1 What this analysis measures, and how
+National statistics are designed to count employment within registered companies. The structural and methodological limitations of applying those measures to analysis of the creative industries are well known and documented. In particular, national statistics typically fail to count creative capability that exists outside registered creative sector employers, or technical capability within non-creative sector firms that has a creative origin and a creative application. In a regional economy structured like that of North East Scotland, both of these omissions are significant.
+This research applies a methodology that works across three distinct layers of evidence: official employment and company registration data, real-time firmographic classification derived from company website analysis, and LinkedIn workforce profiling treated as a large-scale occupational survey. These are reconciled through a sequence of analytical steps designed to avoid both double-counting and systematic exclusion. The result is a more complete structural picture than official statistics alone can provide, identifying firms and workers not captured by previous analyses. The differences in scale and composition that follow reflect what becomes visible when the frame of analysis is widened to match the actual shape of the economy being studied. It also reflects Throsby and Bakhshi's recommendations that analysis should reflect three different but complementary types of value: economic value (gross value added, employment, exports); non-market cultural value (cultural goods' intrinsic and social worth); and symbolic and heritage value (longer-run identity and heritage impacts).
+2.2 Official baseline
+Standard approaches to measuring creative industries rely on two official data sources: the Business Register and Employment Survey (BRES), which counts formally employed workers in registered businesses; and the Inter-Departmental Business Register (IDBR), which records companies by their declared Standard Industrial Classification (SIC) code. Both systematically undercount the creative economy in Aberdeen City and Aberdeenshire.
+Employees
+BRES data for Aberdeen City and Aberdeenshire, filtered against creative industries SIC codes and adjusted to remove general IT consultancy, produces a count of 4,965 full and part-time employees.
+Of that total, the IT consultancy sub-sector (SIC 62.02) accounts for between 1,400 and 1,600 full and part-time jobs and an estimated £150 million in gross value added. Detailed analysis of sector intelligence and stakeholder consultation confirm that this activity functions primarily as enterprise support for the whole economy, in particular for the energy sector. This part of the workforce is already recognised in Opportunity North East's mapping of the digital sector in North East Scotland; including them in our assessment of creative industries would inflate the creative economy data while misrepresenting its character. As the comparison in Table 1 shows, it has also been a volatile employment sector in recent years; for those reasons, and to avoid double counting, we exclude this section of the workforce from the resulting total of around 3,300 employees who form the basis of our assessment of the strategic creative core (see Part Three, below).
+Table 1  Count of creative industries full-time and part-time employees, Aberdeen and Aberdeenshire, 2024
+Source: The Fifth Sector analysis of Business Register and Enterprise Survey, via Nomisweb
+
+Business base
+We apply a similar methodology to assessment of company numbers using IDBR, which similarly identifies DCMS creative industries sub-sectors using SIC codes at the four-digit level. We first count the total number of businesses (to retain national comparability) and then provide a further calculation which excludes SIC 62.02 to avoid distortion of the scale and structure of the region's core creative industries and double-counting of firms already captured in the ONE Digital sector analysis.
+Table 2  Creative industries business count in Aberdeen and Aberdeenshire, 2024-25
+Source: The Fifth Sector analysis of Interdepartmental Business Review, via Nomisweb
+
+2.3 Real-time data sources
+Real-time workforce data
+BRES data forms the floor of the workforce analysis: the population whose economic activity is formally registered, reliably counted and analytically secure. It captures the region's publicly funded cultural institutions, its registered design and architecture practices, and its other commercial creative firms; but it misses the large population of self-employed and freelance practitioners who are neither employed by a firm nor registered as an employer. In a sector where over 90% of registered creative enterprises employ fewer than ten people, and where many practitioners operate through portfolio working, part-time activity and informal contracts, this is a methodological shortcoming rather than a marginal omission.
+We address this through analysis of LinkedIn profiles, treating the platform as a large pre-filled workforce survey rather than a social media tool, to identify more than 8,000 unique profiles of residents of North East Scotland working in creative industries, with a further 4,000 IT services and IT consultancy occupations. Excluding the IT services and consultancy component, comparing LinkedIn data with BRES provides evidence of more than 1,500 additional employees and 3,280 self-employed and freelance workers not captured in official employment statistics.
+Table 3  Evidence of creative workforce in Aberdeen and Aberdeenshire from LinkedIn, September 2025
+* Discrepancy between workforce total of 8,455 and total roles results from the fact that not all subscribers provide detail of their employment type.
+Source: The Fifth Sector and Unscrambled.world analysis of LinkedIn, September 2025
+
+Real-time company data
+IDBR measurement of business populations suffers from similar limitations to those of BRES. We used The Data City Industry Engine to validate data from IDBR, and to distinguish active regional operations from holding companies, dormant registrations, and businesses registered in the region but operating primarily elsewhere.
+The Data City platform analyses company website content and other proprietary data sources to assign Real-Time Industrial Classifications to companies: descriptions of what firms actually do rather than how they are officially classified. This reveals a differently configured population of active creative businesses from that shown in official statistics, particularly in the Createch sub-sector (creative technology: firms applying creative methods to digital and technological products and services). All company identifications were subject to human validation to confirm operational presence in the region and to exclude subsidiaries with no substantive local operation.
+Analysis of the Industry Engine provided evidence of over 1,700 companies registered under at least one of the DCMS creative industries SIC codes with either a registered office or commercial activity undertaken in North East Scotland; further analysis and validation using The Data City's Real-Time Industry Classifications and manual validation of the company's activities reduced this to a list of around 1,200 active companies, from which a further 280 companies were excluded as being primarily computer consultancy businesses. A detailed description of the methodology used can be found at Appendix B.
+Full data tables and classification methodology supporting this analysis are set out in Appendices A and B.
+
+Part three: A creative economy in four tiers
+3.1 The four-tier model: construction logic
+A four-tier model was constructed to reflect the actual structure of the regional creative economy rather than the categories imposed by official classification. Each tier is defined by its relationship to formal employment statistics, by its economic character, and by its function in the wider ecology.
+Table 4  Scale and dimensions of the strategic creative core in Aberdeen and Aberdeenshire, 2026
+Source: The Fifth Sector (2026) analysis of BRES and LinkedIn. Totals rounded to nearest 5.
+
+3.2 Tier 1: Institutional anchors
+Identified through BRES and confirmed against Creative Scotland funding records, Tier 1 comprises 65 organisations, including public library sites, museum and gallery sites and performing arts anchor organisations and venues in Aberdeen and Aberdeenshire. It accounts for some 1,210 workers (equivalent to 860 full-time roles, reflecting the high incidence of part-time, casual and sessional working common in event-led cultural organisations).
+The Creative Scotland Multi-Year Funding portfolio, confirmed for 2025 to 2028 with awards to Aberdeen Performing Arts (£1.69 million), Peacock and The Worm (£1 million), Citymoves Dance Agency (£450,000), Sound Festival (£350,000), North East Arts Touring (£400,000) and The Barn (£500,000), provides the structural security that has distinguished these organisations from those that have not survived the past decade. The correlation between multi-year structural funding and institutional durability is explored in more detail in Part Seven.
+3.3 Tier 2: SME commercial core
+Identified primarily through BRES and augmented by Data City real-time classification analysis, particularly in the Createch, video production and digital agency sectors, Tier 2 as a whole comprises registered businesses in architecture, design, advertising, creative software, film, television, music, visual and performing arts and related fields. It accounts for some 3,845 workers (3,445 FTE, reflecting high full-time stability).
+Two specific sub-sectors drive the high performance of this tier:
+Architecture and built environment: employing approximately 400 staff with high full-time intensity (0.91 FTE), this sector is a historical strength of the region, supported by ongoing urban regeneration and legacy demand from the oil and gas sector and new opportunities in capital projects for the renewable energy sector.
+CreaTech: excluding general IT support from our analysis allows us to more clearly observe a robust cluster of high-value creative software, film/TV/video and gaming firms. This sub-sector functions as the region's productivity engine, delivering GVA per head markedly higher than the creative sector average.
+3.4 Tier 3: Visible freelancers
+Identified through verified LinkedIn data, Tier 3 comprises 3,400 independent professionals (2,550 FTE) describing themselves as freelance, self-employed or contractors, working across advertising, marketing, film, television and video production, games development, photography, publishing and Createch.
+As well as filmmakers and others creating original IP, there is a cohort of freelance professionals offering marketing and design services on digital platforms to B2B clients across the region. This tier provides a critical mass of flexible, skilled practitioners, whose presence allows commercial creative SMEs and Tier 1 cultural anchor institutions to rapidly scale capacity to meet short-term project opportunities without increasing overheads.
+In a sector characterised by short-term commissions and variable demand, a deep and visible freelance pool is a structural competitive advantage.
+3.5 Tier 4: The invisible workforce
+Tier 4 is inferred from penetration gap analysis: the difference between the estimated total population of creative practitioners in low-digital sub-sectors and the proportion identifiable through LinkedIn and official data. Independent musicians, artists, writers and craft makers show LinkedIn penetration rates estimated at 30% to 45%, against over 80% for technology and design professionals. The estimate of 1,855 individuals (835 FTE) is derived from this gap, using workspace density modelling, open studio participation data, trade body membership analysis.
+The Tier 4 population spans three distinct registers. At one end are practitioners for whom creative work is a primary professional activity generating substantial commercial revenue: internationally trading makers, working artists with established gallery and retail relationships, musicians with professional performance income. At the other end are those for whom creative work is a serious sustained vocation rather than a primary income source. Between them are the portfolio workers for whom creative practice is one strand of a mixed economy. All three segments are invisible to BRES, to IDBR, and to LinkedIn analysis, but together they are a significant source of employment in the regional economy. The FTE intensity of 0.45 applied to this tier reflects the wide range of activities within Tier 4: it is an average of those in full-time work and the greater prevalence of part-time and portfolio working. A further 180 FTE of shared utility employment in hospitality and events is attributed to this tier using the same methodology, giving a combined total of 2,035 and 860 FTE.
+Tier 4's significance is cultural, social, and foundational to the tier structure above it. These are the practitioners who carry the craft and making traditions, silversmithing, textiles, applied arts, that represent some of the region's most distinctive cultural strengths, sustain the community infrastructure that makes the region worth living in, and supply the creative imagination that the commercial tiers draw on.
+3.6 Economic impact
+Gross value added estimates are derived from ONS regional output data apportioned to SIC codes on the basis of official employment, benchmarked against sector averages from Data City company records and DCMS economic estimates, and adjusted for the full-time equivalent intensity that characterises each tier's employment structure. Total economic impact is calculated by applying Type II multipliers to each tier's direct gross value added figure.
+Estimates of direct GVA have been calculated using a combination of:
+Analysis of ONS data on regional output at Division level, apportioned to SIC codes representing the creative industries on the basis of official employment data.
+Sector averages for GVA per capita benchmarked against evidence from companies' records parsed via The Data City and DCMS economic estimates for the creative industries.
+Calculation of FTE intensity reflected in the differing employment structures which characterise each of the four tiers of strategic creative core sectors.
+Table 5  Gross value added of creative industries in Aberdeen and Aberdeenshire, 2025
+Source: The Fifth Sector, 2026
+
+Together the four tiers account for a total creative workforce of 10,490 people, equivalent to 7,715 full-time roles, generating direct gross value added of £453 million and a total annual economic impact of £675 million. These are not the figures of a peripheral cultural amenity. They are the figures of an economy with the scale to justify serious strategic investment, the distinctiveness to make a credible case for national and international funding, and the structural fragility, at the freelance and connective sector levels, that makes investment urgent.
+Type II multipliers
+Type II multipliers, as defined by the Scottish Government, include direct, indirect and induced effects, measuring the total economic impact of a change in final demand for an industry's output and accounting for how increased spending ripples through the economy, affecting suppliers and household income. For example, a multiplier of 1.40 means that for every £1.00 of direct GVA generated by the sector, an additional £0.40 is generated in the wider regional economy through these knock-on effects.
+The three components are:
+Direct effects: the GVA generated by the sector itself, the output of the creative firms, freelancers and practitioners measured in the four-tier model.
+Indirect effects: the GVA generated in the supply chain as creative firms and workers spend on inputs: rent, equipment, software, professional services, print, materials. This is what distinguishes Tier 2's multiplier of 1.60 from the others, as its extensive local supply chain relationships mean more of its indirect spend stays in the regional economy rather than leaking out.
+Induced effects: the GVA generated as employees and self-employed workers spend their earnings in the local economy: housing, food, retail, leisure. This is the primary driver of Tier 3's multiplier of 1.40 despite lower supply chain depth, as freelancers tend to spend higher proportions of income locally than employees of geographically dispersed large firms.
+The weighted average multiplier of 1.49 across the four tiers is slightly above the Scottish Government's published average of 1.48 for the creative industries sector.
+Table 6  Type II economic impact analysis for the strategic creative core
+Source: The Fifth Sector (2026). All amounts rounded to the nearest £1 million.
+
+
+Part four: The convergence opportunity
+4.1 Spatial and sectoral dimensions
+Standard creative industries cluster analysis, as set out in the Creative Industries Policy and Evidence Centre's research (Newcastle University, December 2023), assumes geographic concentration: firms dense enough to generate shared labour markets, knowledge spillovers and commercial collaboration.
+North East Scotland does not have a creative cluster by that standard. Creative firms are distributed across a geography running from Fraserburgh in the north to the southern boundary of Aberdeenshire, from Aberdeen city centre to rural market towns and coastal communities. The density required for conventional cluster dynamics is absent.
+The evidence therefore has to be read in two ways: by type of activity and by location. The activity types describe different kinds of creative work and different policy needs. The locations show where those types are concentrated. Treating either one as the whole story risks confusing city-centre creative businesses, rural cultural practice and energy-adjacent creative-digital capability.
+Three types of creative activity are visible in the evidence, each with different characteristics and different investment needs.
+City-centre commercial creative core. A concentration of small and micro-businesses in advertising, PR, design, architecture and screen production, strongest across Aberdeen's inner postcodes (AB10, AB11, AB15, AB24 and AB25). This is the closest the region has to a conventional creative cluster, with established energy sector client relationships, narrative capability and strategic design skills.
+Rural and coastal creative base. A distributed population of individual artists, makers, musicians and community practitioners across Aberdeenshire and the north-east coast. Most operate outside registered business structures and every conventional dataset. Their economic contribution is invisible in BRES and substantially invisible in LinkedIn. This population requires a different policy logic: connectivity, peer infrastructure and mobile support, rather than place-based cluster investment.
+Creative-digital convergence capacity. A pattern of creative-technical activity, identified across four geographic concentrations and not previously measured as a distinct economic contribution. These concentrations are locations, not a separate creative typology in themselves: city centre, Westhill-Dyce, south Aberdeen and Stonehaven, and Inverurie and Kintore each contain different mixes of existing creative-digital firms, latent technical capacity and excluded energy-industrial firms. This convergence capacity forms the subject of the rest of this section.
+4.2 Convergent creative capability: what it is and where it appears
+This research identified, across four geographic concentrations, a population of firms whose work sits at the intersection of technical and creative disciplines. Standard creative industries statistics, which classify firms by SIC code, do not capture much of this population. Some are registered CCI businesses with strong technical skills. Others are technology companies whose work in simulation, three-dimensional visualisation, digital twin development and geospatial analytics uses the same tools, platforms and workflows as the creative technology sector, while classified under engineering or IT services codes.
+Two questions matter for economic policy. First: what part of this population is already part of the base creative economy and therefore must not be double-counted? Second: what adjacent technical capacity could become a growth opportunity as oil and gas employment contracts?
+On the base case: 1,006 firms across the four areas, described as Group A, are registered CCI businesses or hold confirmed creative-digital classification. They generate £234.0 million in measured direct GVA and employ 2,649 workers in registered employment. Their activity is evidence of the existing creative-digital commercial base and should be treated as a subset of the base model, primarily within Tiers 2 and 3 rather than as additional output.
+On growth opportunity: a further 90 firms, described as Group B, hold technical capability relevant to creative markets but have clients currently concentrated in oil and gas or adjacent technical markets. They generate £115.2 million in measured GVA and employ 1,762 workers in registered employment. This measured GVA is not claimed as enhanced creative sector output. It indicates the scale of adjacent capacity that could become relevant to creative-digital markets, subject to further work to estimate addressable market size and verify demand.
+The four geographic concentrations are Aberdeen city centre (AB10, AB11, AB15, AB24 and AB25), the Westhill-Dyce corridor (AB21, AB22, AB23 and AB32), south Aberdeen and Stonehaven (AB12 and AB39), and Inverurie and Kintore (AB51).
+4.3 City centre
+City centre is the dominant concentration by every measure: 790 firms, of which 607 hold creative-digital classification (Group A), generating £156.7 million in measured direct GVA and employing 1,823 workers. A further 55 firms (Group B) hold technical capability that could serve creative markets; their measured GVA is £88.6 million, with 1,359 registered employees.
+Twelve of the 607 Group A firms hold explicit RTIC classifications in immersive technologies, geospatial economy, design and modelling, or robotics: the highest concentration of confirmed core creative-technical capability across all four areas. City centre holds the brief, the client relationship and the commissioning infrastructure. What it currently lacks is the technical depth in simulation, immersive production and digital twin development to deliver high-value energy transition communication work without subcontracting to agencies in Edinburgh or London. That technical depth sits ten miles to the northwest.
+One hundred and twenty-eight firms in the city centre show no confirmed creative-digital capacity in their trading evidence. They are false positives for the purposes of this convergence analysis: firms whose SIC codes, websites or technical descriptions generate an initial signal without confirming creative-digital activity. They are excluded from creative economy calculations.
+4.4 Westhill-Dyce corridor
+The AB21 to AB32 corridor, covering Dyce, Bridge of Don and Westhill, reflects the geography of Aberdeen's offshore energy services sector, but it is not simply an energy-industrial corridor. The company data identifies registered CCI firms, creative-digital firms and adjacent technical firms operating in the same geography.
+Analysis of actual trading activity, through Real-Time Industrial Classification of website content and LinkedIn workforce signals, identifies 201 firms (Group A) with creative-digital characteristics, generating measured direct GVA of £46.5 million with 451 workers in registered employment. A further 17 firms (Group B) have latent creative capacity, with measured GVA of £12.9 million and 103 registered employees.
+The corridor's character is micro-enterprise. Of the 258 firms identified, 112 are sole-director companies: active registered businesses whose director is also the entire workforce. A further 34 employ between one and five people. Only three firms employ more than 50 people. Aggregate capability is not apparent from individual scale.
+Forty firms in the corridor are false positives on the same basis as those in the city centre: firms that appear in the initial data pull but do not show confirmed creative-digital or latent creative capacity in their trading evidence. They are excluded from creative economy calculations and are noted here to explain the difference between the 258-firm corridor population and the 218 firms (201 Group A plus 17 Group B) that constitute the convergence analysis.
+Workforce skills data provides the corridor's strongest evidence and connects it to the other concentrations. North East Scotland holds 2,298 practitioners with simulation skills, 3.5 times the per capita concentration of the Nottingham comparator, alongside surpluses of 5.7 times in VFX and 4.4 times in 3D design workflows. These skills were built through decades of offshore operations. They exist in the workforce now, across all four concentrations, but the size of the creative-digital market that could absorb them remains to be estimated.
+4.5 South Aberdeen and Stonehaven
+South Aberdeen and Stonehaven (AB12 and AB39) has a comparable energy-sector-adjacent technical profile to the Westhill-Dyce corridor, reflecting the supply chain geography south of the city along the A90. It has not previously been part of convergence analysis.
+Of its 139 firms, 104 (Group A) generate £15.7 million in measured direct GVA with 186 workers. Ten Group B firms generate £12.3 million in measured GVA with 280 registered employees. Five firms hold explicit RTIC classifications in 3D modelling, geospatial analytics or advanced manufacturing with simulation, a higher proportional concentration of confirmed core capability than Westhill-Dyce. Twenty-five firms are false positives and are excluded on the same basis as those in the corridor and city centre.
+The same connectivity and transition arguments apply here as in Westhill-Dyce. The firms are different, but the policy problem is the same.
+4.6 Inverurie and Kintore
+Of 112 firms in Inverurie and Kintore (AB51), 94 (Group A) generate £15.1 million in measured direct GVA with 189 workers. Eight Group B firms generate £1.4 million in measured GVA with 20 registered employees. Ten firms are false positives and excluded.
+RTIC profiles here differ from the corridor clusters: digital creative industries, agency market, software development, geospatial economy and AI technologies are the dominant classifications. Inverurie is structurally closer to city centre's creative commercial character than to the energy-sector-adjacent technical population of Westhill-Dyce. Its firms include design and marketing agencies serving the regional market alongside technically capable operators in geospatial analytics and AI. Inverurie is the natural node for rural-to-city creative connectivity, linking Aberdeenshire practitioners to city centre agency markets and, through them, to energy transition clients.
+4.7 Skills: what each community holds
+To characterise the capability profiles across the four concentrations, this research compared LinkedIn Talent Insights data for North East Scotland against Nottingham city, normalised against confirmed LinkedIn profile bases of 219,256 and 357,597 profiles respectively. Nottingham was selected for comparable extraction area scale and similar distance from the dominant national creative economy. The comparison identifies distinctive concentrations and relative absences, not shortfalls against a benchmark.
+Technical surpluses in simulation (3.5 times the Nottingham per capita rate), VFX (5.7 times), 3D design workflows (4.4 times) and geospatial analytics (3.2 times) are concentrated in the corridor and south Aberdeen technical workforce. Deficits in virtual production (3.9 times) and data storytelling (2.8 times) fall in the same technical populations and are present in city centre agencies.
+City-centre firms have established energy sector client relationships and strong narrative skills. What they often lack is the technical depth needed for immersive asset production, engineering-grade data visualisation and credible simulation. Corridor firms hold that technical depth, but lack a route into the content and communications markets where it commands a premium.
+Both sets of capability exist in the region. The gap is practical: two parts of the same regional economy have no clear mechanism for working together.
+Price signals show why this matters. Games and immersive roles, the employment category most directly dependent on simulation and visualisation skills, show the sharpest salary pressure: games salaries in North East Scotland are running at £42,500, with a six-month trend of plus 80.9%. The national graduate earnings premium for immersive roles is 29.2%, the largest in any creative-digital category tracked. Aberdeen has relevant workforce capability, but further work is needed to estimate the scale of commercial demand for it.
+4.8 Five convergence points
+Creative-industrial crossover is already occurring at firm and practitioner level across the region, without policy support or institutional recognition. The five examples below are illustrative convergence points. They are not a representative survey of the Group B population and should not be read as evidence that the full measured GVA of Group B is currently available to the creative economy.
+Animation and engineering visualisation
+Specialist 3D visualisation agencies, engineering visualisation studios and large safety-training suppliers produce three-dimensional animations and graphics for subsea engineering, safety training and renewable energy communications. Their work requires creative and industrial capability in equal measure. A new community animation event established in 2025, with roots in the engineering visualisation community, provides evidence of audience demand and an emerging practitioner identity in the city.
+Landscape and site-specific practice
+Community engagement requirements for major energy infrastructure, covering offshore wind, hydrogen and transmission lines, are statutory and are currently met almost entirely by consultation professionals. Skills of landscape and site-specific practitioners, including landscape literacy, site-specific practice and community co-production, are directly applicable to the heritage interpretation and engagement work large infrastructure projects are required to fund. A rural visual arts and making organisation with an established climate-focused programme provides the institutional anchor.
+Craft practice and digital fabrication
+Aberdeen and Aberdeenshire's silversmithing, textiles and applied arts traditions represent internationally recognised cultural strengths. Digital fabrication tools, including precision CNC machining, laser cutting and additive manufacturing, are standard in engineering and manufacturing contexts across the region. Convergence between craft knowledge and digital fabrication is already occurring informally in shared workspaces and through individual practitioners who move between traditions. Formalising those crossings through recognised pathways and shared infrastructure is simultaneously an economic and a cultural policy objective.
+Immersive performance and industrial simulation
+Game engine platforms, primarily Unreal Engine and Unity, used by corridor firms for industrial simulation are the same platforms underpinning immersive performance and location-based entertainment. Technical substrate is shared; professional cultures and market contexts are entirely distinct. No institutional bridge currently exists, which makes this convergence point the one most dependent on the connectivity infrastructure proposed in Strategies 1 and 2.
+Sound practice and environmental communication
+A specialist music and sound organisation has a track record of commissioning work that engages audiences with the material reality of environmental change. Skills in affective, audience-facing, environmentally grounded communication are relevant to the community engagement demands of energy transition and are not currently connected to the statutory consultation and communication market. This is a Tier 1 organisation in the base case, with demonstrated adjacency to the transition agenda; this convergence point requires the market development work proposed in Recommendation 5 before it becomes commercially investable.
+4.9 Scale and significance of the convergence evidence
+The convergence evidence should not be added mechanically to the base creative economy totals. The four-tier model remains the base case for the North East Scotland creative economy. The four-cluster analysis is a complementary firm-level view: it shows where registered firms with creative-digital or latent creative capacity are located, and what measured employment and GVA are visible in company data.
+Table 7  Base case: North East Scotland creative economy workforce
+Source: NE Scotland LinkedIn workforce mapping 2026; BRES 2024; The Fifth Sector tier model. All totals rounded to nearest 5.
+
+This base case is the workforce total used throughout the report. It includes registered institutional and SME employment, visible freelancers and shared utility workers. It is not replaced by the four-cluster company analysis below.
+Table 8  Base case: direct GVA and total economic impact
+Source: The Fifth Sector (2026). All totals rounded to nearest £1 million.
+
+The base case therefore remains 10,490 workers, 7,715 FTE, £453 million in direct GVA and £675 million in total economic impact. These figures should not be combined with the measured GVA in the cluster appendix without avoiding double-counting.
+Table 9  Four-cluster company evidence: measured registered firms, employment and GVA
+Source: 260506 NES_Cluster_Appendix.xlsx, Summary. All Clusters. Company data records registered firms, measured employees and measured GVA. It does not estimate freelance or shared-utility FTE.
+
+Group A firms are registered CCI businesses or firms with confirmed creative-digital classification. Their measured GVA is firm-level evidence of the existing creative-digital commercial base within the four clusters and should be treated as a subset of the base case, primarily within Tiers 2 and 3. Group B firms are the latent capacity population: 90 firms across the four clusters with technical capability relevant to creative markets. Their measured GVA is an indicator of potential growth capacity, not an estimate of additional creative sector output. Group C firms are excluded from creative economy calculations.
+4.10 Classification methodology
+Three groups describe the convergence population.
+Group A firms are in the CCI company universe by SIC code or confirmed creative-digital RTIC classification: registered creative businesses and firms whose actual trading activity, identified by Real-Time Industrial Classification of website content, falls within creative-digital disciplines. Across the four areas they number 1,006 and generate £234.0 million in measured direct GVA with 2,649 workers. Their output is treated as already represented in the base four-tier model, primarily in Tiers 2 and 3, and is not added again.
+Group B firms hold technical capability transferable to creative markets, with clients currently concentrated in oil and gas or adjacent technical markets. Across the four areas they number 90 and generate £115.2 million in measured GVA with 1,762 registered employees. Their measured GVA is not included in the base creative economy total and is not used to create additional sub-tiers in the workforce model. It is evidence of latent capacity and potential market adjacency, not an estimate of current CCI GVA or future market size.
+Group C firms are false positives: companies whose websites contain incidental references to digital tools or technology partners that generate a weak adjacency signal without confirming any creative-digital activity. They are excluded from all creative economy calculations. The Data City's adjacency scoring is correctly conservative on this point: a firm whose only connection to the creative economy is the word "digital" on a safety training page is not a convergence firm.
+The evidence shows that the region has technical firms with relevant skills and creative firms with relevant client relationships. It does not yet prove that those firms are already selling into the same markets, or that city-centre agencies see energy transition work as a growth market. Recommendation 1 should test those questions directly and estimate the addressable market for the activities indicated by Group A.
+The detailed classification method and firm-level data tables will be set out in Appendix B after the body of the final report has been agreed. The associated visualisation should be developed with the client as a PowerBI dashboard rather than reproduced as a static exhibit in this section.
+The full convergence firm classification methodology and data tables supporting this analysis are set out in Appendix D.
+
+Part five: Skills supply and capability
+5.1 The regional education pipeline
+North East Scotland produces a substantial volume of creative and digital talent. Robert Gordon University is the primary supplier, with 19.1% of its total student population enrolled in creative or digital disciplines against 5.6% at the University of Aberdeen. Across the two institutions, 3,675 students are currently enrolled in creative and digital subjects, distributed as follows.
+Table 9  Student enrolment in creative and digital subjects (HESA, 2023/24)
+Source: HESA 2023/24
+
+The pipeline is weighted toward technical disciplines, particularly computing and IT (1,765 students, 48% of the total), reflecting the region's industrial character and the historic demand from the energy sector for technically literate graduates. RGU's BSc Computing and Creative Design and BSc Games Design represent deliberate attempts to develop creative-technical hybrid curricula; both feed directly into articulation pathways from NESCol's HND portfolio, which provides well-developed provision in games design, software development, web development, television production and sound production. The full pipeline from NESCol to university is documented at Appendix B.
+The volume of students in design and media disciplines (1,370 combined) is sufficient to support a viable creative cluster. The question is not whether the pipeline produces creative talent but whether the local economy currently provides enough that is visible to graduates at the point of graduation to retain them.
+5.2 Destination analysis and the retention failure
+Mapping the location of alumni who studied creative courses at the two universities reveals a structural failure to retain the talent the pipeline produces.
+Table 10  Geographic destination of creative alumni
+Source: LinkedIn Talent Insights / Unscrambled.world SOC analysis
+
+Of the 1,527 mapped RGU and UoA creative alumni, 709 (46%) are working in North East Scotland. University of Aberdeen creative graduates are now more likely to be employed in Glasgow or Edinburgh (193) than in the region (179). RGU retains 36% of its mapped creative alumni locally; the equivalent figure for the University of Aberdeen is 23%. RGU's loss of creative graduates to other UK regions represents the equivalent of 83% of the local creative workforce.
+The departure pattern is not random. Graduates leave for the Central Belt above all other destinations, which indicates that the primary competition is not London or international markets but Edinburgh and Glasgow. This is not a quality failure. The graduates who leave are doing so rationally, in response to a local economy that does not yet generate sufficient visible entry-level employment to give them a professional reason to stay.
+5.3 The skills capability profile: what the region holds and what it lacks
+The graduate pipeline analysis describes the supply side. The LinkedIn Talent Insights skills data, analysed by Unscrambled.world and comparing the North East Scotland workforce against Nottingham as a per-capita comparator, describes the demand side: what skills the regional workforce currently holds and where the gaps are relative to a comparable city-region.
+Nottingham was selected as the comparator on the basis of comparable population scale, an analogous economic diversification challenge and the absence of unique structural conditions that would make comparison misleading. The per-capita skill ratios that follow (simulation 3.5x surplus, virtual production 3.9x deficit, data storytelling 2.8x deficit) are calculated against the confirmed LinkedIn profile bases: 219,256 for North East Scotland and 357,597 for Nottingham.
+What the region holds in abundance
+The regional workforce holds a per-capita concentration of simulation skills 3.5 times the Nottingham comparator. This surplus is not the product of the education pipeline. It is the accumulated result of fifty years of safety-critical offshore operations. The same pattern appears in adjacent disciplines: VFX is 5.7 times the Nottingham rate, 3D design workflows are 4.4 times the comparator rate, and geospatial analytics is 3.2 times the comparator rate.
+These surpluses share a common origin. They are the technical disciplines that the offshore energy industry required and systematically developed across its workforce. They are also disciplines that could support creative-digital markets: simulation underpins immersive industrial training; VFX and 3D workflows support visualisation and content production; geospatial analytics supports spatial and environmental communication. The region has not accumulated these skills through creative economy investment. It has accumulated them through industrial investment, and they now sit close to creative markets that still need to be tested.
+What the region lacks
+The deficits in the dashboard are as structurally significant as the surpluses. Virtual production shows a per-capita deficit of 2.0 times against Nottingham. Data storytelling shows a deficit of 2.1 times. Technical AI and real-time rendering remain weaker than the region's industrial simulation base.
+These are precisely the skills that a well-functioning creative education pipeline would produce, and that the graduate destination analysis shows the regional pipeline is producing and then losing. Virtual production, data storytelling, and AI-enhanced creative workflows are the disciplines taught in design, media and creative technology programmes of the kind that RGU and NESCol offer. The structural picture is therefore not a skills shortage in the conventional sense. It is a skills distribution failure.
+The skills gap the dashboard cannot show
+There is a third gap that neither the dashboard nor the destination analysis captures directly: business, enterprise and freelance skills embedded in creative and technical training. The Skills Development Scotland sectoral assessment and the Creative Industries Policy and Evidence Centre report both identify this as a structural absence in the national curriculum; the North East Scotland pipeline reflects and amplifies it. With 5,435 people in Tier 3 or Tier 4, where freelance, sole-trader, portfolio and shared-utility work is concentrated, the absence of systematic business capability development in creative and technical programmes has direct economic consequences.
+5.4 What the skills analysis means for strategy
+The simulation surplus is the region's primary competitive asset. It is not the product of recent investment; it is the accumulated depth of an industrial workforce. What it lacks is the narrative and creative production layer that would allow it to reach the content, communications and public-facing markets where its value would be highest.
+The virtual production and data storytelling deficits are tractable. They are the natural outputs of the kind of creative-technical curriculum that the region's institutions are partially already delivering. Closing them requires not new institutions but curriculum development, structured placement pathways, and the short-course and CPD provision that the skills assessment at Appendix B identifies as currently absent.
+The graduate retention problem will not be solved by improving the quality of the pipeline. Graduates who leave do so because the local economy does not yet show them the professional future they are looking for. Making the convergence opportunity visible, while testing market demand, is part of the retention challenge.
+The full skills gap matrix and methodology supporting this analysis are set out in Appendix B.10 and Appendix E.
+
+Part six: Aligning data analysis and primary research
+Qualitative and quantitative validation was conducted through industry consultation, and benchmarking and counterfactual analysis of workforce and graduate destinations data. Interviews with stakeholders from policy, education, cultural and creative sector organisations took place between October 2025 and April 2026. Four in-person workshops held in Aberdeen in November 2025 brought together practitioners, anchor organisations, local authority officers, and representatives of the national agencies.
+The primary research reveals a strong correlation with quantitative findings on skills and scale from the desk-based research. It underlines the fact that the sense of fragility expressed by practitioners is not a perception issue; it is a structural reality confirmed by workforce data. The sector is heavily weighted towards freelance and micro-enterprise activity and lacks the deep commercial middle ground found in competitor regions.
+6.1 Building commercial capacity of creative SMEs
+Our analysis of the economic baseline identifies Tier 2 as a potential productivity engine, comprising design, marketing, and screen agencies. However, the skills benchmarking exercise reveals a specific deficit in data storytelling capability.
+Consultation responses suggest this skills gap limits the commercial standing of these agencies. Participants described being treated as transactional providers, where "the relationship stops at 'deliver the brief' rather than co-creating value" (AAMD_044).
+This limitation is structurally reinforced by the silo separating creative agencies from the region's significant technology sector. Software and simulation businesses generally did not participate in the consultation, reflecting a disconnect where high-value technical creativity sits within industrial supply chains while creative execution remains isolated in arts and marketing.
+Because these sectors do not interact, Tier 2 SMEs and microbusinesses struggle to develop high-value, technology-led products of their own. Instead of developing independent intellectual property in digital twinning or simulation, they remain reliant on service contracts from legacy clients.
+6.2 Addressing freelance precarity and retention
+The scale and significance analysis estimates a freelance workforce of 3,400 individuals. While this group offers agility, skills supply data indicates that early and mid-career creative professionals are exiting the region due to a lack of sustainable mid-tier opportunities.
+Testimony from this tier highlights the cost of this precarity, with practitioners describing the sector as "hidden, hungry, struggling and undervalued" (AAMD_002). In screen and media, the lack of continuous production work creates a retention crisis: "finding experienced freelance crew locally is hard; people either move away for work or burn out" (SNE_009).
+This tier currently bears the greatest risk. The region possesses a surplus of engineering simulation skills but a deficit in the application of those skills for creative virtual production. If this freelance tier can harness simulation tools currently utilised for engineering for wider creative and B2B applications, they can decouple their earning potential from the volatility of the local economy.
+6.3 Convergence and divergence of sector needs
+Divergence in support needs
+Cultural practitioners (particularly those in Tiers 1 and 3, but also the invisible workforce that constitutes Tier 4) explicitly request financial stabilisation and infrastructure. They cite "fragile" spaces run by volunteers (ABSH_008) and funding systems where "as soon as the grant ends the whole thing collapses" (ABSH_007).
+Conversely, commercial creative firms (Tier 2) rarely request subsidy. Their frustration is regulatory and reputational, noting that the "aspirational branding of the city" does not match the reality of doing business (ACI_032).
+This divergence indicates that a single mode of engagement and intervention directed to these differing viewpoints is at high risk of failing to address the needs of either. The cultural sector requires investment in physical and organisational stability, whereas the commercial creative sector requires a shift in how the region is positioned to international markets.
+Convergence on regional identity
+Across all tiers, there is unanimity that the region's external narrative acts as an economic brake. The dominance of the narrative regarding the decline of North Sea oil obscures creative potential: "the loudest story about Aberdeen is still that it's an oil town past its peak" (AAMD_001).
+Whether in screen industries design, or advertising and marketing, practitioners agree on the opportunity to take ownership of the transition narrative. They articulate a role for the region as a place to "develop stories about climate, transition and future industries" (SNE_048) from a community and creative perspective, rather than leaving this story to be told by corporate PR departments.
+The full retention analysis and institution-level data supporting this analysis are set out in Appendix E.
+
+Part seven: Cultural ecosystem as economic infrastructure
+7.1 What the tier model does not capture
+The four-tier economic model captures formal economic activity. It does not fully capture the cultural ecosystem within which that activity is embedded and on which it depends. Three distinct formations of that ecosystem map onto the tier structure in specific ways. Understanding their relationship to the economic tiers is a precondition for understanding why the convergence opportunity is sustainable, and why the structural challenge described in Part Eight is, if unaddressed, fatal to it.
+7.2 The heritage substrate
+The deepest formation is the heritage substrate: four millennia of built and landscape heritage, a concentration of prehistoric monuments found nowhere else in Europe, a literary and musical tradition carried in the Doric language, the bothy ballad corpus and the Greig-Duncan folk song collection. None of this appears in firm counts or gross value added calculations. All of it constitutes a significant draw for creative practitioners to come to and remain in North East Scotland, the reason visitors come, and the distinctive regional identity that differentiates North East cultural production from its competitors. The heritage substrate underpins the entire tier structure: through the museums, libraries and heritage institutions of Tier 1, it is held, interpreted and made accessible; through the independent artists, makers and musicians of Tier 4, it is carried forward as living practice.
+7.3 The established cultural formation
+The professional anchor organisations confirmed as substantially intact by a 2025 review of sector asset records constitute the established cultural formation. Scottish Sculpture Workshop, Deveron Projects, The Barn, Sound Festival, Haddo Arts, North East Arts Touring, Peacock Visual Arts, Aberdeen Performing Arts and North East Open Studios have survived and in most cases grown since 2014. The common characteristic of these organisations is multi-year structural funding through Creative Scotland's Multi-Year Funding portfolio. The 34% uplift committed in the first year of the new awards, rising to 54% from the second year onwards, signals that the funder recognises the gap between standstill funding and genuine sustainability.
+7.4 The emergent formation
+The emergent formation comprises organisations established since 2014, primarily in response to structural gaps identified but not resolved by the Pinning Stones audit: Look Again, Culture Aberdeen, the Freelance Independents North East network, Creative Aberdeenshire Network, Aberdeen Animates and Creative Aberdeen. This stratum performs the connective, skills development, audience development and sector intelligence functions that the commercial economy needs but that no established institution is currently resourced to provide.
+The membership of this tier spans a range that official statistics flatten into invisibility. At one end are practitioners for whom creative work is a primary professional activity generating substantial commercial revenue: internationally trading makers, working artists with established gallery and retail relationships, musicians with professional performance income. At the other end are those for whom creative work is a serious sustained vocation rather than a primary income source. All three segments contribute to the Tier 4 economy; all three are invisible to every framework currently used to measure it.
+Current support is fragile and time-limited across the board. Aberdeen City Council's Culture Investment Programme allocates approximately £1.5 million across 15 partner organisations annually through a competitive process that provides none of the structural security multi-year funding confers. FINE, formed in 2023 and formalised in 2025, received £63,000 from the UK Shared Prosperity Fund, a programme with no confirmed successor. Aberdeen Animates was formed without public funding and has no structural income. The emergent formation is at a familiar point in the churn cycle.
+7.5 Cultural funding deficit
+Aberdeenshire's historic underclaim on national funding reflects the same self-reliance and distaste for reporting requirements that Matarasso identified in 2014: the region received £13.12 per head in National Lottery arts grants against a Scottish average of £58.57, not because the work was absent but because practitioners did not feel entitled to ask. Closing the differential requires more than additional resource. It requires the institutional will to tell a different story about what this economy is and what it is worth, in terms that practitioners across all four tiers can recognise as their own.
+7.6 The city centre as Tier 4 infrastructure
+The relationship between Tier 4 practitioners and Aberdeen's city centre retail environment is not only a cultural question. It is a planning, property and regeneration question with documented economic dimensions. Edit Aberdeen's presence in the Bon Accord Centre, supported by RGU's Gray's School of Art under provisions for charitable occupiers of otherwise empty commercial space, has contributed to a measurable improvement in the centre's perceived appeal.
+Aberdeen City Council's City Centre Manager confirmed in April 2026 that Bon Accord's pitch to new retail tenants explicitly references Edit and the Curated Market as differentiating factors, and that at least one incoming brand, Sostrene Grene, viewed the centre's direction of travel favourably in part because of what these cultural uses were bringing. The Bon Accord position is consistent with the retail geography evidence that anchor tenants and distinctive independent retailers generate positive agglomeration effects for surrounding commercial space (Wrigley and Lowe, 2002).
+The Schoolhill stretch, running between Bon Accord and Robert Gordon's College, is identified as having the worst vacancy rate in the city centre and as the priority location where cultural activation could make a material difference. Its architectural character, proximity to the university and the art gallery, and adjacency to an emerging hospitality cluster suggest potential for a coherent creative quarter if the vacancy problem is addressed with that ambition.
+Aberdeen City Council is developing a pop-up activation kit: pre-furnished, ready-to-occupy retail spaces. It is currently promoted through Aberdeen Inspired and business gateway channels but is not yet systematically connected to creative organisations. That connection is the practical ask.
+The full funding analysis and comparative data supporting this analysis are set out in Appendix F.
+
+Part eight: Structural challenges
+8.0 The funding landscape and structural security
+The regional creative economy operates within a funding landscape characterised by a structural gap between organisations that hold Creative Scotland Multi-Year Funding security and those that do not. Aberdeen City receives £6.33 per head in MYF investment against Edinburgh's £41.31, a ratio of 6.5:1, establishing that this gap is not a perception but a documented distributional inequality. The organisations performing connective sector functions identified in this report operate in the space below the MYF threshold and above the capacity of local authority programmes to provide structural security.
+The Aberdeen Culture Investment Framework sets out the local authority's investment architecture for the period to 2028 and beyond, covering the four-tier Culture Investment Programme (Acorn, Catalyst, Cultivate and Cornerstone) and the Council's approach to cultural funding. However, the framework operates within an annual competitive process that provides no multi-year certainty below the Cornerstone tier, creating precarity for the connective sector organisations that sustain the regional creative economy.
+8.1 Graduate retention and the brain drain
+Only 17% of graduates from North East Scotland's higher education institutions remain employed in the region after completing their studies. RGU loses a volume of graduates equivalent to 83% of its local creative workforce to other UK regions. University of Aberdeen creative graduates are more likely to be working in Glasgow or Edinburgh than in North East Scotland. The local economy has not developed sufficient absorption capacity for the graduate pipeline it produces.
+A graduate who understands both digital production tools and the energy transition narrative is more valuable to a North East Scotland convergence firm or a city-centre agency pitching on energy transition than to a generic London creative agency. The Creative Career Bridge programme proposed in Strategy 4 is designed to make that connection institutional and visible. The convergence economy, if developed, creates precisely the entry points that make staying worth considering for graduating practitioners.
+8.2 The churn cycle
+A regional creative economy of this scale and depth should be generating institutional infrastructure commensurate with its vitality. The evidence shows that it repeatedly does, and that this infrastructure repeatedly fails to survive the conditions of its formation.
+Funding pressure and organisational churn in the creative sector are not unique to North East Scotland. Research by the Creative Industries Policy and Evidence Centre (PEC, 2023) and the Calouste Gulbenkian Foundation's commissioned work on infrastructure organisations (Bunting, 2020) documents similar patterns of formation, underfunding and dissolution in creative economies across the UK and internationally. What distinguishes the North East Scotland manifestation is the combination of geographic dispersal, the absence of a dominant city-centre cluster, and the lack of any sustained mechanism for sub-threshold structural funding.
+GANE, the audience development network documented in the Aberdeenshire cultural sector audit of 2014, no longer operates. Creative Cultures, the creative industries directory of the same period, is similarly inactive. Design in Action, a Research Councils UK-funded creative economy research and development programme led by RGU, ended in 2016 when its RCUK project funding concluded. Its conclusion is not a comment on the quality of the programme or the commitment of its partners; it is evidence of what happens when substantial creative infrastructure is built on time-limited project funding with no transition pathway to structural support.
+8.3 Current emergent formation is at risk
+FINE, Look Again, Creative Aberdeenshire Network, Aberdeen Animates and Creative Aberdeen are each, at different points, on a trajectory that the historical pattern makes legible. The contrast with the established formation is instructive. The seven organisations now in Creative Scotland's Multi-Year Funding portfolio have developed, through the structural security that portfolio membership provides, into institutions of regional and national significance. The emergent formation organisations doing the most strategically important work today lack equivalent security. The difference is the presence or absence of a multi-year funding relationship.
+8.4 Invisible costs of the churn cycle
+Each episode of formation, operation and dissolution represents a minimum of three to five years of practitioner time and public investment that cannot be reclaimed. The networks built, the trust established, and the knowledge accumulated do not transfer to successor organisations that must build from scratch. This is a description of what rational organisations do when structural security is unavailable and project funding is the only alternative.
+8.5 What breaks the cycle
+The Creative Scotland Multi-Year Funding model has, over decades, provided exactly the structural security that breaks the cycle for the organisations within it. The architecture for the period to 2028 is confirmed. The post-2028 landscape includes a Development Fund pathway designed to bring organisations toward full portfolio membership from 2026 to 2027, and the Aberdeen City Council Catalyst Fund designed as a bridge toward Core Operating Support by 2029. The question for the emergent formation is whether its most strategically important organisations can be positioned to access these routes before the next episode of dissolution.
+8.6 Live strategic opportunities
+CoSTAR and the AHRC Creative Industries Clusters programme
+Confirmation of CoSTAR satellite funding from Innovate UK is expected in June 2026. An outline application to the Arts and Humanities Research Council Creative Industries Clusters programme is under active preparation by RGU and the University of Aberdeen. North East Scotland's case rests on a distinct typology: a convergence economy in which creative-origin technical skills have been adopted and scaled by an industrial sector, generating a simulation surplus at several times the per capita concentration of comparable UK city-regions and an identified pipeline of creative-industrial research and development activity across five convergence points. Both local authorities should be formal co-applicants alongside the universities.
+Screen Scotland and the regional screen development model
+Comparators from North East Screen Industries Partnership, the Liverpool City Region Production Fund and the Yorkshire Content Fund provide a clear template for the Screen North East investment case. A regional film office and production fund at the scale of comparable UK regional models addresses the virtual production skills deficit in the city-centre creative community directly and builds the crew base needed to attract returning productions and develop local intellectual property.
+Place-based capital and regeneration funding
+The capital pipeline for community creative hubs, including the Portsoy and Banff developments identified in the NES Culture Connects cluster proposals, should be developed into investment-ready business cases aligned with current UK and Scottish Government place-based funding rounds. The Creative Growth Prospectus is the appropriate vehicle.
+The full recommendation framework and implementation details are set out in Part Nine.
+
+Part nine: Five growth strategies
+The four-tier analysis establishes what this economy is and what it contains. This part sets out what needs to happen for it to grow. Five strategies are proposed, each addressing one or more tiers, each requiring one or more of the governance and investment decisions set out in the recommendations in Part Ten.
+The strategies are sequenced:
+Strategies 1 and 2 create the commercial architecture and the mutual capability that make the convergence opportunity actionable.
+Strategy 3 protects the cultural infrastructure without which the upper tiers lose their roots.
+Strategy 4 addresses the graduate pipeline, which is simultaneously a talent problem and a retention problem and is only solvable if the economy that graduates are being retained into is worth staying for.
+Strategy 5 is the condition of possibility for all four: without a coherent external narrative that positions North East Scotland's creative economy as a strategic asset rather than a cultural amenity, none of the other strategies will attract the sustained institutional attention they need.
+The relationship between the strategies and the recommendations is direct. Strategies 1 and 2 are enabled by Recommendation 3 (the CoSTAR bid) and Recommendation 5 (the energy transition programme). Strategy 3 is enabled by Recommendation 2 (the structural fund). Strategy 4 is enabled by Recommendations 1 and 5. Strategy 5 is enabled by Recommendation 4 (the Joint Board), which provides the cross-boundary mandate without which no consistent narrative can be maintained.
+Strategy 1: Connect the two communities commercially
+Tiers addressed: Tier 2 (both sub-populations). Primary policy frame: RES. Enabled by: Recommendations 3 and 5.
+The gap
+The 250 convergent firms of the Westhill-Dyce corridor have no shared identity, no collective voice, and no relationship with the creative industries support infrastructure. They do not recognise their combined value, nor the wider significance of their comparative advantage in simulation and visualisation skills. They cannot access Scottish Enterprise international development programmes, Creative Industries Trade and Investment Board trade missions, or CoSTAR corridor funding, not because they are ineligible, but because they do not know they qualify. The city-centre agencies face the opposite constraint: they hold the client relationships and the creative strategy capability, but lack the technical substrate that would allow them to compete credibly for commissions that require immersive asset production, data visualisation, or technically credible simulation. The gap is ten miles wide and entirely relational.
+The opportunity
+Both communities already exist. The technical capability is already there. The client relationships are already there. The energy transition is already creating demand, both documented and emerging, for precisely the combination that the two communities together represent. No capital investment is required to create what already exists; investment is required only to make it visible and connected.
+The intervention
+A Convergence Economy Identification and Connectivity Programme, designed as a structured engagement process, brings the corridor firms into a named network with a shared identity within the regional economic narrative. It connects them to the market development support they currently cannot access, and it creates the conditions for hybrid commercial bids: consortium-style project structures in which a city-centre agency leads on creative strategy and client management while drawing on corridor capabilities for technical production, immersive asset development, and data visualisation. The primary output measure for the first phase is three joint commercial relationships established between corridor firms and city-centre agencies, using the energy transition communication and community engagement market as the testbed.
+Timeline: six to eighteen months for first phase. Low capital cost. High strategic return.
+Strategy 2: Build mutual intelligibility
+Tiers addressed: Tier 2 (both sub-populations), Tier 3. Primary policy frame: RES and LOIP shared. Enabled by: Recommendations 3 and 5.
+The gap
+The commercial structures that Strategy 1 creates require practitioners on both sides to be able to work together. They currently cannot, not because goodwill is absent, but because professional vocabulary, workflow assumptions, and sector identity are entirely distinct. That is not a talent failure. It is an infrastructure failure.
+The opportunity
+The skills dashboard analysis identifies the precise shape of what each community lacks. The corridor firms have simulation-skilled practitioners but lack data storytelling and virtual production skills: they are technically deep but narratively constrained. The city-centre agencies show the inverse pattern. The gap is defined and the curriculum is therefore definable.
+The intervention
+Short-cycle continuing professional development programmes at RGU and NESCol, each running in both directions simultaneously. Corridor-facing: data storytelling, virtual production workflow, and technical communication. Agency-facing: energy systems literacy, simulation technology fundamentals, and the technical vocabulary of digital twins and immersive asset production. Cohorts should be mixed from the outset. This lays the tracks for a formal Aberdeen-Dundee Creative Technology Corridor, established as an industry partnership node with CoSTAR and Abertay.
+Timeline: partnership establishment six to twelve months; first CPD cohort twelve to twenty-four months; first co-production commission eighteen to thirty-six months.
+Strategy 3: Protect and develop the cultural sector
+Tiers addressed: Tier 1, Tier 4. Primary policy frame: LOIP primary, RES enabling. Enabled by: Recommendation 2.
+The gap
+Matarasso identified in 2014 that the independent artists, makers, musicians and community practitioners of Aberdeen and Aberdeenshire were systematically overlooked by policymakers focused on the larger structural blocks of the economy. That condition is unchanged. The emergent formation organisations doing the most strategically important connective work, including Look Again, FINE, Creative Aberdeenshire Network and Aberdeen Animates, are each at a familiar point in the churn cycle. The Tier 4 practitioner population, estimated at 1,855 individuals generating £27 million in direct gross value added from a base that BRES records as zero, operates without institutional recognition, without protected workspace, and without the policy clarity that would allow community interest companies to function as stable market infrastructure.
+The opportunity
+The Tier 4 evidence is now documented and evidenced in ways that Matarasso's 2014 account could not be. Edit Aberdeen's £100,000 retail sales figure, the named practitioners with international commercial reach, the Curated Market expansion, the Editions graduate pathway, and the agglomeration effect that the cultural offer has in mainstream retail environments are documented economic activity generated at near-zero public cost.
+The intervention
+The intervention combines four actions, each achievable within existing frameworks and at low or zero cost:
+Recognise the community interest company operating as creative market infrastructure as a legitimate, protected economic model in planning, licensing and retail tenancy frameworks. CIC rate relief should be made consistent and transparent, removing the need for annual renegotiation.
+Formalise the Gray's School of Art and Edit relationship as a recorded graduate retention mechanism within RGU's institutional outcomes reporting. Extend the model to NESCol.
+Extend the Creative Neighbourhoods framework explicitly to rural Aberdeenshire, with connectivity, peer networks and mobile support as the primary investment.
+Commission a creative wellbeing economy pilot explicitly as preventive health infrastructure rather than arts programming, generating the longitudinal LOIP wellbeing data that currently does not exist for this population.
+Strategy 4: Reframe the graduate pipeline as a transition asset
+Tiers addressed: Tier 3, Tier 2. Primary policy frame: RES and LOIP shared. Enabled by: Recommendations 1 and 5.
+The gap
+RGU loses creative graduates equivalent to 83% of its local creative workforce to other UK regions. University of Aberdeen creative graduates are more likely to be working in Glasgow or Edinburgh than in North East Scotland. This is not a quality failure. It is a structural one: the local economy has not generated sufficient mid-tier employment to give graduates a visible professional reason to stay.
+The opportunity
+To test whether energy transition communication, simulation and public engagement markets can create clearer local pathways for graduates who combine creative production skills with technical literacy.
+The intervention
+A Creative Career Bridge programme: a twelve-month paid placement pathway placing creative graduates with technical firms that have transferable creative-digital capability and with city-centre agencies developing their energy transition offer, funded by a combination of Scottish Enterprise, RES, and employer contribution.
+The parallel intervention is an Energy Transition Creative Pathways pilot targeting mid-career energy sector workers facing redundancy, mapping skills transfer potential from industrial technical roles to creative practice, and testing the DAST and Edit model as a market access mechanism for practitioners entering the commercial creative economy from an industrial background.
+Timeline: programme design and employer partnership development year 1; first cohort year 2.
+Strategy 5: Tell a different story
+Tiers addressed: All tiers. Primary policy frame: RES and LOIP shared. Enabled by: Recommendation 4.
+The gap
+A creative economy of 10,490 people, 7,715 full-time equivalent roles, £453 million in direct GVA and £675 million in total economic impact does not feature in how North East Scotland presents itself to investors, to graduates, to potential creative residents, or to its own practitioners. Every other strategy suggested here depends on replacing the oil-town narrative with one that is more accurate, more useful, and already supported by the evidence assembled here.
+The opportunity
+Three claims, each evidenced in this analysis and each distinctive to this region, should be deployed consistently across every investment prospectus, every skills engagement, and every national funding conversation:
+The simulation surplus is the lead claim for every Regional Economic Strategy investment prospectus and every Scottish Government creative industries conversation.
+The DAST and Edit model is the lead case study for every Local Outcomes Improvement Plan submission and every creative economy funding application. A retail till receipt for £100,000 from a practitioner population that BRES records as zero is the proof of concept for a policy model.
+The energy transition is a distinctive market-development opportunity for the region's creative economy. No other UK city or region can offer the combination of industrial simulation capacity, authentic energy domain knowledge, and the rural-coastal cultural identity that makes North East Scotland's creative economy credible to the global clients the transition is already creating.
+The intervention
+A NES Creative Economy Narrative, constituted as a formal policy commitment rather than a branding exercise, maintained by the Joint Board recommended in Recommendation 4 and deployed consistently across all five strategy areas and all five recommendations.
+A note on sequencing and the recommendations
+None of these five strategies is self-executing; each requires one or more of the governance and investment decisions set out in the recommendations in Part Ten. The Joint Board (Recommendation 4) is the precondition for maintaining the narrative across institutional boundaries. The structural fund (Recommendation 2) is the precondition for keeping the cultural actors in place long enough for Strategy 3 to take effect. The CoSTAR bid (Recommendation 3) is the mechanism through which Strategies 1 and 2 are resourced at the scale they require. The measurement framework (Recommendation 1) is what converts the outputs of all five strategies from anecdotal successes into an evidenced case for continued investment. The energy transition programme (Recommendation 5) is what gives Strategies 1, 2 and 4 a named market to test themselves against.
+The ITQ deliverable compliance matrix and evidence of how each deliverable has been met are set out in Appendix G.
+
+Part ten: Five strategic recommendations
+Recommendation 1: Commit to full-spectrum measurement (RES and LOIP)
+Current frameworks capture, at best, the upper two tiers of the creative economy. A shared measurement framework, covering all four tiers, tracking institutional durability alongside firm count and gross value added, and updated at three-year intervals, is the foundation for every other recommendation. The NES Culture Data Hub is the appropriate vehicle. Governance should be joint between Aberdeen City Council and Aberdeenshire Council, with formal reporting into both the Regional Economic Strategy and Local Outcomes Improvement Plan partnership structures.
+The first-year measurement programme should test whether creative firms and technical firms across the four convergence geographies are already selling into overlapping markets, whether energy transition communication is a growth market for city-centre agencies, and what addressable market size exists for the activities indicated by Group A.
+Implementation lead: both local authorities jointly. Indicative cost: £100,000 for development and first iteration. Timescale: year 1.
+Recommendation 2: Break the churn cycle with structural support (LOIP primary, RES enabling)
+A Creative Ecology Structural Fund, jointly governed by both local authorities with Creative Scotland and Scottish Enterprise, should provide multi-year revenue funding to emergent formation organisations whose work is strategically critical and whose current resource base is precarious. Minimum funding periods of three years, with a clear pathway toward Creative Scotland Multi-Year Funding status or demonstrated income diversification as exit conditions, would provide the structural security the anchor formation holds and the emergent formation lacks.
+Implementation leads: Aberdeen City Council, Aberdeenshire Council, Creative Scotland. Indicative cost: £150,000 to £300,000 per year for a cohort of four to six organisations. Timescale: years 1 to 2.
+Recommendation 3: Advance a joint CoSTAR bid (RES primary)
+Both local authorities, RGU, the University of Aberdeen and Scottish Enterprise should formalise participation as co-applicants in the UKRI Creative Clusters bid, in advance of the Innovate UK CoSTAR satellite funding confirmation expected in June 2026. The bid should be built on the simulation surplus as its primary competitive differentiator, supported by evidence from specialist 3D visualisation agencies, engineering visualisation studios, large safety-training suppliers, rural visual arts and making organisations, specialist music and sound organisations and industrial simulation firms. The bid should position North East Scotland as a distinct typology: a region in which creative-origin technical skills have been adopted and scaled by an industrial sector, generating a pipeline of creative-industrial research and development activity that no existing urban cluster is positioned to replicate.
+Implementation leads: RGU and University of Aberdeen, with both local authorities and Scottish Enterprise as co-applicants. Timescale: outline stage active now; full application to follow June 2026 confirmation.
+Recommendation 4: Resolve the City and Shire structural fault line (RES and LOIP)
+A Joint Cultural and Creative Economy Board, with a shared budget line, dedicated officer resource and a formal mandate covering measurement, structural funding, the UKRI bid, and advocacy to national bodies, is the minimum governance infrastructure required to make the other recommendations actionable. The existing Creative Industries Working Group provides a natural foundation. It requires formal decision-making authority and dedicated capacity.
+Experience from comparable regional bodies in Glasgow City Region, Yorkshire and the West Midlands suggests a minimum coordination resource of one full-time equivalent supported by a programme budget of £50,000 to £100,000 per year.
+Implementation leads: Aberdeen City Council and Aberdeenshire Council jointly. Timescale: year 1.
+Recommendation 5: Align the creative economy explicitly with energy transition (RES and LOIP)
+Creative technology skills, including real-time three-dimensional visualisation, simulation, immersive media and digital twin development, should sit within the energy transition skills strategy. A Creative Communication for Energy Transition programme should pair cultural and creative organisations with the community engagement, environmental communication and place-based narrative challenges the transition requires.
+The programme should include four specific actions: developing and publishing the NES Creative Economy Narrative; creating a formal Aberdeen-Dundee Creative Technology Corridor partnership with CoSTAR and Abertay; establishing the Creative Career Bridge placement programme; and commissioning a market development programme with Aberdeen City's creative and marketing agency community.
+Implementation leads: Joint Board, Energy Transition Zone, Opportunity North East. Indicative cost: £200,000 to £400,000 over three years. Timescale: years 2 to 4.
+A note on governance and capacity
+Effective intervention must account for where sub-sectors agree and where their needs conflict. Whatever governance model is adopted, it must carry sufficient dedicated resource to act. Recommendation 4 is not one recommendation among five of equal weight. It is the precondition for three of the others. The most important single governance decision the Regional Economic Partnership can make is to establish the Joint Board in year one, with dedicated officer resource and a shared budget line, before the window created by the CoSTAR timeline closes.
+The detailed evidence, methodology and data tables supporting these recommendations are set out in Appendices A to F.
+
+Conclusion: Scale, convergence, and strategic opportunity
+The 2014 Pinning Stones report documented the Aberdeenshire rural arts sector as a dispersed, self-reliant community that was invisible to policymakers and at risk of being overlooked. That research provided an important historical baseline for understanding the rural creative economy at that time. The present analysis establishes that the structural conditions Matarasso identified have evolved and expanded across the broader creative economy of North East Scotland, but the underlying challenge remains: insufficient institutional recognition and structural support.
+What this research contributes, distinct from the 2014 baseline, is a comprehensive quantitative mapping of the full creative economy across Aberdeen City and Aberdeenshire, and the identification of a second structural asset that was not analytically visible in 2014: technical firms with transferable creative-digital capability holding world-class simulation and visualisation capability at concentrations above those of comparable UK cities. These firms, classified under non-creative SIC codes and therefore invisible to standard creative industries counts, represent a latent workforce whose technical capability is directly applicable to creative content production markets.
+The scale of the creative economy that this research documents is substantially larger than any previous account has recognised. Direct gross value added of £453 million, rising to £675 million in total economic impact, with a workforce of 10,490 people and 7,715 full-time equivalent roles. These figures represent the base case of the region's creative economy as measured in this analysis. The latent capacity represented by Group B is evidence of potential growth that requires market testing before any enhanced output can be claimed.
+These are not the figures of a peripheral cultural amenity; they are evidence of an economy with the scale to justify serious strategic investment, the distinctiveness to make a credible case for national and international funding, and the structural fragility, at the freelance and connective sector organisation levels, that makes investment urgent.
+What has been building in North East Scotland, through oil booms and downturns and through decades of under-investment, has not been eroded. It has been consolidating, in plain view, in three separate communities whose capabilities are complementary and whose commercial constraints are mutually soluble. The analysis does not locate a gap to be filled; it locates a relationship that needs to be built and market-tested.
+The convergence opportunity identified in this report, connecting the simulation capability of the Westhill-Dyce corridor and other digital-creative clusters centred on Stonehaven and Inverurie with the narrative capability of Aberdeen city-centre agencies, represents a strategic pathway to sustainable growth that is unique to this region. The skills data confirms a structural surplus in simulation, VFX, and 3D design workflows alongside deficits in virtual production and data storytelling. This capability asymmetry is quantifiable, not speculative, and it points directly to commercial opportunities in energy transition communication and immersive content markets that no other UK city-region can match.
+The institutional infrastructure required to realise this opportunity does not currently exist. The recommendations in Part Ten propose a governance model, a structural funding mechanism, and a connectivity programme that would allow the region's three creative communities to function as a coherent system. The evidence presented in this report provides the quantitative foundation for those recommendations. The case for strategic investment is grounded in the scale and distinctiveness of the regional creative economy as measured in this analysis.
+
+Appendix A: Methodology
+A.1 Purpose and structure of this appendix
+This appendix sets out the complete methodological basis for the workforce estimates, gross value added calculations, skills analysis and economic impact figures presented in this report. It is structured to allow independent scrutiny and replication of each analytical step.
+The research was conducted between September 2025 and April 2026. The workforce model, GVA estimates and skills analysis draw on data collected and validated during that period. Where figures in earlier working documents differ from those presented here, the figures in this report are authoritative. Two corrections to earlier drafts are documented explicitly at A.4 and A.8.
+The methodology combines three distinct analytical approaches: official administrative data (BRES and IDBR), real-time firmographic and workforce data (The Data City platform and LinkedIn Talent Insights), and qualitative primary research (stakeholder workshops and practitioner interviews).
+A.2 Establishing the business base: the crosswalk methodology
+A.2.1 The gross registration universe
+The starting point for the business base analysis is a dataset of 1,711 firms provided by The Data City platform, representing every business registered in the Aberdeen and Aberdeenshire area under creative or technology-adjacent Standard Industrial Classification (SIC) codes. The Data City uses artificial intelligence to analyse company website content combined with Companies House registration data, financial filings and other public sources, assigning each firm a Real-Time Industrial Classification (RTIC) that reflects its actual trading activity rather than its registered SIC code.
+A.2.2 The crosswalk filter
+To move from 1,711 gross registrations to a verified creative business base, this analysis applies a crosswalk methodology that assesses each firm against a single defining criterion: does the firm derive value primarily from original intellectual property and cultural curation, rather than from the provision of labour hours or technical infrastructure services?
+The filter was applied in two passes. The first pass removed clearly excludable firms on four evidenced grounds: brass plate registrations using corporate hub addresses; personal service companies established as tax-efficient vehicles for individual IT contractors; nominee registrations with no local staff or office footprint; and industrial utility firms whose primary output is technical infrastructure support for the energy sector rather than creative content.
+Application of the crosswalk filter produces an active creative core of 922 verified firms, from a gross universe of 1,711, with 789 entities excluded.
+A.2.3 The IT consultancy exclusion
+SIC 62020 (IT consultancy) is excluded from the creative industries count throughout this analysis. Of the 435 firms registered under this code in IDBR, the crosswalk reduces the verified creative technology population to 130 firms. The BRES employment count similarly excludes the 1,600 employees and estimated £150 million GVA attributable to SIC 62020 activity in the region.
+A.2.4 Convergence evidence
+Earlier drafts described a convergence tier. That framework has been superseded. The base creative economy remains the four-tier model set out in Part Three and is not expanded through additional Tier 2b or Tier 3b categories.
+The revised convergence evidence is presented in Part Four using three groups. Group A firms are registered CCI businesses or firms with confirmed creative-digital classification and are treated as already represented in the base case, primarily within Tiers 2 and 3. Group B firms are adjacent technical firms with capability relevant to creative markets, but their measured GVA is not added to the creative economy total. Group C firms are excluded.
+A.3 Official employment baseline: BRES
+The Business Register and Employment Survey provides the administrative floor of the analysis. BRES data for Aberdeen City and Aberdeenshire, filtered against creative industries SIC codes and adjusted to remove general IT consultancy (SIC 62020), produces a count of 3,305 employees. BRES data is the primary source for Tier 1 (institutional anchors) and provides the employed workforce baseline for Tier 2 (SME commercial core).
+A.4 LinkedIn workforce analysis
+A.4.1 Methodology
+LinkedIn Talent Insights data was used to identify the creative workforce population beyond the formal BRES-captured employed base. The platform was treated as a large pre-filled occupational survey rather than a social media tool. The six creative supply chain segments are: Content, Experiences, Originals, Services, Tech, and a Total Creative Supply Chains summary sheet. The IT Services and Consultancy segment (3,992 individuals) was maintained as a separate, parallel dataset throughout the analysis and was not included in the creative workforce count.
+A.4.2 Correction of a double-subtraction error in earlier drafts
+Earlier working documents applied a subtraction of the IT Services and Consultancy population (3,992) from the Total Creative Supply Chains figure (9,414), producing a net figure of 5,422. This was an error. The 3,992 IT Services and Consultancy workers were never included in the 9,414 Total Creative Supply Chains figure. Subtracting them from 9,414 therefore removed a population that had not been added, reducing the creative workforce count by 3,992 people who should have been included.
+The correct total from the LinkedIn creative supply chain analysis is 9,414. This figure is then adjusted as described at A.4.3 to produce the working creative workforce total of 8,760.
+All figures in this report reflect the corrected analysis. The figures 5,422, 7,530, £315 million and £474 million appearing in earlier working documents should be disregarded.
+A.4.3 Software development and computer games
+The Tech segment includes 1,957 individuals identifying as working in software development and 179 in computer games, alongside 275 in computer and network security, 599 in information services, and 83 in other technology classifications. The computer and network security and information services populations within the Tech segment were omitted from our workforce calculations as they are more likely to have been included in estimates of employment for the ONE Digital sector report.
+A.4.4 Adjustment for museums and libraries underrepresentation
+Comparison of the LinkedIn-derived Experiences segment against the BRES count for museums, galleries and libraries reveals significant underrepresentation. To correct for this, the museums, galleries and libraries workforce is taken from BRES (435) rather than LinkedIn. Historical sites workers (185) are added to this population. The resulting adjusted LinkedIn total of 8,760 is the basis for the tier allocations.
+A.5 The four-tier workforce model
+The LinkedIn-adjusted total of 8,760 is allocated to tiers on the basis of employment status and sector, and supplemented by the Tier 4 penetration gap estimate.
+Table 13  North East Scotland creative industries workforce by sector and tier
+Source: The Fifth Sector (2026). Tier 4 is estimated through penetration gap analysis. Totals rounded to nearest 5; some rows and columns may not sum.
+
+A.6 Tier 4: the invisible workforce
+Tier 4 cannot be measured directly. It is estimated through penetration gap analysis: the difference between the estimated total population of creative practitioners in low-digital sub-sectors and the proportion identifiable through LinkedIn and official data. LinkedIn penetration rates for independent musicians, artists, writers and craft makers are estimated at 30% to 45%, against over 80% for technology and design professionals. The Tier 4 estimate of 1,855 core practitioners is derived from this gap, using workspace density modelling, open studio participation records, trade body membership analysis, and comparative evidence from the Liverpool Music Futures cluster mapping study.
+A further 180 shared utility workers in hospitality and events are attributed to the creative economy using the Liverpool Music Futures methodology. The combined Tier 4 population is therefore 2,035 individuals (1,855 core practitioners plus 180 shared utility workers), with 860 FTE.
+A.7 Full-time equivalent adjustment
+Creative employment is characterised by high levels of part-time working, sessional contracts and portfolio careers. Each tier is adjusted by an FTE intensity factor converting headcount to full-time equivalent positions before GVA is calculated.
+Table 14  FTE intensity factors by tier
+
+A.8 GVA calculation
+A.8.1 Methodology
+Direct gross value added is calculated by multiplying the FTE count for each tier by a GVA per FTE figure derived from a combination of ONS regional output data and imputed financial modelling of individual company performance. For Tier 3 (visible freelancers), a productivity discount is applied to the sector-specific GVA per FTE rates. This reflects the well-established finding that freelance workers in creative industries generate lower GVA per FTE than their employed counterparts in the same sector. The discount factor of 0.480 is derived from the ratio of the Tier 3 GVA per FTE rate to the Tier 2 blended GVA per FTE rate.
+A.8.2 GVA per FTE by sector and tier
+Table 15  GVA per FTE rates by sector
+Source: The Fifth Sector analysis of ONS Annual Business Survey data
+
+A.8.3 GVA and economic impact by tier
+Table 16  Direct GVA and total economic impact by tier
+
+A.9 Convergence classification methodology
+The earlier convergence-tier methodology has been superseded by the Group A/B/C classification used in Part Four. Group A is treated as already represented in the base four-tier model. Group B is retained as evidence of latent adjacent capacity and potential growth, but its measured GVA is not claimed as current creative economy output and is not added to the base case. Group C is excluded.
+A.10 Skills analysis
+The skills analysis draws on LinkedIn skills data for the North East Scotland geography, compared with Nottingham city. The comparison uses confirmed LinkedIn profile bases of 219,256 profiles for North East Scotland and 357,597 profiles for Nottingham city.
+Key per-capita ratios against the Nottingham city comparator:
+Simulation: 3.5 times the Nottingham city rate, reflecting fifty years of safety-critical offshore simulation training in the region.
+VFX: 5.7 times the Nottingham city rate.
+3D design workflows: 4.4 times the Nottingham city rate.
+Geospatial analytics: 3.2 times the Nottingham city rate.
+Virtual production: 2.0 times weaker than the Nottingham city comparator.
+Data storytelling: 2.1 times weaker than the Nottingham city comparator.
+A.11 Qualitative primary research
+Four in-person stakeholder workshops were held in Aberdeen in November 2025, bringing together practitioners, anchor organisations, local authority officers and national agency representatives across the creative economy. Outreach was extended to digital-technical firms in the Westhill-Dyce corridor through a dedicated web page and direct email contact; no corridor firms attended any of the four workshops.
+In-depth research conversations were conducted with Peter Baxter (Deemouth Artist Studios), Sally Reaper (RGU Gray's School of Art), Dean McGlynn (Aberdeen City Council City Centre Manager) and Eloise Grey (Creative Industries Lead, Aberdeenshire Council), among others.
+
+Appendix B: Creative skills needs and gaps for Aberdeen City and Aberdeenshire
+B.1 Purpose and scope
+This appendix assesses the extent to which current creative and digital skills provision in North East Scotland equips practitioners, graduates and employers to meet the demands of a growing creative economy and, specifically, the convergence opportunity identified in the main report. It draws on three published assessments of skills needs: the Skills Development Scotland Sectoral Skills Assessment for the Creative Industries (October 2025), the Regional Skills Assessment for Aberdeen City and Shire (October 2025), and the Creative Industries Policy and Evidence Centre's 2025 report on skills mismatches in the UK creative industries. It also draws on desk analysis of the current course portfolio at North East Scotland College (NESCol), Robert Gordon University and the University of Aberdeen.
+B.2 Future skills demand: what the evidence shows
+The three source assessments converge on a consistent picture of sector need. The dominant demand is for practitioners who combine creative capability with advanced technical and digital competence, particularly in software development, programming, multimedia production, data analysis, interactive media and immersive content. Five priority areas are identified:
+Advanced technical and digital skills: software development, programming, multimedia production, data analysis, design engineering, app and web development and digital storytelling.
+Capacity for rapid technological change: AI adoption, immersive media production, real-time content creation and digitally integrated workflows.
+Business, enterprise and freelance skills: contract management, intellectual property, financial planning, pitching and client relationship management.
+Work-based and practical learning: graduates who can operate effectively in professional settings from their first week of employment.
+Flexible and modular provision for the existing workforce: short courses, continuing professional development programmes, micro-credentials and bootcamps.
+B.3 Current provision: strengths and limitations
+The most significant structural strength of regional skills provision is the articulation pathway from NESCol through to degree-level study at RGU and the University of Aberdeen. NESCol's portfolio of HNC and HND programmes in games design, web development, software development, media production, television, sound production and filmcraft maps directly onto a range of RGU undergraduate programmes. The NESCol NextGen computing suite, which explicitly incorporates AI, cybersecurity and IoT content, represents a deliberate attempt to keep vocational provision aligned with the direction of the sector.
+Limitations of current provision include: no dedicated specialist programme in immersive media, extended reality, virtual production or real-time content creation at degree or postgraduate level; business and enterprise skills are poorly embedded; short-course and CPD provision for the existing workforce is minimal; and data-driven and AI-enhanced creative skills are not a substantive component of any current programme.
+B.4 Gap analysis
+Table 17  Principal skills gaps: summary assessment
+
+B.5 Implications for the five strategies
+Strategy 2 (Build mutual intelligibility) requires short-cycle CPD programmes at RGU and NESCol that do not currently exist. Strategy 3 (Protect and develop the pinning stones) includes the recommendation to formalise the RGU Gray's School of Art and Edit Aberdeen graduate retention pathway. Strategy 4 (Reframe the graduate pipeline as a transition asset) addresses the structural absorption capacity problem directly. The CoSTAR bid (Recommendation 3) is the primary mechanism through which the curriculum gaps identified here can be addressed at scale.
+B.6 NESCol course portfolio: future skills alignment
+Table B.2 sets out the current NESCol course portfolio mapped against future skills demand. Courses are assessed as high, medium or low relevance: high indicates that the course explicitly develops digital, software, games, interactive, audio-visual or NextGen technical skills directly relevant to employer demand in the creative economy; medium indicates courses with digital or media components that build transferable skills but without advanced technical or immersive content; low indicates craft and traditional practice courses with limited direct relevance to the technical skills demand identified in the assessments.
+Table 18  NESCol course portfolio: future skills alignment
+
+B.7 Articulation pathways: NESCol to RGU and University of Aberdeen
+Table 19  Principal articulation pathways: creative and digital subjects
+HNC qualifications generally provide Year 2 entry; HND qualifications generally provide Year 3 entry, subject to meeting course-specific requirements.
+
+Sources
+Skills Development Scotland (2025) Sectoral Skills Assessment: Creative Industries. Edinburgh: Skills Development Scotland.
+Skills Development Scotland (2025) Regional Skills Assessment: Aberdeen City and Shire. Edinburgh: Skills Development Scotland.
+Creative Industries Policy and Evidence Centre (2025) Skills mismatches in the UK's creative industries. London: PEC/Nesta.
+
+Appendix C: Deemouth Artist Studios and Edit Aberdeen case study
+C.1 Purpose and scope
+This appendix provides a case study of Deemouth Artist Studios (DAST) and Edit Aberdeen, which serves as the primary direct evidence for the Tier 4 workforce population described in Part Three of this report. The case study is based principally on a research conversation between Iain Bennett of The Fifth Sector and Peter Baxter of Deemouth Artist Studios, conducted in February 2026. It draws additionally on research notes compiled by The Fifth Sector in March 2026, a research conversation with Dean McGlynn (Aberdeen City Council City Centre Manager) in April 2026, and the broader evidential context provided by Matarasso (2014) and the Culture Collective programme evaluation (Blanche et al., 2023).
+C.2 Background and origins
+Deemouth Artist Studios was established at the Deemouth Business Centre on South Esplanade East, Torry, Aberdeen, by Peter Baxter and Allan Watson. Torry is among the most deprived communities in Aberdeen. That DAST is based there rather than in the city centre reflects both the economics of studio space in the city and the character of the community from which its practitioners are drawn.
+C.3 The studio community: membership and model
+DAST operates as a shared studio community. The membership spans the full spectrum of the Tier 4 population as defined in this report, running from portfolio workers for whom creative practice is one strand of a mixed economy to fully professional commercial practitioners with established international markets. The FTE intensity assumption of 0.45 applied to Tier 4 as a whole reflects the economic reality of all three segments taken together.
+C.4 Named practitioners: international reach from Torry
+Two named practitioners associated with DAST illustrate the range of commercial activity taking place within an organisation that is entirely invisible to official economic statistics. One is a raised enamel jeweller based in Torry who sells through the Goldsmiths Fair in London and a US fair, and has been featured in a major consumer magazine. The other trained at DAST and subsequently established their own studio, teaches, runs workshops, produces bespoke commission work and has a presence in the Balmoral gift shop. These practitioners are representative of a wider population across Aberdeen and Aberdeenshire whose commercial reach is simply not visible to any of the data sources that regional economic assessments conventionally rely upon.
+C.5 Edit Aberdeen: the retail model and its commercial results
+Edit Aberdeen is a Community Interest Company operating a retail outlet in the Bon Accord Centre in Aberdeen city centre. Edit's presence is supported by Robert Gordon University's Gray's School of Art, which acts as a charitable backer. In the year prior to this research, Edit generated £100,000 in retail sales for the artists and makers whose work it stocks. Of that revenue, 60% is returned directly to makers and 40% is retained by Edit to sustain its operations. These figures are drawn from the research conversation with Peter Baxter and have not been independently verified against Edit's accounts.
+C.6 The Curated Market
+A second retail initiative in the Bon Accord Centre, directly adjacent to Edit, provides further evidence of the market infrastructure being built for Tier 4 practitioners. The Curated Market launched on 3 April 2026 following a renovation of the former River Island space, taken on by Charlie House, a local children's hospice charity.
+C.7 The city centre context
+Dean McGlynn, Aberdeen City Council's City Centre Manager, provided a research conversation in April 2026 that partially corroborates the case for Edit's significance to the Bon Accord Centre's commercial positioning. He confirmed that Bon Accord's pitch to new retail tenants now explicitly references Edit and the Curated Market as differentiating factors. He identified the Schoolhill stretch as having the worst vacancy rate in the city centre and as a location where cultural activation could make a material difference.
+C.8 The university partnership: graduate retention and the Editions pathway
+Third and fourth year cohorts from Gray's now engage with Edit through live commercial briefs, developing products that are commercially scalable, reflect the history and identity of Aberdeen, and are suitable for retail through Edit. At least one graduate has subsequently taken a studio space at DAST. This is a direct, documented graduate retention pathway, but it is not captured in any institutional data and did not emerge in RGU's formal account of its engagement with the regional creative economy.
+C.9 The broader ecosystem
+DAST and Edit are representative of a distributed ecosystem of community studios, craft collectives, open studio networks and maker markets across Aberdeen and Aberdeenshire. The North East Open Studios programme, which by 2013 involved more than 320 artists and makers across the region, provides both a commercial outlet and a network function for practitioners who would otherwise be isolated.
+C.10 Policy implications
+The primary policy ask from practitioners is not a grant or a subsidy. It is recognition: that the Community Interest Company model should be understood as a supportable entity with some assurances over its tenure. The policy ask is modest and achievable. It requires institutional literacy about the creative economy, the protection of affordable studio and retail space in the city centre, the formalisation of university-practitioner partnerships that currently exist informally, and the connection of open studio networks and maker communities to regional economic strategy.
+C.11 Conclusion
+The DAST and Edit case study provides direct qualitative evidence in support of the Tier 4 estimate and the broader argument of this report. It confirms that a significant population of creative practitioners exists in Aberdeen and Aberdeenshire who are invisible to official statistics but generating real commercial revenue. What the case study establishes beyond reasonable doubt is that the challenge for policy is not to prove that this population exists. Peter Baxter has already done that, with a retail till receipt for £100,000. The challenge is to build the institutional frameworks that would allow this population to grow, to earn more and to stay in the region.
+References
+Blanche, R., Stevenson, C., Schrag, A., McGrath, A., Beattie, A. and McKinnon, B. (2023) National evaluation of the Culture Collective programme: Part One. Edinburgh: Queen Margaret University.
+Matarasso, F. (2014) The Pinning Stones: culture and community in Aberdeenshire. Aberdeen: Aberdeenshire Council.
+Wrigley, N. and Lowe, M. (2002) Reading retail: a geographical perspective on retailing and consumption spaces. London: Arnold.
+
+Appendix D: Options assessment
+D.1 Cluster development or convergence economy: the basis for the sequenced recommendation
+Two development pathways were assessed for the regional creative economy: a concentrated creative cluster in Aberdeen city centre, anchored by shared infrastructure and institutional investment, and a convergence economy programme building on the region's distinctive energy-creative technical capability.
+The case against leading with cluster development is threefold. The density required for spontaneous agglomeration effects is not currently present; the ten-to-fifteen-year development timeline for cluster effects to materialise is incompatible with the political and funding cycles the region operates within; and the upfront capital requirement represents a substantial public commitment in advance of any demonstrable return. More fundamentally, a city-centre cluster strategy does not address the two populations whose commercial potential is the most distinctive and most immediately actionable: the technical firms with transferable creative-digital capability of the Westhill-Dyce corridor and the Tier 3 freelance and independent workforce.
+The convergence economy programme requires no capital investment in its first phase. The firms exist. The skills base exists. The energy sector client relationships exist. What is required is visibility, connectivity and a shared strategic narrative, all of which can be developed through the Joint Board, the CoSTAR bid and the connectivity programme at costs substantially below the threshold of any cluster infrastructure investment.
+The sequenced recommendation treats convergence economy development as the years one to three priority and city-centre cluster development as the years three to seven objective, conditional on the convergence programme generating sufficient institutional momentum, commercial credibility and earned income to anchor a broader cluster identity.
+D.2 Selection of options
+The cluster and convergence options described above were developed from a wider initial assessment that included four numbered options. Options 2 and 3 were interim variants that did not survive analytical scrutiny at the working stage: Option 2 was a freelance-first strategy that correctly identified the Tier 3 population as the majority of the business base but provided no mechanism for addressing technical firms with transferable creative-digital capability; Option 3 was a screen industry-led strategy that depended entirely on the Screen North East studio investment proceeding.
+The Place-Based Spine (Option 4) remains a relevant framework for the Local Outcomes Improvement Plan narrative and for community regeneration funding applications. It is not an alternative to the convergence programme; it is the cultural resilience complement to it, addressing the Tier 4 and Tier 1 populations that the convergence programme does not primarily serve.
+D.3 Governance vehicle assessment
+The five recommendations in Part Ten each require a lead institution and one or more enabling partners. The choice of lead vehicle is not merely administrative: it determines the speed at which each recommendation can move, the funding streams it can access, and the degree of cross-boundary authority it carries.
+Three vehicle types appear throughout. An existing single-authority vehicle means Aberdeen City Council or Aberdeenshire Council acting independently. A national programme vehicle means Creative Scotland, Scottish Enterprise, Skills Development Scotland or a UK-wide programme such as CoSTAR or UKRI Creative Clusters acting as lead. A joint vehicle means either the proposed Joint Cultural and Creative Economy Board or an ad hoc partnership between two or more of the above.
+Recommendation 4 (establish the Joint Board) is the precondition for the effective delivery of Recommendations 1, 2 and 5. The most important single governance decision the Regional Economic Partnership can make is to establish the Joint Board in year one, with dedicated officer resource and a shared budget line, before the window created by the CoSTAR timeline closes.
+D.4 The sequencing logic
+The actions that can proceed without the Joint Board being established are Recommendation 3 (CoSTAR bid, led by the universities) and the initial data collection phase of Recommendation 1. The actions that require the Joint Board are the structural fund (Recommendation 2), the full measurement governance (Recommendation 1), and the creative economy elements of the energy transition programme (Recommendation 5).
+The outer time boundary is June 2026, when CoSTAR satellite funding confirmation is expected. A bid that arrives at that point without a functioning joint governance structure and without both local authorities confirmed as co-signatories will be weaker than one that arrives with both in place.
+Appendix E: Policy playbook and RES recommendations
+Provided as a separate document.
+
+[TABLE 1]
+Creative industries | BRES 2023 | BRES 2024
+Advertising and marketing | 255 | 180
+Architecture | 400 | 400
+Crafts | 20 | 10
+Design and designer fashion | 250 | 160
+Film, TV, video, radio and photography | 455 | 370
+IT, software and computer consultancy | 2,300 | 2,150
+Publishing | 270 | 200
+Museums, galleries and libraries | 435 | 760
+Music, performing and visual arts | 580 | 460
+Total creative industries | 4,965 | 4,690
+Excluding 62.02, computer consultancy | 1,600 | 1,400
+Total for sector analysis | 3,305 | 3,290
+[END TABLE 1]
+
+
+[TABLE 2]
+Creative industries business counts | IDBR 2025
+Advertising and marketing | 70
+Architecture | 120
+Crafts | 10
+Design and designer fashion | 110
+Film, TV, radio and photography | 85
+IT, software and computer services | 435
+Publishing | 25
+Museums, galleries and libraries | 50
+Music, performing and visual arts | 85
+Total (creative industries) | 990
+Excluding 62.02 - computer consultancy | 290
+Total for sector analysis | 700
+[END TABLE 2]
+
+
+[TABLE 3]
+ | Total workforce | %
+Total workforce | 8,455 | 100%
+Full-time employees | 3,735 | 44%
+Part-time employees | 1,140 | 13%
+Sub-total: employees | 4,875 | 58%
+Contractor | 925 | 11%
+Internship | 485 | 6%
+Self employed | 365 | 4%
+Freelance | 1,505 | 17%
+Sub-total: freelance and self employed | 3,280 | 39%
+Total roles | 8,155* | 95%
+[END TABLE 3]
+
+
+[TABLE 4]
+Definition and methodology | Registered businesses | Headcount | FTE intensity | FTE total | 
+Tier 1: Institutional anchors Source: BRES. Publicly funded culture, museums, libraries, and major performing arts venues. High incidence of part-time working. | 65 | 1,210 | 0.71 | 860 | 
+Tier 2: SME commercial creative core Sources: BRES and The Data City Industry Engine. Registered businesses in creative industries sub-sectors excluding IT consultancy. High full-time stability. | 855 | 3,845 | 0.90 | 3,445 | 
+Tier 3: Visible freelancers Source: LinkedIn status. Independent professionals in DCMS creative industries sub-sector and CreaTech occupations identifying as freelance, self employed, contractor or intern. | - | 3,400 | 0.75 | 2,550 | 
+Tier 4: Invisible workforce Source: Penetration gap analysis. Practitioners in core cultural sectors (arts, crafts, music), portfolio workers and shared utility staff not captured by LinkedIn. | - | 2,035 | 0.42 | 860 | 
+TOTAL strategic creative core of Aberdeen City and Aberdeenshire | 920 | 10,490 | 0.735 (average) | 7,715 | 
+[END TABLE 4]
+
+
+[TABLE 5]
+Tier | FTE | Direct GVA (£ million) | Type II multiplier | Total economic impact (£ million)
+Tier 1: Institutional anchors | 860 | 25 | 1.40 | 35
+Tier 2: SME commercial core | 3,445 | 226 | 1.60 | 362
+Tier 3: Visible freelancers | 2,550 | 174 | 1.40 | 244
+Tier 4: Invisible workforce | 860 | 28 | 1.20 | 34
+TOTAL | 7,715 | 453 | 1.49 (average) | 675
+[END TABLE 5]
+
+
+[TABLE 6]
+Tier | Multiplier (Type II) | Rationale
+Tier 1 | 1.40 | Stable but restricted public procurement supply chains
+Tier 2 | 1.60 | High impact: commercial firms have extensive supply chains (rent, services, equipment)
+Tier 3 | 1.40 | Lower supply chain spend but impact driven by local consumption of earnings
+Tier 4 | 1.20 | Conservative estimate reflecting lower disposable income
+TOTAL | 1.49 (average) | Weighted by direct GVA across the four tiers
+[END TABLE 6]
+
+
+[TABLE 7]
+ | Count of organisations | Headcount | Full-time equivalent
+Tier 1: Cultural core | 65 | 1,210 | 860
+Tier 2: Creative employees | 855 | 3,845 | 3,445
+Tier 3: Creative freelancers |  | 3,400 | 2,550
+Tier 4: Shared utility workers |  | 2,035 | 860
+Base creative economy total | 920 | 10,490 | 7,715
+[END TABLE 7]
+
+
+[TABLE 8]
+ | Direct GVA (£m) | Type II multiplier | Total economic impact (£m)
+Tier 1: Cultural core | 25 | 1.40 | 35
+Tier 2: Creative employees | 226 | 1.60 | 362
+Tier 3: Creative freelancers | 174 | 1.40 | 244
+Tier 4: Shared utility workers | 28 | 1.20 | 34
+Base creative economy total | 453 | 1.49 avg | 675
+[END TABLE 8]
+
+
+[TABLE 9]
+Cluster | Postcodes | Total firms | Group A firms | Group B firms | Group C firms | Measured registered employees | Measured GVA (£m)
+City centre | AB10, AB11, AB15, AB24, AB25 | 790 | 607 | 55 | 128 | 4,742 | 331.6
+Westhill-Dyce corridor | AB21, AB22, AB23, AB32 | 258 | 201 | 17 | 40 | 795 | 69.9
+South Aberdeen and Stonehaven | AB12, AB39 | 139 | 104 | 10 | 25 | 953 | 64.4
+Inverurie and Kintore | AB51 | 112 | 94 | 8 | 10 | 256 | 18.4
+Four-cluster total |  | 1,299 | 1,006 | 90 | 203 | 6,746 | 484.4
+[END TABLE 9]
+
+
+[TABLE 10]
+Subject area | Robert Gordon University | University of Aberdeen | Regional total
+Architecture | 480 | 60 | 540
+Computing and IT | 1,210 | 555 | 1,765
+Design, creative and performing arts | 630 | 215 | 845
+Media, film and journalism | 480 | 45 | 525
+Total creative/digital cohort | 2,800 | 875 | 3,675
+[END TABLE 10]
+
+
+[TABLE 11]
+Institution | NE Scotland (retained) | Central Belt | London | International
+RGU and Gray's School of Art | 530 | 442 | 102 | 395
+University of Aberdeen | 179 | 193 | 81 | 316
+[END TABLE 11]
+
+
+[TABLE 12]
+Sector | Total | Tier 1 | Tier 2 | Tier 3
+Advertising and marketing | 1,025 |  | 475 | 555
+Architecture | 1,010 |  | 745 | 265
+Crafts | 25 |  | 20 | 5
+Design and designer fashion | 865 |  | 465 | 400
+Film, TV, video, radio and photography | 1,485 |  | 845 | 640
+IT, software and computer services | 2,185 |  | 1,300 | 885
+Publishing | 695 |  | 500 | 190
+Museums, galleries and libraries | 620 | 620 |  | 
+Music, performing and visual arts | 854 | 560 |  | 295
+Total (Tiers 1-3) | 8,760 | 1,210 | 3,845 | 3,400
+Tier 4: Invisible workforce | 2,035 |  |  | 
+Grand total | 10,490 |  |  | 
+[END TABLE 12]
+
+
+[TABLE 13]
+Tier | Headcount | FTE intensity | FTE, basis
+Tier 1 | 1,210 | 0.711 | 860, High part-time and sessional working in performing arts venues, museums and libraries
+Tier 2 | 3,845 | 0.896 | 3,445, High full-time stability across architecture, design and creative technology
+Tier 3 | 3,400 | 0.750 | 2,550, Project-based working with periods of inactivity between commissions
+Tier 4 (core) | 1,855 | 0.450 | 835, High proportion of part-time and non-commercial practice
+Tier 4 (shared utility) | 180 | 0.139 | 25, Partial attribution of hospitality and events staff
+Tier 4 combined | 2,035 | 0.423 | 860, Blended intensity
+Total | 10,490 | 0.735 (average) | 7,715, Weighted average
+[END TABLE 13]
+
+
+[TABLE 14]
+Sector | GVA per FTE (£) | Tier 1 GVA (£m) | Tier 2 GVA (£m) | Tier 3 GVA (£m)
+Advertising and marketing | £100,135 |  | £43m | £20m
+Architecture | £106,648 |  | £72m | £10m
+Crafts | £93,500 |  | £2m | £0m
+Design and designer fashion | £93,500 |  | £39m | £14m
+Film, TV, video, radio and photography | £122,066 |  | £94m | £28m
+IT, software and computer services | £96,650 |  | £114m | £31m
+Publishing | £122,352 |  | £56m | £8m
+Museums, galleries and libraries | £23,191 | £10m |  | 
+Music, performing and visual arts | £39,000 | £15m |  | £4m
+TOTAL |  | £25m | £420m | £115m
+[END TABLE 14]
+
+
+[TABLE 15]
+Tier | Headcount | FTE | GVA per FTE (£) | Direct GVA | Multiplier | Total impact
+Tier 1: Institutional anchors | 1,210 | 860 | £29,070 | £25m | 1.40 | £35m
+Tier 2: SME commercial core | 3,845 | 3,445 | £65,602 | £226m | 1.60 | £362m
+Tier 3: Visible freelancers | 3,400 | 2,550 | £68,235 | £174m | 1.40 | £244m
+Tier 4: Invisible workforce | 2,035 | 860 | £32,558 | £28m | 1.20 | £34m
+Total | 10,490 | 7,715 | £58,717 (avg) | £453m | 1.49 avg | £675m
+[END TABLE 15]
+
+
+[TABLE 16]
+Gap | Evidence | Priority
+Immersive media, XR and virtual production | No dedicated programme at degree or postgraduate level. Confirmed by all three source reports. National comparators including CoSTAR Realtime Lab at Abertay provide a benchmark. | High
+Creative AI and data-driven media skills | No postgraduate provision; AI addressed as computing topic rather than applied creative competency. PEC report identifies as fastest-growing skills gap nationally. | High
+Short-course, CPD and modular upskilling for existing workforce | No publicly visible bootcamp or intensive programme provision at NESCol or RGU for working practitioners. SDS sectoral assessment identifies flexible and modular provision as a national priority. | High
+Business, enterprise and freelance skills embedded in courses | Identified as absent by SDS sectoral assessment; not addressed systematically in any current programme. | Medium
+Digital heritage and museum technology | No curriculum addressing digital curation, AR heritage interpretation or interactive cultural heritage. Growing market demand; directly relevant to regional heritage asset. | Medium
+[END TABLE 16]
+
+
+[TABLE 17]
+Course | Level | Alignment | Notes
+HND Games Design (including Digital Design and Development) | SCQF L8 | High | 2D/3D animation, game engines and prototyping; direct progression to RGU BSc Games Design Year 3
+HND Computing: Software Development (NextGen) | SCQF L8 | High | Core software skills; foundation for games, interactive systems and tools development
+HND Web Development | HND | High | Real-time front-end skills; applicable to interactive experiences and digital platforms
+HNC/HND Computing NextGen (AI, Networking, Cyber Security, Data) | HNC/HND | High | Explicitly incorporates AI, IoT and cybersecurity; foundation for creative-AI and data-driven media projects
+HND Television (NextGen) | HND | High | Multi-camera workflows, studio production and lighting; pathway toward virtual production literacy
+HND Sound Production | SCQF L6/L8 | High | Pro Tools and Logic skills; audio for games, film and interactive media
+Filmcraft and 3D Animation | NC/HND L6 | High | Animation and film pipelines; asset production for motion and VFX
+HND Photography | HND | Medium | Digital imaging and editing; applicable to virtual asset cinematography and content production
+Art, Design and Photography | NC/HNC/HND | Medium | Digital media and portfolio building; pathway into Gray's and further study
+Fashion and Textiles: Design and Manufacture | FE foundation | Medium | Digital portfolio building; limited advanced technical content
+Floristry, dressmaking and craft short courses | SCQF L5 and below | Low | Craft enterprise skills; not aligned to digital or immersive technology demand
+[END TABLE 17]
+
+
+[TABLE 18]
+NESCol programme | RGU pathway | University of Aberdeen pathway
+HND Games Design (Digital Design and Development) | BSc Computing and Creative Design, Year 3; BSc Games Design, Year 3 | Potential advanced entry to computing degrees subject to curriculum mapping
+HND Software Development (NextGen) | BSc Computing, Year 3 | BSc Computing, Year 2 or 3 subject to mapping
+HND Web Development | BSc Computing and Creative Design, Year 3 | Potential entry subject to mapping
+HND Visual Communication | BA Communication Design, Year 3 | BA Art and Design subject to mapping
+HNC Art and Design |  | BA Art, Year 2
+HND Textiles with Fashion Design | BA Fashion and Textile Design, Year 3 | 
+HNC Computing | BSc Computing, Year 2 | BSc Computing, Year 2
+HND Media and Communication (Production) | BA Communication with Journalism or related, Year 3 | Subject to mapping
+HND Sound Production | BSc Applied Audio Engineering (RGU), Year 3 | Subject to mapping
+[END TABLE 18]

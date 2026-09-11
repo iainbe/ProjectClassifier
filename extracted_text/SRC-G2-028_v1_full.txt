@@ -1,0 +1,1125 @@
+
+
+
+
+
+
+The Liverpool City Region Music Economy:
+A £1 Billion Sector
+Final Report — Economic Mapping and Analysis
+
+
+
+February 2026
+The Fifth Sector Limited / Unscrambled.world
+In partnership with University of Liverpool Institute of Popular Music
+
+
+
+Contents
+EXECUTIVE SUMMARY	1
+A distinctive music economy	1
+Sources of value	1
+The workforce pyramid	2
+Value capture and productivity	3
+Structural gaps	3
+The pathway to £1 billion	4
+Protecting what exists	5
+Conclusion	5
+1. Introduction	7
+Why conventional statistics undercount music	7
+Subsector taxonomy	8
+2. Scale and significance of LCR'’ music economy	9
+2.1 	A four-tier model of the LCR music economy	9
+3.	Business base	12
+3.1	Tiers 1 & 2: registered businesses	12
+3.2 	Tier 3: “informal” music businesses and organisations	13
+3.3  	Music venues	14
+4.	Music workforce	16
+4.1	Scale and significance of LCR’s music workforce	16
+4.1	Tiers 1 and 2: from headcount to FTE	16
+4.2	Tier 3: Freelance workforce	17
+4.3	Tier 4: “invisible freelancers” and the “shared utility” workforce	18
+4.4	How is employment distributed in the music workforce?	19
+5. 	Economic impact	21
+5.1 	GVA: direct contribution made by music sector employment	21
+5.2 Direct GVA: Base Case vs Integrated Case	22
+5.3	Calculating wider economic impact	23
+5.4	Interpreting LCR music sector productivity	25
+6. Network topology analysis	28
+7. Future growth: the pathway to £1 billion	30
+7.1 Growth Scenarios	30
+7.2 Growth Levers	31
+7.3 Understanding the emergent properties of LCR’s music sector	32
+7.4 Capturing more of the value of IP	33
+7.5 Increasing flow velocity: Scaling the informal sector	33
+7.6 Growing and creating local capture nodes: Plugging the leakage	33
+7.7. Maintaining productive chaos	33
+8. Conclusions	35
+8.1 	The LCR music economy is substantially larger than thought	35
+8.2	The music value chain has a specific shape.	35
+Appendix A: Approach and methodology	36
+Approach	36
+The value of granular mapping	36
+Methodology: a four-tier model of the music workforce	38
+Intensity coefficients: from headcount to FTE	42
+FTE Intensity	44
+Appendix B: Location Quotients	47
+LQs using ONS data	47
+From SIC codes to subsector LQs	50
+Appendix C: Data Sources	53
+Appendix D:	Sensitivity analysis and data quality assessment	54
+Risk analysis	55
+Appendix E: Glossary	57
+Appendix F: References	64
+Further use of this report …………………………………………………………………...	65
+
+
+
+
+EXECUTIVE SUMMARY
+A distinctive music economy
+This report provides the most comprehensive mapping yet undertaken of Liverpool City Region's music sector. By combining analysis of registered companies, industry platform data on freelance professionals and modelled estimates of the scale and value of the “portfolio” working” which is a defining characteristic of the region’s music workforce, we have constructed a picture that reveals a music economy substantially larger than previous estimates suggested. The headline figures are significant: more than 7,200 full-time equivalent jobs, generating direct gross value added of £406 million and total economic impact, including multiplier effects, of £780 million annually.
+But the headline figures matter less than what lies beneath them. Liverpool City Region possesses a music economy that is structurally different from the picture painted by national statistics. This is not simply a matter of heritage or reputation: the region has developed genuine specialisation in specific parts of the music value chain, supported by anchor institutions working across live and recorded music and the technical support and distribution services that support it. At the same time, other segments remain significantly under-developed relative to national benchmarks.
+This is not simply a matter of heritage or reputation. Whilst it still possesses gaps and remains at a disadvantage to London in some key respects, the interaction of the specialisms identified through mapping and consultation is what makes LCR’s music economy structurally different from other UK regions, and provides the source of its ongoing competitiveness and growth potential.
+Sources of value
+Three subsectors demonstrate exceptional concentration relative to national benchmarks.
+Publishing and licensing: LCR has nearly seven times the national average level of employment in music rights administration. This reflects the presence of Sentric Music, which has grown from a Liverpool startup to become one of Europe's largest specialist music licensing businesses, combining sync licensing, royalty administration, and associated compliance for international markets. Its success demonstrates that nationally significant music businesses can be built and scaled outside London. The company's presence also creates opportunity for a broader cluster in adjacent services: recording, labels and distribution, management and music R&D.
+Technical production services (captured within the Rehearsals & Equipment subsector) show strong agglomeration effects in both workforce and business measures. Adlib Audio, founded in Liverpool in 1984, is a nationally-recognised leader in sound and lighting for live music and serves major touring productions, festivals and corporate events across the UK and internationally. The company anchors a wider cluster of technical suppliers, equipment hire firms, and specialist freelancers. This infrastructure makes LCR an attractive base for touring productions and contributes to the region's capacity to host major events.
+Live events and venues shows high workforce concentration across a sector comprising a mix of large venues (ACC Liverpool, the Royal Liverpool Philharmonic and stadia including Anfield), local branches of national chains such as ATG and O2 and over 100 mid-scale and grassroots spaces serving a wide range of genres and audiences, from the 1,500-capacity Liverpool Olympia to the network of dedicated music venues accredited by the Music Venue Trust. Below this sit a further 500 smaller venues with a less frequent but still culturally and economically vital live music offer in bars, pubs and social clubs across the region. This infrastructure creates the demand that sustains technical production, artist development, and the broader supply chain.
+The workforce pyramid
+The study reveals a workforce structure that differs markedly from conventional industries. Out of a workforce of over 14,000 individuals, employees of registered businesses account for only 32 per cent are employees in registered businesses. The remainder comprises music freelancers (46 per cent) and “shared utility” workers whose employment is partially attributable to music (22 per cent).
+Translated into GVA terms,  permanent employment represents only 45% of the total economic impact of music in the region. 
+This structure reflects the economic reality of music careers. The median music business in LCR employs fewer than five people. Most musicians, producers and technicians operate as self-employed professionals, often combining multiple income streams within a single working week. Survey evidence suggests that 48% of music professionals derive less than half their income from music-related work. The portfolio career is not an aberration but the norm.
+The consequence is that conventional economic statistics, which rely on employer payroll data and company registrations, capture only part of the picture. Analysis of ONS data suggests a music workforce of between 1,200 and 1,500 employees; previous estimates placed the LCR music workforce at approximately 3,500, including around 2,000 freelancers. This report identifies a portfolio workforce of over 14,000 individuals - more than four times larger. The difference is not the result of measurement error but methodological reach: by combining firmographic analysis with platform data which allows us to validate the presence of music freelancers and survey-based inference which gives further insight into portfolio working across live music, we have made visible a workforce that official statistics cannot see.
+Value capture and productivity
+Productivity varies dramatically across the sector. Publishing and licensing generates £145,798 GVA per full-time equivalent employee; a freelance musician will generate on average £18,377 whilst spending around three-quarters of their time in music-related employment. This near eight-fold differential is a structural feature of how value flows through the music economy; it also provides insights into where more of that value can be captured in the region and for the greater benefit of those responsible for generating the original IP from which it flows.
+In the language of complexity economics, artists occupy generative positions: they create the raw material (songs, performances, recordings) from which all other value derives. But generative positions are characterised by high uncertainty and many possible outputs. Value concentrates instead at capture positions, where flows aggregate and uncertainty is reduced: the rights administrator processing millions of micro-transactions, the technical production company with established client relationships and capital equipment, the venue with programming control and ticket revenue.
+The implication for policy is that interventions focused solely on supporting artists will not, by themselves, increase the sector's economic contribution. Value capture requires infrastructure: publishing administration, technical production capacity, venue programming, management expertise. LCR has developed strength in some of these areas but not others.
+Structural gaps
+Two sub-sectors are notably under-represented.
+Management and business services shows a workforce location quotient of just 0.37, meaning LCR has less than two-fifths of the level of employment in artist management, booking agencies, and music-focused professional services that we might expect to find in the region. This gap has consequences. Artists seeking professional management or label deals must typically engage London-based representatives; some locally resident representatives must base themselves in London. The commercial infrastructure needed to convert creative talent into sustainable careers is weaker than it should be given the strength of the underlying talent base and performance infrastructure.
+Marketing and media reflects the presence of mainly small agencies whose limited scale, which in turn inhibits their market reach. Larger contracts, particularly in music PR and specialist marketing, continue to flow to London firms. This represents both a gap and an opportunity: as the sector grows, demand for locally-based marketing services should increase.
+The pathway to £1 billion
+Our analysis indicates that Liverpool City Region’s music economy contributes over £400 million in GVA, with a total economic impact of £780 million. From the current baseline, achieving a target of having the music economy contribute £1 billion in economic value by 2035 would require compound annual growth of 2.5%. This is comfortably below the 5.6 per cent annual growth recorded by UK creative industries between 2010 and 2019, and below the 3.9 per cent growth of the UK music sector over the same period.
+The target is therefore achievable without heroic assumptions, provided the conditions for growth are maintained. The analysis identifies four main growth levers:
+Artist IP capture represents the largest opportunity. The productivity differential between musicians (£25,174 per FTE) and publishing (£145,798 per FTE) reflects, in part, failure to register and administer rights effectively. Interventions that help artists capture more of the value they create, through improved metadata, publishing registration, and sync readiness, could contribute significantly to sector GVA without requiring additional headcount.
+Production export growth would build on existing strengths. Adlib and the wider technical production cluster already serve national and international clients. Further expansion of this export-oriented activity would inject external value into the regional economy.
+Formalisation of the freelance workforce would improve business sustainability and data visibility. Many Tier 3 and Tier 4 workers operate informally, limiting their access to finance, premises and business support. Targeted support to help these musicians, DJs, promoters, studios and music bloggers formalise and grow as businesses, where it makes economic sense, would strengthen the ecosystem.
+Music technology innovation represents a longer-term opportunity. Spatial audio, AI-assisted production, and new platform models could create additional value pathways, particularly given the region's existing strengths in technical production and rights administration and the presence of the AHRC-funded MusicFutures R&D programme.
+Protecting what exists
+The analysis also highlights both threats to the existing venue infrastructure – an essential part of the ability for artists to create new IP and for other technical and professional services to benefit from it. The vulnerability of grass roots venues has been widely reported, and recent years have seen the closure of iconic venues, particularly in the city core. The position of the remaining venues is under threat from other fiscal pressures (business rates, increasing costs of wages and supplies, extension of parking charges) which exacerbate concerns about underinvestment in public transport infrastructure (particularly late at night) and planning concerns around the development of new residential accommodation taking precedence over maintaining existing venues. Venue circuit strengthening would increase the circulation nodes through which value flows. Measure to underpin and better connect the current infrastructure of 118 dedicated music venues could also support  investment and expansion, improving the touring circuit and supporting artist development pathways.
+There is also a risk around the concentration of value in a small number of sector “primes”. The departure of any Tier 1 employer would materially damage the ecosystem. The region’s five largest employers together account for nearly 800 jobs, over 10 per cent of the total, and more than xx% of GVA.
+These anchor companies have been formed in and have chosen to remain in Liverpool. Their continued presence should not be taken for granted. Active relationship management, appropriate business support, and an operating environment that rewards their commitment to the region are essential to maintaining the sector's current scale, let alone achieving growth.
+Conclusion
+Liverpool City Region's music economy is larger, more specialised, and more structurally distinctive than previous estimates have recognised. Its strengths lie not in heritage but in the contemporary infrastructure of rights administration, technical production, and live performance. Its weaknesses lie in the commercial services, particularly management and marketing, that convert creative activity into sustainable business. The £1 billion ambition is achievable. But achieving it will require sustained attention to the structural conditions that enable growth: protecting anchor companies, strengthening the venue circuit, improving artist value capture, and building the management and business services capacity that the sector currently lacks. The evidence assembled in this study provides the foundation for that work.
+
+
+
+1. Introduction
+Mapping of Liverpool City Region’s music sector, undertaken between April 2025 and January 2026, confirms the region’s status as a nationally significant industrial cluster and one worthy of its global recognition as a City of Music.
+This exercise, conducted in partnership with LCR Music Board and the University of Liverpool’s Institute of Popular Music, went into greater depth than any previous mapping of the region’s music economy and was rewarded with evidence of a sector whose total regional economic impact exceeds £780 million. With a base of 335 registered businesses, 160 sole traders, 70 charities and a further 500 or so venues which occasionally host live music, and a workforce approaching 14,350 people, the sector is considerably larger than previously estimated. This is in large measure because national statistics overlook the largest element of the music supply chain: a freelance workforce of more than 4,600 visible professionals and a further 7,100 “shared utility” workers whose employment is partially sustained by music. 
+Why conventional statistics undercount music
+National economic statistics rely on Standard Industrial Classification (SIC) codes designed for an industrial economy of factories, offices and retail premises. They are ill-suited to a sector characterised by:
+Nano-businesses: The average music enterprise in LCR employs 2.5 full-time equivalent staff. Many operate below the VAT threshold and are invisible to HMRC-derived datasets.
+Portfolio careers: Musicians, producers and technicians frequently combine multiple income streams within a single working week: performance, session work, teaching, licensing. National statistics struggle to assign such individuals to a single sector.
+Informal trading: A significant proportion of the workforce operates on a freelance or self-employed basis, outside the formal structures of PAYE employment or company registration.
+Platform invisibility: Professional musicians operate predominantly outside conventional employment structures. Survey evidence suggests 46% of music professionals derive less than half their income from music-related work; many maintain no company registration, streaming catalogue or professional social media presence.
+The consequence is that ONS data captures only the visible portion of a much larger economic iceberg. This mapping uses a range of other sources and innovative models to reveal the true scale of Liverpool City Region's music economy.
+Subsector taxonomy
+This mapping followed a bespoke taxonomy of music subsectors developed by the Institute of Popular Music at the University of Liverpool (and detailed in Appendix B, below.) This grouped over 200 narrowly defined music occupations into seven subsectors, as shown in Table 1.
+Table 1 Subsector definitions
+
+Two sectors were explicitly excluded from this analysis: 
+Education & Community Music - it is practically impossible to separate out music lecturers from within the population of university employees and college lecturers without a dedicated census. Freelance music teachers and community musicians tend to be the kind of portfolio workers whose music-related employment is to some extent captured in our Tier 3 and 4 workforce analysis (see below for details); any other method to calculate their employment would risk double-counting, so has been exclude. 
+Heritage & Tourism - the Tier 4 methodology takes a bespoke approach to attribute  the music-related proportion of employment in large multi-purpose venues and, at the other end of the spectrum, in pubs, bars and social clubs with an element of music programming. The method is designed to mitigate the risk of conflating music production with heritage consumption; although we know that music tourism is a significant contributor to the city region’s visitor economy, we have not tried to isolate a music-specific economic contribution.
+2. Scale and significance of LCR'’ music economy
+2.1 	A four-tier model of the LCR music economy
+Registered businesses and their employees capture only a small proportion of the music economy. To capture the full extent of the LCR music economy, we developed a four-tier taxonomy that distinguishes between different levels of visibility, formality, and economic intensity within the workforce. Each tier required a distinct data collection methodology and intensity weighting.
+Tier 1: Sector primes
+Analysis of various data sources, including Companies House filings, The Data City firmographic analysis, cross-referencing with sector-specific directories and trade body membership lists, identified a small group of ~25 music-specialist registered companies in LCR with annual turnover exceeding £250,000. Although many of these are still technically SMEs, because they have structural characteristics and supply chain relationships which differentiate themselves from the remainder of registered music-related businesses in the region, which are almost exclusively microenterprises, we identified these as a separate tier of ‘sector primes’. This tier includes nationally significant firms such as ACC Liverpool Group (including the M&S Arena and Exhibition Centre), the Royal Liverpool Philharmonic (concert hall and live music venue), Sentric Music (rights administration), Ditto Music (digital distribution), Sound City (music festivals and education), Modern Sky (record label) and Adlib (technical production and equipment hire). These firms are the anchor institutions of the regional music economy.
+Tier 2: SMEs and Micro-businesses
+We used a mixture of methods to apply a “primary activity” test to establish active music businesses registered in and with a business location in LCR:
+ONS evidence from IDBR using Standard Industrial Classifications (SIC codes)
+Analysis of the The Data CityTM platform, using SIC codes, RTICs and keyword searches to establish businesses registered at Companies House and provide evidence of recent trading activity to distinguish active music businesses from dormant registrations
+Analysis of the Charity Commission register (to identify companies limited by guarantee) and register of Community Interest Companies
+A further 310 companies were identified as Tier 2 SMEs and micro-businesses. This tier represents the specialist infrastructure of the region: recording studios, rehearsal spaces, equipment hire, artist management, booking agencies, and event production companies.
+Tier 3: Visible freelancers
+The majority of the music workforce is in freelance and self-employed roles. This includes members of “informal” organisations (including bands and activities such as rehearsal spaces and recording studios organised as partnerships or collectives as opposed to registered companies). We used a wide range of platforms and analyses to identify them including:
+Analysis of LinkedIn subscribers giving a Liverpool City Region address as their primary location to identify professionals listing music-related job titles (producer, engineer, session musician, tour manager, music publicist) 
+Analysis of social media platforms to identify non-registered businesses with a demonstrable digital footprint indicating sustained music-sector activity
+MusicSeen analysis of Instagram artist accounts to identify individuals maintaining active artist profiles (regular posting, venue tagging, release announcements), cross-referenced with those whose Spotify accounts showed evidence of professional catalogue management (regular releases, playlist placements, verified artist status)
+Musicians' Union membership records and other trade association membership registers and websites
+Analysis of proprietary data on freelance technical support workers (sound technicians, lighting designers, riggers etc)
+Tier 4: Invisible freelancers and “shared utility” workforce
+There is a further sizeable and economically significant tier of people actively engaged in Liverpool’s music sector who are “invisible” to traditional forms of statistical data analysis. This combines two groups: invisible freelancers and shared utility workers.
+“Invisible freelancers” are professional musicians and practitioners not on payrolls and without a significant digital footprint. Survey-based inference and benchmarking against UK Music reports on the scale of the national music workforce was used to estimate the population of professional freelance musicians who do not maintain streaming catalogues or professional social media profiles. 
+“Shared utility” workers are those in  adjacent sectors (hospitality, events, technical services) for whom music-related activity represents a meaningful but minority portion of their employment. They have been identified through examination of diverse data sources, including: venue programming schedules; freelancer databases; festival and event staffing records.
+3.	Business base
+3.1	Tiers 1 & 2: registered businesses
+The count of businesses included both firms registered to addresses in Liverpool City Region and local units of companies registered elsewhere in the UK. This total includes 295 registered businesses; 20 charitable companies (Companies Limited by Guarantee) and 20 Community Interest Companies. Their size distribution is shown in Table 3.
+Table 2  Registered businesses and employees by sector
+
+Source: The Fifth Sector analysis of The Data CityTM, University of Liverpool listing of music businesses, BRES (2024) and IDBR (2025) data on local business units and employees (via Nomisweb, last accessed 19 February 2026). Business counts rounded to nearest 5; business count for sub-sectors marked with * suppressed to prevent disclosure
+
+The size distribution (Table 3) of these companies tells its own story; ~25 Tier 1 sector primes and fewer than 15 other small firms account for 90% of employees. The remaining ~300 businesses are overwhelmingly micro-enterprises employing just 270 people between them, an average of less than one per firm, reflecting the significance of owner-directors with no other employees. This is a sector of nano-businesses, and it is why SIC-based analysis systematically understates its scale.
+Table 3  Business size and employee distribution
+
+3.2 	Tier 3: “informal” music businesses and organisations
+In addition to the registered businesses, LCR is home to a further 230 music businesses:
+70 “informal” music organisations (choirs, festivals, community organisations and council-owned venues not included in the count of registered businesses)
+160 sole trader/self-employed businesses
+
+Combining the registered and informal/sole trader businesses provides further insight into the structural base of the LCR music economy:
+Table 4  Complete business count by sub-sector and type (Tiers 1-3)
+Source: The Fifth Sector analysis of University of Liverpool data. Totals rounded to prevent disclosure, so row and column totals may not sum. Companies marked * suppressed.
+Key Findings
+Live & Events is the largest sub-sector, with 230 business units across all types; national chains, large local venues, independent venues, council-owned venues and community spaces. This is before counting the 500 or more bars, pubs and social clubs which are detailed in Music venues, below
+Recording & Distribution presents low barriers to sole traders: there are 85 sole traders, including DJs, bedroom studios and micro-labels, versus 90 companies
+Management & Business Services is sparsely represented across all business types, pointing to a gap in the IP value chain within LCR 
+Publishing & Licensing is entirely formalised; all businesses are registered companies (reflecting formal structures required for rights administration) 
+Marketing & Media has more sole traders than companies and is arguably disproportionately small
+3.3  	Music venues
+We analysed venues separately because they overlap other subsectors, tiers and company structures to such a great extent. A "venue" may be any space where live music is performed, ranging from dedicated concert halls to pubs with occasional acoustic nights. The Liverpool Live Music Map identifies 621 venues hosting live music across the city region. Of our 565 identified music business units, both registered and informal, we count 97 as venue operators - organisations whose primary business is operating a music venue. This represents:
+16% of the 621 spaces on the Music Map
+82% of the 118 Frequent Music Event Spaces
+100% of the 44 Dedicated Music Venues
+The remaining 524 venues on the Music Map are predominantly hospitality businesses (pubs, bars, restaurants, hotels) where live music is a secondary activity. These are not counted as music businesses in our economic analysis, though they form a vital part of the live music ecosystem and provide significant performance opportunities for LCR artists.
+The Music Map research team (a collaboration between Liverpool City Region Music Board and researchers from The University of Liverpool) applies a categorisation based on two key metrics: frequency of music events and dedication to music as primary business function.
+Frequent music event spaces (hosting live music 3+ times per week): 118 venues
+Of these, 42 have capacity exceeding 200
+76 are smaller spaces (typically bars/pubs) with capacity under 200
+Only 10 (8%) are classified as "Dedicated Music Venues" where music is the primary business
+Less frequent music event spaces: 503 venues
+These host live music between monthly and twice weekly
+Staff time dedicated to music programming is typically below 10%
+Most are pubs, restaurants, social clubs where music is ancillary to core hospitality function
+Dedicated music venues: 44 venues
+These are spaces where 100% of staff time relates to music venue operations
+13 are members of the Music Venues Trust (MVT)
+Only five overlap with the "Frequent" category (Arts Bar Hope Street, Future Yard, Philharmonic Music Room, Quarry, The Cavern Club)
+The remainder host music less frequently but are purpose-built or primarily configured for live performance
+Large capacity venues (1,000+): 37 venues
+These include arenas (M&S Bank Arena: 11,000), stadia (Anfield: 55,000), outdoor spaces (Sefton Park: 50,000), and concert halls
+Only two of these 37 are within the list of 118 "Frequent" venues: Camp & Furnace and Liverpool Philharmonic Hall
+Categories vary significantly: the large venues group includes six stadia, seven outdoor greenspaces, six large nightclubs, with the remainder purpose-built music venues
+Overlap with other business datasets
+
+Table 5  Categorisation of live music venues
+
+
+
+4.	Music workforce
+For many sectors, and in many other statistical analyses of the music sector, measuring full-and part-time employees would be the only step in measuring the scale of the music workforce. For us, it was only the first step in a process that led from measuring headcount to being able to articulate the economic reality of the music workforce in its widest sense.
+For this we used a similar “tiered” analysis to that used in the assessment of the business base, adding the fourth tier of “invisible freelancers” and “shared utility” workers. It revealed a workforce larger by a factor than that shown in national statistics, and defined to a greater or lesser extent by “portfolio” working rather than permanent employment.
+4.1	Scale and significance of LCR’s music workforce
+Figure 1 Liverpool City Region music workforce (n=14,370)
+
+Source: The Fifth Sector, 2026
+4.1	Tiers 1 and 2: from headcount to FTE
+Headcount of the workforce of registered music companies includes both full- and part-time employees in differing proportions for each subsector. We used an “FTE coefficient” derived from analysis of employment data from ONS and The Data City, which ascribed each full-time role with a value of 1.0 and each part-time role with a value of 0.5, with the following result:
+Table 6  FTE employees for Tiers 1 & 2
+Source: The Fifth Sector analysis of BRES 2024 and The Data City
+4.2	Tier 3: Freelance workforce
+A similar principle was applied to the freelance workforce, using data from LinkedIn.
+Table 7   FTE workforce: Tier 3
+
+This freelance workforce of 4,655 is in addition to the employee base: it is visible to our analysis, but invisible to national statistics. More of these freelancers are working in a part time capacity, very often including music in a “portfolio” of work which combines multiple music-related roles with other non-music occupations, resulting in the lower FTE coefficients for Tier 3. This is still a professional music workforce. but one whose work is organised around a “portfolio” of opportunities rather than permanent employment, contributing 3,340 additional FTE roles (47% more than the employee base) to the city region’s music workforce.
+4.3	Tier 4: “invisible freelancers” and the “shared utility” workforce 
+The next step in understanding the full value of the music sector was drawn from inference about two further segments of the music workforce captured in “Tier 4”:
+“Invisible freelancers”: musicians not in employment and with no visible online profile. This includes artists and musicians whose presence was inferred from relating the number of employees and “visible” freelancers recorded in LCR to UK Music estimates for the total number of active professional musicians across the UK - apportioning this in line with the population of LCR would bring that total to 4,430. Their presence was further validated by evidence from the LCR Music Board survey which stated that only 45% of respondents had a LinkedIn profile; as analysis of LinkedIn positively identified over 2,000 freelance artists and musicians, we could infer a total of some 4,500 freelancers; of those 3,033 were identified through Instagram and Spotify royalty records. Taking the more conservative of those estimates gave a total of 4,430-(280 employees - 3,033 freelancers) = 1,117 “invisible” freelance musicians. Their FTE coefficient was assumed to be in line with the UK Music sector estimate of 0.63.
+A “shared utility” workforce, made up of a mix of casual and part-time technical services, event management and professional services staff engaged respectively in delivering large-scale live music (audiences of 10,000+) in venues such as ACC and at stadia events such as the Taylor Swift “Eras” tour at Anfield. The FT coefficient for these workers is an apportionment of toal working hours spent in music-related employment, whether employed, freelance or casual.
+Table 8  Tier 4 workforce: FTE
+
+Tier 4 nearly doubles the size of the total workforce (from 7,275 to 14,375) and adds a further 1,600 FTE roles- 22% of the total for all parts of the city region music economy.
+4.4	How is employment distributed in the music workforce?
+Bringing the analysis of employees, freelance and casual workers from all tiers together gives us an analysis of the city region’s music workforce in terms of full time equivalent roles:
+Table 9  Liverpool City Region music workforce: Full-time equivalent roles (FTE)
+
+
+ 
+Analysis of the distribution of FTE by sub-sector and by tier reveals the structural character of each sector. This showed that:
+Publishing & Licensing was the sector most organised around “formal” employment structures, with 97% of the workforce on payroll of larger organisations like Sentric, Ditto, and a handful of smaller publishers. 
+Artists & Musicians is 71% freelance
+Live & Events is split three ways, with 38% in the shared utility tier
+ These are fundamentally different labour markets requiring different policy interventions.
+
+Table 10  FTE Distribution by subsector and tier (%)
+
+The next section relates the scale and distribution of the music workforce to measures of sector productivity. 
+
+
+5. 	Economic impact 
+5.1 	GVA: direct contribution made by music sector employment
+The importance of understanding the number of Full Time Equivalent roles in each tier of the workforce becomes clear when we translate these data into an analysis of GVA for the city region’s music economy.  
+By comparing data from company records, ONS industry benchmarks and evidence from trade bodies, we were able to estimate GVA for full time equivalent job for each subsector of the LCR music economy.
+Table 11  LCR music sector GVA per FTE by subsector
+
+Our analysis of the music sector finds that it is more productive than the regional average for all industries. GVA per capita in the Liverpool City Region averaged £27,308 in 2023, ranging from £18,986 in Sefton to £36,588 in the Liverpool city core. 
+The music sector’s average productivity of £56,295 per FTE is more than twice the Liverpool City Region average for all industries. Even the lowest-productivity sub-sector (Artists & Musicians at £25,174) is close to the regional average. Publishing & Licensing, at £145,798 is more than five times as productive as the average for all industries in LCR. This analysis already shows that music is not a low-value sector; it is a high-value sector with a wide productivity distribution.
+5.2 Direct GVA: Base Case vs Integrated Case
+Applying the evidence of GVA/FTE allows us to show the breakdown of direct output for each tier and subsector of the LCR music economy:
+Table 12  Total music GVA by tier and subsector (£ million)
+
+We have analysed findings for music’s direct economic output under two scenarios: 
+A “Base Case”, representing both employment and directly measured freelance workforce, representing 5,625 FTE generating £324.7 million in direct GVA
+An “Integrated Case”, which adds the inferred value of the “invisible” freelance workforce and “shared utility” of support activities in venues which present music on a less regular basis, extending to 7,215 FTE and GVA of £405.9 million
+The Base Case represents the full extent of the “visible”  LCR music sector workforce whose presence and value can be validated by primary and secondary data from a wide range of sources including ONS, The Data City, UK Music, LinkedIn, Instagram, Spotify, the LCR Music Board survey and proprietary databases of freelance workers.
+The £156 million gap between the two scenarios represents the economic contribution of an “invisible tier” of the music economy, not previously reflected in sector mapping: workers essential to the music economy’s functioning but outside conventional measurement. It captures the real and structurally significant contribution of a diverse group of people with roles varying from bar staff pulling pints on band nights, stadium operatives for large-scale events at Anfield and Aintree, casual crew loading in for arena shows, musicians with a portfolio of other interests and media professionals with a partial music focus. 
+The inclusion of additional “shared utility” workers does not dilute productivity. In fact, integrating 265 additional FTE in Live & Events (stadium operations, event logistics) increases the sector’s GVA from £54.8 million to £89.7 million because these roles, while part-time in music terms, are concentrated in higher-value event delivery and technical production.
+Their contribution is real, even if ONS cannot see it.
+The Integrated Case also makes clear that permanent full- and part-time employees together generate less than half (45%) of the sector’s output, reinforcing the importance of freelance and “portfolio” working to LCR’s music economy. (The comparable figure for the base case is 57%, with freelance workers and “informal” Tier 3 organisations making up the remaining 43% of output – which still reflects a very high level of freelance working.) 
+Table 13  Direct GVA: Base Case and Integrated Case scenarios
+
+5.3	Calculating wider economic impact
+To understand the wider economic impact of the region’s music sector, we used multiplier to measure the “ripple effect” of indirect and induced GVA. For every £1.00 generated directly by a music business, we calculate the secondary money it “stirs up” in the regional economy. This uses a Type II Multiplier, similar to those used by devolved governments in Scotland and Wales:
+Indirect Impact (Supply Chain)
+This is the GVA generated by the B2B spending of music firms. When a venue like the M&S Bank Arena hires a security firm, a caterer, or an electrician, that spending supports other LCR industries. We calculate this at a multiplier of 0.45 because the city region has a “sticky” supply chain: unlike other cities that might “leak” their technical needs to London, Liverpool has a massive, self-contained technical hub. Venues generate a high volume of local spending on security firms, electrical contractors, equipment PAT testing, and specialised cleaning. Because firms like Adlib are here, and a strong cluster of rehearsal and recording facilities exists locally, music businesses buy their goods and services locally.
+Table 14  Definitions of Economic Impact
+
+Induced Impact (Wage Spend)
+This is the GVA generated by the spending of employees and freelancers who work in the music sector. When an employee at Sentric or Adlib spends their salary on rent, in a local restaurant, or at a local shop, that music wage supports the wider LCR economy. Having a pool of 7,200+ music professionals who primarily live in the LCR means their “portfolio income” stays in the region. We calculate this at 0.47 because Liverpool is a compact city region with a distinct identity and a high propensity for music workers to spend disposable income in other local music venues or independent businesses.
+The result is a total economic impact of £779.8 million.
+Table 15  Total economic impact by tier
+
+Why 1.92 is the Correct Number
+Auditors or officials unfamiliar with the dynamics of LCR’s music economy might ask why we don’t use a lower, “safer” multiplier (like 1.3 or 1.5). The justification is based on leakage:
+Low leakage: In a smaller town, the multiplier is low because the money “leaks” out (e.g., venues have to hire a sound system from another city); LCR already has the capital asset and the skilled crew needed to deliver this
+High multiplier (1.92): In the LCR, the multiplier is high because the leakage is low. LCR has the artists, the venues, the technical infrastructure and the IP-generating activity within a 15-mile radius
+Benchmark: A multiplier of 1.92 is what you would expect for industrial clusters of national significance. It is the same type of multiplier you would see for the Aerospace cluster in Bristol or the Life Sciences cluster in Cambridge. It signals that music in Liverpool City Region is a mature, self-sustaining industrial ecosystem.
+The multiplier is validated against two independent sources: Gutierrez-Posada et al. (2023) in Economic Geography (“each creative job generates at least 1.9 non-tradable jobs” in UK cities over a twenty-year period); and Cebr (2017) for Arts Council England (arts/culture multiplier of 1.94 using ONS Input-Output Tables).
+
+Table 16  Total economic impact by tier and subsector (£ million)
+
+5.4	Interpreting LCR music sector productivity
+Origin of value vs. extraction of value
+While the Artists & Musicians category makes up the largest single subsector of the music workforce, it has the lowest GVA per capita. This is the single most important structural finding of the mapping, and it has direct implications for policy and investment.
+Artists provide the “fuel” for the music economy: original IP, performances, recordings, the raw creative material on which the entire economy depends. But the “refineries” of that value - live venues, technical production companies, rights administrators and distributors - are where that fuel is converted into high GVA goods and services. An artist performing an original song at a 200-capacity venue generates a performance fee. The same song, registered with a publisher, placed in a sync deal, administered through a rights platform, generates royalties for decades. The value is the same; the capture mechanism is different.
+Analysis of the findings from the LCR Music Board survey, in which respondents were asked to provide detailed evidence of the mix of full-time and part-time music-related activities, showed that the region’s 3,140 FTE musicians have a high FTE intensity (0.73 for Tier 3), meaning they are professional portfolio workers, not hobbyists. However, because they largely operate in the “informal/invisible” freelance workforce, their average GVA per FTE is £25,174, compared to £95,646 for technical production specialists working in Rehearsals & Equipment and £145,798 for an employee in IP-related activity in Publishing & Licensing.
+The 5.8× productivity differential between Publishing & Licensing and Artists & Musicians is not a market failure. In complexity economics terms, it is a network topology property: value concentrates at high-centrality nodes where flows are standardised and rights are aggregated. Artists occupy generative positions (high entropy, many possible outputs); IP managers occupy capture positions (low entropy, standardised contracts). The differential is a system property to optimise — by improving the rate at which creative output converts into captured IP value — not a distortion to correct.
+Figure 2  Productivity by sector: GVA per FTE
+
+Live and technical production cluster: LCR music sector’s economic “moat”
+The true industrial anchor of Liverpool City Region’s music economy is the Live, Rehearsals, and Technical Production cluster. Live & Events and Rehearsals & Equipment together represent nearly half - 48% - of the total value of LCR’s music economy.
+This technical infrastructure is the region’s “economic moat.” While every city has bands, Liverpool City Region has something far harder to replicate: a cluster of sophisticated, high GVA technical production firms that collectively account for some 300 permanent jobs, led by Adlib Audio, a mapped network of 621 venues including 118 dedicated music venues, and a workforce with the high-end creative and technical skills required to sustain them. 
+This cluster does not only serve Liverpool and the North of England; it is an export-oriented operation serving national and international touring productions. When a major artist tours the UK, there is a meaningful probability that the lighting rig, the sound system, or the crew came from Liverpool City Region. That is the kind of tradable service that drives genuine growth.
+We can also observe that the proportion of the workforce in permanent employment also correlated with levels of productivity.
+
+
+
+6. Network topology analysis
+To better understand the connectedness of Liverpool’s music economy, we conducted analysis of network topology (Social Network Analysis, or SNA) using LinkedIn data to map workforce movement between 272 businesses in the City Region. The findings suggested that some parts of the network are better connected than others: there are a small number of larger organisations that demonstrate high levels of interconnectedness, but the density of the network is not such that we can unequivocally point to evidence of knowledge transfer.  The central portion of the graph can be seen below. 
+Figure 3  Social Network Analysis of workforce movements
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source: University of Liverpool analysis of Liverpool City Region’s music workforce, based on analysis of LinkedIn carried out by Unscrambled.world
+The nodes are colour-coded to demonstrate the degree to which each organisation is a member of a triangle (a closed group of three, mutually connected nodes. A is connected to B, B is connected to C, C is connected to A). The larger the node, the more connections it has overall.
+The findings indicate:
+Small to medium sized nodes with moderate to high triangle membership (Future Yard, The Tung, Invisible Wind Factory, Adlib) indicate embeddedness within a reasonably niche labour market, within which workers circulate more frequently than average for the overall sector. 
+Large nodes with moderate to high triangle membership (Sound City, The Liverpool Philharmonic) indicate a hub-like role within the labour market. These organisations see high employee mobility within a wider range of sectors in the music ecosystem. 
+Despite the existence of these central organisations, only 0.6% of possible connections are present here. The network is diffuse. The average degree per organisation is 1.67, meaning most organisations are connected to one or two other organisations. The average number of employees moving between any two organisations is 1.3. Most organisations share employees with very few others, and the number of workers moving between any two organisations is also very small. 
+However, 12% of the connections that do exist are within closed communities of three (triangles). In such a diffuse network, that 12% of connections are closed indicates workers moving with clear intention between a small number of organisations. 
+To summarise, Liverpool’s music sector is not an open labour market. Only 0.6% of possible connections exist within our SNA. The average number of connections per business is 1.67, and the average number of employees moving between any two businesses is 1.3. Given the number of freelancers present in the city region, this is sparse. Whilst some larger organisations (Liverpool Philharmonic, Sound City, the Everyman) see higher levels of workforce movement and therefore occupy a more visible position in the graph, there is no dominating force, nor obvious existence of rigid, closed cliques. 
+However, this is not to say that there isn’t any structure. That 12% of present connections within this network are triadic indicates a tendency for the workforce to circulate between small groups of organisations. Given the small geographic footprint of LCR and the high number of SMEs within the music sector, it is reasonable to infer that these closed triplets of organisations are divided along boundaries of specialism. The music workforce is highly specialised, and the network topology suggests that these workers are moving judiciously between a small number of small, specialist organisations. This aligns with conclusions from other analyses of venue and workforce data and supports the thesis that Liverpool has a particularly “sticky” music supply chain. Liverpool’s music ecosystem is populated by small specialists; analysis of workforce movements reflects this. 
+
+ 
+7. Future growth: the pathway to £1 billion
+Liverpool is a city with a unique music heritage: the analysis provides evidence that it should be equally ambitious in setting targets for its future growth. From the Integrated Case baseline of £780 million GVA, reaching £1 billion by 2035 would require compound annual growth of just 2.5% over ten years. The growth scenarios and levers identified below show how this is achievable through a combination of organic growth and targeted intervention.
+7.1 Growth Scenarios
+Table 17  Growth Scenarios to £1 billion
+
+Figure 4  Growth scenarios to hit £1 billion by 2035
+
+Source: The Fifth Sector 2026
+7.2 Growth Levers
+Five growth levers have been identified, each with a specific mechanism and target contribution:
+Table 18  Growth levers
+
+Figure 5  Thematic growth levers
+
+
+7.3 Understanding the emergent properties of LCR’s music sector
+In order to address the opportunities within the music sector, we must first recognise that the LCR music economy is a complex adaptive system exhibiting the characteristic dynamics of creative ecosystems: power-law value distributions, functional specialisation across entropy gradients, and networked interdependencies. 
+The fact that Artists & Musicians represent 44% of the FTE workforce but capture only 20% of value does not represent a “market failure”; it is representative of a dynamic tension that actually drives the system. The productivity differential between musicians and music publishers (£25,174 vs £145,798 per FTE) reflects the fact that markets are rarely at equilibrium, but are constantly adapting. This is particularly the case for music, where fast-moving trends in technology and audience behaviour require constant adaptation and innovation; neither musicians nor publishers can expect to increase value by just doing “more of the same”. The productivity differential between artists and IP managers is not a market failure to correct, but a system property to optimise. The way to increase value is to understand the functional differentiation between different occupations and different tiers of the music economy, and to work systemically to optimise value for all sub-sectors. Artists occupy high-entropy, generative positions in the network; IP managers occupy high-centrality positions where value flows concentrate. The main ways to increase value for all parties are:
+Helping musicians better understand the latent value of their creative IP so that they can take steps to better protect and exploit is in existing and new forms
+Increasing flow velocity through the network (enabling faster rights registration, and translating that into real-time royalties) by promoting greater collaboration between artists and IP “refineries” to jointly increase value, leveraging the market knowledge and contacts that already exist to an unusually high level within the city region, as evidenced by the extraordinarily high LQ of publishing and licensing activities in LCR
+This in turn helps grow and create local capture nodes through increased incentives for publishers, labels and managers to further invest in Liverpool – a process that can be further accelerated by interventions to build more and larger “pools” in which to collect the a larger share of the flows of value which currently drain to London by investing in R&D, supporting partnerships with other creative sector rights holders (e.g., in film, games and immersive media) and promoting inward investment.
+MusicFutures is positioned to intervene at the flow level: building local capture infrastructure, accelerating value circulation, and ensuring Liverpool retains the compound growth its creative community generates. 
+7.4 Capturing more of the value of IP
+The acknowledged strengths of Sentric and Ditto point to the further potential of these and other companies involved in publishing, licensing, distribution and management to act as “refineries” for LCR’s community of 4,430 musicians to translate more of their output into repeatable IP value. MusicFutures’ programme contains the idea that, by training artists in metadata and IP management, the region could begin to capture the “long tail” of royalties that currently leaks to London or global hubs. Moving just 20% of artists’ output from “performance fee only” to “performance + IP ownership”, with support of the existing “IP refineries”, could represent a £40 million to £85 million shift in captured GVA.
+7.5 Increasing flow velocity: Scaling the informal sector
+The pathway to £1 billion requires moving more workers from informal Tier 3 roles in IP value capture and management (recording, distribution, licensing, promotion, management, marketing) into more productive Tier 1& 2 roles. If business support programmes helped formalise and scale just 500 of the existing freelance workforce into Tier 1 or 2 roles, the direct GVA contribution would increase by approximately £40 million to £50 million, resulting in a £75 million to £95 million total impact after multipliers.
+7.6 Growing and creating local capture nodes: Plugging the leakage
+Whilst maintaining the presence and building the strength of sector “primes” like Sentric, Ditto, AdLib and Sound City is critical to the continuing health of the sector, there are other structural weaknesses that need to be addressed. Management & Business Services, with an LQ 0.37, clearly reflects a gap in capacity and limits the ability of musicians to access professional management locally. Career development and IP capture both leak to London. Similarly, we have seen a number of promoters leave the industry, move into “tied” relationships with larger venue operators and focus more attention on promoting artists in other cities with more mid-sized and larger venues. The fragmentation and lack of scale of specialist marketing and media agencies is also a risk, and one which could constrain future growth. Unless the city region takes steps to provide business support to strengthen this local management, promotion and marketing infrastructure, the “refinery” that converts creative output into captured IP will remain incomplete and value will continue to leak between the gaps.
+7.7. Maintaining productive chaos
+In all of this, it is essential to understand that none of this is about trying to make musicians and artists train to be technical or IP specialists, nor diverting them from their main role: maintaining productive chaos at the artist tier while benefitting from concerted systemic efforts to build infrastructure at the value capture tier. Even if it were possible, bringing about “market equilibrium” between value creators and IP capture mechanisms would most likely kill the creativity which is an essential source of the dynamic on which all other tiers of the music economy depend. Continuing tactical support for musicians, of the kind successfully demonstrated through the Music Offices management of small grants made available through the Strategic Investment Fund, is essential to maintain a healthy and heterogenous sector.
+
+
+
+8. Conclusions
+The findings of this mapping make three things clear.
+8.1 	The LCR music economy is substantially larger than thought
+The LCR music economy is substantially larger than suggested by previous estimates. The Integrated Case (£780m total GVA) is 52% above UK Music’s figure. Even the sensitivity low case (£702.8m) is 37% above. The difference is the freelance and shared-utility workforce that SIC-based analysis misses entirely. 14,376 people are engaged in music-related work; 7,217 of them represent meaningful FTE contribution; and their combined output generates over £400 million in direct GVA before multiplier effects.
+8.2	The music value chain has a specific shape. 
+Live & Events is the biggest sector (£236.4m, 30% of total GVA) but operates at moderate productivity (£68,740/FTE). Publishing & Licensing is tiny by headcount (331 FTE, 5% of total) but generates £92.7m at £145,798/FTE. Artists are the largest workforce (3,142 FTE, 44% of total) but generate only £79.1m in direct GVA at £25,174/FTE. The 5.8× productivity gap between publishing and artists is the central structural feature. It is a system property to exploit — by improving the rate at which creative output converts into captured IP value — not a distortion to correct.
+8.3	The aim of growing a £1 billion sector is realistic one
+From the central baseline, 2.5% CAGR reaches the target in 10 years. That is below all relevant benchmarks for creative industries growth. The five growth levers total £328.2 million in target contribution. The question is not whether the arithmetic works but whether the interventions — particularly the £100m IP capture lever and the £60m formalisation lever — can be delivered at scale.
+
+Appendix A: Approach and methodology
+Approach
+Traditionally, regional economic audits rely on static, top-down statistical models. 
+National economic statistics, compiled by the Office for National Statistics (ONS), rely on Standard Industrial Classification (SIC) codes to categorise business activity. These codes were designed for an industrial economy of factories, offices, and retail premises. They are ill-suited to a sector like music, which is characterised by:
+Nano-businesses: The average music enterprise in the LCR employs 2.5 full-time equivalent (FTE) staff, compared to a UK small business average of 8.5. Many operate below the VAT threshold and are therefore invisible to HMRC-derived datasets.
+Portfolio careers: Musicians, producers, and technicians frequently combine multiple income streams - performance, session work, teaching, licensing -within a single working week. National statistics struggle to assign such individuals to a single sector.
+Informal trading: A significant proportion of the workforce operates on a cash-in-hand or invoice basis, outside the formal structures of PAYE employment or company registration.
+The consequence is that ONS data captures only the visible portion of a much larger economic iceberg. Previous estimates placed the LCR music workforce at approximately 3,500 and the business base at fewer than 500 firms. This mapping demonstrates that both figures significantly underestimate the scale and significance of Liverpool City Region’s music economy.
+The value of granular mapping
+To address the shortcomings of national statistics, this mapping has adopted a granular model  of economic influence, drawing on the principles of Complexity Economics.  
+The mapping and analysis of workforce and businesses, and the associated survey of music professionals led by LCR Music Board, was carried out across seven sub-sectors of the LCR music economy:
+Table 19  Subsector definitions
+
+This research deployed a multi-modal data collection strategy designed to penetrate the invisible layers of the sector. By combining firmographic analysis of registered businesses, digital footprint analysis of professional freelancers, survey-based inference of the informal workforce, and physical mapping of venue infrastructure, we were able to construct a comprehensive picture of the regional music economy.
+Our approach reflected the granularity of Liverpool’s music sector rather than making assumptions about aggregations. ‘Representative agent’ models (the standard economic theory approach, drawing on sample-based national statistics) typically fail to accurately measure the full scale and economic impact of creative industries because they ignore the unique behaviours of individual actors within highly fragmented and casualised workforces like those in music. Rather than viewing the Liverpool City Region (LCR) music sector as a single aggregated figure, or a composite of Standard Industrial Classifications, our methodology treated the economy as a dynamic network of interacting agents. By mapping individual professionals (via LinkedIn) and registered entities (via DataCity), we constructed a bottom-up industrial map. Counting the ‘agents’ (both employees and freelancers) and inferring the presence of other casual, but still essential, members of the music workforce from evidence of networks of venues and production companies produced a more accurate and granular picture of the sector’s real value than guessing the sector’s size from national averages.
+This level of detail allowed us to measure not just the 'equilibrium state' of the sector, but its structural evolution. Network topology analysis – mapping the connections between firms, measured by movement of workers from employer to employer -  bore out our impression of supply chain ‘stickiness'. The high number of interdependent connections shown by workers moving between organisations in LCR suggested that a higher than average proportion of revenues generated by music is retained in the regional economy. Tracking the movement of ‘agents’ – artists, musicians, technical production crew and others – and being able to accurately estimate the GVA for each full-time equivalent job role (FTE) for both employees and freelancers highlighted the unmet potential of the sector and how that might be realised by structural shifts, supported by targeted interventions in training, R&D and capital investment. 
+The result is an evidence base that can:
+Support strategic investment decisions by the Combined Authority and partner organisations
+Demonstrate the sector's economic significance to national policymakers
+Identify specific intervention points for growth acceleration
+Benchmark progress toward the £1 billion target
+Methodology: a four-tier model of the music workforce
+To capture the full extent of the LCR music economy, we developed a four-tier taxonomy that distinguishes between different levels of visibility, formality, and economic intensity within the workforce. Each tier required a distinct data collection methodology and intensity weighting.
+Tier 1: Sector Primes
+Analysis of various data sources, including Companies House filings, DataCity firmographic analysis, cross-referencing with sector-specific directories and trade body membership lists, revealed that there were only 27 music-specialist registered companies in LCR with annual turnover exceeding £250,000. Although many of these are still SMEs, because they have structural characteristics and supply chain relationships which differentiate themselves from the remainder of registered music-related businesses in the region, which are almost exclusively microenterprises, we identified these as a separate tier of ‘sector primes’. 
+This tier includes nationally significant firms such as the Royal Liverpool Philharmonic (concert hall and live music venue), Sentric Music (rights administration), Ditto Music (digital distribution), Sound City (music festivals and education), Modern Sky (record label) and Adlib (technical production and equipment hire). These firms are the anchor institutions of the regional music economy.
+Tier 2: SMEs and Micro-businesses
+We used a mixture of methods to apply a ‘primary activity’ test to establish active music businesses registered in and with a business location in LCR:
+ONS evidence from IDBR using Standard Industrial Classifications (SIC codes)
+Analysis of the DatacityTM platform, using SIC codes, RTICs and keyword searches to establish businesses registered at Companies House and provide evidence of recent trading activity to distinguish active music businesses from dormant registrations
+Analysis of the Charity Commission register and register of Community Interest Companies
+1,373 companies were identified as Tier 2 SMEs and micro-businesses. This tier represents the specialist infrastructure of the region: recording studios, rehearsal spaces, equipment hire, artist management, booking agencies, and event production companies.
+Table 20  Tiers 1 & 2: registered businesses by subsector
+Source: The Fifth Sector analysis of University of Liverpool data. Totals rounded to prevent disclosure, so column total may not sum.
+Tier 3: Visible Freelancers
+4,423 visible freelancers were identified across the seven taxonomy categories. This tier represents the backbone of the regional talent pool: working professionals whose income is derived primarily from music-related activity but who operate outside the structures of registered employment.
+In addition to freelancers, this group included members of ‘informal’ organisations (including bands and activities such as rehearsal spaces and recording studios organised as partnerships or collectives as opposed to registered companies) with a demonstrable digital footprint indicating sustained music-sector activity. We used a wide range of platforms and analyses to identify them including:
+LinkedIn analysis to identify professionals listing music-related job titles (producer, engineer, session musician, tour manager, music publicist) with an LCR location as their primary base
+Instagram artist accounts cross-referenced with Spotify catalogue data to identify individuals maintaining active artist profiles (regular posting, venue tagging, release announcements) whose Spotify accounts showed evidence of professional catalogue management (regular releases, playlist placements, verified artist status)
+Musicians' Union membership records and other trade association membership registers and websites
+Analysis of social media platforms to identify non-registered businesses
+Analysis of proprietary data on freelance technical support workers (sound technicians, lighting designers, riggers etc)
+Table 21  Liverpool City Region music workforce: employees and freelancers
+
+Tier 4: Invisible freelancers and “shared utility” workforce
+There is a further sizeable and economically significant tier of people actively engaged in Liverpool’s music sector who are ‘invisible’ to traditional forms of statistical data analysis. This combines two groups: invisible freelancers and shared utility workers.
+Invisible freelancers are professional musicians and practitioners not on payrolls and without a significant digital footprint but with evidence of sustained professional activity. Survey-based inference was used to estimate the population of professional freelance musicians who do not maintain streaming catalogues or professional social media profiles. The LCR Music Board Economic Survey (2025) asked respondents about their digital presence and income sources, allowing triangulation between visible and invisible populations.
+Data sources: PRS for Music registration data; Liverpool International Music Festival (LIMF) artist applications; LCR Music Board survey responses; Musicians' Union regional membership.
+Findings: An estimated 1,715 invisible freelancers operate within the LCR, predominantly within the Artists & Musicians category. These include function band performers, session musicians working through word-of-mouth networks, private music educators, and community music practitioners.
+“Shared utility” workers are those in  adjacent sectors (hospitality, events, technical services) for whom music-related activity represents a meaningful but minority portion of their employment. They have been identified through examination of diverse data sources including venue programming schedules; freelancer databases; festival and event staffing records.
+Method: Physical mapping of the region's live music venues, including both stadia used occasionally for large music concerts and the base of smaller venues, many of them bars, pubs and social clubs, established the frequency of music programming at each location. For venues hosting live music fewer than twice per week, music activity represents approximately 15%-20% of annual trading hours. For those working in stadia, large music concerts represent around 10% of the event calendar.  Combining staffing levels across these casual occupations allowed us to calculate the music-attributable FTE. Technical freelancer data from Adlib provided evidence of casual and part-time technical crew operating across multiple venues and events, allowing us both to establish a benchmark for the intensity of “shared utility” working in technical production and support roles and to de-duplicate this tier from the established freelance workforce identified in Tier 3.
+Findings: 1,075 individuals work in shared utility roles, representing 161 FTE after intensity weighting. This includes hospitality staff at music venues, casual stewarding and front-of-house personnel, and technical crew working occasional music events alongside corporate and theatrical work.
+For all tiers, we cross-referenced the results against different sources to minimise the risk of double counting.
+Intensity coefficients: from headcount to FTE
+A critical methodological innovation in this research is the application of evidence-based intensity coefficients to convert raw headcount into economically meaningful full-time equivalent (FTE) figures. This addresses the risk of over-valuing sector employment by measuring ‘headcount’ in part-time and ’portfolio’ occupations as equal to full-time roles. By comparing the resulting equivalent FTE roles with GVA estimates and (where available) actual evidence of turnover from company accounts, it also allows us to more accurately estimate the GVA per capita of FTE roles, providing a series of sub-sector-specific benchmarks for the value of employment at a greater level of granularity than allowed by SIC codes.
+Derivation of coefficients
+Tiers 1-2: Registered businesses
+This coefficient was derived from analysis of the Office for National Statistics Business Register and Employment Survey (BRES) 2024 data for the Liverpool City Region. BRES records the ratio of full-time to total employees across relevant Standard Industrial Classification codes and was used to derive FTE coefficients (FT/PT ratios), on the basis that each part-time job was counted as 0.5FTE.
+Table 22  Liverpool City Region employees in music-related sectors
+Source: The Fifth Sector analysis of BRES 2024 via Nomisweb, accessed 18 February 2026. Rounding (applied by ONS to minimise risks of disclosure of any individual business) may mean that total employees may not sum
+Because BRES SIC codes are broader than music-specific activity, we applied analysis of LinkedIn data to provide a music-specific headcount for employees in registered businesses, as shown at Table 2; we the reconciled the ratios of full-time and part-time employment for both datasets to derive headcount and FTE for each music-specific sub-sector.
+The LCR Music Board Economic Survey (2025) asked respondents about their digital presence and income sources, allowing triangulation between visible and invisible populations.
+Data sources: PRS for Music registration data; Liverpool International Music Festival (LIMF) artist applications; LCR Music Board survey responses; Musicians' Union regional membership.
+Findings: An estimated 1,715 invisible freelancers operate within the LCR, predominantly within the Artists & Musicians category. These include function band performers, session musicians working through word-of-mouth networks, private music educators, and community music practitioners.
+FTE Intensity
+Our mapping identified 14,375 people engaged in music-related work across Liverpool City Region, not including those working in music education or the visitor economy.  It includes everyone from specialist music licensing analysts to casual employment as a roadie for a small gig in a pub. The challenge in interpreting the scale and diversity of that workforce  is how to turn that headcount into something economically meaningful.
+We have done this by modelling FTE intensity. Each tier of the workforce is weighted by how much of their working life is actually music related, and employment patterns are analysed for each of the seven sub-sectors within each of the four tiers to reflect the most granular picture possible of work done across the sector.  This prevents the overstatement that would come from counting a part-time security guard at the ACC arena as equivalent to a full-time sound engineer, while still capturing the genuine economic contribution of the thousands of people whose employment is sustained by music in whole or in part.
+FTE Intensity Coefficients
+FTE coefficients reflect the balance of full-time and part-time employment, where a full-time role equates to 1.0 FTE and a part-time role is weighted at 0.5 FTE.
+FTE coefficient for Tiers 1 & 2
+For Tiers 1 & 2, coefficients are derived by averaging BRES 2024 full-time/part-time ratios with LinkedIn data on employment in registered businesses. 
+Table 23  Derivation of Tier 1+2 FTE coefficient
+
+FTE coefficient for Tier 3
+The LCR Music Board Economic Survey (October–November 2025) which reported what proportion of a respondent’s earnings came from music. The results confirmed the portfolio nature of music careers:
+
+Table 24 LCR Music Board Economic Survey 2025 (n=70)
+
+The FTE coefficient for survey respondents – the average proportion of their total earnings from music - was therefore 42.1 / 70 = 0.60. Just under half of all respondents (32 of 70, or 46%) reported that music accounted for less than half their income. 
+This is the defining characteristic of the freelance music workforce: not amateur, in large part non in permanent employment, but portfolio. These are working professionals who teach, do session work, produce, DJ, and perform, often all in the same week. Counting them as either “full-time musicians” or “not musicians” would be equally wrong. The intensity coefficient captures the reality.
+To calculate FTE for Tier 3, we blended the survey findings with the sub-sector specific analysis of full- and part-time working in more than 4,000 LinkedIn profiles which reported freelancer, self-employed or contractor status to derive a combined FTE coefficient for “Tier 3” freelance workers, shown in Table 10.
+Table 25  FTE Coefficients – Tier 3
+FTE coefficient for Tier 4
+
+FTE coefficient for Tier 4 was made up of four elements:
+UK Music reporting that on average a professional musician in the UK spent the equivalent of 0.63 FTE in full-time music-related work
+Estimate of total employment time spent (15%) on music related events for staff (employed, freelance and casual) in small, informal venues (pubs, bars and social clubs) which programme music less regularly
+Estimate of proportion of staff, freelance and casual labour (including security, event administration, marketing and promotion, licensing) related to large music events (e.g., stadia and open field festivals) – set at 10%
+Analysis of proprietary freelance records of sound and light techs to establish what proportion of their working time was spent both in smaller venues and larger irregular events – also 10%
+Table 26  FTE Coefficients: Tiers 1–4
+
+
+Appendix B: Location Quotients
+We considered whether LCR’s music cluster was concentrated in a way which would indicate sustainable potential to further develop the smart specialisations identified in the mapping. This was done by using Location Quotients (LQs) for both workforce and registered businesses to measure the levels of specialisation of the cluster.
+An LQ compares the concentration of a specific industry in one city against the national average. A score of 1.0 means the city is reflects national average levels of business density. A score above 1.25 is considered a “specialised cluster.” A score above 2.0 represents a core cluster of national significance; it proves that the industry is a primary industrial pillar of the region, similar to the significance of Automotive to Sunderland or Finance to London.
+LQs using ONS data
+To accurately assess LQs, we must first benchmark respective business and employee populations for LCR against national data.
+Table 27  Employment (BRES 2024)
+
+Source: ONS Business Register and Employment Survey (BRES), 2024, accessed via Nomisweb, 19 February 202 
+
+Table 28  Businesses (IDBR 2025)
+Table 29  Cross-check: Average Business Size
+Source: ONS Business Counts summary, accessed online 19 February 2026
+This suggests LCR businesses are larger on average than GB. This reflects sectoral composition: LCR has proportionally more large public sector employers (NHS, councils, universities) and fewer small businesses/self-employed than the national average. The business count under-represents public sector employment, which doesn't appear as "businesses" in IDBR.
+No individual SIC code accurately reflects any of the subsectors in our analysis; to reflect LQs in line with our measures of subsector business numbers and employees, we first had to analyse all registered companies and their employees within a range of SIC codes which include music-related activity. Our initial analysis looked at all companies within the SIC codes, not just those specific to the music economy, and all employees, both full- and part-time;  these figures are not weighted to provide the FTE co-efficient for subsectors.
+Table 30  Workforce location quotients by SIC code – ONS data
+
+Table 31  Business location quotients – ONS data
+
+We can immediately see that:
+These categories are wider than music
+On the basis of ONS workforce (employee) data, only one significant employment sector – Sound recording & music publishing, at 1.30 -  has an LQ above 1.0
+A significant proportion of music employees are not captured within SIC codes
+On the basis of national statistics alone, Liverpool City Region’s music industry seems much less densely concentrated than the national average, with an overall workforce LQ of 0.40 for all sector employees. But this headline figure is misleading, because it includes SIC codes where LCR is genuinely under-represented (advertising, PR, media representation, all London-dominated) alongside codes where it has concentrations of businesses above the national average:
+Support to performing arts (the code recommended by industry trade body PLASA to represent live event production services) at 1.08 
+Operation of arts facilities at 1.08
+Radio broadcasting (1.01)
+From SIC codes to subsector LQs
+Apportionment of SIC codes to reflect subsector definitions
+SIC codes bundle together activities that our taxonomy identifies in different subsectors. To gain a more accurate picture of the relative strengths of LCR, we had to carry out further analysis of business numbers and employment at company-level to apportion them correctly.
+SIC 5920 (Sound recording and music publishing)
+Nationally, the assumed split is 70/30 favouring Recording & Distribution. In LCR, Sentric Music Group is classified under 5920 but its core business is rights administration and royalty distribution; allocating its employees to our subsector of Publishing & Licensing gives an LCR split of 29/71 - the inverse of the national pattern, in which recording studios and record labels constitute the majority of employment.
+SIC 9002 (Support activities to performing arts)
+This is the Standard Industrial Classification intended to cover all support occupations involved producing events across a range of activity that include dance and theatre production as well as live music. It is also the code that live events trade body PLASA recommends that employers in technical production services use. Nationally, the assumed split is 60/40 between activities which we would group under Live & Events and those technical services which come under Rehearsals & Equipment. In LCR, The Data City company analysis reveals a radically different ratio of 12/88, influenced by the presence of a core of 300+ FTE employees in a sector spanning Rehearsals & Equipment in which Adlib Audio is the single largest employer. 
+Once we had done this apportionment, we could then begin to analyse “real” LQs for both businesses and workforce using our sector definitions. 
+LQ by music subsector – registered businesses
+The business base (all sectors) of Liverpool City Region represents 1.67% of all firms in GB: this provides our benchmark for business LQ. Note that this is different from the calculation used to calculate LQ for employment.
+Table 32 LQ of registered music businesses in Liverpool City Region
+
+This tells us that whilst Liverpool City Region has a relatively greater density of music companies than the national average (LQ of 1.46), the core strength of the business base lies in three subsectors:
+Live & Events (LQ 4.20)
+Recording & Distribution (LQ 1.79)
+Rehearsals & Equipment (LQ 1.70)
+The count of registered businesses only tells part of the story, however: much of the strength of the city region’s music economy lies in its large base of freelance and self-employed 
+
+
+LQ by music subsector - workforce 
+
+Analysis of LQs for workforce, incorporating our Tier 3 and 4 evidence in addition to the evidence of employment from ONS, produced a much more striking demonstration of agglomeration and specialisation:
+Figure 6  LQ by music subsector - workforce
+
+
+
+This reinforces the point that music in Liverpool isn’t a cultural “extra”; it is a hyper-concentrated industrial cluster. The LQs for Publishing & Licensing (6.89), Rehearsals & Equipment (2.81), and Live & Events (2.44) prove that these are nationally significant concentrations of specialist labour and infrastructure. 
+The Management & Business Services gap (LQ 0.37) is the most significant structural weakness. Artists in LCR cannot access professional management locally. Career development and IP capture both leak to London. This is the single most important gap to address.
+
+
+
+
+Appendix C: Data Sources
+Table A1: Data Sources Summary
+
+Table 33 GVA per FTE by sub-sector: data sources
+
+Appendix D:	Sensitivity analysis and data quality assessment
+Table 34  Sensitivity analysis: FTE Coefficients ±10%
+
+Even with sensitivity analysis of −10% applied, total economic impact remains above £700 million. The floor is £702.8 million; the ceiling is £857.9 million. Whether the headline figure is £702m or £858m, the conclusion is the same: this is a sector of national significance.
+Table 35  Data Quality Assessment
+
+Table 36  Sensitivity analysis: CAGR required to reach £1 billion
+
+Even from the sensitivity low case (£702.8 million), the required CAGR is only 3.6% — still below the UK creative industries benchmark of 5.6%. The £1 billion target is not aspirational; it is the expected outcome of normal sector growth, with or without intervention. The question is not whether the target is reached, but how quickly and with what distribution of benefits.
+Risk analysis
+LCR’s music sector has some unique assets and opportunities, but is still exposed to risks. 
+It operates in global markets; we have seen the damage to European touring circuits resulting from tariff and non-tariff barriers raised after the UK’s exit from the European Union. The data indicates that not all the region’s musicians and artists have taken steps to register, protect and exploit their IP, which leaves them more dependent on live performance as the dominant share or their income and therefore more exposed to constraints on movement.
+We have already seen how current licensing arrangements for streaming music favour artists backed by major labels who can drive better deals with the platforms. Ai represents a further threat to artist incomes, if AI-generated music is allowed to continue to displace original IP on those platforms.
+The data highlights the sector’s dependency on a small number of industry “primes”. Some of these are venues, and therefore less likely to move; but there is a risk that some of the other “IP refinery” and technical supply chain businesses could be tempted to relocate or acquired, undermining the distinctive interaction of IP, tech services and venue infrastructure which is responsible for the region’s relative outperformance.
+For as long as the UK music industry and investors remain over-centralised in London, Liverpool will be more exposed to the negative impacts of the structural imbalances which result in value generated within the region disproportionately “pooling” in London-based and internationally owned corporations.
+
+
+Two structural vulnerabilities require particular attention:
+Management & Business Services gap (LQ 0.37): This is the most significant structural weakness in the LCR music economy. Artists cannot access professional management locally. Career development and IP capture both leak to London. Without local management infrastructure, the “refinery” that converts creative output into captured IP value remains incomplete. This is the single most important gap to address.
+Anchor employer dependence: Sentric drives the Publishing LQ (6.89); Adlib drives the technical services cluster Rehearsals & Equipment LQ (2.81); ACC Liverpool, the Philharmonic, and other medium-sized venues are responsible for a large proportion of the Live LQ (2.44). If any of these relocated, or closed due to change of ownership or commercial headwinds, the cluster profile would change dramatically. Diversifying the business base is as important as growing headline numbers. A cluster that depends on a handful of employers is a cluster at risk.
+
+
+Appendix E: Glossary 
+
+Economic Measures
+BRES (Business Register and Employment Survey) An annual survey conducted by the Office for National Statistics (ONS) providing employee counts by industry and geography. BRES captures employees on employer payrolls but excludes self-employed workers, meaning it systematically undercounts sectors with high freelance activity such as music.
+CAGR (Compound Annual Growth Rate) The average annual growth rate of an investment or economic measure over a specified period, assuming growth compounds each year. Used in this report to model the growth rate required to reach the £1 billion target.
+Direct GVA The gross value added generated directly by businesses and workers in a sector, before multiplier effects are applied. In this report, direct GVA for LCR's music sector is £406 million.
+FTE (Full-Time Equivalent) A standardised measure of employment that converts part-time, freelance and variable hours into equivalent full-time positions. One FTE equals one person working full-time for one year. A part-time worker contributing half a standard working week would count as 0.5 FTE. This allows meaningful comparison across different working patterns.
+FTE Coefficient / Intensity Coefficient A multiplier applied to headcount to convert it to FTE. For example, if survey evidence shows that freelance musicians spend on average 73% of their working time on music, an FTE coefficient of 0.73 is applied. This prevents overcounting part-time and portfolio workers as equivalent to full-time employees.
+GVA (Gross Value Added) The value of goods and services produced by a sector, minus the cost of inputs (materials, supplies) used in production. GVA measures the economic contribution of a sector and is the building block of GDP. It can be thought of as the sum of wages paid plus profits generated. GVA is the standard measure used by government to assess the size of economic sectors.
+GVA per FTE A measure of productivity calculated by dividing total GVA by the number of full-time equivalent workers. Higher GVA per FTE indicates higher productivity. In this report, Publishing & Licensing generates £145,798 per FTE while Artists & Musicians generate £25,174 per FTE.
+IDBR (Inter-Departmental Business Register) The comprehensive list of UK businesses maintained by ONS, used as the sampling frame for business surveys. It captures registered businesses (companies, partnerships, sole traders registered for VAT or PAYE) but excludes unregistered self-employed individuals and very small businesses below VAT thresholds.
+Indirect Impact The economic activity generated in supply chains when music businesses purchase goods and services from other firms. When a venue hires a security company or buys equipment, that spending supports other industries. Also called "supply chain effects."
+Induced Impact The economic activity generated when employees and freelancers in the music sector spend their wages and fees in the wider economy—on housing, food, transport, leisure and other goods and services. This spending supports jobs in retail, hospitality and other sectors.
+Location Quotient (LQ) A measure of industrial concentration comparing a region's share of employment or businesses in a sector to the national share. 
+LQ = 1.0 means the sector is represented at exactly the national average level
+LQ above 1.0 indicates concentration (the region has more than its "fair share")
+LQ below 1.0 indicates under-representation (the region has less than expected)
+LQ above 1.25 is generally considered evidence of a "specialised cluster"
+LQ above 2.0 indicates a cluster of national significance
+For example, an LQ of 3.06 for Publishing & Licensing means LCR has approximately three times the expected level of employment in that sub-sector given its share of national employment.
+Multiplier / Type II Multiplier A factor used to calculate the total economic impact of direct activity, including indirect (supply chain) and induced (wage spending) effects. This report uses a multiplier of 1.92, meaning every £1 of direct GVA generates a total of £1.92 in the wider economy (£1 direct + £0.45 indirect + £0.47 induced). Type II multipliers include both supply chain and household spending effects.
+Productivity Economic output per worker, typically measured as GVA per FTE. High productivity sectors generate more economic value per employee. Productivity varies dramatically across the music sector, reflecting how different roles capture value.
+SIC Code (Standard Industrial Classification) A five-digit code used by government to classify businesses by their primary activity. Music-related activities are spread across multiple SIC codes (e.g., 5920 for sound recording, 9001 for performing arts, 9004 for venue operation). Because these codes were designed for traditional industries, they fit poorly with music's fragmented, cross-cutting structure and systematically undercount the sector.
+Total Economic Impact The sum of direct GVA plus indirect and induced effects, calculated by applying the multiplier to direct GVA. In this report, direct GVA of £406 million generates total economic impact of £780 million.
+Turnover Total revenue generated by a business before deducting any costs. Not the same as profit or GVA. A business with high turnover but high costs may generate relatively little GVA.
+Workforce Tiers
+This report uses a four-tier model to capture the full music workforce, recognising that conventional statistics see only part of the picture.
+Tier 1: Sector Primes The approximately 25 largest music-specialist companies in LCR, each with annual turnover exceeding £250,000. These anchor institutions include nationally significant firms such as ACC Liverpool, Royal Liverpool Philharmonic, Sentric Music, Ditto Music, Adlib Audio, and Sound City. Some of the “primes” are technically still SMEs, but their scale and supply chain relationships differentiate them from the micro-business majority.
+Tier 2: SMEs and Micro-businesses Approximately 310 smaller registered businesses whose primary activity is music-related. This tier represents the specialist infrastructure of the region: recording studios, rehearsal spaces, equipment hire, artist management, booking agencies, and event production companies. The vast majority are micro-enterprises employing fewer than 10 people.
+Tier 3: Visible Freelancers Approximately 4,655 self-employed professionals identified through digital platforms (LinkedIn, Instagram, Spotify) and industry databases. This tier represents working professionals whose income derives primarily from music but who operate outside registered employment. It includes performers, producers, engineers, session musicians, DJs, promoters, and technical crew. Many combine multiple music-related roles in "portfolio" careers.
+Tier 4: Invisible Freelancers and Shared Utility Workers Approximately 7,100 additional workers comprising two groups:
+Invisible freelancers: Professional musicians without significant digital footprints—function band performers, session musicians working through word-of-mouth, community music practitioners
+Shared utility workers: Staff in adjacent sectors (hospitality, events, technical services) for whom music-related activity represents a meaningful but minority portion of employment—bar staff at music venues, casual crew at arena shows, part-time security at festivals
+This tier is essential to the music economy's functioning but invisible to conventional measurement.
+Music Sector Terminology
+Capture Position In complexity economics, a position in a value network where flows concentrate and uncertainty is reduced. Rights administrators, technical production companies, and venue operators occupy capture positions; they aggregate value from multiple sources through standardised processes. Capture positions typically show higher productivity (GVA per FTE) than generative positions.
+Generative Position In complexity economics, a position in a value network characterised by high uncertainty and many possible outputs. Artists and musicians occupy generative positions; they create the original material (songs, performances, recordings) from which all other value derives, but face unpredictable outcomes and capture relatively little of the downstream value.
+IP (Intellectual Property) Legal rights over creative works, including copyright in songs, recordings, and compositions. IP rights generate ongoing royalty income when music is performed, broadcast, streamed, or licensed for use in films, advertisements, and other media. Effective IP registration and administration is essential to capturing long-term value from creative work.
+Metadata Standardised information embedded in digital music files identifying the song, writers, performers, publishers, and rights holders. Accurate metadata is essential for royalty collection; without it, streaming platforms cannot identify who should be paid. Poor metadata is a significant cause of unclaimed royalties.
+Portfolio Career / Portfolio Working A working pattern common in music where individuals combine multiple income streams (performance, session work, teaching, production, licensing) often within a single working week. Survey evidence shows 48% of LCR music professionals derive less than half their income from music. The portfolio career is not an aberration but the norm in the sector.
+Sync Licensing The licensing of music for "synchronisation" with visual media—films, television programmes, advertisements, video games, social media content. Sync deals can generate significant one-off fees and ongoing royalties. "Sync readiness" - having properly registered, cleared, and accessible music - is increasingly important for artist income.
+Venue Categories
+Dedicated Music Venue A venue where 100% of staff time relates to music venue operations and music is the primary business function. LCR has 44 dedicated music venues, including 13 members of the Music Venue Trust.
+Frequent Music Event Space A venue hosting live music three or more times per week. LCR has 118 such venues, of which only 10 are "dedicated" music venues—the remainder are primarily hospitality businesses (bars, pubs) with regular music programming.
+Grassroots Music Venue (GMV) Small-to-medium capacity venues (typically under 500) that provide performance opportunities for emerging artists. These venues are essential to artist development but often operate on thin margins and face commercial pressures from rising costs and competing land uses.
+Music Venue Trust (MVT) A UK charity that represents and supports grassroots music venues. MVT membership indicates a venue's recognition as part of the national live music infrastructure. LCR has 13 MVT member venues.
+Geographic and Statistical Terms
+GB (Great Britain) England, Scotland and Wales. Used as the comparator geography for employment data (BRES), which does not cover Northern Ireland.
+LCR (Liverpool City Region) The combined authority area comprising Liverpool, Wirral, Sefton, Knowsley, St Helens, and Halton. Population approximately 1.6 million.
+UK (United Kingdom) England, Scotland, Wales and Northern Ireland. Used as the comparator geography for business counts (IDBR).
+Complexity Economics Terms
+Agglomeration Effects The benefits that arise when related businesses and workers cluster in geographic proximity. These include knowledge spillovers, shared labour pools, specialised suppliers, and reduced transaction costs. LCR's technical production cluster (anchored by Adlib) demonstrates agglomeration effects.
+Cluster A geographic concentration of interconnected businesses, suppliers, and associated institutions in a particular field. Clusters develop competitive advantages through proximity, shared infrastructure, and knowledge exchange. LCR has identifiable clusters in publishing/rights administration and technical production.
+Complex Adaptive System A system composed of many interacting agents whose collective behaviour produces emergent patterns not predictable from individual components. The music economy exhibits characteristics of complex adaptive systems: power-law distributions (many small actors, few large ones), functional specialisation, and networked interdependencies.
+Economic Moat A sustainable competitive advantage that protects a business or region from competition—like a moat protecting a castle. LCR's technical production infrastructure (venues, equipment, skilled workforce) represents an economic moat: it is difficult for other regions to replicate quickly.
+Flow Velocity The speed at which value moves through an economic network. Faster rights registration and royalty distribution increase flow velocity, enabling artists to capture value more quickly. Increasing flow velocity is one mechanism for improving artist incomes without requiring additional creative output.
+Leakage The proportion of economic activity that flows out of a region rather than circulating locally. High leakage reduces multiplier effects. LCR's music sector has relatively low leakage because it has local suppliers for many specialist services (technical production, rights administration) that other regions must import from London.
+Network Topology The structure of connections in a network—who is connected to whom, and how densely. Social network analysis of LCR's music workforce reveals a diffuse network (most organisations connected to only one or two others) with small clusters of more intensively connected specialists.
+Smart Specialisation An economic development strategy focusing on a region's existing strengths and distinctive capabilities rather than attempting to replicate successful sectors from elsewhere. LCR's music sector demonstrates smart specialisation in publishing/licensing and technical production.
+Data Sources
+Companies House The UK government register of companies, providing information on company registration, directors, accounts, and status.
+The Data City A commercial platform providing firmographic analysis of UK businesses, combining Companies House data with other sources to identify active businesses by sector.
+LinkedIn Professional networking platform used in this research to identify music professionals by job title and location, and to analyse workforce movement between organisations.
+MusicSeen Platform providing analysis of artist social media presence and streaming catalogue data.
+Nomis / Nomisweb The ONS service providing access to labour market and business statistics, including BRES and IDBR data at local authority and combined authority level.
+ONS (Office for National Statistics) The UK's national statistical institute, responsible for collecting and publishing official statistics on the economy, population, and society.
+This glossary is intended to help general readers understand the technical terms used in this report. For detailed methodology, see Appendix A.
+
+Appendix F: References
+
+References
+Arthur, W.B. (2015) Complexity and the Economy. Oxford: Oxford University Press.
+Beinhocker, E.D. (2006) The Origin of Wealth: Evolution, Complexity, and the Radical Remaking of Economics. Boston: Harvard Business School Press.
+Farmer, J.D. (2024) Making Sense of Chaos: A Better Economics for a Better World. London: Allen Lane.
+Farmer, J.D. and Foley, D. (2009) 'The economy needs agent-based modelling', Nature, 460(7256), pp. 685-686.
+Gutiérrez-Posada, D., Kitsos, T., Nathan, M. and Nuccio, M. (2023) 'Creative clusters and creative multipliers: Evidence from UK cities', Economic Geography, 99(5), pp. 494-526. 
+Hidalgo, C. (2015) Why Information Grows: The Evolution of Order, from Atoms to Economies. New York: Basic Books.
+Kauffman, S.A. (1993) The Origins of Order: Self-Organization and Selection in Evolution. Oxford: Oxford University Press.
+Kauffman, S.A. (1995) At Home in the Universe: The Search for the Laws of Self-Organization and Complexity. Oxford: Oxford University Press.
+West, G. (2017) Scale: The Universal Laws of Life and Death in Organisms, Cities and Companies. London: Weidenfeld & Nicolson.
+Other sources
+Adlib Audio Ltd (2025) Annual Report and Accounts. Companies House.
+Centre for Economics and Business Research (2017) The Contribution of the Arts and Culture Industry to the National Economy. Arts Council England.
+The Data City (2024) Liverpool City Region Music Sector Analysis.
+LCR Music Board (2025) Liverpool City Region Venues Map.
+Musicians' Union (2023) The Working Musician Survey 2023.
+Music Venue Trust (2024) Annual Survey of Grassroots Music Venues.
+PRS Foundation (2022) The Songwriters' Earnings Study.
+UK Music (2024) This Is Music 2024. https://www.ukmusic.org/research-reports/report-archive/this-is-music-2024/ (accessed 19 December 2025)
+
+
+
+
+
+Further use of this report
+University of Liverpool (the Customer) and End Users may use the Report to write and create other Reports. The Customer may copy such Reports for its own internal business purposes. The Customer may publish, disclose, share or distribute such Reports to third parties on the basis of a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) licence. This licence allows others to distribute, remix, adapt, and build upon the work, even commercially, as long as they credit The Fifth Sector and license new creations under the identical terms. This encourages sharing and collaboration while protecting the The Fifth Sector's attribution.
+
+
+
+[TABLE 1]
+Sector | Description | Examples
+Artists & Musicians | Performers and creators | Bands, solo artists, DJs, session musicians, composers
+Live & Events | Live performance delivery | Venues, promoters, festivals
+Rehearsals & Equipment | Practice and technical production infrastructure | Rehearsal rooms, instrument retail/hire, backline and sound/ lighting technical services to live performance
+Recording & Distribution | Content capture and delivery | Studios, engineers, distributors, record labels, publishing, streaming
+Publishing & Licensing | Rights management | Publishers, sync agents, collection societies
+Management & Business Services | Artist and business support | Managers, agents, accountants, lawyers
+Marketing & Media | Promotion and broadcast | PR, radio, podcasts, music journalism, blogs
+[/TABLE]
+
+
+[TABLE 2]
+Sector | Businesses (count) | Employees (full- and part-time)
+Artists & Musicians | 35 | 280
+Live & Events | 145 | 850
+Recording & Distribution | 85 | 420
+Rehearsals & Equipment | 30 | 465
+Publishing & Licensing | 10 | 350
+Management & Business Services | 20 | 115
+Marketing & Media | 10 | 135
+Total | 335 | 2,615
+[/TABLE]
+
+
+[TABLE 3]
+Company Size | Count | % of all Tier 1 & Tier 2 businesses | Employees | % of Tier 1 and Tier 2 employees
+Large (250+ employees) | <5 | <1% | 1,245 | 48%
+Medium (50–249) | <10 | 2% | 610 | 23%
+Small (10–49) | 25 | 7.5% | 490 | 19%
+Micro (0–9) | 300 | 89.5% | 270 | 10%
+Total | 335 | 100% | 2,615 | 100%
+[/TABLE]
+
+
+[TABLE 4]
+Sub-sector | Registered companies | Sole traders | Informal and “other” organisations | Total
+Artists & Musicians | 35 | 10 | 25 | 75
+Live & Events | 150 | 40 | 40 | 230
+Recording & Distribution | 90 | 85 | 5 | 175
+Rehearsals & Equipment | 30 | 5 | 0 | 35
+Publishing & Licensing | 10 | 0 | 0 | 10
+Management & Business Services | 20 | 5 | 0 | 20
+Marketing & Media | 10 | 15 | 0 | 15
+Total | 335 | 160 | 70 | 565
+[/TABLE]
+
+
+[TABLE 5]
+Category | Venues (count) | Music is the primary business of the venue
+All venues | 621 | Varies
+Frequent (3+ music events per week) | 118 | 10
+Dedicated music venues | 44 | 44
+Large capacity (1,000+) | 37 | ~25
+Music Venue Trust (MVT) member venue | 13 | 13
+[/TABLE]
+
+
+[TABLE 6]
+Subsector | Tier 1 & 2 – headcount,  all employees | Tier 1 & 2 FTE coefficient | Tier 1 & 2 FTE
+Artists & Musicians | 280 | 0.80 | 225
+Live & Events | 850 | 0.82 | 700
+Rehearsals & Equipment | 465 | 0.90 | 420
+Recording & Distribution | 420 | 0.92 | 385
+Publishing & Licensing | 350 | 0.92 | 320
+Management & Business Services | 115 | 0.87 | 100
+Marketing & Media | 135 | 0.94 | 125
+Total | 2,615 |  | 2,275
+[/TABLE]
+
+
+[TABLE 7]
+Subsector | Tier 3 headcount | T3 FTE coefficient | T3 FTE
+Artists & Musicians | 3,033 | 0.73 | 2,215
+Live & Events | 610 | 0.68 | 415
+Rehearsals & Equipment | 395 | 0.71 | 280
+Recording & Distribution | 305 | 0.71 | 215
+Publishing & Licensing | 15 | 0.60 | 10
+Management & Business Services | 115 | 0.71 | 80
+Marketing & Media | 185 | 0.66 | 120
+Total | 4,655 |  | 3,340
+[/TABLE]
+
+
+[TABLE 8]
+Subsector | Tier 4 headcount | Tier 4 FTE coefficient | Tier 4 FTE
+Artists & Musicians | 1,115 | 0.63 | 705
+Live & Events | 4,520 | 0.15 | 680
+Rehearsals & Equipment | 300 | 0.15 | 45
+Recording & Distribution | 665 | 0.15 | 100
+Publishing & Licensing | 0 | — | 0
+Management  & Business Services | 500 | 0.15 | 75
+Marketing & Media | 0 | — | 0
+Total | 7,100 |  | 1,600
+[/TABLE]
+
+
+[TABLE 9]
+Subsector | Tiers 1+2 FTE | Tier 3 FTE | Tier 4 FTE | Total FTE | Sub-sector FTE as %
+Artists & Musicians | 225 | 2,215 | 705 | 3,140 | 44%
+Live & Events | 700 | 415 | 680 | 1,790 | 25%
+Rehearsals & Equipment | 420 | 280 | 45 | 745 | 10%
+Recording & Distribution | 385 | 215 | 100 | 700 | 10%
+Publishing & Licensing | 320 | 10 | 0 | 330 | 5%
+Management  & Business Services | 100 | 80 | 75 | 255 | 4%
+Marketing & Media | 125 | 120 | 0 | 250 | 3%
+Total | 2,275 | 3,340 | 1,600 | 7,215 | 100%
+[/TABLE]
+
+
+[TABLE 10]
+Subsector | Tiers 1 & 2 % | Tier 3 % | Tier 4 %
+Artists & Musicians | 7% | 71% | 22%
+Live & Events | 39% | 23% | 38%
+Rehearsals & Equipment | 56% | 38% | 6%
+Recording & Distribution | 55% | 31% | 14%
+Publishing & Licensing | 97% | 3% | 0%
+Management & Business Services | 39% | 32% | 29%
+Marketing & Media | 51% | 49% | 0%
+All subsectors | 32% | 46% | 22%
+[/TABLE]
+
+
+[TABLE 11]
+Sector | GVA/FTE
+Artists & Musicians | £25,174
+Live & Events | £68,740
+Rehearsals & Equipment | £95,646
+Recording & Distribution | £81,611
+Publishing & Licensing | £145,798
+Management & Business Services | £57,333
+Marketing & Media | £50,000
+[/TABLE]
+
+
+[TABLE 12]
+Sector | Tier 1 & 2 | Tier 3 | Tier 4 | Total GVA
+(£ million) | % of GVA by subsector
+Artists & Musicians | 5.7 | 55.8 | 17.7 | 79.2 | 20%
+Live & Events | 48.1 | 28.5 | 46.7 | 123.4 | 30%
+Rehearsals & Equipment | 40.2 | 26.8 | 4.3 | 71.3 | 18%
+Recording & Distribution | 31.4 | 17.5 | 8.2 | 57.1 | 14%
+Publishing & Licensing | 46.7 | 1.5 | - | 48.1 | 12%
+Management & Business Services | 5.7 | 4.6 | 4.3 | 14.6 | 4%
+Marketing & Media | 6.3 | 6.0 | - | 12.3 | 3%
+Total | 184.0 | 140.7 | 81.3 | 405.9 | 100%
+[/TABLE]
+
+
+[TABLE 13]
+Scenario | Definition | Business count | Total music workforce | FTE | Direct GVA
+Base Case 
+(Tiers 1–3) | Registered and “informal” businesses + visible freelancers | Registered: 335
+Informal/other: 230 | 7,245 | 5,615 | £324.7m
+Integrated Case (Tiers 1–4) | Base Case + shared utility workforce | Registered: 335
+Informal/other: 230
+Occasional music venues: ~ 500 | 14,350 | 7,215 | £405.9m
+[/TABLE]
+
+
+[TABLE 14]
+Impact Type | What is it? | Why it’s high in LCR | Result
+Direct | Turnover/wages of music firms and freelancers | 2,275 core staff + 3,340 visible freelancers | £1.00
+Indirect | B2B supply chain spending | Closely integrated live/tech/IP supply chains | + £0.45
+Induced | Wages spent on local goods and services | 14,000+ music workers living and spending locally | + £0.47
+TOTAL | Economic “ripple effect” | A self-contained regional ecosystem | £1.92
+[/TABLE]
+
+
+[TABLE 15]
+Measure | Base Case (Tiers 1–3) | Tier 4 | Integrated Case
+Direct GVA (£ million) | 325.2 | 81.1 | 406.3
+Type II GVA multiplier | ×1.92 | ×1.92 | x 1.92
+Total GVA (£ million) | 624.1 | 155.7 | 779.8
+[/TABLE]
+
+
+[TABLE 16]
+Subsector | Tier 1 & 2 | Tier 3 | Tier 4 | Total GVA 
+(£ million) | % of GVA per subsector
+Artists & Musicians | 10.9 | 107.1 | 34.1 | 152.0 | 20%
+Live & Events | 92.4 | 54.8 | 89.7 | 236.9 | 30%
+Rehearsals & Equipment | 77.1 | 51.4 | 8.3 | 136.8 | 18%
+Recording & Distribution | 60.3 | 33.7 | 15.7 | 109.7 | 14%
+Publishing & Licensing | 89.6 | 2.8 | - | 92.4 | 12%
+Management & Business Services | 11.0 | 8.8 | 8.3 | 28.1 | 4%
+Marketing & Media | 12.0 | 11.5 | - | 23.5 | 3%
+Total | 353.3 | 270.1 | 156.0 | 779.4 | 100%
+[/TABLE]
+
+
+[TABLE 17]
+Scenario | 2025 | 2030 | 2035 | CAGR | Assumptions
+Organic | £780m | £885m | £1,003m | 2.5% | Match LCR historic growth
+Accelerated | £780m | £950m | £1,150m | 3.9% | Match UK music sector growth
+Ambitious | £780m | £1,050m | £1,350m | 5.6% | Match UK creative industries growth 2010-19
+Transformational | £780m | £1,150m | £1,500m | 6.7% | Significant intervention
+[/TABLE]
+
+
+[TABLE 18]
+Growth Lever | Mechanism | Target GVA
+(£ million) | Total Impact 
+(£ million)
+IP & metadata capture | Work between musicians and publishers/labels to develop metadata skills, publishing registration, sync readiness | 100 | 192
+Production export growth | Adlib + supply chain expansion
+Support touring infrastructure | 75 | 144
+Formalisation of Tiers 3 and 4 | Freelancer business development
+Coordinated support (from Music Office and LCR Music Board) for collective structures | 60 | 115
+Venue circuit strengthening | Secure commercial future of existing grassroots venues 
+Look to expand number and scale of dedicated venues (esp. mid-sized venues)
+Work with promoters to encourage improved programming | 50 | 96
+Music-tech innovation | Spatial audio, XR, AI tools, new platforms | 43 | 83
+Total |  | 328 | 630
+[/TABLE]
+
+
+[TABLE 19]
+Subsector | Description | Example Roles/Businesses
+Artists & Musicians | Performers and creators | Bands, solo artists, session musicians, composers
+Live & Events | Live performance delivery | Venues, promoters, festivals, sound/lighting
+Rehearsals & Equipment | Practice and technical infrastructure | Rehearsal rooms, instrument retail/hire, backline
+Recording & Distribution | Content capture and delivery | Studios, engineers, distributors, streaming
+Publishing & Licensing | Rights management | Publishers, sync agents, collection societies
+Management & Business Services | Artist and business support | Managers, agents, accountants, lawyers
+Marketing & Media | Promotion and broadcast | PR, radio, podcasts, music journalism
+[/TABLE]
+
+
+[TABLE 20]
+Subsector | Count | % of Total | Notes
+Artists & Musicians | 35 | 8% | Includes charities and community/not-for-profit ensembles
+Live & Events | 80 | 26% | Includes ~30 promoters/club nights
+Recording & Distribution | 85 | 53% | Includes 45 Recording studios, ~20 record labels, ~10 record shops, ~5 mastering/post-production facilities
+Rehearsals & Equipment | 5 | 4% | 
+Publishing & Licensing | 0 | 0% | 
+Management & Business Services | 5 | 3% | 
+Marketing & Media | 10 | 6% | Mix of photography, PR, magazines/blogs
+Total | 230 | 100% | 
+[/TABLE]
+
+
+[TABLE 21]
+Subsector | Tiers 1+2 employees | Tier 3 freelance | Tier 4 freelance + shared utility | Total workforce
+Artists & Musicians | 280 | 3,033 | 1,115 | 4,430
+Live & Events | 850 | 610 | 4,520 | 5,980
+Rehearsals & Equipment | 465 | 395 | 300 | 1,160
+Recording & Distribution | 420 | 305 | 665 | 1,390
+Publishing & Licensing | 350 | 15 | 0 | 365
+Management  & Business Services | 115 | 115 | 500 | 730
+Marketing & Media | 135 | 185 | 0 | 320
+Total | 2,615 | 4,655 | 7,100 | 14,370
+[/TABLE]
+
+
+[TABLE 22]
+SIC Code | SIC description | BRES Employees | BRES
+Full-time | BRES
+Part-time
+1820 | Reproduction of recorded media | 15 | 15 | 0
+3220 | Manufacture of musical instruments | 30 | 20 | 10
+4763 | Retail sale of music and video recordings in specialised stores | 30 | 20 | 15
+5920 | Sound recording and music publishing activities | 350 | 250 | 75
+6010 | Radio broadcasting | 125 | 100 | 25
+7021 | Public relations and communication activities | 100 | 75 | 25
+7311 | Advertising agencies | 700 | 600 | 125
+7312 | Media representation | 100 | 75 | 20
+9001 | Performing arts | 450 | 175 | 250
+9002 | Support activities to performing arts | 300 | 225 | 100
+9003 | Artistic creation | 150 | 75 | 75
+9004 | Operation of arts facilities | 350 | 125 | 200
+[/TABLE]
+
+
+[TABLE 23]
+Sector | BRES Tier 1 & 2 FTE coefficient (full- and part-time employees in music-related SIC codes) | LinkedIn Tier 1 & 2 FTE coefficient 
+(employees of registered businesses – n=2,015) | Combined Tier 1 & 2 
+FTE coefficient
+Artists & Musicians | 0.70 | 0.90 | 0.80
+Live & Events | 0.75 | 0.88 | 0.82
+Recording & Distribution | 0.89 | 0.95 | 0.92
+Rehearsals & Equipment | 0.85 | 0.95 | 0.90
+Publishing & Licensing | 0.89 | 0.95 | 0.92
+Management & Business Services | 0.85 | 0.88 | 0.87
+Marketing & Media | 0.90 | 0.98 | 0.94
+[/TABLE]
+
+
+[TABLE 24]
+Income from Music | Respondents | Midpoint | Weighted
+100% (sole income) | 25 | 1.00 | 25.0
+75–99% | 8 | 0.87 | 7.0
+50–74% | 5 | 0.62 | 3.1
+25–49% | 10 | 0.37 | 3.7
+Less than 25% | 22 | 0.15 | 3.3
+Total | 70 |  | 42.1
+[/TABLE]
+
+
+[TABLE 25]
+Sector | T3 Coefficient
+LinkedIn
+(n=4,030) | Weighted by LCR Music survey FTE coefficient (n=70) | T3 Coefficient
+Combined
+Artists & Musicians | 0.86 | 0.60 | 0.73
+Live & Events | 0.76 | 0.60 | 0.68
+Rehearsals & Equipment | 0.82 | 0.60 | 0.71
+Recording & Distribution | 0.82 | 0.60 | 0.71
+Publishing & Licensing | 0.60 | 0.60 | 0.60
+Management & Business Services | 0.82 | 0.60 | 0.71
+Marketing & Media | 0.72 | 0.60 | 0.66
+[/TABLE]
+
+
+[TABLE 26]
+Subsector | T1+2 Coefficient | T3 Coefficient | T4 Coefficient
+Artists & Musicians | 0.80 | 0.73 | 0.63
+Live & Events | 0.82 | 0.68 | 0.15
+Rehearsals & Equipment | 0.90 | 0.71 | 0.15
+Recording & Distribution | 0.92 | 0.71 | 0.15
+Publishing & Licensing | 0.92 | 0.60 | n/a
+Management & Business Services | 0.87 | 0.71 | 0.15
+Marketing & Media | 0.94 | 0.66 | n/a
+[/TABLE]
+
+
+[TABLE 27]
+Area | Total Employees
+Liverpool City Region | 686,000
+Great Britain | 30,470,000
+LCR % of GB employment | 2.25%
+[/TABLE]
+
+
+[TABLE 28]
+Area | Total Local Units
+Liverpool City Region | 46,500
+United Kingdom | 2,860,000
+Great Britain | 2,780,000
+LCR % of UK businesses | 1.63%
+LCR % of GB businesses | 1.67%
+[/TABLE]
+
+
+[TABLE 29]
+Area | Employees | Businesses | Average Size
+LCR | 686,000 | 46,500 | 14.8
+GB | 30,470,000 | 2,780,000 | 11.0
+[/TABLE]
+
+
+[TABLE 30]
+SIC | Description | LCR Employees | GB Employees | LQ
+1820 | Reproduction of recorded media | 15 | 1,750 | 0.38
+3220 | Manufacture of musical instruments | 30 | 1,250 | 1.07
+4763 | Retail sale of music/video | 30 | 2,250 | 0.59
+5920 | Sound recording & music publishing | 350 | 12,000 | 1.30
+6010 | Radio broadcasting | 125 | 13,000 | 0.43
+7021 | PR & communication | 100 | 27,000 | 0.16
+7311 | Advertising agencies | 700 | 121,000 | 0.26
+7312 | Media representation | 100 | 23,000 | 0.19
+9001 | Performing arts | 450 | 40,000 | 0.50
+9002 | Support activities to performing arts | 300 | 15,000 | 0.89
+9003 | Artistic creation | 150 | 24,000 | 0.28
+9004 | Operation of arts facilities | 350 | 17,000 | 0.92
+ | Total | 2,700 | 297,250 | 0.40
+[/TABLE]
+
+
+[TABLE 31]
+SIC Code | Description | LCR | GB | LQ
+1820 | Reproduction of recorded media | 10 | 810 | 0.74
+3220 | Manufacture of musical instruments | 0 | 275 | 0.00
+4763 | Retail sale of music/video | 10 | 625 | 0.96
+5920 | Sound recording & music publishing | 55 | 4,875 | 0.68
+6010 | Radio broadcasting | 15 | 890 | 1.01
+7021 | Public relations | 50 | 6,160 | 0.49
+7311 | Advertising agencies | 250 | 17,635 | 0.85
+7312 | Media representation | 55 | 3,880 | 0.85
+9001 | Performing arts | 155 | 11,475 | 0.81
+9002 | Support activities to performing arts | 100 | 5,555 | 1.08
+9003 | Artistic creation | 165 | 15,175 | 0.65
+9004 | Operation of arts facilities | 20 | 1,110 | 1.08
+Total |  | 890 | 68,465 | 0.78
+[/TABLE]
+
+
+[TABLE 32]
+Subsector | LCR registered music businesses | UK registered music businesses (IDBR 2025) | LCR as % of GB – music businesses | LCR as % of GB – all businesses | LQ
+Artists & Musicians | 40 | 6,730 | 0.56 | 1.67 | 0.43
+Live & Events | 150 | 2,710 | 5.46 | 1.67 | 4.20
+Recording & Distribution | 90 | 3,825 | 2.33 | 1.67 | 1.79
+Rehearsals & Equipment | 30 | 1,265 | 2.21 | 1.67 | 1.70
+Publishing & Licensing | 5 | 1,180 | 0.76 | 1.67 | 0.59
+Management & Business Services | 20 | 1,500 | 1.20 | 1.67 | 0.92
+Marketing & Media | * | 455 | 0.88 | 1.67 | 0.68
+Total | 335 | 17,665 | 1.89 | 1.67 | 1.46
+[/TABLE]
+
+
+[TABLE 33]
+Data Element | Primary Source | Validation
+Venue count (621) | LCR Music Board Venues Map 2025 | LCR ReMap cross-reference
+Dedicated venues (118) | Uni of Liverpool / LCR Music Board | Venue-by-venue review
+MVT venues (21–23) | Music Venue Trust | Subset verification
+Stadium capacities (14) | University of Liverpool | Public capacity data
+Tier 1+2 headcount | The Data City / Companies House; ONS BRES 2024 (via Nomisweb) | Filtered by SIC code and Liverpool City Region geography
+Tier 3 headcount | MusicSeen; Spotify royalty reports; Analysis of LinkedIn | Platform-evidenced
+Tier 4 headcount | Inference from LinkedIn, Music UK and data on venue and staff numbers | Utilisation-adjusted
+Artist population (4,430) | MusicSeen; LinkedIn; Musicians’ Union; Survey | Cross-referenced
+Employment intensity | ONS BRES 2024; LinkedIn | LCR Music Board Survey Oct–Nov 2024 (n=70) for income intensity
+GVA per FTE | The Data City company accounts + ONS ABS | Sector-specific validated
+Multipliers | ONS Input-Output Tables 2019 | Regional adjusted
+[/TABLE]
+
+
+[TABLE 34]
+Sector | GVA per FTE | Primary Benchmark | Validation
+Publishing & Licensing | £145,798 | PRS/PPL data | The Data City accounts
+Rehearsals & Equipment | £95,646 | The Data City accounts | Industry benchmarks
+Recording & Distribution | £81,611 | ONS ABS (SIC 59.2) | The Data City accounts
+Live & Events | £68,740 | ONS ABS (SIC 90) | The Data City accounts
+Management & Business Services | £57,333 | ONS ABS (SIC 74.9) | Industry benchmarks
+Marketing & Media | £50,000 | ONS ABS (SIC 73/60) | Regional adjustments
+Artists & Musicians | £25,174 | Musicians' Union surveys | 
+[/TABLE]
+
+
+[TABLE 35]
+Scenario | Tier 1 & Tier 2 FTE | Tier 3 FTE | Tier 4 FTE | Total FTE | Direct GVA
+(£ million) | Total GVA 
+(£ million)
+Low (−10%) | 2,050 | 3,005 | 1,440 | 6,495 | 365.3 | 701.8
+Central | 2,275 | 3,340 | 1,600 | 7,215 | 405.9 | 779.8
+High (+10%) | 2,505 | 3,670 | 1,760 | 7,940 | 446.5 | 857.8
+[/TABLE]
+
+
+[TABLE 36]
+Data Element | Quality | Confidence | Limitations
+Tier 1+2 Headcount | High | 90% | Some SIC misclassification
+Tier 1+2 Coefficients | Medium-High | 80% | BRES/LinkedIn blend
+Tier 3 Headcount | Medium | 70% | LinkedIn captures 45% only
+Tier 3 Coefficients | Medium | 70% | Survey sample n=70
+Tier 4 Headcount | Low-Medium | 50% | Sectoral estimates
+Tier 4 Coefficients | Low-Medium | 50% | Expert judgement
+GVA per FTE | High | 85% | The Data City accounts validated
+Multipliers | Medium-High | 75% | National tables, regionally adjusted
+[/TABLE]
+
+
+[TABLE 37]
+Scenario | Total GVA 2025
+(£ million) | CAGR to reach £1 billion
+(by end 2035)
+Low (sensitivity) | 701.8 | 3.6%
+Central | 779.8 | 2.5%
+High (sensitivity) | 857.8 | 1.5%
+[/TABLE]
+
+
+[TABLE 38]
+Risk Factor | Impact on GVA | Probability | Mitigation
+Economic downturn | -10% to -20% | Medium | Diversify revenue streams
+Relocation or acquisition of one or more sector “primes” | -10% to -20% | Low/Medium | Further strengthen supply chain linkages and encourage inward investment
+Venue closures | -5% to -15% | Medium | Planning protection, rates relief
+Skills shortage | -5% to -10% | High | Training investment, retention
+Further tariff and non-tariff barriers to touring | -2% to -5% | High | Visa support, EU partnerships
+Streaming revenue decline | -3% to -8% | Medium | IP capture, sync licensing
+AI disruption | -5% to -15% | Medium | Upskilling, authenticity positioning
+[/TABLE]

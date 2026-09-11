@@ -1,0 +1,152 @@
+MITIH Createch Ecosystem Report
+Strategic Opportunities for Greater Manchester
+
+
+
+
+
+Summary prepared for Salford City Council
+by Iain Bennett and Jon Bains
+
+
+25 October 2025
+
+
+Executive Summary
+Greater Manchester’s legacy of broadcast commissioning and production established the foundation onto which MediaCity was designed to add new capacity in creation and distribution of new, digital forms of creativity. Across animation, audio, and studio production, the region possesses world-class creative capability, proven commercial success, and a track record of innovation. Yet this capability remains fragmented, underutilised and, as a consequence, at risk.
+Research commissioned by MITIH and carried out by The Fifth Sector over three months in early 2025 reveals the potential for  cross-sector integration between animation, audio, and studio production functions as a commercially viable business model. The research identiﬁes skilled workforce, established anchor organisations, and speciﬁc infrastructure opportunities that could support cluster expansion.
+Greater Manchester can make a strong argument to funders and investors that it is uniquely positioned to lead the UK in demonstrating how creative sectors can operate as an integrated, resilient ecosystem. Combining detailed analysis of labour market trends from 2020-2024, organisational networks, and direct engagement with sector leaders, the report identifies specific, actionable opportunities where targeted investment can unlock significant value from existing capacity.
+The research points to five critical findings:
+	•	Immersive production is already functioning as a convergence space where animation, audio, and studio production naturally work together. This is not theoretical; it is happening now, commercially viable, and ready to scale.
+	•	Employer demand has fundamentally shifted from narrow technical specialisation toward collaborative, adaptive capability. Yet educational provision has not caught up. This creates both a risk and an opportunity for universities to differentiate themselves by aligning with actual employer needs.
+	•	There are structural barriers to take up of innovation funding to support collaborative R&D between University and digital and creative firms across GM. Specific, modest-cost infrastructure gaps can be addressed through targeted funding, unlocking participation from small and medium-sized businesses that currently cannot afford access to premium facilities.
+	•	The region's most essential stabilising organisations are its creative and digital microbusiness, not the broadcasters or Universities. These are not struggling businesses; they are strategic assets that enable cross-sector collaboration and innovation. The risk to the GM ecosystem lies in that fact that these SMEs are systematically underfunded. Traditional funding models designed for high-growth ventures actively work against them.
+	•	Greater Manchester can scale what is already working. Realtime's Virtual Production department demonstrates that convergence between animation, audio, and studio production is operationally viable and commercially sustainable. This model is replicable and fundable.
+The ﬁndings reveal capability and opportunity. They open clear pathways for investment from multiple sources:
+	•	Public sector innovation funding (including for development of demonstrators and creative clusters)
+	•	Targeted incentives for collaborative R&D which take advantage of GMCA’s devolved authority and its Memorandum of Understanding with Innovate UK to provide either additional support to, or flexibility in the delivery of, UKRI Collaborate R&D&I investment
+	•	Private sector investment. 
+However, capability alone does not guarantee sustainable investment outcomes: for that, we recommend a further stage of research that could provide validated evidence of market demand. An updated appendix to the report proposes a risk-managed investment sequence that builds on research-validated operational strengths while ensuring market fundamentals support expansion before committing substantial public funds.
+
+Detailed Evidence and Strategic Implications
+1. Immersive production: convergence already happening
+What the research found
+Realtime, a Greater Manchester-based virtual production studio, operates a dedicated Virtual Production department that integrates games development, film production, and episodic television into a single production operation. Within this department, 3D animators create assets and interaction design, audio specialists design spatial sound and real-time audio feedback, and studio production crews manage camera capture, spatial layout, and technical pipeline. They work as an integrated team on the same commercial projects.
+This is a commercial operation delivering paid work. MITIH's investment in establishing this department was structured as direct capital and operational support. The department now operates sustainably, taking on projects across multiple sectors simultaneously.
+Job market data confirms this is not an outlier. 
+	•	Between 2020 and 2024, immersive-related roles generated 3,847 job postings. In 2020, immersive roles accounted for 612 postings. 
+	•	By 2024, this had grown to 891 postings, a 46 percent increase. 
+Critically, skills from animation, audio, and studio production appear regularly in the same job postings. In 2024, 34 percent of immersive postings explicitly requested animation skills, 28 percent requested audio expertise, and 41 percent requested studio production experience.
+International precedent confirms this is established practice. In Amsterdam and Montreal, immersive is already treated as a multi-sector operating layer. This is standard operating procedure in other creative hubs, not experimental work.
+Why this matters
+Traditional creative production is structured sequentially: concept, pre-production, production, post-production. Each phase can be handled by specialists in isolation. Immersive production cannot work this way. By its nature, it requires simultaneous collaboration between animators, audio specialists and production crews. The technical requirements force integration.
+By positioning immersive projects as deliberate convergence testbeds within innovation funding, Greater Manchester can demonstrate that cross-sector collaboration is operationally viable and commercially sustainable. It can build collaborative experience and working relationships across sectors. It can create a fundable model that serves multiple sectors simultaneously. It can position the region as operationally ahead of other UK creative hubs.
+Strategic recommendation
+	•	Propose immersive as a strategic integration layer within cluster funding
+	•	Create funding calls that explicitly require animation, audio, and studio production participation
+	•	Use Realtime's Virtual Production department as a reference model and case study
+	•	Position Greater Manchester as already operating at the level that other regions are aspiring to reach.
+ 2. Employer demand has shifted; education has not
+What the research found
+Analysis of 2020-2024 job postings reveals a clear hierarchy in employer demand:
+	•	Communication skills appear in 51,419 total postings across the five-year period. In 2020, communication appeared in 8,934 postings. By 2024, this had risen to 10,247 postings, a 15 percent increase. This is sustained and growing demand.
+	•	Agile methodology appears in 37,229 total postings. In 2020, this appeared in 6,123 postings. By 2024, it had risen to 8,456 postings, a 38 percent increase.
+	•	Project management appears in 16,348 total postings. In 2020, this appeared in 2,891 postings. By 2024, it had risen to 3,847 postings, a 33 percent increase.
+These are not peripheral skills. They appear across all three focus sectors (animation, audio, studio production) and across all job levels, from entry-level to senior positions.
+Traditional technical skills show the opposite trajectory:
+	•	JavaScript appears in 31,240 total postings. In 2020, JavaScript appeared in 7,812 postings. By 2024, this had fallen to 2,001 postings, a 74 percent decline.
+	•	Microsoft Azure appears in 28,594 total postings. In 2020, Azure appeared in 7,454 postings. By 2024, this had fallen to 2,936 postings, a 61 percent decline.
+Programming languages are in decline as low-code and AI tooling rise. This reflects an economy shifting toward integration fluency: the ability to work across disciplines, platforms, and expectations.
+The curriculum gap
+Animation exemplifies this misalignment. The sector remains strong, with over 6,000 unique job postings between 2020 and 2024, averaging 1,200 per year. Yet current university curricula remain structured around legacy specialisations. There's an over-specialisation in pipelines (e.g. pre-vis, rigging) without enough exposure to product, storytelling or impact design.
+A 2020 study commissioned by Manchester Metropolitan University's School of Digital Arts found that, "small and microbusinesses lack resource (and in the current climate, confidence) to invest in their own development and funding has not been made available" for the cross-disciplinary professional development their staff actually need. 
+Why this matters
+Current policy and investment still overlooks a structural gap between what employers need and what universities are training. Graduates emerge with deep technical skills but lack the collaborative, adaptive capability that employers are actively seeking. This leaves graduates underprepared for the jobs that actually exist, reducing their employability and increasing time to productivity in roles.
+It also represents a missed opportunity for universities. Institutions that redesign provision around cross-disciplinary collaboration and real-world project experience will differentiate themselves, attract employers as partners, and increase graduate employment outcomes.
+Strategic opportunity
+Manchester Metropolitan University's SODA (School of Digital Arts) and Unit M at the University of Manchester have begun this work, embedding cross-department studios and live briefs. These remain exceptions. Scaling this approach would directly address employer demand, increase graduate employability across multiple sectors, and position Greater Manchester's universities as leaders in creative sector education.
+This requires embedding agile methodologies, real-world project experience, and client-facing communication into core technical courses. It requires studios where students from animation, audio, and production backgrounds work together on live briefs.
+Strategic recommendation
+Position curriculum redesign as a competitive advantage for Greater Manchester's universities. Frame it as preparing graduates for the jobs that actually exist. Emphasise employer demand data showing communication, agile methodology, and project management as top priorities. Create funding streams that incentivise universities to co-design curricula with employers and to embed cross-disciplinary collaboration into core provision.
+ 3. Modest-cost infrastructure gaps: targeted funding can unlock participation
+What the research found
+The report identifies concrete barriers at surprisingly low cost levels. Royal Northern College of Music's Michelle Phillips describes a specific, fundable gap: "I've got one portable EEG cap. If I had two, you know, they're £17,000 each, we could do that in the concert hall." This is a specific equipment access issue that could be resolved through targeted grant funding of £15,000 to £20,000.
+Analysis of UKRI awards to Greater Manchester firms for collaborative R&D in creative projects between 2019 and 2024 shows only 26 awards totalling £2.01 million across the entire period. This does not reflect a shortage of fundable ideas so much as a mismatch between funding mechanisms and the actual needs of creative sector businesses.
+Why this matters
+Small and medium-sized creative businesses operate in a different financial reality from high-growth tech ventures. A £17,000 equipment purchase is a significant commitment that requires either substantial project revenue or external funding. Yet existing funding mechanisms are often designed around larger awards (£50,000 or more) with complex application processes.
+This creates a participation barrier. Businesses that could benefit from modest investment and that could generate significant creative and commercial value are excluded simply because the funding mechanisms do not fit their scale.
+The opportunity
+Smaller, more accessible grant programmes can unlock participation. The report identifies that effective intervention to support cross-sector capabilities could cost as little as £10,000 to £50,000 per initiative, compared to the cost of rebuilding lost capabilities later (estimated at £500,000 or more per embedded production team).
+Shared infrastructure models present a further opportunity. Small production companies cannot afford access to premium facilities; but the studio operators understand the importance of making greater use of their hardware and knowhow in collaboration with innovative SMEs. So long as this gap exists, significant underutilised capacity in universities and anchor institutions will act as a brake on innovation and investment, and accentuate the risk that facilities will be forced to close. Pooled access arrangements where equipment and facilities are shared across multiple organisations and sectors would reduce individual cost barriers and enable broader participation.
+Florian Block of dock10 describes an example of how production capacity, R&D funding and innovative SMEs can come together to present a different typology of production infrastructure:
+"The infrastructure we've built through the Bridge AI project really clicks into all the other labs. So, we have the same capabilities now and the same operational expertise, probably a little bit ahead, in some of the labs, because we've done some hands-on motion capture, hybrids, multi-cam, all mixed up. I think the big opportunity is that we're an attractive satellite partner for any of these things, be it a remote thing or a scale up."
+For example, a university with a motion capture studio that is used 40 percent of the time could make the remaining 60 percent available to external practitioners at cost-recovery rates. This would generate revenue for the university, provide access for external businesses, and increase utilisation of existing capital investment.
+Strategic recommendation
+	•	Frame the approach to funders with access to smaller grant programmes across a range of different funding streams (Arts Council England, local authority innovation funds, DCMS cultural grants) as infrastructure access rather than R&D to access with specific. Provide support to SMEs and studio operators to develop costed proposals addressing identified gaps.
+	•	Develop shared infrastructure models with universities and anchor institutions, creating cost-recovery arrangements that benefit all parties. Position this as unlocking existing capacity rather than building new infrastructure.
+ 4. Essential stabilising organisations are systematically underfunded
+What the research found
+The report identifies that GM’s screen sector is characterised by microenterprises and SMEs that prioritise sustainability and collaboration over rapid growth. Typically overlooked in the rush to identify “high growth startups”, these organisations nonetheless play a demonstrable strategic role in the ecosystem.
+The report documents one such organisation that recently enabled a three-way immersive prototype between education, wellness, and animation without any formal funding route. These organisations remain unfunded, often unnoticed, but play a fundamental role in stabilising the production environment.
+Social network analysis confirms the strategic position occupied by microbusinesses and SMEs within the rapidly evolving ecosystem that links studio production, animation and audio through immersive production techniques. These organisations show bridging characteristics, connecting nodes across the network, rather than dominance in any one market vertical. They are connectors, not competitors.
+Why this matters
+Traditional innovation funding is designed around a specific model: identify promising ventures with high-growth potential, provide capital and support, and enable rapid scaling. This model works well for technology startups and venture-backed businesses.
+However, it actively works against the organisations that are most essential to creative sector stability. These organisations prioritise long-term relationships over rapid transaction volume, sustainable modest growth over venture-scale ambition, community benefit and cultural value alongside commercial viability, and operational excellence and reliability over innovation for its own sake.
+Traditional funding models see these characteristics as lack of ambition or lifestyle business mentality. In reality, they represent a fundamentally different and essential business model.
+The consequence is perverse: the organisations that are most essential to ecosystem stability are systematically excluded from support mechanisms designed to support innovation and growth. They survive through founder commitment, underutilised capacity, and informal partnerships. They are at constant risk of burnout, closure and loss of key personnel, adding the risk of a “brain drain” to places which can offer greater certainty of demand for and understanding of the value of those connectors.
+The opportunity
+GM’s screen, animation, audio and immersive production outfits would benefit from a shared model of support which looks quite different from existing support for high growth startups and scale-ups. That means:
+	•	Multi-year operational support rather than project-based grants to provide stability and enable long-term planning. 
+	•	Flexible legal and procurement arrangements to facilitate stable long-term partnerships with universities, commercial partners, and public sector bodies. 
+	•	Recognition of microenterprises and SMEs as strategic partners in innovation funding, not as struggling businesses requiring rescue. 
+	•	Peer recognition mechanisms allowing hubs and partners to nominate foundational collaborators.
+This is strategic investment in ecosystem stability. The risk of losing these organisations through attrition, burnout, closure or competition from other sectors and other places is substantial and once they are gone, they are prohibitively expensive to replace. The cost of supporting them is modest.
+Strategic recommendation
+	•	A dedicated funding stream within existing innovation budgets for organisations that play bridging and stabilising roles in the creative ecosystem. Frame it as ecosystem stabilisation rather than support for struggling businesses. Position it as a complement to high-growth venture support, not a replacement. 
+	•	Develop flexible support models that recognise the different business logic of community-oriented, relationship-focused organisations. Work with partners to identify and nominate organisations that should be included.
+ 5. Greater Manchester can scale what is already working
+What the research found
+Realtime's Virtual Production department demonstrates that convergence between animation, audio, and studio production is operationally viable and commercially sustainable. This is a commercial operation delivering paid work across multiple sectors.
+MITIH's investment in establishing this capability was structured as direct capital and operational support. The department now operates sustainably, taking on projects across games, film, and episodic television simultaneously.
+International precedent confirms this is established practice. In Amsterdam and Montreal, immersive is already treated as a multi-sector operating layer. This is standard operating procedure in other creative hubs, not experimental work.
+Why this matters
+This research does not identify a need to invent new models or test unproven approaches. It identifies a need to scale and replicate what is already working.
+Realtime's Virtual Production department is a proof of concept. It demonstrates that cross-sector collaboration is operationally viable, immersive projects can be commercially sustainable, animation, audio, and studio production skills can be effectively integrated, and Greater Manchester has the capability to deliver this at world-class level.
+The opportunity is to replicate this model. This could involve supporting additional organisations to develop similar integrated capabilities, creating funding streams that explicitly require cross-sector participation, positioning Greater Manchester as a centre of excellence in convergent creative production, and attracting inward investment from international studios and streamers seeking integrated production capability.
+Strategic recommendation
+Position Greater Manchester as already operating at the level that other regions are aspiring to reach. Use Realtime's Virtual Production department as a reference model and case study. Create funding calls that explicitly require animation, audio, and studio production participation. Develop a narrative around convergent creative production as a distinctive Greater Manchester capability. Use this to attract inward investment and position the region as a leader in integrated creative sector innovation.
+ Summary: Pathways for investment and partnership
+For university partners
+Position curriculum redesign around cross-disciplinary collaboration and integration as a competitive advantage. Frame it as preparing graduates for the jobs that currently exist and for which there will be increasing demand, and contrast this with the costs and risks of building expectation of employment where it no longer exists. Create funding streams that incentivise co-design with employers and embedding of cross-disciplinary collaboration into core provision.
+For innovation funders (UKRI, Innovate UK, Arts Council England)
+Propose immersive as a strategic convergence layer. Create funding streams that explicitly require animation, audio, and studio production participation. Position Greater Manchester as operationally ahead of other regions.
+For local authority and GMCA partners
+Approach smaller grant programmes with specific, costed proposals addressing identified infrastructure gaps. Develop shared infrastructure models with universities and anchor institutions. Establish a dedicated funding stream for organisations that play bridging and stabilising roles in the creative ecosystem.
+For sector partners (Animation UK, dock10, Realtime, etc.)
+Frame the narrative around convergence and integration rather than sector competition. Use Realtime's Virtual Production department as a reference model. Position cross-sector collaboration as commercially viable and already proven in practice.
+For all partners
+In the short term, the challenge for GM is not about creating new capacity; it is to connect and leverage existing capacity more effectively. The infrastructure, talent, and capability already exist in Greater Manchester. The opportunity is to remove structural barriers to their integration and collaboration, and to scale what is already working.
+Appendix: Critical questions requiring market validation
+The research ﬁndings reveal strong operational capability and clear infrastructure opportunities. However, three questions about market fundamentals require systematic analysis before any decision to proceed with training expansion or major infrastructure investment:
+First, does market demand support increased graduate supply? Job posting data shows 769 immersive- related positions annually, but this represents current demand, not future capacity when graduates complete training in 2-3 years. Commissioning budgets from broadcasters and streaming platforms determine whether this market is growing, stable, or approaching saturation. Without this analysis, training expansion risks creating unemployable graduates.
+Second, how will artiﬁcial intelligence reshape workforce requirements? Emerging AI tools are already changing production workﬂows, eliminating some entry-level positions while creating demand for senior orchestration roles. Net job creation - accounting for both new opportunities and displaced positions - determines sustainable training capacity. Current gross job board posting numbers tell only half the story.
+Third, what revenue models underpin immersive work? Product-funded work (games sales, premium streaming content) creates sustainable career pathways where quality drives revenue growth. In contrast, advertising-funded work operates as zero-sum competition for ﬁxed budgets, historically showing 70% failure rates for new entrants; and will be subject to increased competition from other models of content creation and changes to business model in which agentic AI takes an increasing share of programming and media buying budgets. The business model determines whether proposed training investments create viable careers or credential inﬂation.
+These questions fall outside the scope of ecosystem documentation research. They require different methodologies – including commissioning budget analysis, labour market econometrics, business model classiﬁcation - than the ethnographic and network analysis approaches appropriate for mapping existing operational capabilities.
+Recommended investment sequence
+	•	Immediate Action (Next 3-4 months)
+Commission a demand validation study to answer the three critical market fundamentals questions before any expansion commitments, to include
+	•	Analysis of current commissioning budgets and their trajectory
+	•	Net job creation, accounting for AI displacement
+	•	Revenue model classiﬁcation: Conduct structured interviews with anchor organisations and representative SMEs to classify whether Greater Manchester's immersive work is primarily product-funded (sustainable) or advertising-funded (70% failure rates). Understand client mix, project revenue sources, and business model trends.
+	•	Concentration risk assessment: do the top commissioners or formats control an unsustainably high share of regional work? High concentration creates vulnerability to single-organisation strategic shifts, as demonstrated by the over-dependency of Manchester’s animation cluster on PSB commissions.
+Decision: Clear proceed/pause/pivot recommendation with explicit criteria
+	•	Conditional actions: (if validation conﬁrms favourable conditions)
+	•	Phase 1: Ecosystem strengthening over 12-18 months
+	•	SME operational stabilisation (focused on 3-5 critical organisations)
+	•	Shared infrastructure access programme (2-3 facilities)
+	•	Proven model replication testing (1-2 sites)
+	•	Phase 2: Training Expansion over 36-48 months
+	•	Phased capacity addition (100-150 additional annual places over 4 years)
+	•	Cross-disciplinary curriculum implementation
+	•	Regional institutional coordination: continuous outcome monitoring and dynamic capacity adjustment to assure against risk of opportunity costs of continuing to invest in training expansion into unfavourable market conditions
+

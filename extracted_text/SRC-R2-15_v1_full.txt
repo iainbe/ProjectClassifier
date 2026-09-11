@@ -1,0 +1,493 @@
+This Agreement is made on the date set out above subject to the terms set out in the schedules listed below which both the British Council and the Supplier undertake to observe in the performance of this Agreement.
+The Supplier shall supply to the British Council, and the British Council shall acquire and pay for, the services and the related goods (if any) described in Schedule 1 and/or Schedule 2 on the terms of this Agreement.
+Schedules
+This Agreement shall only become binding on the British Council upon its signature by an authorised signatory of the British Council subsequent to signature by or on behalf of the Supplier.
+IN WITNESS whereof the parties or their duly authorised representatives have entered into this Agreement on the date set out above.
+Signed by the duly authorised representative of THE BRITISH COUNCIL
+
+Signed by the duly authorised representative of [insert name of Supplier]
+
+
+Special Terms
+Terms defined in this Schedule 1 shall have the same meanings when used throughout this Agreement. 
+In the event of any conflict between the terms set out in the various Schedules, the Schedules shall prevail in the order in which they appear in the Agreement.
+For the purposes of the Project and the provision of the Services and any Goods, the terms of this Agreement shall prevail over any other terms and conditions issued by the British Council (whether on a purchase order or otherwise).
+Commencement Date and Term
+This Agreement shall come into force on [insert date/start date] (the “Commencement Date”) and, subject to clauses 1.2 and 1.3 below, shall continue in full force and effect until [insert date/end date] (the “Term”).
+[The British Council may extend this Agreement for 2 further terms each of 6 months, by notice in writing to the Supplier not less than one month prior to expiry of the then current Term.  (“Term” shall then mean the Term as extended)].
+Notwithstanding anything to the contrary elsewhere in this Agreement, the British Council shall be entitled to terminate this Agreement by serving not less than 90 days’ written notice on the Supplier.
+End Client
+Not applicable
+Locations
+The Supplier will be required to provide the Services in London (1 Redman Place, Stratford, London E20 1JQ) and such other locations as may be agreed between the parties in writing from time to time (the “Location(s)”).
+Equipment
+The Supplier will provide the following equipment which it will use in the provision of the Services (the “Supplier’s Equipment”): 
+Laptops
+Key Personnel
+The Supplier shall deploy the following persons in the provision of the Services: [insert list] (the “Key Personnel”).
+Service of notices
+For the purposes of clause 34 of Schedule 4, notices are to be sent to the following addresses:
+
+Insurance Requirements
+The Supplier shall take out and maintain during the Term with a reputable insurance company the following cover types with the following indemnity limits:
+Insurance Cover	Indemnity Limit
+Employer’s liability	£10,000,000 per claim
+Public liability		£5,000,000 per occurrence and in the aggregate (annual total of all losses)
+Professional indemnity£10,000,000 per occurrence and in the aggregate (annual total of all losses)
+or such other insurance cover types and indemnity limits as may be agreed between the parties in writing from time to time.
+Working Hours
+For the purposes of this Agreement “Working Hours” and “Working Days” shall mean 9 a.m. to 5 p.m. local time Monday to Friday 
+
+Terms of Reference
+
+Charges
+The Charges for the Services and/or Goods will be 
+
+Standard Terms
+Interpretation
+In this Agreement:
+“Background IPR” means any Intellectual Property Rights (other than Project IPR) belonging to either party before the Commencement Date or not created in the course of or in connection with the Project;
+“British Council Entities” means the subsidiary companies and other organisations Controlled by the British Council from time to time, and any organisation which Controls the British Council (the “Controlling Entity”) as well as any other organisations Controlled by the Controlling Entity from time to time;
+“British Council’s Manager” means the British Council’s manager for the Services appointed in accordance with clause 3.1.1 of these Standard Terms;
+“British Council Requirements” means the instructions, requirements, policies, codes of conduct, guidelines, forms and other documents notified to the Supplier in writing or set out on the British Council’s website at https://www.britishcouncil.org/partner/international-development/jobs/policies-consultants or such other web address as may be notified to the Supplier from time to time (as such documents may be amended, updated or supplemented from time to time during the Term);
+“Charges” means the charges, fees and any other sums payable by the British Council to the Supplier as set out in Schedule 3;
+“Confidential Information” means any information which has been designated as confidential by either party in writing or that ought to be considered as confidential (however it is conveyed or on whatever media it is stored) including information which relates to the business, affairs, finances, properties, assets, trading practices, Goods/Services, developments, trade secrets, Intellectual Property Rights, know-how, personnel, and customers of the British Council or the Supplier (as the case may be) and all personal data and special categories of personal data within the meaning of the Data Protection Legislation;
+“Control” means the ability to direct the affairs of another party whether by virtue of the ownership of shares, contract or otherwise (and “Controlled” shall be construed accordingly);
+“Deliverables” means all Documents, products and materials developed or provided by the Supplier as part of providing the Services;
+“Document” means (whether in hard copy or electronic format) any document, drawing, map, plan, diagram, design, picture or other image, tape, disk, or other device or record embodying information in any form including any web page, information portal, “blog”, online content or electronic file;
+“End Client Agreement” means the agreement (if any) between the End Client (if any) and the British Council relating to the Project in connection with which the Supplier is providing its Services as a sub-contractor;
+“End Client Requirements” means the specific requirements of the End Client (if any), including the terms of the End Client Agreement, as set out in the Special Terms (Schedule 1), the Terms of Reference (Schedule 2) or as otherwise notified to the Supplier in writing;
+“Environmental Information Regulations” means the Environmental Information Regulations 2004;
+“Equality Legislation” means any and all legislation, applicable guidance and statutory codes of practice relating to diversity, equality, non discrimination and human rights as may be in force from time to time in England and Wales or in any other territory in which, or in respect of which, the Supplier provides the Services;
+“FOIA” means the Freedom of Information Act 2000 and any subordinate legislation made under that Act from time to time together with any guidance and/or codes of practice issued by the Information Commissioner in relation to such legislation;
+“Force Majeure Event“ means an act, event, omission or accident beyond the reasonable control of the affected party which was not reasonably foreseeable and which is not attributable to any wilful act, neglect or failure to take reasonable preventative action by that party, including (insofar as beyond such control but without prejudice to the generality of the foregoing expression) strikes, lock-outs or other industrial disputes, failure of a utility service or transport network, act of God, war, riot, civil commotion, malicious damage, volcanic ash, earthquake, explosion, terrorist act, epidemic, pandemic or other spread of infectious disease or the imposition of any measures to prevent the spread of disease, nuclear, chemical or biological contamination, compliance with any law or governmental order, rule, regulation or direction, accident, breakdown of plant or machinery, fire, flood or storm;
+“Goods” means the goods or products (if any) to be supplied by the Supplier under this Agreement as set out in the Special Terms (Schedule 1) and/or the Terms of Reference (Schedule 2);
+“Information Disclosure Requirements” means the requirements to disclose information under:
+the FOIA;
+the Environmental Information Regulations; and
+any applicable codes of practice issued under the FOIA;
+“Intellectual Property Rights” means any copyright and related rights, patents, rights to inventions, registered designs, database rights, design rights, topography rights, trade marks, service marks, trade names and domain names, trade secrets, rights in unpatented know-how, rights of confidence and any other intellectual or industrial property rights of any nature including all applications (or rights to apply) for, and renewals or extensions of such rights and all similar or equivalent rights or forms of protection which subsist or will subsist now or in the future in any part of the world;
+“Premises” means, where applicable, the premises or location where the Services are to be provided, as notified by the British Council to the Supplier;
+“Project” means the project in connection with which the Supplier provides its Services as further described in the Special Terms (Schedule 1) and/or the Terms of Reference (Schedule 2);
+“Project IPR” means all Intellectual Property Rights that arise or are obtained or developed by either party, or by a contractor on behalf of either party, in respect of the Deliverables in the course of or in connection with the Project;
+“Relevant Person” means any individual employed or engaged by the Supplier and involved in the provision of the Services, or any agent or contractor or sub-contractor of the Supplier who is involved in the provision of the Services and includes the Key Personnel (if any); 
+“Request for Information” means a request for information (as defined in the FOIA) relating to or connected with this Agreement or the British Council more generally or any apparent request for such information under the Information Disclosure Requirements; 
+“Services” means the consultancy and related services to be provided by the Supplier under this Agreement as set out in the Special Terms (Schedule 1) and/or the Terms of Reference (Schedule 2);
+“Supplier’s Equipment” means any equipment described as “Supplier’s Equipment” in Schedule 1 and any other equipment, including tools, systems (including laptops), cabling or facilities provided by the Supplier or its sub-contractors and used directly or indirectly in the supply of the Services or the Goods which are not the subject of a separate agreement between the parties under which title passes to the British Council; 
+“Supplier’s Team” means Supplier and, where applicable, any Relevant Person, and all other employees, consultants, agents and sub-contractors and any other person, organisation, company, or other third-party representatives which the Supplier engages in any way in relation to the supply of the Services or the Goods; and
+“Third Party IPR” means any Intellectual Property Rights not belonging to either party to this Agreement but used by the Supplier in the creation of the Deliverables and/or in the course of or in connection with the Project.
+In this Agreement:
+any headings in this Agreement shall not affect the interpretation of this Agreement;
+a reference to a statute or statutory provision is (unless otherwise stated) a reference to the applicable UK statute as it is in force for the time being, taking account of any amendment, extension, or re-enactment and includes any subordinate legislation for the time being in force made under it;
+where the words “include(s)” or “including” are used in this Agreement, they are deemed to have the words “without limitation” following them, and are illustrative and shall not limit the sense of the words preceding them; 
+without prejudice to clause 1.2.5, except where the context requires otherwise, references to:
+services being provided to, or other activities being provided for, the British Council;
+any benefits, warranties, indemnities, rights and/or licences granted or provided to the British Council; and
+the business, operations, customers, assets, Intellectual Property Rights, agreements or other property of the British Council,
+shall be deemed to be references to such services, activities, benefits, warranties, indemnities, rights and/or licences being provided to, or property belonging to, each of the British Council and the British Council Entities and this Agreement is intended to be enforceable by each of the British Council Entities; 
+obligations of the British Council shall not be interpreted as obligations of any of the British Council Entities; and
+where this Agreement has been translated into a language other than the English language, the English language version shall prevail.
+Supplier’s Responsibilities
+The Supplier shall provide the Services and the Goods and deliver the Deliverables with (i) reasonable skill and care and to the highest professional standards (ii) in compliance at all times with the terms of this Agreement (and, in particular, the Special Terms (Schedule 1) and the Terms of Reference (Schedule 2)), the reasonable instructions of the British Council and all applicable regulations and legislation in force from time to time.  The Supplier shall allocate sufficient resources to enable it to comply with its obligations under this Agreement.
+To the extent the Supplier is required to deliver any Goods under this Agreement, those Goods shall be of satisfactory quality, fit for purpose and shall comply with any applicable specification set out in this Agreement.
+The Supplier shall meet any dates related to the performance of the Services under this Agreement and time shall be of the essence in respect of such dates. 
+The Supplier shall comply with, and complete and return any forms or reports from time to time required by, the British Council Requirements.
+The Supplier shall comply with the End Client Requirements (if any) and shall do nothing to put the British Council in breach of the End Client Requirements (if any).
+Where applicable, the Supplier shall, subject to the prior written approval of the British Council, appoint or, at the written request of the British Council, replace without delay any member of the Supplier's Team, each such member to be suitably skilled, experienced and qualified to carry out the Services.  The Supplier shall not, without the British Council’s prior written consent (not to be unreasonably withheld or delayed), replace any of the Key Personnel.  The British Council acknowledges that the Supplier will have to replace a member of the Key Personnel where such person leaves the employment of the Supplier, in which case the British Council shall have a right of approval over the proposed replacement (such approval not to be unreasonably withheld or delayed).
+The Supplier shall:
+observe, and ensure that, where applicable, the Supplier’s Team observes, the British Council’s Acceptable Usage Policy, Roam User Policy (where access to the relevant information technology systems has been granted), Information Security Policy and any applicable security policy or health and safety policy notified to the Supplier (including such policies as may be applicable at the Premises) and any reasonable verbal or written instructions or policies issued to the Supplier at any time and shall comply with the legal requirements of any country in which the Services are being provided and, if the Supplier fails to do so, the British Council reserves the right to refuse the Supplier's Team access to the Premises and/or to suspend the provision of the Services until such time as the Supplier (and, where applicable, the Supplier’s Team) is compliant with such policies, instructions or requirements and the British Council shall not be required to pay the Charges in respect of the period of such suspension; and
+before the date on which the Services are to start, obtain and at all times maintain and comply with all licences and consents required to enable the Supplier to provide the Services (including in relation to the installation of the Supplier’s Equipment) and the Goods in accordance with this Agreement.
+The Supplier shall not at any time during the Term do or say anything which damages or which could reasonably be expected to damage the interests or reputation of the British Council or the End Client (if any) or their respective officers, employees, agents or contractors.
+If the Supplier is unable to provide the Services due to its own illness or injury or the illness or injury of any Relevant Person, the Supplier shall advise the British Council of that fact as soon as reasonably practicable and shall provide such evidence of any Relevant Person’s or its own (as the case may be) illness or injury as the British Council may reasonably require. For the avoidance of doubt, no Charges shall be payable to the Supplier in respect of any period during which the Services are not provided.
+The Supplier shall use all reasonable endeavours to ensure that it is available at all times on reasonable notice to provide such assistance or information as the British Council may require.
+The Supplier may use another person, firm, company or organisation to perform any administrative, clerical or secretarial functions which are reasonably incidental to the provision of the Services provided that the British Council will not be liable to bear the cost of such functions.
+Where the Supplier is not an individual, it shall provide one or more Relevant Person(s) to provide the Services and shall procure that such Relevant Person(s) comply with the terms of this Agreement to the extent that such terms are applicable to such Relevant Person(s).  Notwithstanding the deployment of any such Relevant Person(s), the Supplier shall remain wholly liable to the British Council and shall be responsible for all acts and omissions (howsoever arising) in the performance of the Services.  The British Council may, in its discretion, require the Relevant Person(s) to enter into direct undertakings with the British Council including with regard to confidentiality and intellectual property.
+Nothing in this Agreement shall prevent the Supplier from being engaged, concerned or having any financial interest in any capacity in any other business, trade, profession or occupation during the Term provided that such activity does not cause a breach of any of the Supplier's obligations under this Agreement.
+The Supplier shall use its reasonable endeavours to ensure that it does not become involved in any conflict of interests between the interests of the British Council and/or the End Client and the interests of the Supplier itself or any client of the Supplier.  The Supplier shall notify the British Council in writing as soon as is practically possible of any potential conflict of interests and shall follow the British Council’s reasonable instructions to avoid, or bring to an end, any conflict of interests.  In the event that a conflict of interests does arise, the British Council shall be entitled to terminate this Agreement on immediate written notice.
+The Supplier warrants that the Supplier’s Equipment shall be of satisfactory quality and fit for the purpose of providing the Services in accordance with this Agreement.
+The British Council’s Obligations
+The British Council shall:
+co-operate with the Supplier in all matters relating to the Services and the Goods and appoint the British Council’s Manager in relation to the Services, who shall have the authority to represent the British Council on day-to-day matters relating to this Agreement; and
+inform the Supplier of all health and safety rules and regulations and any other reasonable security requirements, policies and British Council instructions that apply at the Premises and/or in the country in which the Services are being provided from time to time during the Term. 
+The Supplier acknowledges and agrees that if it considers that the British Council is not or may not be complying with any of the British Council’s obligations, it shall only be entitled to rely on this as relieving the Supplier's performance under this Agreement:
+to the extent that it restricts or precludes performance of the Services or the provision of the Goods by the Supplier; and
+if the Supplier, promptly after the actual or potential non-compliance has come to its attention, has notified details to the British Council in writing.
+Status
+The relationship of the Supplier to the British Council will be that of independent contractor and nothing in this Agreement shall render the Supplier or any Relevant Person an employee, worker, agent or partner of the British Council and the Supplier shall not hold itself out as such.
+This Agreement constitutes a contract for the provision of services and not a contract of employment and accordingly the Supplier shall be fully responsible for and shall indemnify the British Council for and in respect of payment of the following within the prescribed time limits:
+any income tax, national insurance and social security contributions and any other employment related liability, deduction, contribution, assessment or claim in any applicable jurisdiction arising from or made in connection with either the performance of the Services, or any payment or benefit received by the Supplier (or, where applicable, any Relevant Person) in respect of the Services, where such recovery is not prohibited by law and the Supplier shall further indemnify the British Council against all reasonable costs, expenses and any penalty, fine or interest incurred or payable by the British Council in connection with or in consequence of any such liability, deduction, contribution, assessment or claim other than where the latter arise out of the British Council’s negligence or wilful default; and
+any liability for any employment-related claim or any claim based on worker status (including reasonable costs and expenses) brought by the Supplier (or, where applicable, any Relevant Person) against the British Council arising out of or in connection with the provision of the Services, except where such claim is as a result of any act or omission of the British Council.
+The British Council may at its option satisfy the indemnities set out in clause 4.2 above (in whole or in part) by way of deduction from any outstanding Charges or other payments due to the Supplier.
+Where applicable, the Supplier:
+acknowledges and agrees that it is intended that all employees of the Supplier (if any) shall remain employees of the Supplier and that termination of this Agreement (or any part of it) shall not operate to transfer the contracts of employment of any employees to the British Council or any third party; and
+shall use all reasonable endeavours to ensure that no member of its staff is deployed in the delivery of the Services to such an extent that the Transfer of Undertakings (Protection of Employment) Regulations 2006 (or any applicable equivalent legislation in any relevant jurisdiction, including in the European Union the Acquired Rights Directive (Council Directive 77/187 as amended) and any national legislation enacting to such Directive) may operate to transfer the employment of such member of staff to the British Council or any successor service provider upon termination of this Agreement.
+Price and Payment
+Unless stated otherwise, the Charges are exclusive of value added tax (VAT) or any equivalent sales tax in any applicable jurisdiction, which, if properly chargeable, the British Council shall pay at the prevailing rate within 30 days following receipt from the Supplier of a valid and accurate tax invoice.  In the event that the British Council is required by the laws or regulations of any applicable jurisdiction to deduct any withholding tax or similar taxes from the Charges, the British Council shall deduct and account for such taxes before paying the remainder of the Charges to the Supplier and shall notify the Supplier in writing of all such sums properly deducted.
+Under current UK legislation it is the responsibility of a supplier to assess its VAT liability for the supply of services.  Where UK VAT is applicable, the Supplier’s invoice should show all the necessary entries thereon to make it a valid tax invoice for VAT purposes; and in particular it must show the amount of VAT charged separately.  However, the British Council may be of the opinion that the Services being supplied under this Agreement may not be subject to UK VAT, due to the place of supply not being the UK, and the charging of UK VAT would therefore be inappropriate.  The British Council reserves the right to dispute payment of the UK VAT charged by the Supplier until the issue has been resolved by a ruling in writing obtained from HM Revenue & Customs by the Supplier, and that ruling shown to the British Council.
+The Supplier shall indemnify and keep indemnified the British Council from and against any liability, including any interest, penalties or costs incurred, which is levied, demanded or assessed on the British Council at any time in respect of the Supplier’s failure to account for or to pay any VAT relating to payments made to the Supplier under this Agreement.  Any amounts due under this clause 5.3 shall be paid in cleared funds by the Supplier to the British Council not less than seven calendar days before the date on which the tax or other liability is payable by the British Council.  The British Council may grant the Supplier further time to pay where this is deemed appropriate by the British Council taking account of the relevant circumstances.
+Unless stated otherwise, the Supplier shall invoice for the Charges monthly in arrears and all such invoices shall be accompanied by a statement setting out the Services and/or Goods supplied in the relevant month in sufficient detail to justify the Charges charged (including any timesheets or other information required by, and to be provided in the format set out in, the British Council Requirements). 
+Subject to clauses 5.6 to 5.8 below, the British Council shall, unless agreed otherwise by the parties in writing, pay each of the Supplier’s valid and accurate invoices by automated transfer into the Supplier’s nominated bank account no later than 30 days after the invoice is received.
+Provided that it notifies the Supplier in writing in advance, and works in good faith to resolve any issues or disputes, the British Council shall be entitled to withhold payment of any sums in respect of any Services or Deliverables which have not been provided by the Supplier to the British Council’s satisfaction and in accordance with the terms of this Agreement.
+In the event that the British Council makes any overpayment in connection with this Agreement (or any other agreement between the parties), the British Council may, upon written notice to the Supplier, deduct the amount of such overpayment from any future invoice or require repayment of such sum within 30 days after the date on which it serves written notice on the Supplier.
+Where there is an End Client, the British Council shall not be obliged to pay any invoice to the extent that it has not received payment relating to that invoice from the End Client.
+If the British Council fails to pay any sum properly due and payable (other than any sum disputed in good faith) by the due date for payment, the Supplier may charge interest on the amount of any such late payment at the rate of 4% per annum above the official bank rate set from time to time by the Bank of England.  Such interest will accrue from the date on which payment was due to the date on which payment is actually made.  The parties hereby acknowledge and agree that this rate of interest is a substantial remedy for any late payment of any sum properly due and payable.
+Quality and Performance
+Any person authorised by the British Council and/or the End Client shall be entitled, subject to reasonable notice, to inspect work being undertaken in relation to the Services and the Goods at all reasonable times at the Supplier’s premises or at the premises of any sub-contractor or agent of the Supplier.
+The British Council reserves the right to reject any Goods and/or reject or require re-performance (at no additional cost to the British Council) of any Services which are defective or which are otherwise not in accordance with the requirements of this Agreement.  Rejected Goods may be returned at the Supplier’s risk and expense and the Supplier will refund any monies paid by the British Council in relation to such rejected Goods (or the British Council shall be entitled to deduct the amount of such monies from any future invoice payable by the British Council).
+If at any time within 12 months following the date of provision of any Services or delivery of any Goods, any such Services or Goods (or any part thereof) are found to be defective or otherwise not in accordance with the requirements of this Agreement, the Supplier shall promptly on request and without charge, remedy the deficiency by re-performing the Services, or repairing, or supplying replacements for, the Goods.
+Risk in Goods shall pass when the Goods are delivered as specified in this Agreement.  Unless otherwise specified, the Supplier shall be responsible for all carriage, insurance and other costs incurred in delivering the Goods to the delivery location and, where requested, unloading Goods at that location.
+Ownership of Goods shall pass to the British Council on delivery, payment or part payment, whichever is the first to occur.
+Change Control
+If either party wishes to change the scope or provision of the Services, it shall submit details of the requested change to the other in writing and such change shall only be implemented if agreed in accordance with the remainder of this clause.
+If the British Council requests a change to the scope or provision of the Services: 
+the Supplier shall, within a reasonable time (and in any event not more than fourteen (14) calendar days after receipt of the British Council’s request), provide a written estimate to the British Council of:
+the likely time required to implement the change; 
+any reasonable variations to the Charges arising directly as a result of the proposed change; and
+any other impact of the change on the terms of this Agreement.
+if, following receipt of the Supplier’s written estimate submitted in accordance with clause 7.2.1, the British Council does not wish to proceed, there shall be no change to this Agreement; and
+if the British Council wishes the Supplier to proceed with the change, the Supplier shall do so after agreement on the necessary variations to the Charges, the Services and any other relevant terms of this Agreement to take account of the change following which this Agreement shall be varied by the parties setting out in writing, and signing, the agreed changes in accordance with clause 28.
+If the Supplier requests a change to the scope or provision of the Services, it shall send such request to the British Council in writing, accompanied by a written statement of the matters referred to in clause 7.2.1, and the British Council shall withhold or give its consent to such change in its sole discretion.  If the British Council wishes the Supplier to proceed with the change, the Supplier shall do so, following a variation of this Agreement in writing in accordance with clause 28.
+Premises
+Subject to clause 2.7.1, the Supplier shall be entitled to use such parts of the Premises as the British Council may from time to time designate as are necessary for the performance of the Services provided that use of the Premises is to be solely for the purposes of providing the Services and the Supplier shall neither have nor acquire any right to exclusive possession of part or all of the Premises nor any separate right to occupy or possess part or all of the Premises and nothing in this Agreement shall create a lease or other greater interest in any premises.
+The British Council may refuse to admit to, or order the removal from, the Premises any member of the Supplier’s Team or person otherwise acting on behalf of the Supplier who, in the opinion of the British Council, is not behaving in accordance with the requirements of this Agreement or whose behaviour, conduct or dress, whether at the time the person is seeking admittance to, or at any time the person is present on, the Premises or otherwise, renders that person unfit to be on the Premises or is inappropriate in the context of the country in which the Premises are located. Costs associated with any such refusal of admittance or removal and with the provision of a suitable replacement shall be met by the Supplier and the British Council shall not be required to pay the Charges in respect of any period during which the Supplier is refused admittance to, or removed from, the Premises as a result of this clause.
+The Equipment
+The British Council Equipment shall remain the property of the British Council and shall be used by the Supplier in the performance of the Services and for no other purposes.
+The British Council shall be responsible for the repair or replacement of the British Council Equipment unless the need for repair or replacement is caused by the Supplier’s failure to comply with clause 9.3 or by the negligence or default of the Supplier.
+The Supplier shall maintain all of the British Council Equipment in good and serviceable condition (fair wear and tear excepted) and shall only use the British Council Equipment in accordance with the British Council Equipment manufacturers’ recommendations.
+The Supplier shall be liable for any loss of or damage to any of the British Council Equipment caused by the negligence or default of the Supplier.
+The Supplier shall not in any circumstances have any right to refuse to return to the British Council any of the British Council Equipment and shall take steps necessary to ensure that the title of the British Council and the British Council’s right to repossess the British Council Equipment are effectively brought to the attention of any third party dealing with any of the British Council Equipment.
+Intellectual Property Rights	
+Subject to clause 12, each party shall give full disclosure to the other of all Background IPR owned by it which is relevant to the Project (and the Supplier shall give the British Council full disclosure of any Third Party IPR it intends to use).
+All Background IPR and Third Party IPR is and shall remain the exclusive property of the party owning it.
+Each party warrants to the other party that its Background IPR does not, so far as it is aware, infringe the rights of any third party and none of its Background IPR is the subject of any actual or, so far as it is aware, threatened challenge, opposition or revocation proceedings.
+The Supplier hereby assigns to the British Council with full title guarantee by way of present and future assignment all its right, title and interest in and to the Project IPR.
+The Supplier shall procure the waiver in favour of the British Council of all moral rights arising under the Copyright, Designs and Patents Act 1988, as amended or revised, or any similar provisions of law in any jurisdiction, relating to the Deliverables.
+The British Council hereby grants to the Supplier an irrevocable, royalty-free, non-exclusive, worldwide right and licence to use the Project IPR and the British Council’s Background IPR in, and to the extent necessary for, the performance of the Services.
+The Supplier hereby grants to the British Council an irrevocable, royalty-free, non-exclusive, worldwide right and licence to use the Supplier’s Background IPR included in the Deliverables.
+The Supplier is responsible for obtaining any licences, permissions or consents in connection with any Third Party IPR required by the Supplier and the British Council for use of the Deliverables (such licences, permissions or consents to be in writing, copies of which the Supplier shall provide to the British Council on request).  In addition, the Supplier warrants that the provision of the Services, the Deliverables and/or the Goods does not and will not infringe any third party’s Intellectual Property Rights.
+The Supplier warrants that it has in place contractual arrangements with all members of the Supplier’s Team assigning to the Supplier their Intellectual Property Rights and waiving their moral rights (if any) in the Deliverables such that the Supplier can enter into the assignments, licences and waivers set out in this clause 10.
+The Supplier undertakes at the British Council’s request and expense to execute all deeds and documents which may reasonably be required to give effect to this clause 10.
+Nothing in this Agreement shall prevent the Supplier from using any techniques, ideas or know-how gained during the performance of this Agreement in the course of its normal business, to the extent that it does not result in a disclosure of the British Council’s Confidential Information or an infringement of Intellectual Property Rights.
+Each party shall promptly give written notice to the other party of any actual, threatened or suspected infringement of the Project IPR or the other party’s Background IPR of which it becomes aware.
+Limitation of Liability
+Nothing in this Agreement shall exclude or restrict the liability of either party to the other for death or personal injury resulting from negligence or for fraudulent misrepresentation or in any other circumstances where liability may not be limited under any applicable law.
+Subject to clauses 11.1 and 11.3, neither party shall be liable to the other whether in contract, tort, negligence, breach of statutory duty or otherwise for any indirect loss or damage, multiplication of compensatory damages, punitive or exemplary damages, fines, penalties, fees costs or expenses whatsoever or howsoever arising out of or in connection with this Agreement.
+Nothing in this Agreement shall exclude or restrict the liability of the Supplier to the British Council for any breach by the Supplier of clause 12 (Confidentiality) or clause 16 (Data Processing).
+The Supplier shall take out and maintain adequate insurance cover at least to the level described in the Special Terms (Schedule 1). The Supplier shall provide to the British Council forthwith upon request copies of the relevant certificates and details of any of the insurance cover that it is obliged to have under this clause 11.4.
+Subject to clauses 11.1 and 11.2, the British Council’s liability to the Supplier in respect of any one claim or series of linked claims under this Agreement (whether in contract, tort, negligence, breach of statutory duty or otherwise) shall not exceed an amount equal to the sum of the Charges paid or properly invoiced and due to be paid under this Agreement, plus any late payment interest properly chargeable under the terms of this Agreement, in the twelve (12) month period immediately preceding the event which gives rise to the relevant claim or series of linked claims.
+The Supplier shall indemnify the British Council from and against all loss or liability in connection with physical damage to property, death or personal injury caused by or arising out of the negligence of, or breach of this Agreement by, the Supplier or any member of the Supplier’s Team.
+The provisions of this clause 11 shall survive the termination of this Agreement, however arising.
+Confidentiality
+For the purposes of this clause 12:
+the “Disclosing Party” is the party which discloses Confidential Information to, or in respect of which Confidential Information comes to the knowledge of, the other party; and
+the “Receiving Party” is the party which receives Confidential Information relating to the other party.
+The Receiving Party shall take all necessary precautions to ensure that all Confidential Information it receives under or in connection with this Agreement:
+is given only to such of its staff (or, in the case of the Supplier, the Supplier’s Team) and professional advisors or consultants engaged to advise it in connection with this Agreement as is strictly necessary for the performance of this Agreement and only to the extent necessary for the performance of this Agreement; and
+is treated as confidential and not disclosed (without the prior written consent of the Disclosing Party) or used by the Receiving Party or any member of its staff (or, in the case of the Supplier, the Supplier’s Team) or its professional advisors or consultants otherwise than for the purposes of this Agreement.
+The Supplier shall ensure that all members of the Supplier’s Team or professional advisors or consultants are aware of the Supplier’s confidentiality obligations under this Agreement.
+The provisions of clauses 12.2 and 12.3 shall not apply to any Confidential Information which:
+is or becomes public knowledge (otherwise than by breach of this clause 12);
+was in the possession of the Receiving Party, without restriction as to its disclosure, before receiving it from the Disclosing Party;
+is received from a third party who lawfully acquired it and who is under no obligation restricting its disclosure;
+is independently developed without access to the Confidential Information; or
+must be disclosed pursuant to a statutory, legal or parliamentary obligation placed upon the Receiving Party.
+In the event that the Supplier fails to comply with this clause 12, the British Council reserves the right to terminate this Agreement by notice in writing with immediate effect.
+To the extent any provisions of the Official Secrets Act 1989 or the National Security Act 2023 are applicable to any Confidential Information, nothing in this clause 12 will change those provisions applicable under that legislation.
+The Supplier acknowledges that the British Council is subject to the Information Disclosure Requirements and shall assist and co-operate with the British Council to enable the British Council to comply with those requirements.
+Where the British Council receives a Request for Information in relation to information that the Supplier or any of its sub-contractors is holding on behalf of the British Council and which the British Council does not hold itself, the British Council shall as soon as reasonably practicable after receipt and in any event within five calendar days of receipt, forward the Request for Information to the Supplier and the Supplier shall:
+provide the British Council with a copy of all such information in the form that the British Council requires as soon as practicable and in any event within 10 calendar days (or such other period as the British Council acting reasonably may specify) of the British Council’s request; and
+provide all necessary assistance as reasonably requested by the British Council to enable the British Council to respond to the Request for Information within the time for compliance set out in section 10 of the FOIA or regulation 5 of the Environmental Information Regulations, as applicable.
+The Supplier acknowledges that any lists or schedules provided by it outlining Confidential Information are of indicative value only and that the British Council may nevertheless be obliged to disclose the Supplier’s Confidential Information in accordance with the Information Disclosure Requirements:
+in certain circumstances without consulting the Supplier; or
+following consultation with the Supplier and having taken its views into account,
+provided always that where clause 12.9.1 above applies, the British Council shall, in accordance with the recommendations of the applicable codes of practice issued under the FOIA, take reasonable steps to draw this to the attention of the Supplier after any such disclosure.
+The provisions of this clause 12 shall survive the termination of this Agreement, however arising.
+Termination
+Without prejudice to any other rights or remedies which the British Council may have, the British Council may terminate this Agreement without liability to the Supplier immediately on giving notice to the Supplier if:
+the performance of the Services is delayed, hindered or prevented by a Force Majeure Event for a period in excess of 28 days;
+where the Supplier is a company, there is a change of Control of the Supplier; or
+the Supplier or any Relevant Person:
+is incapacitated (including by reason of illness or accident) from providing the Services for an aggregate period of five (5) Working Days in any two (2) week consecutive period;
+is convicted of any criminal offence (other than an offence under any road traffic legislation in the United Kingdom or elsewhere for which a fine or non-custodial penalty is imposed); or
+is in the reasonable opinion of the British Council or the End Client (if any) negligent and incompetent in the performance of the Services.
+Either party may give notice in writing to the other terminating this Agreement with immediate effect if:
+the other party commits any material breach of any of the terms of this Agreement and that breach (if capable of remedy) is not remedied within 30 days of notice being given requiring it to be remedied (and where such breach is not capable of remedy, the terminating party shall be entitled to terminate the Agreement with immediate effect);
+an order is made or a resolution is passed for the winding-up of the other party or an administrator is appointed by order of the court or by other means to manage the affairs, business and property of the other party or a receiver and/or manager or administrative receiver is validly appointed in respect of all or any of the other party’s assets or undertaking or circumstances arise which entitle the Court or a creditor to appoint a receiver and/or administrative receiver or which entitle the Court to make a winding-up or bankruptcy order or the other party takes or suffers any similar or analogous action (in any jurisdiction) in consequence of debt; or
+the other party ceases, or threatens to cease, to carry on business.
+The British Council shall be entitled to terminate this Agreement at any time with immediate effect (or with effect from such time as the British Council specifies in its notice of termination) by serving written notice on the Supplier if:
+the End Client Agreement terminates;
+the End Client instructs the British Council in writing to terminate this Agreement;
+a provider of funding to the British Council for the Services instructs the British Council in writing to terminate this Agreement; or
+the funding for the Project is otherwise withdrawn or ceases.
+The British Council may at any time by notice in writing terminate this Agreement with immediate effect if the Supplier is in persistent breach of any of its obligations under this Agreement, whether or not such breach is capable of remedy.  For the purposes of this clause 13.4, three or more non-material breaches of the terms of this Agreement may together constitute a persistent breach.
+In any circumstances where the British Council has the right to terminate this Agreement it may instead, by serving written notice on the Supplier, opt to suspend the provision of the Services for a reasonable period and the British Council shall not be required to pay any Charges in respect of such period of suspension.
+On termination of this Agreement for any reason the Supplier shall immediately deliver to the British Council: 
+all copies of information and data provided by the British Council to the Supplier for the purposes of this Agreement and the Supplier shall certify to the British Council that it has not retained any copies of such information or data, except for one copy which the Supplier may use for audit purposes only and subject to the confidentiality obligations in clause 12; and
+all specifications, programs (including source codes) and other documentation comprised in the Deliverables and existing at the date of such termination, whether or not then complete and all Intellectual Property Rights in such materials shall automatically pass to the British Council (to the extent that they have not already done so by virtue of clause 10.4).
+If the Supplier fails to fulfil its obligations under clause 13.6, the British Council may enter the Supplier's premises and take possession of any items which should have been returned under it.  Until they have been returned or repossessed, the Supplier shall be solely responsible for their safe keeping.
+During the period between service of a notice of termination and the effective date of termination, the Supplier shall provide the British Council with all reasonable assistance and information to enable an efficient handover to a new service provider (or to the British Council).
+Termination of this Agreement, however it arises, shall not affect or prejudice the accrued rights of the parties as at termination or the continuation of any provision expressly stated to survive, or implicitly surviving, termination.
+The British Council shall pay the Charges up to the effective date of termination.  In addition, if the Agreement is terminated by the British Council pursuant to clause 1.3 of the Special Terms (Schedule 1) or by the Supplier pursuant to clause 13.2 above, the British Council shall reimburse the Supplier for the reasonable costs or expenses that the Supplier can demonstrate that it has properly incurred specifically for the purposes of the Project and which it cannot recover or which it cannot utilise in connection with another British Council project provided that the Supplier shall use its reasonable endeavours to mitigate the level of such costs and expenses.
+Sub-Contracting
+The Supplier may not sub-contract the provision of any material part of the Services without the prior written consent of the British Council, such consent not to be unreasonably withheld or delayed.  
+Notwithstanding any sub-contracting permitted under clause 14.1, the Supplier shall remain wholly liable and responsible for all acts and omissions (howsoever arising) of its sub-contractors in the performance of the Services and the supply of the Goods.
+Where the Supplier enters into a Sub-Contract, the Supplier shall:
+pay any valid invoice received from its subcontractor within 30 days following receipt of the relevant invoice payable under the Sub-Contract; and
+include in that Sub-Contract a provision requiring the counterparty to that Sub-Contract to include in any Sub-Contract which it awards provisions having the same effect as clause 14.3.1 of this Agreement.
+In clause 14.3, “Sub-Contract” means a contract between two or more suppliers, at any stage of remoteness from the British Council in a subcontracting chain, made wholly or substantially for the purpose of performing (or contributing to the performance of) the whole or any part of this Agreement.
+The British Council reserves the right to request the replacement of any approved sub-contractor on reasonable grounds.
+Anti-Corruption, Anti-Collusion and Tax Evasion
+The Supplier undertakes and warrants that it has not offered, given or agreed to give (and that it will not offer, give or agree to give) to any person any gift or consideration of any kind as an inducement or reward for doing or forbearing to do anything in relation to the obtaining of this Agreement or the performance by the Supplier of its obligations under this Agreement.
+The Supplier warrants that it, and any Relevant Person, has and will retain in place, and undertakes that it, and any Relevant Person, will at all times comply with, policies and procedures to avoid the risk of bribery (as set out in the Bribery Act 2010), tax evasion (as set out in the Criminal Finances Act 2017) and fraud within its organisation and in connection with its dealings with other parties, whether in the UK or overseas.
+The Supplier warrants that:
+it, and any Relevant Person, has not colluded, and undertakes that it will not at any time collude, with any third party in any way in connection with this Agreement (including in respect of pricing under this Agreement); and
+it, and any Relevant Person, has not engaged, and will not at any time engage, in any activity, practice or conduct which would constitute either:
+a UK tax evasion facilitation offence under section 45 of the Criminal Finances Act 2017; or
+a foreign tax evasion facilitation offence under section 46 of the Criminal Finances Act 2017.
+Nothing under this clause 15.3 is intended to prevent the Supplier from discussing the terms of this Agreement and the Supplier’s pricing with the Supplier’s professional advisors.
+The Supplier acknowledges and agrees that British Council may, at any point during the Term and on any number of occasions, carry out searches of relevant third party screening databases (each a “Screening Database”) to ensure that neither the Supplier, the Supplier’s Team nor any of the Supplier’s Team’s directors or shareholders (where applicable), is or have been listed:
+as an individual or entity with whom national or supranational bodies have decreed organisations should not have financial dealings;
+as being wanted by Interpol or any national law enforcement body in connection with crime;
+as being subject to regulatory action by a national or international enforcement body;
+as being subject to export, trade or procurement controls or (in the case of an individual) as being disqualified from being a company director; and/or
+as being a heightened risk individual or organisation, or (in the case of an individual) a politically exposed person,
+(together the “Prohibited Entities”).
+The Supplier warrants that it will not make payment to, transfer property to, or otherwise have dealings with, any Prohibited Entity.
+If any of the Supplier, the Supplier’s Team or the Supplier’s Team’s directors or shareholders (where applicable) is
+listed in a Screening Database for any of the reasons set out in clause 15.4, or 
+breaches any of its obligations set out in clauses 15.1, 15.2, 15.3 or 15.5;
+then the Supplier shall promptly notify the British Council of any such breach(es) and the British Council shall be entitled to takes the steps set out at clause 15.7 below.
+In the circumstances described at clause 15.6.1 and/or 15.6.2, and without prejudice to any other rights or remedies which the British Council may have, the British Council may:
+terminate this Agreement without liability to the Supplier immediately on giving notice to the Supplier; and/or
+require the Supplier to take any steps the British Council reasonably considers necessary to manage the risk to the British Council of contracting with the Supplier (and the Supplier shall take all such steps and shall provide evidence of its compliance if required); and/or
+reduce, withhold or claim a repayment (in full or in part) of the charges payable under this Agreement; and/or
+share such information with third parties.
+The Supplier shall provide the British Council with all information reasonably requested by the British Council to complete the screening searches described in clause 15.4.
+Without limitation to clauses 15.1, 15.2, 15.3, 15.4, 15.5, 15.6, 15.7 and 15.8 above, the Supplier shall: 
+ensure that all Relevant Persons involved in providing the Services or with this Agreement have been vetted and that due diligence is undertaken on a regular continuing basis to such standard or level of assurance as is reasonably necessary in relation to a person in that position in the relevant circumstances; and
+maintain accurate and up to date records of:
+any requests to facilitate any UK tax evasion offence or any foreign tax evasion offence made to the Supplier or any Relevant Person in connection with the Services or with this Agreement either in the United Kingdom or elsewhere;
+any action taken by the Supplier or any Relevant Person to inform the relevant enforcement bodies or regulatory authorities that the Supplier or any Relevant Person has been requested to facilitate a UK tax evasion offence or a foreign tax evasion offence (except to the extent that the Supplier or any Relevant Person is prevented by law from doing so);
+its compliance with its obligations under this clause 15 and all training and guidance provided to Relevant Persons in respect of the obligations under this clause and applicable laws for the prevention of tax evasion;
+the Supplier’s monitoring of compliance by Relevant Persons with applicable policies and procedures; and
+the measures that the Supplier has taken in response to any incidence of suspected or actual tax evasion or facilitation of tax evasion or breach of this clause 15;
+maintain and provide such access to the records or information referred to in clause 15.9.2; and
+ensure that all Relevant Persons involved in performing services in connection with this Agreement are subject to and at all times comply with equivalent obligations to the Supplier under this clause 15.
+For the purposes of this clause 15, the expression “Relevant Person” shall mean all or any of the following: (a) Relevant Persons; and (b) any Relevant Person employed or engaged by a Relevant Person.
+Data Processing
+Clauses 16.1 to 16.14 apply to the Processing of Personal Data within the United Kingdom (UK) or the European Economic Area or any country deemed to provide an adequate level of protection under Article 45 of the EU GDPR and Article 45 of the UK GDPR.
+In this clause:
+“Controller” means a “controller” for the purposes of the GDPR (as such legislation is applicable);
+“Data Protection Legislation” shall mean any applicable law relating to the processing, privacy and use of Personal Data, as applicable to either party or the Services under this Agreement, including the DPA and/or the GDPR, and /or any corresponding or equivalent national laws or regulations; and any laws which implement any such laws; and any laws that replace, extend, re-enact, consolidate or amend any of the foregoing; all guidance, guidelines, codes of practice and codes of conduct issued by any relevant regulator, authority or body responsible for administering Data Protection Legislation (in each case whether or not legally binding);
+“Data Subject” has the same meaning as in the Data Protection Legislation;
+“DPA” means the UK Data Protection Act 2018;
+“EU GDPR” means the General Data Protection Regulation (EU) 2016/679;
+“GDPR” means, as applicable, the EU GDPR or the UK GDPR;
+“International Organisation” has the same meaning as in the GDPR;
+“Personal Data” means “personal data” (as defined in the Data Protection Legislation) that are Processed under this Agreement;
+“Personal Data Breach” means a breach of security leading to the accidental or unlawful destruction, corruption, loss, alteration, unauthorised disclosure of, unauthorised access, attempted access (physical or otherwise) or access to, Personal Data transmitted, stored or otherwise processed;
+“Processing” has the same meaning as in the Data Protection Legislation and “Process” and “Processed” shall be construed accordingly;
+“Processor” means a “processor” for the purposes of the GDPR (as such legislation is applicable);
+“Sub-Processor” means a third party engaged by the Processor for carrying out processing activities in respect of the Personal Data on behalf of the Processor; 
+“Supervisory Authority” means any independent public authority responsible for monitoring the application of the Data Protection Legislation in the UK or any member state of the European Union;
+“Third Country” means a country or territory outside the UK; and
+“UK GDPR” has the meaning given in section 3(10) of the DPA (as amended).
+For the purposes of the Data Protection Legislation, the British Council is the Controller and the Supplier is the Processor in respect of the Personal Data.
+Details of the subject matter and duration of the Processing, the nature and purpose of the Processing, the type of Personal Data and the categories of Data Subjects whose Personal Data is being Processed in connection with the Services are set out in Schedule 5 to this Agreement.
+The Supplier shall:
+Process the Personal Data only to the extent, and in such manner, as is necessary for the purpose of carry out its duties under this Agreement and in accordance with the British Council’s written instructions and this clause (unless otherwise required by applicable laws as referred to in clause 16.6.3); 
+implement appropriate technical and organisational measures in accordance with the Data Protection Legislation to ensure a level of security appropriate to the risks that are presented by such Processing, in particular from accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to Personal Data, taking into account the state of the art, the costs of implementation, the nature, scope, context and purposes of Processing and the likelihood and severity of risk in relation to the rights and freedoms of the Data Subjects;
+ensure it has taken all reasonable steps to ensure the reliability and integrity of any employees or other persons authorised to Process the Personal Data; 
+ensure that any employees or other persons authorised to Process the Personal Data are: 
+subject to appropriate obligations of confidentiality, and
+subject to adequate training in the use, protection and handling of personal data;
+not engage any Sub-Processor to carry out its Processing obligations under this Agreement without obtaining the prior written consent of the British Council and, where such consent is given, the Supplier procuring by way of a written contract that such Sub-Processor will, at all times during the engagement, be subject to data Processing obligations equivalent to those set out in this clause. The British Council reserves the right during this Agreement to request evidence from the Supplier to support compliance with this clause 16.5.5 and the Supplier shall provide such evidence within three working days;
+assist and co-operate with the British Council as requested to ensure the British Council’s compliance with its obligations under the Data Protection Legislation with respect to:
+carrying out and/or reviewing data protection impact assessments where necessary in accordance with Article 35 of the GDPR;
+implementing such technical and organisational measures to enable the British Council to respond to requests from Data Subjects exercising their rights under the Data Protection Legislation, which shall include but not be limited to:
+providing Personal Data and details of the Processing of Personal Data to the British Council in response to Data Subjects’ exercising their rights of access; and
+deleting and/or rectifying Personal Data in response to a request from a Data Subject; and
+not Process or otherwise transfer any Personal Data to any Third Country without prior written consent from the British Council and, where such consent is given, (whether in Schedule 5 or separately), the Supplier shall comply with the following conditions;
+ensure the Data Subject has enforceable rights and effective legal remedies;
+comply with its obligations under the Data Protection Legislation by providing an adequate level of protection to any Personal Data that is transferred; 
+comply with reasonable instructions notified to it in advance by the British Council with respect to the Processing of the Personal Data; and
+only transfer Personal Data to the relevant Third Country where the relevant requirements under Articles 44 to 50 of the GDPR are met.
+The Supplier shall notify the British Council promptly:
+if it becomes aware that in following the instructions of the British Council, it shall be breaching the Data Protection Legislation;
+on receipt of notice of any complaint made to a Supervisory Authority or any finding by a Supervisory Authority in relation to its Processing of Personal Data, whether it is Personal Data being Processed under this Agreement or otherwise;
+if the Supplier believes it is under a legal obligation to Process the Personal Data other than in accordance with the British Council’s instructions and provide the British Council with details of such legal obligation, unless the law prohibits such information on important grounds of public interest;
+(and in any event within 3 days) of:
+a request received by the Supplier or a Sub-Processor from a Data Subject for access to that person’s Personal Data; and
+a complaint or request received by the Supplier or a Sub-Processor from a Data Subject relating to the British Council’s obligations under the Data Protection Legislation;
+and the Supplier shall provide the British Council with full co-operation and assistance in relation to any such complaint or request including where the complaint or request was received by the Associate, a Sub-Processor or the British Council.
+The Supplier shall:
+notify the British Council promptly (and in any event within 24 hours) of becoming aware of any actual, suspected or threatened Personal Data Breach of any component of the Personal Data;  
+ensure that such notice includes details of the nature of the breach, including the categories and approximate number of Data Subjects and records concerned and the remediation measures being taken to mitigate and contain the breach; and
+provide prompt assistance as requested by the British Council following the notification of an actual, suspected or threatened Personal Data Breach referred to in clause 16.7.1.
+In the event of a notification under clause 16.7, the Supplier shall not notify the Data Subject or any third party unless such disclosure is required by Data Protection Legislation or other law or is otherwise approved by the British Council. 
+The Supplier and its Sub-Processors shall maintain accurate written records of the Processing it carries out in connection with this Agreement and on request by the British Council, make available all information necessary to demonstrate the Supplier’s compliance under Data Protection Legislation and the terms of this Agreement. 
+The Supplier and its Sub-Processors shall allow for and contribute to audits, including inspections, by the British Council (or its authorised representative) in relation to the Processing of the British Council’s Personal Data by the Supplier and its Sub-Processors to support the Supplier in their compliance of clause 16.9.
+The Supplier warrants that in carrying out its obligations under this Agreement it will not breach the Data Protection Legislation or do or omit to do anything that might cause the British Council to be in breach of the Data Protection Legislation.
+The Supplier shall indemnify and keep indemnified the British Council and the British Council Entities against all Personal Data losses suffered or incurred by, awarded against or agreed to be paid by, the British Council  or British Council Entities arising from a breach by the Supplier (or any Sub-Processor) of (a) its data protection obligations under this Agreement; or (b) the Supplier (or any Sub-Processor) acting outside or contrary to the lawful instruction of the British Council. 
+On termination or expiry of this Agreement, the Supplier (or any Sub-Processor) shall, except to the extent it is required to retain a copy by law, stop Processing the Personal Data and return and/or destroy it at the request of the British Council.  The Supplier shall return the Personal Data in an open machine-readable format, via a secure agreed route at no cost to the British Council and the Supplier shall provide confirmation of destruction of any other copies including details of the date, time and method of destruction.
+These clauses may be amended at any time by the British Council giving at least 30 days’ written notice to the other party stating that applicable controller to processor standard clauses laid down by the European Commission or adopted by the UK Information Commissioner’s office or other Supervisory Authority are to be incorporated into this Agreement and replace clauses 16.2 to 16.8 and clause 16.13 above.
+Audit
+The Supplier will fully co-operate with and assist the British Council in meeting its audit and regulatory requirements by providing access for the British Council, its internal auditors (which shall include, for the purposes of this Agreement the British Council’s internal, audit, security, safeguarding and operational risk functions), its external auditors or any agents appointed by the British Council or their regulators (or any person appointed by such body) to conduct appropriate reviews and inspections of the activities and records of the Supplier (and to take copies of records and documents and interview members of the Supplier’s staff).  The Supplier shall maintain all records relating to this Agreement (including the provision of the Services and the receipt of all Charges and expenses) for a period of seven (7) years following the year in which the provision of the Services under this Agreement is completed or such longer period as the British Council may notify to the Supplier in writing from time to time.
+The Supplier shall bear its own cost in relation to any reasonable number of audits carried out by the British Council and/or the End Client. Where any audit reveals any breach or non-compliance by the Supplier, the Supplier shall also bear the costs of the British Council and/or the End Client carrying out such audit.
+Publicity
+The Supplier shall not publicise the terms of this Agreement or use the name of the British Council or any trade name or trade mark used by the British Council or refer to the British Council in any other way in any press release, promotional literature, publications or advertising material, including any website, “blogs”, social media or other online services, without the prior written consent of the British Council. In particular, the Supplier shall not use the British Council’s logo or other branding without having previously obtained such prior written consent.
+Health and Safety
+The Supplier shall promptly notify the British Council of any health and safety hazards which may arise in connection with the performance of this Agreement, take such steps as are reasonably necessary to ensure the health and safety of persons likely to be affected by the performance of the Services and notify the British Council of any incident occurring on the Premises or otherwise in connection with the provision of the Services which causes or could give rise to personal injury.
+The Supplier shall take all necessary measures to comply with the requirements of the Health & Safety at Work Etc Act 1974 (or any equivalent legislation in any applicable jurisdiction) and any other acts, orders, regulations and codes of practice (including any approved codes of practice) relating to health and safety, which may apply to the performance of this Agreement.
+Employees
+The Supplier agrees that it will not, without the prior written consent of the British Council, whether directly or indirectly, and whether alone or in conjunction with, or on behalf of, any other person during the Term or for a period of six (6) months following termination, solicit or entice, or endeavour to solicit or entice away from the British Council any person employed by the British Council and involved directly in the receipt or use of the Services.
+Safeguarding and Protecting Children and Vulnerable Adults
+The Supplier will comply with all applicable legislation and codes of practice, including, where applicable, all legislation and statutory guidance relevant to the safeguarding and protection of children and vulnerable adults and with the British Council Safeguarding Policy included in the British Council Requirements as amended from time to time, which the Supplier acknowledges may include submitting checks by the UK Disclosure & Barring Service (DBS) and/or equivalent local checks.  
+The Supplier must provide to the British Council, documentary evidence of the relevant disclosure and/or the criminal records checks in advance of undertaking any activities involving children and/or vulnerable adults in connection with the Project under this Agreement.
+In addition, the Supplier will ensure that, where it engages any other party to supply any of the Services under this Agreement, that party will also comply with the same requirements as if they were a party to this Agreement.
+Anti-slavery and human trafficking
+The Supplier shall:
+ensure that slavery and human trafficking is not taking place in any part of its business or in any part of its supply chain; 
+implement due diligence procedures for its own suppliers, subcontractors and other participants in its supply chains, to ensure that there is no slavery or human trafficking in its supply chains;
+respond promptly to all slavery and human trafficking due diligence questionnaires issued to it by the British Council from time to time and ensure that its responses to all such questionnaires are complete and accurate; and
+notify the British Council as soon as it becomes aware of any actual or suspected slavery or human trafficking in any part of its business or in a supply chain which has a connection with this Agreement.
+If the Supplier fails to comply with any of its obligations under clause 22.1, without prejudice to any other rights or remedies which the British Council may have, the British Council shall be entitled to:
+terminate this Agreement without liability to the Supplier immediately on giving notice to the Supplier; and/or
+require the Supplier to take any steps the British Council reasonably considers necessary to manage the risk to the British Council of contracting with the Supplier (and the Supplier shall take all such steps); and/or
+reduce, withhold or claim a repayment (in full or in part) of the charges payable under this Agreement; and/or
+share with third parties information about such non-compliance.
+Equality, Diversity, Inclusion and the Environment
+The Supplier shall ensure that it does not, whether as an employer or provider of services and/or goods, discriminate within the meaning of the Equality Legislation.
+The Supplier shall comply with any equality or diversity policies or guidelines included in the British Council Requirements.
+The Supplier shall comply with all applicable legislation, codes of practice, and statutory guidance relevant to the protection of the environment.
+The Supplier shall comply with any environmental policies or guidelines included in the British Council Requirements as amended from time to time.
+The Supplier shall ensure that any Services or, where applicable, Goods are designed, sourced and delivered in a manner which is environmentally and socially responsible.
+Duty to prevent sexual harassment
+In this clause:
+“British Council Personnel” means all employees, workers, officers, casual workers, agency workers, apprentices, volunteers, interns and self-employed contractors employed by, or providing services personally to, the British Council or any British Council Entity;  
+“Employment Liabilities” means any costs, claims, demands, or expenses (including reasonable legal and other professional expenses) and all losses, damages, compensation and other liabilities including, without limitation, those incurred by or attributed to any British Council Entity and any uplift in compensation awarded by an Employment Tribunal for failure to comply with section 40A Equality Act 2010.  
+“Supplier Personnel” means 
+all employees, workers, officers, partners, LLP members, casual workers, agency workers, apprentices, volunteers, interns, self-employed contractors and sub-contractors employed by, or providing services personally to, the Supplier; 
+any individual employed or engaged by the Supplier providing the Services personally to the British Council; and 
+any other individual employed or engaged by a third-party providing the Services to the Supplier (or any sub-contractor of any tier) who British Council Personnel may interact with during the provision of the Services
+The Supplier warrants to the British Council for its benefit and the benefit of the British Council Entities that it: 
+has, at all relevant times, complied with section 40A of the Equality Act 2010; 
+will, at all times during the Term of this Agreement, take reasonable steps to prevent the sexual harassment of British Council Personnel by any Supplier Personnel; 
+will notify the British Council upon request of the steps it has taken under paragraphs 24.2.1 and 24.2.2 above and take such further steps to prevent sexual harassment of British Council Personnel as are reasonably requested by the British Council;  
+will immediately notify the British Council of any matter involving British Council Personnel which could amount to sexual harassment within the meaning of section 26(2) Equality Act 2010; and 
+will ensure that obligations similar to those contained in this paragraph 24.2 and paragraph 24.5 below are included in any contract which it enters into with a sub-contractor (of any tier) whose staff may interact with British Council Personnel. 
+The Supplier shall indemnify the British Council (for its benefit and the benefit of any British Council Entities) for and against all Employment Liabilities whatsoever or howsoever arising incurred or suffered by the British Council or any British Council Entity in relation to: 
+breach by the Supplier of its obligations under paragraph 24.2 of this Agreement; and 
+any allegation or claim made by any British Council Personnel that they have been sexually harassed by any Supplier Personnel. 
+The British Council warrants to the Supplier that it: 
+has, at all relevant times complied with section 40A of the Equality Act 2010; 
+will use reasonable endeavours during the Term of this Agreement, to take reasonable steps to prevent the sexual harassment of Supplier Personnel by any British Council Personnel; 
+will as soon as is reasonably practicable upon discovery thereof, notify the Supplier of any matter involving Supplier Personnel which could amount to sexual harassment within the meaning of section 26(2) Equality Act 2010; and 
+will use reasonable endeavours to ensure that obligations similar to those contained in this paragraph 24.4 and paragraph 24.5 below are included in any contract which it enters into with a sub-contractor (of any tier) whose staff may interact with Supplier Personnel. 
+If an allegation of sexual harassment is made by a member of one party’s staff involving a member of the other party’s staff, each party agrees that:
+subject to any restriction imposed by law and provided there is no prejudice to any criminal investigation or criminal proceedings, they will: 
+provide free of charge all such reasonable assistance and information as the other party may reasonably request relating to such allegations to enable them to be properly investigated; 
+upon advance written notice provide the other party with access to all documents, records or other information relevant to the allegations of sexual harassment and permit access on reasonable notice to such members of staff as may be necessary to assist the other party in their investigation subject to the relevant staff member consenting to such access.  Such access shall be provided having due regard to applicable confidentiality obligations, including but not limited to the obligations set out in clause 12 and in compliance with all relevant data protection and privacy laws as well as the obligations set out in clause 16; 
+preserve and not waive legal professional privilege or any other privilege attaching to any of the documents or other information relating the allegations in their possession without first obtaining the other party’s consent to such waiver, such consent not to be unreasonably withheld; and
+provide such other reasonable assistance as the other party may reasonably request to ensure a proper and timely investigation into the sexual harassment allegations. 
+whilst the investigation is ongoing or if, following internal disciplinary procedures where allegations of sexual harassment are upheld, either party may acting reasonably, refuse access to their premises to, or refuse to allow contact with their staff members to, the alleged perpetrator of sexual harassment or any other individual believed by that party to present a security threat; and
+if, following internal disciplinary procedures where allegations of sexual harassment are upheld, both parties will comply with any reasonable request to:
+remove any perpetrator of sexual harassment from performance of the Services provided under this Agreement. If such removal is of any Supplier Personnel, the Supplier shall ensure that if required, such person is replaced promptly with another person with the necessary training and skills to meet the requirements of the Services; and 
+put in place measures to mitigate the risk of further contact between the perpetrator and victim of sexual harassment or to mitigate the risk of any recurrence of sexual harassment.
+Assignment
+The Supplier shall not, without the prior written consent of the British Council, assign, transfer, charge, create a trust in, or deal in any other manner with all or any of its rights or obligations under this Agreement.
+The British Council may assign or novate this Agreement to: (i) any separate entity Controlled by the British Council; (ii) any body or department which succeeds to those functions of the British Council to which this Agreement relates; or (iii) any provider of outsourcing or third party services that is employed under a service contract to provide services to the British Council.  The Supplier warrants and represents that it will (at the British Council’s reasonable expense) execute all such documents and carry out all such acts, as reasonably required to give effect to this clause 25.2.
+Waiver
+A waiver of any right under this Agreement is only effective if it is in writing and it applies only to the party to whom the waiver is addressed and the circumstances for which it is given.
+Entire agreement
+This Agreement and any documents referred to in it constitute the entire agreement and understanding between the parties with respect to the subject matter of this Agreement and supersede, cancel and replace all prior agreements, licences, negotiations and discussions between the parties relating to it.  Each party confirms and acknowledges that it has not been induced to enter into this Agreement by, and shall have no remedy in respect of, any statement, representation, warranty or undertaking (whether negligently or innocently made) not expressly incorporated into it.  However, nothing in this Agreement purports to exclude liability for any fraudulent statement or act.
+Variation
+No variation of this Agreement shall be valid unless it is in writing and signed by or on behalf of each of the parties.
+Severance
+If any provision of this Agreement (or part of any provision) is found by any court or other authority of competent jurisdiction to be invalid, illegal or unenforceable, that provision or part-provision shall, to the extent required, be deemed not to form part of the Agreement, and the validity and enforceability of the other provisions of the Agreement shall not be affected.
+Counterparts
+This Agreement may be executed in counterparts, each of which when executed shall constitute a duplicate original, but all counterparts shall together constitute one agreement.  Where this Agreement is executed in counterparts, following execution each party must promptly deliver the counterpart it has executed to the other party.  Transmission of an executed counterpart of this Agreement by email in PDF, JPEG or other agreed format shall take effect as delivery of an executed counterpart of this Agreement.  
+Third party rights
+Subject to clause 1.2.4, this Agreement does not create any rights or benefits enforceable by any person not a party to it except that a person who under clause 25 is a permitted successor or assignee of the rights or benefits of a party may enforce such rights or benefits.
+The parties agree that no consent from the British Council Entities or the persons referred to in this clause is required for the parties to vary or rescind this Agreement (whether or not in a way that varies or extinguishes rights or benefits in favour of such third parties).
+No partnership or agency
+Nothing in this Agreement is intended to, or shall operate to, create a partnership between the parties, or to authorise either party to act as agent for the other, and neither party shall have authority to act in the name or on behalf of or otherwise to bind the other in any way (including the making of any representation or warranty, the assumption of any obligation or liability and the exercise of any right or power) and neither party shall incur any expenditure in the name of or for the account of the other.
+Force Majeure
+Subject to clauses 33.2 and 33.3, neither party shall be in breach of this Agreement if it is prevented from or delayed in carrying on its business and/or material obligations hereunder by a Force Majeure Event. 
+A party that is subject to a Force Majeure Event shall not be in breach of this Agreement provided that:
+it promptly notifies the other party in writing of the nature and extent of the Force Majeure Event causing its failure or delay in performance; 
+it could not have avoided the effect of the Force Majeure Event by taking precautions which, having regard to all the matters known to it before the Force Majeure Event, it ought reasonably to have taken, but did not; and
+it has used all reasonable endeavours to mitigate the effect of the Force Majeure Event, to carry out its obligations under this Agreement in any way that is reasonably practicable and to resume the performance of its obligations as soon as reasonably possible.
+Nothing in this clause 33 shall excuse a party for non-performance (or other breach) of this Agreement if such non-performance (or other breach) results from the acts or omissions of any of that party’s consultants and/or sub-contractors (except where such acts or omissions are caused by a Force Majeure Event).
+Notice
+Notice given under this Agreement shall be in writing, sent for the attention of the person signing this Agreement on behalf of the recipient party and to the address given on the front page of this Agreement (or such other address or person as the relevant party may notify to the other party), or by email, and shall be delivered:
+personally, in which case the notice will be deemed to have been received at the time of delivery;
+by pre-paid, first-class post if the notice is being sent to an address within the country of posting, in which case the notice will be deemed to have been received at 09:00 in the country of receipt on the second (2nd) normal working day in the country specified in the recipient’s address for notices after the date of posting; 
+by international standard post if being sent to an address outside the country of posting, in which case the notice will be deemed to have been received at 09:00 in the country of receipt on the seventh (7th) normal working day in the country specified in the recipient’s address for notices after the date of posting; or 
+by email to the relevant email address specified in clause 6.1 of Schedule 1 (or such other email address as the relevant party may notify to the other party), in which case, the notice will be deemed to have been received at the time of transmission, or if this time falls outside of Working Hours, when Working Hours resume, in each case provided that no out of office auto-reply or error message is received by the sender in response within one hour after transmission of the notice.  If an out of office auto-reply or error message is received by the sender in response within one hour after transmission of the notice, then no valid notice has been delivered and the notice must be sent by one of the alternative methods listed above.
+To prove service of notice under clauses 34.1.1 to 34.1.3 above, it is sufficient to prove that the envelope containing the notice was properly addressed and posted or handed to the courier.
+Governing Law and Dispute Resolution Procedure
+This Agreement and any dispute or claim (including any non-contractual dispute or claim) arising out of or in connection with it or its subject matter, shall be governed by, and construed in accordance with, the laws of England and Wales.
+Subject to the remainder of this clause 35, the parties irrevocably agree that the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim (including any non-contractual dispute or claim) that arises out of or in connection with this Agreement or its subject matter.
+In the event that any claim or dispute arises out of or in connection with this Agreement, the parties shall, following service of written notice by one party on the other, attempt to resolve amicably by way of good faith negotiations and discussions any such dispute or claim as soon as reasonably practicable (and in any event within 14 calendar days after such notice or by such later date as the parties may otherwise agree in writing).  If the parties are unable to resolve the dispute or claim in accordance with this clause 35.3, either party may commence proceedings in accordance with clause 35.2.
+Nothing in this clause 35 shall prevent either party from applying at any time to the court for injunctive relief on the grounds of infringement, or threatened infringement, of the other party's obligations of confidentiality contained in this Agreement or infringement, or threatened infringement, of the applicant's Intellectual Property Rights.
+
+Data Processing Schedule
+
+
+
+
+[TABLE 1]
+The British Council: | THE BRITISH COUNCIL, incorporated by Royal Charter and registered as a charity (under number 209131 in England & Wales and number SC037733 in Scotland), with its principal office at 1 Redman Place, Stratford, London E20 1JQ
+The Supplier | [insert name and address details (and company number, if appropriate)]
+Date: | [insert date when signed by the second party to sign (which should be the British Council)]
+[END TABLE 1]
+
+
+[TABLE 2]
+Schedule 1 | Special Terms
+Schedule 2 | Terms of Reference
+Schedule 3 | Charges
+Schedule 4 | Standard Terms
+Schedule 5 | Data Processing Schedule 
+[END TABLE 2]
+
+
+[TABLE 3]
+Name: | 	 | Signature | 	
+Position | 	 |  | 
+[END TABLE 3]
+
+
+[TABLE 4]
+Name: | 	 | Signature | 	
+Position | 	 |  | 
+[END TABLE 4]
+
+
+[TABLE 5]
+To the British Council | To the Supplier
+The British Council
+1 Redman Place
+Stratford
+London
+E20 1JQ]
+Attention: Tao Tao Chang
+Director, Digital Innovation in the Arts | [Insert address]
+[Attention: insert name and job title]
+Email: taotao.chang@britishcouncil.org | Email: [insert email address(es) to which notices may be sent]
+[END TABLE 5]
+
+
+[TABLE 6]
+Description | Details
+Duration of Processing | As per clause above
+The frequency of the transfer | Continuous
+Nature and purpose of Processing | Nature of the processing means any operation such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction of data (whether or not by automated means) etc. 
+The purpose might include: marketing, statutory obligation, grant distribution and management, etc 
+Type of Personal Data | Examples here include: name  and corporate email address
+Categories of Data Subjects | Staff
+Sensitive data transferred (if applicable) and applied restrictions or safeguards  | N/A
+Countries or International Organisations Personal Data will be transferred to | N/A
+Sub-Processors | N/A
+[END TABLE 6]
