@@ -89,4 +89,91 @@ Fifth Sector was the **evaluator** of these programmes, not the deliverer. The p
 | Programme effect with missing evaluator role | 5 | Add fifth_sector_role=EVALUATOR |
 | Expired options for unsuccessful bids | 2 | Set option_state=EXPIRED |
 | Missing actors / unintended recipients | 3 | Add notes |
-| Total claims requiring fix | 14 | |
+| Pass 1 total | 14 | |
+
+## Pass 2: Systematic spot-check (2026-09-11)
+
+After pass 1, a systematic spot-check of all G2 claims against source documents found a **systematic misclassification pattern**: 26 baseline measurement claims mislabelled as METHOD_OUTPUT.
+
+### Systematic issue: sector baselines mislabelled as METHOD_OUTPUT
+
+The codebook states: "A mapping report estimating regional GVA is CONTEXT with a descriptive estimate, not value created by the consultant."
+
+The following claims describe sector characteristics (GVA, employment, company counts, turnover, LQs) that were measured by the mapping/strategy work but are not themselves method outputs. They are contextual baselines against which spillover effects might later be assessed.
+
+| Claim | Project | Proposition (short) | Source evidence |
+|---|---|---|---|
+| C-G2-001 | P11-ELFC | £1.4bn GVA, 36200 jobs | Line 54, 409: sector baseline |
+| C-G2-002 | P11-ELFC | 57% GVA growth, 43% employment growth | Line 55, 426-429: sector baseline; 22% London employment unverified |
+| C-G2-007 | P11-ELFC | Hackney LQ 9.46 | Line 449: sector characteristic |
+| C-G2-009 | P12-KIRK15 | CI employment 3360, CE 5020 | Sheet 1: sector baseline |
+| C-G2-010 | P12-KIRK15 | GVA £100.979m | Sheet 6: sector baseline |
+| C-G2-015 | P14-DCAT | 500 immersive companies | Sector baseline |
+| C-G2-018 | P14-DCAT | HVMC cluster access | Sector characteristic |
+| C-G2-019 | P15-LIVMUS | £100.5m turnover, 2360 jobs | Line 46, 155: sector baseline |
+| C-G2-020 | P15-LIVMUS | £98m Beatles heritage | Line 49, 151: sector baseline |
+| C-G2-021 | P15-LIVMUS | Adlib sector strength | Line 47, 224: sector characteristic |
+| C-G2-025 | P17-LCRCSU | 32% employment growth | Sector baseline |
+| C-G2-028 | P19-LCRIMM | 169 organisations | Sector baseline |
+| C-G2-030 | P19-LCRIMM | Meetup ecosystem | Sector characteristic |
+| C-G2-032 | P20-SYMCA21 | 4000+ companies | Sector baseline |
+| C-G2-043 | P24-SYMCACGP | £2bn GVA (upper bound) | Sector baseline |
+| C-G2-044 | P24-SYMCACGP | 2.46 multiplier | Contextual finding |
+| C-G2-045 | P24-SYMCACGP | 1013 courses | Sector baseline |
+| C-G2-047 | P25-LANCGP | 4500 businesses | Sector baseline |
+| C-G2-049 | P26-WSBH | 10225 companies | Sector baseline |
+| C-G2-059 | P28-CALDER | 655 ONS firms | Sector baseline |
+| C-G2-062 | P29-SOLENTCGP | 4510 businesses | Sector baseline |
+| C-G2-064 | P30-HEREFORD | 590 businesses | Sector baseline |
+| C-G2-066 | P31-PRODPARK | Data fragment | Sector baseline |
+| C-G2-067 | P32-SURREY | £7.2bn GVA | Sector baseline |
+| C-G2-070 | P33-LCRMUS | £405.9m GVA | Line 790-810: modelled baseline |
+| C-G2-075 | P34-SOLENTHANTS | £5.25bn GVA | Sector baseline |
+
+All 26 reclassified METHOD_OUTPUT → CONTEXT.
+
+### Additional spot-check findings
+
+1. **C-G2-002**: 22% London employment growth figure NOT FOUND in source. Only 29% London GVA growth confirmed (line 427). Flagged as unverified.
+2. **P13-CWL correction**: Iain led evaluation as BOP Associate Director, not merely advisor/interpreter. Project and all 4 claims updated: fifth_sector_role=EVALUATOR, contracting_role=ASSOCIATE.
+3. **7 empty option_state fields**: All OPTION claims with empty option_state set to PROPOSED.
+
+### Remaining genuine METHOD_OUTPUT claims (6)
+
+These are genuinely method outputs — programme delivery data or analytical method application:
+- C-G2-024: CICP evaluation approach design
+- C-G2-037: LCR Film Fund £6.76 leverage (programme output data)
+- C-G2-038: LCR Film Fund 455 FTE (programme output data)
+- C-G2-039: Development Fund deployment (programme output data)
+- C-G2-052: CDF programme £22.03m total value (programme output data)
+- C-G2-072: SNA of 272 businesses (analytical method application)
+
+### R3 pilot claims — same pattern flagged
+
+The same baseline-as-METHOD_OUTPUT pattern was found in 11 R3 pilot claims. These are flagged for correction in the next pass but not changed in this pass to maintain scope discipline.
+
+## Updated total
+
+| Pass | Category | Count |
+|---|---|---|
+| 1 | Sector characteristic as EFFECT | 4 |
+| 1 | Context as METHOD_OUTPUT | 1 |
+| 1 | Programme effect as METHOD_OUTPUT | 1 |
+| 1 | Missing evaluator role | 5 |
+| 1 | Expired options | 2 |
+| 1 | Unknown option state | 1 |
+| 1 | Empty option_state | 7 |
+| 2 | Sector baseline as METHOD_OUTPUT | 26 |
+| 2 | Unverified figure flagged | 1 |
+| 2 | P13-CWL role correction | 4 claims + 1 project |
+| **Total** | | **52 claim fixes + 1 project fix** |
+
+## Residual uncertainty
+
+1. **R3 pilot claims**: 11 R3 claims have the same baseline-as-METHOD_OUTPUT pattern. Not corrected in this pass.
+2. **C-G2-002**: 22% London employment growth figure unverified. Needs source clarification.
+3. **C-G2-056**: CoSTAR attribution is testimony-based. University of York co-partner missing from claim.
+4. **C-G2-041**: Development Fund pipeline forecasts from 2021 unconfirmed as realised.
+5. **C-G2-070**: LCR Music Base Case (£324.7m) vs Integrated Case (£405.9m) gap not noted in claim.
+6. **C-G2-043**: SYMCA £2bn GVA is an upper bound with generic ONS productivity index.
+7. **Project-level roles**: P22-LCRFILM and P27-WAKECDF have DESIGNER;DELIVERER at project level, which could misread as programme delivery rather than evaluation delivery.
