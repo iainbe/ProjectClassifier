@@ -89,6 +89,71 @@ For work done by Iain as BOP Associate Director:
 
 ### Unsuccessful bids
 
-- Set `programme_status=NOT_AWARDED` at project level
-- Set `option_state=EXPIRED` on OPTION claims
+- Set `lifecycle_status=NOT_AWARDED` at project level
+- Set `option_state=EXPIRED` on ALL DESIGN and OPTION claims for that project (not just OPTION effect_family)
 - Do not treat unsuccessful bids as live strategic options
+- Check: any DESIGN claim where `project_id` has `lifecycle_status=NOT_AWARDED` must have `option_state=EXPIRED`
+
+## Forecast vs realised outcome rule
+
+A forecast in an interim evaluation is NOT a realised outcome. Before treating a forecast as an effect or exercised option:
+
+1. Check whether a final evaluation exists. If so, compare the interim forecast with the final outcome.
+2. If the final evaluation does not confirm the forecast, set `option_state=EXPIRED`.
+3. If no final evaluation exists, set `option_state=UNKNOWN` and add a validation action.
+4. Never present a forecast figure as a confirmed outcome without a later source confirming realisation.
+
+Example: C-G2-041 Development Fund 7.8:1 leverage forecast (2021 interim) was NOT confirmed in the 2025 final evaluation. The 7.8:1 figure in the final evaluation was a hypothetical scenario ratio, not a realised Development Fund outcome. option_state set to EXPIRED.
+
+## value_basis rule
+
+Every claim containing a monetary figure (£) must have `value_basis` set:
+
+| claim_type | value_basis |
+|------------|-------------|
+| CONTEXT (sector baseline) | DESCRIPTIVE_ESTIMATE |
+| CONTEXT (modelled estimate) | DESCRIPTIVE_ESTIMATE |
+| METHOD_OUTPUT (programme output) | OBSERVED_AMOUNT |
+| DESIGN (forecast) | SCENARIO_ESTIMATE |
+| EFFECT (measured) | OBSERVED_AMOUNT |
+| BID_SUPPORT_DELIVERED | OBSERVED_AMOUNT |
+
+Check: scan all claims for `£[\d.]+` in `precise_proposition` and verify `value_basis` is non-empty.
+
+## Rival explanations rule
+
+For testimony-based EFFECT claims (where evidence is a stakeholder quote, not counterfactual analysis):
+
+1. Keep as EFFECT/DESCRIPTIVE if the testimony is from a credible source.
+2. Add `rival_explanations` noting all contributing factors and actors.
+3. Do not imply sole causation from testimony alone.
+
+Example: C-G2-056 CoSTAR attribution — testimony-based; rival_explanations added noting University of York, Wakefield Council, Production Park and national CoSTAR programme as co-contributors.
+
+## Tender vs project distinction
+
+Tender documents (RFQs, RFPs, ITQs, bid responses) for unsuccessful or pending bids are NOT projects. They belong in `08_tenders.csv` only. Do not create project records for:
+
+- Unsuccessful bids (lifecycle_status=NOT_AWARDED in tenders)
+- Pending tenders awaiting decision
+- Pipeline opportunities
+
+Sources linked to tender documents may have empty `project_id` — this is correct, not an error.
+
+## QA verification checklist
+
+Before completing any QA batch, run ALL of these checks:
+
+1. **Unique IDs**: all registers have unique primary keys
+2. **Foreign keys**: claims→projects, sources→projects, evidence→claims, evidence→sources, measurements→claims
+3. **Empty project_id on claims**: all claims must have a project_id (except tender-only sources)
+4. **OPTION claims without option_state**: all claims with `effect_family=OPTION` must have `option_state`
+5. **Empty effect_family**: no claims with empty `effect_family`
+6. **Empty fifth_sector_role**: no claims with empty `fifth_sector_role`
+7. **DESIGN claims for unsuccessful bids**: if `project_id` has `lifecycle_status=NOT_AWARDED`, `option_state` must be `EXPIRED`
+8. **EFFECT claims without attribution_strength**: all EFFECT claims must have `attribution_strength`
+9. **Claims with £ figures but empty value_basis**: all claims with `£[\d.]+` in proposition must have `value_basis`
+10. **Sector baselines mislabelled as METHOD_OUTPUT**: scan METHOD_OUTPUT claims for baseline patterns (GVA, employment, turnover, LQ, company count) and verify they are genuine method outputs
+11. **Conflation check**: claim geography vs project geography — flag mismatches that aren't comparators
+12. **Strong causal verbs in non-EFFECT claims**: scan for "caused", "enabled", "instrumental", "catalysed" in CONTEXT/DESIGN claims; review semantically (some are descriptive, not causal)
+13. **Sources with empty project_id**: verify these are tender pipeline items, not missing assignments

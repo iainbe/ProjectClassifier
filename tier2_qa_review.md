@@ -168,12 +168,66 @@ The same baseline-as-METHOD_OUTPUT pattern was found in 11 R3 pilot claims. Thes
 | 2 | P13-CWL role correction | 4 claims + 1 project |
 | **Total** | | **52 claim fixes + 1 project fix** |
 
-## Residual uncertainty
+## Residual uncertainty — ALL RESOLVED
 
-1. **R3 pilot claims**: 11 R3 claims have the same baseline-as-METHOD_OUTPUT pattern. Not corrected in this pass.
-2. **C-G2-002**: 22% London employment growth figure unverified. Needs source clarification.
-3. **C-G2-056**: CoSTAR attribution is testimony-based. University of York co-partner missing from claim.
-4. **C-G2-041**: Development Fund pipeline forecasts from 2021 unconfirmed as realised.
-5. **C-G2-070**: LCR Music Base Case (£324.7m) vs Integrated Case (£405.9m) gap not noted in claim.
-6. **C-G2-043**: SYMCA £2bn GVA is an upper bound with generic ONS productivity index.
-7. **Project-level roles**: P22-LCRFILM and P27-WAKECDF have DESIGNER;DELIVERER at project level, which could misread as programme delivery rather than evaluation delivery.
+All residual uncertainties have been resolved through user decisions (2026-09-11):
+
+1. **R3 pilot claims**: 11 R3 claims corrected (8 in pass 2, 3 in final pass). COMPLETE.
+2. **C-G2-002**: 22% London employment VERIFIED in SRC-G2-003 Table 2 (131,300 to 159,700 = 21.6% rounds to 22%). No change needed.
+3. **C-G2-056**: rival_explanations added (University of York, Wakefield Council, Production Park, national CoSTAR programme). Retained as EFFECT/DESCRIPTIVE per user decision C.
+4. **C-G2-041**: option_state set to EXPIRED. Final evaluation (SRC-G2-030, June 2025) does NOT confirm 7.8:1 leverage forecast. Development Fund treated as COVID emergency support. 7.8:1 in final eval is a hypothetical scenario ratio, not a realised outcome.
+5. **C-G2-070**: No change. "Integrated Case" label already signals scenario. Per user decision B.
+6. **C-G2-043**: Methodological caveat added to MEAS-G2-021 (ONS productivity index, LinkedIn workforce, BRES pre-pandemic). Per user decision A.
+7. **Project-level roles**: No change. Claim-level EVALUATOR provides distinction. Per user decision C.
+8. **value_basis**: Filled for 14 claims with £ figures (CONTEXT→DESCRIPTIVE_ESTIMATE, METHOD_OUTPUT→OBSERVED_AMOUNT, DESIGN→SCENARIO_ESTIMATE). Per user decision A.
+9. **Tender sources**: No project records needed. LCR Screen Sector Research is unsuccessful bid; BC Art and Tech is pending tender. Per user confirmation.
+10. **Derby conflation**: Three distinct Derby projects identified and separated (P35-DERBYMAP, P23-DERBY, P36-DERBYCSR). C-R3-038 corrected. AGENTS.md updated with conflation rules.
+11. **C-R3-022**: option_state corrected from PROPOSED to EXPIRED (P07-CC is NOT_AWARDED). Caught in final QA verification.
+
+## Final QA verification — ALL CHECKS PASS
+
+| # | Check | Result |
+|---|-------|--------|
+| 1 | Unique IDs (all registers) | PASS |
+| 2 | Foreign keys (claims→projects, sources→projects, evidence→claims/sources, measurements→claims) | PASS |
+| 3 | Empty project_id on claims | PASS |
+| 4 | OPTION claims without option_state | PASS |
+| 5 | Empty effect_family | PASS |
+| 6 | Empty fifth_sector_role | PASS |
+| 7 | DESIGN claims for unsuccessful bids without EXPIRED | PASS |
+| 8 | EFFECT claims without attribution_strength | PASS |
+| 9 | Claims with £ figures but empty value_basis | PASS |
+| 10 | Sector baselines mislabelled as METHOD_OUTPUT | PASS |
+| 11 | Conflation check (claim geography vs project geography) | PASS |
+| 12 | Strong causal verbs in non-EFFECT claims | PASS (2 false positives confirmed correct) |
+| 13 | Sources with empty project_id | PASS (4 tender pipeline items, confirmed correct) |
+
+## Final register counts
+
+| Register | Rows |
+|----------|------|
+| 01_projects.csv | 36 |
+| 02_sources.csv | 53 |
+| 03_methods.csv | 48 |
+| 04_claims.csv | 115 |
+| 05_evidence_links.csv | 126 |
+| 06_measurements.csv | 78 |
+| 07_validation_actions.csv | 48 |
+| 08_tenders.csv | 5 |
+| 09_publication_assets.csv | — |
+| 10_review_history.csv | 232 |
+
+## Final claim type distribution
+
+| Claim type | Count |
+|------------|-------|
+| CONTEXT | 56 |
+| DESIGN | 29 |
+| METHOD_OUTPUT | 20 |
+| EFFECT | 8 |
+| BID_SUPPORT_DELIVERED | 2 |
+| **Total** | **115** |
+
+## QA status: COMPLETE
+
+All Tier 2 QA checks pass. All residual uncertainties resolved through user decisions. AGENTS.md updated with rules to prevent recurrence in future batches.
