@@ -686,3 +686,5 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 
 - All 13 claim-linked sources now extracted + linked; 2 controlled_locations corrected (UoL CPD reporting deliverable; WMGC canonical v2a; Herefordshire FINAL)
 - DIR-pick heuristic flagged: when a registered location is a folder, alphabetical-first grabs wrong files — canonical selection must apply version protocol
+
+| 26/09/12 | Corpus gate review | Five-lens adversarial review of full corpus | PASS to proceed — architecture sound; standing conditions: REVIEWED+CLEARED citation gate, permission-before-naming, role-attribution sentence rule. Findings in corpus_gate_review_260912.md |

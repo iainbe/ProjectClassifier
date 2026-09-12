@@ -319,3 +319,13 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Extracted + linked: SRC-G2-035 (Lancashire), -039 (WMGC v2a canonical — was about to use v1), -040 (WMGC brief), -058 (Leicester 249k), -062 (UoL CPD — location corrected to Reporting deliverable), -064 (P64 logic chain), -066 (WYCA WYCreate), -070 (Wakefield SNA), -072 (Herefordshire FINAL — was about to use a chapter), -076 (Virtual Agora), -078 (Beatles), -082 (WB6 LinkedIn), -084 (Kotor agenda)
 - Two wrong-file catches: WMGC dir-pick chose oldest version, Herefordshire dir-pick chose a chapter — corrected to canonical/latest before linking
 - Register integrity checks all pass: no orphan claims, no missing option_state/value_basis, no duplicate IDs
+
+
+## Session 26/09/12 (3): Five-gate corpus review
+
+- **Five-lens adversarial review** of the full corpus (THAD/SKiN/WISHFUL/deepthink/blindspot) before case-level confirmations: `corpus_gate_review_260912.md`. Verdict: PASS to proceed, 3 standing conditions (only REVIEWED+CLEARED cards cited; permission precedes naming; role-attribution sentence rule).
+- **Integrity scan:** 68 cards (10 REVIEWED/12 DRAFT/46 PROVISIONAL); 568 claims (all now evidence-linked); ~96% of claims carry no resolved permission state; 26 blank contracting_role; 27 projects PENDING.
+- **2 orphan claims linked**: C-R4-001 (P64 BCJ delivery→SRC-R5-015 PO), C-R4-002 (P85 shortlist/proposal→SRC-R5-004 POs). Evidence links now 587.
+- **Spot verification:** batch-card headlines confirmed verbatim against extracts (P34 £5.25bn/39,980 BRES; P32 £7.2bn/17,000 companies/Farnborough; P52 £492m/£616m/1,335 makers).
+- **Key deepthink finding:** the signature "hidden workforce" claim survives as "alternative-data estimate" but a definitional-difference-vs-measurement-correction caveat must follow it into prose.
+- **Key blindspot finding:** client-outcome-vs-Fifth-Sector-role conflation is the fatal risk if it reaches tender prose; the register discipline must survive translation.
