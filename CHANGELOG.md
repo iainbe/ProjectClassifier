@@ -70,3 +70,9 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - Creative Scotland letter: preferred bidder; award confirmed after standstill ends 26/09/18 (Iain)
 - On confirmation → workflow Trigger 3: PM record + provisional index card
+
+## 26/09/12 — P64 resolved: Business Case Justification, outcome CONFIRMED
+
+- BCJ = Business Case Justification (Iain); delivered Oct 22-Mar 23; WYCA confirmed funding to Wakefield Council
+- P64 dates corrected (23/01→22/10 start per source dates); renamed; distinct-commission link to P69 confirmed
+- Claim C-R4-001 added: funding-unlock outcome, option value EXERCISED — BCJ unlocked the programme P69 evaluated
