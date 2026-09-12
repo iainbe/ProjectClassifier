@@ -1,3 +1,9 @@
+## Consistency audit — 26/09/12 (P79/P85)
+
+- P79 lifecycle resolved: REPORTING_COMPLETE + client-clarification pending; Showcase hard stop 26/10/29 recorded (UKRI call verified).
+- P85 outcome marked AHRC-discretion external.
+- T14 registered; deadline fields populated.
+
 ## Consistency audit — 26/09/12 (Section E)
 
 - P86 standstill reclassified FUTURE (26/09/18 > 26/09/12); award not yet confirmable.

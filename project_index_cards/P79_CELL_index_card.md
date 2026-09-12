@@ -17,7 +17,7 @@
 | `commission_date` | 25/01 | register |
 | `contract_value` | NOT_DISCLOSED | — |
 | `geography` | East London | register |
-| `lifecycle_status` | REPORTING_COMPLETE — next phase pending client agreement on presentation of data in form suitable for reuse in CoSTAR Showcase bid (Iain 26/09/12) | Iain |
+| `lifecycle_status` | REPORTING_COMPLETE — next phase pending client agreement on presentation of data in form suitable for reuse in CoSTAR Showcase bid (Iain 26/09/12)  — RESOLVED: reporting stage COMPLETE; pending client clarification on data presentation for CoSTAR Showcase reuse (HARD STOP: AHRC deadline 26/10/29 16:00) | Iain |
 | `folder` | `Active projects/2026 CELL` | register |
 
 ### A2. Brief summary

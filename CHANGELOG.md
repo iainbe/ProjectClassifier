@@ -1,3 +1,9 @@
+## 26/09/12 — P79/P85 external-event statuses (Iain)
+
+- **P79-CELL**: reporting stage COMPLETE; lifecycle corrected from DELIVERED ambiguity. Pending = client clarification on data presentation for reuse in CoSTAR Showcase bid. HARD STOP recorded: AHRC Showcase Labs call closes 26/10/29 16:00 UK (opened 26/08/24; surgeries w/b 26/09/28; ≤£4m FEC/lab, ≥50% match; award from April 2027).
+- **P85-AMGEN**: full-submission outcome at AHRC discretion — external, unactionable; noted.
+- **T14-COSTARSHOW** tender row registered so the deadline is tracked in the register.
+
 ## 26/09/12 — Section E corrections (Iain)
 
 - **P86**: standstill ends 26/09/18 — FUTURE event (my "confirmable now" was wrong; award confirmation follows standstill + contract prep). Notes corrected.
