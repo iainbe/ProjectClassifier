@@ -1,3 +1,14 @@
+## 26/09/12 — P86 outcome letter registered; score-capture rule added
+
+**Trigger:** user filed Creative Scotland outcome email into project folder; instructed scores be logged for successful and failed proposals.
+
+- `SRC-R5-013` registered: Creative Scotland tender outcome letter (Kelly Neill, 26/09/04) — preferred bidder, standstill ended 26/09/18, intent to award post-standstill. Reg 32(2) Public Contracts (Scotland) Regs 2006.
+- `T13-CSSAL` row added to `08_tenders.csv` — the bid previously existed only as project row P86; now has full tender record with evaluation weights + outcome fields.
+- **Panel scores logged** (verbatim): Price 3.71/4 (30%), Experience 4.00/4 (25%), Methodology 4.00/4 (20%), Team 3.33/4 (15%), Added value 3.00/4 (10%); overall weighted **92.83%**. Claim C-R5-527 updated; evidence link E-R5-007.
+- **Score pattern noted for calibration:** maximum marks on the two criteria the evidence-led positioning feeds (experience/track record, approach/methodology); weakest on added value and team — actionable for future submissions.
+- Score-capture rule added to `tender_scorecard_template.md` §8 (buyer panel scores table), `bid_submission_record_template.md` §5 (`panel_scores` field), and AGENTS.md bid-outcome trigger — verbatim scores required for won AND lost bids.
+- Residual: standstill ended 26/09/18 — contract signature confirmation still pending; on award, lifecycle→CONFIRMED + PM record per Trigger 3.
+
 ## 26/09/12 — Sweep-agent VERSION_AMBIGUITY + Section B source registration
 
 **Trigger:** user instruction "Make changes to sweep agent and future extraction; log in #changelog and move to B"

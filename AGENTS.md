@@ -195,7 +195,7 @@ Before completing any QA batch, run ALL of these checks:
 When informed a bid was submitted: copy `bid_submission_record_template.md` to `bid_records/TXX_<name>.md` (bid_id = next `T-NN` from `08_tenders.csv`) and ask for any empty fields in sections 1-4 — especially `fifth_sector_contribution` (specific sections/frameworks, never generic "bid support") and `interview_involvement`. Add row to `08_tenders.csv`; add `01_projects.csv` row only if the bid work is a paid commission or deliverable body (P06/P07 precedent). See `register_update_workflow.md`.
 
 ### Bid outcome trigger
-On any outcome mention: complete record section 5. Always establish `stage_reached` (highest stage, not just final result) and `notification_type` — never infer "failed" from "not awarded". Then run the section 6 register checklist.
+On any outcome mention: complete record section 5. Always establish `stage_reached` (highest stage, not just final result) and `notification_type` — never infer "failed" from "not awarded". **Log buyer panel scores verbatim where provided — for successful AND failed proposals** (criterion | weight | our score | overall weighted) into the scorecard §8 table and `08_tenders.csv` notes; scores are calibration data, not just outcome decoration. Then run the section 6 register checklist.
 
 ### Project confirmation trigger
 When a project is confirmed: copy `project_management_record_template.md` to `project_records/PXX-<name>_pm.md` and ask for empty fields in sections 1-3 — especially `contracting_role` (the ARRANGEMENT, not ownership), named contributors, and `reference_permission` (prompt Iain to ask the client at kickoff). Add register row + provisional index card.

@@ -60,6 +60,7 @@
 | `outcome_date` | | |
 | `outcome_detail` | | e.g. "shortlisted on submission, unsuccessful at interview — Fifth Sector not involved in interview" |
 | `feedback_received` | | Scores, comments, debrief notes |
+| `panel_scores` | | Criterion-level scores verbatim if provided (won AND lost bids) — e.g. "Experience 4.00/4, Methodology 4.00/4, overall 92.83%" |
 | `feedback_source` | | Who provided it |
 
 ## 6. Post-outcome register actions (checklist — complete ALL)

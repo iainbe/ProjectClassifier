@@ -126,6 +126,15 @@ These are the two saved manual protocols, not claimed canonical installed skills
 | outcome_source_id / locator / date | |
 | feedback_status — NOT_OBTAINED / DOCUMENTED / UNVERIFIED | |
 | feedback_source_ids / exact feedback / date | |
+| panel_scores_received — YES / NO / NOT_PROVIDED | |
+
+**Buyer panel scores — capture for WON and LOST outcomes alike.** Where the buyer returns criterion-level scores, record them verbatim (they are calibration data for the scorecard itself):
+
+| Award criterion (buyer wording) | Weight | Our score | Max available | Winning score if disclosed | Note |
+|---|---|---|---|---|---|
+| | | | | | |
+
+Overall weighted score: | |
 | Hypothesised explanation / alternatives / evidence needed | |
 | Effect of prior knowledge on original assessment | |
 

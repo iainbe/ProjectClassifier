@@ -1,3 +1,10 @@
+## Consistency audit — 26/09/12 (P86 outcome letter)
+
+- SRC-R5-013 verified against .eml body: sender Kelly Neill (creativescotland.com), date 26/09/04, score table decoded verbatim.
+- T13-CSSAL tender row created — bid had no tender register row (project row only); FK gap closed.
+- Scores arithmetic check: 3.71×.30 + 4.00×.25 + 4.00×.20 + 3.33×.15 + 3.00×.10 = 1.113+1.0+0.8+0.4995+0.3 = 3.7125/4 = 92.81% ≈ 92.83% stated — consistent (rounding).
+- Residual: contract signature post-standstill not yet evidenced.
+
 ## Consistency audit — 26/09/12 (Section B)
 
 **Scope:** source registration for P35-DERBYMAP, P85-AMGEN, P86-CSSAL; sweep-agent VERSION_AMBIGUITY enhancement.
