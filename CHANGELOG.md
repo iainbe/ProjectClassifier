@@ -81,3 +81,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - Man Met commissioned + project-managed on behalf of GM partners and universities — Fifth Sector contracted to MMU as consortium lead
 - T01 wording flag resolved: recommended edit logged in bid record (name MMU as commissioner, not GMCA/Innovate UK)
+
+## 26/09/12 — P85-AMGEN completed (Iain)
+
+- USW initial bid shortlisted; Fifth Sector direct proposal accepted (£10k incl VAT); Places evidence for full submission COMPLETED; USW outcome pending
+- Claim C-R4-002 added; P06/P07 wording pattern applies (completed evidence work, not funded project)
