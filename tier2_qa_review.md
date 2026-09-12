@@ -1,6 +1,6 @@
 # Tier 2 QA Review — Five-Lens Spot-Check
 
-**Date:** 2026-09-11
+**Date:** 26/09/11
 **Reviewer:** Devin (first coder)
 **Lenses applied:** /wishful, /skin, /thad, /deepthink, /blindspot
 **Scope:** All 54 G2 post-2020 claims, with source spot-checks
@@ -91,7 +91,7 @@ Fifth Sector was the **evaluator** of these programmes, not the deliverer. The p
 | Missing actors / unintended recipients | 3 | Add notes |
 | Pass 1 total | 14 | |
 
-## Pass 2: Systematic spot-check (2026-09-11)
+## Pass 2: Systematic spot-check (26/09/11)
 
 After pass 1, a systematic spot-check of all G2 claims against source documents found a **systematic misclassification pattern**: 26 baseline measurement claims mislabelled as METHOD_OUTPUT.
 
@@ -170,12 +170,12 @@ The same baseline-as-METHOD_OUTPUT pattern was found in 11 R3 pilot claims. Thes
 
 ## Residual uncertainty — ALL RESOLVED
 
-All residual uncertainties have been resolved through user decisions (2026-09-11):
+All residual uncertainties have been resolved through user decisions (26/09/11):
 
 1. **R3 pilot claims**: 11 R3 claims corrected (8 in pass 2, 3 in final pass). COMPLETE.
 2. **C-G2-002**: 22% London employment VERIFIED in SRC-G2-003 Table 2 (131,300 to 159,700 = 21.6% rounds to 22%). No change needed.
 3. **C-G2-056**: rival_explanations added (University of York, Wakefield Council, Production Park, national CoSTAR programme). Retained as EFFECT/DESCRIPTIVE per user decision C.
-4. **C-G2-041**: option_state set to EXPIRED. Final evaluation (SRC-G2-030, June 2025) does NOT confirm 7.8:1 leverage forecast. Development Fund treated as COVID emergency support. 7.8:1 in final eval is a hypothetical scenario ratio, not a realised outcome.
+4. **C-G2-041**: option_state set to EXPIRED. Final evaluation (SRC-G2-030, 25/06) does NOT confirm 7.8:1 leverage forecast. Development Fund treated as COVID emergency support. 7.8:1 in final eval is a hypothetical scenario ratio, not a realised outcome.
 5. **C-G2-070**: No change. "Integrated Case" label already signals scenario. Per user decision B.
 6. **C-G2-043**: Methodological caveat added to MEAS-G2-021 (ONS productivity index, LinkedIn workforce, BRES pre-pandemic). Per user decision A.
 7. **Project-level roles**: No change. Claim-level EVALUATOR provides distinction. Per user decision C.
@@ -234,7 +234,7 @@ All Tier 2 QA checks pass. All residual uncertainties resolved through user deci
 
 ---
 
-## Pass 3: Full-Read Consistency Audit (2026-09-12)
+## Pass 3: Full-Read Consistency Audit (26/09/12)
 
 **Scope:** Complete source corpus — all G2, R2, R3, LPF, and project-specific sources read in full. Register reconciliation, evidence link gaps, source metadata, and QA re-verification.
 
@@ -274,7 +274,7 @@ All 65 projects now have at least one evidence link from claims to their canonic
 - `derived_location` populated for all sources with extracted text files
 - `extraction_quality` set to COMPLETE/SUPPORTING/BINARY/EMPTY/MISMATCH as appropriate
 - `source_review_state` set to REVIEWED for complete reads; NOT_ASSESSED for supporting/problematic
-- `reviewer` = Devin; `review_date` = 2026-09-12
+- `reviewer` = Devin; `review_date` = 26/09/12
 - `extraction_scope` = full for complete reads
 - `extraction_warnings` populated for substantial reports and problematic sources
 
@@ -376,7 +376,7 @@ All Tier 2 QA checks pass after full-read reconciliation. 109 evidence links add
 
 ---
 
-# Pass 4: Index card QA + register schema repair (2026-09-12)
+# Pass 4: Index card QA + register schema repair (26/09/12)
 
 ## Five-agent review of index cards P04-P09
 
@@ -401,7 +401,7 @@ Applied SHELDON / THAD / DEEPTHINK / BLINDSPOT / SKiN / WISHFUL to the six popul
 
 74 claim fields realigned in 04_claims.csv to match confirmed contracting roles (incl. P05 SUBCONTRACTOR→BOP_ASSOCIATE, P06/P07→ADVISORY, P08→PRIME). Backup: 04_claims.csv.bak.
 
-### Walkthrough resolutions (Iain confirmations 2026-09-12)
+### Walkthrough resolutions (Iain confirmations 26/09/12)
 
 | Project | Resolution |
 |---------|-----------|
@@ -432,7 +432,7 @@ Schema-drift check is now a required QA step: before any CSV field update, verif
 
 ---
 
-# Pass 5: Index layer + permissions (2026-09-12)
+# Pass 5: Index layer + permissions (26/09/12)
 
 ## project_index.csv created
 65 rows — one per register project. Card-bearing projects (P01-P10) carry REVIEWED status, precedent/evidence ratings, spillover types, contract values, headline findings. Non-card projects show NO_CARD with register identity. Closes the SKiN browse-layer gap.
@@ -443,7 +443,7 @@ All pilot projects approved APPROVED_NAMED for tender submissions (TENDER_ONLY �
 ## Material corrections from permission walkthrough
 - P06-COSTAR: bid was SHORTLISTED on submission strength; consortium lost at interview (Fifth Sector not involved). lifecycle→SHORTLISTED_NOT_AWARDED; precedent WEAK→MODERATE; card reframed as submission-stage success.
 - P07-CC: same — SIPF application shortlisted. Same corrections applied.
-- P03-MITIH: register revealed Jun 2025 report rejection for recommendations + Oct 24 reconciliation acceptance — now recorded in card lifecycle, decision-use, and caveats.
+- P03-MITIH: register revealed 25/06 report rejection for recommendations + Oct 24 reconciliation acceptance — now recorded in card lifecycle, decision-use, and caveats.
 - Distinction codified: failed-bid (no delivered work) vs rejected-recommendation (completed work, rejected element). P06/P07/P03 all delivered work with documented outcomes.
 
 ## Contract values recorded
@@ -451,7 +451,7 @@ P02 £25k; P03 £25k; P10 £10k×3 cycles (£30k total); P01+P04 NOT_DISCLOSED; 
 
 ---
 
-# Pass 6: Live-work templates review (2026-09-12)
+# Pass 6: Live-work templates review (26/09/12)
 
 ## SHELDON verdict: PARTIALLY PROVEN
 - EXISTS+proven: bid_submission_record_template.md, project_management_record_template.md, register_update_workflow.md, bid_records/, project_records/, AGENTS.md live-work rules, tools/regenerate_index.py (executed+verified), repo sync (commit e56660d)
@@ -469,3 +469,16 @@ P02 £25k; P03 £25k; P10 £10k×3 cycles (£30k total); P01+P04 NOT_DISCLOSED; 
 - Bid ID scheme aligned to T-NN convention
 - Register-row rule defined in template, workflow, AGENTS.md
 - PM milestone section converted to self-contained checklist (event-triggered + standing monthly prompts)
+
+---
+
+# Pass 7: Date normalisation + tenders schema repair (26/09/12)
+
+## Date format: all registers/cards/docs normalised to YY/MM/DD
+- ~2,300 cell/value conversions across 10 CSVs + all markdown
+- Rules: YYYY-MM-DD→YY/MM/DD everywhere; YYYY-MM→YY/MM in date-typed fields; bare YYYY→YY in date fields only (folder paths like "2017 Projects" preserved); ISO timestamps→YY/MM/DDT; unambiguous English dates converted ("Dec 2017"→17/12); year-ranges ("2017-18") and prose preserved
+- EXCEPTION: extracted_text/ source files untouched — verbatim evidence
+- Convention codified in AGENTS.md; tools/normalise_dates.py persisted
+
+## Schema drift found #3: 08_tenders.csv
+T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shifting last 4 values +1 → review_batch values landed in overflow. Repaired: realigned all 3 rows. Pre-existing quirk noted: T04 as_at_date=AS_AT (literal value, outside repair scope).

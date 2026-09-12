@@ -1,6 +1,6 @@
 # P10-KIRK — Project Index Card (REVIEWED)
 
-**Card status:** REVIEWED — populated from verified claims register (19 claims) across three report cycles (2022, 2024, 2026); consistency confirmed by Iain 2026-09-12.
+**Card status:** REVIEWED — populated from verified claims register (19 claims) across three report cycles (2022, 2024, 2026); consistency confirmed by Iain 26/09/12.
 **Reviewed by:** Devin (claim-driven population, QA lenses) + Iain (consistency confirmation)
 **Special note:** THREE separate report cycles (2022, 2024, 2026) — a method-evolution case study showing the mapping approach maturing in scope and depth.
 
@@ -19,8 +19,8 @@
 | `reference_permission` | NOT_ESTABLISHED | permission_status |
 | `commission_date` | ~2022 (first cycle); repeat commissions 2024, 2026 | file metadata |
 | `completion_date` | 2024 report delivered; 2026 report submitted (pending acceptance) | 01_projects.csv + Iain confirmation |
-| `contract_value` | £10,000 per cycle (×3 cycles = £30,000 total) — Iain confirmed 2026-09-12 | Iain confirmation |
-| `contracting_role` | PRIME — all three cycles confirmed by Iain 2026-09-09 | 01_projects.csv |
+| `contract_value` | £10,000 per cycle (×3 cycles = £30,000 total) — Iain confirmed 26/09/12 | Iain confirmation |
+| `contracting_role` | PRIME — all three cycles confirmed by Iain 26/09/09 | 01_projects.csv |
 | `prime_contractor` | The Fifth Sector | 01_projects.csv |
 | `geography` | Kirklees (Huddersfield, Dewsbury, Holmfirth, Cleckheaton etc.) | report |
 | `sector_focus` | Creative industries mapping + economic impact assessment | reports |
@@ -40,19 +40,19 @@
 | Field | Value | Source |
 |---|---|---|
 | `headline_finding` | Kirklees' creative industries generate £250.9m GVA (2024 estimate, +£7m on 2022) with a creative workforce exceeding 9,400 — significantly higher than BRES figures — and documented microclusters including a Huddersfield centre cluster of 257 businesses within 1km | C-R3-032, C-G2-493/494/496 |
-| `key_findings` | (1) £250.9m GVA (2024), +£7m on 2022; (2) 1,698 active cultural/creative businesses 2024 (+184, +15% since 2022); (3) 9,400+ creative workforce vs lower BRES figure; (4) 899 creative business starts Apr 2021–Jun 2024, 691 still active; (5) Huddersfield centre microcluster 257 businesses within 1km; (6) microclusters in Cleckheaton (72), Holme Valley South/Holmfirth; (7) music/performing/visual arts +56% to second-largest sector; (8) advertising/marketing jobs 120→670; (9) film/TV/radio/photography 230→505; (10) voluntary arts invisible to SIC mapping (Holmfirth Art Week Fringe: 52 venues, 1 registered) | C-G2-492-503 |
+| `key_findings` | (1) £250.9m GVA (2024), +£7m on 2022; (2) 1,698 active cultural/creative businesses 2024 (+184, +15% since 2022); (3) 9,400+ creative workforce vs lower BRES figure; (4) 899 creative business starts 21/04–24/06, 691 still active; (5) Huddersfield centre microcluster 257 businesses within 1km; (6) microclusters in Cleckheaton (72), Holme Valley South/Holmfirth; (7) music/performing/visual arts +56% to second-largest sector; (8) advertising/marketing jobs 120→670; (9) film/TV/radio/photography 230→505; (10) voluntary arts invisible to SIC mapping (Holmfirth Art Week Fringe: 52 venues, 1 registered) | C-G2-492-503 |
 | `quantified_results` | £250.9m GVA; 1,698 businesses; 9,400+ workforce; 899 starts/691 active; 257-business microcluster; +56% arts growth; 52 voluntary venues | claims register |
-| `client_decision_use` | Reports used by council informally but no specific policy application evidenced (Iain confirmed 2026-09-12); recommendations include addressing official-statistics discrepancy | C-G2-503 + Iain confirmation |
+| `client_decision_use` | Reports used by council informally but no specific policy application evidenced (Iain confirmed 26/09/12); recommendations include addressing official-statistics discrepancy | C-G2-503 + Iain confirmation |
 | `evidence_strength` | HIGH — three-cycle longitudinal mapping; PRIME all cycles; voluntary-arts capture distinctive; but GVA is modelled estimate and 2026 cycle unaccepted | Derived |
 
 ### A4. Permitted use
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 2026-09-12 | Iain confirmation |
-| `permitted_wording` | May be named in tender submissions (Iain approved 2026-09-12) | Iain confirmation |
+| `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 26/09/12 | Iain confirmation |
+| `permitted_wording` | May be named in tender submissions (Iain approved 26/09/12) | Iain confirmation |
 | `expiry` | NOT_ESTABLISHED | 09_publication_assets.csv |
-| `reference_status` | CLEARED for tender naming 2026-09-12; website publication still requires separate gate | Iain confirmation |
+| `reference_status` | CLEARED for tender naming 26/09/12; website publication still requires separate gate | Iain confirmation |
 
 ---
 
@@ -98,9 +98,9 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `card_status` | REVIEWED | 2026-09-12 |
-| `last_reviewed` | 2026-09-12 | 10_review_history.csv |
-| `reviewed_by` | Devin (claim-driven, QA lenses) + Iain (consistency confirmation 2026-09-12) | — |
+| `card_status` | REVIEWED | 26/09/12 |
+| `last_reviewed` | 26/09/12 | 10_review_history.csv |
+| `reviewed_by` | Devin (claim-driven, QA lenses) + Iain (consistency confirmation 26/09/12) | — |
 | `source_claims` | C-R3-029-035, C-G2-492-503 et al (19 claims) | 04_claims.csv |
 | `source_measurements` | M-* for P10 | 06_measurements.csv |
 | `unresolved_issues` | (1) client_contact NOT_ESTABLISHED; (2) reference_permission NOT_ESTABLISHED; (3) 2026 cycle acceptance pending | 07_validation_actions.csv |

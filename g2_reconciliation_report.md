@@ -1,6 +1,6 @@
 # G2 Reconciliation Report — Phase 1 Project-to-Folder Mapping
 
-**Date:** 2026-09-09
+**Date:** 26/09/09
 **Status:** Complete
 
 ## Summary
@@ -50,7 +50,7 @@
 | 24 | LCR Music Economy Mapping | 2025 | YES | Archive/2025 Projects/2025 Liverpool Music | Recent mapping |
 | 25 | Solent and Hampshire CA CI Mapping | 2025 | YES | Archive/2025 Projects/2025 Solent and Hampshire CI | Recent; also in Active as "2026 South West Hampshire" |
 
-## Issues resolved (per Iain 2026-09-09)
+## Issues resolved (per Iain 26/09/09)
 
 1. **LGA Handbook (2020):** Iain confirmed this was NOT Fifth Sector's work. OMITTED from Phase 1.
 2. **CIC Innovation Landscape (2021):** Iain confirmed this was NOT Fifth Sector's work. OMITTED from Phase 1.

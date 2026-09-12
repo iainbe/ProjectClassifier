@@ -1,6 +1,6 @@
 # R3 Double-Coding Comparison
 
-**Date:** 2026-09-09
+**Date:** 26/09/09
 **Codebook:** v1.3-candidate
 **Protocol:** Iain codes first (one by one); Devin compares; adjudicate disagreements
 

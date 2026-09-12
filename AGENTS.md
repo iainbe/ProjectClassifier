@@ -180,3 +180,6 @@ After card or register changes: regenerate `project_index.csv`.
 
 ### Repo sync
 Canonical = this Drive folder. `ProjectClassifier/` repo is the versioned mirror — sync after register-changing sessions, commit with the trigger named, push only when asked.
+
+### Date format convention
+All dates use `YY/MM/DD` (e.g., 26/09/12). Month-precision: `YY/MM`. Year-only in date fields: `YY`. Timestamps: `YY/MM/DDThh:mm:ss`. Applies to all registers, cards, changelogs, records and fields. EXCEPTION: `extracted_text/` source files remain verbatim — never normalise dates inside source evidence. `tools/normalise_dates.py` implements the conversion rules.

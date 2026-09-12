@@ -1,8 +1,8 @@
 # Spillover & Strategic Option Value Codebook v1.3 — R2-revised candidate
 
 **Version:** 1.3-candidate
-**Prepared:** 2026-09-09
-**Status:** ACCEPTED PILOT RELEASE — approved by Iain 2026-09-09 at M3; pilot is G2-ready
+**Prepared:** 26/09/09
+**Status:** ACCEPTED PILOT RELEASE — approved by Iain 26/09/09 at M3; pilot is G2-ready
 **Authority:** revised #megaplan, R0–R1 completed, M1 approved, R2 completed, M2 decision: R1 rework first. v1.2 approved with re-coding. v1.3 adds CO_AUTHORED_ANALYSIS as a formal attribution code per Iain's adjudication of D05. Approval of v1.3 permits R3.
 **Supersedes:** v1.2-candidate for coding purposes. v1.2 and v1.1 retained for audit trail.
 

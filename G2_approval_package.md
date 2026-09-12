@@ -1,9 +1,9 @@
 # G2 Approval Package — Full Portfolio Screening (Phased)
 
-**Date:** 2026-09-09
+**Date:** 26/09/09
 **Prepared by:** Devin for Iain Bennett review
 **Status:** Awaiting G2 approval
-**Prerequisite:** M3 APPROVED 2026-09-09; v1.3 accepted pilot release; pilot G2-ready
+**Prerequisite:** M3 APPROVED 26/09/09; v1.3 accepted pilot release; pilot G2-ready
 
 ## 1. G2 scope — phased approach
 
@@ -11,7 +11,7 @@
 
 **Rationale:** Start with 35 projects to calibrate workload before committing to full 91-project screening. Include the 10 pilot projects (already screened) plus 25 new projects.
 
-**Effort rebalance (per Iain 2026-09-09):** Pre-2020 projects are predominantly BOP co-authored work with less clear or useful outcomes (as WMCA demonstrated). Pre-2020 cohort capped at 20% of effort (5 projects). Two exceptions where Iain Bennett was methodologically central:
+**Effort rebalance (per Iain 26/09/09):** Pre-2020 projects are predominantly BOP co-authored work with less clear or useful outcomes (as WMCA demonstrated). Pre-2020 cohort capped at 20% of effort (5 projects). Two exceptions where Iain Bennett was methodologically central:
 
 1. **Kirklees 2015** — BOP report to which Iain contributed before being awarded the contract directly. Diffing BOP 2015 vs Fifth Sector direct 2021/2024/2026 has real methodological value.
 2. **East London Fashion Cluster (2016-17)** — Iain was lead consultant responsible for methodology, stakeholder engagement, mapping and reporting.

@@ -1,8 +1,8 @@
 # Spillover & Strategic Option Value Classification Codebook v1.0
 
 **Version:** 1.0 (calibrated post-pilot)
-**Created:** 2026-09-08 (v0.1)
-**Revised:** 2026-09-08 (v1.0)
+**Created:** 26/09/08 (v0.1)
+**Revised:** 26/09/08 (v1.0)
 **Status:** For full portfolio screening subject to G2 approval
 
 ---
@@ -11,8 +11,8 @@
 
 | Version | Date | Change | Reason |
 |---|---|---|---|
-| 0.1 | 2026-09-08 | Initial pilot draft | Created for Stage 1 pilot calibration |
-| 1.0 | 2026-09-08 | See calibration notes below | Pilot assessment of 10 projects and 5 tenders |
+| 0.1 | 26/09/08 | Initial pilot draft | Created for Stage 1 pilot calibration |
+| 1.0 | 26/09/08 | See calibration notes below | Pilot assessment of 10 projects and 5 tenders |
 
 ### Calibration changes from v0.1 to v1.0
 
@@ -346,5 +346,5 @@ This codebook is versioned. Changes require:
 Change log:
 | Version | Date | Change | Reason |
 |---|---|---|---|
-| 0.1 | 2026-09-08 | Initial pilot draft | Created for Stage 1 pilot calibration |
-| 1.0 | 2026-09-08 | Added INTERNAL_REUSE, FORECAST, BID_STAGE, ASSOCIATE; added spillover relevance gate; clarified DIRECT vs OPTION for mapping; added platform-led vs method-led distinction; added retrospective outcome field | Pilot calibration from 10 project assessments and 5 tender assessments |
+| 0.1 | 26/09/08 | Initial pilot draft | Created for Stage 1 pilot calibration |
+| 1.0 | 26/09/08 | Added INTERNAL_REUSE, FORECAST, BID_STAGE, ASSOCIATE; added spillover relevance gate; clarified DIRECT vs OPTION for mapping; added platform-led vs method-led distinction; added retrospective outcome field | Pilot calibration from 10 project assessments and 5 tender assessments |

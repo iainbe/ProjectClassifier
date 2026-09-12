@@ -1,6 +1,6 @@
 # R2 Neutral Source Packets — Coding Instructions
 
-**Date:** 2026-09-09
+**Date:** 26/09/09
 **Codebook version:** v1.1 (candidate)
 **Review batch:** R2
 
@@ -52,26 +52,26 @@ This file defines the 12 atomic claim units and 2 opportunity packets for R2 bou
 
 ### R2-D05 (P04-GBSLEP) — Intermediaries and knowledge transfer
 - **Question:** What does the account of intermediaries/knowledge transfer establish about effects investigated and Fifth Sector/Bennett's role in them?
-- **Source:** SRC-R2-05 (GBSLEP report, Dec 2017)
+- **Source:** SRC-R2-05 (GBSLEP report, 17/12)
 - **Scope:** Executive-summary cultural organisations/intermediaries subsections
 - **Prior exposure:** Passage already discussed
 - **File:** `extracted_text/SRC-R2-05_v1_full.txt`
 
 ### R2-D06 (P05-WMCA) — Document type behind a filename containing "final"
 - **Question:** What evidence of method proposal/application is provided by the actual document type behind a filename containing "final"?
-- **Source:** SRC-R2-06 (WMCA final report PDF, Jan 9 2020) — CORRECTED from client quotation response
+- **Source:** SRC-R2-06 (WMCA final report PDF, 20/01/09) — CORRECTED from client quotation response
 - **Scope:** Cover/quotation and methodology section
 - **Prior exposure:** Document-type error already discussed
 - **File:** `extracted_text/SRC-R2-06_v1_full.txt`
-- **Note:** The original R2 source was a client-authored quotation response (190730 final.docx). The corrected source is the Jan 9 2020 final report PDF (BOP Consulting deliverable). This correction is itself part of the diagnostic — the filename "final" on the original source was misleading.
+- **Note:** The original R2 source was a client-authored quotation response (190730 final.docx). The corrected source is the 20/01/09 final report PDF (BOP Consulting deliverable). This correction is itself part of the diagnostic — the filename "final" on the original source was misleading.
 
 ### R2-D07 (P06-COSTAR) — Bid-support work and funding outcome
 - **Question:** What can this Manchester case-for-support establish about bid-support work and the funding outcome of that particular consortium?
-- **Source:** SRC-R2-07 (CoSTAR Case ad Delivery, Jan 30 2023)
+- **Source:** SRC-R2-07 (CoSTAR Case ad Delivery, 23/01/30)
 - **Scope:** Cover, strategic fit and theory of change
 - **Prior exposure:** National/local conflation already discussed
 - **File:** `extracted_text/SRC-R2-07_v1_full.txt`
-- **Note:** Bid was NOT successful (confirmed by Iain 2026-09-09). The Oct 2025 consortium plan is for a different/revived consortium.
+- **Note:** Bid was NOT successful (confirmed by Iain 26/09/09). The 25/10 consortium plan is for a different/revived consortium.
 
 ### R2-D08 (P02-FGTG) — Post-workshop effects test
 - **Question:** Does this reviewed update contain an actual specified test of post-workshop effects, and what conclusion is permissible if the relevant follow-up evidence is outside this packet?
@@ -82,35 +82,35 @@ This file defines the 12 atomic claim units and 2 opportunity packets for R2 bou
 
 ### R2-T01 (P07-CC) — Atomic method/output/design proposition
 - **Question:** Identify one atomic method/output/design proposition and assess what the inception document supports; preserve commission/programme distinction.
-- **Source:** SRC-R2-08 (Creative City inception, Sep 14 2020)
+- **Source:** SRC-R2-08 (Creative City inception, 20/09/14)
 - **Scope:** Entire short inception note
 - **Prior exposure:** Source appeared in previous pilot; prior labels excluded from new packet
 - **File:** `extracted_text/SRC-R2-08_v1_full.txt`
-- **Note:** SIPF application NOT successful (confirmed by Iain 2026-09-09). Project did not proceed beyond inception.
+- **Note:** SIPF application NOT successful (confirmed by Iain 26/09/09). Project did not proceed beyond inception.
 
 ### R2-T02 (P08-LIVDCI) — Method reuse/role and proposal vs delivery
 - **Question:** Identify one atomic proposition about method reuse/role, and separate what the supplier proposal reports from independently verified delivery.
-- **Sources:** SRC-R2-09 (proposal, Jan 5 2024), SRC-R2-09B (final report, Jul 8 2024)
+- **Sources:** SRC-R2-09 (proposal, 24/01/05), SRC-R2-09B (final report, 24/07/08)
 - **Scope:** Proposal: experience and methodology sections only. Final report: full for context.
 - **Prior exposure:** Proposal partially read in prior pilot
 - **Files:** `extracted_text/SRC-R2-09_v1_full.txt`, `extracted_text/SRC-R2-09B_v1_full.txt`
-- **Note:** Final report accepted by client (confirmed by Iain 2026-09-09). This is a proposal-vs-delivery test.
+- **Note:** Final report accepted by client (confirmed by Iain 26/09/09). This is a proposal-vs-delivery test.
 
 ### R2-T03 (P09-CDEC) — Atomic proposed cross-sector mechanism
 - **Question:** Identify one atomic proposed cross-sector mechanism; state what would disconfirm it and what occurrence evidence this draft supplies.
-- **Source:** SRC-R2-10 (CDEC challenges paper V2 draft, Apr 24 2012)
+- **Source:** SRC-R2-10 (CDEC challenges paper V2 draft, 12/04/24)
 - **Scope:** Introduction, convergence and recommendations
 - **Prior exposure:** Draft read in prior pilot
 - **File:** `extracted_text/SRC-R2-10_v1_full.txt`
-- **Note:** Challenges paper was finalised (confirmed by Iain 2026-09-09). Fifth Sector had advisory/consultative role. Oldest project in pilot (2012).
+- **Note:** Challenges paper was finalised (confirmed by Iain 26/09/09). Fifth Sector had advisory/consultative role. Oldest project in pilot (2012).
 
 ### R2-T04 (P10-KIRK) — Monetary baseline proposition
 - **Question:** Identify one atomic monetary baseline proposition and distinguish amount, basis, review and intervention attribution.
-- **Source:** SRC-R2-11 (Kirklees 2024 final, Sep 23 2024) — CORRECTED from Jul 18 version
+- **Source:** SRC-R2-11 (Kirklees 2024 final, 24/09/23) — CORRECTED from Jul 18 version
 - **Scope:** Executive summary and economic-impact methodology only
 - **Prior exposure:** Headline discussed; prior AI summary exists
 - **File:** `extracted_text/SRC-R2-11_v1_full.txt`
-- **Note:** 2022 and 2024 reports accepted (confirmed by Iain 2026-09-09). 2026 report in progress. P10-KIRK is a three-report method evolution case study.
+- **Note:** 2022 and 2024 reports accepted (confirmed by Iain 26/09/09). 2026 report in progress. P10-KIRK is a three-report method evolution case study.
 
 ## 2 Opportunity Packets
 

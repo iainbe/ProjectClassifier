@@ -1,7 +1,7 @@
 # Spillover & Strategic Option Value Classification Codebook v0.1
 
 **Version:** 0.1 (pilot draft)
-**Created:** 2026-09-08
+**Created:** 26/09/08
 **Status:** For pilot calibration
 
 ---
@@ -288,4 +288,4 @@ This codebook is versioned. Changes require:
 Change log:
 | Version | Date | Change | Reason |
 |---|---|---|---|
-| 0.1 | 2026-09-08 | Initial pilot draft | Created for Stage 1 pilot calibration |
+| 0.1 | 26/09/08 | Initial pilot draft | Created for Stage 1 pilot calibration |

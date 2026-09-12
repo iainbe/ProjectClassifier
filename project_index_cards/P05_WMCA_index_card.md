@@ -1,6 +1,6 @@
 # P05-WMCA — Project Index Card (REVIEWED)
 
-**Card status:** REVIEWED — populated from full read of canonical final report (SRC-R2-06); consistency confirmed by Iain 2026-09-12 (client acceptance, BOP associate role).
+**Card status:** REVIEWED — populated from full read of canonical final report (SRC-R2-06); consistency confirmed by Iain 26/09/12 (client acceptance, BOP associate role).
 **Reviewed by:** Devin (full read, QA lenses) + Iain (consistency confirmation)
 
 ---
@@ -16,21 +16,21 @@
 | `client` | West Midlands Combined Authority (WMCA) | 01_projects.csv |
 | `client_contact` | NOT_ESTABLISHED | 09_publication_assets.csv |
 | `reference_permission` | NOT_ESTABLISHED | permission_status |
-| `commission_date` | ~2019-03 (proposal Mar 13, 2019) | file system metadata |
-| `completion_date` | 2020-01-09 (canonical final report PDF, confirmed by Iain 2026-09-09) | canonical version record |
+| `commission_date` | ~19/03 (proposal 19/03/13) | file system metadata |
+| `completion_date` | 20/01/09 (canonical final report PDF, confirmed by Iain 26/09/09) | canonical version record |
 | `contract_value` | NOT_ESTABLISHED | 06_measurements.csv |
-| `contracting_role` | BOP ASSOCIATE — delivered under BOP associate arrangement with fees paid to The Fifth Sector; credited "Iain Bennett, BOP Consulting" on report; Iain confirmed 2026-09-12 | Iain confirmation |
+| `contracting_role` | BOP ASSOCIATE — delivered under BOP associate arrangement with fees paid to The Fifth Sector; credited "Iain Bennett, BOP Consulting" on report; Iain confirmed 26/09/12 | Iain confirmation |
 | `prime_contractor` | BOP Consulting | Iain confirmation |
 | `geography` | West Midlands (Combined Authority area) | metadata |
 | `sector_focus` | Creative business scale-up mapping | metadata |
-| `lifecycle_status` | COMPLETED — client accepted report; Iain confirmed 2026-09-12 | VAL-R3-010 |
+| `lifecycle_status` | COMPLETED — client accepted report; Iain confirmed 26/09/12 | VAL-R3-010 |
 
 ### A2. Brief summary
 
 | Field | Value | Source |
 |---|---|---|
 | `brief_summary` | WMCA commissioned BOP Consulting (with Curator Technologies) to map creative businesses with scale-up potential across the West Midlands. The DCMS Common Application Gateway (CAG) criteria (10% turnover growth, minimum 8 employees) represented a high bar — the study used a more detailed methodology to identify latent scale-up potential. Delivered under a BOP associate arrangement with fees paid to The Fifth Sector. | SRC-R2-06 Introduction + Iain confirmation |
-| `key_deliverables` | (1) Final report: WMCA Creative Business scale-up final report (Jan 9, 2020, PDF, 17 pages); (2) Proposal: WMCA v4 (Mar 13, 2019, DOCX); (3) Tender: GBSLEP-Scale-Up-Mapping-Tender (Jul 29, 2019, DOCX) | canonical version records |
+| `key_deliverables` | (1) Final report: WMCA Creative Business scale-up final report (20/01/09, PDF, 17 pages); (2) Proposal: WMCA v4 (19/03/13, DOCX); (3) Tender: GBSLEP-Scale-Up-Mapping-Tender (19/07/29, DOCX) | canonical version records |
 | `client_objective` | Identify creative businesses most likely to be eligible for and benefit from a DCMS-funded creative business scale-up programme | SRC-R2-06 Introduction |
 | `scope_boundary` | West Midlands creative businesses; four supply chains (Creative Content, Creative Experiences, Creative Originals, Creative Services); CAG criteria assessment; scale-up scoring methodology | SRC-R2-06 |
 
@@ -48,10 +48,10 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 2026-09-12 | Iain confirmation |
+| `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 26/09/12 | Iain confirmation |
 | `permitted_wording` | Cite as delivered under BOP associate arrangement, fees to The Fifth Sector — describe honestly | Iain confirmation |
 | `expiry` | NOT_ESTABLISHED | 09_publication_assets.csv |
-| `reference_status` | CLEARED for tender naming 2026-09-12; website publication still requires separate gate | Iain confirmation |
+| `reference_status` | CLEARED for tender naming 26/09/12; website publication still requires separate gate | Iain confirmation |
 
 ---
 
@@ -63,7 +63,7 @@
 |---|---|---|
 | `methods_used` | Creative business scale-up mapping; BRES + Companies House + Curator Technologies data; four supply chain taxonomy; CAG criteria assessment; bespoke scale-up scoring methodology | SRC-R2-06 credits, methodology |
 | `method_innovation` | Scale-up scoring methodology to identify latent potential beyond DCMS CAG criteria; combined BRES + Companies House + Curator data sources; 645-business shortlisting from 2,336 longlist | SRC-R2-06 |
-| `method_evolution` | 3 phases: proposal and tender (Mar–Jul 2019) → interim report (Oct 2019) → final report iterations (Dec 2019–Jan 2020). Three final report PDFs produced over 5 weeks | changelog |
+| `method_evolution` | 3 phases: proposal and tender (Mar–19/07) → interim report (19/10) → final report iterations (19/12–20/01). Three final report PDFs produced over 5 weeks | changelog |
 | `breakthrough_points` | Scale-up scoring methodology as complement to CAG criteria — revealed 98 businesses with potential that CAG alone would have missed | SRC-R2-06 |
 | `spillover_types_identified` | KNOWLEDGE (scale-up methodology); PRODUCT (business classification); OPTION (future scale-up programme design) | 04_claims.csv |
 | `spillover_evidence_strength` | KNOWLEDGE: DOCUMENTED (methodology documented); PRODUCT: DOCUMENTED (645 businesses classified); OPTION: INTERPRETATION (informs future programme design) | Derived |
@@ -79,7 +79,7 @@
 | `transfer_conditions` | Curator Technologies data access; BRES employment data; Companies House records; DCMS sector definitions | Derived |
 | `data_dependencies` | BRES, Companies House, Curator Technologies, DCMS Economic Estimates | SRC-R2-06 credits |
 | `access_requirements` | Curator Technologies data partnership; BRES access; client stakeholder network | SRC-R2-06 |
-| `effort_estimate` | ~10 months (Mar 2019–Jan 2020) | Notes |
+| `effort_estimate` | ~10 months (19/03–20/01) | Notes |
 | `reuse_examples` | NOT_ESTABLISHED | 04_claims.csv |
 
 ### B3. Tender relevance
@@ -97,9 +97,9 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `card_status` | REVIEWED | 2026-09-12 |
-| `last_reviewed` | 2026-09-12 | 10_review_history.csv |
-| `reviewed_by` | Devin (full read, QA lenses) + Iain (consistency confirmation 2026-09-12) | — |
+| `card_status` | REVIEWED | 26/09/12 |
+| `last_reviewed` | 26/09/12 | 10_review_history.csv |
+| `reviewed_by` | Devin (full read, QA lenses) + Iain (consistency confirmation 26/09/12) | — |
 | `source_claims` | C-G2-* claims for P05 | 04_claims.csv |
 | `source_measurements` | M-G2-* measurements for P05 | 06_measurements.csv |
 | `unresolved_issues` | (1) No DOCX final report in archive; (2) R2 source (SRC-R2-06) is a client document, not the final report; (3) register contracting_role field needs updating from SUBCONTRACTOR to BOP_ASSOCIATE | 07_validation_actions.csv |

@@ -1,11 +1,11 @@
 # Pilot Project Assessments — 10 Creative Economy Projects
 
-**Date:** 2026-09-08
+**Date:** 26/09/08
 **Assessor:** Devin (AI) for Iain Bennett review
 **Codebook version:** v0.1
 **Status:** UNVALIDATED HISTORICAL DRAFT — substantive reassessment paused
 
-> **R0 correction, 2026-09-08:** These ten narrative assessments have not passed source-linked calibration or independent coding. The earlier completion statement is withdrawn. Existing findings are preserved unchanged for audit and must not be treated as approved outcomes, classifications or reuse permissions. Source/version conflicts, incomplete reading and coding errors are recorded in the repair register in `G2_report.md`. The v0.1 label above describes these historical assessments; they have not been recoded to v1.0 or v1.1. Only methodology repair (R0–R1) is authorised. M1 permits a separately approved bounded test; M2 is required before substantive reassessment of this full pilot.
+> **R0 correction, 26/09/08:** These ten narrative assessments have not passed source-linked calibration or independent coding. The earlier completion statement is withdrawn. Existing findings are preserved unchanged for audit and must not be treated as approved outcomes, classifications or reuse permissions. Source/version conflicts, incomplete reading and coding errors are recorded in the repair register in `G2_report.md`. The v0.1 label above describes these historical assessments; they have not been recoded to v1.0 or v1.1. Only methodology repair (R0–R1) is authorised. M1 permits a separately approved bounded test; M2 is required before substantive reassessment of this full pilot.
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Project ID:** P01-NES
 **Client:** Aberdeen City Council
-**Lifecycle:** Ongoing (report delivered April 2026)
+**Lifecycle:** Ongoing (report delivered 26/04)
 **Fifth Sector role:** Designer + Deliverer
 **Source coverage:** Partial — .md equivalents readable; .docx originals not directly readable but content extracted via textutil
 
@@ -101,7 +101,7 @@ Fifth Sector designed the workplan, intervention logic, pilot methodology, and c
 
 **Project ID:** P03-MITIH
 **Client:** Salford City Council / MITIH (Innovate UK)
-**Lifecycle:** Completed (report delivered October 2025)
+**Lifecycle:** Completed (report delivered 25/10)
 **Fifth Sector role:** Designer + Deliverer
 **Source coverage:** Good — report text fully extracted via textutil
 
@@ -152,7 +152,7 @@ Fifth Sector (Iain Bennett, Jon Bains) designed and delivered the research. MITI
 
 **Project ID:** P04-GBSLEP
 **Client:** GBSLEP (via Birmingham City Council)
-**Lifecycle:** Completed (December 2017)
+**Lifecycle:** Completed (17/12)
 **Fifth Sector role:** DELIVERER (as BOP Consulting associate)
 **Source coverage:** Good — report text fully extracted
 
@@ -194,7 +194,7 @@ Iain Bennett delivered this work as a BOP Consulting associate, not as The Fifth
 
 **Project ID:** P05-WMCA
 **Client:** GBSLEP / WMCA (via BOP Consulting and Curator Technologies)
-**Lifecycle:** Completed (January 2020)
+**Lifecycle:** Completed (20/01)
 **Fifth Sector role:** PARTNER (via BOP Consulting bid; Curator Technologies as data partner)
 **Source coverage:** Partial — proposal/quotation text readable; final report content not fully extracted
 
@@ -312,7 +312,7 @@ Fifth Sector's identifiable contribution is value-chain/ecosystem framing and in
 
 **Project ID:** P08-LIVDCI
 **Client:** Liverpool City Region Combined Authority / Growth Platform
-**Lifecycle:** Completed (draft report June 2024; final likely delivered)
+**Lifecycle:** Completed (draft report 24/06; final likely delivered)
 **Fifth Sector role:** Designer + Deliverer
 **Source coverage:** Good — proposal text extracted; draft report available as .txt
 
@@ -397,7 +397,7 @@ Fifth Sector (Iain Bennett) contributed to the challenges paper and consultation
 
 **Project ID:** P10-KIRK
 **Client:** Kirklees Council
-**Lifecycle:** Completed (May 2022 report; 2024 update also delivered)
+**Lifecycle:** Completed (22/05 report; 2024 update also delivered)
 **Fifth Sector role:** Designer + Deliverer
 **Source coverage:** Good — final report and 2024 update extracted
 

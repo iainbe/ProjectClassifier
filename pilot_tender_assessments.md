@@ -1,11 +1,11 @@
 # Pilot Tender Assessments — 5 Opportunities
 
-**Date:** 2026-09-08
+**Date:** 26/09/08
 **Assessor:** Devin (AI) for Iain Bennett review
 **Codebook version:** v0.1
 **Status:** UNVALIDATED HISTORICAL DRAFT — recommendations and permissions not approved
 
-> **R0 correction, 2026-09-08:** These five opportunity assessments have not passed buyer-source verification, independent coding or commercial approval. Prior PASS/BID recommendations, permission-cleared wording and explanations of tender losses are not current advice and must not be relied on. They are retained unchanged for audit. The v0.1 label above describes the historical assessments; no substantive recoding has yet occurred. Only R0–R1 methodology repair is authorised. M1 is required for the bounded test and M2 for full pilot reassessment. A strong analytical score cannot clear an unknown procurement gate. See the current repair register and gate record in `G2_report.md`.
+> **R0 correction, 26/09/08:** These five opportunity assessments have not passed buyer-source verification, independent coding or commercial approval. Prior PASS/BID recommendations, permission-cleared wording and explanations of tender losses are not current advice and must not be relied on. They are retained unchanged for audit. The v0.1 label above describes the historical assessments; no substantive recoding has yet occurred. Only R0–R1 methodology repair is authorised. M1 is required for the bounded test and M2 for full pilot reassessment. A strong analytical score cannot clear an unknown procurement gate. See the current repair register and gate record in `G2_report.md`.
 
 ---
 
@@ -13,7 +13,7 @@
 
 **Opportunity ID:** T01-BCAT
 **Buyer:** British Council (Digital Innovation Team)
-**Status:** Active proposal (submitted September 2026)
+**Status:** Active proposal (submitted 26/09)
 **Source documents:** approach-summary.md, methodology draft, causal hypothesis document, RFP, clarifications
 
 ### 1. Procurement gates
@@ -88,7 +88,7 @@
 
 **Opportunity ID:** T02-TQH
 **Buyer:** The Queen's Hall Edinburgh (board)
-**Status:** Active proposal (v3 Circuit-revised, July 2026)
+**Status:** Active proposal (v3 Circuit-revised, 26/07)
 **Source documents:** proposal v3, rigour review (/deepthink, /blindspot), discovery call transcript
 
 ### 1. Procurement gates
@@ -154,7 +154,7 @@
 
 **Opportunity ID:** T03-BWD
 **Buyer:** Blackburn with Darwen Council
-**Status:** Active proposal (July 2026)
+**Status:** Active proposal (26/07)
 **Source documents:** proposal .md
 
 ### 1. Procurement gates
@@ -219,7 +219,7 @@
 
 **Opportunity ID:** T04-LCRFILM
 **Buyer:** Liverpool City Council (for LCR Combined Authority)
-**Status:** Lost (proposal submitted May 2026)
+**Status:** Lost (proposal submitted 26/05)
 **Source documents:** ITQ response .md, ITQ prompt
 
 ### 1. Procurement gates
@@ -280,7 +280,7 @@ This tender illustrates the risk of leading with methodology (Foresight) when th
 
 **Opportunity ID:** T05-DERBY
 **Buyer:** Derby City Council (ENQ1304 RFQ)
-**Status:** Lost (proposal submitted June 2026)
+**Status:** Lost (proposal submitted 26/06)
 **Source documents:** RFQ, response docs, transcript
 
 ### 1. Procurement gates

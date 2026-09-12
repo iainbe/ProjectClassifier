@@ -1,7 +1,7 @@
 # Liverpool DCI (P08) Canonical Version Determination and Changelog
 
 **Project:** P08-LIVDCI — Liverpool City Region Digital & Creative Industries Cluster Mapping
-**Date:** 2026-09-08
+**Date:** 26/09/08
 **Status:** R1.5 batch 3 — use both (proposal + final report), confirmed by Iain
 **Method:** File system inventory + document internal metadata + version-chain analysis. No archive files modified.
 
@@ -11,19 +11,19 @@ The LIVDCI project has three distinct deliverable streams, each with its own ver
 
 | Stream | Description | Canonical version (proposed) |
 |---|---|---|
-| A. Final report | Digital and creative cluster mapping report | `LiverpoolCityRegion_DigitalCreative_final.docx` + `.pdf` (Jul 8, 2024, rev=104, 844 paras, 27 tables, 85 pages) |
-| B. Proposal | Fifth Sector's proposal | `240105 LCR DCI Cluster mapping_TheFifthSector.docx` (Jan 5, 2024, rev=307, 274 paras, 1 table) — R2 source |
-| C. Changes document | Final report changes | `240708 LCR Digital final report changes.docx` (Jul 8, 2024, rev=30, 3 paras, 1 table) |
+| A. Final report | Digital and creative cluster mapping report | `LiverpoolCityRegion_DigitalCreative_final.docx` + `.pdf` (24/07/08, rev=104, 844 paras, 27 tables, 85 pages) |
+| B. Proposal | Fifth Sector's proposal | `240105 LCR DCI Cluster mapping_TheFifthSector.docx` (24/01/05, rev=307, 274 paras, 1 table) — R2 source |
+| C. Changes document | Final report changes | `240708 LCR Digital final report changes.docx` (24/07/08, rev=30, 3 paras, 1 table) |
 
 ## 2. Version chain — A. Final report
 
 | Version ID | Date | Document | Paras | Tables | Authority | Superseded by |
 |---|---|---|---|---|---|---|
-| LIVDCI-A-v01 | 2024-06-04 | `LCR DCI final report outline.docx` | 597 | 5 | SUPERSEDED (outline, rev=723) | LIVDCI-A-FINAL |
-| LIVDCI-A-v02 | 2024-06-05 | `240604 LCR digital and creative cluster mapping.docx` | 617 | 5 | SUPERSEDED (rev=77) | LIVDCI-A-FINAL |
-| LIVDCI-A-v03 | 2024-06-06 | `240606 LCR_digitalcreativecluster-mapping.docx` | 588 | 5 | SUPERSEDED (rev=2) | LIVDCI-A-FINAL |
-| LIVDCI-A-v04 | 2024-06-06 | `Liverpool City Region DigitalCreative draft.docx` | 705 | 6 | SUPERSEDED (draft, rev=290) | LIVDCI-A-FINAL |
-| **LIVDCI-A-FINAL** | 2024-07-08 | `LiverpoolCityRegion_DigitalCreative_final.docx` + `.pdf` | 844 | 27 | **CANONICAL** (85-page PDF) | — |
+| LIVDCI-A-v01 | 24/06/04 | `LCR DCI final report outline.docx` | 597 | 5 | SUPERSEDED (outline, rev=723) | LIVDCI-A-FINAL |
+| LIVDCI-A-v02 | 24/06/05 | `240604 LCR digital and creative cluster mapping.docx` | 617 | 5 | SUPERSEDED (rev=77) | LIVDCI-A-FINAL |
+| LIVDCI-A-v03 | 24/06/06 | `240606 LCR_digitalcreativecluster-mapping.docx` | 588 | 5 | SUPERSEDED (rev=2) | LIVDCI-A-FINAL |
+| LIVDCI-A-v04 | 24/06/06 | `Liverpool City Region DigitalCreative draft.docx` | 705 | 6 | SUPERSEDED (draft, rev=290) | LIVDCI-A-FINAL |
+| **LIVDCI-A-FINAL** | 24/07/08 | `LiverpoolCityRegion_DigitalCreative_final.docx` + `.pdf` | 844 | 27 | **CANONICAL** (85-page PDF) | — |
 
 **Notes:**
 - The final report went through outline → draft → final in about a month (Jun 4–Jul 8).
@@ -36,7 +36,7 @@ The LIVDCI project has three distinct deliverable streams, each with its own ver
 
 | Version ID | Date | Document | Paras | Tables | Authority | Superseded by |
 |---|---|---|---|---|---|---|
-| **LIVDCI-B-FINAL** | 2024-01-05 | `240105 LCR DCI Cluster mapping_TheFifthSector.docx` | 274 | 1 | **CANONICAL (proposed)** (R2 source, rev=307) | — |
+| **LIVDCI-B-FINAL** | 24/01/05 | `240105 LCR DCI Cluster mapping_TheFifthSector.docx` | 274 | 1 | **CANONICAL (proposed)** (R2 source, rev=307) | — |
 
 **Notes:**
 - The proposal has rev=307 — extremely high revision count for a proposal. This suggests extensive iterative drafting before submission.
@@ -46,7 +46,7 @@ The LIVDCI project has three distinct deliverable streams, each with its own ver
 
 | Version ID | Date | Document | Paras | Tables | Authority | Superseded by |
 |---|---|---|---|---|---|---|
-| **LIVDCI-C-FINAL** | 2024-07-08 | `240708 LCR Digital final report changes.docx` | 3 | 1 | **CANONICAL (proposed)** (rev=30) | — |
+| **LIVDCI-C-FINAL** | 24/07/08 | `240708 LCR Digital final report changes.docx` | 3 | 1 | **CANONICAL (proposed)** (rev=30) | — |
 
 **Notes:**
 - A very short document (3 paras, 1 table) — likely a summary of changes made to the final report.
@@ -59,21 +59,21 @@ SRC-R2-09 covers both the proposal (B) and the final report (A). Iain confirmed 
 
 This is a hypothesis-generating analysis based on file dates, titles, and metadata. Confidence is MEDIUM unless noted. Full content comparison has not been performed.
 
-### Phase 1: Proposal (Jan 2024)
-- **Method:** Fifth Sector submitted a proposal (Jan 5, 2024, 274 paras, 1 table, rev=307). The extremely high revision count suggests intensive iterative drafting.
+### Phase 1: Proposal (24/01)
+- **Method:** Fifth Sector submitted a proposal (24/01/05, 274 paras, 1 table, rev=307). The extremely high revision count suggests intensive iterative drafting.
 - **Spillover framing:** Not evident from title. Requires content review.
 - **Option framing:** Not evident from title.
 - **Confidence:** LOW (title and metadata only; content not compared).
 
-### Phase 2: Outline and drafting (Jun 2024)
+### Phase 2: Outline and drafting (24/06)
 - **Method:** Rapid progression from outline (Jun 4, 597 paras, 5 tables) through multiple drafts (Jun 5–6) to a more developed draft (Jun 6, 705 paras, 6 tables). The outline → draft sequence happened in 2–3 days.
 - **Spillover framing:** Not evident from titles. Requires content review.
 - **Option framing:** Not evident from titles.
 - **Breakthrough flag:** The rapid outline-to-draft progression (Jun 4–6) suggests a well-defined method was applied quickly.
 - **Confidence:** MEDIUM (file dates and paragraph/table counts are indicative; content not compared).
 
-### Phase 3: Final report (Jul 2024)
-- **Method:** Final report produced Jul 8, 2024 (844 paras, 27 tables, 85 pages). The jump from 6 tables (draft) to 27 tables (final) indicates substantial data/analysis was added in the final phase (~4 weeks after the last draft). A changes document was also produced (3 paras, 1 table).
+### Phase 3: Final report (24/07)
+- **Method:** Final report produced 24/07/08 (844 paras, 27 tables, 85 pages). The jump from 6 tables (draft) to 27 tables (final) indicates substantial data/analysis was added in the final phase (~4 weeks after the last draft). A changes document was also produced (3 paras, 1 table).
 - **Spillover framing:** Not evident from title. Requires content review.
 - **Option framing:** Not evident from title.
 - **Breakthrough flag:** The table count jump (6 → 27) in the final phase suggests significant data analysis was added, potentially including cluster mapping data, economic metrics, or comparative tables.
@@ -96,10 +96,10 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 
 ## 8. UNRESOLVED items
 
-1. ~~Was the final report accepted by the client?~~ RESOLVED: Report accepted by client (confirmed by Iain, 2026-09-09).
+1. ~~Was the final report accepted by the client?~~ RESOLVED: Report accepted by client (confirmed by Iain, 26/09/09).
 2. What is the current status of the LCR DCI commission?
 
-## R3 card walkthrough (2026-09-12)
+## R3 card walkthrough (26/09/12)
 
 - **Resolved:** Rating split approved by Iain — precedent_strength STRONG (PRIME + accepted + innovative method), evidence_strength MEDIUM (headline GVA is modelled estimate).
 - **Register repair:** contracting_role=PRIME, prime_contractor=The Fifth Sector (VAL-R3-015 now correctly landed).

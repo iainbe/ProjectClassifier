@@ -1,6 +1,6 @@
 # P01-NES — Project Index Card (REVIEWED)
 
-**Card status:** REVIEWED — populated from verified claims register (60 claims) and canonical v3.12 report; consistency confirmed by Iain 2026-09-12.
+**Card status:** REVIEWED — populated from verified claims register (60 claims) and canonical v3.12 report; consistency confirmed by Iain 26/09/12.
 **Reviewed by:** Devin (claim-driven population, QA lenses) + Iain (consistency confirmation)
 
 ---
@@ -16,14 +16,14 @@
 | `client` | Aberdeen City Council / Aberdeenshire Council | metadata |
 | `client_contact` | NOT_ESTABLISHED — requires permission check | 09_publication_assets.csv |
 | `reference_permission` | NOT_ESTABLISHED | permission_status |
-| `commission_date` | ~2025-07 (project root created Jul 2025) | file system metadata |
-| `completion_date` | 2026-06-05 (v3.12 final) | canonical version record |
-| `contract_value` | NOT_DISCLOSED — Iain confirmed 2026-09-12 | Iain confirmation |
-| `contracting_role` | PRIME — confirmed by Iain 2026-09-09 | 01_projects.csv |
+| `commission_date` | ~25/07 (project root created 25/07) | file system metadata |
+| `completion_date` | 26/06/05 (v3.12 final) | canonical version record |
+| `contract_value` | NOT_DISCLOSED — Iain confirmed 26/09/12 | Iain confirmation |
+| `contracting_role` | PRIME — confirmed by Iain 26/09/09 | 01_projects.csv |
 | `prime_contractor` | The Fifth Sector | 01_projects.csv |
 | `geography` | North East Scotland (Aberdeen, Aberdeenshire) | metadata |
 | `sector_focus` | Creative industries / creative economy mapping | metadata |
-| `lifecycle_status` | COMPLETED — v3.12 accepted by client, confirmed by Iain 2026-09-09 | 01_projects.csv |
+| `lifecycle_status` | COMPLETED — v3.12 accepted by client, confirmed by Iain 26/09/09 | 01_projects.csv |
 
 ### A2. Brief summary
 
@@ -48,10 +48,10 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 2026-09-12 | Iain confirmation |
-| `permitted_wording` | May be named in tender submissions (Iain approved 2026-09-12) | Iain confirmation |
+| `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 26/09/12 | Iain confirmation |
+| `permitted_wording` | May be named in tender submissions (Iain approved 26/09/12) | Iain confirmation |
 | `expiry` | NOT_ESTABLISHED | 09_publication_assets.csv |
-| `reference_status` | CLEARED for tender naming 2026-09-12; website publication still requires separate gate | Iain confirmation |
+| `reference_status` | CLEARED for tender naming 26/09/12; website publication still requires separate gate | Iain confirmation |
 
 ---
 
@@ -63,7 +63,7 @@
 |---|---|---|
 | `methods_used` | Creative economy mapping using BRES + SIC code crosswalk; four-tier workforce model; LinkedIn profile analysis (8,000+); penetration-gap estimation for invisible workforce; verified active-firm identification; institutional anchor mapping; strategic recommendations + growth strategies | C-G2-325-335 |
 | `method_innovation` | Four-tier workforce model separating institutional anchors / SME core / visible freelancers / invisible workforce — the 2,035 "invisible" estimate via penetration-gap analysis addresses the freelance undercount problem systematically; crosswalk reduced 1,711 registered firms to 922 verified active | C-G2-327, C-G2-332 |
-| `method_evolution` | Most recent pilot project (2025-26); v3.12 canonical final Jun 5 2026 | canonical version record |
+| `method_evolution` | Most recent pilot project (2025-26); v3.12 canonical final 26/06/05 | canonical version record |
 | `breakthrough_points` | Invisible workforce quantification (2,035 individuals via penetration gap) — makes the freelance/undercount problem measurable rather than anecdotal | C-G2-332 |
 | `spillover_types_identified` | KNOWLEDGE (creative skills across sectors); PRODUCT (supply chains); NETWORK (institutional anchors + cluster structure); OPTION (convergence between simulation/visualisation and creative/marketing; growth strategies as options) | claims register |
 | `spillover_evidence_strength` | KNOWLEDGE: DOCUMENTED (workforce tiers); PRODUCT: DOCUMENTED (GVA, supply chains); NETWORK: DOCUMENTED (65 anchors, cluster analysis); OPTION: DESIGN (convergence option proposed, unexercised) | Derived |
@@ -79,7 +79,7 @@
 | `transfer_conditions` | BRES data access; LinkedIn data; creative SIC/SOC crosswalk; regional stakeholder network | Derived |
 | `data_dependencies` | BRES, LinkedIn (8,000+ profiles), ONS, Creative Scotland MYF portfolio, SIC/SOC crosswalk | C-G2-325-335 |
 | `access_requirements` | LinkedIn data access; BRES; council stakeholder network | Derived |
-| `effort_estimate` | ~10 months (Aug 2025–Jun 2026) | file metadata |
+| `effort_estimate` | ~10 months (25/08–26/06) | file metadata |
 | `reuse_examples` | Four-tier workforce model and invisible-workforce estimation extend the LinkedIn methodology lineage from P04-GBSLEP → P08-LIVDCI; penetration-gap technique is the newest method component | Derived |
 
 ### B3. Tender relevance
@@ -97,9 +97,9 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `card_status` | REVIEWED | 2026-09-12 |
-| `last_reviewed` | 2026-09-12 | 10_review_history.csv |
-| `reviewed_by` | Devin (claim-driven, QA lenses) + Iain (consistency confirmation 2026-09-12) | — |
+| `card_status` | REVIEWED | 26/09/12 |
+| `last_reviewed` | 26/09/12 | 10_review_history.csv |
+| `reviewed_by` | Devin (claim-driven, QA lenses) + Iain (consistency confirmation 26/09/12) | — |
 | `source_claims` | C-R3-001-004, C-G2-325-335 et al (60 claims) | 04_claims.csv |
 | `source_measurements` | M-* for P01 | 06_measurements.csv |
 | `unresolved_issues` | (1) client_contact NOT_ESTABLISHED; (2) reference_permission NOT_ESTABLISHED | 07_validation_actions.csv |

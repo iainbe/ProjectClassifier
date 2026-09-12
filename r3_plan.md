@@ -1,6 +1,6 @@
 # R3 Plan — Full Pilot Reassessment with Codebook v1.3
 
-**Date:** 2026-09-09
+**Date:** 26/09/09
 **Codebook:** v1.3-candidate (approved)
 **Entry gate:** M2 passed (v1.2/v1.3 approved, R2 re-coding 100% agreement)
 **Exit gate:** M3 — Iain decides whether to accept the corrected pilot as G2-ready
@@ -25,11 +25,11 @@ R3 is NOT:
 | P01-NES | NE Scotland | v3.12 + Apr 20 + May 8 reports | Yes (R2 + earlier) |
 | P02-FGTG | ManMet From Good to Great | Nov 6 transcript + final report (outside R2 packet) | R2 transcript only |
 | P03-MITIH | MITIH Createch | Oct 25 report + policy playbook | Yes (R2 + earlier) |
-| P04-GBSLEP | GBSLEP mapping | Dec 2017 report + draft | Yes (R2 + earlier) |
-| P05-WMCA | WMCA Creative Scaleup | Jan 9 2020 final report PDF | Yes (R2 corrected) |
+| P04-GBSLEP | GBSLEP mapping | 17/12 report + draft | Yes (R2 + earlier) |
+| P05-WMCA | WMCA Creative Scaleup | 20/01/09 final report PDF | Yes (R2 corrected) |
 | P06-COSTAR | CoSTAR | Case for support + immersive analysis | Yes (R2 + earlier) |
 | P07-CC | Creative City | Inception note | Yes (R2) |
-| P08-LIVDCI | Liverpool DCI | Proposal + Jul 2024 final report | Yes (R2 + earlier) |
+| P08-LIVDCI | Liverpool DCI | Proposal + 24/07 final report | Yes (R2 + earlier) |
 | P09-CDEC | CDEC | Challenges paper + demonstrators | Yes (R2 + earlier) |
 | P10-KIRK | Kirklees | 2022 + 2024 + 2026 reports | Yes (R2 + earlier) |
 

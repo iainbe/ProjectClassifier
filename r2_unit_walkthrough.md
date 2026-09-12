@@ -1,6 +1,6 @@
 # R2 Unit-by-Unit Walkthrough for Independent Coding
 
-**Date:** 2026-09-09
+**Date:** 26/09/09
 **Purpose:** Clarify each of the 14 R2 units before Iain's independent coding pass.
 
 ---
@@ -16,8 +16,8 @@ These target known defects from the prior audit. Each tests whether the repaired
 **Question:** What claim about baseline economic scale can be made from two differently dated reports, and what version authority remains unresolved?
 
 **Sources:**
-- SRC-R2-01: "From Pinning Stones to Convergence Economy" (Apr 20, 2026) — 988 lines, 233KB
-- SRC-R2-02: "Mapping of Creative Industries in Aberdeen and Aberdeenshire" (May 8, 2026) — 743 lines, 134KB
+- SRC-R2-01: "From Pinning Stones to Convergence Economy" (26/04/20) — 988 lines, 233KB
+- SRC-R2-02: "Mapping of Creative Industries in Aberdeen and Aberdeenshire" (26/05/08) — 743 lines, 134KB
 
 **What's in the sources:**
 - Both reports cover the same commission (NES creative industries mapping for Aberdeen City Council).
@@ -41,7 +41,7 @@ These target known defects from the prior audit. Each tests whether the repaired
 
 **Question:** What does the dated update establish about workshop planning versus actual delivery? Do not determine the later programme outcome from this update alone.
 
-**Source:** SRC-R2-03: "FG2G Update" (Nov 6, 2024) — 374 lines, 35KB
+**Source:** SRC-R2-03: "FG2G Update" (24/11/06) — 374 lines, 35KB
 
 **What's in the source:**
 - This is a Teams meeting transcript (39 mins), not a report.
@@ -66,7 +66,7 @@ These target known defects from the prior audit. Each tests whether the repaired
 
 **Question:** What does the investment-sequence appendix establish about proposed future choices, their holder and their exercise?
 
-**Source:** SRC-R2-04: "MITIH Createch Ecosystem Report" (Oct 24, 2025) — 151 lines, 27KB
+**Source:** SRC-R2-04: "MITIH Createch Ecosystem Report" (25/10/24) — 151 lines, 27KB
 
 **What's in the source:**
 - The report has an appendix titled "Critical questions requiring market validation" and a "Recommended investment sequence."
@@ -118,7 +118,7 @@ These target known defects from the prior audit. Each tests whether the repaired
 
 **Question:** What does the account of intermediaries/knowledge transfer establish about effects investigated and Fifth Sector/Bennett's role in them?
 
-**Source:** SRC-R2-05: "GBSLEP Creative Economy report" (Dec 2017) — 2009 lines, 209KB
+**Source:** SRC-R2-05: "GBSLEP Creative Economy report" (17/12) — 2009 lines, 209KB
 
 **Scope:** Executive summary, cultural organisations/intermediaries subsections.
 
@@ -146,10 +146,10 @@ These target known defects from the prior audit. Each tests whether the repaired
 
 **Question:** What evidence of method proposal/application is provided by the actual document type behind a filename containing "final"?
 
-**Source:** SRC-R2-06: "WMCA Creative Business scale-up final report" (Jan 9, 2020 PDF) — 657 lines, 31KB
+**Source:** SRC-R2-06: "WMCA Creative Business scale-up final report" (20/01/09 PDF) — 657 lines, 31KB
 
 **What's in the source:**
-- The corrected source is the Jan 9, 2020 PDF — the actual final report by BOP Consulting (with Curator Technologies).
+- The corrected source is the 20/01/09 PDF — the actual final report by BOP Consulting (with Curator Technologies).
 - The credits page lists: "Iain Bennett, BOP Consulting; Simon Sprince and Andy Goodwin, Curator Technologies."
 - The report covers: mapping creative businesses, Common Application Gateway criteria, scale-up scores, correlation analysis, creative supply chain groupings.
 - It's a 17-page mapping/analysis report — a delivered output, not a proposal.
@@ -172,14 +172,14 @@ These target known defects from the prior audit. Each tests whether the repaired
 
 **Question:** What can this Manchester case-for-support establish about bid-support work and the funding outcome of that particular consortium?
 
-**Source:** SRC-R2-07: "CoSTAR Case ad Delivery" (Jan 30, 2023) — 317 lines, 36KB
+**Source:** SRC-R2-07: "CoSTAR Case ad Delivery" (23/01/30) — 317 lines, 36KB
 
 **What's in the source:**
 - This is a bid-support document (Case for Support) for the CoSTAR consortium.
 - The consortium includes: GMCA, SODA, Factory International, Magnopus, AND, FutureEverything, dock10.
 - The document describes: strategic fit, virtual production capabilities, theory of change, innovation agenda.
 - It proposes upgrading dock10's facilities for 3D performance capture, multi-talent motion capture, facial capture, etc.
-- The bid was NOT successful (confirmed by Iain 2026-09-09). The Oct 2025 consortium plan is for a different/revived consortium.
+- The bid was NOT successful (confirmed by Iain 26/09/09). The 25/10 consortium plan is for a different/revived consortium.
 - This is a national competition (UKRI CoSTAR), not a local authority mapping project.
 
 **What to code:**
@@ -200,7 +200,7 @@ These target known defects from the prior audit. Each tests whether the repaired
 
 **Question:** Does this reviewed update contain an actual specified test of post-workshop effects, and what conclusion is permissible if the relevant follow-up evidence is outside this packet?
 
-**Source:** SRC-R2-03: "FG2G Update" (Nov 6, 2024) — same transcript as D02.
+**Source:** SRC-R2-03: "FG2G Update" (24/11/06) — same transcript as D02.
 
 **What's in the source:**
 - As with D02, this is a planning transcript. The workshop has not yet occurred.
@@ -229,13 +229,13 @@ These test rule application without expected labels in the coder packet. Prior e
 
 **Question:** Identify one atomic method/output/design proposition and assess what the inception document supports; preserve commission/programme distinction.
 
-**Source:** SRC-R2-08: "Creative City+ SIPF bid support – project inception notes" (Sep 14, 2020) — 37 lines, 2KB
+**Source:** SRC-R2-08: "Creative City+ SIPF bid support – project inception notes" (20/09/14) — 37 lines, 2KB
 
 **What's in the source:**
 - This is a very short inception note (38 paragraphs, 0 tables) — a scoping/setup document.
 - It lists proposed tasks: project inception meeting, review of EOI submission, statistical base/supply chain analysis, business and stakeholder engagement, workshop, options assessment, drafting bid response, appendices.
 - It references a Gantt chart with five work packages and five key deliverables.
-- The SIPF application was NOT successful (confirmed by Iain 2026-09-09). The project did not proceed beyond inception.
+- The SIPF application was NOT successful (confirmed by Iain 26/09/09). The project did not proceed beyond inception.
 - This is a programme application (SIPF), not a commissioned contract. The commission/programme distinction is critical.
 
 **What to code:**
@@ -256,13 +256,13 @@ These test rule application without expected labels in the coder packet. Prior e
 **Question:** Identify one atomic proposition about method reuse/role, and separate what the supplier proposal reports from independently verified delivery.
 
 **Sources:**
-- SRC-R2-09: "LCR DCI Cluster mapping" proposal (Jan 5, 2024) — 293 lines, 38KB
-- SRC-R2-09B: "LiverpoolCityRegion DigitalCreative final report" (Jul 8, 2024) — 1200 lines, 144KB
+- SRC-R2-09: "LCR DCI Cluster mapping" proposal (24/01/05) — 293 lines, 38KB
+- SRC-R2-09B: "LiverpoolCityRegion DigitalCreative final report" (24/07/08) — 1200 lines, 144KB
 
 **What's in the sources:**
 - The proposal (SRC-R2-09) lists extensive prior experience: Herefordshire, Leicester, Calderdale, South Yorkshire, West Sussex, Somerset, Tees Valley, Derby, Rushmoor, Kirklees, Liverpool Film Fund, Liverpool Cultural Strategy, LCR Music Strategy, City of London, London College of Fashion. It proposes an "OODA Loop" methodology (Observe, Orient, Determine, Act).
 - The final report (SRC-R2-09B) is a 1200-line, 27-table delivered output covering: executive summary, situation, evidence, challenges (weak demand, image, cluster, skills, EDI, wider economy), findings from mapping (business numbers, digital/creative industries, cultural sectors, workforce, supply chain, clustering, GVA), skills, equality/diversity, local scene.
-- The final report was accepted by the client (confirmed by Iain 2026-09-09).
+- The final report was accepted by the client (confirmed by Iain 26/09/09).
 - The proposal claims extensive method reuse; the final report demonstrates the method applied to LCR.
 
 **What to code:**
@@ -281,14 +281,14 @@ These test rule application without expected labels in the coder packet. Prior e
 
 **Question:** Identify one atomic proposed cross-sector mechanism; state what would disconfirm it and what occurrence evidence this draft supplies.
 
-**Source:** SRC-R2-10: "CDEC challenges paper V2 - draft" (Apr 24, 2012) — 89 lines, 9KB
+**Source:** SRC-R2-10: "CDEC challenges paper V2 - draft" (12/04/24) — 89 lines, 9KB
 
 **What's in the source:**
 - The paper proposes that closer collaboration between creative industries and ICT sectors would transform the digital economy.
 - The key mechanism: "If sectors representing roughly 5% of GVA (ICT) were pulling together with another 6.4% of GVA [creative industries], the outcome could be truly transformative."
 - The paper identifies convergence as the driver: digital technologies disrupting value chains, creating new markets, enabling new business models.
 - It proposes that the CDEC (Catapult for the Connected Digital Economy) should foster collaboration across sectors.
-- The paper is a draft (V2 - draft) but was finalised (confirmed by Iain 2026-09-09). Fifth Sector had an advisory/consultative role.
+- The paper is a draft (V2 - draft) but was finalised (confirmed by Iain 26/09/09). Fifth Sector had an advisory/consultative role.
 - The paper provides no occurrence evidence — it proposes a mechanism, it does not document its operation.
 
 **What to code:**
@@ -307,7 +307,7 @@ These test rule application without expected labels in the coder packet. Prior e
 
 **Question:** Identify one atomic monetary baseline proposition and distinguish amount, basis, review and intervention attribution.
 
-**Source:** SRC-R2-11: "Kirklees Creative Industries Mapping 2024 Final report" (Sep 23, 2024) — 809 lines, 80KB
+**Source:** SRC-R2-11: "Kirklees Creative Industries Mapping 2024 Final report" (24/09/23) — 809 lines, 80KB
 
 **Scope:** Executive summary and economic-impact methodology only.
 
@@ -317,7 +317,7 @@ These test rule application without expected labels in the coder packet. Prior e
 - There were 1,698 active cultural and creative businesses in 2024, an increase of 184 (15%) since 2022.
 - The report uses LinkedIn workforce profiling, BRES/IDBR data, and GVA calculation methodology (Appendix 1).
 - The GVA figure is a baseline measurement of the sector's economic scale, not an attribution of intervention effect.
-- The report was accepted by the client (confirmed by Iain 2026-09-09).
+- The report was accepted by the client (confirmed by Iain 26/09/09).
 
 **What to code:**
 - `claim_type`: Contextual/baseline finding (GVA measurement).
@@ -342,7 +342,7 @@ These test tender requirement capture and gate decisions, not present eligibilit
 
 **Purpose:** Buyer-owned staging; real criteria; conflicting dates; missing attached requirements.
 
-**Source:** SRC-R2-12: "LCR Screen Sector Research Invitation to Quote" (Apr 28, 2026) — 153 lines, 7KB
+**Source:** SRC-R2-12: "LCR Screen Sector Research Invitation to Quote" (26/04/28) — 153 lines, 7KB
 
 **What's in the source:**
 - Buyer: Liverpool City Council (with LCR Combined Authority funding).
@@ -370,8 +370,8 @@ These test tender requirement capture and gate decisions, not present eligibilit
 **Purpose:** Explicit analytical requirements; clarification hierarchy; mandatory capability and contract unknowns.
 
 **Sources:**
-- SRC-R2-13: "British Council RFP — UK_1412" (Aug/Sep 2026) — 517 lines, 37KB
-- SRC-R2-14: "British Council Clarifications" (Sep 3, 2026) — 994 lines, 221KB (XLSX)
+- SRC-R2-13: "British Council RFP — UK_1412" (Aug/26/09) — 517 lines, 37KB
+- SRC-R2-14: "British Council Clarifications" (26/09/03) — 994 lines, 221KB (XLSX)
 - SRC-R2-15: "British Council Annex1 Agreement" — 493 lines, 93KB (draft agreement)
 
 **What's in the sources:**

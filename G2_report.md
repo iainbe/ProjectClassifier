@@ -1,10 +1,10 @@
 # G2 Report: Stage 1 Pilot Completion and Full Portfolio Screening Decision
 
-**Date:** 2026-09-08
+**Date:** 26/09/08
 **Prepared by:** Devin (AI) for Iain Bennett review
 **Status:** PROVISIONAL — G2 rollout recommendation withdrawn; R0–R1 methodology repair authorised only
 
-> **Correction recorded 2026-09-08 (R0):** The original sections 1–7 below are retained as superseded history, not current findings or advice. Stage 1 was prematurely described as complete. The linked pilot tables were header-only; independent coding, adjudication, source verification and recoding were not completed as required. Codebook v1.0 is an unvalidated historical draft. Do not rely on the historical claims of competitor superiority, reasons for tender losses, realised outcomes, permission status or absence of portfolio evidence. Original G1 approval remains valid; the approved repair sequence pauses substantive reassessment. Current governance, repair actions and the M1 package are appended after section 7. M1, M2, M3 and G2 remain unapproved. No external reuse or publication is authorised by this document.
+> **Correction recorded 26/09/08 (R0):** The original sections 1–7 below are retained as superseded history, not current findings or advice. Stage 1 was prematurely described as complete. The linked pilot tables were header-only; independent coding, adjudication, source verification and recoding were not completed as required. Codebook v1.0 is an unvalidated historical draft. Do not rely on the historical claims of competitor superiority, reasons for tender losses, realised outcomes, permission status or absence of portfolio evidence. Original G1 approval remains valid; the approved repair sequence pauses substantive reassessment. Current governance, repair actions and the M1 package are appended after section 7. M1, M2, M3 and G2 remain unapproved. No external reuse or publication is authorised by this document.
 
 ---
 
@@ -260,7 +260,7 @@ This would require separate approval and resourcing.
 
 ## 8. Current governance and methodology repair — supersedes sections 1–7
 
-**Recorded:** 2026-09-08
+**Recorded:** 26/09/08
 **Authority:** revised #megaplan at `/Users/iainbe/.devin/plans/plan-0ac1cf8fd25bede9.md`, approved for R0–R1 only.
 **Current phase:** R0 complete; R1 method and test-design preparation in progress. No substantive reassessment has restarted.
 
@@ -269,10 +269,10 @@ This would require separate approval and resourcing.
 | Decision ID | Decision | Evidence / scope | Owner | State |
 |---|---|---|---|---|
 | DEC-001 | Original G1 pilot approval retained | User approved original scope, ten projects, ManMet inclusion and portable Sheets/Docs-compatible format in the preceding conversation; no new historical approval date inferred | Iain | Historical approval |
-| DEC-002 | Withdraw premature Stage 1 completion and G2 recommendation | Audit found empty linked records, incomplete source verification and missing independent calibration; original narrative retained above as superseded history | Devin | Recorded 2026-09-08 |
+| DEC-002 | Withdraw premature Stage 1 completion and G2 recommendation | Audit found empty linked records, incomplete source verification and missing independent calibration; original narrative retained above as superseded history | Devin | Recorded 26/09/08 |
 | DEC-003 | Use both saved lens interpretations, separately labelled | User selected both review-pass and original-methodology definitions; canonical installed skills were not located | Iain | Approved in conversation |
-| DEC-004 | Approve revised plan for R0–R1 only | User approval via plan-approval control; small test before full pilot, Iain independent coding/commercial review plus AI checks, explicit gate decisions | Iain | Approved 2026-09-08 |
-| DEC-M1 | Method and exact bounded-test approval | Candidate v1.1, aligned templates/schemas, rule checks, source manifest and reviewer protocol required | Iain | Approved 2026-09-08 — R2 bounded source verification and coding only |
+| DEC-004 | Approve revised plan for R0–R1 only | User approval via plan-approval control; small test before full pilot, Iain independent coding/commercial review plus AI checks, explicit gate decisions | Iain | Approved 26/09/08 |
+| DEC-M1 | Method and exact bounded-test approval | Candidate v1.1, aligned templates/schemas, rule checks, source manifest and reviewer protocol required | Iain | Approved 26/09/08 — R2 bounded source verification and coding only |
 | DEC-M2 | Restart full ten-project/five-opportunity pilot | Requires accepted bounded-test results and adjudication | Iain | Not approved |
 | DEC-M3 | Accept corrected pilot as G2-ready | Requires populated, reviewed and recoded pilot records | Iain | Not approved |
 | DEC-G2 | Full portfolio rollout | Separate approval of reconciled scope, method, reviewers and workload | Iain | Not approved |
@@ -382,7 +382,7 @@ Paths below are taken from the existing session’s extraction/file records, not
 This is a fixed fifteen-original manifest serving twelve claim units and two opportunities. Physical extraction may cover an approved file completely to preserve context; analytical reading/coding remains restricted to the sections above and directly necessary qualification/provenance. Do not mine unrelated claims. No other archive documents, online search, client contact or platform/data linkage is authorised by M1 unless explicitly added.
 
 **Known dependencies/limits:**
-- Original filenames for SRC-R2-03 (`241106 FG2G Update.docx`) and SRC-R2-07 (`230125 CoSTAR Case ad Delivery.docx`) were verified against the archive on 2026-09-08; both are correct as stated, not typos.
+- Original filenames for SRC-R2-03 (`241106 FG2G Update.docx`) and SRC-R2-07 (`230125 CoSTAR Case ad Delivery.docx`) were verified against the archive on 26/09/08; both are correct as stated, not typos.
 - A stated "attached technical brief" or contract referenced by SRC-R2-12 may be needed for definitive compliance. It is not assumed present or absent. Log the gap and HOLD; seek a named addition rather than crawl the folder.
 - SRC-R2-14 may be unreadable with currently exposed tools. A standard-library ZIP/XML reader can potentially extract workbook values/sheet addresses without installing software, but this is only a proposed route; formulas/cached values, hidden sheets and formatting still need original inspection. If available tools cannot do this faithfully, request a user-exported version of this exact workbook and approval to add its identity to the manifest.
 - The retained CoSTAR packet does not include an award record; it tests the limit of inference from a bid, not final adjudication of the consortium outcome.
@@ -450,7 +450,7 @@ This section concerns method design only, not completed source validation.
 
 B /skin, /thad, /deepthink and /blindspot are specified in candidate templates for R2; they have not been newly applied to project evidence in R1. Synthetic rule examples illustrate their expected boundaries only.
 
-**Lens review of M1 design (2026-09-08):** Both A and B lens interpretations were applied to the M1 design package before presentation. Six gaps were identified and repaired:
+**Lens review of M1 design (26/09/08):** Both A and B lens interpretations were applied to the M1 design package before presentation. Six gaps were identified and repaired:
 1. RULE-21 added: descriptive fields cannot contradict controlled fields (A /skin).
 2. SRC-R2-03 and SRC-R2-07 filenames verified against archive (A /deepthink).
 3. `method_family` explicitly excluded from agreement protocol (A /deepthink).
@@ -460,7 +460,7 @@ B /skin, /thad, /deepthink and /blindspot are specified in candidate templates f
 
 ### Structural verification log
 
-**State:** completed R1 read-only QA on 2026-09-08. The checks below cover design artifacts only; they are not R2 source-fidelity, double-coding, adjudication, or commercial-review results, which remain not run and not approved.
+**State:** completed R1 read-only QA on 26/09/08. The checks below cover design artifacts only; they are not R2 source-fidelity, double-coding, adjudication, or commercial-review results, which remain not run and not approved.
 
 **A. Schema additive match to codebook §13**
 - All ten CSV headers (01–10) contain the v1.1 additive fields in the order specified by `codebook_v1.1.md` §13.
@@ -478,7 +478,7 @@ B /skin, /thad, /deepthink and /blindspot are specified in candidate templates f
 
 **D. Source manifest scope (M1 §9.2–9.3)**
 - 15 sources, 12 claim units, 2 opportunity packets — within the previously approved 10-project / 5-opportunity pilot boundary. No new archive excavation. `extracted_text` derivatives are explicitly non-authoritative.
-- Original filenames for SRC-R2-03 and SRC-R2-07 verified against the archive on 2026-09-08; both correct as stated.
+- Original filenames for SRC-R2-03 and SRC-R2-07 verified against the archive on 26/09/08; both correct as stated.
 - R2 feasibility risks flagged (not M1 blockers): no approved derivative for SRC-R2-14 (.xlsx); historical 200-line partial extracts for several project sources; no derivatives yet for SRC-R2-12/13/15. These must be resolved or declared PARTIAL_EXTRACT before R2 use.
 - R2 coverage limitation acknowledged: claim classification and tender gates are tested more thoroughly than measurement/option design, publication rights, and phase splitting; those receive their first real test in R3.
 
@@ -506,18 +506,18 @@ Approve or return for rework:
 **If approved:** commence R2 only, prepare neutral packets, collect independent labels and stop at M2. **Not approved by M1:** full pilot restart, full portfolio screening, outreach, spending, new software, bid submission, publication or website work.
 
 **M1 approver:** Iain Bennett
-**M1 decision/date:** Approved 2026-09-08. R2 bounded source verification and coding only. Full pilot restart, portfolio screening, outreach, spending, software, bid submission, publication and website work remain not approved.
+**M1 decision/date:** Approved 26/09/08. R2 bounded source verification and coding only. Full pilot restart, portfolio screening, outreach, spending, software, bid submission, publication and website work remain not approved.
 **M2/M3/G2:** not approved.
 
 ---
 
 ## 13. R3 corrected pilot completion and G2 package — supersedes sections 1–7
 
-**Date:** 2026-09-09
+**Date:** 26/09/09
 **Prepared by:** Devin for Iain Bennett review
 **Status:** M3 package — awaiting Iain's decision on whether to accept the corrected pilot as G2-ready
 **Codebook:** v1.3-candidate (7 fixes: 6 from R2 adjudication + CO_AUTHORED_ANALYSIS)
-**Authority:** R0–R1 completed; M1 approved 2026-09-08; R2 completed; M2 decision: R1 rework first; v1.2/v1.3 approved; R3 completed with double-coding
+**Authority:** R0–R1 completed; M1 approved 26/09/08; R2 completed; M2 decision: R1 rework first; v1.2/v1.3 approved; R3 completed with double-coding
 
 ### 13.1 Honest completion matrix
 
@@ -703,9 +703,9 @@ Approve or return for rework:
 - Schemas/templates/history aligned ✓
 - Remaining uncertainty visible and blocks affected reuse rather than entire knowledge base ✓
 
-**M3 APPROVED by Iain 2026-09-09. v1.3 promoted to ACCEPTED PILOT RELEASE. Pilot is G2-ready.**
+**M3 APPROVED by Iain 26/09/09. v1.3 promoted to ACCEPTED PILOT RELEASE. Pilot is G2-ready.**
 
-**Post-M3 validation update 2026-09-09:** 11 validation actions resolved. Key findings:
+**Post-M3 validation update 26/09/09:** 11 validation actions resolved. Key findings:
 - **P10-KIRK policy use CONFIRMED** — Kirklees Council has used £250.9m GVA and other findings in policy decisions. C-R3-033 option_state upgraded from PROPOSED to EXERCISED. This is the first EXERCISED option in the pilot.
 - **P01-NES** — PRIME contractor; v3.12 report ACCEPTED by client.
 - **P02-FGTG** — Fifth Sector was PRIME to Manchester Met (not MMU). Man Met was lead for consortium of GMCA, Growth Company, U Manchester, U Salford, Manchester Met.

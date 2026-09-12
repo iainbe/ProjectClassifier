@@ -1,8 +1,8 @@
 # R2 Coding Comparison — Iain vs Devin
 
-**Date:** 2026-09-09
-**Lock confirmed:** Iain 2026-09-09T08:15:00Z
-**Devin coded:** 2026-09-09T08:30:00Z (without seeing Iain's labels)
+**Date:** 26/09/09
+**Lock confirmed:** Iain 26/09/09T08:15:00Z
+**Devin coded:** 26/09/09T08:30:00Z (without seeing Iain's labels)
 
 ## Summary
 

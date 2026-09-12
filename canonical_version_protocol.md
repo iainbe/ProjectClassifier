@@ -106,7 +106,7 @@ This protocol runs as R1.5 — before R2 source registration:
 
 ## 7. Approval and sequencing
 
-**Approved with additions:** Iain approved the protocol on 2026-09-08 with two additions:
+**Approved with additions:** Iain approved the protocol on 26/09/08 with two additions:
 1. Create a `canonical/` subfolder within each project root containing copies of only the canonical final version(s), to prevent accidental reference to stale versions. Originals remain in place.
 2. Pilot on NES first. Confirm the process works before running the other 9 projects.
 

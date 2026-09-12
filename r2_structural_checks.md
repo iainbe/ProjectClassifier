@@ -1,6 +1,6 @@
 # R2 Structural and Rule Checks
 
-**Date:** 2026-09-09
+**Date:** 26/09/09
 **Codebook version:** v1.1 (candidate)
 
 ## 1. CSV structure checks
@@ -14,7 +14,7 @@
 
 ## 2. Source fidelity checks
 
-- [x] SRC-R2-06 corrected from client quotation (190730 final.docx) to Jan 9 2020 final report PDF — confirmed by Iain
+- [x] SRC-R2-06 corrected from client quotation (190730 final.docx) to 20/01/09 final report PDF — confirmed by Iain
 - [x] SRC-R2-09B added (LIVDCI final report) — accepted by client, confirmed by Iain
 - [x] SRC-R2-11 corrected from Jul 18 version to Sep 23 "final" — confirmed by Iain
 - [x] Old extractions renamed as SUPERSEDED (SRC-R2-06_v1_full_OLD_docx_SUPERSEDED.txt, SRC-R2-11_v1_full_OLD_jul18_SUPERSEDED.txt)

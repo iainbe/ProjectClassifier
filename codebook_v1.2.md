@@ -1,7 +1,7 @@
 # Spillover & Strategic Option Value Codebook v1.2 — R2-revised candidate
 
 **Version:** 1.2-candidate
-**Prepared:** 2026-09-09
+**Prepared:** 26/09/09
 **Status:** METHOD DESIGN ONLY — awaiting approval; no new project classifications or validation results
 **Authority:** revised #megaplan, R0–R1 completed, M1 approved, R2 completed, M2 decision: R1 rework first. This v1.2 candidate addresses the 6 codebook issues identified by R2 adjudication. Approval of v1.2 permits R3.
 **Supersedes:** v1.1-candidate for coding purposes. v1.1 retained for audit trail.

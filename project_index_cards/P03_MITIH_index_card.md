@@ -1,6 +1,6 @@
 # P03-MITIH — Project Index Card (REVIEWED)
 
-**Card status:** REVIEWED — populated from verified claims register (22 claims) and canonical report; consistency confirmed by Iain 2026-09-12.
+**Card status:** REVIEWED — populated from verified claims register (22 claims) and canonical report; consistency confirmed by Iain 26/09/12.
 **Reviewed by:** Devin (claim-driven population, QA lenses) + Iain (consistency confirmation)
 
 ---
@@ -16,21 +16,21 @@
 | `client` | MediaCity Immersive Technologies Innovation Hub (MITIH) — Innovate UK-funded innovation hub at MediaCityUK; summary prepared for Salford City Council | 01_projects.csv + Iain confirmation |
 | `client_contact` | NOT_ESTABLISHED — requires permission check | 09_publication_assets.csv |
 | `reference_permission` | NOT_CONFIDENTIAL — noted in register; formal reference permission still requires check | 01_projects.csv |
-| `commission_date` | 2025-02 (contract Feb 24, 2025) | 01_projects.csv |
-| `completion_date` | 2025-10-25 (report date; accepted ~Oct 24, 2025) | canonical report + register |
-| `contract_value` | £25,000 — Iain confirmed 2026-09-12 | Iain confirmation |
-| `contracting_role` | PRIME — direct contract, confirmed by Iain 2026-09-09 | 01_projects.csv |
+| `commission_date` | 25/02 (contract 25/02/24) | 01_projects.csv |
+| `completion_date` | 25/10/25 (report date; accepted ~25/10/24) | canonical report + register |
+| `contract_value` | £25,000 — Iain confirmed 26/09/12 | Iain confirmation |
+| `contracting_role` | PRIME — direct contract, confirmed by Iain 26/09/09 | 01_projects.csv |
 | `prime_contractor` | The Fifth Sector | 01_projects.csv |
 | `geography` | Greater Manchester / MediaCity (Salford) | report |
 | `sector_focus` | Createch / immersive technologies ecosystem mapping | report |
-| `lifecycle_status` | COMPLETED — Jun 2025 report REJECTED by client for recommendations; Aug 17 + Oct 24 reconciliation attempts; Oct 24 reconciliation report ACCEPTED (Iain confirmed 2026-09-09); findings valid; not confidential but unpublished | 01_projects.csv + Iain confirmation |
+| `lifecycle_status` | COMPLETED — 25/06 report REJECTED by client for recommendations; Aug 17 + Oct 24 reconciliation attempts; Oct 24 reconciliation report ACCEPTED (Iain confirmed 26/09/09); findings valid; not confidential but unpublished | 01_projects.csv + Iain confirmation |
 
 ### A2. Brief summary
 
 | Field | Value | Source |
 |---|---|---|
 | `brief_summary` | The Fifth Sector (Iain Bennett and Jon Bains) mapped Greater Manchester's createch/immersive ecosystem for MITIH — combining labour market analysis (3,847 immersive job postings 2020-2024), social network analysis identifying microbusinesses as bridging organisations, and direct engagement with sector leaders. The report argues immersive production already functions as a convergence space for animation, audio and studio production, identifies underinvestment (only 26 UKRI awards/£2.01M in a decade), and proposes a gated investment sequence rather than unconditional expansion. | report exec summary + C-R3-009-013, C-G2-412-426 |
-| `key_deliverables` | (1) MITIH Createch Ecosystem Report — Strategic Opportunities for Greater Manchester (Oct 25, 2025); (2) MITIH policy playbook | canonical records + extracted_text |
+| `key_deliverables` | (1) MITIH Createch Ecosystem Report — Strategic Opportunities for Greater Manchester (25/10/25); (2) MITIH policy playbook | canonical records + extracted_text |
 | `client_objective` | Identify commercially viable cross-sector integration opportunities and targeted investment cases in GM's immersive/createch ecosystem | report exec summary |
 | `scope_boundary` | GM createch/immersive ecosystem; labour market trends 2020-2024; SNA organisational network; sector-leader engagement; gated investment recommendations | report |
 
@@ -41,17 +41,17 @@
 | `headline_finding` | GM immersive production already functions as a convergence space where animation, audio and studio production work together commercially — but the ecosystem is fragmented, underutilised and at risk, with only 26 UKRI awards (£2.01M) for collaborative creative R&D in a decade | report exec summary + C-R3-009, C-G2-419 |
 | `key_findings` | (1) 3,847 immersive job postings 2020-2024 (+46%, 612→891); (2) employer demand shifted from narrow technical specialisation to collaborative adaptive capability (communication skills +15%, agile +38%, JavaScript -74%, Azure -61%); (3) SNA shows microbusinesses/SMEs act as bridging organisations; (4) documented case: one microbusiness enabled 3-way immersive prototype across education, wellness and animation; (5) only 26 UKRI awards/£2.01M for collaborative creative R&D 2015-2024; (6) RNCM equipment gap identified (£17,000 portable EEG cap); (7) interventions costed £10k-£50k per initiative; (8) traditional innovation funding actively works against stabilising microbusinesses | C-R3-009-013, C-G2-412-426 |
 | `quantified_results` | 3,847 job postings; +46% growth; 51,419 communication-skill postings; 37,229 agile postings; 26 UKRI awards / £2.01M; £17,000 equipment gap; £10k-£50k intervention costs | claims register |
-| `client_decision_use` | June 2025 report rejected for its recommendations; Oct 24 reconciliation report accepted. Gated investment sequence proposed (demand validation → Phase 1 ecosystem strengthening → Phase 2) — option NOT exercised (Iain confirmed 2026-09-12) | 01_projects.csv + C-R3-013, C-G2-426 + Iain confirmation |
+| `client_decision_use` | 25/06 report rejected for its recommendations; Oct 24 reconciliation report accepted. Gated investment sequence proposed (demand validation → Phase 1 ecosystem strengthening → Phase 2) — option NOT exercised (Iain confirmed 26/09/12) | 01_projects.csv + C-R3-013, C-G2-426 + Iain confirmation |
 | `evidence_strength` | HIGH — labour market analysis, SNA, direct testimony, documented prototype case; honest underinvestment finding; but job-posting data is demand proxy not employment count | Derived |
 
 ### A4. Permitted use
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 2026-09-12 | Iain confirmation |
+| `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 26/09/12 | Iain confirmation |
 | `permitted_wording` | Cite as delivered and accepted; honest framing if asked — initial recommendations rejected, reconciliation accepted | Iain confirmation |
 | `expiry` | NOT_ESTABLISHED | 09_publication_assets.csv |
-| `reference_status` | CLEARED for tender naming 2026-09-12 (not confidential); website publication still requires separate gate | Iain confirmation |
+| `reference_status` | CLEARED for tender naming 26/09/12 (not confidential); website publication still requires separate gate | Iain confirmation |
 
 ---
 
@@ -97,9 +97,9 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `card_status` | REVIEWED | 2026-09-12 |
-| `last_reviewed` | 2026-09-12 | 10_review_history.csv |
-| `reviewed_by` | Devin (claim-driven, QA lenses) + Iain (consistency confirmation 2026-09-12) | — |
+| `card_status` | REVIEWED | 26/09/12 |
+| `last_reviewed` | 26/09/12 | 10_review_history.csv |
+| `reviewed_by` | Devin (claim-driven, QA lenses) + Iain (consistency confirmation 26/09/12) | — |
 | `source_claims` | C-R3-009-013, C-G2-412-426 et al (22 claims) | 04_claims.csv |
 | `source_measurements` | M-* for P03 | 06_measurements.csv |
 | `unresolved_issues` | (1) client_contact NOT_ESTABLISHED; (2) reference_permission formal clearance required despite not-confidential note | 07_validation_actions.csv |

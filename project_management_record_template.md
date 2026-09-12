@@ -56,7 +56,7 @@
 ### Every deliverable draft sent
 - [ ] _Date:_ Version filed under `canonical/` (or named consistently with version records)
 - [ ] _Date:_ Emerging findings noted below (headlines, any quantified numbers)
-- [ ] _Date:_ Client reaction/problems recorded — including any rejection or revision request **as it happens** (P03 lesson: Jun 2025 rejection was only reconstructable via register notes)
+- [ ] _Date:_ Client reaction/problems recorded — including any rejection or revision request **as it happens** (P03 lesson: 25/06 rejection was only reconstructable via register notes)
 
 ### Every client meeting / workshop
 - [ ] _Date:_ Anything the client did with the work noted (decision-use evidence)

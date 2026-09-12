@@ -1,7 +1,7 @@
 # Spillover & Strategic Option Value Codebook v1.1 — repair candidate
 
 **Version:** 1.1-candidate
-**Prepared:** 2026-09-08
+**Prepared:** 26/09/08
 **Status:** METHOD DESIGN ONLY — awaiting M1; no new project classifications or validation results
 **Authority:** revised #megaplan, R0–R1 approval. M1 permits a bounded test; M2 permits full pilot reassessment; M3 accepts the calibrated version; G2 separately authorises full screening.
 

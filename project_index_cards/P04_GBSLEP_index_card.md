@@ -1,6 +1,6 @@
 # P04-GBSLEP — Project Index Card (REVIEWED)
 
-**Card status:** REVIEWED — populated from full read of canonical report (SRC-R2-03/SRC-R2-04); consistency confirmed by Iain 2026-09-12 (contract value, co-lead contribution, findings).
+**Card status:** REVIEWED — populated from full read of canonical report (SRC-R2-03/SRC-R2-04); consistency confirmed by Iain 26/09/12 (contract value, co-lead contribution, findings).
 **Reviewed by:** Devin (full read, QA lenses) + Iain (consistency confirmation)
 
 ---
@@ -16,10 +16,10 @@
 | `client` | Greater Birmingham & Solihull Local Enterprise Partnership (GBSLEP) | 01_projects.csv |
 | `client_contact` | David Furmage, Katie Judge (named in acknowledgements) | SRC-R2-03 p5 |
 | `reference_permission` | NOT_ESTABLISHED | 09_publication_assets.csv |
-| `commission_date` | ~2017-05 (tender May 2017) | file system metadata |
-| `completion_date` | 2017-12-13 (main report) / 2018-08-15 (exec summary final) | canonical version record |
-| `contract_value` | NOT_DISCLOSED — Iain confirmed 2026-09-12 | VAL-R3-009 |
-| `contracting_role` | SUBCONTRACTOR to BOP Consulting — co-lead with Jonathan Todd (then of BOP); Iain confirmed 2026-09-12 | 01_projects.csv + Iain confirmation |
+| `commission_date` | ~17/05 (tender 17/05) | file system metadata |
+| `completion_date` | 17/12/13 (main report) / 18/08/15 (exec summary final) | canonical version record |
+| `contract_value` | NOT_DISCLOSED — Iain confirmed 26/09/12 | VAL-R3-009 |
+| `contracting_role` | SUBCONTRACTOR to BOP Consulting — co-lead with Jonathan Todd (then of BOP); Iain confirmed 26/09/12 | 01_projects.csv + Iain confirmation |
 | `prime_contractor` | BOP Consulting | 01_projects.csv |
 | `geography` | Greater Birmingham & Solihull (Birmingham, Bromsgrove, Cannock Chase, East Staffordshire, Lichfield, Solihull, Tamworth, Wyre Forest) | SRC-R2-03 p6 |
 | `sector_focus` | Creative industries / creative economy mapping | SRC-R2-03 |
@@ -30,7 +30,7 @@
 | Field | Value | Source |
 |---|---|---|
 | `brief_summary` | GBSLEP commissioned BOP Consulting to map the scale and output of the Creative Economy across the LEP area. The study covered not just cultural organisations and creative businesses but the thousands of people deploying creative talents in other sectors. Fifth Sector co-led the work as subcontractor (with Jonathan Todd, then of BOP). | SRC-R2-03 Executive Summary + Iain confirmation |
-| `key_deliverables` | (1) Main report: GBSLEP Creative Economy report (Dec 13, 2017, 1138 paras, 54 tables, 99-page PDF); (2) Executive summary final (Aug 15, 2018) | canonical version records |
+| `key_deliverables` | (1) Main report: GBSLEP Creative Economy report (17/12/13, 1138 paras, 54 tables, 99-page PDF); (2) Executive summary final (18/08/15) | canonical version records |
 | `client_objective` | Evidence to demonstrate the scale and economic contribution of creative skills across the GBSLEP economy, including creative workers in non-creative sectors | SRC-R2-03 Executive Summary |
 | `scope_boundary` | Full creative economy mapping across GBSLEP geography; four supply chains (Creative Content, Creative Experiences, Creative Originals, Creative Services); 10 local authority annexes; consultation workshops | SRC-R2-03 Contents |
 
@@ -48,10 +48,10 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 2026-09-12 | Iain confirmation |
+| `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 26/09/12 | Iain confirmation |
 | `permitted_wording` | Cite as co-led with BOP Consulting (Jonathan Todd) — do not claim sole authorship | Iain confirmation |
 | `expiry` | NOT_ESTABLISHED | 09_publication_assets.csv |
-| `reference_status` | CLEARED for tender naming 2026-09-12; website publication still requires separate gate | Iain confirmation |
+| `reference_status` | CLEARED for tender naming 26/09/12; website publication still requires separate gate | Iain confirmation |
 
 ---
 
@@ -63,7 +63,7 @@
 |---|---|---|
 | `methods_used` | Creative economy mapping using BRES, ONS/NOMIS, LinkedIn (69,400 profiles), Meetup, UKCES data; four supply chain taxonomy; three consultation workshops; ONS Virtual Microdata Lab access; 54 data tables | SRC-R2-03 credits, methodology |
 | `method_innovation` | Described by BOP as "a significant innovation in terms of studies of creative sectors in UK core cities" — mapping creative workers in non-creative sectors at LEP level; LinkedIn + Meetup alternative data sources alongside official statistics; four supply chain taxonomy | SRC-R2-03 Executive Summary |
-| `method_evolution` | 5 phases: tender (May 2017) → report drafting (Nov 2017) → final report (Dec 2017) → executive summary iteration (Nov 2017–Aug 2018) → post-publication modification (Jul 2018, DF CHANGES) | changelog |
+| `method_evolution` | 5 phases: tender (17/05) → report drafting (17/11) → final report (17/12) → executive summary iteration (17/11–18/08) → post-publication modification (18/07, DF CHANGES) | changelog |
 | `breakthrough_points` | Creative Economy (wider than Creative Industries) concept — mapping creative occupations in other sectors; LinkedIn freelance/self-employed analysis to address NOMIS undercount | SRC-R2-03 |
 | `spillover_types_identified` | KNOWLEDGE (creative skills in non-creative sectors); PRODUCT (creative content/services in supply chains); NETWORK (cluster analysis); OPTION (creative economy as platform for wider growth) | 04_claims.csv |
 | `spillover_evidence_strength` | KNOWLEDGE: DOCUMENTED (32,000 cross-sector occupations); PRODUCT: DOCUMENTED (supply chain GVA figures); NETWORK: DOCUMENTED (cluster analysis, 11x Crafts concentration); OPTION: INTERPRETATION (creative economy as growth platform) | Derived |
@@ -79,7 +79,7 @@
 | `transfer_conditions` | Access to LinkedIn data (commercial or API), ONS microdata access, local stakeholder network for consultation, supply chain taxonomy | Derived |
 | `data_dependencies` | BRES, ONS/NOMIS, LinkedIn (69,400 profiles), Meetup, UKCES, DCMS Economic Estimates, Companies House | SRC-R2-03 credits |
 | `access_requirements` | ONS Virtual Microdata Lab access; LinkedIn data access; Meetup data; client stakeholder network | SRC-R2-03 |
-| `effort_estimate` | ~7 months for main report (May–Dec 2017); executive summary took additional 8 months to finalise | Notes |
+| `effort_estimate` | ~7 months for main report (May–17/12); executive summary took additional 8 months to finalise | Notes |
 | `reuse_examples` | NOT_ESTABLISHED | 04_claims.csv |
 
 ### B3. Tender relevance
@@ -89,7 +89,7 @@
 | `tender_relevance_tags` | creative-economy-mapping, lepid, greater-birmingham, subcontractor-role, data-rich-mapping, four-supply-chains, linkedin-analysis | Derived |
 | `buyer_types` | LEP, local authority, economic development body | Derived |
 | `precedent_strength` | MODERATE — substantial quantitative mapping but subcontractor role limits Fifth Sector's direct precedent claim; 2017 date reduces currency | Derived |
-| `precedent_caveats` | Oldest project in pilot (2017); subcontractor role (BOP prime, Fifth Sector co-lead); Jul 2018 DF CHANGES version UNRESOLVED; executive summary took 8 months to finalise | Derived |
+| `precedent_caveats` | Oldest project in pilot (2017); subcontractor role (BOP prime, Fifth Sector co-lead); 18/07 DF CHANGES version UNRESOLVED; executive summary took 8 months to finalise | Derived |
 | `positioning_notes` | Demonstrates capability in large-scale creative economy mapping with alternative data sources; Fifth Sector co-led the work (with Jonathan Todd, then of BOP) though BOP was prime | Derived |
 | `comparable_tenders` | NOT_ESTABLISHED | 08_tenders.csv |
 
@@ -97,10 +97,10 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `card_status` | REVIEWED | 2026-09-12 |
-| `last_reviewed` | 2026-09-12 | 10_review_history.csv |
-| `reviewed_by` | Devin (full read, QA lenses) + Iain (consistency confirmation 2026-09-12) | — |
+| `card_status` | REVIEWED | 26/09/12 |
+| `last_reviewed` | 26/09/12 | 10_review_history.csv |
+| `reviewed_by` | Devin (full read, QA lenses) + Iain (consistency confirmation 26/09/12) | — |
 | `source_claims` | C-G2-* claims for P04 | 04_claims.csv |
 | `source_measurements` | M-G2-* measurements for P04 | 06_measurements.csv |
-| `unresolved_issues` | (1) Jul 2018 DF CHANGES confirmed as post-publication correction by David Furmage; (2) contract value NOT_DISCLOSED | 07_validation_actions.csv |
+| `unresolved_issues` | (1) 18/07 DF CHANGES confirmed as post-publication correction by David Furmage; (2) contract value NOT_DISCLOSED | 07_validation_actions.csv |
 | `superseded_by` | None | — |
