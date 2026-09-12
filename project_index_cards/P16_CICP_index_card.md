@@ -38,7 +38,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | Cite as design contribution (subcontractor), not programme ownership | rules |
+| `citation_status` | DELIVERED_WORK (contribution claim — subcontractor, not owner) | rules |
+| `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
 | `permitted_wording` | "Contributed sector/workforce mapping and methodology design to the UKRI/AHRC CICP evaluation approach (with BOP Consulting and Frontier Economics)" | Derived |
 
 ## B. Inward-facing side

@@ -14,7 +14,6 @@
 | `project_name` | Wakefield Our Year 2024 — programme evaluation | register |
 | `client` | Wakefield Council | register |
 | `client_contact` | NOT_ESTABLISHED | — |
-| `reference_permission` | NOT_ESTABLISHED | — |
 | `commission_date` | 24/01 | register |
 | `completion_date` | 25/11 (final report 25/11/19) | source |
 | `contract_value` | NOT_DISCLOSED | — |
@@ -47,7 +46,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | REVIEW_PENDING — used in T01 bid (Wakefield Our Year cited) | T01 |
+| `citation_status` | DELIVERED_WORK (cited in T01) | T01 |
+| `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
 | `permitted_wording` | "Evaluation of Wakefield's £4.2m Our Year 2024 — 640,651 engagements, model adopted as WYCA/ACE template" | Derived |
 | `expiry` | NOT_ESTABLISHED | — |
 | `reference_status` | INTERNAL → cleared for tender via T01 use; website gate separate | T01 record |

@@ -14,7 +14,6 @@
 | `project_name` | British Council Kotor Exchange Pilot — UK expert contribution to the Western Balkans Creative Economy Ministerial Meeting (Berlin Process) | register + folder |
 | `client` | British Council (FCDO-funded — Iain-confirmed, not in extract) | register + Iain |
 | `client_contact` | British Council WB programme team (Tara Solesbury — EWG report author; contract via BEYONDSTUDIO_CONTRACT0060 + addendum) | folder docs |
-| `reference_permission` | NOT_ESTABLISHED — check before citing (FCDO context) | — |
 | `commission_date` | 25/05 — Kotor ministerial 27-28 May 2025 (Iain confirmed: Kotor 2025 vs Herceg Novi 2026 = two events) | register + Iain |
 | `completion_date` | Ministerial phase complete 25/05; 2026 Berlin Process materials (briefing 18/05/26, EWG report 25/06/26) = Herceg Novi 2026 follow-on — CONFIRMED part of same CEC work (Iain 26/09/12) | folder |
 | `contract_value` | NOT_DISCLOSED — contract + addendum in folder | contract docs |
@@ -47,7 +46,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | REVIEW_PENDING — FCDO context needs permission check | — |
+| `citation_status` | DELIVERED_WORK (phase complete) | — |
+| `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
 | `permitted_wording` | Cite as "UK expert contribution to the British Council Western Balkans creative economy ministerial (Kotor, May 2025)" — Herceg Novi 2026 follow-on TBC — ministerial outcomes are attributable to the process, not solely to Fifth Sector | Derived |
 | `expiry` | NOT_ESTABLISHED | — |
 | `reference_status` | INTERNAL — tender citation allowed with accurate attribution; website gate separate | Derived |

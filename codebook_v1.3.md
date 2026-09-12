@@ -145,6 +145,8 @@ Use only approved local extraction facilities; no uploads, new dependencies or a
 
 `commercial_reuse`: INTERNAL_ONLY / ANONYMISED_DRAFT / PERMISSION_PENDING / APPROVED_NAMED / PROHIBITED. Default INTERNAL_ONLY. ANONYMISED_DRAFT requires approval for that particular external use; anonymisation alone is not clearance. PERMISSION_PENDING requires evidence the request was actually sent.
 
+`citation_status` (index cards, 26/09/12): PUBLIC_REPORT / DELIVERED_WORK / LIVE_WORK / UNSUBMITTED — what we may truthfully say we did. Distinct from `commercial_reuse`: citation in a bid is a fact about usage, not a permission. PUBLIC_REPORT requires accurate attribution incl. co-authors/consortium. `reference_permission` (ESTABLISHED / NOT_ESTABLISHED default) governs naming the client as a referee — a separate question from citing the work. "APPROVED via use" is banned.
+
 `permission_status`: NOT_REQUESTED / UNKNOWN / REQUEST_SENT / APPROVED / REFUSED / EXPIRED. `rights_status`: UNKNOWN / PENDING / CLEARED / RESTRICTED / PROHIBITED. `consent_status`: UNKNOWN / REQUIRED_NOT_OBTAINED / OBTAINED / NOT_APPLICABLE. Each is scope-specific, with document/evidence reference. Public data does not automatically imply consent is unnecessary; record the applicable legal/privacy assessment.
 
 `publication_status`: INTERNAL_ONLY / CANDIDATE / APPROVED / PUBLISHED / WITHHELD / EXPIRED. APPROVED requires exact wording, destination/use, claim IDs, named approver, approval date and rights/consent assessment. PUBLISHED requires separate publication authorisation and actual publication evidence. No such approvals are created during R1.

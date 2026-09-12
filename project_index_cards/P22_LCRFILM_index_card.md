@@ -13,7 +13,6 @@
 | `project_id` | P22-LCRFILM | 01_projects.csv |
 | `project_name` | LCR Film and TV Production Fund Evaluation | SRC-G2-017/030 |
 | `client` | Liverpool Film Office / Liverpool City Region | register |
-| `reference_permission` | NOT_ESTABLISHED | — |
 | `commission_date` | 20/09 | register |
 | `completion_date` | interim 21/02/04; final 25/06/09 | sources |
 | `contract_value` | NOT_DISCLOSED | — |
@@ -45,7 +44,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | APPROVED via use — cited in T01 bid | T01 |
+| `citation_status` | DELIVERED_WORK (cited in T01; publication status unconfirmed) | T01 |
+| `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
 | `permitted_wording` | "Liverpool City Region Film & TV Production Fund evaluation — £6.76 leverage per £1 invested" (as used in T01) | T01 + claims |
 | `reference_status` | Completed evaluation, published-report quality | Derived |
 

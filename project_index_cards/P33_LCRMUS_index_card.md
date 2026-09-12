@@ -14,7 +14,6 @@
 | `project_name` | Liverpool City Region Music Economy Report | SRC-G2-028 |
 | `client` | Liverpool City Region | register |
 | `client_contact` | NOT_ESTABLISHED | — |
-| `reference_permission` | NOT_ESTABLISHED — published report, cited in T01 | T01 |
 | `commission_date` | 25 (register year-only) | register |
 | `completion_date` | 26/02/22 (final report) | canonical |
 | `contract_value` | NOT_DISCLOSED | — |
@@ -47,7 +46,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | APPROVED via use — cited in T01 bid as the multiplier precedent | T01 |
+| `citation_status` | PUBLIC_REPORT (consortium co-authored — accurate attribution required) | T01 |
+| `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
 | `permitted_wording` | "Liverpool City Region Music Economy Report — £406m GVA converted to £780m total economic impact" (as used in T01) | T01 + canonical |
 | `expiry` | NOT_ESTABLISHED | — |
 | `reference_status` | Published — the flagship quantified precedent | Derived |

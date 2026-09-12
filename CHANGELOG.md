@@ -150,3 +150,10 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - P69: adoption claims marked EFFECT-REPORTED (external confirmation not located); National Library of Korea corrected
 - P82: FCDO basis marked Iain-confirmed
 - Review blindspots logged: (a) docx paragraph-only scanning misses tables; (b) grep for "£N" misses bare numbers under currency headers — verification must extract tables + check bare numerics
+
+## 26/09/12 — Two-field citation model adopted; challenges 10-11 closed
+
+- New model (Iain-approved): citation_status (PUBLIC_REPORT/DELIVERED_WORK/LIVE_WORK/UNSUBMITTED — what we may truthfully say) + reference_permission (ESTABLISHED/NOT_ESTABLISHED — may we name the client as referee). "APPROVED via use" banned — usage is a fact, not a permission
+- Applied to all 12 draft cards; card template + codebook_v1.3 + AGENTS.md updated — the model now governs how claims are cited in reports and bids
+- P75: direct proposal £10k incl VAT (Iain) — PRIME confirmed
+- P79: lifecycle corrected to REPORTING_COMPLETE — next phase pending client agreement on data format for CoSTAR Showcase bid reuse

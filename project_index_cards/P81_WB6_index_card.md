@@ -14,7 +14,6 @@
 | `project_name` | WB6 Creative Economy Pulse — skills-based creative economy baseline and dashboard for the Western Balkans | folder + client note |
 | `client` | British Council (regional programme) | folder + emails |
 | `client_contact` | Kate O'Connor (kateoconnor.consulting) — client-side consultant | email headers |
-| `reference_permission` | NOT_ESTABLISHED — live work; ask before citing | — |
 | `commission_date` | 26/01 (register); PoC reframe client note 26/07/08 | register + docs |
 | `completion_date` | ONGOING — baseline draft issued 26/08/20, awaiting BC approval | folder |
 | `contract_value` | Phase 1: £5,000; pipeline £5k→£80-100k→£150-300k — VERIFIED in client note v2 table. NB: stages in flux — departure of key BC staff member mid-project caused re-scoping confusion (Iain 26/09/12) | Pulse PoC Reframe v2 + Iain |
@@ -47,7 +46,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | REVIEW_PENDING — live work; used in T01 bid with honest "live current work" wording | T01 record |
+| `citation_status` | LIVE_WORK | T01 record |
+| `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
 | `permitted_wording` | "Live current work for British Council — baseline draft delivered, awaiting approval" — do NOT cite as published/delivered | T01 precedent |
 | `expiry` | N/A (live) | — |
 | `reference_status` | INTERNAL — citation as live work only; approval gates website use | Derived |

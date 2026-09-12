@@ -13,9 +13,9 @@
 | `project_id` | P75-LANC | 01_projects.csv |
 | `project_name` | True North: Future Landscapes — AHRC Creative Cluster Application | SRC-G2-074 |
 | `client` | Lancaster University | register |
-| `contracting_role` | Places evidence commission — role TBC; paid status UNCONFIRMED (no payment doc found — earlier "remittance advice" claim was incorrect) | corrected 26/09/12 |
+| `contracting_role` | PRIME — direct proposal to Lancaster University | Iain 26/09/12 |
 | `commission_date` | 25/12 | register |
-| `contract_value` | NOT_DISCLOSED — fee status UNCONFIRMED | corrected 26/09/12 |
+| `contract_value` | £10,000 including VAT — direct proposal | Iain 26/09/12 |
 | `geography` | Lancaster / North | register |
 | `sector_focus` | Nature-Culture-Tech creative cluster | application |
 | `lifecycle_status` | BID_SUBMITTED — awaiting AHRC outcome | register |
@@ -41,7 +41,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | Outcome pending — cite only as "evidence commission delivered into submitted AHRC application" | rules |
+| `citation_status` | LIVE_WORK (bid outcome pending) | rules |
+| `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
 | `permitted_wording` | "Evidence work delivered into Lancaster University's AHRC Creative Cluster application (submitted 26/07/16)" — NOT a funded project until outcome known | Derived |
 
 ## B. Inward-facing side

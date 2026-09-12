@@ -14,7 +14,6 @@
 | `project_name` | British Council Creative Economy Council Development — Montenegro, North Macedonia + Western Balkans programme | register |
 | `client` | British Council | register |
 | `client_contact` | NOT_ESTABLISHED — BC WB programme team | — |
-| `reference_permission` | NOT_ESTABLISHED | — |
 | `commission_date` | 25/01 | register |
 | `completion_date` | 26/12 (register end; phase-complete, awaiting instruction) | register |
 | `contract_value` | NOT_DISCLOSED | — |
@@ -47,7 +46,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | REVIEW_PENDING — live programme; BC context needs permission check | — |
+| `citation_status` | DELIVERED_WORK (programme arc) | — |
+| `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
 | `permitted_wording` | Cite as "institutional design for British Council Western Balkans creative economy programme — council models and frameworks delivered across Montenegro, North Macedonia and Albania" | Derived |
 | `expiry` | NOT_ESTABLISHED | — |
 | `reference_status` | INTERNAL — tender use allowed with accurate framing; website gate separate | Derived |

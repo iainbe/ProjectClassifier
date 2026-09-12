@@ -1,7 +1,7 @@
 # P79-CELL — Project Index Card (DRAFT — pending Iain review)
 
 **Project:** CELL — East London creative-technology business case
-**Status:** DELIVERED (business case update 26/03/15) — register notes "WORK IN PROGRESS" — flag
+**Status:** REPORTING COMPLETE — pending client agreement on data format for CoSTAR Showcase bid reuse (Iain 26/09/12)
 **Card created:** 26/09/12 (register-extension batch B2)
 
 ## A. Client-facing side
@@ -17,7 +17,7 @@
 | `commission_date` | 25/01 | register |
 | `contract_value` | NOT_DISCLOSED | — |
 | `geography` | East London | register |
-| `lifecycle_status` | DELIVERED — but notes say "WORK IN PROGRESS" (interviews outstanding) — confirm | register |
+| `lifecycle_status` | REPORTING_COMPLETE — next phase pending client agreement on presentation of data in form suitable for reuse in CoSTAR Showcase bid (Iain 26/09/12) | Iain |
 | `folder` | `Active projects/2026 CELL` | register |
 
 ### A2. Brief summary
@@ -38,7 +38,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | Delivered work — cite the analysis + thesis | Derived |
+| `citation_status` | DELIVERED_WORK | Derived |
+| `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
 | `permitted_wording` | "Supply-chain analysis and business case for CELL, East London creative-technology connective infrastructure" | Derived |
 
 ## B. Inward-facing side
@@ -54,4 +55,4 @@
 | `tender_relevance_tags` | supply-chain, creative-tech, linkedin-mapping, east-london, connective-infrastructure, business-case | Derived |
 | `comparable_tenders` | P33 (SNA parallel); cluster/network-infrastructure tenders | register |
 | `card_status` | DRAFT — pending Iain walkthrough | 26/09/12 |
-| `unresolved_issues` | (1) lifecycle DELIVERED vs "work in progress" — confirm; (2) whether 15 outstanding interviews completed; (3) CELL decision on business case | register |
+| `unresolved_issues` | (1) whether 15 outstanding interviews completed; (2) client agreement on data format for CoSTAR Showcase reuse — pending | Iain |

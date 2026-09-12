@@ -39,7 +39,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | In-progress — cite as commissioned live work only | rules |
+| `citation_status` | LIVE_WORK (in progress) | rules |
+| `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
 | `permitted_wording` | "Commissioned by the Beatles Legacy Group to update the Beatles heritage economic impact study" | Derived |
 
 ## B. Inward-facing side

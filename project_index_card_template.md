@@ -51,7 +51,8 @@ This side summarises what is externally referenceable. Every field must trace to
 
 | Field | Description | Source |
 |---|---|---|
-| `commercial_reuse` | Current reuse permission level | 09_publication_assets.csv |
+| `citation_status` | What we may truthfully say we did: PUBLIC_REPORT / DELIVERED_WORK / LIVE_WORK / UNSUBMITTED. Citation in a bid is a fact about usage, not a permission | 09_publication_assets.csv + card review |
+| `reference_permission` | Whether client has agreed to be named as a referee: ESTABLISHED / NOT_ESTABLISHED (default) | permission_status in 04_claims.csv |
 | `permitted_wording` | Exact wording approved for external use | 09_publication_assets.csv |
 | `expiry` | Any expiry on permitted use | 09_publication_assets.csv |
 | `reference_status` | Whether this project can be named in tenders | permission_status + rights_status |
@@ -118,7 +119,7 @@ This side captures methodological significance, repeatability and tender relevan
 2. **R2 update:** Diagnostic coding may populate or correct some fields. Status remains PROVISIONAL.
 3. **R3 review:** Full pilot review populates all fields from reviewed records. Iain confirms consistency between card and underlying evidence. Status: REVIEWED. R3 is the final approval gate for index cards.
 4. **Ongoing:** Card is updated when claims, measurements, permissions or project status change. Each update is recorded in review history. Status returns to PROVISIONAL until next review confirms consistency.
-5. **Tender use:** Only REVIEWED cards with `reference_status=CLEARED` and `commercial_reuse >= APPROVED_NAMED` may be used in tender responses. PROVISIONAL cards are internal reference only.
+5. **Tender use:** Only REVIEWED cards with `reference_status=CLEARED` and `citation_status` of PUBLIC_REPORT or DELIVERED_WORK may be used in tender responses. Naming the client as a referee additionally requires `reference_permission=ESTABLISHED`. PROVISIONAL cards are internal reference only.
 
 ## D. Future: website searchability (separate later approval)
 

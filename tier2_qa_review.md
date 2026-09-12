@@ -590,3 +590,11 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 
 - P16 corrected to £61m (UKRI official figure); P33 lever menu verified+completed; P75 fabrication removed; P69 adoption strength marked; P82 FCDO user-confirmed
 - Two review false positives (P81 phases, P33 £75m) traced to same blindspot: table data invisible to paragraph/grep checks
+
+
+---
+
+# Pass 20: Citation model (26/09/12)
+
+- Two-field model replaces "APPROVED via use" across cards, template, codebook, AGENTS.md — separates factual work-claims from client-reference permission
+- P79 lifecycle inconsistency resolved (reporting complete; Showcase-reuse phase pending client agreement)

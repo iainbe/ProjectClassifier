@@ -130,6 +130,26 @@ For testimony-based EFFECT claims (where evidence is a stakeholder quote, not co
 
 Example: C-G2-056 CoSTAR attribution — testimony-based; rival_explanations added noting University of York, Wakefield Council, Production Park and national CoSTAR programme as co-contributors.
 
+## Citation rules (two-field model — 26/09/12)
+
+Every index card and project record separates two questions that must never be conflated:
+
+1. **`citation_status`** — what may we truthfully say we did? Values:
+   - `PUBLIC_REPORT` — published public document; citation needs no licence but attribution must be accurate (name co-authors/consortium)
+   - `DELIVERED_WORK` — completed client work; factual claim of work done. Being cited in a bid (e.g. T01) is a fact about usage, NOT a permission
+   - `LIVE_WORK` — in progress or outcome pending; cite only as current/live work, never as delivered
+   - `UNSUBMITTED` — internal/draft; not citable externally
+
+2. **`reference_permission`** — may we name the client as a referee? Values:
+   - `ESTABLISHED` — client has agreed to be named/contacted
+   - `NOT_ESTABLISHED` — default; must be confirmed before naming the client as a reference or reproducing client-identifying content on the website
+
+Rules:
+- "APPROVED via use" is banned — usage is a fact, not a permission
+- Client-supplied data (e.g. LFO Filming Activity Reports) is cited as client data incorporated into our evaluation, not as our measurement
+- Contribution claims (subcontractor/associate work) must name the contracting structure — never imply Fifth Sector ownership of a consortium or prime's deliverable
+- Figures and method labels must match the canonical document's own language; bid-level characterisations (e.g. "Green Book-compatible") are flagged as characterisations unless the document uses them
+
 ## Tender vs project distinction
 
 Tender documents (RFQs, RFPs, ITQs, bid responses) for unsuccessful or pending bids are NOT projects. They belong in `08_tenders.csv` only. Do not create project records for:

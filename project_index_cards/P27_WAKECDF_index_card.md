@@ -14,7 +14,6 @@
 | `project_name` | Wakefield Cultural Development Fund — Local Programme Evaluation | register + folder |
 | `client` | Wakefield Council | register |
 | `client_contact` | NOT_ESTABLISHED | — |
-| `reference_permission` | NOT_ESTABLISHED | — |
 | `commission_date` | 22 (register year-only) | register |
 | `completion_date` | 25/09 (CDF Evaluation FINAL 25/09/29) | source |
 | `contract_value` | NOT_DISCLOSED | — |
@@ -47,7 +46,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | REVIEW_PENDING — T01 cited it as "Green Book-compatible monetisation"; the report does not use that label — wording risk if probed | T01 |
+| `citation_status` | DELIVERED_WORK (cited in T01) | T01 |
+| `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
 | `permitted_wording` | VERIFIED-safe: "value-for-money evaluation of Wakefield's CDF — £22.03m total value from £4.38m grant, incl. £6.06m leverage". "Green Book" label defensible only as method characterisation — needs provenance | extract |
 | `expiry` | NOT_ESTABLISHED | — |
 | `reference_status` | INTERNAL → cleared for tender use in T01; website gate separate | T01 record |

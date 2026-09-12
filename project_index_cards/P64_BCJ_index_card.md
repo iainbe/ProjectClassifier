@@ -14,7 +14,6 @@
 | `project_name` | Wakefield Our Year 2024 Business Case Justification | register (Iain decoded BCJ 26/09/12) |
 | `client` | Wakefield Council | register |
 | `client_contact` | NOT_ESTABLISHED | — |
-| `reference_permission` | NOT_ESTABLISHED | — |
 | `commission_date` | 22/10 (corrected from 23/01 per source dates) | sources 22/10, 22/12 |
 | `completion_date` | 23/03 (BCJ template draft 23/03/24) | folder |
 | `contract_value` | NOT_DISCLOSED | — |
@@ -47,7 +46,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | REVIEW_PENDING | — |
+| `citation_status` | DELIVERED_WORK | — |
+| `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
 | `permitted_wording` | "Business Case Justification for Wakefield's Our Year 2024 — delivered; WYCA confirmed funding" — a measurable funding-unlock outcome | Derived |
 | `expiry` | NOT_ESTABLISHED | — |
 | `reference_status` | INTERNAL — strong precedent once Iain approves naming | Derived |
