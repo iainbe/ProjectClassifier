@@ -1,5 +1,7 @@
 # Drive Sweep Agent — what it is and how to test it
 
+**Access:** Jon — see `tools/JON_ACCESS.md` first; you read reports via web Drive, you don't run this script (it needs a local mount).
+
 **What it is:** a small Python script that periodically scans Fifth Sector's Google Drive and reports anything new, changed or missing compared to the project register — so bids, sources and new projects can't silently go uncaptured.
 
 **Why it exists:** the project registers were rebuilt retroactively and we found gaps everywhere (unregistered projects, unrecorded bid outcomes, misplaced values). The sweep makes drift visible *as it happens* instead of years later.

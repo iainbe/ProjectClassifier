@@ -524,3 +524,10 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 ## Session-closure automation
 - tools/check_session_closure.sh → repo pre-commit hook; verified blocking a test commit missing artefacts
 - Caveat: enforces the audit trio at commit time; behavioural rule (AGENTS.md) still governs in-session updates
+
+
+---
+
+# Pass 12: Jon access clarification (26/09/12)
+
+- Jon's access is web-Drive only (jon@thefifthsector.co.uk) — README_sweep's run instructions assumed local mount; corrected via JON_ACCESS.md (web route canonical; share links/file IDs for Places; scripts are Iain-side)

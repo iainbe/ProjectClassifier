@@ -100,3 +100,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - FIXED: dead seen_folders code removed; stale TND- example in workflow; README path unusable for Jon (full path + machine-varies note); 6 review-history IDs normalised to hyphenated
 - DOCUMENTED: sweep blindspots — empty folders invisible, renames show as delete+new, gdoc stubs approximate, DRIFT fires on own session edits
 - AUTOMATION: tools/check_session_closure.sh installed as repo pre-commit hook — commits changing toolkit files without all 3 audit artefacts (CHANGELOG/audit/history) are blocked; --no-verify bypass for emergencies
+
+## 26/09/12 — Jon access note
+
+- tools/JON_ACCESS.md: web-Drive route (jon@thefifthsector.co.uk) is canonical access; share links/file IDs (not filesystem paths) for pulling into Places; script-running requires local mount (Iain-side)
+- README_sweep.md updated to point at access note
