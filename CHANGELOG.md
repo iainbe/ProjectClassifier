@@ -28,3 +28,12 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **QA of overall method** using SHELDON/THAD/DEEPTHINK/BLINDSPOT/SKiN/WISHFUL: register schema-drift found (15 rows); walkthrough method validated; self-attestation provenance preserved
 - **Audit:** Pass 4-5 appended to `tier2_qa_review.md`
 - **Skills:** reviewer skill family committed to ProjectClassifier repo (commit 40113e0)
+
+## 26/09/12 — Drive sweep agent installed
+
+- `tools/drive_sweep.py` + `tools/sweep_config.json`: periodic Drive scanner — detects new/changed/deleted files, classifies gaps (UNREGISTERED_PROJECT?, POSSIBLE_TENDER, DRIFT, SOURCE_UPDATED, UNREGISTERED_SOURCE), folder-level collapse
+- `sweep_reports/` created; SWEEP_LATEST.md always current + dated snapshots
+- launchd job installed: weekday 09:00 (`com.thefifthsector.toolkit-sweep`)
+- Register fix: drive_folder_path filled for P75, P78, P79, P80, P81, P82, P83 (Active projects folders)
+- Baseline findings: Creative Scotland Salaries (69 files) unregistered; ~10 unregistered Active proposals folders; 5,805 unregistered sources in registered project folders
+- AGENTS.md session-start rule added (check SWEEP_LATEST.md)

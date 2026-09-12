@@ -191,3 +191,6 @@ Before ending ANY work session that changed toolkit files, update ALL THREE:
 3. `10_review_history.csv` — audit-trail row
 Plus per-project `project_changelogs/` entries for any project whose data/card changed.
 A session is NOT complete until these are written. This is not optional and does not require a user reminder.
+
+### Session-start rule
+At the start of any toolkit session: check `sweep_reports/SWEEP_LATEST.md` for new Drive findings (unregistered projects, possible tenders, unregistered sources, register drift) and surface anything needing attention before other work.

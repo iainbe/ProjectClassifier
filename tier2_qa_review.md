@@ -482,3 +482,13 @@ P02 £25k; P03 £25k; P10 £10k×3 cycles (£30k total); P01+P04 NOT_DISCLOSED; 
 
 ## Schema drift found #3: 08_tenders.csv
 T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shifting last 4 values +1 → review_batch values landed in overflow. Repaired: realigned all 3 rows. Pre-existing quirk noted: T04 as_at_date=AS_AT (literal value, outside repair scope).
+
+---
+
+# Pass 8: Drive sweep agent (26/09/12)
+
+- tools/drive_sweep.py scans watch roots (Active projects/proposals, Archive, toolkit) vs registers; classifies gaps; collapses to folder-level; notifies via macOS + SWEEP_LATEST.md
+- Tuning fixes during build: ';'-split multi-path folders; non-project folder list (Foresight, ONS data, PM, Templates); tender-check-before-project-check ordering; folder-level dedup
+- Register data fix: 7 Active-projects folder paths filled (P75, P78, P79, P80, P81, P82, P83)
+- Baseline: 24,511 files tracked. Real findings: Creative Scotland Salaries unregistered (needs Iain decision: project row vs bid record); ~10 unregistered Active proposals folders
+- launchd: weekday 09:00 sweeps; logs to sweep_reports/sweep.log

@@ -1,0 +1,66 @@
+{
+  "comment": "Drive sweep matrix \u2014 what counts as a gap. Edit watch_roots/patterns to tune.",
+  "drive_root": "/Users/iainbe/Library/CloudStorage/GoogleDrive-iain@thefifthsector.co.uk/My Drive",
+  "watch_roots": [
+    {
+      "path": "Active projects",
+      "severity": "HIGH",
+      "reason": "live work \u2014 new folders = unregistered projects, new files = unregistered sources"
+    },
+    {
+      "path": "Active proposals",
+      "severity": "HIGH",
+      "reason": "live bids \u2014 needs bid submission record"
+    },
+    {
+      "path": "Archive projects",
+      "severity": "LOW",
+      "reason": "late-arriving archive material"
+    },
+    {
+      "path": "Archive proposals",
+      "severity": "LOW",
+      "reason": "late-arriving archive material"
+    },
+    {
+      "path": "Website 2026/spillover-toolkit",
+      "severity": "DRIFT",
+      "reason": "register edits outside governed sessions"
+    }
+  ],
+  "ignore_patterns": [
+    "^\\.",
+    "~\\$",
+    "\\.tmp$",
+    "\\.bak$",
+    "^\\.git",
+    "Icon\\r",
+    "\\.icloud$"
+  ],
+  "icloud_suffix": ".icloud",
+  "tender_patterns": [
+    "proposal",
+    "tender",
+    "rfp",
+    "itq",
+    "itt",
+    "bid",
+    "application",
+    "submission",
+    "sqq",
+    "ppq",
+    "case for support",
+    "case_for_support"
+  ],
+  "state_file": "tools/sweep_state.json",
+  "report_dir": "sweep_reports",
+  "register_projects": "01_projects.csv",
+  "register_sources": "02_sources.csv",
+  "register_tenders": "08_tenders.csv",
+  "non_project_folders": [
+    "Active projects/Foresight",
+    "Active projects/ONS data",
+    "Active projects/Project management",
+    "Active projects/Templates"
+  ]
+}
