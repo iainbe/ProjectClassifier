@@ -492,3 +492,11 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Register data fix: 7 Active-projects folder paths filled (P75, P78, P79, P80, P81, P82, P83)
 - Baseline: 24,511 files tracked. Real findings: Creative Scotland Salaries unregistered (needs Iain decision: project row vs bid record); ~10 unregistered Active proposals folders
 - launchd: weekday 09:00 sweeps; logs to sweep_reports/sweep.log
+
+
+---
+
+# Pass 9: Sweep docs + protocol draft (26/09/12)
+
+- tools/README_sweep.md created for external testing (Jon); covers honest limitations (gdoc stubs, baseline noise, detection-only)
+- naming_and_transition_protocol.md drafted pending Iain/Jon approval — recommends MOVE (not duplicate) for bid→project; flags existing naming violations (e.g. '2026 Maritime Belfast ' trailing space)
