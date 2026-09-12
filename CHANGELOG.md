@@ -1,3 +1,30 @@
+## 26/09/12 — Cardless batch complete: all 68 projects carded
+
+**Trigger:** "keep working through all outstanding cards, in batches"
+
+### Coverage
+- 46 new PROVISIONAL cards written across 6 thematic batches (evaluations, strategies A/B, bids/Derby/Lancaster, BOP-era specialist, misc/live)
+- `project_index.csv` regenerated: **68 rows, 68 with cards, 0 cardless, 0 orphans**
+- Per-project changelogs created for all newly carded projects
+- `11_permission_requests.csv` extended: +26 seeded client asks (PR-10..PR-35), all DRAFTED — tracker now covers all carded projects' clients; none sent
+
+### Notable finds during batch drafting
+- **P11-ELFC** is the toolkit's origin document: GLA Economics note explicitly demanded spillover/externalities evidence (2017); contains the earliest gated investment sequence (4-stage, LCF-relocation trigger)
+- **P32-SURREY**: Farnborough aerospace→screen — cleanest literal cross-sector spillover case in the register
+- **P50-UKRI**: "Liverpool second most filmed UK city outside London, 6x public-investment return" + innovation-access gap (<20% grants, 4 scale-ups) — the CoSTAR origin engagement
+- **P46**: Capital Investment Leverage Framework + levelling-up arithmetic + clustering premia (223%/170%) — strongest method-export set
+- **P51**: evaluation-without-baseline design; **P43**: honest failure analysis — the integrity pair
+- **P57**: SIC-misclassification quantification (games +50-60 businesses; experiences 4.4x) — sharpest hidden-economy method demo
+- **P52**: documented non-adoption (council could not accept recommendations) — recorded honestly; P84 proposal cites it as cautionary precedent
+- **P52 option states** flagged for possible revision toward EXPIRED given non-adoption — needs verification
+- **P85**: PO0127+PO0130+INV-1371 registered — £10k engagement is documentary, not just confirmed
+- **P86**: 92.83% scorecard registered; award pending post-standstill
+
+### Flagged for Iain (collated in session report)
+- ~15 contracting_role blanks (LEAD_CONSULTANT noted but arrangement unrecorded)
+- Option-exercise status unverified across most PROPOSED options
+- Several adoption/outcome questions per card's unresolved_issues
+
 ## 26/09/12 — Cardless batch 1 + project_id cascade
 
 **Trigger:** "Proceed" (cardless card production after draft walkthrough)

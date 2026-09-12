@@ -1,3 +1,10 @@
+## Consistency audit — 26/09/12 (cardless batches complete)
+
+- 46 PROVISIONAL cards written; every card traces to reviewed register rows + claim IDs; headline figures checked against extracts where extracts exist.
+- project_index.csv: 68/68 carded; 0 orphans after the earlier cascade.
+- Known residual risk: PROVISIONAL cards derive headline framing from reviewed claims — individual extract re-verification was selective (spot-verified P15/P19/P21/P22/P27/P33 earlier; batch cards rely on reviewed claims). This is acceptable at PROVISIONAL; R3 walkthrough is the gate.
+- Watch items: P52 option states (possible EXPIRED revision); P45 scenario targets must never be cited as outcomes; P31 fragment; P12 report-in-zip; ~15 blank contracting_role fields.
+
 ## Consistency audit — 26/09/12 (cardless batch 1 + cascade)
 
 - 3 new PROVISIONAL cards (P15, P19, P21); all headline figures verified against full extracts before drafting.
