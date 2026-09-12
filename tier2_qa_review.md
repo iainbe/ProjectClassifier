@@ -539,3 +539,13 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 
 - JON_ACCESS.md + README_sweep.md folded into tools/JON_SWEEP_GUIDE.md (web-testable checklist for Jon)
 - Gap found while writing: sweep didn't match proposals folders to 08_tenders — T01's own folder flagged UNREGISTERED_PROJECT?. Fixed: tenders 'Drive folder:' notes added (T01, T02; T06-T12 already had them); TENDER_FILE category added
+
+
+---
+
+# Pass 14: Batch B cards (26/09/12)
+
+- 6 priority cards produced from register+folder evidence: WB chain (P81/P82/P83) now forms the ODA positioning argument; Wakefield cluster (P27/P64/P69) forms the Green Book + funding-unlock arc
+- Corrections found during card work: P82 year error (25→26, file evidence), P64 start (23/01→22/10)
+- Honest flags retained in cards rather than smoothed: P81 baseline unapproved, P83 implementation incomplete, P27 internal FTE inconsistency, P64 thin sources
+- 57→51 projects remain without cards

@@ -110,3 +110,10 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - tools/JON_SWEEP_GUIDE.md: single doc for Jon (access route, what sweep does, categories, web-testable checklist, limits, feedback format); replaces JON_ACCESS.md + README_sweep.md (deleted)
 - Sweep improvement: Active proposals folders now matched to 08_tenders via 'Drive folder:' notes (T01/T02 recorded) — registered tender folders classify TENDER_FILE instead of UNREGISTERED_PROJECT?
+
+## 26/09/12 — Repo pushed + register-extension batch B (6 cards)
+
+- Repo pushed to GitHub (16 commits, 40113e0..2e7d2d7)
+- Priority cards created: P81-WB6 (skills-pivot + 3-phase gated funding), P82-KOTOR (ministerial declaration — dates corrected 25→26 on file evidence), P83-BCWB (3-country institutional design, honest incompleteness), P27-WAKECDF (Green Book anchor: £22.03m from £4.38m), P64-BCJ (funding-unlock, option EXERCISED), P69-OURYEAR (£4.2m evaluation, model adopted by WYCA/ACE)
+- All DRAFT pending Iain walkthrough; flags: P81 lacks claims/sources rows, P82 year-error confirm, P64 WYCA letter to register
+- project_index.csv regenerated
