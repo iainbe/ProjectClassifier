@@ -1,3 +1,8 @@
+## 26/09/12 — Section E corrections (Iain)
+
+- **P86**: standstill ends 26/09/18 — FUTURE event (my "confirmable now" was wrong; award confirmation follows standstill + contract prep). Notes corrected.
+- **T01**: proposed contract start recorded as PROVISIONAL Sep/Oct 2026 subject to contract (per UK1412milestones — 12-month programme, Dec 2026-Aug 2027 milestones). Award decision date not in RFP extract — remains pending.
+
 ## 26/09/12 — Section D verification items (P69/P64)
 
 **Trigger:** "Continue to D"; user corrections: funding letter is Council-held (not provided to us); committee reports requested and withheld — use report budget figures.

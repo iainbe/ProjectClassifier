@@ -1,3 +1,8 @@
+## Consistency audit — 26/09/12 (Section E)
+
+- P86 standstill reclassified FUTURE (26/09/18 > 26/09/12); award not yet confirmable.
+- T01 proposed start Sep/Oct 2026 recorded PROVISIONAL subject to contract; award date absent from RFP — flagged pending, not inferred.
+
 ## Consistency audit — 26/09/12 (Section D)
 
 - P64: funding evidence re-anchored to report figures (£850k WYCA) — public-record £800k variance flagged; letter confirmed EXTERNAL_HELD (Council), not a search gap.
