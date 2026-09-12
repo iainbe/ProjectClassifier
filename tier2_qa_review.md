@@ -565,3 +565,10 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 # Pass 16: P82 phase boundary resolved (26/09/12)
 
 - Iain confirmed single CEC programme arc (Kotor ministerial → council development → Herceg Novi follow-on); P82/P83 remain distinct register rows, cross-linked
+
+
+---
+
+# Pass 17: Batch B2 cards (26/09/12)
+
+- 6 cards; flags: P79 DELIVERED vs notes "work in progress"; P75 outcome pending; P78 in-progress citable only as commissioned

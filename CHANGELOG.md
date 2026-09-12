@@ -129,3 +129,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - Iain: Kotor 2025 + Herceg Novi 2026 + council development = same Creative Economy Councils work, all phase-complete awaiting instruction
 - Cross-links recorded on P82/P83; P82 card updated
+
+## 26/09/12 — Batch B2: 6 citation-value index cards
+
+- P33-LCRMUS (£406m→£780m multiplier — flagship quantified precedent), P22-LCRFILM (£6.76:1 leverage + EXPIRED-forecast example), P75-LANC (AHRC CICP2 pending), P16-CICP (national evaluation design, subcontractor), P78-BEATLES (~£10k live), P79-CELL (74k LinkedIn supply-chain map)
+- All DRAFT pending Iain walkthrough; index regenerated
