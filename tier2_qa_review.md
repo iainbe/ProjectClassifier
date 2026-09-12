@@ -1,3 +1,11 @@
+## Consistency audit — 26/09/12 (Section D)
+
+- P64: funding evidence re-anchored to report figures (£850k WYCA) — public-record £800k variance flagged; letter confirmed EXTERNAL_HELD (Council), not a search gap.
+- P69: adoption claim right-sized to report's own offer-of-template wording + committee-noting evidence.
+- SRC-R5-015 registered: BCJ commission PO now documentary.
+- Method lesson: when client holds the confirming document, record EXTERNAL_HELD + the best public/report evidence — do not keep hunting or imply in-house possession.
+- Residual: reference_permissions all NOT_ESTABLISHED (client exercise required).
+
 ## Consistency audit — 26/09/12 (P86 outcome letter)
 
 - SRC-R5-013 verified against .eml body: sender Kelly Neill (creativescotland.com), date 26/09/04, score table decoded verbatim.

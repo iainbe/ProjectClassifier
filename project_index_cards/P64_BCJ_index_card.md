@@ -21,7 +21,7 @@
 | `prime_contractor` | The Fifth Sector | register |
 | `geography` | Wakefield district | register |
 | `sector_focus` | Business case justification — cultural programme funding | register |
-| `lifecycle_status` | COMPLETED + SUCCESSFUL — WYCA confirmed funding to Wakefield Council (Iain 26/09/12) | register + C-R4-001 |
+| `lifecycle_status` | COMPLETED + SUCCESSFUL — WYCA £850k funding per OY final report budget (report figure takes precedence — BBC reported £800k, flag £50k variance; committee reports requested from Council and NOT provided). BCJ commission documented (PO 6040004958, £15k, 22/11/25, SRC-R5-015); confirmation letter held by Wakefield Council not us (Iain 26/09/12); BCJ commission documented (PO 6040004958, £15k, 22/11/25, SRC-R5-015) | register + C-R4-001 |
 
 ### A2. Brief summary
 
@@ -39,7 +39,7 @@
 | `headline_finding` | BCJ delivered and successful — WYCA confirmed funding to Wakefield Council; the case unlocked a £4.2m cultural programme | C-R4-001 |
 | `key_findings` | (1) framework extensible by design (add/remove programme elements); (2) baseline derived from 2019/2021 cultural surveys + Creative Wakefield data; (3) Corporate Implications Schedule linked YoC24 to council priorities and finances; (4) logic chain mapped activities→outputs→outcomes→benefits realisation | C-G2-247-252 |
 | `quantified_results` | Programme funded: £4.2m (per P69 evaluation); funding value of BCJ itself undisclosed | claims |
-| `client_decision_use` | DECISIVE — the business case directly secured the funding decision | C-R4-001 |
+| `client_decision_use` | DECISIVE — business case secured the funding decision; attribution basis: USER_CONFIRMED mechanism + temporal sequence + external funding record; letter itself Council-held | C-R4-001 + SRC-R5-015 |
 | `evidence_strength` | MEDIUM-HIGH — outcome confirmed by Iain; confirmation letter/document not yet registered as source | Derived |
 
 ### A4. Permitted use

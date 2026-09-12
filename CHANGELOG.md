@@ -1,3 +1,22 @@
+## 26/09/12 — Section D verification items (P69/P64)
+
+**Trigger:** "Continue to D"; user corrections: funding letter is Council-held (not provided to us); committee reports requested and withheld — use report budget figures.
+
+### P64-BCJ — evidence basis now precise
+- WYCA confirmation letter: held by Wakefield Council, not provided to Fifth Sector — recorded as EXTERNAL_HELD, search closed (not a gap).
+- Committee reports: requested repeatedly and not provided — documented unavailability, per Iain do not rely on this route.
+- Funding evidence anchored to report budget figures: WYCA **£850k** per OY final report (BBC public record says £800k — £50k variance flagged; report takes precedence).
+- New documentary source: SRC-R5-015 — Wakefield Council PO 6040004958 (£12,500+VAT, 22/11/25) for the Impact Framework/Strategic Assessment — the BCJ commission itself now PO-evidenced.
+- Attribution status: funding VERIFIED; BCJ→unlock = USER_CONFIRMED mechanism + temporal sequence.
+
+### P69-OURYEAR — adoption claim right-sized
+- Report's own wording is offer-of-template ("offers valuable learning... provides a template"), not claimed adoption — card now reflects offer + committee-noting.
+- External support found anyway: WYCA CH&S Committee 14/03/25 resolved findings inform "planning and approving future large-scale cultural activities"; Years of Culture campaign continues across districts.
+- Report budget verified in extract: £4.2m total, £1.965m/47% external, £850k WYCA, £2.4m Council budgets, £359,699 match (43.1% vs 3-5% typical).
+
+### Residual D item
+- reference_permission NOT_ESTABLISHED on all cards — requires client-permission exercise (Iain-led); checklist offered.
+
 ## 26/09/12 — Section C: all five quantified inconsistencies resolved
 
 **Trigger:** user instruction "in order" — working the Section C register one at a time.
