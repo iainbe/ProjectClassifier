@@ -1,0 +1,728 @@
+Liverpool City Region Production Fund 
+Evaluation Report
+Prepared by: Iain Bennett and Lynne McCadden
+The Fifth Sector, June 2025
+Contents
+Liverpool City Region Production Fund	1
+Evaluation Report	1
+Contents	3
+Executive Summary	1
+1. 	Introduction and Background	2
+2. 	Programme Activity and Performance	3
+2.1 	Production portfolio and investment analysis	3
+2.2 	Recoupment and reinvestment performance	4
+2.3 	Development Fund impact	5
+2.4 Skills outcomes	5
+3. 	Wider Economic and Cultural Value	6
+3.1 	Skills and Professional Development	6
+3.2 	Cultural and Social Impact	7
+3.3 	Ecosystem Development and Supply Chain Growth	8
+3.4 	COVID-19 Resilience and Recovery	9
+3.5	Emerging skills infrastructure	9
+For Combined Authority	10
+For Industry Development	10
+4. Regional Ecosystem Development	11
+4.1 	Transformation of Liverpool Film Office	11
+4.2 	Development of Regional Production Hubs	11
+4.3 	Infrastructure Development	12
+5. 	Path Forward (2024-2027)	14
+5.1 	Agreed extension model	14
+5.2 	Operational improvements	14
+6. Conclusions and Recommendations	14
+Conclusions	14
+Recommendations	15
+Appendices	17
+Appendix A	17
+Evolution of the Fund’s performance since 2021 Interim Evaluation	17
+Appendix B	18
+Comparative analysis of regional screen production funds	18
+Introduction	18
+B1.	Economic Outcomes and Effectiveness	19
+Regional Development and Infrastructure	21
+B2.	Social Justice and Equality, Diversity, Inclusion	21
+Strongest social justice outcomes	23
+Key learning points	23
+Recommendations for best practice	23
+Appendix C	24
+Indigenous Production Development  - Challenges and Opportunities	24
+Current Challenges for Indigenous Producers	24
+Potential Solutions and Opportunities	25
+Economic, Social and Environmental Impact Analysis: Indigenous producer grant funding scenarios	26
+Executive Summary	26
+Current baseline (2020-2024)	26
+Scenario Analysis Framework	26
+Funding allocation models	26
+C1. Scenario 1: 10% Indigenous Grant Allocation (£280,000)	27
+Economic impacts	27
+Social impacts	27
+Environmental impacts	28
+C2: Scenario 2: 30% Indigenous Grant Allocation (£850,000)	28
+Economic impacts	28
+Social impacts	28
+Environmental impacts	29
+C3: Scenario 3: 50% Indigenous Grant Allocation (£1.41M)	29
+Economic impacts	29
+Social impacts	30
+Environmental impacts	30
+Comparative Risk Analysis	31
+10% Scenario Risks	31
+30% Scenario Risks	31
+50% Scenario Risks	31
+Implementation considerations	31
+Recommendations	32
+Optimal approach: graduated implementation	32
+Critical success factors	32
+Risk mitigation strategies	32
+Conclusion	32
+Tables
+Table 1  Liverpool Production Fund investments	3
+Table 2  Local spend directed by the Production Fund	4
+Table 3 Skills outcomes	5
+Table 4  Growth in local crew capacity	6
+Table 5 Awards and nominations achieved by Fund-backed productions	7
+Table 6  Increase in production facilities across LCR	8
+Table 7 Growth in filming days	11
+Table 8 Growth in inward investment across all LCR boroughs	12
+Table 9  Review of Fund performance since 2021 Interim Evaluation	17
+Table 10  Fund overview and scale	18
+Table 11 Job Creation and Employment Impact	19
+Table 12 Recoupment and Financial Sustainability	19
+Table 13 Funding allocation models	26
+Executive Summary
+The Liverpool City Region Production Fund represents a transformative investment in the region's screen industries, delivering exceptional economic, cultural and social returns. Between 2020 and 2024, the Fund invested £2.82 million across ten high-value productions, generating £24.5 million in direct local spend—a return of £8.69 for every £1 invested, significantly exceeding the target of £8 per £1.
+The Fund has demonstrably catalysed sustained growth across Liverpool City Region's screen ecosystem. 
+Film days across the region have increased from 710 in 2014/15 to a peak of 1,608 in 2018/19, sustaining over 1,200 days annually even through pandemic disruption. 
+Regional inward investment has grown from £8.7 million in 2014/15 to £47 million in 2023/24, representing more than a five-fold increase over the decade. 
+What began as a financial mechanism to attract productions has evolved into a comprehensive engine for screen sector development, stimulating the growth of production hubs across the city region, enabling the Liverpool Film Office to transition from a permits service to a fully-fledged screen agency. 
+The Fund has successfully:
+Created 859 indirect full-time equivalent jobs at an average cost of just £3,284 per job
+Placed 56 trainees across funded productions, building the local talent pipeline
+Achieved 41% recoupment to date (against a 30% target) with 55% anticipated by 2025
+Garnered over 60 award nominations and 19 industry awards. including four BAFTAs and two International Emmys
+Established production hubs across all six LCR boroughs, with significant growth in crew base, facilities, and production companies region-wide
+The Fund's impact extends beyond economics—it has enhanced Liverpool's global profile, developed indigenous talent, and strengthened the entire regional production ecosystem. Based on the Combined Authority's approval, the Fund will continue through June 2027 with reinvestment of recouped funds, maintaining its focus on high-value production while enhancing support for indigenous production companies.
+1. 	Introduction and Background
+Purpose and focus of the evaluation
+This evaluation assesses the Liverpool City Region (LCR) Production Fund, established by Liverpool City Region Combined Authority (LCRCA) and delivered by Liverpool City Council's (LCC) Liverpool Film Office (LFO). Launched in April 2020, the Fund aimed to attract high-value film and TV productions to the region, stimulate local economic growth, support skills development, and enhance Liverpool's profile as a filming destination. The evaluation informs LCRCA's Gateway Review and provides evidence supporting the Fund's continuation beyond December 2024.
+The intervention (project description)
+The LCR Film & Television Production Fund was designed to develop the screen industries across the Liverpool City Region through two interlinked elements:
+Enhancement and expansion of the Liverpool Film Office (LFO) to deliver service across the entire LCR, promoting locations, facilities, and services while optimising service to external investors
+Establishment of a Content Fund to attract high-value projects, enable targeted attraction of production and facilities companies, and improve opportunities for indigenous companies
+Liverpool City Region Combined Authority provided £2 million in initial capital funding to support investment in film and television projects shooting in the region and development funding for new projects with strong LCR-based creative elements. £200,000 in revenue funding created four full-time roles to extend LFO operations across all LCR boroughs. Recapitalisation in October 2021 added £1 million to the Fund with completion extended to December 2024.
+Liverpool Film Office transformation
+A significant success story emerging from this evaluation is the transformation of Liverpool Film Office from a traditional permit-issuing authority to an influential screen development agency. This evolution has enabled LFO to:
+Provide comprehensive production support beyond regulatory services
+Develop strategic industry relationships with commissioners and producers
+Establish cross-sector collaborations with economic development, tourism, and education
+Coordinate screen industry development across all six LCR boroughs
+Position Liverpool as a globally recognised filming destination
+Support sector specific training initiatives and developing new access routes into the TV and film industries for local residents ADDED 
+This transformation is evident in the metrics: LFO now directly supports between 240-340 productions annually across LCR, generating between 1,200-1,600 filming days per year. As referenced in the Government's English Devolution White Paper (page 73), LFO has become a model for regional screen agency development.
+2. 	Programme Activity and Performance
+2.1 	Production portfolio and investment analysis
+The Fund has invested in ten high-value productions between 2020 and 2024, each contributing significantly to the LCR economy while enhancing the region's screen profile. Below is a comprehensive analysis of these investments:
+Table 1  Liverpool Production Fund investments
+Analysis of production spending patterns reveals the Fund's diverse economic impact across the regional economy:
+Table 2  Local spend directed by the Production Fund
+Source: The Fifth Sector of detailed expenditure reports provided by LFO
+This demonstrates that the Fund has generated substantial local economic activity spread across multiple sectors, with significant benefits for local crew (26.1%), studio facilities (18.0%), and local talent (19.7%). The ripple effects extend well beyond the screen sector into hospitality, transportation, and various support services – estimated at £1.89mn in net benefit.
+2.2 	Recoupment and reinvestment performance
+The Fund's investment model requires productions to repay the investment through a negotiated share of sales revenues and net profits. This approach has proven highly successful, with Fund managers securing advantageous recoupment positions (often in first position or joint first position with distributors for international sales), plus profit shares of 4-10% in perpetuity.
+As of October 2024, the Fund has recouped £1,143,287 (41% of total investment), significantly exceeding the target of 30%. By end of 2025, projections indicate 55% recoupment (£1,539,898). This success allows for sustainable reinvestment in future productions, creating a virtuous cycle of screen investment across the region.
+The Combined Authority has approved reinvestment of recouped funds (approximately £1.5 million) to extend the Fund through June 2027. This continuation will enable four additional investments over the next 18 months while the business case is developed for potential further funding from April 2026.
+2.3 	Development Fund impact
+In April 2020, as an agile response to the COVID-19 pandemic, £250,000 of the capital fund was reallocated to provide development investments to LCR-based producers and writers. This emergency pivot proved critical when the sector was completely shut down, providing indigenous companies and individuals with vital income and development capital. The Development Fund attracted 64 applications before closing in December 2020. While modest in scale, this intervention provided crucial support during the industry's darkest hours and helped sustain local creative talent through the pandemic. (See Appendix C, below)
+2.4 Skills outcomes
+Table 3 Skills outcomes
+3. 	Wider Economic and Cultural Value
+3.1 	Skills and Professional Development
+The Fund has made significant contributions to skills development and workforce capacity across Liverpool City Region. Through the 56 trainee positions created directly through funded productions, many individuals have established sustainable careers in the industry. However, Liverpool's skills development approach is evolving rapidly through participation in Screen Alliance North, which represents the UK's most innovative cross-regional skills collaboration. This alliance model has achieved exceptional diversity outcomes (46% working-class, 32% ethnically diverse participants) and comprehensive pathway development that surpasses individual regional approaches.
+The integration of trainee placements with funded productions has proven particularly effective. As one large-scale producer noted: 
+"The training programmes that LFO offers are a model of good practice and really helped us resource the productions in increasingly effective ways, helping people get a foothold in industry and step up. People working on productions were really getting an education out of it."
+The effectiveness of these skills interventions is demonstrated by the growth in local crew capacity across all LCR boroughs:
+Table 4  Growth in local crew capacity
+The increased availability of local crew has created a virtuous cycle, where productions can employ more local talent, building skills which then attract more productions. This cycle has contributed significantly to the growth in local expenditure ratios, from £6.4 returned for each £1 invested in the previous funding cycle to £8.69 in for investment to December 2024.
+3.2 	Cultural and Social Impact
+The cultural impact of the Fund extends far beyond its economic returns. Productions supported by the Fund have received outstanding critical recognition, winning 19 industry awards from more than 60 nominations, including:
+Four BAFTAs (Time Series 1 & Help)
+Two International Emmys (Martin Freeman for The Responder, Help)
+Four Royal Television Society awards (Help; Time Series 1 & S2)
+Rose d'Or (Help)
+Table 5 Awards and nominations achieved by Fund-backed productions
+This recognition has elevated Liverpool's global profile as a centre for premium content creation. The cultural value extends to audience reach: Help reached over 3 million UK viewers while This City is Ours has projected global audience reach through Netflix distribution.
+The social impact manifests in multiple ways:
+Community pride - Productions showcasing Liverpool and the wider region create lasting positive impressions and strengthen local identity
+Local good causes - Productions regularly contribute to community initiatives, with over £31,000 directed to local good causes
+Screen tourism - Following the success of productions like The Responder and Time, visitor interest in authentic Liverpool locations has grown, supported by initiatives like the "Liverpool – The Ultimate Setting" website
+3.3 	Ecosystem Development and Supply Chain Growth
+The Fund has catalysed growth in production services companies throughout the supply chain. Notable examples include:
+AdLib - Expanded audio-visual services specifically for production needs
+Supply 2 Location - Relocated from Manchester to bigger premises in Knowsley
+LA Productions - Expanded post-production facilities through consistent work from funded productions
+Molinare Creative Group - Announced expansion to Liverpool in April 2024, addressing a key gap in post-production capacity
+This ecosystem growth is reflected in the statistics showing increases in production facilities across all LCR boroughs:
+Table 6  Increase in production facilities across LCR
+The ripple effects extend to other sectors, particularly hospitality. Analysis of production budgets shows approximately £1.89 million spent on hotels and subsistence, providing vital midweek business for local accommodation providers—particularly valuable during the COVID recovery period.
+3.4 	COVID-19 Resilience and Recovery
+The Fund played a critical role during the pandemic, when the screen sector in Liverpool became one of the first industries to safely resume operations under strict COVID protocols. This early restart provided economic lifelines to multiple sectors:
+Hotels that would otherwise have remained closed were able to accommodate production crews
+Suppliers and service providers maintained operations through production contracts
+Freelancers who fell through gaps in government support schemes found employment on productions
+Productions including Time and Help, which filmed during the pandemic, collectively spent £250,000 on COVID safety measures, creating additional jobs while ensuring safe working conditions. These productions not only provided immediate economic value but also demonstrated Liverpool's resilience and capability to deliver under challenging circumstances.
+The statistics illustrate this recovery effect. After dropping to 718 filming days in 2020/21 during peak pandemic restrictions, filming days rebounded to 1,210 in 2021/22 and maintained strong levels thereafter, with 1,481 days in 2022/23 and 1,602 days in 2023/24.
+3.5	Emerging skills infrastructure
+Liverpool's skills development landscape is poised for transformation through two key initiatives:
+Screen Alliance North: As a founding member of this cross-regional alliance, Liverpool benefits from shared resources, coordinated training programs, and industry-wide best practices. The alliance's comprehensive pathway system (Connected Campus through Connected Opportunities) provides more robust career development than any single regional approach.
+Liverpool Screen Academy Proposal: Founder and CEO of Hat Trick Productions, Liverpool-born Jimmy Mulville's proposal for a Liverpool-based screen academy, modelled on the successful Londo  Independent Screen Academy, could provide transformative infrastructure for 16+ education. With Department for Education discussions underway and potential private investment from the Friedkin Group, this initiative could:
+Train 50-150 students annually in practical screen skills
+Generate £9-27mn economic impact over five years
+Anchor major infrastructure development at Littlewoods
+Create sustainable pipeline from education to employment
+The combination of Screen Alliance North's collaborative model and a dedicated Liverpool Screen Academy would position the city region as a national leader in screen skills development. Strategic implications of such a development could include:
+For Liverpool Film Office
+Further leverage current Screen Alliance North programme, and make a stronger case for potential funding extensions, to maximise participation in collaborative programmes
+Champion Screen Academy: Actively support Jimmy Mulville's Liverpool Screen Academy proposal through political and industry channels
+Integrate approaches: Ensure Production Fund training requirements align with Screen Alliance North pathways
+For Combined Authority
+Strategic investment: Consider Screen Academy as infrastructure investment, not just education
+Political advocacy: Support Department for Education discussions
+Private sector engagement: Facilitate discussions with Friedkin Group and other investors
+For Industry Development
+Pipeline integration: Connect Screen Academy graduates directly to Production Fund opportunities
+Industry commitment: Secure first-job guarantees from major productions
+Infrastructure synergy: Use Screen Academy as anchor for broader Littlewoods development
+This combination has the potential to provide both collaborative regional benefits and dedicated local infrastructure. The key is coordinated development across all three elements, with the Screen Academy offering itself as critical skills infrastructure, serving as a transformative catalyst for the entire ecosystem.
+4. Regional Ecosystem Development
+4.1 	Transformation of Liverpool Film Office 
+The Fund has enabled Liverpool Film Office to transform from a traditional permit-issuing department to a comprehensive screen development agency. This evolution has significantly expanded LFO's regional reach and impact. Before the Fund, LFO operated primarily within Liverpool proper, focusing on processing permits and managing filming logistics. With the £200,000 revenue funding to create four FTE positions, LFO expanded its operations across all six LCR boroughs, establishing coordinated service provision region-wide. This expanded remit is reflected in annual monitoring data, which shows steady growth in filming activities across previously underserved LCR boroughs:
+Table 7 Growth in filming days
+While overall days showed a slight decrease (largely pandemic-related), the redistribution across the region demonstrates more balanced growth, with particular expansion in Halton, Knowsley, and Wirral.
+4.2 	Development of Regional Production Hubs
+One of the Fund's most significant achievements has been catalysing the development of production hubs throughout the City Region, reducing dependence on Liverpool city centre and creating more balanced economic growth. Emerging production hubs include:
+Wirral (Pensby) - Developed as a base for children's television production, with six productions between 2019-2023
+Halton (The Heath) - Transformed into a significant drama production centre, with filming days increasing from 1 day in 2019 to 126 days by 2022/23
+St Helens (Alexander Business Park) - Emerging as a specialist location for high-value productions, with the Peaky Blinders film utilizing Pilkington's Glass
+Knowsley - Growing facilities base, increasing from 3 facilities in 2020 to 12 by 2023
+This regional development is further evidenced by the growth in inward investment across all LCR boroughs:
+Table 8 Growth in inward investment across all LCR boroughs
+The development of these regional hubs has created more sustainable growth patterns, reduced pressure on Liverpool's city centre locations, and distributed economic benefits more equitably across the region.
+4.3 	Infrastructure Development
+The Fund has directly influenced infrastructure development across LCR, addressing key gaps in production capacity. While The Depot (supported by separate funding but complementary to the Fund) has provided large-scale sound stage capacity, the Fund has supported smaller-scale infrastructure development through its investments:
+Office space - Productions using The Depot also secured flexible office space at the nearby Innovation Park
+Post-production - Molinare Creative Group's expansion to Liverpool directly responds to identified gaps in post-production capacity
+On-location facilities - Supply 2 Location and AdLib have invested in expanded mobile facilities
+Analysis of spend data across all ten productions shows £4.41 million invested in office, studio, and location facilities—creating sustainable demand for continued infrastructure development.
+5. 	Path Forward (2024-2027)
+5.1 	Agreed extension model
+In July 2024, the Liverpool City Council Cabinet approved the submission of a Project Change Request Form to LCRCA that will:
+Re-invest up to £1.5 million of returns from the Fund's existing arrangements in film and TV productions, under the terms of the existing grant funding agreement
+Extend the completion date to 30 June 2027
+This extension maintains the Fund's proven investment model while allowing for strategic enhancements to address emerging needs. The model will continue to focus on attracting high-value productions while incrementally increasing support for indigenous production companies.
+5.2 	Operational improvements
+Based on feedback from producers and stakeholders, several operational improvements will be implemented during the extension period:
+Documentation and guidance - Development of a comprehensive handbook providing clear guidance for production teams at all levels, addressing the common issue of junior production staff being unfamiliar with Fund criteria
+Streamlined reporting - Standardised templates and processes to reduce administrative burden
+Enhanced local supplier integration - Expanded directories of local suppliers, crew, and services
+Post-production capacity development - Working closely with Molinare to develop local post-production capability and training
+These improvements will address the administrative friction identified by some producers while maintaining the Fund's core strengths—its competitive financial offer and the comprehensive support provided by Liverpool Film Office.
+6. Conclusions and Recommendations
+Conclusions
+The Liverpool City Region Production Fund has unequivocally exceeded its objectives, delivering exceptional returns on investment:
+£2.82 million investment has generated £24.5 million in local spend—a ratio of £8.69:£1
+859 indirect FTE jobs created at an average cost of just £3,284 per job
+56 trainees placed on funded productions, strengthening the local talent pipeline
+41% recoupment achieved to date, with 55% anticipated by 2025
+Critical acclaim demonstrated through 19 major industry awards
+Beyond these quantifiable outcomes, the Fund has transformed Liverpool Film Office from a permit-issuing department to a comprehensive screen development agency, catalysed growth across all six LCR boroughs, and enhanced Liverpool's global profile as a premier filming destination. 
+The statistics tell a compelling story of sustained growth. Film days across LCR have increased from 710 in 2014/15 to maintain consistently over 1,200 days annually since 2018/19, even through pandemic disruption. Regional inward investment has grown from £8.7 million in 2014/15 to £47 million in 2023/24—more than a five-fold increase over the decade. Importantly, the Fund has demonstrated adaptability and resilience, particularly during the COVID-19 pandemic when it pivoted to support development activity and facilitated some of the first productions to resume filming under COVID protocols.
+Recommendations
+Continue the Fund through June 2027 as approved, using recouped funds to maintain momentum while preparing for further funding applications
+Implement the planned operational improvements, particularly the comprehensive handbook for production teams to ensure consistent understanding of Fund criteria
+Enhance post-production capacity by supporting Molinare's expansion plans and facilitating training opportunities in post-production specialisms
+Consider small-scale studio development (10-14,000 square feet) to meet the needs of lower budget TV productions, complementing The Depot's larger facilities
+Explore potential for enhanced indigenous producer support within the existing Fund model, potentially through earmarked development allocations
+Maintain the expanded regional focus, continuing to build production hubs across all six LCR boroughs
+Prioritise Screen Academy Development: Support Jimmy Mulville's Liverpool Screen Academy proposal through:
+Advocacy with Department for Education for approval
+Facilitation of location discussions, particularly Littlewoods site
+Coordination with private investors including Friedkin Group
+Integration with existing Screen Alliance North pathways
+Alignment with Production Fund training requirements
+The Liverpool City Region Production Fund represents an exemplary model of targeted public investment generating substantial economic, cultural and social returns. Its extension through 2027 will enable continued growth and development of the LCR screen ecosystem, building on its demonstrated success and addressing emerging opportunities and challenges.
+Appendices
+Appendix A
+Evolution of the Fund’s performance since 2021 Interim Evaluation
+The 2021 interim evaluation, conducted during the COVID-19 pandemic, assessed the Fund's performance during its first, challenging year of operation. Since then, the Fund has demonstrated remarkable growth and resilience:
+Table 9  Review of Fund performance since 2021 Interim Evaluation
+Key Developments Since 2021:
+Geographic Expansion: The percentage of production activity in Liverpool proper has decreased from 81% in 2020/21 to 72% in 2024/25, reflecting successful development of production hubs across other LCR boroughs.
+Industry Recognition: The Fund has achieved unprecedented critical acclaim, with productions winning major international awards including International Emmys and BAFTAs.
+Supply Chain Development: Significant growth in production services companies, with facilities increasing by over 100% across the region.
+Skills Pipeline: The crew base has grown by 77% across LCR, creating a sustainable talent pipeline for future productions.
+Financial Sustainability: Strong recoupment performance has enabled the Fund's extension through 2027 without requiring additional public investment.
+The interim evaluation's recommendation for recapitalization was successfully implemented, with the Fund receiving an additional £1 million in October 2021. This investment has delivered exceptional returns, validating the original assessment of the Fund's potential.
+Appendix B
+Comparative analysis of regional screen production funds
+Introduction
+This appendix provides a comparative analysis of four UK regional screen production funds: Liverpool City Region Production Fund, Northern Ireland Screen's Opening Doors Strategy, Screen Scotland's approach, and the North East Production Fund. The analysis examines economic outcomes, support for indigenous talent, and social justice impacts across these regional interventions.
+Table 10  Fund overview and scale
+The Northern Ireland model demonstrates the most mature and substantial intervention, with significantly higher absolute investment levels. However, Liverpool achieves competitive leverage ratios despite operating at a much smaller scale, suggesting efficient deployment of limited resources.
+B1.	Economic Outcomes and Effectiveness
+Table 11 Job Creation and Employment Impact
+Table 12 Recoupment and Financial Sustainability
+Support for indigenous Producers, Writers and Directors
+Liverpool City Region
+Strengths
+Development Fund provided crucial COVID-19 support to local companies
+Hurricane Films case study demonstrates sustained support for local independents
+Recognition of need for enhanced indigenous producer support in future iterations
+Challenges
+Primary focus on inward investment rather than indigenous development
+Limited dedicated allocation for local companies (recommendation for 10-15% allocation)
+Longer development cycles (4+ years) not well-aligned with fund timescales
+Northern Ireland
+Strengths
+214 development awards to 95 companies (£4.8mn investment)
+Strong leverage of external funding (£0.65 for every £1 invested in development)
+Comprehensive skills development supporting indigenous talent pipeline
+Approach
+Balanced portfolio approach across genres
+Strong support for both incoming and indigenous productions
+Established track record of developing local talent (e.g., series creators, producers)
+Scotland
+Mixed Picture:
+63% of active companies founded in Scotland vs. 37% with branch offices
+Scotland-headquartered companies won more PSB commissions (42 vs. 24) but fewer hours (267 vs. 534)
+Factual specialization (85% of Scotland HQ company hours) creates vulnerability to PSB commissioning trends
+Strong performance in drama (67% of drama commissions from Scotland-headquartered companies)
+North East
+Proactive Approach:
+Explicit requirement for "meaningful co-production" with local companies for out-of-region applicants
+Consideration of "diaspora" talent (those with regional connections now based elsewhere)
+Emphasis on building substantive regional presence rather than just branch offices
+Regional Development and Infrastructure
+Geographic sistribution
+Infrastructure development
+Most effective economic model
+Northern Ireland demonstrates the most comprehensive and mature approach, with substantial investment levels and proven long-term impact.
+However, Liverpool shows remarkable efficiency in generating economic impact from limited resources.
+B2.	Social Justice and Equality, Diversity, Inclusion
+Crew and facilities utilisation
+Liverpool City Region
+26.1% of spend on below-the-line crew
+18% on office, studio and location facilities
+Growth in facilities across all LCR boroughs (113 to 236, +108.8%)
+Redistribution of activity from Liverpool city centre to other boroughs
+Northern Ireland
+Increase in percentage of NI residents working on large-scale productions:
+Crew: target 60% (marginally below but within acceptable limits)
+Heads of Department: 40% target exceeded by 12%
+Strong improvement in local crew utilization over strategy period
+Scotland
+Significant variation in local economic impact:
+IMG (snooker): only 16% of episodes met two+ criteria in Scotland
+Sunset + Vine (bowls): only 21% met two+ criteria
+Most other productions: 57-84% met two+ criteria
+Questions raised about substantive base criterion allowing full allocation to Scotland without meaningful local activity
+Demographic and skills development
+Liverpool City Region
+125 new entrants trained in 2024
+126 entry-level work opportunities across eight departments
+Focus on "Green Skills" and sustainability training
+Connected Campus Liverpool initiative linking education providers
+Northern Ireland
+90% of skills recipients reported enhanced capabilities
+Strong progression pathways (e.g., Production Craft & Technical to "Stepping Up" scheme)
+Comprehensive approach across all skill levels from entry to senior positions
+Scotland
+Recognition of need for off-screen talent development, particularly in under-resourced genres
+Concerns about freelancer vulnerability during commissioning downturns
+Some development teams based in London for proximity to commissioners
+North East
+Explicit commitment to, "address under-representation both on and off-camera in relation to disability, gender, race, socio-economic status, age and sexual orientation"
+Mandatory BAFTA Albert certification for environmental sustainability
+Required contribution to relevant Skills Funds
+Support for indigenous talent
+Liverpool’s participation in Screen Alliance North demonstrates the most innovative approach, with cross-regional collaboration and comprehensive pathways, while Northern Ireland has the most established track record. Proposed development of a Screen Academy for 16+ would further enhance Liverpool’s offer.
+Strongest social justice outcomes
+Liverpool demonstrates the most balanced regional development; as part of Screen Alliance North, it has achieved the most impressive diversity outcomes (46% working-class participants), while North East has the most explicit EDI commitments built into fund criteria. Scotland’s underperformance raises important questions about the effectiveness of current quota allocation methods.
+Key learning points
+Scale vs. Efficiency: Liverpool’s smaller fund has achieved competitive leverage ratios through focused deployment
+Indigenous development: Explicit requirements (North East model) may be more effective than hoping for organic development
+Regional balance: Geographic distribution of benefits requires active management and measurement
+Skills integration: Comprehensive skills development (Northern Ireland model) creates sustainable ecosystem effects
+Quota effectiveness: Current allocation methods may not always deliver intended local economic benefits (Scotland experience)
+Recommendations for best practice
+Hybrid approach: Combine Liverpool's efficiency with Northern Ireland's comprehensiveness
+Indigenous requirements: Adopt North East's explicit co-production requirements for out-of-region applicants
+Skills integration: Implement Northern Ireland's comprehensive skills development approach
+Regional monitoring: Develop Liverpool's geographic distribution monitoring across all funds
+Quota reform: Consider Scotland's experience in reviewing allocation methodologies to ensure genuine local economic impact
+This comparative analysis demonstrates that while each fund operates in different contexts with varying resources, there are clear best practices that could be adopted across regions to maximise economic, cultural, and social justice outcomes.
+Appendix C 
+Indigenous Production Development  - Challenges and Opportunities
+Consultation with Liverpool-based independent producers highlighted, that while the Fund has been highly successful in attracting inward investment, there remains significant untapped potential in supporting indigenous production companies. Many of the challenges identified are structural rather than specific to Liverpool, reflecting broader changes in the UK film and television industry.
+Current Challenges for Indigenous Producers
+Development funding gaps
+"The hardest money for any of us to get is development money"
+Typical requirements of £50,000-£100,000 per project
+Extended development periods (4+ years from concept to screen for independent films)
+Need for patient capital that understands screen industry timelines
+Market access barriers
+"[Investors are] becoming more and more risk-averse because of the amount of money involved in these productions"
+Limited access to commissioners outside London
+"There's about ten writers who can get something made" in UK television
+Increased barriers to entry compared to previous decades
+Structural industry changes
+"It is more challenging now … for independent film producers than it's ever been"
+Consolidation of decision-making power
+Reduced risk-taking by commissioners and broadcasters
+Need for A-list talent and writers to secure financing
+Operational sustainability
+Hurricane Films has been four years without a major feature production
+Reliance on line producing, teaching, and mentoring to "keep the lights on"
+Difficulty maintaining core team between productions
+Potential Solutions and Opportunities
+Local co-production requirements
+Following the Scottish model: require a local co-producer to be attached to any production may offer benefits to both incoming productions (additional funding) and local companies (profile, experience)
+Could be structured as requirement or incentive within the Fund
+Dedicated indigenous production support
+Suggestion for 10% of Fund to be allocated specifically for LCR-based companies
+Could be structured as co-production requirement rather than separate grant
+Alternative funding models
+Interest in slate-based funding approaches (e.g., up to five films/HETV projects rather than individual projects)
+Potential for themed funds (e.g., sustainability-focused "green film fund")
+SEIS investment structures for development funding
+Ecosystem development
+Recognition of talent development: "It's great to see what's happened with Tony Schumacher"
+Opportunities for collaboration with successful local producers like Barrington Paul Robinson
+University partnerships for practical training and mentoring
+The success of local talent like Tony Schumacher (writer of The Responder) and Barrington Paul Robinson (producer stepping up through Fund-supported productions) demonstrates that the ecosystem is producing talent capable of competing at the highest levels.
+Future iterations of the Fund could consider:
+A dedicated indigenous production component 
+Local co-production requirements for incoming productions
+Longer funding cycles that align with independent film development timescales
+Enhanced development funding specifically for LCR-based companies
+Structured mentoring and collaboration opportunities between incoming and local producers
+Economic, Social and Environmental Impact Analysis: Indigenous producer grant funding scenarios
+Executive Summary
+This analysis considers how potential enhancements could build on the Fund's proven success while addressing the specific needs of Liverpool's indigenous production sector, creating a more balanced and sustainable screen ecosystem.
+It examines the implications of allocating 10%, 30%, or 50% of the Liverpool Production Fund to grant funding for indigenous producers, contrasting with the current equity investment model. Each scenario presents distinct trade-offs between immediate economic impact, long-term sector development, and social justice outcomes.
+Current baseline (2020-2024)
+Total Fund: £2.82mn investment
+Local spend generated: £24.5mn (8.69:1 ratio)
+Recoupment: 41% achieved, 55% projected
+Indigenous support: Limited to Development Fund (£250k during COVID)
+Scenario Analysis Framework
+Funding allocation models
+The analysis considers scenarios in which differing proportions of the total Fund are allocated to grants to indigenous (i.e., based and active within) Liverpool City Region:
+Table 13 Funding allocation models
+C1. Scenario 1: 10% Indigenous Grant Allocation (£280,000)
+Economic impacts
+Immediate economic effects
+Reduced leverage ratio from 8.69:1 to approximately 7.8:1
+Estimated local spend reduction: £2.4M (from £24.5M to £22.1M)
+Potential to support 3-4 indigenous projects at £70-90K each
+Minimal impact on overall fund recoupment (projected reduction from 55% to 52%)
+Long-term economic development potential
+Creates sustainable pipeline for indigenous producers
+Reduces dependency on external productions
+Potential for IP retention and long-term revenue generation
+Estimated 5-year economic multiplier: 1.2x due to retained IP value
+Cost-Benefit Analysis
+Cost per indigenous project: £70-90K
+Estimated local spend per project: £200-400K (3-5:1 ratio typical for independent productions)
+Break-even point: 18 months post-production through local economic activity
+Social impacts
+Positive Outcomes
+Direct support for 15-20 local creative professionals
+Enhanced creative autonomy and authentic storytelling
+Improved representation of Liverpool communities on screen
+Strengthened local creative networks and collaboration
+Potential Challenges
+Limited scale may not create critical mass for sector transformation
+Risk of tokenism if poorly implemented
+Possible resentment from excluded indigenous producers
+Skills and Talent Development
+8-12 additional trainee positions on indigenous productions
+Enhanced mentoring opportunities within local community
+Development of indigenous production management capabilities
+Environmental impacts
+Carbon Footprint Reduction
+Estimated 15% reduction in transport-related emissions per indigenous project
+Reduced accommodation requirements (local crews living at home)
+Lower logistics complexity and associated environmental impact
+Sustainable Production Practices
+Indigenous producers more likely to adopt local sustainable practices
+Stronger community engagement in environmental initiatives
+Potential for environmental storytelling reflecting local concerns
+C2: Scenario 2: 30% Indigenous Grant Allocation (£850,000)
+Economic impacts
+Immediate economic effects
+Leverage ratio reduction to approximately 6.2:1
+Estimated local spend: £19.8M (reduction of £4.7M from baseline)
+Support for 8-12 indigenous projects at £70-100K each
+Recoupment projection reduces to 45% due to grant element
+Long-term Economic Development
+Critical mass achieved for sustainable indigenous sector
+Potential for format development and international sales
+Enhanced local supply chain development serving indigenous productions
+Estimated 5-year economic multiplier: 1.8x due to ecosystem effects
+Market development
+Creation of viable indigenous production sector
+Reduced market dependency on external productions
+Development of Liverpool-specific content genres and formats
+Enhanced negotiating position with broadcasters and platforms
+Social impacts
+Transformative outcomes
+Support for 40-60 local creative professionals directly
+Significant improvement in on-screen representation
+Development of authentic Liverpool storytelling voices
+Enhanced community pride and cultural identity
+Sector diversification
+Support across multiple genres and formats
+Development of underrepresented voices and perspectives
+Creation of sustainable career pathways for local talent
+Enhanced gender and ethnic diversity in senior creative roles
+Community engagement
+Stronger connections between productions and local communities
+Increased local audience engagement with Liverpool-made content
+Development of community-based production initiatives
+Enhanced educational and outreach opportunities
+Environmental impacts
+Significant carbon reduction
+Estimated 25% reduction in overall fund carbon footprint
+Development of local sustainable production practices
+Reduced reliance on external resources and logistics
+Enhanced focus on environmental storytelling and awareness
+Circular Economy development
+Growth in local equipment sharing and resource pooling
+Development of sustainable production service providers
+Enhanced waste reduction and recycling practices
+Community-based environmental initiatives
+C3: Scenario 3: 50% Indigenous Grant Allocation (£1.41M)
+Economic impacts
+Immediate economic effects
+Leverage ratio reduction to approximately 4.8:1
+Estimated local spend: £16.2M (reduction of £8.3M from baseline)
+Support for 15-20 indigenous projects at £70-100K each
+Recoupment projection reduces to 35% due to substantial grant element
+Long-term economic transformation
+Fundamental shift toward indigenous-led screen economy
+Potential for significant IP portfolio development
+Enhanced international market presence for Liverpool content
+Estimated 5-year economic multiplier: 2.5x due to comprehensive ecosystem development
+Market restructuring
+Liverpool becomes recognised centre for indigenous production
+Development of specialized local infrastructure and services
+Enhanced ability to attract co-production partnerships
+Potential for Liverpool-branded content slate development
+Social impacts
+Comprehensive transformation
+Support for 80-120 local creative professionals directly
+Fundamental shift in on-screen representation and storytelling
+Development of Liverpool as authentic creative hub
+Enhanced social cohesion through shared cultural production
+Systemic change
+Creation of sustainable indigenous screen ecosystem
+Development of local creative leadership and entrepreneurship
+Enhanced educational and training opportunities
+Significant improvement in sector diversity and inclusion
+Cultural renaissance
+Liverpool-specific content genres and formats
+Enhanced cultural tourism and screen tourism potential
+Strengthened local cultural identity and pride
+Development of next generation of Liverpool storytellers
+Environmental impacts
+Transformative environmental benefits
+Estimated 40% reduction in overall fund carbon footprint
+Development of Liverpool as model for sustainable production
+Enhanced environmental storytelling and awareness
+Community-led environmental initiatives and practices
+Systemic sustainability
+Development of circular economy principles in local screen sector
+Enhanced local resource utilization and waste reduction
+Community-based environmental monitoring and improvement
+Integration of environmental themes in content development
+Comparative Risk Analysis
+10% Scenario Risks
+Low Risk: Minimal disruption to current successful model
+Limited Impact: May not achieve critical mass for transformation
+Opportunity Cost: Modest reduction in immediate economic returns
+30% Scenario Risks
+Medium Risk: Significant but manageable reduction in leverage
+Implementation Challenge: Requires careful project selection and support
+Market Adjustment: Need for enhanced indigenous producer development
+50% Scenario Risks
+High Risk: Substantial reduction in immediate economic impact
+Capacity Constraint: May exceed current indigenous producer capacity
+Political Risk: Significant departure from proven successful model
+Implementation considerations
+Phased approach recommendation
+Year 1-2: Implement 10% allocation to test model and build capacity
+Year 3-4: Increase to 20-25% based on performance and capacity
+Year 5+: Consider 30% allocation if ecosystem demonstrates maturity
+Support infrastructure requirements
+Enhanced development support for indigenous producers
+Mentoring and business development programs
+Access to industry networks and market opportunities
+Technical and creative skills development initiatives
+Success metrics
+Economic: Local spend per grant pound, IP value creation, sector employment
+Social: Diversity metrics, community engagement, authentic representation
+Environmental: Carbon footprint reduction, sustainable practice adoption
+Cultural: Content quality, audience engagement, critical recognition
+Recommendations
+Optimal approach: graduated implementation
+Start with 10% to establish proof of concept and build indigenous capacity
+Monitor and evaluate economic, social, and environmental outcomes
+Scale gradually based on demonstrated success and market capacity
+Maintain flexibility to adjust based on performance and opportunity
+Critical success factors
+Comprehensive indigenous producer development program
+Strong mentoring and industry connection initiatives
+Robust monitoring and evaluation framework
+Stakeholder engagement and buy-in from industry and community
+Integration with broader Liverpool cultural and economic development strategies
+Risk mitigation strategies
+Maintain core equity investment model for proven high-impact productions
+Develop indigenous producer capacity before scaling grant allocation
+Create hybrid funding models combining grants with development loans
+Establish clear performance criteria and adjustment mechanisms
+Conclusion
+While higher indigenous grant allocations offer significant social and environmental benefits, they come with substantial economic trade-offs.
+A graduated approach starting with 10% allocation allows for capacity building and model refinement while maintaining the Fund's proven economic impact. 
+The 30% scenario represents an optimal balance for long-term transformation.
+50% allocation should only be considered once indigenous sector capacity is fully established.
+The key to success lies not in the percentage allocated, but in the quality of implementation, support infrastructure, and integration with broader sector development objectives. A well-implemented indigenous grant program, even at modest scale, could deliver transformative social and cultural benefits while building the foundation for Liverpool's long-term screen sector sustainability.
+
+=== TABLES ===
+
+Production | Production Company | Broadcaster / Platform | Genre | Total Budget (£mn) | LCR Spend
+(£) | Fund Investment
+(£) | Ratio
+The Snow Spider | Leopard Pictures | CBBC/BBC Wales | Children's Drama | 2.2 | 780,785 | 140,000 | 5.58
+Still So Awkward | Channel X North | CBBC | Children's Comedy | 3.6 | 1,092,044 | 150,000 | 7.28
+Time | BBC Studios | BBC One | Drama | 6.5 | 2,257,922 | 400,000 | 5.64
+Help | The Forge | Channel 4 | Drama | 3.1 | 1,139,055 | 180,000 | 6.33
+The Responder | Dancing Ledge | BBC One | Crime Drama | 7.8 | 2,909,809 | 418,000 | 6.96
+The Ipcress File | Altitude Film | ITV | Spy Thriller | 12.4 | 2,182,870 | 300,000 | 7.28
+The Family Pile | Hat Trick | ITV | Comedy | 4.2 | 1,331,083 | 200,000 | 6.66
+Time 2 | BBC Studios | BBC One | Drama | 8.4 | 2,740,278 | 350,000 | 7.83
+This City is Ours | Left Bank Pictures | Netflix | Drama | 28.8 | 8,990,671 | 450,000 | 19.98
+G'Wed Series 2 | Various | Channel 4 | Comedy Drama | 3.9 | 1,074,544 | 232,048 | 4.63
+TOTALS |  |  |  | 80.9 | 24,499,061 | 2,820,048 | 8.69
+Spending Category | Average Percentage | Total LCR spend (approx.)
+Above-the-Line Talent | 19.7% | £4.84mn
+Below-the-Line Crew | 26.1% | £6.41mn
+Production Equipment & Materials | 12.3% | £3.03mn
+Office, Studio & Location Facilities | 18.0% | £4.41mn
+Transport & Travel | 8.6% | £2.10mn
+Hotels & Subsistence | 7.7% | £1.89mn
+Post-Production | 2.3% | £0.58mn
+COVID Health & Safety | 3.9% | £0.96mn
+Finance, Legal & Miscellaneous | 1.4% | £0.35mn
+TOTAL | 100% | £24.5mn
+Production | Production Company | Indirect FTE | Trainees | Key Filming Locations
+The Snow Spider | Leopard Pictures | 33 | 5 | Wirral (Pensby)
+Still So Awkward | Channel X North | 41 | 5 | Liverpool, Wirral
+Time | BBC Studios | 84 | 5 | Liverpool (HMP Shrewsbury)
+Help | The Forge | 39 | 4 | Liverpool (care home)
+The Responder | Dancing Ledge | 100 | 5 | Liverpool (city streets)
+The Ipcress File | Altitude Film | 75 | 5 | Liverpool, Wirral
+The Family Pile | Hat Trick | 46 | 3 | Wirral (residential)
+Time 2 | BBC Studios | 94 | 5 | Liverpool, Halton
+This City is Ours | Left Bank Pictures | 309 | 15 | Liverpool, St Helens, Sefton
+G'Wed Series 2 | Various | 37 | 4 | Liverpool, Wirral
+TOTALS |  | 859 | 56 | All LCR boroughs
+Borough | 2019 Crew Base | 2022 Crew Base | Growth
+Liverpool | 291 | 525 | +80.4%
+Wirral | 60 | 100 | +66.7%
+Sefton | 42 | 87 | +107.1%
+Knowsley | 22 | 25 | +13.6%
+St Helens | 19 | 25 | +31.6%
+Halton | 0 | 8 | N/A
+LCR TOTAL | 434 | 770 | +77.4%
+Production | Production Company | Broadcaster/Platform | Awards/Nominations
+The Snow Spider | Leopard Pictures | CBBC/BBC Wales | BAFTA Cymru nomination
+Time | BBC Studios | BBC One | 2 BAFTAs, 4 RTS Awards
+Help | The Forge | Channel 4 | 2 BAFTAs, Int'l Emmy
+The Responder | Dancing Ledge | BBC One | Int'l Emmy (Freeman)
+The Ipcress File | Altitude Film | ITV | 2 BAFTA nominations
+Time 2 | BBC Studios | BBC One | Multiple nominations
+TOTALS |  |  | 60+ nominations, 19 wins
+Borough | 2019 Facilities | 2022 Facilities | Growth
+Liverpool | 85 | 168 | +97.6%
+Wirral | 12 | 26 | +116.7%
+Sefton | 7 | 23 | +228.6%
+Knowsley | 3 | 10 | +233.3%
+St Helens | 6 | 7 | +16.7%
+Halton | 0 | 2 | N/A
+LCR TOTAL | 113 | 236 | +108.8%
+Borough | 2019/20 Film Days | 2022/23 Film Days | Growth
+Liverpool | 1,410 | 1,141 | -19% (redistribution)
+Wirral | 93 | 126 | +35%
+Sefton | 81 | 30 | -63% (pandemic impact)
+Knowsley | 11 | 30 | +173%
+St Helens | 0 | 30 | N/A
+Halton | 6 | 126 | +2,000%
+LCR TOTAL | 1,601 | 1,481 | -7.5%
+Borough | 2019/20 Inward Investment | 2022/23 Inward Investment | Growth
+Liverpool | £12.9mn | £20.1mn | +56%
+Wirral | £1.4mn | £1.7mn | +21%
+Sefton | £1.2mn | £0.3mn | -75% (temporary)
+Knowsley | £0.75mn | £1.18mn | +57%
+St Helens | £0.15mn | £2.0mn | +1,233%
+Halton | £0.1mn | £1.37mn | +1,270%
+LCR TOTAL | £16.5mn | £26.7mn | +62%
+Metric | 2021 Interim Position | 2025 Final Position | Growth
+Productions Funded | 6 | 10 | +67%
+Total Investment | £1.78M | £2.82M | +58%
+LCR Spend Generated | £6.73M | £24.5M | +264%
+Spend Ratio | £6.76:£1 | £8.69:£1 | +29%
+Indirect FTE Jobs | 455 | 859 | +89%
+Trainee Placements | 29 | 56 | +93%
+Recoupment Achieved | 18% | 41% | +128%
+Award Nominations | 12+ | 60+ | +400%
+Major Awards Won | 4 | 19 | +375%
+Fund | Period | Total Investment | Local Spend Generated | Spend Ratio
+Liverpool City Region | 2020-2024 | £2.82mn | £24.5mn | 8.69:1
+Northern Ireland (ODS1) | 2014-2018 | £28mn | £297mn | 10.5:1
+Scotland (External PSB) | 2022 | N/A | £225mn | N/A
+North East | 2025- | £50k-£500k per project | tbc | Target 20% max investment
+Liverpool City Region
+859 indirect FTE jobs created
+Average cost per job: £3,284
+56 trainee placements across productions
+77% growth in crew base across LCR (434 to 770, 2019-2022) | Northern Ireland
+2,648 FTE job years over four years
+481,526 work days sustained
+Significant growth in NI expenditure on cast and crew (£31mn in 2014/15 to £45mn in 2016/17)
+Scotland
+10,000+ FTE workforce by 2021
+Strong growth in crew capacity across all regions
+73% of "Made in Scotland" episodes produced by companies with branch offices vs. 27% by Scotland-headquartered companies | North East
+
+Fund launched 2025, outcomes pending
+Emphasis on "meaningful co-production” with local companies for out-of-region applicants
+Liverpool | 41% recoupment achieved (vs. 30% target), with 55% projected by 2025, enabling fund extension through reinvestment.
+Northern Ireland | £2.87M recouped by October 2019, representing positive return enabling reinvestment in sector development.
+Scotland | No specific recoupment data available, but strong commercial performance noted across productions.
+North East | Equity investment model with recoupment from net revenues plus net profit participation.
+Liverpool
+Successful development of production hubs across all six LCR boroughs, with particular growth in Wirral, Halton, and St Helens | Northern Ireland
+Concentrated development around Belfast/Titanic Studios with some regional spread.
+Scotland
+Glasgow-centric development with 82% of companies based there, though some growth in other areas | North East
+Covers 12 local authority areas with emphasis on building regional capacity rather than single hub development
+Liverpool
+Catalysed growth in production services (Supply 2 Location, LA Productions expansion, Molinare Creative Group expansion) | Northern Ireland
+Significant infrastructure development including studio facilities and production services ecosystem
+Scotland
+Major studio developments (Wardpark, Pyramids Business Park, FirstStage) supporting high-end drama production | North East
+North East: Emphasis on building substantive regional presence and supply chain development
+Scenario | Equity Investment | Value of grant | Total Available
+Current | £2.82mn (100%) | £0 | £2.82mn
+10% Grant | £2.54mn (90%) | £0.28mn (10%) | £2.82mn
+30% Grant | £1.97mn (70%) | £0.85mn (30%) | £2.82mn
+50% Grant | £1.41mn (50%) | £1.41mn (50%) | £2.82mn

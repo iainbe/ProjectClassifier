@@ -17,7 +17,7 @@
 | `reference_permission` | NOT_ESTABLISHED — live work; ask before citing | — |
 | `commission_date` | 26/01 (register); PoC reframe client note 26/07/08 | register + docs |
 | `completion_date` | ONGOING — baseline draft issued 26/08/20, awaiting BC approval | folder |
-| `contract_value` | Phase 1: £5,000 (client note); full pipeline £5k→£80-100k→£150-300k | Pulse PoC Reframe v2 |
+| `contract_value` | Phase 1: £5,000; pipeline £5k→£80-100k→£150-300k — VERIFIED in client note v2 table. NB: stages in flux — departure of key BC staff member mid-project caused re-scoping confusion (Iain 26/09/12) | Pulse PoC Reframe v2 + Iain |
 | `contracting_role` | PRIME | register (LEAD_CONSULTANT) |
 | `prime_contractor` | The Fifth Sector | register |
 | `geography` | Western Balkans — all six economies; Albania + Kosovo as demonstration economies | folder + client note |
@@ -99,5 +99,5 @@
 | `reviewed_by` | Devin (folder+register evidence) | — |
 | `source_claims` | None yet — P81 has no claims rows (G2-BATCH-C registered it without claims) | 04_claims.csv |
 | `source_measurements` | None yet | 06_measurements.csv |
-| `unresolved_issues` | (1) No 02_sources rows for the folder docs (baseline draft, client note, scope notes, presentations, source matrix — ~15 registerable sources); (2) client response to baseline draft (26/08/25 email) unread — status update needed; (3) contract formality: is Phase 1 a signed commission or PoC agreement?; (4) baseline approval outcome pending | Derived |
+| `unresolved_issues` | (1) Stage definitions in flux — key BC staff member departed mid-project (Iain 26/09/12); current scope is £5k design-phase-only with Phase 2 "subject to separate procurement" per THAD re-scope — relationship between that re-scope and the client-note phased table needs Iain confirmation; (2) no 02_sources rows for ~15 folder docs; (3) client response email unread; (4) baseline approval pending | Derived + Iain |
 | `superseded_by` | None | — |

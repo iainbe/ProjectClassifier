@@ -134,3 +134,10 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - P33-LCRMUS (£406m→£780m multiplier — flagship quantified precedent), P22-LCRFILM (£6.76:1 leverage + EXPIRED-forecast example), P75-LANC (AHRC CICP2 pending), P16-CICP (national evaluation design, subcontractor), P78-BEATLES (~£10k live), P79-CELL (74k LinkedIn supply-chain map)
 - All DRAFT pending Iain walkthrough; index regenerated
+
+## 26/09/12 — Adversarial card review: challenges 1-3 resolved
+
+- P22: SRC-G2-030 final eval located (2024 Liverpool Production Fund) + extracted; £6.76:£1→£8.69:£1, 455→859 FTE verified in tables; provenance = LFO-supplied data via Olsberg/Nordcity model + x2.0 Type II multiplier (client's agreed method, not Fifth Sector's)
+- P27: SRC-G2-022 CDF Evaluation FINAL found on OneDrive (pre-migration archive) + extracted; all headline figures verified verbatim; FTE inconsistency specified (120 Table 14 vs ~160 narrative); Green Book/WELLBY framing corrected — not the report's language; Green Book provenance = Steve Sheppard/Adroit Economics HMT credentials in proposal
+- P81: gated sequence £5k→£80-100k→£150-300k VERIFIED in client note v2 table (earlier "unverifiable" verdict wrong — table scan missed); stage flux = key BC staff departure mid-project (Iain)
+- 02_sources.csv truncated by failed write (schema-drift hazard recurrence) — restored all 111 rows from repo mirror; SRC-G2-030 + SRC-G2-022 extract paths linked

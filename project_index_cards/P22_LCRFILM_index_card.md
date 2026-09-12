@@ -35,11 +35,11 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `headline_finding` | £6.76 leverage per £1 invested — £12.08m LCR spend from £1.788m | C-G2-037 |
-| `key_findings` | (1) £6.76:1 leverage; (2) 455 indirect FTE vs 280 target (£3,930/job); (3) Development Fund £173,604 → 17 companies, 43 jobs; (4) LFO provider→partner institutional shift; (5) interim 7.8:1 Development Fund leverage forecast NOT confirmed in final — EXPIRED forecast (C-G2-041 flagged) | claims |
-| `quantified_results` | £6.76:1; 455 FTE; £3,930/job; £173,604; 17 cos/43 jobs | claims |
+| `headline_finding` | £6.76 leverage per £1 invested — improving to £8.69:£1 in the final period (+29%); 455→859 indirect FTE (+89%) | C-G2-037 + SRC-G2-030 table |
+| `key_findings` | (1) £6.76:£1 → £8.69:£1 spend ratio; (2) 455→859 indirect FTE; (3) recoupment 18%→41% vs 30% target (£1,143,287 recouped); (4) Development Fund £173,604 → 17 companies, 43 jobs; (5) LFO provider→partner institutional shift; (6) Scenario Analysis Framework section present — supports T01's "scenario planning" claim; "counterfactual" not the report's own word; (7) interim 7.8:1 Development Fund forecast NOT confirmed in final — EXPIRED | claims + extract |
+| `quantified_results` | £6.76:£1→£8.69:£1; 455→859 FTE; 41% recoupment; £173,604; 17 cos/43 jobs — figures are LFO-supplied programme data: Filming Activity Reports → Olsberg/Nordcity labour-compensation model → FTE at £26,208–£28,500/job "as agreed in GFA" → ×2.0 Type II multiplier for indirect jobs. Method is the CLIENT'S agreed model, not Fifth Sector's own multiplier — positioning must reflect this | extract + xlsx + Iain 26/09/12 |
 | `client_decision_use` | Evaluation evidence for fund continuation/design | Derived |
-| `evidence_strength` | HIGH — interim+final evaluated against targets; honest forecast-vs-final correction | Derived |
+| `evidence_strength` | HIGH — final report extracted 26/09/12 and table-verified; figures are LFO-supplied data, not independently derived | extract + Iain |
 
 ### A4. Permitted use
 
@@ -66,4 +66,4 @@
 | `positioning_notes` | Second-strongest quantified citation; pairs with P33 as the evaluation+multiplier combo | Derived |
 | `comparable_tenders` | T01-BCAT (cited) | 08_tenders.csv |
 | `card_status` | DRAFT — pending Iain walkthrough | 26/09/12 |
-| `unresolved_issues` | (1) client contact/reference permission; (2) final-report publishing status; (3) exact commission scope (interim only, or both?) | Derived |
+| `unresolved_issues` | (1) £12.08m/£1.788m cumulative totals not yet re-derived from extract tables (period figures show £6.73M→£24.5M); (2) £3,930/job not located in final — likely interim-derived; (3) client contact/reference permission | extract |

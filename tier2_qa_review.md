@@ -572,3 +572,13 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 # Pass 17: Batch B2 cards (26/09/12)
 
 - 6 cards; flags: P79 DELIVERED vs notes "work in progress"; P75 outcome pending; P78 in-progress citable only as commissioned
+
+
+---
+
+# Pass 18: Card review fixes (26/09/12)
+
+- Two unextracted canonical sources located + extracted (LFF final via G Drive, CDF final via OneDrive)
+- Method-provenance correction: LFF multiplier is LFO/Olsberg-agreed, not Fifth Sector's own
+- Green Book framing provenance traced to proposal team credentials, not report labels — T01 wording risk logged
+- Review blindspot logged: docx paragraph-only scanning misses tables — extraction must always include tables

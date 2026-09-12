@@ -21,14 +21,14 @@
 | `contracting_role` | PRIME | register |
 | `prime_contractor` | The Fifth Sector (Iain Bennett + Steve Hunt) | report line 11 |
 | `geography` | Wakefield district | register |
-| `sector_focus` | Cultural development fund evaluation — Green Book monetisation | report |
+| `sector_focus` | Cultural development fund evaluation — programme value, leverage and sector-economic analysis | report |
 | `lifecycle_status` | COMPLETED | register |
 
 ### A2. Brief summary
 
 | Field | Value | Source |
 |---|---|---|
-| `brief_summary` | The Fifth Sector evaluated Wakefield Council's Cultural Development Fund local programme — applying a Green Book-compatible monetisation method (DCMS Culture and Heritage Capital benefit transfer, direct cash-flow monetisation, WELLBY quarantined to sensitivity analysis) to a £4.38m grant programme that delivered £22.03m total value including £6.06m private/partner leverage. CCI employment grew 32% and estimated GVA 79% over the period; the Creative Wakefield network grew 458% to 837 members. | report + claims C-G2-052-058 |
+| `brief_summary` | The Fifth Sector evaluated Wakefield Council's Cultural Development Fund local programme — quantifying total programme value, leverage and sector impact for a £4.38m grant programme that delivered £22.03m total value including £6.06m private/partner leverage. CCI employment grew 32% and estimated GVA 79% over the period; the Creative Wakefield network grew 458% to 837 members. NOTE: the "Green Book monetisation / WELLBY" framing is NOT the report's own language — it is the T01 bid's characterisation (WELLBY appears only in P69's recommended-future-framework claim). Provenance of that framing needs Iain confirmation. | report + claims C-G2-052-058; corrected 26/09/12 |
 | `key_deliverables` | CDF Evaluation FINAL report (25/09/29; 556 paras, 14 tables) | SRC-G2-022 |
 | `client_objective` | Value-for-money assessment of CDF programme for council accountability and future funding cases | report |
 | `scope_boundary` | Wakefield CDF local programme; monetisation + economic impact + network analysis | report |
@@ -38,7 +38,7 @@
 | Field | Value | Source |
 |---|---|---|
 | `headline_finding` | CDF delivered £22.03m total value from £4.38m grant — £6.06m private/partner leverage; Wakefield CCI employment grew 32% (2,210→2,910) and estimated GVA grew 79% | C-G2-052/053 |
-| `key_findings` | (1) £22.03m total value / £4.38m grant / £6.06m leverage; (2) CCI employment +32%, GVA +79%; (3) Creative Wakefield network 150→837 (+458%); (4) XPLOR: 10 enterprises new-to-market products, 20 new-to-firm; (5) CDF catalysed Wakefield Council–Production Park strategic alliance; (6) Creative Leadership: 15 participants, 11 sub-sectors; (7) flagged internal inconsistency: jobs created/safeguarded reported 120 FTE in exec summary vs elsewhere | C-G2-052-058 |
+| `key_findings` | VERIFIED in extract 26/09/12: (1) £22.03m total value / £4.38m grant / £6.06m leverage — verbatim; (2) CCI employment +32% (2,210→2,910), GVA +79% to £94.2m; (3) network 150→837 (+458%) — verbatim; (4) XPLOR: 10 enterprises new-to-market; (5) Council–Production Park alliance; (6) Creative Leadership 15 participants/11 sub-sectors; (7) CONFIRMED INCONSISTENCY: Table 14 + exec summary say 120 FTE created/safeguarded; narrative breakdown gives 55 target met + further 105 (40 Production Park + 35 Wakefield Exchange + 30 Xcellerator) ≈ 160 — do not cite job figures until resolved | extract |
 | `quantified_results` | £22.03m; £4.38m; £6.06m; +32% employment; +79% GVA; 458% network growth; 837 members | claims |
 | `client_decision_use` | VfM assessment delivered for accountability; methodology later cited as Green Book anchor in T01 bid | report + T01 |
 | `evidence_strength` | HIGH — delivered evaluation with quantified outcomes; flagged internal inconsistency shows register honesty | Derived |
@@ -47,8 +47,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `commercial_reuse` | REVIEW_PENDING — used in T01 bid as Green Book method anchor | T01 |
-| `permitted_wording` | "Green Book-compatible monetisation delivered for Wakefield Council's CDF — £22.03m value from £4.38m grant" | T01 precedent |
+| `commercial_reuse` | REVIEW_PENDING — T01 cited it as "Green Book-compatible monetisation"; the report does not use that label — wording risk if probed | T01 |
+| `permitted_wording` | VERIFIED-safe: "value-for-money evaluation of Wakefield's CDF — £22.03m total value from £4.38m grant, incl. £6.06m leverage". "Green Book" label defensible only as method characterisation — needs provenance | extract |
 | `expiry` | NOT_ESTABLISHED | — |
 | `reference_status` | INTERNAL → cleared for tender use in T01; website gate separate | T01 record |
 

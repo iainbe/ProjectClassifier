@@ -1,21 +1,9 @@
 WAKEFIELD CULTURAL DEVELOPMENT FUND: 
 EVALUATION REPORT 
-
-
-
-
-
-
-
-
 Prepared by Iain Bennett and Steve Hunt, The Fifth Sector Limited
-
 for Wakefield Council 
-
 September 2025
-
 Contents
-
 Executive Summary	1
 Strategic Context	6
 CDF origins and objectives	6
@@ -48,7 +36,6 @@ Appendix 3: Theory of change	47
 Appendix 4: summer s'cool Case Study	50
 Appendix 5: Creative Wakefield network analysis and engagement metrics	52
 Tables
-
 Table 1 Wakefield CDF: Key impacts at a glance	5
 Table 2 Capital Investment by Project and Funding Source	11
 Table 3 Revenue expenditure breakdown	12
@@ -63,8 +50,6 @@ Table 11  Key achievements demonstrating strategic success	39
 Table 12 Analysis of spend by project	40
 Table 13 XPLOR outputs	41
 Table 14 Jobs created or safeguarded by CDF investment	42
-
-
 Executive Summary
 Strategic context: Seizing a place-based opportunity
 This report evaluates the transformative impact of the Cultural Development Fund (CDF) in Wakefield. 
@@ -96,12 +81,8 @@ A legacy of economic and cultural growth
 The economic impact of the programme has been significant and measurable. The initial public investment successfully leveraged private and partner funding. The programme directly contributed to the creation and safeguarding of 120 full time equivalent jobs, exceeding its original targets. 
 The development of Wakefield Exchange and the facilities at Production Park directly addressed the objective of unlocking economic growth by creating the foundational assets for commercial activity. The growth of the Creative Wakefield network and the creation of the Creative Leadership programme fulfilled the aim of strengthening local leadership. summer s’cool, the Creative Leadership programme and the schools partnership with SPARK provided a direct response to the need to enhance creative skills. Finally, the regeneration of the city centre and the increased footfall from new events and attractions demonstrated the programme’s contribution to making Wakefield a more attractive place to live and visit.
 The imaginative and successful implementation of CDF investment has fostered impressive sector wide growth. Between 2020 and 2023, a period which included the severe disruption of the pandemic, overall employment in Wakefield’s cultural and creative industries grew by 32 percent, while the economic output of the sector, measured as Gross Value Added, increased by 79 percent.
-
 Table 1 Wakefield CDF: Key impacts at a glance
-
 The true legacy of the Cultural Development Fund in Wakefield is an interconnected and resilient creative ecosystem. The programme has delivered world class facilities, a confident and collaborative business community, and clear pathways for the next generation of creative talent. It has successfully positioned Wakefield as a key player in the national creative economy, creating a sustainable foundation that will continue to generate economic, social, and cultural value for years to come.
-
-
 Strategic Context
 CDF origins and objectives
 The Cultural Development Fund (CDF) was announced as part of the Creative Industries Sector Deal, launched in March 2018. The Deal aimed to make Britain the best place in the world for the creative industries to thrive. CDF was identified as a mechanism to boost economic growth throughout the cultural and creative sector, targeted toward areas which had historically received a smaller share of arts and culture funding per head. The intention was to generate 1,300 new jobs outside London and support more than 700 businesses.
@@ -121,7 +102,6 @@ CDF Programme Board: Led by Wakefield Council, with representation from Creativ
 Internal project management: Housed within the Council's Culture, Leisure and Sport service.
 Financial accountability: Managed through the Council's established capital programme, procurement, and finance services.
 The central role of the Council as the accountable body for CDF funding was the cornerstone of the four features of successful delivery observed throughout its implementation: resilience, agility, partnership innovation, and legacy building. The governance model helped align project delivery to its existing statutory responsibilities and democratically accountable governance, integrating those resources with the effective delivery of priorities across economic, social, and cultural wellbeing for the district in a way which also addressed the ambitions of CDF. Its ability to demonstrate agile decision-making, adaptive resourcing, and a broad understanding of local impacts was critical to maintaining strategic focus and operational effectiveness during periods of significant disruption and multi-faceted external challenges.
-
 Programme Development and Delivery
 Programme timeline and adaptation
 Originally planned to run until March 2022, the programme required significant and continuous adaptation, notably as a result of COVID-19.
@@ -154,7 +134,6 @@ April 2024 - ALT Symposium: Creative Wakefield partnered with the Academy of Li
 September 2024 - Creative Health event: A partnership with Yorkshire Sculpture Park further showcased the evolving, collaborative approach toward the use of culture to secure wellbeing outcomes, facilitated by partnership with the Creative Wakefield network.
 February 2025 - Wakefield Exchange launch: The 2,500m² creative and community space officially opened its doors.
 Wakefield Council demonstrated considerable agility and responsiveness to external challenges and feedback throughout, emphasising the critical importance of its anchoring role. The outcomes achieved and the Council's continued leadership within the national CDF Network reinforce the legacy of its consistent, collaborative, and patient approach to place-based cultural regeneration.
-
 Investment Profile and Financial Framework
 Capital Investment
 The CDF programme has leveraged a total of £19.7 million in capital investment from a combination of public and private sources. 
@@ -162,9 +141,7 @@ Table 2 Capital Investment by Project and Funding Source
 Source: Wakefield Council
 Revenue Investment
 A £2.34 million revenue programme was designed to build the skills, networks, and business acumen needed to support the growth and sustainability of the creative sector in Wakefield.
-
 Table 3 Revenue expenditure breakdown 
-
 Source: Wakefield Council
 Programme Outputs and Outcomes
 The role of Wakefield Exchange in legacy and spatial planning
@@ -205,7 +182,6 @@ Its long-term success depends not just on its programming or facilities, but on 
 Summary
 Wakefield Exchange is an exemplar of how the Council successfully delivered CDF by maintaining its strategic vision while responding to extraordinary challenges. While still in its early operational phase, WX demonstrates both the potential and the complexity of place-based cultural infrastructure development. Its success will ultimately be measured not just by utilisation rates or financial sustainability, but by its ability to catalyse broader city centre regeneration and cultural engagement.
 Table 4 Key characteristics demonstrated by development of Wakefield Exchange
-
 Production Park & CDF: A transformational partnership
 Production Park, a world-leading campus for live events, technology, and training, is a powerful example of how targeted public investment can catalyse significant private sector growth and innovation. CDF investment in Production Park, though a smaller component of a larger private sector-led development, provided essential financial bandwidth and confidence, enabling Production Park to undertake ambitious projects, diversify its offerings, and forge transformative partnerships with inward investors and research councils, as well as with Wakefield Council.
 Partnership working again demonstrated responsiveness on the part of Wakefield Council and emphasised the value of the strengthened public-private partnership
@@ -238,9 +214,7 @@ This foundation directly contributed to Production Park's ability to attract maj
 Wider strategic impact
 The Council’s agreement to allow Production Park to reconfigure the new workspace facilitated by the CDF grant helped secured investment from 4Wall as a key tenant, with the major US-based company choosing to consolidate its UK operations, previously split between sites in Harlow and Daventry, into a new, state-of-the-art UK headquarters at Production Park
 Production Park's successful partnership with the Council and the University of York as part of the £75.6m CoSTAR investment positions Wakefield as a component of a distributed national centre for immersive technology innovation, demonstrating how initial public investment leverages transformative private sector engagement.
-
 Table 5 Key characteristics demonstrated by Production Park development
-
 Business Support & Skills Development
 The CDF programme adapted and evolved delivery of business support and skills development to respond to on-the-ground realities, external shocks like COVID-19, and feedback from the creative sector. 
 The Council’s ability to quickly refine and evolve its delivery of business support from national models to local solutions reflected the agility and close working of the Culture team with creative businesses, and contributed to the development of a more resilient and responsive local creative ecosystem.
@@ -258,9 +232,7 @@ Deepening Support (Late 2022 - Summer 2023)
  Xcellerator programme & cross-departmental collaboration: Appointment of an officer with creative industries experience to the Council's Economic Growth team led to further development of business support for creative freelancers and businesses. Xcellerator was launched in February 2023 as a joint offer between the Council's Culture, Leisure & Sport and Economic Growth teams. It combined one-to-one support with a structured modular programme, packaged as, "Practical support for creatives: making a living doing what you love." Specific "HE/FE ready Xcellerator level" workshops were also run at ALT and Wakefield College.
 Tenacity and place-based adaptation 
 The evolution of business support under CDF in Wakefield is a testament to tenacious, place-based adaptation and the strategic learning capability within the Council. Initial national models were tested, found wanting in the local context, and iteratively replaced or augmented with solutions co-designed with and responsive to the Wakefield creative community.
-
 Table 6  Key characteristics demonstrated by Business support and skills development
-
 Creative leadership: Connecting the creative ecosystem
 CDF has supported an evolution in the way in which Wakefield Council's Culture team supports the development of the creative economy across the district. The team shifted its delivery model, moving beyond directly providing all events to pioneering a more agile and collaborative partnership strategy. This new approach leverages the expertise and capacity of major cultural partners across the district to deliver high-value, specialist events for the network's members.
 Adaptive response: Creative Leadership Programme 
@@ -283,9 +255,7 @@ The programme also played a role in supporting the progression of trainees into 
 "summer s’cool is aimed at children and young people, but it also supports apprentices and trainees, because very often when we commission for summer s’cool, we commission experienced creatives and they bring with them trainees and apprentices. That's creating opportunities at that entry level."
 Ros Hill, Creative Wakefield Manager
 The success of summer s'cool has been recognised nationally, with presentations at the Local Government Association conference and international events on creative education.
-
 Table 8  Key characteristics demonstrated in the delivery of summer s'cool
-
 Creative Wakefield
 Creative Wakefield is a Council-led initiative which was developed and funded through the CDF programme to provide a vital support infrastructure for the sector.
 The network focuses on sector connectivity, partnership brokering, and amplifying opportunities. A combination of CDF funding and an additional £20,000 from Arts Council England for the development of a "Cultural Compact" facilitated the creation of the Creative Wakefield Framework (2020). This framework identified sector challenges and articulated five key priorities:
@@ -299,10 +269,7 @@ Key Achievements:
 Network Growth: Membership has increased by 458%, from 150 members in April 2020 to 837 members in October 2024.
 Digital Hub: The redeveloped website has become a crucial resource, combining a member directory that allows freelancers and micro-businesses, to showcase their work and connect with potential collaborators and clients and a commissioning portal that promotes commercial opportunities for local artists and businesses. 
 Engagement: The network's participation in the regular "Creative Exchange" events, programmed by the Council and hosted at Wakefield Exchange, provides a consistent and accessible platform for networking, collaboration, and professional development.
-
 Table 9  Key characteristics demonstrated by development of Creative Wakefield
-
-
 SPARK: Forging a lasting bridge between culture and education
 A significant and sustainable legacy of the programme has been the creation of a deep, strategic partnership with SPARK, the local cultural education partnership (LCEP). This collaboration was instrumental in co-designing a new, accredited, place-based creative curriculum for Wakefield that directly responds to the needs of the district's schools. 
 CDF supported the transformation of the relationship with SPARK from a stakeholder into a core delivery partner in three critical ways:
@@ -310,16 +277,11 @@ Direct financial investment: CDF provided the initial commissioning budget that
 A clear strategic mandate: CDF’s formal objectives, particularly around youth engagement and skills development, created the strategic imperative for the Council to seek a deeper, more integrated partnership. CDF provided the formal "permission to collaborate" in a new way, elevating SPARK from a consultee to a co-delivery partner and justifying the significant investment of Council officer time.
 Dedicated human resources:  CDF partly funded the core programme delivery team. These roles provided the project management and relationship-building capacity needed to broker the partnership. They managed the complex logistics of aligning the contribution of cultural organisations with the formal education system, translating school needs for artists and ensuring the curriculum met both creative ambitions and educational standards
 This has created two distinct and enduring assets. Firstly, the curriculum itself is now a tested, trusted and reusable resource available to all schools, ensuring the educational benefits of the programme will continue long after the initial investment. Secondly, and perhaps more importantly, the partnership has established a systemic link between the creative sector and the formal education system. This creates a clear and repeatable pathway for future collaborations, making it easier for artists and cultural organisations to work in schools and for teachers to draw on the district's creative talent, embedding creativity at the heart of the local educational offer.
-
 Brokering relationships with private sector partners
 Two major events staged through CDF demonstrate how the Council’s Culture team successfully evolved its approach to sector development through collaboration. 
 ALT Symposium: The Council brokered a partnership with the Academy of Live Technology (ALT) at Production Park to integrate Creative Wakefield network members into its major industry symposium. This directly connected local creatives with the next generation of live events professionals and cutting-edge R&D. 
 Creative Health event: The Culture team collaborated with Yorkshire Sculpture Park (YSP) on a major Creative Health event, which leveraged YSP's international standing to provide Wakefield creative SMEs and freelancers with world-class, specialist content and new cross-sector networking opportunities.
 This Council-led partnership model is a crucial legacy. It establishes a sustainable and high-impact strategy for the ongoing support of the creative sector, allowing the Council to deliver a richer and more diverse event programme by drawing on the strengths of the entire cultural ecosystem.
-
-
-
-
 Economic Impact and Value for Money
 The Cultural Development Fund has delivered a significant return on investment for Wakefield, contributing to substantial economic growth and positioning the district as a key player in the region's creative industries. The initial £4.38m CDF investment catalysed a total programme value of £22m, representing a leverage ratio of over 1:4.
 Direct Economic Outcomes
@@ -360,7 +322,6 @@ Supply Chain Benefits
 Major inward investors like Tait and 4Wall have created local supply chain and employment opportunities for Wakefield residents and businesses.
 Skills pipeline
 The CDF programme created tangible career pathways and leadership opportunities. For example, its embedded traineeship model provided direct work experience that led to youth employment in the cultural sector. Furthermore, the Creative Leadership Programme strengthened the professional networks of 15 local practitioners who went on to establish 12 new and ongoing cross-sector partnerships, enhancing the sector's capacity to respond to opportunities and initiate new collaborative projects.
-
 Value for Money Assessment
 Whilst the grant terms set no conditions for formal value for money or cost-benefit analysis, the Wakefield CDF programme made a clear strategic contribution to unlocking long-term economic growth and productivity by building the foundational capacity and infrastructure of the local creative sector. This was achieved not through a single action, but through a coordinated portfolio of interventions.
 Unlocking economic growth and productivity
@@ -379,7 +340,6 @@ The £19.70 million spent on the capital projects represents a direct, major i
 The programme was highly successful in using public funds to attract private and partner investment. Against a total public sector capital investment of £13.64 million (including CDF, HM Treasury, Capital Kickstart, UKSPF and Wakefield Council’s own investment), the programme leveraged £6.06 million from private and partner sources. This means for every £1 of public funding, more than £0.44 was leveraged in additional capital investment.
 CDF investment directly resulted in the creation of 55 new full-time equivalent (FTE) jobs and supported the creation and safeguarding of a further 105 FTE jobs within the creative sector across the district.
 Unlike many time-limited interventions, CDF has created foundational infrastructure and programmes that will continue to generate economic and social value for the district long into the future.
-
 Conclusions
 Programme achievements
 The CDF programme demonstrates how strategic investment, guided by a coherent place-based vision and delivered through local authority leadership, can transform creative infrastructure and sector capacity despite extraordinary challenges. Wakefield Council's leadership exemplifies best practice in maintaining strategic focus while adapting tactical delivery, deploying flexible funding approaches to address emerging needs, building partnerships that leverage additional investment, and creating sustainable operating models for legacy assets.
@@ -393,31 +353,22 @@ Agility allows responsive adaptation to changing circumstances
 Partnership innovation leverages diverse resources to achieve outcomes beyond individual organisational capacity
 Legacy building ensures that temporary funding creates permanent positive change in local creative ecosystems. This approach has created a replicable model for place-based cultural development that other local authorities can adapt to their specific circumstances while maintaining the core principles that enabled Wakefield's success.
 Table 10  Strategic principles evidence summary
-
 Sustainable legacy
 The true success of the Cultural Development Fund in Wakefield will be measured by its long-term impact. The programme has been designed and delivered with sustainability at its core, creating a lasting legacy that extends far beyond the initial funding period.
 Table 11  Key achievements demonstrating strategic success
-
-
 APPENDICES
 Appendix 1: Detailed financial tables
 Table 12 Analysis of spend by project
 Source: The Fifth Sector analysis of Wakefield MDC data. Totals may not match precisely due to rounding.
-
-
 XPLOR – detailed outputs 
 The ERDF funding for XPLOR had specific output targets, which were met or exceeded:
 Table 13 XPLOR outputs
 Source: Production Park (2025)
-
 Production Park managed workspace 
 The project met its target of 40 jobs created between 2021 and 2023, but these jobs were created in only three businesses, not 20 as set out in the original funding agreement, reflecting the successful pivot to attract larger inward investors.
-
 Job creation
 The project met its original target of 55 jobs created and created or safeguarded at least 105 fuhter creative sector jobs across the district
-
 Table 14 Jobs created or safeguarded by CDF investment
-
 Appendix 2: Programme timeline and key decision points
 Initial conditions (2018-2019)
 Wakefield's Creative Sector challenges: Fragmented creative community with limited networking infrastructure; Lack of suitable creative workspace and event facilities; Gap between formal education and viable creative career pathways; Limited business support tailored to creative enterprises; Creative businesses operating in isolation without sector connectivity.
@@ -461,7 +412,6 @@ Systemic evidence
 Cross-sector partnerships emerging from Creative Leadership Programme
 WX establishing distinctive cultural positioning
 Production Park evolution to site of national strategic significance (CoSTAR)
-
 Sustainable legacy (2025+)
 Embedded infrastructure
 Physical (WX operational with sustainable business model; XPLOR generating £1.53m annually)
@@ -519,7 +469,6 @@ Quantitative Measures: Creative sector employment growth; Business engagement l
 Qualitative Measures: Creative community cohesion; Quality of infrastructure; Integration of creative sector in economic strategy; Recognition of Wakefield as a creative destination; Sustainability of partnerships.
 Theory validation
 This Theory of Change is validated by the evidence of impact, adaptive success, leverage achieved, network growth, strategic recognition, and institutional embedding demonstrated throughout this report. The theory holds because it recognises that creative sector development requires multiple, interconnected interventions, long-term commitment, partnership approaches, place-based understanding, and ecosystem thinking.
-
 Appendix 4: summer s'cool Case Study
 Strategic Context 
 summer s'cool is a quintessential example of Wakefield Council's adaptive approach to CDF implementation. The programme demonstrates how CDF investment catalysed sustainable change by addressing fundamental skills gaps and engaging young people from areas of multiple deprivation while creating pathways into the creative sector. Originally conceived as a targeted intervention to address foundational skills gaps identified by local creative employers, the programme evolved from its initial iteration in 2022 to a district-wide flagship initiative that exemplifies the Council's commitment to developing a comprehensive creative skills pipeline.
@@ -541,7 +490,6 @@ Practitioner Development: summer s’cool employed experienced creative practit
 "When we commission for summer s'cool, we commission experienced creatives and they bring with them trainees and apprentices. That's creating opportunities at that entry level."
 Strategic Integration & Legacy 
 summer s'cool exemplifies how individual CDF initiatives evolved to address systemic gaps. The programme connected to education, explored workforce development pathways, enhanced community engagement, and has been embedded into the Council's 'Our Year' programme and new skills strategy. Its sustainability is enhanced through a proven delivery model, established partnerships, and demonstrated cost-effectiveness.
-
 Appendix 5: Creative Wakefield network analysis and engagement metrics
 The evolution of Creative Wakefield's engagement (2020-2024) 
 Creative Wakefield's journey demonstrates a successful evolution from an information-led platform to a dynamic, multi-channel engagement hub.
@@ -551,11 +499,7 @@ Social Media: Follower numbers grew significantly across all platforms, most no
 Email Marketing: The newsletter maintained an open rate of over 50%, well above industry averages, indicating highly valued content.
 Conclusion
 Supported by CDF investment, Creative Wakefield has successfully transitioned from a nascent initiative to a thriving, multi-platform community hub. The key to this success has been its ability to adapt and evolve, moving from a top-down information provider to a bottom-up community facilitator.
-
-
-
-
-[TABLE 1]
+=== TABLES ===
 Metric | Result
 Initial CDF investment | £4.38 million
 Total programme value | £22.03 million
@@ -565,10 +509,6 @@ Creative sector employment growth | +32% (2020-2023)
 Sector GVA growth | +79% to £94.2 million (2020-2023)
 Creative Wakefield network growth | +458% (2020-2024)
 Youth skills engagement | Nearly 2,000 young people
-[/TABLE]
-
-
-[TABLE 2]
  | Project | Project | Project | Project | sources | sources
 Funding stream | WX
 (£) | XPLOR
@@ -589,10 +529,6 @@ MHCLG (ERDF) |  | 2,797,500 |  | 2,797,500 |  |
 Backstage Academy (ALT) |  | 4,298,029 |  | 4,298,029 |  | 
 Production Park |  |  | 1,759,630 | 1,759,630 |  | 
 grand total | 9,485,151 | 7,951,089 | 2,259,630 | 19,695,870 | 2,926,959 | 7,913,752
-[/TABLE]
-
-
-[TABLE 3]
 Item | Total
 (£) | Our Year contribution
 (£)
@@ -631,10 +567,6 @@ Legal Costs | 37,080 |
 Research and evaluation | 81,110 | 
 Section sub-total | 861,509 | 
 GRAND TOTAL | 2,336,850 | 197,151
-[/TABLE]
-
-
-[TABLE 4]
 Characteristic | Evidence
 Resilience | Maintained strategic vision despite construction cost overruns. 
 Continued development through COVID-19 disruption and business model changes. 
@@ -647,10 +579,6 @@ Identified lessons for sustained collaboration with the cultural sector and othe
 Legacy building | WX positioned as a focal point for the district's creative infrastructure. 
 Creative Exchange established as part of ongoing programming. 
 Created multiple sustainable revenue streams – events, F&B and creative workspace.
-[/TABLE]
-
-
-[TABLE 5]
 Characteristic | Evidence
 Resilience | Initiated and sustained collaboration despite initial funding being a fraction of total investment. 
 Maintained partnership through pandemic challenges and construction delays.
@@ -663,10 +591,6 @@ Enabled Creative Wakefield network connections with wider creative community.
 Legacy Building | £856k CDF and Creative Recovery Fund investment in R&D leveraged a CoSTAR partnership and a share of the £75.6m AHRC investment.
 XPLOR facility is now generating an estimated £1.53m in annual income. 
 Established a template for public-private creative sector collaboration.
-[/TABLE]
-
-
-[TABLE 6]
 Characteristic | Evidence
 Resilience | Maintained commitment to business support despite challenges with the initial 'Advance' programme. 
 Sustained the Creative Wakefield network through lockdowns and programme transitions.
@@ -677,19 +601,11 @@ Partnership Innovation | Enabled cross-departmental collaboration between Cultur
 Created a self-service portal that advertised over 300 new commissioning opportunities for Wakefield-based creatives.
 Legacy Building | The Creative Wakefield network has grown to 837 members (registered on the website). 
 The Xcellerator programme is now embedded in the Council's Regeneration & Economic Growth department, delivered jointly by Culture and Business Development teams.
-[/TABLE]
-
-
-[TABLE 7]
 Characteristic | Evidence
 Resilience | Maintained the commitment to skills development despite the withdrawal of the initial delivery partner.
 Agility | Pivoted from an institutional delivery model to a programme focused on individual practitioners.
 Partnership Innovation | Created a new, cross-sector collaboration model by partnering with Leeds University Business School.
 Legacy Building | 15 local leaders were trained, resulting in 12 ongoing cross-sector collaborations that strengthen the creative ecosystem.
-[/TABLE]
-
-
-[TABLE 8]
 Characteristic | Evidence
 Resilience | Evolved the programme model based on community feedback and grew district-wide delivery despite budget pressures.
 Agility | Adapted the delivery model to reflect feedback from community hubs and beneficiaries. 
@@ -697,19 +613,11 @@ Integrated a trainee development pathway responding to sector needs.
 Partnership Innovation | Forged partnerships between the Council's Culture team and delivery partners including The Art House, Tileyard North, CAPA College, and local freelancers, creating a multi-generational skills pipeline through embedded traineeships.
 Legacy Building | Gained recognition at national and international conferences. 
 Integrated into Wakefield's "Our Year" programme and being embedded into the Council's new skills strategy.
-[/TABLE]
-
-
-[TABLE 9]
 Characteristic | Evidence
 Resilience | Maintained network connectivity throughout the COVID-19 lockdowns and sustained programming through multiple external challenges.
 Agility | Adapted the website from a simple information portal to a dynamic sector directory and commissioning platform.
 Partnership Innovation | Facilitated promotion of 300 new creative commissioning opportunities from external partners through network connections and partner engagement.
 Legacy Building | Achieved 458% growth in network membership. The established framework provides a template for continued development across key priority areas.
-[/TABLE]
-
-
-[TABLE 10]
 Principle | Evidence
 Resilience | Maintained programme delivery through COVID-19 and significant construction overruns. An integrated approach built sectoral resilience where standalone projects would have failed. 
 Maintained strategic focus while adapting tactical delivery to enable continued value delivery despite extraordinary challenges.
@@ -719,10 +627,6 @@ Public-private collaboration demonstrated how initial public investment can cata
 Legacy building | Leveraging the Culture team’s relationship with Production Park was a critical success factor in securing a share of a nationally significant R&D programme (CoSTAR) for the district.
 32% creative sector employment growth, sustainable revenue generation (XPLOR £1.53m annually), and embedded programming models ensure continued impact beyond the funding period. 
 The evolution from national to local delivery models highlights the importance of place-based approaches.
-[/TABLE]
-
-
-[TABLE 11]
 Category | Achievement
 Employment growth | 32% increase in creative sector employment, with significant growth in key sub-sectors including music, performing and visual arts, advertising, marketing and design.
 Productivity impact | Sector GVA reached £94.2 million in 2023, with a strong and growing freelance economy.
@@ -732,10 +636,6 @@ Investment leverage | The partnership with Production Park contributed to securi
 Business support impact | Sustained increase in creative businesses accessing Council support through a pivot to local models of support, exemplified by the Xcellerator programme.
 Skills pipeline development | Nearly 2,000 engagements with young people through summer s'cool, with 75% expressing interest in progressing to further creative activity.
 Cultural leadership | 15 cultural leaders trained, resulting in 12 new cross-sector collaborations.
-[/TABLE]
-
-
-[TABLE 12]
 Project | Total cost
 (£k) | CDF funding (£k) | HMT/ Cultural Recovery Fund
 (£k) | UKSPF
@@ -748,19 +648,11 @@ Production Park workspace | 2,260 | 500 | - | - | - | 1,760
 Total Capital | 19,696 | 2,292 | 4,656 | 431 | 2,927 | 8,855
 Revenue programmes | 2,337 | 2,090 | - | - | 247 | -
 Grand total | 22,033 | 4,382 | 5,192 | 431 | 3,174 | 8,855
-[/TABLE]
-
-
-[TABLE 13]
 Measure | Total output | Detail
 Employment increase in supported enterprises | 10 | Creative Alchemy Ltd (2), Overdrive Club Ltd (2), Mucking Fuddle (freelancer), 4Wall Ltd (4), Mat Coop (freelancer)
 Number of researchers working in improved research infrastructure | 4 | Phil Adlam, Matt Glynn, Ali Wood, Pete Nye
 Number of enterprises supported to introduce new to the market products | 10 | Neon Workshops Ltd, Tech LED Ltd, OverDrive Club Ltd, DSM Productions Limited, National Coal Mining Museum For England Trust Ltd, Northern Ballet Ltd, The Hepworth Wakefield, The Arthouse, Rockpool Tour catering, Prince of Wales Hospice
 Number of enterprises supported to introduce new to the firm products | 20 | Neon Workshops Ltd, Tech LED Ltd, OverDrive Club Ltd, Creative Alchemy One Ltd, VIDAVEO Limited, MV Consulting Ltd, Johnny Carr Photography Ltd, Richee Mathwin, Evoke Media Group Limited, Easy2Display Ltd, Stuart Berry, 53 Degrees (Northern) Limited, Going Live TV Ltd, DSM Productions Limited, National Coal Mining Museum For England Trust Ltd, Northern Ballet Ltd, The Hepworth Wakefield, The Arthouse, Rockpool Tour catering, Prince of Wales Hospice
-[/TABLE]
-
-
-[TABLE 14]
 Project Component | Jobs (FTE) | Evidence Source & Justification
 Jobs created as a direct outcome of CDF investment | Jobs created as a direct outcome of CDF investment | Jobs created as a direct outcome of CDF investment
 Production Park | 40 | Managed Workspace capital project (tenancy-related jobs)
@@ -771,4 +663,3 @@ Production Park | 40 | Additional jobs created by businesses based on Production
 Wakefield Exchange | 35 | Post-completion census jobs of tenant businesses in the 100% let building
 Business Support | 30 | Aggregated figure of jobs created or safeguarded from the formal monitoring and self-reporting of the 35 businesses in the Xcellerator programme
 TOTAL | 160 | Sum of verified, distinct, and non-overlapping project outputs.
-[/TABLE]
