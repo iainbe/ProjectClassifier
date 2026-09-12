@@ -445,12 +445,14 @@ Applied SHELDON / THAD / DEEPTHINK / BLINDSPOT / SKiN / WISHFUL to the six popul
 
 P04-P09 all REVIEWED with Iain consistency confirmation recorded. P01-P03, P10 remain PROVISIONAL pending same walkthrough.
 
+### Section C resolutions (26/09/12) — all five quantified inconsistencies cleared: P27→160 FTE (Table 14); P75→£1,499.70 is P87 workshop, £10k doc pending; P22→interim/final positions reconciled arithmetically; P08→£4.0bn (table-verified); P06→2022-2025 (NPO conflation corrected).
+
 ### Remaining known limitations (not defects)
 
 - All A4 permission fields remain INTERNAL_ONLY/NOT_ESTABLISHED — no card may be cited in tenders until reference_status cleared (template §C.5 gate)
 - project_index.csv browse layer still not created (template §D promised)
 - source_claims cite generic C-G2-* ranges, not specific claim IDs
-- P06 Create Growth date discrepancy in source (2023-26 vs 2022-2025) preserved
+- P06 Create Growth date discrepancy RESOLVED 26/09/12 — cite 2022-2025 (DCMS actual); "2023-26" is an ACE NPO-settlement conflation inside the source document
 - P09 Nov 29 proposal remains unextractable (scanned PDF)
 - P36-DERBYCSR contracting_role=BIDDER is a legitimate value (not corruption)
 - contracting_role EMPTY on P37+ is honest — Phase 2 projects not yet confirmed

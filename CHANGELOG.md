@@ -1,3 +1,21 @@
+## 26/09/12 — Section C: all five quantified inconsistencies resolved
+
+**Trigger:** user instruction "in order" — working the Section C register one at a time.
+
+### Resolutions
+1. **P27 FTE** — RESOLVED from source: cite **160 FTE** (Table 14 itemised breakdown: 40 PP workspace + 14 XPLOR + 1 traineeship + 40 PP businesses + 35 WX + 30 Xcellerator, labelled "verified, distinct, non-overlapping"). The 120 in exec summary/headline table is a stale draft figure. Secondary slip recorded: "35 new jobs" = 35 businesses; jobs = 30. C-G2-058 rewritten.
+2. **P75 £1,499.70 vs £10k** — RESOLVED by Iain: INV-1357 = initial stakeholder workshop for the CICP2 bid — belongs to **new project P87-TRUENORTH**, not the P75 Places commission. SRC-R5-001 reassigned; P87 registered (live bid, paid workshop + Foresight proposal + Letters of Commitment + match-funding analyses). P75's £10k payment doc remains unlocated — flagged.
+3. **P22 cumulative totals** — RECONCILED arithmetically: £12.08m = £1.788M×6.76 ratio-implied total activity (incl. induced); £6.73M = direct LCR spend (Olsberg Type II ~1.8 gap). £3,930/job = £1.788M÷455 interim; £3,284 = £2.82M÷859 final. Claims now carry both interim (2021) and final (2025) positions.
+4. **P08 £4.0bn vs £4.5bn** — RESOLVED: cite **£4.0bn** (exec summary + analysis + appendix Table 8 LinkedIn 2024 = 4,000.0 £m). £4.5bn is a single narrative instance inconsistent with its own underlying table — stale draft figure.
+5. **P06 Create Growth dates** — RESOLVED: cite **2022-2025** (DCMS actual); "2023-26" in same document is ACE NPO-settlement conflation. C-G2-444 proposition corrected.
+
+### New registrations
+- P87-TRUENORTH project (Lancaster CICP2 bid support — paid workshop + bid analyses)
+- SRC-R5-014: Lancaster PO 5002151418 (£4,158.33+VAT, Oct 2025) on P76 Horizon bid — paid engagement evidence on a NOT_AWARDED bid
+- Lancaster engagements now cleanly separated: P75 (Places evidence), P76 (Horizon bid), P87 (True North workshop + bid support)
+
+### Section C status: COMPLETE — zero open quantified inconsistencies
+
 ## 26/09/12 — P86 outcome letter registered; score-capture rule added
 
 **Trigger:** user filed Creative Scotland outcome email into project folder; instructed scores be logged for successful and failed proposals.

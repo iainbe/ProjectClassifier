@@ -15,7 +15,7 @@
 | `client` | Lancaster University | register |
 | `contracting_role` | PRIME — direct proposal to Lancaster University | Iain 26/09/12 |
 | `commission_date` | 25/12 | register |
-| `contract_value` | £10,000 incl VAT proposal (Iain); payment evidence: remittance lu_8032520 £1,499.70 paid 26/05/08 vs INV-1357 (26/02/09) — amount relationship TBC (part-payment or separate invoice) | Iain + OneDrive remittance |
+| `contract_value` | £10,000 incl VAT proposal (Iain). RESOLVED 26/09/12: £1,499.70 remittance (INV-1357) is NOT this commission — it is the True North stakeholder workshop (P87-TRUENORTH). £10k payment evidence not yet located | Iain |
 | `geography` | Lancaster / North | register |
 | `sector_focus` | Nature-Culture-Tech creative cluster | application |
 | `lifecycle_status` | BID_SUBMITTED — awaiting AHRC outcome | register |
@@ -34,7 +34,7 @@
 | Field | Value | Source |
 |---|---|---|
 | `headline_finding` | Places evidence work completed and submitted inside Lancaster's CICP2 application — outcome pending | register |
-| `key_findings` | (1) Summary report v2 delivered; (2) MusicFutures Roundtable 2025 (placemaking/music ecosystems, Liverpool) as programme evidence; (3) paid commission — remittance advice in folder | C-G2-270-271 + notes |
+| `key_findings` | (1) Summary report v2 delivered; (2) MusicFutures Roundtable 2025 (placemaking/music ecosystems, Liverpool) as programme evidence; (3) paid commission — £10k proposal confirmed by Iain; payment doc still unlocated (earlier remittance attribution corrected to P87 workshop) | C-G2-270-271 + notes |
 | `client_decision_use` | Evidence base inside a live AHRC cluster application | application |
 
 ### A4. Permitted use
