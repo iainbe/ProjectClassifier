@@ -558,3 +558,10 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - ERROR CAUGHT + FIXED: my 25→26 correction conflated Kotor 2025 ministerial with Herceg Novi 2026 materials. Reverted to 25/05 (correct — sources in 2025 Projects/2025 Kotor with YYMMDD filenames 250527/250528)
 - Residual question for Iain: are 2026 Herceg Novi materials part of P82 or a separate engagement?
 - Method note: year inference from folder years fails when events recur — user confirmation beats inference
+
+
+---
+
+# Pass 16: P82 phase boundary resolved (26/09/12)
+
+- Iain confirmed single CEC programme arc (Kotor ministerial → council development → Herceg Novi follow-on); P82/P83 remain distinct register rows, cross-linked

@@ -16,7 +16,7 @@
 | `client_contact` | British Council WB programme team (Tara Solesbury — EWG report author; contract via BEYONDSTUDIO_CONTRACT0060 + addendum) | folder docs |
 | `reference_permission` | NOT_ESTABLISHED — check before citing (FCDO context) | — |
 | `commission_date` | 25/05 — Kotor ministerial 27-28 May 2025 (Iain confirmed: Kotor 2025 vs Herceg Novi 2026 = two events) | register + Iain |
-| `completion_date` | Ministerial phase complete 25/05; 2026 Berlin Process materials (briefing 18/05/26, EWG report 25/06/26) = Herceg Novi 2026 follow-on — phase boundary TBC | folder |
+| `completion_date` | Ministerial phase complete 25/05; 2026 Berlin Process materials (briefing 18/05/26, EWG report 25/06/26) = Herceg Novi 2026 follow-on — CONFIRMED part of same CEC work (Iain 26/09/12) | folder |
 | `contract_value` | NOT_DISCLOSED — contract + addendum in folder | contract docs |
 | `contracting_role` | PRIME — direct contract to British Council (Iain Bennett named contractor) | contract docs |
 | `prime_contractor` | The Fifth Sector / Iain Bennett | contract docs |
@@ -99,5 +99,5 @@
 | `reviewed_by` | Devin (folder+register+claims evidence) | — |
 | `source_claims` | C-G2-309-315 (7 claims) | 04_claims.csv |
 | `source_measurements` | None | — |
-| `unresolved_issues` | (1) Herceg Novi 2026 materials — same engagement as P82 or separate? (Iain); (2) contract value undisclosed; (3) Iain's formal role title; (4) follow-on instruction status | Derived |
+| `unresolved_issues` | (1) contract value undisclosed; (2) Iain's formal role title; (3) follow-on instruction status. RESOLVED: Herceg Novi 2026 = part of same CEC programme arc (Iain 26/09/12) | Derived |
 | `superseded_by` | None | — |
