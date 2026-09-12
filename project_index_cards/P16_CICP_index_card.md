@@ -55,3 +55,6 @@
 | `comparable_tenders` | P75-LANC, P85-AMGEN (bids into the programme this evaluated) | register |
 | `card_status` | DRAFT — pending Iain walkthrough | 26/09/12 |
 | `unresolved_issues` | (1) whether evaluation-delivery phases continued beyond 2020 design; (2) date_end UNKNOWN | register |
+
+
+<!-- 26/09/12 Iain: limit claims to "contributed to" — too distant to get permission for more specific attribution. -->

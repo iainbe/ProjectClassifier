@@ -46,7 +46,7 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `citation_status` | PUBLIC_REPORT (consortium co-authored — accurate attribution required) | T01 |
+| `citation_status` | PUBLIC_REPORT (credit line verbatim: "The Fifth Sector Limited / Unscrambled.world — In partnership with University of Liverpool Institute of Popular Music") (consortium co-authored — accurate attribution required) | T01 |
 | `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
 | `permitted_wording` | "Liverpool City Region Music Economy Report — £406m GVA converted to £780m total economic impact" (as used in T01) | T01 + canonical |
 | `expiry` | NOT_ESTABLISHED | — |
@@ -101,3 +101,6 @@
 | `source_measurements` | M-* for P33 | 06_measurements.csv |
 | `unresolved_issues` | (1) contract value + contact unknown; (2) consortium roles detail (Unscrambled/IPM split); (3) date_start year-only | Derived |
 | `superseded_by` | None | — |
+
+
+<!-- 26/09/12 Iain: Unscrambled = TFS subcontractor (no permission needed); IPM = UKRI Next Wave partner (permission implied); commissioner TBC — likely Liverpool City Council, Iain checking. £75m export lever CONFIRMED correct (Table 18). -->

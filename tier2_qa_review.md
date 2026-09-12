@@ -1,3 +1,11 @@
+## Consistency audit — 26/09/12 (card walkthrough)
+
+- 12 draft cards walked through with Iain; contracting structures corrected on P81/P82/P83/P22/P27/P78 (subcontractor-vs-direct now accurate).
+- C-G2-024 capped to contribution-level per Iain.
+- New register 11_permission_requests.csv (9 requests, all DRAFTED — none sent).
+- Contract-practice rule added: attribution+permission clause sought at contracting stage.
+- Residual: P78 2016 provenance, P33 commissioner, P81 folder registration.
+
 ## Consistency audit — 26/09/12 (P79/P85)
 
 - P79 lifecycle resolved: REPORTING_COMPLETE + client-clarification pending; Showcase hard stop 26/10/29 recorded (UKRI call verified).

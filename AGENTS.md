@@ -198,7 +198,7 @@ When informed a bid was submitted: copy `bid_submission_record_template.md` to `
 On any outcome mention: complete record section 5. Always establish `stage_reached` (highest stage, not just final result) and `notification_type` — never infer "failed" from "not awarded". **Log buyer panel scores verbatim where provided — for successful AND failed proposals** (criterion | weight | our score | overall weighted) into the scorecard §8 table and `08_tenders.csv` notes; scores are calibration data, not just outcome decoration. Then run the section 6 register checklist.
 
 ### Project confirmation trigger
-When a project is confirmed: copy `project_management_record_template.md` to `project_records/PXX-<name>_pm.md` and ask for empty fields in sections 1-3 — especially `contracting_role` (the ARRANGEMENT, not ownership), named contributors, and `reference_permission` (prompt Iain to ask the client at kickoff). Add register row + provisional index card.
+When a project is confirmed: copy `project_management_record_template.md` to `project_records/PXX-<name>_pm.md` and ask for empty fields in sections 1-3 — especially `contracting_role` (the ARRANGEMENT, not ownership), named contributors, and `reference_permission` (prompt Iain to ask the client at kickoff). **Contract-practice rule (Iain 26/09/12): at contracting stage, seek to include a method-attribution + citation-permission clause in the contract itself — permission secured contractually beats permission chased retrospectively.** Add register row + provisional index card.
 
 ### Milestone trigger
 At each milestone mention: append a Milestone section to the PM record. Ask the section-5 prompts — `spillover_observed` (with source) and `problems` (record rejections as they happen).

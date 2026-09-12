@@ -17,7 +17,7 @@
 | `commission_date` | 25/01 | register |
 | `completion_date` | 26/12 (register end; phase-complete, awaiting instruction) | register |
 | `contract_value` | NOT_DISCLOSED | — |
-| `contracting_role` | PRIME — LEAD_CONSULTANT | register |
+| `contracting_role` | DIRECT — British Council framework agreement, completed diary of engagements totalling 40 days (Iain 26/09/12); separately funded from UoP pilot | Iain |
 | `prime_contractor` | The Fifth Sector | register |
 | `geography` | Montenegro; North Macedonia; Albania; Western Balkans regional | register |
 | `sector_focus` | Creative economy capacity building — council/institution design | register |

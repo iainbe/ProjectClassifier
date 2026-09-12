@@ -1,3 +1,28 @@
+## 26/09/12 — Draft-card walkthrough complete; permission tracker created
+
+**Trigger:** "review draft cards; use that as a test for client-permission"
+
+### Card walkthrough resolutions (all 12 drafts)
+- **P81**: SUBCONTRACTOR via BEYOND framework (contract awaited, invoice on receipt); Phase 2/3 marked PROPOSED not contractual; contract to carry method-attribution + citation-permission clause — new contract-practice rule added to AGENTS.md
+- **P82**: SUBCONTRACTOR to University of Plymouth — FCDO contracted to UoP via BC, never touched TFS; "FCDO-funded" now qualified as programme-level
+- **P83**: DIRECT — BC framework agreement, 40-day completed diary of engagements; separately funded from UoP pilot
+- **P27**: DIRECT to Wakefield Council; Wakefield dual-ask agreed (P27+P64+P69)
+- **P33**: published credit line verified verbatim — "The Fifth Sector Limited / Unscrambled.world — In partnership with University of Liverpool IPM"; Unscrambled=TFS subcontractor (no ask), IPM=Next Wave partner (implied); £75m Table 18 confirmed; commissioner TBC (likely LCC)
+- **P22**: DIRECT via LCR Combined Authority; ask names data-vs-evaluation distinction explicitly
+- **P16**: claims CAPPED at "contributed to" (Iain) — specific attribution too distant to secure; C-G2-024 rewritten; PR-07 set CAPPED/do-not-send
+- **P78**: client = Beatles Legacy Group (unconstituted) — funding counterparty Liverpool BID
+- **P79**: two-tier permission structure (citation now; data-reuse at clarification)
+
+### New register: `11_permission_requests.csv`
+9 requests seeded — PR-01 BEYOND contract clause; PR-02 UoP; PR-03 Wakefield dual (3 projects); PR-04 LCC commissioner (TBC); PR-05 LCR CA (+bundle check); PR-06 Lancaster bundle (P75/P87); PR-07 BOP/Frontier (CAPPED); PR-08 Liverpool BID; PR-09 LLDC two-tier.
+Fields: client, contact, project_ids, scope, proposed_wording, channel, dates, status, notes — Iain-managed manually.
+
+### Open items carried
+- P78: 2016 predecessor-study provenance (repeat-measurement claim) — unconfirmed
+- P33: commissioner confirmation (likely LCC)
+- P81: ~15 folder docs unregistered; client email unread
+- All permission statuses DRAFTED — none sent
+
 ## 26/09/12 — P79/P85 external-event statuses (Iain)
 
 - **P79-CELL**: reporting stage COMPLETE; lifecycle corrected from DELIVERED ambiguity. Pending = client clarification on data presentation for reuse in CoSTAR Showcase bid. HARD STOP recorded: AHRC Showcase Labs call closes 26/10/29 16:00 UK (opened 26/08/24; surgeries w/b 26/09/28; ≤£4m FEC/lab, ≥50% match; award from April 2027).

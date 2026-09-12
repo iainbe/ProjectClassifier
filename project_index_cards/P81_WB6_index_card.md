@@ -17,7 +17,7 @@
 | `commission_date` | 26/01 (register); PoC reframe client note 26/07/08 | register + docs |
 | `completion_date` | ONGOING — baseline draft issued 26/08/20, awaiting BC approval | folder |
 | `contract_value` | Phase 1: £5,000; pipeline £5k→£80-100k→£150-300k — VERIFIED in client note v2 table. NB: stages in flux — departure of key BC staff member mid-project caused re-scoping confusion (Iain 26/09/12) | Pulse PoC Reframe v2 + Iain |
-| `contracting_role` | PRIME | register (LEAD_CONSULTANT) |
+| `contracting_role` | SUBCONTRACTOR via BEYOND (framework owner with British Council) — contract awaited, invoice on receipt (Iain 26/09/12); contract to carry method-attribution + citation-permission clause | Iain + register |
 | `prime_contractor` | The Fifth Sector | register |
 | `geography` | Western Balkans — all six economies; Albania + Kosovo as demonstration economies | folder + client note |
 | `sector_focus` | Creative economy measurement — skills-based occupational dashboard | client note |
@@ -27,7 +27,7 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `brief_summary` | The Fifth Sector is building a skills-based measurement baseline for the creative economy across all six Western Balkans economies for British Council. Initial LinkedIn job-title approach failed — insufficient data for 9 of 11 priority creative-tech occupations — so the method pivoted to a skills-based approach (LinkedIn + ESCO alignment), which showed a 13× improvement in tracking coverage in the Serbia test. The programme is explicitly gated: Phase 1 (£5k) validates methodology and costs Phases 2-3; Phase 2 (£80-100k) delivers the full WB6 audit and governance design; Phase 3 (£150-300k, externally funded) operates an annual public dashboard with progressive handover to in-country Creative Economy Councils. | client note + folder docs |
+| `brief_summary` | The Fifth Sector is building a skills-based measurement baseline for the creative economy across all six Western Balkans economies for British Council. Initial LinkedIn job-title approach failed — insufficient data for 9 of 11 priority creative-tech occupations — so the method pivoted to a skills-based approach (LinkedIn + ESCO alignment), which showed a 13× improvement in tracking coverage in the Serbia test. The programme is explicitly gated: Phase 1 (£5k) validates methodology and costs Phases 2-3; Phase 2 (£80-100k, PROPOSED — scope/budget TBC, not contractual) delivers the full WB6 audit and governance design; Phase 3 (£150-300k, PROPOSED, externally funded) operates an annual public dashboard with progressive handover to in-country Creative Economy Councils. | client note + folder docs |
 | `key_deliverables` | (1) Western Balkans Creative Economy Baseline draft report (26/08/20 — Albania+Kosovo demonstration economies); (2) WB Skills presentation v3; (3) Pulse PoC reframe client note v2; (4) source matrix; (5) data plans (scoped £5k) | folder |
 | `client_objective` | Establish a validated, costed method for measuring the WB6 creative economy — converting unmeasurable "jobs" into trackable "skills", enabling the regional dashboard and informing future British Council commissioning | client note + Kate scope email |
 | `scope_boundary` | WB6 economies; creative-tech occupations; LinkedIn/ESCO/national statistics (ARBK, ASKdata, Eurostat SBS); phased PoC→dashboard | folder |
@@ -101,3 +101,6 @@
 | `source_measurements` | None yet | 06_measurements.csv |
 | `unresolved_issues` | (1) Stage definitions in flux — key BC staff member departed mid-project (Iain 26/09/12); current scope is £5k design-phase-only with Phase 2 "subject to separate procurement" per THAD re-scope — relationship between that re-scope and the client-note phased table needs Iain confirmation; (2) no 02_sources rows for ~15 folder docs; (3) client response email unread; (4) baseline approval pending | Derived + Iain |
 | `superseded_by` | None | — |
+
+
+<!-- 26/09/12 Iain: contract awaited from BEYOND framework; invoice on receipt; contract to include method-attribution + citation-permission clause — permission will be contractually secured. -->

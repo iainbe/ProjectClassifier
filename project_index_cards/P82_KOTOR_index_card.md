@@ -1,6 +1,6 @@
 # P82 — Project Index Card (DRAFT — pending Iain review)
 
-**Project:** British Council Kotor Exchange Pilot — Berlin Process ministerial engagement (FCDO-funded)
+**Project:** British Council Kotor Exchange Pilot — Berlin Process ministerial engagement (FCDO-funded (programme-level — contracted to UoP))
 **Status:** PHASE_COMPLETE_AWAITING_INSTRUCTION
 **Card created:** 26/09/12 (register-extension batch B)
 
@@ -12,12 +12,12 @@
 |---|---|---|
 | `project_id` | P82 | 01_projects.csv |
 | `project_name` | British Council Kotor Exchange Pilot — UK expert contribution to the Western Balkans Creative Economy Ministerial Meeting (Berlin Process) | register + folder |
-| `client` | British Council (FCDO-funded — Iain-confirmed, not in extract) | register + Iain |
+| `client` | British Council (FCDO-funded (programme-level — contracted to UoP) — Iain-confirmed, not in extract) | register + Iain |
 | `client_contact` | British Council WB programme team (Tara Solesbury — EWG report author; contract via BEYONDSTUDIO_CONTRACT0060 + addendum) | folder docs |
 | `commission_date` | 25/05 — Kotor ministerial 27-28 May 2025 (Iain confirmed: Kotor 2025 vs Herceg Novi 2026 = two events) | register + Iain |
 | `completion_date` | Ministerial phase complete 25/05; 2026 Berlin Process materials (briefing 18/05/26, EWG report 25/06/26) = Herceg Novi 2026 follow-on — CONFIRMED part of same CEC work (Iain 26/09/12) | folder |
 | `contract_value` | NOT_DISCLOSED — contract + addendum in folder | contract docs |
-| `contracting_role` | PRIME — direct contract to British Council (Iain Bennett named contractor) | contract docs |
+| `contracting_role` | SUBCONTRACTOR to University of Plymouth — FCDO funding contracted to UoP via British Council; did not touch Fifth Sector (Iain 26/09/12) | Iain |
 | `prime_contractor` | The Fifth Sector / Iain Bennett | contract docs |
 | `geography` | Kotor, Montenegro; Western Balkans regional; UK | register |
 | `sector_focus` | Cultural exchange / creative economy ministerial forum | register |
