@@ -1,0 +1,403 @@
+Lancashire Digital Strategy
+May 2022
+Lancashire Digital Strategy
+May 2022
+Contents
+The Opportunity	2
+A once in a generation opportunity	3
+Vision	3
+Context	4
+Regional economic growth imperatives	4
+Regional Deals as Exemplars	5
+Success models we can learn from	5
+Competition, Collaboration and Partnerships	7
+Digital sector action plan	9
+Strategic imperatives	10
+The role of the digital sector in Lancashire Innovation Strategy	11
+1.	Lancashire’s digital ecosystem	13
+The Lancashire model	13
+2.	Business growth and investment	17
+3.	Transforming digital skills and talent	19
+Lancashire’s digital workforce	20
+Scenarios for digital sector jobs growth in Lancashire	21
+Digital skills and talent action plan	22
+Productivity	25
+4.	Identity, marketing and promotion	26
+Prioritisation	27
+Outcomes	28 
+
+
+The Opportunity
+The Lancashire Digital Economy Report 2021 sets out a picture of a digital sector which has grown by 28% over the last five years and in the period to 2028 is forecast to outstrip growth in Lancashire’s economy threefold.
+It is a diversified sector which includes:
+An information and communications sector with GVA in excess of £1bn per annum
+An e-commerce and creative tech sector together worth £1.3bn per annum, with research from Amazon and eBay suggesting that the county has a very high proportion of e-commerce traders as well as some leading businesses in that field
+Strengths in telecoms (particularly wireless), digital health and electronics manufacturing
+At this time, a combination of external investment and demand for digital transformation coming from other tech-hungry, high growth sectors of Lancashire’s economy, including Advanced Mobility, Cyber, Energy and Net Zero growth and Health, presents a once in a generation opportunity to move the digital sector from the fringes to the heart of Lancashire Economic Strategy. This strategy sets out a vision for that transformation, in which Lancashire will forge a new identity as a globally significant hub of a fourth industrial revolution – a revolution in applied industrial data. 
+A national perspective
+The digital economy is recognised as a key driver of growth with increasing significance in the future prosperity of the UK. DCMS estimates that the digital sector in the UK generated GVA of £137 bn in 2021. Since 2010, UK Government has made sustained interventions through arms-length bodies such as Tech Nation and Digital Catapult to increase the quantity, quality and share of investment to the tech sector. Historically, that has focused on London; but whilst the capital still absorbs the lion’s share of new money, other regions are harnessing more investment than ever before:
+With more money than ever flowing into UK tech - £29.4 billion this year, up 2.3x from last year’s figures of £11.5 billion - almost £9bn of all VC invested went into startups and scaleups outside London and the South East and the regions are home to nine of the 29 unicorns formed this year. The combined value of UK tech companies founded since 2000 is now £540 bn, after the biggest year-on-year increase since 2013/14.
+A once in a generation opportunity
+The reaction of stock markets to recent world events illustrates that technology, media and telecoms (TMT) remain relatively volatile. However, historic growth and the ability of tech businesses to attract valuations reflecting high multiples of turnover point to continued investor confidence.
+Lancashire’s digital sector is diverse, encompassing the gamut of digital capabilities, from digital marketing to high performance computing. The evolution of the e-commerce and creative tech sector – from simple e-commerce websites to subsequent app development and sophisticated fulfilment platforms indicate how digitally-enabled commerce can drive competitiveness and employment in a mass market sector. Rapid adaptation of artificial intelligence (AI) and machine learning (ML) continues to drive Lancashire’s performance.
+Lancashire’s digital capability is leading in the development of a new sector; ‘Electech’ which produces the electronics, electrical hardware and embedded software that enables the existence of technology. The Electech Innovation Cluster, based at the White Cross Industrial Park in Lancaster, has over 30 members and supporters across multiple traditional industry sectors.
+Lancashire’s digital sector also builds on a legacy of established advanced manufacturing strengths – including telecoms, electronics and sensors, drawing on the technology and cyber expertise manifest in advanced manufacturing sectors. Existing sector strengths in Aerospace, Nuclear Engineering and Electech are being built on and amplified by Lancashire’s digital sector – supported by significant input from the county’s universities in the areas of creative design, computer sciences and knowledge transfer. 
+
+ Differentiating Lancashire’s digital offer
+This unique combination of advanced digital, manufacturing and engineering capabilities differentiates Lancashire’s offer and provides ‘barriers to entry’ for others outside Lancashire.
+Lancashire’s expertise in data security, and in the secure and ethical creation, sharing and management of data, arises from a strong research base and effective technology transfer between universities and businesses. It was a critical factor in securing investment for the National Cyber Force (NCF), to be based alongside AMRC North West and the 5G Factory of the Future at Samlesbury; applied more broadly across key industry sectors and in sectors including health, these are strengths which Lancashire can also use to differentiate its offer from neighbouring metropolitan areas.
+Some agencies consulted reflected concern that there was too much ‘hot money’ in the market – too many investors looking for short-term returns on consumer-focused propositions. In proposing this strategy, we look for substantial and sustainable evidence of the translation of research into products and services capable of a transformational impact on society and economy as a whole. 
+Recent investments present Lancashire with a unique opportunity to identify itself as a leader in integrating digital technologies as part of large-scale multi-sector transformation.  
+ Vision
+Lancashire is the cradle of the fourth industrial revolution, at the heart of applied industrial technology and leading the transformation of its economy and society through ethical, innovative and secure applications of data and digital technology. 
+Strategic interventions in skills, business support, investment and a digital infrastructure which encompasses a nationally significant research centre and a network of hubs in towns and cities across the county will make Lancashire the fastest-growing digital economy in the UK, increasing digital employment to over 50,000 and the contribution of the digital sector to over £5 billion per annum by 2035 – growing from the current 3% contribution to over 10% of economic output.
+Lancashire’s combined industrial and academic strengths will be harnessed in creation of better data and the ethical and secure use and sharing of those data for the benefit of sectors and communities across the county.
+An innovative and sustained approach to inclusive growth in digital jobs and skills will stimulate productivity growth across the economy to provide an environmentally sustainable, healthy and prosperous future for all Lancashire’s people. In the process, this will make Lancashire more desirable both as a destination and a domicile.
+ By 2035:
+
+
+Context
+Regional economic growth imperatives
+Levelling Up White Paper
+The Levelling Up White Paper proposes a new policy regime for regional development. Two of the proposed 12 missions are particularly relevant to this strategy:
+‘Mission 2’ - R&D; aiming to boost spending outside the South East by 40% by 2030. A proposed increase in public R&D investment to £20bn by 2024-25 aims to leverage at least twice as much private sector investment to stimulate innovation and productivity growth. Department for Business, Energy and Industrial Strategy (BEIS) aims to invest at least 55% of its total domestic R&D funding outside the Greater South East by 202425.
+‘Mission 6’ – Skills; significantly increasing high quality skills course completion leading to 200,000 more people successfully completing courses annually with 80,000 more people completing courses in the lowest skilled areas. The White Paper describes investment of £3.8bn in skills planned by 2024-25.
+Lancashire’s Digital Strategy complements that of BEIS and its implementation would look to this new policy regime to support project funding. 
+Made Smarter and the 4th Industrial Revolution
+The UK Government’s Made Smarter review highlighted opportunities for the UK to become a global leader in industrial digitalisation by 2030. The adoption of Industrial Digital Technologies (‘IDTs’) aims to increase sector growth in UK manufacturing by 1.5 to 3 per cent, creating a net gain of 175,000 jobs and increased GVA of as much as £455 billion whilst reducing CO2 emissions by 4.5 percent.
+Lancashire’s Digital Strategy builds upon extensive work with businesses in manufacturing sectors across the county to implement Made Smarter and the recommendations of the Made Smarter Commission.
+ Regional Deals as Exemplars
+Other regions provide exemplars in looking to make the case for funding for the initiatives proposed in this strategy.
+As part of the £826m Aberdeen City Deal, the deal proposed investment of £105m in hubs for Innovation in the Oil & Gas (recently rebranded as the Net Zero Technology Centre), Agri-Food & Nutrition and Life Sciences sectors – all of which have strong clusters in the region. After 5 years, investments total £505m with 66% secured from private sources.
+Closer to home, Made in Sheffield is part of the Sheffield City Region deal approved in July 2012. The deal placed digital at the heart of South Yorkshire’s strategy through:
+Delivering the infrastructure with a major corporate partner.
+Collaboration and cluster development to foster innovation through cross-industry working between the private, public and research sectors,
+Focusing on fully exploiting digital in the advanced manufacturing, healthcare, low carbon and creative & digital sectors, digitalisation of key sectors to drive efficiency in the public and private sectors.
+ Success models we can learn from
+Lancashire’s approach reflects learning from successful models of cluster development in advance technologies both in the UK and internationally.
+AMRC North West is a gateway development on the Samlesbury Aerospace Enterprise Zone, which is part of the wider Lancashire Advanced Manufacturing and Energy Cluster. The flagship facility (built using a £20m grant from the Lancashire Enterprise Partnership (LEP) Growth Deal) extends the University of Sheffield AMRC’s footprint across the North. AMRC North West supports businesses to engage and adopt Industry 4.0 technologies, demystifying and de-risking the process through research, collaboration and knowledge. It provides a benchmark for the scale of project needed to deliver the benefits targeted in this strategy to Lancashire’s digital sector. 
+Bristol & Bath City Region is an exemplar of the role of university collaboration in developing significant digital innovation infrastructure. The digital ecosystem takes in: 
+	•	Bristol’s National Composite Centre and VR Lab
+	•	Bath’s CAMERA for VR in gaming and health applications and Automotive Propulsion Institute
+	•	Bristol Robotics Lab (a joint venture of the UWE and University of Bristol)
+	•	Bath Spa’s Centre for Cultural and Creative Industries (CCCI) 
+	•	UWE/Bristol's Health Technology hub. 
+Its cluster strategy has contributed enormously to Bristol & Bath City Region becoming a magnet for corporate partners and venture capital investors. The position of Bristol & Bath demonstrates the impact of great regional confidence and a sustained approach to regional economic development for the digital sector.
+South Carolina Innovation ‘Upstate SC Alliance’: Upstate South Carolina is a 10-county region that includes the Greenville metropolitan area and the Spartanburg metropolitan area. Both its population - approximately 1.4 million people – and physical scale are similar to Lancashire. Its strategy has enabled an economy previously dependant on the textile industry to transition to advanced manufacturing. Nearby Atlanta is a strong competing force, with headquarters of global businesses including Coca-Cola, Delta Airlines and UPS, but the Upstate SC Alliance has succeeding in developing a distinctive offer to inward investors and corporate partners including BMW and Michelin. In addition to the automotive sector, the Upstate SC Alliance is also looking to grow in engineered materials, aerospace and life sciences. It places a regional emphasis on collaboration and provides evidence that focus on workforce quality and skills, attracting ‘primes’ (large companies as anchor investors) and quality of life can compete with nearby large city offers.
+Scottish Optoelectronics Distributed Cluster:  Scotland has a long and distinguished history in optics, punching above its weight in a globally competitive market for over a century, built on an internationally recognised academic base and a thriving industry cluster.  Scottish Photonics is a £1bn industry supporting over 4,000 high-value jobs in a range of vertical sectors. This example demonstrates the power of a distributed approach to cluster development. The sector is supported by universities across Scotland, with around 250 academics and researchers in photonics, including optical communication, quantum technologies, biophotonics, and sensors and imaging. Much of this research is internationally leading, evidenced by the fact that around 25% of all UK research funding in photonics goes to Scotland.
+ Competition, Collaboration and Partnerships
+We consider that Lancashire’s “Unique Selling Points” are potential catalysts for developments in the digital sector. They provide defensible and distinctive capabilities creating high barriers to entry combining digital skills with those in Aerospace, Advanced Manufacturing and Nuclear Engineering.
+Existing collaborative structures can be built on by further investments in the digital sector. As traditional industries increasingly become digital, there are opportunities to attract and partner with international corporate partners.
+Case study: Electech Innovation Cluster
+The Electech industrial sector covers companies who design, deploy and support hardware built using some combination of ultra-low power, highly integrated electronics chips, medium to high power electro-technical systems and embedded software (the low-level software that controls the hardware). Electech is at the heart of every automation system and every robot.
+Almost every aspect of the digitalisation of industry requires many different Electech technologies, from communications to power sub-systems; from embedded processing for automation and control to intelligent lighting and security systems. Advanced Electech computation powers everything from the largest datacentres to the tiniest sensors and servos, doing everything from day-to-day computing to accelerating AI-based machine learning and making every electric motor smarter and self-maintaining.
+
+The Electech Innovation Cluster (ETIC), based in Lancaster, was founded by a consortium of technology companies to provide a strong collective voice. ETIC aims to bridge the gap between industry, research and development, government and education.
+
+
+The Electech Innovation Cluster (ETIC), based in Lancaster, was founded by a consortium of technology companies to provide a strong collective voice. ETIC aims to bridge the gap between industry, research and development, government and education.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Industry bodies estimate that Electech contributes more than £100 billion a year to the UK economy. The Morecambe Bay and South Lakes area is at the very heart of the 4th Industrial Revolution, harnessing innovative Electech technologies, supporting the transition to a low carbon economy and attracting investment. The area’s existing skills, infrastructure and supply chain are all vital for the UK’s recovery from the impact of Covid-19 and future growth.
+This is a sector which naturally lends itself to higher value added activity, improving economic output and creating high value jobs. ETIC is establishing an inclusive local peer network, aiming to enhance local skillsets, increase accessibility to Electech careers and enable knowledge sharing and collaboration. ETIC members are active across a wide range of sectors (Figure 1).
+ETIC demonstrates the effectiveness of an industry-led initiative of companies in Lancashire committed to supporting the collaborative growth of a new sector grouping. It currently has 30 members and supporters from the public and private sectors. The “horizontal” nature of digital technology and its wide impact as digitalisation penetrates ‘traditional’ sector definitions underpins its approach to cross-sector working.
+
+
+Figure 1  ETIC sectors
+
+Digital sector action plan
+Digital sector action plan
+Strategic imperatives
+ Essential enablers
+
+
+
+The role of the digital sector in Lancashire Innovation Strategy
+Lancashire Economic Partnership’s innovation strategy already identifies digital as a key sector in its own right, with key strengths in Cyber, innovation on electronics technology and manufacturing and applications in Advanced Mobility and Space. 
+But digital - the generation, interpretation and transmission of data from sensors and other inputs and the application of artificial intelligence in creating an output to control devices and processes – is a ‘frontier sector’, critical to the success of approaches to Rapid Innovation, Resilience, Security and Industry 4.0. 
+Consultation with industry representatives of Advanced Mobility, Cyber, Healthy Communities and Clean Growth has confirmed that digital is an integral part of those strategies.  
+The success of Lancashire’s Innovation Strategy depends on the successful outcomes of Lancashire’s digital strategy.
+
+
+	•	
+
+Figure 2 Lancashire Economic Partnership Frontier and Cross Sectors Tiers
+  
+Cyber, Digital & Secure Systems
+Advanced Mobility & Manufacturing
+Clean and Sustainable Growth
+Healthy Productive Communities
+Operationalise Aerial Systems & downstream applications (AAM, UAS, Space)
+Defend and counter Cyber 
+threats alongside state partners
+Automate medical diagnosis; Health Analytics; Predictive/Preventative Medicine
+Low Carbon & Clean Energy Tech; Nuclear Co-Generation & Applications
+ Resilience
+Industry 4.0+
+Rapid Innovation
+Security
+  
+Cyber, Digital & Secure Systems
+Advanced Mobility & Manufacturing
+Clean and Sustainable Growth
+Healthy Productive Communities
+Operationalise Aerial Systems & downstream applications (AAM, UAS, Space)
+Defend and counter Cyber 
+threats alongside state partners
+Automate medical diagnosis; Health Analytics; Predictive/Preventative Medicine
+Low Carbon & Clean Energy Tech; Nuclear Co-Generation & Applications
+ Resilience
+Industry 4.0+
+Rapid Innovation
+Security
+	•	Lancashire’s digital ecosystem
+Lancashire boasts a growing number of digital ‘hubs’ in towns and cities across the county (detailed in the Lancashire Digital Economy Report 2021). The digital sector businesses within those hubs are also demonstrating increasing success in attracting private equity, with nine deals ranging from hundreds of thousands of pounds to multi-million-pound investments in the first months of 2022.
+The Lancashire model
+National and international studies consistently stress the benefits, in terms of market entry, skills, knowledge exchange and productivity, arising from sector collocation. The digital sector’s dispersal across Lancashire - about half the workforce is distributed between Preston, Lancaster, Blackpool, Blackburn and Burnley - argues against a strategy based on agglomeration around a single market vertical. The lack of scale in any one place compared to national and international competitors would be unlikely to harness the benefits of agglomeration observed in Manchester ’s media-led sector or around software development in Leeds city regions. Rather, Lancashire has a distinctive set of assets and 
+capabilities that suggest it should pursue opportunities in applied industrial technologies for other ‘primes’ of the county’s economy in both private and public sector, with the potential to become a critical part of the supply chain in applied industrial technologies and data security for regional and national customers and partners. 
+Lancashire’s digital strategy does not, therefore, direct the creation of vertically integrated place-based clusters (along the lines of MediaCityUK), but will instead look to strengthen the connectivity and knowledge exchange between hubs as a way to build productivity, investment and growth in digital capability and capacity in the sector and the wider economy – including the ways in which applications of technologies including Cyber and AI will profoundly shape our future economic and social environment.
+This strategy sees digital as an enabler of growth and change, targeting innovation and solutions for identified large-sale global opportunities, reflecting sustainable growth and social benefit for producers, end users and consumers.
+The distributed model also allows for much closer interaction between the hubs, research institutions and FE colleges and employers in the digital sector and other industrial sectors looking to make increased use of applied industrial technologies. It will allow each location to remain agile and responsive to market signals from across a series of digital value chains, from fundamental research to collaboration R&D to industry-led innovation, from e-commerce to cyber security. And, just as importantly, it will allow the hubs to build strong connections to the communities and schools amongst which they sit to provide a visible spur to ambition and aspiration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3 Building Lancashire's digital ecosystem
+ Demonstrators and ‘MVPs’ 
+The Electech case study (see above) highlights the value of collaboration across industry sectors and with the academic research base in addressing innovation in applied data technologies. 
+The strategy builds upon this approach to help increase the specialisation and focus on Innovation Driven Enterprises across Lancashire’s digital ecosystem through development of demonstrators and ‘minimum viable products’ (MVPs) which address opportunities and challenges faced by Lancashire’s key industry sectors. Working collaboratively with HE to co-design and scope projects and agree outputs, the market-focused application of collaborative R&D will catalyse adoption of applied data technologies to increase productivity and drive growth across Lancashire’s economy.
+Collocating researchers and industry partners close to the end users is also an opportunity to build capacity, specialisation and industry awareness of the diverse and geographically dispersed digital capability across the county, providing focus for investment and recruitment into those digital hubs.
+
+ The North West Cyber Corridor
+Lancashire’s positioning emphasises collaboration with and market opportunities in neighbouring metropolitan areas. Initiatives such as National Cyber Force demonstrate the complementarity and interdependency of Lancashire and Manchester in growing cyber capability and capacity across the North West to deliver on a strategy that will make the region the UK hub for cyber security.
+Lancashire ‘s offer to investors and future workforce is long-term and strategic. Rather than chasing ‘hot money’ for close-to-market consumer applications of digital technology, it builds upon its base in advanced technology and applied industrial data across digital and manufacturing – both in research and industry capability – to address major strategic challenges for the UK. Lancashire’s greater experience of working collaboratively with government agencies in highly regulated sectors, including defence and nuclear, raises barriers to entry for competitors and helps align the interests of collaborative regions to its own.
+In this way, Lancashire crystallises a different offer, with an improved quality of life offer at its heart, to that of neighbouring cities looking to develop ‘vertically integrated’ digital communications and IT sectors.
+Samlesbury Super Hub
+The model of a distributed cluster has at its heart the creation of a new ‘Super Hub’ for the digital sector and applied industrial data technologies at Samlesbury.
+Samlesbury is already one of four Enterprise Zone sites across Lancashire, and home to the new Advanced Manufacturing & Research Centre (AMRC) North West facility, British Aerospace (BAe) and the 5G Factory of The Future. The addition of National Cyber Foundation will bring a further 3,000 jobs and transform the image of the Super Hub as a world class centre for digital innovation, skills and entrepreneurship. It will be at the heart of the UK’s largest cyber cluster, the North West Cyber Corridor, and will be a catalyst to realise the latent potential for the digital sector across Lancashire and will be at the heart of an ecosystem of physical locations and knowledge exchange driving the growth of the digital sector in Lancashire.
+To avoid duplicating services and ‘reinventing the wheel’, the Super Hub will draw upon and amplify the county-wide skills and business support systems and practices already in place, including Lancashire Digital Skills Partnership and Boost.
+
+
+Samlesbury Super Hub
+The model of a distributed cluster has at its heart the creation of a new ‘Super Hub’ for the digital sector and applied industrial data technologies at Samlesbury.
+Samlesbury is already one of four Enterprise Zone sites across Lancashire, and home to the new Advanced Manufacturing & Research Centre (AMRC) North West facility, British Aerospace (BAe) and the 5G Factory of The Future. The addition of National Cyber Foundation will bring a further 3,000 jobs and transform the image of the Super Hub as a world class centre for digital innovation, skills and entrepreneurship. It will be at the heart of the UK’s largest cyber cluster, the North West Cyber Corridor, and will be a catalyst to realise the latent potential for the digital sector across Lancashire and will be at the heart of an ecosystem of physical locations and knowledge exchange driving the growth of the digital sector in Lancashire.
+To avoid duplicating services and ‘reinventing the wheel’, the Super Hub will draw upon and amplify the county-wide skills and business support systems and practices already in place, including Lancashire Digital Skills Partnership and Boost.
+
+
+Harness and tailor existing, proven business support mechanisms to develop focused programmes of support, networking and knowledge exchange activities around the LEP’s defined sectors of growth and emerging markets.
+Identify opportunities across the hub network for applied data science demonstrators and prototyping zones for each of the LEP’s defined sectors of growth and emerging markets, including health.
+Use these demonstrators and the hubs’ networking events as platforms for a County-wide programme to promote the benefits of digital and applied data technologies to businesses in Lancashire.
+Support the development of existing and new hubs to deliver affordable incubation space for pre-start businesses and workspace for micro and small digital enterprises.
+Work with local authorities, universities and private sector landlords to ensure a pipeline of suitable space for ‘grow on’ businesses moving toward investment.
+Complement and connect to investments in world-class higher education, research and vocational skills provision and facilities made through Lancashire’s £320m Growth Deal, including UCLan’s flagship Engineering and Innovation Centre, the national Energy HQ in Blackpool, Lancaster’s Health Innovation Campus and the Advanced Manufacturing Research Centre.
+	•	 Business growth and investment
+The growth of digital industries globally and nationally, and demand for applied data technologies within growth sectors across Lancashire’s economy, mean that prospects for business growth are healthy. However, despite some recent successes, Lancashire’s digital businesses lag far behind their competitors in London and their metropolitan neighbours in cities such as Manchester and Leeds in the amount of equity investment they are able to attract. 
+This is critical for Lancashire because it is smaller and scale up organisations which will create the volume of jobs the county needs to fulfil its digital ambitions and meet demand from other sectors.
+Scottish Enterprise’s Logan report (2021) highlights that in order to build a sustainable investment pipeline, there needs to be a consistent flow of new entrants and new money, from pre-start through startup and scaleup businesses to those achieving an ‘exit’ at the end of the funnel. 
+This strategy champions the systemic approach set out in Figure 6, including dedicated support for pre-start, startup and scaleup businesses across all sectors, to build a vibrant and growing pipeline of new businesses and to complement Lancashire’s universities efforts to support the spin out and growth of more ‘Innovation Driven Enterprises’.
+
+
+
+
+
+
+Figure 4  Business growth and investment actions
+ Attracting global players
+
+Global IT consultancy firms already provide a significant proportion of the digital employment opportunities in Lancashire – but mostly in the role of service provider to large public sector clients.
+Lancashire’s digital strategy seeks to transform the sector landscape in the county from top to bottom, leveraging public sector investment in significant ‘centres of excellence’ such as National Cyber Force, AMRC North West and the national Energy HQ in Blackpool to identify opportunities for new R&D collaboration with other global digital ‘primes’ as part of a targetted inward investment campaign. 
+Inward investment can be used to accelerate acquisition of skills and capabilities critical to the development of Lancashire as part of a national cyber hub; without it, there is a risk that development of that capacity will take too long, undermining the opportunity and exposing Lancashire to greater competition.
+It can also open up access to global markets for applied industrial data across all industry sectors to Lancashire’s innovative SMEs.
+
+Attracting global players
+
+Global IT consultancy firms already provide a significant proportion of the digital employment opportunities in Lancashire – but mostly in the role of service provider to large public sector clients.
+Lancashire’s digital strategy seeks to transform the sector landscape in the county from top to bottom, leveraging public sector investment in significant ‘centres of excellence’ such as National Cyber Force, AMRC North West and the national Energy HQ in Blackpool to identify opportunities for new R&D collaboration with other global digital ‘primes’ as part of a targetted inward investment campaign. 
+Inward investment can be used to accelerate acquisition of skills and capabilities critical to the development of Lancashire as part of a national cyber hub; without it, there is a risk that development of that capacity will take too long, undermining the opportunity and exposing Lancashire to greater competition.
+It can also open up access to global markets for applied industrial data across all industry sectors to Lancashire’s innovative SMEs.
+
+Harness and tailor existing, proven business support mechanisms in the County (Boost and Made Smarter).
+Put in place incentives and support for patient money and smart capital to close the gap and opportunity in investment for Lancashire businesses
+Identify and scale more of the micro- and small eCommerce businesses, which are a ‘hidden strength’ of the sector, as an ‘entry level’ opportunity for new entrepreneurs.
+Complement work already underway in Lancashire’s universities to build the pipeline of Innovation Driven Enterprises, from pre-start to exit.
+Work with business leaders across all sectors to highlight productivity gains from digital.
+Support digital businesses to invest in new technologies and innovation to target identified high growth opportunities.
+Support businesses in priority sectors to adopt and apply data, digital tools and services (including AI) to deliver quick wins and realise the economic and social potential of longer-term growth opportunities in:
+Advanced Mobility
+Cyber
+Clean growth
+Health
+ 
+	•	Transforming digital skills and talent
+Lancashire needs more people with more advanced digital skills if it is to achieve its objectives. The scale of the opportunity to transform the digital skills and employment landscape is matched by the gravity of the challenge.
+Lancashire needs to invest further in digital skills, including re-skilling and up-skilling the existing workforce, to address structural issues which beset the county’s economy:
+Shortage of available jobs – there are not enough employment opportunities in Lancashire for its working age population
+Skills gaps and shortages
+Proportion of Level 4+ qualifications in the workforce below UK and regional average
+Ageing workforce
+These four issues combine to depress both wages and productivity levels in digital and across the economy – and need to be addressed if Lancashire is to take advantage of the opportunity which presents itself through NCF and other investment.
+Despite already boasting one of the country’s most joined-up approaches to digital skills development, Lancashire employers in both the tech and other sectors still report skills gaps and shortages, and the inability to attract people with the level of skills needed, as the most serious issue affecting not just growth but sustainability of their businesses. 
+Alongside this sit some structural challenges which affect digital sectors in all parts of the UK:
+Underrepresentation of women in the workforce – women make up fewer than one in six employees in some digital sub-sectors (although the picture improves slightly in digital content and marketing subsectors)
+Underrepresentation of people with other protected characteristics, including disability, race, creed, sexuality and socio-economic background
+Undersupply of new entrants at all levels – from take up of computer science-related courses of study in schools through apprenticeships into graduates and more experienced mid-career professionals
+There is also a job to be done in other sectors which will have increasing need of digital skills to ensure that both employers and employees have a better understanding of the need and opportunities to develop digital skills amongst the existing workforce, and the opportunities for recruitment and retention that presents in those areas of industry currently struggling to adopt the benefits of applied industrial tech in pursuit of increased sustainability and competitiveness in a time when global markets have been severely disrupted. 
+ Lancashire’s digital workforce
+Office of National Statistics data obtained through the Business Register and Employment Survey (BRES) represents an estimate of employment drawn from a survey of a small percentage of companies across the UK. This has some recognised limitations:
+It underestimates freelance and contract employment, an important part of the digital workforce, where the flexibility to introduce new skills either on a project basis or to catalyse R&D is an important factor in growth and the absorptive capacity for innovation of smaller firms
+It relies on Sector Industrial Classifications (SIC codes) which in many cases do not keep pace with this fast-moving industry.
+BRES (2020) estimates that total digital sector employment in Lancashire was 19,975. Analysis of LinkedIn carried out as part of the research for this strategy in May 2021 suggests that Lancashire’s digital workforce is nearly two-thirds as large again – more than 33,000 individuals.
+Some of these people are based in Lancashire and commuting out of area for employment; but this still represents a significant opportunity for Lancashire to do more to retain and ‘reshore’ resident talent to harness the opportunities for growth in the digital and other priority sectors over the next decade.
+ 
+
+
+
+Figure 5  Lancashire digital employment (Source: The Fifth Sector/Curator Technologies 2021)
+
+ Scenarios for digital sector jobs growth in Lancashire
+Current employment in digital industries in Lancashire stands at just below 20,000. Cambridge Econometrics’ estimate of digital jobs growth to 2035 (shown at (1) in Figure 4) reflects current trends. It emphasises how low levels of investment and skills gaps and shortages are holding back growth in Lancashire’s digital sector. 
+However, there are several factors which cause us to be more optimistic about jobs growth. 
+We already know that National Cyber Force (NCF) will create 3,000 new jobs in Lancashire by 2030 (2), of which it is estimated two-thirds will need to be recruited outside the county to reflect the levels of skills required. Private sector companies likely to be directly involved in supply chains to NCF suggest that this investment alone will create three new jobs in the Lancashire economy for each job created at NCF (3). Consultation with employers in digital and other priority sectors, universities, national tech organisations and other stakeholders indicates that implementation of the recommendations in this strategy could create an additional 15,000 jobs – bringing total employment in Lancashire’s digital sector to over 50,000 by 2035 (4).
+
+
+
+
+Figure 6  Scenarios for digital jobs growth to 2035
+
+
+ Digital skills and talent action plan
+Skills gaps and shortages of people with digital skills at all levels are, and will remain, the main constraints to growth of Lancashire’s digital sector. Unless addressed, this will also limit the ability of other priority sectors within Lancashire to meet their objectives.
+Capacity needs to be increased across the education and training system, from schools to universities and including private sector providers and employers’ own CPD, to provide Lancashire with a workforce with the skills needed to access any of the 3,000 employment opportunities at NCF. The county requires a systemic approach to increase the number of people entering the digital workforce, beginning in primary school with information and inspiration about digital careers, progressing through all stages of education and continuing throughout people’s working lives.
+Working with the Lancashire Digital Skills Partnership, the strategy has identified five priority actions which address three main themes:
+Inspiring children and young people
+Upskilling and reskilling residents
+Attracting and retaining digital talent 
+These combine to address the key problem faced by the digital sector and other pillars of growth in Lancashire’s economy – the need for more people with digital skills.
+
+
+
+
+
+
+
+
+Figure 7  Action plan: transforming digital skills and talent
+Lancashire Enterprise Partnership (LEP) has already taken significant strides to address the issue: it was the first area in the country to launch a Local Digital Skills Partnership trailblazer and is one of only eight areas in the Country, supported by DCMS in this ‘test and learn’ phase.
+The suggested actions (shown in Figure 5) build upon existing examples of good practice developed through the work of the LEP Skills team and its partners in education and industry. 
+Careers inspiration
+Since changes to the national curriculum saw ICT replaced by Computer Science in 2012, the number of students opting for that course of study has fallen. Fewer than 1 in 10 children in Lancashire pursue digital courses after Year 9.
+If Lancashire is to plug its skills gaps and shortages, it is essential that children, their parents and educators understand and can communicate the range of opportunities available to those with digital skills.
+Lancashire Digital Skills Partnership already coordinates online digital skills training and a range of digital resources and opportunities for schools and educators. It also offers initiatives for children as young as 8, designed to get children excited about the possibilities of digital long before they have to make their choice of GCSE course in Year 9, and to inform (and therefore reassure) their parents about the career prospects which arise from those skills. 
+Existing Teaching School Hubs and the advent of the new National Institute of Teaching can provide a focus on training teachers for digital programmes, including computer science. This could potentially deliver a step change in the quality and take-up of digital education in schools, and with it  the supply of suitable educated and qualified young people to Level 2 and Level 3 qualifications.
+Other initiatives, including the proposed Morecambe Bay Curriculum being promoted by partners to the bid for Eden North including Lancaster University and Lancaster & Morecambe College, also set digital skills in context of citizenship, developing the net zero industries of the future and global sustainability goals.
+Flexible models of delivery
+Digital apprenticeships, T Levels, traineeships and higher technical qualifications need simultaneously to meet the needs both of larger employers and a digital sector predominantly made up of businesses employing fewer than ten people. 
+For new entrants, this means supporting flexible provision through apprenticeships and group training schemes which allow smaller employers to share the burden of training whilst presenting the learner with the opportunity to experience a variety of working environments.
+For people already in work, returning to work or at risk of redundancy or redeployment, this means having access to up-to-date information and advice about the career opportunities available in skills and training for the skills needed to access them.
+For unemployed people, Escalate, Lancashire’s Skills Escalator programme to help unemployed people get back into work, has instituted effective referral processes, so that people can move from project to project to enhance their employability skills, secure sustainable employment and progress within the workforce.  The Lancashire Adult Skills Forum and the Employer Skills Forum bring together partners to support referral processes, share good practice and co-ordinate activity.
+Digital skills bootcamps
+Skills Bootcamps have been used successfully to give adults aged 19 and over who are either in work, self-employed, recently unemployed or returning to work after a break the opportunity to build up sector specific skills. Intensive and flexible courses of up to 16 weeks, all Skills Bootcamps offer a guaranteed interview for a job at the end.
+Recruitment and retention
+Whilst universities across the county are taking steps to increase recruitment into computer science subjects and meet employer demand for digital skills, Lancashire cannot rely solely on graduate entry to provide the digital workforce it needs to meet its growth ambitions. Lancashire already offers Access to Employment, funded recruitment and pre-employment training support for employers. For people already established in digital careers in other areas, recruitment and retention links to the other pillars of the strategy, around business growth, building Lancashire’s digital ecosystem and promoting Lancashire as both a dynamic digital economy and one which offers a more affordable and attractive quality of life than its competitors. 
+Digital inclusion
+Lancashire has a huge, underutilised talent resource amongst people with protected characteristics, including minority ethnic communities, women and people with disabilities. This strategy takes forward an innovative and sustained approach to inclusion. It emphasises the need for support for employers and new entrants from ‘non-traditional’ backgrounds to enter the sector to complement existing programmes such as InnovateHer (which aims to equip girls aged 13-16 with the self-belief and skills to pursue a career in technology) and City of Tomorrow (which invites young people aged 8-13 to design ideas for the safer, smarter, kinder City of Tomorrow, surfacing careers in the connected city). This encompasses programmes to support educators and parents in understanding the career opportunities that arise from digital skills, programmes for new entrants and those currently excluded from the workforce and measures to support people being made redundant or redeployed from role in other sectors.
+The strategy for diversity and inclusion extends to offering support for entrepreneurship – many of the leaders of Lancashire’s successful e-commerce sector and an increasing proportion of those working in cyber come from South Asian backgrounds – as well as highlighting to employers the value of a diverse workforce in addressing global markets. 
+ Productivity
+Productivity in Lancashire’s digital sectors is less than two-thirds the national average, reflecting gaps and shortage in skills and the fact that many of the micro-enterprises which make up the overwhelming majority of businesses in the sector are not taking opportunities presented either amongst the traditional ‘primes’ of Lancashire’s manufacturing and engineering sectors, or in the larger commercial markets in neighbouring metropolitan areas.
+The digital strategy aims to close this productivity gap by 2035 and then continue to exploit the conditions for growth to make Lancashire one of the most productive digital regions of the UK. Over the period to 2035, the strategy aims to achieve a £4 bn increase in GVA (at 2020 prices) attributable equally to an increase in the number of digital jobs and in output for each employee.
+Productivity
+Productivity in Lancashire’s digital sectors is less than two-thirds the national average, reflecting gaps and shortage in skills and the fact that many of the micro-enterprises which make up the overwhelming majority of businesses in the sector are not taking opportunities presented either amongst the traditional ‘primes’ of Lancashire’s manufacturing and engineering sectors, or in the larger commercial markets in neighbouring metropolitan areas.
+The digital strategy aims to close this productivity gap by 2035 and then continue to exploit the conditions for growth to make Lancashire one of the most productive digital regions of the UK. Over the period to 2035, the strategy aims to achieve a £4 bn increase in GVA (at 2020 prices) attributable equally to an increase in the number of digital jobs and in output for each employee.
+Lancashire needs more people with more advanced digital skills. Accelerating and improving the quantity and quality of supply of digital skills and talent is the most significant challenge in addressing existing skills gaps and shortages and building capacity for Lancashire’s residents and businesses to take advantage of opportunities for growth.
+Delivered through investment in an expanded Lancashire Digital Skills Partnership, these actions will help Lancashire become a digital skills hot spot with:
+High levels of digital inclusion
+Successful businesses and increased productivity across all sectors
+A pipeline of people with digital skills leaving our schools, colleges, universities and training providers
+Support digital businesses to invest in new technologies and innovation to target identified opportunities in high growth areas
+ 
+
+	•	Identity, marketing and promotion 
+Lancashire is currently a net exporter of digital talent to London and neighbouring metropolitan areas. Although the measures set out under skills, business support and ecosystem development will do much to address the need for more people, more jobs, more high growth businesses and increased investment, other measures need to be taken to secure the development of a resilient digital sector and to make available the digital talent needed to fuel growth across Lancashire’s economy.
+These include:
+Recruitment in the short term of people with higher level digital skills to address gaps and shortages
+Increased recruitment into and retention of a greater proportion of computer science graduates from Lancashire’s universities
+Attracting investment from two or three global digital businesses which can ‘anchor’ the digital ecosystem and provide additional impetus to collaborative R&D with the county’s universities and SMEs
+This requires a coordinated focus on marketing and inward investment which highlights Lancashire’s distinct benefits for digital employers and employees: 
+A range of affordable housing in attractive areas close to potential employers
+Good national and international transport links to markets
+Quality of life – the distinctive mix or urban, rural and coastal environments accessible from anywhere in the county
+Lancashire’s role as a  critical hub within an interdependent and  complementary North West Cyber Corridor
+Lancashire as a leading source of innovation in data science
+
+
+Figure 8 Identity, marketing and promotion
+
+Prioritisation
+
+Outcomes
+The success of Lancashire’s digital strategy rests upon an action plan which aims to deliver:
+More people with more advanced digital skills
+More jobs
+More support for scaleup businesses
+More investment
+
+Outcome
+Short term (up to 2025)
+Medium term (up to 2030)
+By 2035
+Addressing skills gaps and shortages
+
+
+
+Inspiring younger residents to develop an interest in tech leading to a career in a digital discipline
+
+
+
+Reskilling and upskilling Lancashire residents
+
+
+
+Greater diversity and inclusion in the digital workforce
+
+
+
+Supporting existing businesses in the digital economy to scale up
+
+
+
+Increasing investment in innovation in new technologies
+
+
+
+Supporting businesses in LEP’s other pillar of growth sectors to become more productive through application of digital tech
+
+
+
+mulation activity’.  Sarah has some really good ideas/content that will help.

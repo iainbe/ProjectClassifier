@@ -1,0 +1,1500 @@
+Rushmoor Borough Council
+Cultural Strategy and Cultural Compact
+Baseline report
+Version 2
+
+
+
+
+December 2021
+
+
+Contents
+Baseline report	1
+Version 1	1
+Contents	2
+Figures	4
+Tables	5
+CULTURAL & CREATIVE INDUSTRIES	6
+Methodology	6
+Scale, significance and characteristics of Cultural and Creative Industries in Rushmoor	8
+Comparison of datasets	10
+CREATIVE WORKFORCE	13
+PRODUCTIVITY	17
+IMPACT OF COVID-19	18
+COMPUTER GAMES	20
+FILM & TELEVISION	20
+Situational analysis – screen industries	20
+Overview of findings from consultation	25
+MUSIC	28
+Situational analysis	29
+Scale of the UK sector	29
+Equality, diversity and inclusion	29
+Impact of Covid	30
+Opportunities to grow the Rushmoor music sector	30
+VISUAL ARTS	32
+FESTIVALS AND EVENTS	32
+Key findings	32
+Other creative sectors	32
+HERITAGE	32
+Aviation heritage	32
+RUSHMOOR CULTURAL STRATEGY SURVEYS	35
+Rushmoor Cultural Strategy Resident Survey	35
+Analysis	46
+FINDINGS FROM CONSULTATION	47
+EQUALITY, DIVERSITY AND INCLUSION	48
+Context	48
+What do we mean by diversity?	48
+Equity- talent	49
+Equity- audiences/participants	49
+Inclusion	50
+Recommended actions:	51
+BENCHMARKS	53
+Dundee – jam, jute, journalism and joysticks	53
+Laval – the superpower of specialisation	53
+ECONOMIC IMPACT OF ARTS, CULTURE & HERITAGE ACTIVITY	54
+Regional competitiveness	54
+Potential interventions	57
+Guiding investment	59
+HORIZON SCAN OF FUNDING AND FINANCING OPPORTUNITIES	59
+A.	Funding specific to arts, culture or heritage	59
+B.	National public funding programmes (not culture specific)	64
+Analysis and interpretation	66
+Appendix 1: Most memorable cultural events in the past 25 years	66
+Rushmoor Arts and Cultural Mapping Survey	75
+
+Figures
+Figure 1 Change in count of Rushmoor CCI businesses, 2015-2020	8
+Figure 2 Rushmoor CCI subsectors 2021	10
+Figure 3  Comparison of Companies House and ONS data	11
+Figure 4  Rushmoor registered CCI businesses by DCMS subsector	12
+Figure 5  Creative enterprises in and around Rushmoor 2021	13
+Figure 6  Rushmoor Creative Industries employment, BRES 2019	14
+Figure 7  Creative supply chains	15
+Figure 8   Comparison of Rushmoor creative workforce: LinkedIn 2021 vs BRES 2019	15
+Figure 9  Primary commissioning value of UK television productions by region of production 2015-2020	25
+Figure 10  Viewing habits of individuals - Ofcom 2018	26
+Figure 11  Screen viewing habits, Ofcom 2020	26
+Figure 12  Value of music tourism to the South East, 2019	29
+Figure 13  PRS Foundation	31
+Figure 14  Festivals & Events	33
+Figure 15 Age profile of respondents	36
+Figure 16  Q1. The type of activities residents think of when they hear the terms arts and culture	37
+Figure 17  Q2. Rate arts and cultural activities in order of importance	38
+Figure 18  Q3. Which arts and cultural activities are of the most importance in supporting the community in several ways?	39
+Figure 19  Q4. What arts, cultural or heritage events in Aldershot or Farnborough have residents participated in over the last two years?	39
+Figure 20  Q5. Rate the importance of events, involving cultural activities, that they had taken part in or attended during the last two years	39
+Figure 21  Q6. What puts residents off, or stops them from attending, arts and cultural activities	40
+Figure 22  Q7. The types of arts and cultural events residents would like to see more of in Aldershot and Farnborough	40
+Figure 23  Q8. What residents like to do in their spare time	42
+Figure 24  Tell us in a few words what you think is great about where you live?	46
+Figure 25  Economic impacts of arts & culture industry by region – direct impacts, 2018	56
+Figure 26  Q1. Answering the survey as ...	76
+Figure 27  Q4. The main focus of their work	77
+Figure 28  Q6. Does the organisation create, commission or curate, stage, promote or support other people’s new artistic work?	78
+Figure 29  Q7. Arts and cultural activities	78
+Figure 30  Q9. Are the organisations part of local networks	79
+Figure 31  Q10. Assisting the organisations aims and objectives	80
+Figure 32  Q14. The main employment of freelancers and sole traders	81
+Figure 33  Q15. How they support their practice	81
+Figure 34  Q17. Where they have worked geographically in the last two years	82
+Figure 35 Opportunities sought by local freelancers and sole traders	82
+Figure 36  Q.25 Where the network or group operates	83
+Figure 37  Q26. What would assist your organisation’s aims and objectives?	84
+Figure 38  Q29: Which artform is the main focus of your work?	84
+
+Tables
+
+Table 1  DCMS definitions of cultural, creative and digital industries	6
+Table 2  Relationship between non-profit and for-profit creative sub-sectors	7
+Table 3  Employment in Rushmoor's Creative Industries, BRES 2019	13
+Table 4  Creative businesses in Guildford – Aldershot TTWA	18
+Table 5 What do you naturally think of when you hear "art and culture" (n = 477)	42
+Table 6  Which arts and cultural activities are most important to residents? (n = 477)	43
+Table 7  Application of arts and cultural activity (n = 472)	43
+Table 8  Participation (n = 475)	44
+Table 9 Everyday participation (n = 477)	45
+Table 10  Future activities (n = 477)	46
+
+CULTURAL & CREATIVE INDUSTRIES
+Methodology
+Most mapping studies of the creative industries in the UK are based upon the Department for Digital, Culture, Media & Sport (DCMS) definition of cultural, creative and digital industries. This is based on groupings of Standard Industrial Classification (SIC codes), whose categories overlap – ‘cultural’ sectors including film, television and music also appear in the ‘digital’ industries definition. Whilst new categories have been introduced since this definition was adopted in 2000, notably in games, there is widespread acceptance that this methodology has constraints when it comes to measuring cultural and creative activity, particularly around articulating the ‘portfolio’ and freelance nature of much creative employment and in reflecting the emergence of new forms of digital cultural production, such as those around XR (augmented, extended, mixed and virtual reality).
+Nonetheless, SIC code-based analysis of ONS data provide a nationally comparable set of statistics which also present the opportunity to analyse changes in sector composition, at a high level, over time. Therefore, our mapping of ’s cultural & creative industries (CCI) reflects those classifications in part whilst adding some innovative methods which combine to give a more detailed picture of the composition and of the business base and workforce of the creative industries in Rushmoor, as well as their clustering, productivity and competitiveness.
+
+Table 1  DCMS definitions of cultural, creative and digital industries
+
+Relationship between non-profit and commercial activity in cultural and creative industries
+The assumption that ‘cultural’ production equates to not-for-profit activity, and that ‘creative industries’ is an entirely different, commercial sector, does not hold good in reality. A plurality of creative enterprises – both registered businesses, freelance workers and self-employed artists – will operate a ‘mixed economy’ portfolio of both ‘not-for-profit’ and commercial work, as highlighted in Figure 2, below.
+This means that sector growth planning needs to take account of the R&D inputs represented by not-for-profit activity, as well as the critical role of volunteering and paid work in the not-for-profit sector in developing skills and experience essential in pursuit of a commercially viable career.
+Table 2  Relationship between non-profit and for-profit creative sub-sectors
+Creative Industries sub-sector
+Non-profit
+For profit
+Arts & Culture
+Services run by local authorities, universities, charities, social enterprises of community /voluntary groups
+Non-profits developing skills and talent
+Sector support organisations
+Commercial galleries, theatres and producers
+Privately / commercially managed / owned heritage buildings, land of other heritage attractions
+Performing artists, creatives, technicians and their agents
+Digital / Createch
+Creative digital activities within not-for-profit organisations
+Non-cultural ‘Tech4Good’
+Commercial businesses ranging from creative digital design through games, apps and software publishers to IT services and consultancy
+Film & television
+Producers and distributors of ‘cultural film
+Non-profit cinemas, screening venues and touring networks
+Image, audio, immersive output within non-profit organisations
+Public service broadcasting
+Broadcasters, producers, production services and design, post-production, distribution, sales, cinemas, entertainment licensing and retail etc
+Performing artists, creatives and technicians, and their agents
+Music
+Funded venues, orchestras and talent development
+Commercial producers, labels, promoters, venue
+Performing artists, creatives and technicians, and their agents
+Publishing
+The funded literature sector
+Non-profits developing readers or writers
+Authors and their agents
+Commercial publishing
+Commercial bookshops
+Commercial online book and e-book platforms
+
+Innovative approaches to address gaps in workforce data
+In addition to an analysis of ONS data, we have applied an innovative method, developed by The Fifth Sector in partnership with Curator Technologies to address gaps in the evidence base relating to freelance employment. This uses LinkedIn as a massive survey sample – the site has 29 million registered users in the UK, out of a total working population of 33 million. Data is searched by place-based identifiers – names of towns and cities, and LinkedIn industry codes. The latter are 
+Innovative approaches to address gaps in evidence of economic performance
+Whilst it is recognised that local authorities, charities and third sector organisations have an important role in the preservation of heritage and production of cultural experiences, there is no single source of data which looks to include these inputs and outputs alongside company data. We have combined data from several complementary sources, and our own research with local councils, to identify approximately 744 independent creative and digital enterprises (including cultural venues) and 99 cultural assets in Council ownership across Rushmoor. This database uses a set of SIC codes which is consistent with DCMS definitions of cultural, creative and digital industries wherever possible and combined data from:
+	•	Rushmoor and partners
+	•	Companies House records
+	•	Existing databases held by The Fifth Sector and consortium partners
+Scale, significance and characteristics of Cultural and Creative Industries in Rushmoor
+Creative businesses
+Office of National Statistics (ONS) business counts are the measure commonly referred to in national data on cultural and creative industries (CCI). This record shows little or no growth in company numbers in Rushmoor between 2015-2020. Rushmoor added only a net 70 companies over this period, growing from 975 to 1,045 businesses (7%), of which 970 were micro-enterprises and 890 employed four people or fewer. This would put Rushmoor far below the national average and the performance of other regions.
+The data also indicate relative stagnation in some creative sectors, with only IT, software & computer services and Film & television showing significant growth.
+
+Figure 1 Change in count of Rushmoor CCI businesses, 2015-2020
+
+Source: NOMIS, 10 August 2021
+
+This evidence seems to contradict other evidence of growth in the CCI sector employment across the North East between 2011 and 2020 (see Figure 5, below). It also seems a partial record when compared with our own analysis. 
+Search of Companies House and analysis of Dun & Bradstreet data, using SIC codes identified within DCMS definition of 'Culture and Creative Industries', identified 2,050 businesses with registered offices in Rushmoor - roughly double the ONS estimate. 
+Analysing those results shows that music, performing and visual arts is the largest single creative subsector in Rushmoor, whilst ‘content creation’ – screen industries, computer games and software development – is of considerably greater significance than reflected in ONS data.
+
+
+Figure 2 Rushmoor CCI subsectors 2021 
+
+The Fifth Sector/Curator analysis of Companies House data, August 2021
+Comparison of datasets
+Comparing our analysis of Companies House data with the most recent ONS data (from 2020) shows some small variances, notably:
+	•	10% more active businesses in total – 567 against 515 – even after the pandemic.
+	•	Significantly more music, visual and performing arts enterprises (66 against 20).
+	•	More advertising & marketing businesses than recorded in ONS (49 against 20).
+	•	Using five-digit SIC code analysis identifies 19 companies within specific computer games SIC codes – 8 in 58210 “Publishing of computer games” and 11 in 62011, “ready-made interactive leisure and entertainment software.”
+	•	A further 175 businesses within the digital SIC codes used by TechNation to assess the scale of the ‘tech’ sector – many of whose activities, on manual analysis of websites, would fall within the games or advertising & marketing supply chain.
+We also identified two companies within the production & events supply chain, with capability to support live events and music.
+Figure 3  Comparison of Companies House and ONS data
+
+
+
+Figure 4 relates these figures to business location:
+Figure 4  Rushmoor registered CCI businesses by DCMS subsector
+
+Source: The Fifth Sector/Curator Technologies 2021 – n =744
+
+The ‘content’ supply chain includes 19 games companies, identified by SIC code. However, we know from our own observations of companies within other TechNation SIC codes, confirmed by a recent Nesta study, that only 35% of games companies use the ‘correct’ SIC codes of ‘Ready-made interactive leisure and entertainment software development’ and ‘Publishing of computer games’. Other computer games companies are registered under other digital SIC codes, such as ‘Business and domestic software development’ and ‘Other software publishing’, or even more generic business and professional service classifications. Therefore, the creative content supply chain may be understated by as many as 50-60 businesses, with a corresponding overstatement of digital companies
+
+Location of creative organisations across Rushmoor
+Mapping all creative organisations allows us to see the emerging clusters, hot spots and cold spots across and around Rushmoor.
+Figure 5  Creative enterprises in and around Rushmoor 2021
+
+Source: The Fifth Sector/Curator Technologies 2021
+
+CREATIVE WORKFORCE
+Creative employment – BRES
+The Business Register and Employment survey (BRES) shows reflects the significance of digital sector (IT, software & computer services) within Rushmoor’s creative industries, which represents over 5,000 out of a total 6,000 jobs. 
+Table 3  Employment in Rushmoor's Creative Industries, BRES 2019
+Advertising and marketing
+175
+Architecture 
+60
+Crafts
+5
+Design
+70
+Film, television, radio, video & photography
+140
+Publishing
+265
+IT, Software & Computer Services
+5,070
+Music, visual and performing arts
+30
+Museums, galleries and museums
+45
+
+ Figure 6  Rushmoor Creative Industries employment, BRES 2019
+
+
+Source: The Fifth Sector 2021
+Supply chain analysis
+In order to be able to take a consistent approach to understanding the relationship between companies, locations, workforce, turnover and provision of skills, we apply groupings by supply chain, which looks not only creative outputs, but considers elements of common workforce, including freelancers, and suppliers. This highlights potential for collaboration, development of transferable skills and integrated working between sectors.
+The five supply chain groupings we apply are:
+	•	Creative content: computer/mobile games, publishing, film, video, broadcast media, animation, photography
+	•	Creative experiences: music, performing arts (theatre, dance, etc), museums, heritage, libraries 
+	•	Creative originals: arts & crafts, fine art, fashion
+	•	Creative services: marketing, advertising, built environment, graphic/product/service design
+	•	Digital technology: IT consultancy, services, security, networking
+Figure 7  Creative supply chains
+  
+Source: The Fifth Sector 2021
+Creative workforce - LinkedIn
+Analysis of LinkedIn through a search combining place identifiers and industry codes shows 5,790 individuals located in Rushmoor working within or actively seeking employment in the cultural and creative industries (June 2021). This reflects the most recent data (2019) from BRES, which shows employment of 6,000 within the creative industries – but we should bear in mind that BRES is a record of the sector pre-pandemic.
+However, the balance between sectors is very different. The discrepancy comes about for several reasons: 
+	•	LinkedIn data reflects freelance and self-employed individuals, as well as company employees.
+	•	It also counts individuals who may be underemployed, in that they may be undertaking some creative work as part of a ‘portfolio’ of other work, as well as the unemployed.
+	•	The count of ‘digital’ employees may include a higher proportion of those in technical and support roles – although there are some balancing factors to this, which we discuss below.
+Figure 8   Comparison of Rushmoor creative workforce: LinkedIn 2021 vs BRES 2019
+
+The Fifth Sector/Curator Technologies 2021
+
+Creative workforce mapping – findings
+Taking a conservative view and stripping out all digital technology and consultancy roles (3,509) still leaves a cultural and creative industries workforce of around 2,500– but further analysis shows that 1,453 of those working within digital technology describe their roles as being in ‘creative and production’ functions. Therefore, we have a high level of confidence that Rushmoor’s creative workforce numbers some 4,000 people. 
+The greatest discrepancies between BRES and LinkedIn data are in:
+	•	Creative experiences (333 in LinkedIn vs a combined 75 in music, visual and performing arts and museums, galleries and libraries combined in BRES 2019) 
+	•	Creative services (1,034 vs 305 if we combine advertising marketing, architecture and all design)
+	•	Creative originals (347 vs 5 in craft and 70 in design in BRES 2019)
+This could be accounted for by two factors:
+	•	High levels of self-employment amongst artists, craftspeople and ‘makers’, which means that many fall below the threshold for BRES.
+	•	Rapid increases in employment within ‘digital’ advertising and marketing agencies which may not be registered under one of the SIC codes used by ONS to measure the creative industries sector.
+However, there are some other factors that the sector growth plan needs to address:
+	•	LinkedIn data is a measure of individual potential, not employment. Those totals may mask high levels of unemployment, underemployment and individuals forced to locate out of the region to access opportunities.
+	•	Consultation with the sector and stakeholders consistently reveals key roles are ‘hard to fill’ – especially creative producers and experienced production staff.
+	•	Pathways into creative employment are not well articulated and careers support misses it almost completely.
+	•	Analysis of employment data highlights problems in measurement – increased opportunity for freelance and collaborative working may not translate into new FTE in a way that will make the GVA impact apparent in the short term.
+PRODUCTIVITY
+The overwhelming majority of CCI companies are below the threshold at which they need to produce full accounts as part of their annual return to Companies House. Therefore, we have little data about the real productivity of the cultural and creative sectors. However, Nesta’s 2016 report into the geography of creative clusters in the UK identified the Guildford & Aldershot Travel to Work Area (TTWA – based on 2011 Census data) as a significant cluster of digital and creative content businesses, with 5,120 companies employing 38,963 people and supporting a further 30,300 creative jobs.
+“Before jumping to the conclusion that stronger specialisation is the way to grow creative businesses and secure productivity gains, however, we need to remember that freelancers give creative businesses the flexibility to scale up and down in response to the vagaries of creative markets, and help diffuse knowledge between creative businesses (thereby making important contributions to the creative ecosystem).”
+Evidence of clustering
+Table 4  Creative businesses in Guildford – Aldershot TTWA
+Creative businesses
+Count
+5,120
+
+% total businesses
+13.20%
+Creative employment
+Count
+38,963
+
+% total employment
+8.80%
+Creative jobs
+Count
+30,300
+
+% total jobs
+9%
+Sales per worker
+(£k)
+153.88
+Average firm size
+7.61
+Creative GVA
+(£k)
+2,941,964
+
+% total GVA
+14.90%
+ 
+Source: Nesta “The Geography of Creativity”, 2016
+Nesta’s data were gathered through ONS’s Virtual Microdata Laboratory (VML), which records details of individual company PAYE records and allows for more accurate calculations of sales per worker and GVA. Comparing the geography and method used by Nesta with those used in our research, we can see a clear correlation in terms of the relationship between number of firms, employees and total creative workforce. The clustering effect of increased productivity can most clearly be seen in the performance of games businesses 
+The important lesson for Rushmoor lies in the structure of Guildford and Aldershot cluster:
+“Specialising in a smaller number of creative sub-sectors with a high technology component … may be less ‘hip’ than creative cities like Brighton, Liverpool and Glasgow, but our research suggests they make significant economic contributions. In particular, they are associated with larger-sized creative businesses, and potentially higher levels of business productivity.”
+Nesta’s research suggests that the Guildford & Aldershot cluster has far lower levels of freelancers as a proportion of the total creative workforce than some other creative clusters. This is borne out by our LinkedIn findings; in most other places where we have used this methodology, LinkedIn identifies a creative workforce which is much larger than that suggested in BRES; in this case, we identified fewer individuals through LinkedIn than are recorded in BRES. This could be caused by a number of factors, including Covid-19 (BRES data comes from 2019, pre-pandemic) and lower levels of penetration of LinkedIn, resulting in lower totals. 
+The other risk to the cluster highlighted by Nesta’s research is evidence of undersupply of graduate talent from local HEIs, which, 
+“tentatively point[s] to a potential barrier for the continued success of creative conurbations that appear to have less ready access to talent, research and knowledge exchange resources than those in other creative clusters.”
+IMPACT OF COVID-19 
+Impact on industry
+A survey conducted by Oxford Economics for Creative Industries Federation estimates that the South East’s creative sector shed 81,800 jobs – 24% of the creative workforce – during Covid. That equates to a loss of £4.7 billion in GVA – 25% of the 2019 total. 
+In its most recent skills analysis of the screen industries (June 2021) ScreenSkills identified the huge negative impact of COVID on screen industries with the majority reporting no recruitment during 2020/21. However, employers in games, VFX and animation saw growth and higher demand for content.
+Although the pandemic inflicted immediate costs and losses on the sector, with the cancellation of major events and irreplaceable loss of both revenue from ticket sales and freelance earnings, it is too soon to assess whether that may have inflicted longer term, structural damage. Anecdotally, however, many people who had relied on seasonal work on events have found other employment and may not return to the sector. The loss of opportunities for volunteering – which can provide both a way to get experience which can lead to paid employment and an important social link between events and the communities in which they take place – are likely to reinforce inequalities and barriers to access for people with protected characteristics and those from economically disadvantaged areas or families with little or no tradition of  employment within the cultural and creative sector.
+In this respect, Rushmoor may have been less hard-hit due to the structure of the sector, in particular its focus on games and digital technology. Those sectors were among the very few to record some growth during lockdown as demand for games increase. Ukie, the national trade body for games, also attributes this to the agility of working practices in the sector:
+“The UK games sector’s rapid shift to remote working has enabled businesses to remain resilient during lockdown, maintaining high levels of productivity with minimal disruption to most roles. At the same time, increased consumer demand in lockdown and the social nature of many games has expanded audiences across a broad demographic.”
+However, Covid may have other impacts for future growth, which relate to Nesta’s findings about the relative under-supply of talent and support available from local HEIs: 
+“In the mid-to-long-term, many games businesses are reporting concern about impacts on their ability to access talent, finance, investment and business deals, risking a slowdown or bottleneck in the pipeline for new content, especially impacting new UK made IP.”
+Impact on audiences
+The Culture Restart tracker highlights the uncertain response amongst audiences for cultural events. Amongst those surveyed, there was a consistent preference of between 29-39% over the period between January and May 2021 for the view that, 
+“I would consider coming to a cultural event in a venue if I felt sufficiently confident that the required social distancing and hygiene measures had been put in place“
+There is similar consistency amongst a more cautious segment of the audience (12-16% of respondents between January and May 2021) who tend toward the opinion that,
+‘I would prefer to wait until I can attend a cultural event in the 'usual way' again - however long that might take.”
+Some encouragement however may be gleaned from the steady increase over the same period in those who, “would prefer to wait until venues have been open for a few months” (increasing from 8% to 19% over that period); those anxious to return, expressing a view that, 
+“I will feel comfortable coming to events again as soon as the venues I'd like to attend reopen,”
+rose from 11% to 17%.
+
+COMPUTER GAMES
+FILM & TELEVISION
+In the context of the future trends for the screen industries Rushmoor can capitalise on opportunities such as Netflix’s investment in nearby Longcross by focussing on future content consumption forecasts beyond the TV screen as increasingly that amount of consumption varies hugely with younger people who have quickly adapted to content across a range of devices.
+Ofcom figures from 2020 conclude that young people are engaging and consuming only a third of broadcast content via the TV sets (as opposed to almost 60% in the over 34s) They consume content over games consoles, via YouTube (on devices other than TV sets) or via subscription services (SVoD) such as Netflix Amazon Prime or Disney+. Indeed, these services saw the greatest growth during the recent pandemic.
+For the Rushmoor, with only a handful of screen-based producers, the backdrop of the future development of content production for businesses and individuals needs to be future focussed, taking on board the continuing convergence and interconnectedness of rapid technological change and content production.
+Situational analysis – screen industries  
+Overview of the industry 
+The television industry has seen exponential changes over the past ten years and the disruption is likely to continue over the next ten years. Trends affecting the UK screen industries in the next 5-10 years include huge technological change such as VR/AR, Big Data and AI and the use of immersive tech in digital storytelling. 
+In addition the nature of production and content for ‘screens’ is growing exponentially. In film alone, choice has exploded with 33,500 films available at any one time via video-on-demand in the UK alone (source: BFI The Future of Film in the Wider World) 
+One of the main drivers behind this explosion are the multitude of devices and screens now available to watch content – on mobile phones and across multi-platforms. Another driver is the wider variety of content available on “screens”– from short video clips (note the emergence of Tik Tok) to video games, to TV. 
+The interconnectedness of technological change and content production has never been closer and is only set to increase. 
+These technological advances, the continuing convergence between TV, games and emerging media and the changes in digital behaviour are transforming the screen sector.
+
+
+Lack of diversity
+	•	Recruitment across the screen sector (from education through to employment and self-employment) defaults to the same networks and entry routes; inhibiting a diversity of new entrants and progression. Diversity of recruitment will be a key driver for new commissions. 
+	•	This under-representation of the workforce is at all levels from entry to senior leaders. 
+	•	There is a need to attract inward production and to invest in emerging indigenous screen-based/content production (cross-sector) to create growth and sustainability in the production sector. 
+	•	To enable innovation and future-focused multi-platform working, there is a need to build both the creative and business skills of content producers ACROSS THE SECTORS and in both the commercial and not for profit sector.
+	•	The true value of the screen-based economy exists in the development of and commercialisation of IP – new ideas with commercial viability across a number of platforms. Businesses need support to be able to fully take advantage of these new opportunities.
+	•	Production support facilities are key to both attracting inward and indigenous production. Options worthy of further consideration vary from a film-friendly service which makes filming and producing in Rushmoor easier to a properly resourced post-production facility.
+Growth in film and television
+The core UK film industry was worth £6.1 billion to the UK in 2018. Even during the pandemic, more than £1bn was invested in UK film by Hollywood studios producing blockbuster titles in 2020 (Source: BFI). Factors behind the continuing success of film and television production in the UK include:
+	•	Storytelling: the UK's history of excellence in film, television, publishing, music, theatre, and heritage, provides rich source material for screen storytelling.
+	•	Skilled and versatile workforce: the UK's highly skilled and versatile workforce in film and television is often cited as a draw by international studios that have invested in the UK. Investment in new skills and training, and in ensuring the pipeline of UK talent into the industry is well supplied and diverse is essential to maintaining this advantage and in opening opportunities to a more diverse and inclusive section of the population.
+	•	Technological innovation: technological innovation is set to support continued recovery from the pandemic and future growth that will require thousands of screen professionals from entry level apprentices and trainees to heads of department.
+	•	Unique locations and facilities: film and high-end television production generates local business activity and jobs across the UK, as productions take advantage locations that encompass gritty urban scenes, unique historical sites, and attention-grabbing natural backdrops.
+	•	Expansion in studio space: there has been a massive expansion in studio space in the UK over the last few years, as production companies, investors and cities such as Belfast, Leeds and Liverpool have invested in state-of-the-art facilities to attract more inward investment and harness more of the production spend for each of those project.
+	•	Post-production and VFX: the UK’s visual effects industry often leads the way in innovation – the CGI which wowed audiences in Gravity, The Dark Knight Rises and the Harry Potter series was created by UK-based VFX houses.
+Specific evidence of increasing demand for ‘out of London’ production comes from the 2021 census from Pact, the independent producers’ trade body:
+	•	Nations & Regions spend on external commissions by UK public service broadcasters (PSBs) television production companies totalled £1.3 billion in 2020 – 56% of the total
+	•	BBC investment in the South East maintains a trend of increasing the proportion of UK broadcasters’ commissioning spend outside London from 35% (2019) to 45% 2021). Channel 4 has a target of 50% and BBC has committed to 60% out-of-London production by 2028.
+	•	Channel 5 has released figures which show its year-on-year regional spend with ‘indies’ increasing to 35.5% of its total UK origination budget in 2019 against 21.6% in 2018, exceeding its Ofcom target quota of 10%.
+	•	International commissioners made up a further £224m - 25% of the total spend outside London.
+At present the South East is the largest region, receiving xx% that spend. However, as other places across the North West, Yorkshire and the North East look to capitalise on the combination of unmet demand, increased investment from PSBs and the construction of new studio facilities, there is a risk that more marginal locations for screen industries within the South East will be hot harder by that competition than places with a more established production base.
+
+Figure 9  Primary commissioning value of UK television productions by region of production 2015-2020
+
+
+Trends analysis
+Technological advances, the continuing convergence between TV, games and emerging media and the changes in digital behaviour are transforming the screen sector.
+The television industry has seen exponential changes over the past ten years and the disruption is likely to continue over the next decade. Trends affecting the UK screen industries in the next five to ten years include huge technological change such as VR/AR, Big Data and AI and the use of immersive tech in digital storytelling. 
+As well as changing in nature, the volume of production and content for ‘screens’ is growing exponentially. In film alone, choice has exploded with 33,500 films available at any one time via video-on-demand in the UK alone (source: BFI The Future of Film in the Wider World).
+One of the main drivers behind this explosion are the multitude of devices and screens now available to watch content – on mobile phones and across multi-platforms. Another driver is the wider variety of content available on ‘screens’ – from short video clips (note the emergence of Tik Tok) to video games, to TV. 
+The interconnectedness of technological change and content production is only set to increase. This will:
+	•	Create more job opportunities (in roles whose titles haven’t yet been invented).
+	•	Require new skills which combine these interconnected mindsets.
+	•	Disrupt the current supply chain so that businesses from both creative and technological backgrounds will need to work much more closely together. 
+All this needs to be in the context of the future trends for the screen industries. Although the TV “screen” in the corner of our living room is still an important content provider, increasingly that amount of consumption varies hugely with younger people who have quickly adapted to content across a range of devices. 
+Ofcom figures from 2020 conclude that young people are engaging and consuming only a third of broadcast content via the TV sets (as opposed to almost 60% in the over 34s) They consume content over games consoles, via YouTube (on devices other than TV sets) or via subscription services (SVoD) such as Netflix Amazon Prime or Disney+. Indeed, these services saw the greatest growth during the recent pandemic.
+
+Figure 10  Viewing habits of individuals - Ofcom 2018
+
+
+Figure 11  Screen viewing habits, Ofcom 2020
+ 
+    Screen viewing 16-34 years old 				Screen viewing – all ages 
+
+Overview of findings from consultation
+	•	Nesta report in 2016 highlights concerns about availability of talent – lack of engagement with universities means supply is not clearly mapped and not necessarily networked into where the current or emerging job opportunities might be.
+	•	Both new and emerging freelance talent across the sector is dispersed and isolated and the transition of talent from education into the workplace is unsupported with inadequate careers advice.
+	•	Outside the games industry, three is no visible attempt to address the lack of skilled diverse talent to grow the creative economy, assets and infrastructure and therefore lack of diversity on content and the direct correlation with audiences.
+Thematic priorities
+	•	Inclusivity – to interrogate current screen recruitment practice and to analyse and benchmark industry inclusive recruitment practices 
+	•	Supply chain development / capacity building – the real value for businesses is in commercialising or licensing their own IP 
+	•	Talent and Skills Development – In the screen industries, the workforce is made up largely of 3 groups :
+	•	Production – everything from finance, and accounting to programme managers, producers and incorporating runners, researchers, editors, content producers  
+	•	Crew and tech ( mainly freelance) – lighting, sound, camera,  floor managers, grip, 
+	•	Talent – mainly front of camera talent plus writers, producers and directors 
+Building from the ground up, Rushmoor should concentrate in the short to medium term on building up its crew and tech base. 
+This will support both the servicing of incoming production and will also open up new entry routes into the industry for new and emerging talent. But in order for it to work quickly , it needs resource ( people) at both the development/training phase to design and implement these schemes and to be that bridge INTO industry – spotting and coordinating placement opportunities. These should be paid placements (minimum of 3 months) and where possible, businesses should be encouraged and supported to aggregate the opportunities allowing longer placements.
+There is a sense that young people feel remote from opportunities which are in fact on their doorstep. Establishing a network for young local aspiring talent could represent an ideal base from which to build and develop skills; foster better careers advice and signpost opportunities.  This network could attract a membership from across the creative industries allowing for opportunities across the sub-sectors (ie: a festival event coordinator has transferable skills into the live production environment). This network would be an ideal way of capturing talent which has left college or university and has the potential to grow into both a valuable resource for talent spotting and development and also as the pivotal link between education and that next step into employment either through skills bootcamps or work placements. 
+Education
+Rushmoor is well resourced by its education sector to develop screen-based skills and talent 
+To capitalise on the anticipated growth of the content sector, closer connections between FCOT, nearby universities and industry will foster a more prepared workforce aligned to real industry need. This could happen in a number of ways: 
+	•	Placements - University staff responsible for finding placements should be more formally knitted into the current and forthcoming opportunities For example 
+	•	Providing a more formal infrastructure for colleges and universities to collaborate and to have ongoing dialogue with industry by setting up a win-win arrangement whereby businesses have a much clearer understanding of what the current supply is and Universities has a clearer output of need. A model for this currently exists in Yorkshire, Connected Campus. (see Frontrunner examples below). 
+Assets – film & television infrastructure
+Aldershot and Farnborough sit close to significant  film and television production infrastructure
+
+MUSIC
+Music plays a critical role in engaging people in cultural activity and production. A recent survey commissioned by industry body UK Music revealed that:
+	•	75% of the public are proud of the UK music industry and its heritage
+	•	59% believe music improves the UK’s reputation overseas
+	•	74% say music is important to their quality of life
+	•	UK listens to 60 billion hours of music a year – the equivalent of 7 million years
+Rushmoor contains some significant elements of the music supply chain, including both live and recorded music, labels, promoters, venues, recording and rehearsal spaces, production services such as staging, lighting and sound. In addition to its direct contribution, music contributes to the value of nearly every other creative sector and the same elements of the production supply chain also serve live events, festivals, television and film. 
+Music tourism is another area which could make a greater economic and social contribution. The South East region
+Figure 12  Value of music tourism to the South East, 2019
+	
+Source: UK Music 
+Situational analysis
+Music, performing and visual arts emerged from our research as Rushmoor’s largest cultural sub-sector, with 66 registered businesses. Rushmoor has some specific legacy in live music through the reputation of the West End Centre, which as recently as the 1990s was seen as an important ‘stepping stone’ for artists starting to build a wider regional and national audience. The borough continues to support an eclectic mix of music offers, from the monthly Modular Café meetup at the Westy for those with an interest in electronic music to the unashamedly commercial offerings of Farnborough-based Hatstand Opera. 
+The UK’s commercial music industry is still very much London-centric. However, with the right set of contacts and resources, Rushmoor artists can make genuine inroads into the industry and achieve greater success – increasing local employability and creating positivity about the Rushmoor as a place to live and work.
+Original, popular music development is often left to market forces to generate successes; however, those market forces are often much stronger in large metropolitan areas such as London, Merseyside or Greater Manchester where a critical mass of people, facilities and expertise gravitates towards helping talent to emerge at relatively fast rates. Our final report will seek to qualify the potential for Rushmoor with analysis of the music venue infrastructure of the wider sub-region to establish how it might form part of an ‘escalator’ that gives artists, managers and promoters the opportunity to develop their acts and audiences in venues from capacities from 60 to 2,000. 
+Scale of the UK sector
+Some key facts on the UK music sector for the last pre-pandemic year:
+	•	The UK music industry contributed £5.8 billion (GVA) to the UK economy in 2019 – up 11% from £5.2 billion in 2018.
+	•	Employment in the industry hit an all-time high of 197,168 in 2019 – an increase of 3% from 190,935 in 2018.
+	•	The total export revenue of the music industry was £2.9 billion in 2019 – up 9% from £2.7 billion in 2018.
+	•	In addition to the industry’s direct economic contribution, music tourism alone contributed £4.7 billion in terms of spending to the UK economy in 2019 – up 6% from £4.5 billion in 2018.
+Equality, diversity and inclusion
+Findings from the 2020 Music Industry Workforce Diversity Survey are:
+	•	Representation of Black, Asian and other ethnic minorities among those aged 16-24 in the music industry stood at record 30.6% – up from 25.9% in 2018.
+	•	Proportion of women increased from 45.3% in 2016 to new high of 49.6% in 2020.
+	•	Number of people from Black, Asian and other ethnic minority communities at entry-level has risen from 23.2% in 2018 to new high of 34.6% in 2020.
+	•	Number of women in the 45-64 age group has fallen from 38.7% in 2018 to 35% in 2020.
+	•	Representation of Black, Asian and other ethnic minorities at senior executive levels has risen from 17.9% in 2018 to new high of 19.9% – but that means they fill just one in five senior posts
+Impact of Covid
+UK Music’s recently published This Is Music 2021 annual report reveals the devastating impact of Covid-19, which wiped out 69,000 jobs – one in three of the total workforce.
+	•	Employment plunged by 35% from 197,000 in 2019 to 128,000 in 2020
+	•	Music industry’s economic contribution (GVA) fell 46% from £5.8bn to £3.1bn in 2020
+	•	Music exports dropped 23% from £2.9 billion in 2019 to £2.3 billion in 2020
+The impact was felt right across the industry as studios and venues were forced to close, and musicians and crew were unable to work. In a sector where three-quarters are self-employed, many were not covered by Government support schemes.
+On a more positive note, over 1 million people reported that they had taken up a musical instrument during lockdown.
+Opportunities to grow the Rushmoor music sector
+Music activity is fragmented and largely uncoordinated, with those involved rarely having the time or resources to explore greater networking or collaboration.
+However, the designation of the Rushmoor as an Arts Council place-based funding priority, may be leveraged to stimulate the interest of bodies such PRS Foundation (PRSF), the charitable arm of the UK body which distributes recording and performance royalties for music. Identifying a suitable talent development partners could initially help direct more local musicians and music enterprises toward existing grant funding and other resource, including Momentum and Momentum Accelerator awards administered by PRSF. To make the most of any additional investment, it is vital that infrastructure is mapped and encouraged to work in a more joined up approach in order to support careers in the music industry. Artistic support is the most obvious area for investment; but development of music infrastructure, through the support and exposure to wider national markets of locally-based managers, promoters and record labels, is also important. 
+Figure 13  PRS Foundation
+
+
+VISUAL ARTS
+To be completed
+FESTIVALS AND EVENTS
+Key findings 
+Structurally weak but creatively resilient the sector demonstrates considerable potential to meet Rushmoor’s objectives to leverage inward investment and deliver GVA.
+Figure 14  Festivals & Events
+ 
+Other creative sectors
+Advertising & marketing
+Architecture
+Crafts
+Design
+Publishing
+HERITAGE 
+Aviation heritage
+Rushmoor Council and Hampshire County Council commissioned AMION Consulting to undertake a feasibility study which looked at ways in which, “Farnborough’s Heritage assets could be reimagined to allow them to realise their true value.” A final report was published in July 21. 
+The study notes that,
+“Farnborough is home to a very special and undervalued collection of aerospace assets.”
+We fully agree with this statement. 
+These assets include
+	•	Several listed buildings- principally the wind tunnel buildings, the main carrying centrifuge, and the portable airship hanger frame. These buildings were listed following a local campaign in the 1990s and some are included on the Historic England “at risk” register.  Despite not having commercial use, they are in commercial ownership. In the early 2000s FAST (Farnborough Air Science Trust) was given a 30-year lease on part of the site.
+	•	An extensive archive and artefacts of documents, of which FAST is the steward. 
+Future Options 
+1)	Status Quo- FAST believe themselves to be a sustainable volunteer run heritage trust, with a sustainable business model which is not dependent on public funding. They are currently successfully acting as stewards of the archive. They only accommodate limited public access but some potential exists for this to be extended were they to be given access to the “green shed” (when it is not needed for the Airshow.)  The buildings have essentially been mothballed and are protected as a result of listing, but future maintenance is dependent on the property owner, until sustainable economic use is found they will therefore remain at least to some degree to be at risk. Within the NEXT ten years FAST will need to extend their  lease with the property owners. 
+a.	Pros 
+i.	The collections and buildings are currently being preserved 
+ii.	FAST is volunteer run and receives minimal public funding 
+iii.	FAST has good industry connections and benefits from significant good will. 
+b.	Cons 
+i.	Public Access is greatly restricted, and the area gains very little visitor economy benefit from its aviation history. 
+ii.	The buildings remain at risk 
+iii.	While currently being sustainable and having a good succession strategy FAST is a voluntary organisation, its business model may not in the long term remain stable. It is not certain that the current lease will be renewed. 
+
+2)	Amion Favoured option – To develop the buildings and collection as the UKs national aerospace heritage centre (Amion p31) The key development would be to create a new visitor experience based around the wind tunnels with links to their assets . The buildings and collections would remain in separate ownership. Amions preferred operator is English Heritage (the report suggests discussions exploring the appetite of EH to operate the site  are ongoing), Other options would include a trust operating the site. The report we have seen does not include a business plan. 
+a.	Pros 
+i.	If successful, the assets would be given the national prominence they deserve, and the buildings would be bought into sustainable long term use and therefore safeguarded
+ii.	The new attraction would have significant visitor economy impact. 
+iii.	The proposed new visitor centre , would complement the air show and help Farnborough to build its brand as the home of the aerospace industry. 
+
+b.	Cons 
+i.	It is not certain that it will be possible to attract a suitable operator. 
+ii.	Significant investment will be needed to make the buildings and collections publicly accessible. Without sight of a business plan the level of capital and ongoing revenue support required is not known.
+iii.	Amion envisage the listed buildings would remain in commercial ownership and the commercial owners would be responsible for maintenance. It is not clear this would ensure the long term future of the buildings or that the commercial owners would agree to maintain the buildings to standard a required for public access. 
+
+3)	Option 3 establish  A Rushmoor Landbased culture / heritage Property trust – Rushmoor Council Hampshire County Council and other partners (Possibly Farnbrough International and the MOD) could  establish a land based property trust similar to Milton Keynes Parks Trust , St Andrews Links Trust  The Portsmouth Naval Base Property trust or London Creative Land Trust  . The trust would acquire the freehold of heritage assets relating to aviation , military heritage and could possibly support other narratives (including Gurkha and Nepalese community heritage) or cultural interests (eg provision of creative workspace). Some of the assets would once restored would be suitable for commercial use and could generate an income stream to cross subsidies non commercial assets, other existing revenue streams might also support trust operation , The trust would also be well placed to raise funds from funders such as HLF and commercial partners.  
+a.	Pros 
+i.	The freehold of the at-risk assets would be secured. This may be welcomed by commercial owners who are not able to use them to secure an income stream but due to listing still face maintenance costs and business rates. 
+ii.	The trust would be able to develop visitor attraction as in (option 2) and security of tenure might make this more attractive to potential operators. 
+iii.	Securing a range of property assets some of which could generate a commercial yield might provide a way of securing a economically sustainable, long term future of the assets. The model also allows the trust to make use of increasing property value. 
+b.	Cons 
+i.	Initial investment would be high as freeholds or long leases would have to be acquired, it would also be desirable to negotiate with developers / MOD the transfer of some assets with commercial potential to secure long term income streams (this might form part of planning negotiations.) The trust would also have to fund and accept risk relating to maintenance of heritage buildings. 
+ii.	The trust would require sophisticated management which would both be entrepreneurial and providing high quality stewardship , the partners would also need to agree an appropriate governance structure. 
+iii.	A high level of local and national political commitment would be needed to allow the trust to be established. `` 
+RUSHMOOR CULTURAL STRATEGY SURVEYS
+Survey activity was designed to develop a better understanding of cultural needs of the community in Rushmoor in order to develop a cultural strategy. The data has been collated from two separate but related surveys.
+The first survey focuses on the residents of Rushmoor. It sought to understand residents’ perception of culture in the community. The second survey sought to understand the cultural provision within the community and focuses on creative practices in the area, namely: organisations; freelancers and sole traders; networks and groups. 
+Rushmoor Cultural Strategy Resident Survey
+This section presents the results of the Rushmoor Cultural Strategy Residents survey conducted during October and November 2021. The survey sought to assess attitudes towards participation in arts and cultural activity across Aldershot and Farnborough. The purpose of the survey is to support the creation of the new Rushmoor Cultural Strategy and to inform the activities of the Rushmoor Cultural Compact. 
+Residents’ Profile
+477 residents completed the survey, with 62.8% living within Farnborough and 37.2% living in Aldershot. The results of this survey should therefore be considered within that uneven balance;  i.e., the predominant preference comes from Farnborough. 
+	•	Most respondents are between 35 and 65 years of age. 
+	•	82% of respondents consider themselves to be White British 
+	•	81% are able bodied. 
+	•	Two thirds of the respondents are women. 
+Figure 15 Age profile of respondents
+
+Survey design
+The survey asked questions regarding residents’ perception of culture generally and within their community:
+	•	The type of activities residents think of when they hear the terms “arts” and “culture”.
+	•	To rate arts and cultural activities in order of importance.
+	•	Which arts and cultural activities are of the most importance in supporting the community in several ways?
+	•	What arts, cultural or heritage events in Aldershot or Farnborough have residents participated in over the last 2 years?
+	•	To rate the importance of events, involving cultural activities, that they had taken part in or attended during the last 2 years.
+	•	What puts residents off, or stops them from attending, arts and cultural activities?
+	•	The types of arts and cultural events residents would like to see more of in Aldershot and Farnborough.
+	•	What residents like to do in their spare time.
+	•	What is the most memorable arts or cultural event that has taken place in Aldershot or Farnborough in the last 25 years?
+	•	The residents’ thoughts on what they think is great about where they live.
+Survey responses
+Figure 16  Q1. The type of activities residents think of when they hear the terms arts and culture
+
+
+In this mapping survey, theatres and art galleries came top in the resident’s perception of arts and culture, followed closely by museums, performances, festivals, events and live music, which received 77%-87%. 
+The majority of other activities received ratings of between 43% (food and drink) to 65% (visiting heritage sites such as stately homes, castles and gardens). A very small proportion of the cohort (less than 1%) felt that none of the activities were of importance.
+
+Figure 17  Q2. Rate arts and cultural activities in order of importance
+
+75% of those surveyed believed that exhibitions and performances in arts and cultural venues were the most important, closely followed by outdoor activities such as festivals (72%) and ‘opportunities for young people to take part in the arts’ (70%). ‘Sharing stories and bringing people together’ and ‘activities that bring people from outside Rushmoor to visit the area’ were perceived to be the least important. A small proportion (1.5%) didn’t believe any of the activities were of importance.
+
+Figure 18  Q3. Which arts and cultural activities are of the most importance in supporting the community in several ways?
+
+When asked how important arts and cultural activity is in supporting the community, 82%  said ‘enriching lives with activities, with more things to do’ is the most important, followed closely by ‘making places more beautiful, nicer to live in, and more pleasant to visit’. 
+The cohort felt that job creation and attracting visitors and tourists were the least important factors.
+
+Figure 19  Q4. What arts, cultural or heritage events in Aldershot or Farnborough have residents participated in over the last two years?
+
+
+In the last 2 years, less than half of residents surveyed (47%) had taken part in arts, cultural or heritage events.
+Figure 20  Q5. Rate the importance of events, involving cultural activities, that they had taken part in or attended during the last two years
+
+Out of the 10 types of cultural events listed, 55% of residents had visited a heritage site, followed by 50% attending performance-based arts and 49% had visited gigs / concerts, played music or learned to play an instrument. 
+Visiting a parade or carnival was attended by only 16% of the cohort, followed closely by crafting events such as knitting, sewing or quilting.
+Figure 21  Q6. What puts residents off, or stops them from attending, arts and cultural activities
+
+The cohort was provided with a list of reasons why they might not attend arts or cultural activities with the overwhelming majority - 44% - stating that they don’t know what is available. 25% state that the activities are too expensive, 18% state they don’t have much leisure time and 11% don’t want to go alone. 5% equally don’t associate arts and culture with their values, feel restricted by their disabilities or don’t have transport.
+Figure 22  Q7. The types of arts and cultural events residents would like to see more of in Aldershot and Farnborough
+
+69% of the cohort would like to see more music, theatre or dance performances, as well as festivals and events (66%), community projects (58%), art in public places and expand creative opportunities for young people (52%). 7 people (nearly 2%) did not want any of the suggestions.
+
+Figure 23  Q8. What residents like to do in their spare time
+
+Top of the list of activities that residents enjoy in their spare time came walking for pleasure followed closely by home entertainments / screen time and reading books, going to the theatre, local bar or restaurant over visiting a heritage site, going to the cinema, going to concerts or gigs, gardening and non-competitive sports. Just 8% enjoy competitive sports and computer gaming and board games came in at 14% and 17% respectively.
+‘Free entry’ data on questions 9 – “What is the most memorable arts or cultural event that has taken place in Aldershot or Farnborough in the last 25 years?” and 10 – “Tell us in a few words what you think is great about where you live,” is still being analysed.
+Frame of Reference
+
+Most respondents view arts and cultural activity with a traditional lens: galleries, museums, theatre, festival, live music. Over 80% selected these categories when asked what they naturally think of when they hear ‘arts and culture’. Less than half the respondents selected fun things to do with family and friends, making places more attractive to live and visit. Just over half of the respondents view arts and culture as participation and a way of bringing people together. 
+Table 5 What do you naturally think of when you hear "art and culture" (n = 477)
+Response
+%
+Count
+Museums
+81%
+385
+Art galleries
+85%
+405
+Theatres
+87%
+415
+Performances
+77%
+366
+Festivals and events
+80%
+382
+Creative making and crafts
+55%
+261
+Taking part in arts activities
+53%
+253
+Live music
+80%
+383
+Cinema
+51%
+243
+Food and drink
+45%
+216
+Opportunities to bring communities together
+51%
+243
+Doing fun things with family and/or friends
+49%
+232
+Visiting heritage sites such as stately homes, castles and gardens
+67%
+319
+Making places more attractive to live or visit
+45%
+217
+Public art, such as statues or installations in public places
+64%
+303
+None of the above
+1 %
+3
+
+
+Table 6  Which arts and cultural activities are most important to residents? (n = 477)
+Response
+%
+Count
+Celebrating our heritage
+65%
+312
+Exhibitions and performances in arts and cultural venues
+76%
+364
+Outdoor activities such as festivals
+73%
+348
+Sharing stories and bringing people together
+46%
+218
+Activities that bring people from outside Rushmoor to visit the area
+45%
+215
+Activities that support people's health and wellbeing
+60%
+284
+Support for creative careers for artists living in Rushmoor
+55%
+257
+Opportunities for young people to take part in the arts
+72%
+342
+None of the above
+1%
+6
+
+Respondents were asked to select categories they felt were important. We can see that exhibitions, performances and heritage are important, which marries with the cultural frame of reference responses. However, when asked to consider importance, residents have also prioritised opportunities for young people and events taking place outdoors. Over half believe that health and wellbeing opportunities are important, along with support for local creatives. Of less importance are sharing local stories, and the visitor economy. 
+Table 7  Application of arts and cultural activity (n = 472)
+Response
+%
+Count
+Bringing communities together for celebrations
+58%
+273
+Building pride in communities and neighbourhoods
+68%
+323
+Building and strengthening local communities
+63%
+297
+Improving health and wellbeing
+66%
+310
+Making places more beautiful, nicer to live in, and more pleasant to visit
+79%
+373
+Job creation
+44%
+210
+Attracting visitors and/or tourists
+46%
+218
+Enriching lives with activities/more things to do
+82%
+388
+
+When asked to consider how arts and culture could be applied to make improvements in Rushmoor, most respondents felt more things to do was most important, along with making improvements to the public realm. Residents were less concerned with attracting visitors to the area and with job creation. Over 60% felt that building local pride, community bonds and improving health and wellbeing were important.
+Participation
+Only 48% of residents had taken part in arts and cultural activity in Rushmoor in the last two years. Participation rates in the activities that agree with both frame of reference and preference are around 50%. However, we must consider that there is limited choice within the local area and the majority attend is what available. Without further study we can’t tell if people travel the short distance to London to access its cultural offer. 
+Table 8  Participation (n = 475)
+Response
+%
+Count
+Crafts: e.g. knitting, sewing, quilting
+16%
+78
+Visual arts e.g. painting, sculpture
+23%
+110
+Digital arts e.g. photography, film
+18%
+86
+Performance-based arts e.g. dance, theatre, singing
+49%
+233
+Literature e.g. creative writing, reading groups, attending the local library
+19%
+91
+Music e.g. gigs and concerts, playing music, writing music, learning an instrument
+48%
+232
+Heritage e.g. going to a museum or heritage site
+53%
+256
+Events or exhibitions at an art gallery
+28%
+134
+Parade or Carnival
+14%
+71
+None of the above
+17%
+83
+
+When asked what limits or stops attendance most respondents feel that there is a limited offer, they don’t know what is available, and some question the quality of what is available locally. Expense/cost also puts people off. A lot of respondents referred to Covid as a reason for not attending. There was one comment about language barrier and there were a small number of racist comments. 
+
+
+Everyday Participation
+This question takes a temperature check on the everyday activities of residents, allowing us to consider some broader preferences and a view of what maybe hidden activities outside of the cultural calendar. It’s not surprising, considering the current pandemic that most respondents selected ‘home entertainment’. There are also a lot of people who walk for pleasure, read and garden. 
+
+Table 9 Everyday participation (n = 477)
+Response
+%
+Count
+Home entertainments, television, box sets etc
+72%
+342
+Watching sports on TV
+22%
+105
+Playing team or competitive sports
+7%
+35
+Taking part in non-competitive sports, running, jogging, yoga, swimming
+44%
+210
+Going to a sports event
+17%
+84
+Going to concerts or gigs
+49%
+233
+Reading books for pleasure
+68%
+326
+Walking for pleasure
+75%
+362
+Going out for the evening to a local bar or restaurant
+59%
+283
+Attending the theatre
+64%
+303
+Going to a gallery
+34%
+160
+Visiting to a museum or heritage site
+55%
+260
+Having a family day out to a park or attraction
+49%
+233
+Going to the cinema
+53%
+254
+Computer gaming
+13%
+61
+Surfing the internet
+36%
+171
+Crafting
+28%
+135
+Adult learning - such as a new language
+19%
+92
+Cooking
+42%
+199
+Gardening/growing
+48%
+229
+Playing a musical instrument or playing in a band
+16%
+74
+Adult card or board games such as bridge or chess
+17%
+81
+Other (please specify)
+11%
+54
+Future Activities
+The responses to this question demonstrate an appetite for all types of programming. Not surprisingly, people would like to see more of the type of activities they understand. 36 people provided individual comments, the majority of which do fit into the categories. Some comments include opportunities for families and younger children, putting on classes for adults in creative making, creative STEM, hacker days, opportunities to celebrate the diverse communities in Rushmoor, fetes and fairs and making more use of the existing aviation heritage. 
+
+Table 10  Future activities (n = 477)
+Response
+%
+Count
+Festivals and events
+67.09%
+320
+Performances at venues including music, theatre, dance
+69.81%
+333
+Arts exhibitions in venues
+43.82%
+209
+Art in public areas such as street art and murals
+54.09%
+258
+Programmes and activities during holiday periods in the town centres
+46.96%
+224
+Projects which tackle social problems
+44.03%
+210
+Community projects people can take part in, in their local area
+57.23%
+273
+Interpreting/celebrating our history and heritage
+47.80%
+228
+Opportunities for young people to be creative
+52.62%
+251
+Other (please specify)
+7.55%
+36
+None of the above
+1.68%
+8
+
+Living in Rushmoor
+
+We’ve used a Word Cloud to summarise positive aspects of life in Rushmoor and Farnborough. Whilst we can see some dominant negative words there’s a lot to be more positive about. We can see that there is a good sense of community and people value the green/outdoor spaces. They like the proximity to London and the good transport links, also the diverse community is valued. 
+
+Figure 24  Tell us in a few words what you think is great about where you live?
+
+
+We asked respondents to tell us about the most memorable event they have attended in Farnborough and Aldershot in the last 25 years. 406 people responded with 157 people saying they couldn’t remember one or there hasn’t been one. 259 respondents provided data. High on the list are: Cody Plane/Statue, Airshow, Westend Centre events and performances including Westival, Victoria Day, Party in the Park, the Dalai Lama Visit and the Fireworks. A full list of comments is appended.
+Conclusion
+Analysis
+When considering the response, it is important to remember that this is a sample of residents, who were predominately white, able-bodied females, over the age of 25 and under the age of 65. There was a good response, but it is important to remember that some voices are not represented. 
+The survey tells us that there is a traditional understanding of arts and culture within this sample group. And there is an appetite for cultural activity across most genres. The sample appreciates the importance of arts and culture and its contribution to individuals, place making and quality of life. The strategy will meet a need and an interest, and there will be audiences. It is important to consider communications. This is a good sample of respondents for a borough with a relatively small population and from the data we understand that people don’t know where to look to find out about cultural provision.
+The survey has shown a relatively low perception of what arts and culture is - what it means to the residents and how they perceive arts and culture in enriching the community. Fewer residents took part in arts, cultural or heritage events over the last two years, than did not take part. There may be a number of factors which contribute to this: The events and offerings may not be attractive to the residents; better promotion may be required to develop engagement throughout the community; cost may play a part; the pandemic may have skewed the results.
+There is a clear need to raise people’s awareness of culture in all its forms.
+The community also needs to understand the importance of the visitor economy and how culture and tourism benefits the community, creating jobs and supporting the infrastructure in a variety of ways.
+FINDINGS FROM CONSULTATION
+
+[To be concluded]
+EQUALITY, DIVERSITY AND INCLUSION 
+Context
+This piece of work was set against a backdrop of social, economic, and civic inequality and activism.
+Black Lives Matter catalysed awareness of structural economic and social inequalities and injustices across society, including the cultural and creative sector. This was compounded by the impact of Covid -19 across the board but with a disproportionate impact on black and Asian people, disabled people and those living with life limiting or underlying health conditions.
+For Rushmoor that was overlaid with the multiple indices of deprivation and poor health outcomes, and so the need to centre equality and diversity and inclusion in our approach was a given and we proposed that increasing diversity and inclusion was a cross-cutting theme across all three frameworks and will be treated as such in our analysis.
+This thinking informed the delivery of the strategy and compact development programme which was filtered through a lens of inclusion and diversity encompassing all the protected characteristics and to interrogate for bias.
+What has been evident is that within Rushmoor there is a very strong and urgent desire to improve representation so that the creative, cultural and visitor sectors are reflective of the diversity of the place, which is higher than the rest of the sub-region. 
+There is also an understanding that to truly reflect the diversity of local, national and international audiences, visitors and consumers the workforce needs to look like the people it seeks to attract. A lack of skilled diverse talent to grow the cultural and creative economy and assets has a direct correlation on the impact of diversifying audiences
+What do we mean by diversity?
+The protected characteristics are: age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation.
+As regards Rushmoor and inclusion we reflected on the broadest protected characteristics – race, ethnicity, gender, sexuality, disability and socio-economic background and the intersectionality of socio-economic background and the other characteristics. So, for example zero-hour contracts and gender-based care responsibilities 
+Our insights were framed by the World Cafes, our interviews, and the lived experiences of those we spoke to.
+These found that there is:
+	•	Significant underrepresentation within the creative and cultural sector 
+	•	Disproportionate under-employment/self-employment across ethnicity, LGBTQI+ and disability
+And that this intersects with socio-economic background, age and gender
+In order to achieve a state of equality and parity it was clear from our feedback that there were equity actions to be implemented to achieve this.  These will be more granular and relative to each framework but fell naturally into broader categories:
+Equity- talent
+Rushmoor (and various partners) need to: 
+	•	Enable and ensure that there is diversity throughout the economic talent supply chain
+	•	Implement structures to support feeding in new talent through multiple access routes (inclusive entry routes and recruitment)
+	•	Capacity builds mid-career and senior management through leadership development.
+	•	Catalyse and increase the currently limited access to networks and stakeholders (both within Rushmoor and beyond)
+	•	Create opportunities for investment into diverse practitioners and therefore diverse audiences
+There is currently a bottleneck with mid-career professionals, as there are limited opportunities to progress, resulting in talent drain. That bottleneck in turn impedes the development of viable career paths for new entrants and early career artists and creative and cultural professionals.
+Equity- audiences/participants
+In line with our interviews, and the express wishes of those with lived experiences, and aligned with new initiatives such as ACE’s Priority Places and their emphasis on inclusion and relevance in their Investment Principles, there is a clear need to move beyond instrumentalism when referencing communities and reframe cultural engagement and co-production, design and creation.
+With disproportionate under-employment/self-employment across ethnicity, LGBTQI+ and disability; participants and interviewees with those protected characteristics felt a definite inequality.
+Rushmoor needs to:
+	•	Demonstrate comparable value for LGBTQI+ and disability cultural practice (content/originals and services) .
+	•	Ensure equitable platforms for underrepresented voices.
+	•	Develop and cerate collaborative partnerships with underrepresented groups – MoUs for three years so as they grow new voices can come through.
+	•	Develop diverse audiences and consumers beyond art form and protected characteristics silos.
+	•	Support integrated spaces as well as protected spaces to increase participation for underrepresented groups and create a ladder of access.
+Our findings point to demand for cultural events which address diversity in different ways and have the potential to attract other kinds of audiences from within and beyond Rushmoor.
+Inclusion
+With very few exceptions, current cultural provision and access to jobs & opportunities do not take account of or reflect any nuance diversity. This is a serious concern in terms of ‘levelling up’ and optimising life chances for people – including young people – across Rushmoor
+A key issue for many was lack of lived experience by commissioners for any kind of consideration of diversity and socio- economic challenges ad this created significant barriers to cultural participation.
+To address this Rushmoor can:
+	•	Increase lived experience or awareness for commissioners.
+	•	Invest in the recommendations and reputations of diverse led artists and arts organisations (there are some significant people in Rushmoor).
+	•	Be mindful of the emotional labour of interviewees/consultees and the role of over burdening the education on boards and steering groups to those with lived experience.
+	•	Collaborate with disabled/neurodiverse/D/deaf practitioners and disabled led organisations to look at inclusive access framework for culture (not just physical access but well-being, remote working, adjustments etc.) for disabled, D/deaf and neurodiverse people).
+	•	Collaborate with LGBTQI+ practitioners and queer led organisations to look at inclusive access framework for LGBTQI+ artists, creatives and audiences 
+	•	Collaborate with ethnically diverse practitioners and ethnic-led organisations to look at inclusive access framework for ethnically diverse artists, creatives and audiences 
+Considerations also need to be balanced: cost of transport, access to kit, education and literacy equity, and equality of inclusive access. This could also look at access to work education for employers, multiple formats (easy read, video etc) for inclusive recruitment and an understanding of embedded cultural and social perceptions which lead t imposter syndrome in parallel with judgements on talent (education and experience) and hat constitutes cultural value and taste.
+These could be addressed through
+	•	Employer training programmes on disability access to work.
+	•	Employer training programmes and resources on inclusive recruitment.
+	•	Leadership development (early and did career).
+Whilst underrepresentation exists, however, the sector and the networks can feel exclusive and inhibiting.
+There is a role here for Rushmoor BC to convene and hold space; to broker and facilitate. Working in this way can address equality diversity and inclusion cohesively and collectively and in a way that is reflective of the people of Rushmoor as it is now and how it will be. Ensuring that EDI is an approach not just an outcome means it can flex and adapt as both local and national societal environments change.
+Recommended actions:
+Specific actions need to be framed within the lenses and contexts above in order to have lasting impact and drive economic, social and cultural growth that is inclusive, representative and diverse. A failure to interrogate commissioning bias and to collaborate with the under-represented groups above could result in inequity, further marginalisation and tokenism.
+In collaboration with the priority groups above:
+	•	Develop a collaborative and inclusive culture based on existing community activity, infrastructure and cross sector by:
+	•	Develop a co-curated programme for ethnically diverse, LGBTQI+ and or disabled practitioners attached to mainstream festival activity.
+	•	Ensure representation on the Cultural Compact Board.
+	•	Develop talent development programme /CPD for diverse talent to access at each stage of their career including:
+	•	Develop a network of Rushmoor Young Creatives to support a greater diversity of participants drawn from across protected characteristics, diverse socio-economic backgrounds and both formal and informal education routes.
+	•	Board development for diverse creative practitioners.
+	•	Mentoring and leadership development for mid-career diverse professionals. (Lack of progression is creating a bottleneck).
+	•	Undertake research into equity needs of diverse start-ups in creative/tech including a seed investment fund.
+	•	Develop a talent development programme for diverse producers to capacity build new voices (not necessarily young entrants but also new entrants with transferable skills).
+	•	Create Inclusive Ambassadors within culture and festivals to champion and increase access to the sector within underrepresented communities.
+	•	Undertake widespread audience development research across Rushmoor to look at audience needs and gaps in provision.
+	•	Develop a pool of expert advisors to develop knowledge in less mainstream cultural activity (live art, contemporary folk, visual arts, etc) to draw in and expand diverse audiences and support diverse talent. The experts will be paid to advise on panels regarding funding applications and will have an understanding of the artforms and markets internationally for the work.
+
+BENCHMARKS 
+These case studies inform this work and point the ways to develop the Rushmoor Cultural Compact:
+Dundee – jam, jute, journalism and joysticks
+Credit for much of the creative renaissance of Dundee can be laid at the door of one man – David Jones, founder of DMA Games (which became Rockstar Games) and creator of, amongst others, Lemmings and Grand Theft Auto. A graduate of Abertay University, he repaid his alma mater by working with the university on graduate placements and curriculum development, leading to Abertay being named as a National Centre of Excellence in computer games in 2009. 
+The city’s higher education institutions sector also helped engage both attention and new investment in creativity through its  involvement in initiatives such as Design in Action “…a £5m Knowledge Exchange (KE) Hub for the Creative Economy, funded in 2012 by the Arts and Humanities Research Council to demonstrate design as a key strategy for economic growth and innovation within industry.” Dundee and Abertay universities have collaborated to highlight their combined strengths in arts, design and technology, leading (indirectly) to the award of AHRC funding for a Creative Industries Cluster in 2019. Collaboration between industry and academia is a key theme within the city’s cultural strategy; and the focus on design as a way to “enrich lives through design” is a pillar of the work of V&A Dundee, the first dedicated design museum in Scotland and the only other V&A museum anywhere in the world outside London.
+The interplay between design, economic success, positive social outcomes (reflected in V&A Dundee’s extensive education and outreach programmes) and forging a new creative identity for Scotland is a mix that we feel can be reformulated with distinctive ingredients in Rushmoor.
+Laval – the superpower of specialisation
+Laval is a rural town in the Loire, with a population of 50k. It is 300km WSW of Paris, 70 mins by train and 2 hours from Charles de Gaulle airport. It has some notable cultural heritage but is in a primarily agricultural district.
+In 1999, the Mayor of Laval put his entire FrenchTech budget into the development of Laval Virtual Center - a hub for VR/AR – and an annual conference
+By 2021, the outcomes of this decision to ‘reset’ Laval’s economy were clear:
+	•	Twenty-first iteration of annual conference (Laval Global) attended in real life and virtually by thousands of industry professionals, investors and students around the world
+	•	65 VR/AR companies supporting 2,000 highly skilled jobs
+	•	A skills hub (Institut Arts et Metiers de Laval) offers dedicated immersive content and tech courses for 1,000 students and influences creative and tech skills offer across the Loire 
+	•	Laval identified as global hub for XR
+Potential lessons for Rushmoor:
+	•	The focus, international reputation and scale of Laval’s immersive content sector shows what might be achieved by strategic alignment of Rushmoor’s computer games cluster and applications of VR with other priority industry sectors as well as representing a rejuvenated screen cluster.
+	•	The City of Laval has recognised the need to create new and dedicated studio and workspace – La Licorne – to help address costs and shortages of accommodation for early stage businesses within a heritage environment. Rushmoor presents opportunities for more clustering to take advantage of available, cheap space in town centres.
+	•	Laval has determinedly built its global reputation through outreach, exemplified by its annual conference and Laval Virtual’s three month ‘road trip’ around other European VR/AR hubs.
+	•	Laval is a historic city of arts and culture, with a distinctive heritage environment that supports a strong economy of day visitors – the combination of arts and industrial heritage and cutting edge tech could project a distinctive image to boost Rushmoor’s appeal to both the targets identified in Blue Sail’s report and a younger, more tech savvy crowd.
+ECONOMIC IMPACT OF ARTS, CULTURE & HERITAGE ACTIVITY
+Investment in arts and culture has direct and indirect benefits to the economy.
+DCMS modelling shows that for every 1 FTE worker directly employed by the arts and culture industry a further 0.62 FTE jobs are supported through indirect effects. Furthermore, 0.84 FTE jobs are supported through induced impacts. This implies that for every 1 FTE worker directly employed, a total footprint of 2.46 FTE workers is supported in the wider economy.
+Across England, the heritage sector currently generates £13.1bn for the economy, higher than either the security, defence or the aerospace industries.
+Regional competitiveness 
+Analysis carried out by Cebr for ACE highlighted the relative position of the different regions. And while this evaluation has been overtaken by recent events and updated with our own research the picture that emerges for the South East and Rushmoor is not much changed. The South East enjoys the second most significant economic impact of arts & culture - £1.891 billion in GVA and 24,110 jobs – demonstrating the potential opportunity were Rushmoor able to respond to promptings from its residents to support the development of new festivals and live events, offering the potential to retain more of the audience currently travelling out of the area for culture and to draw in a larger audience from a catchment where there is an expectation of and familiarity with this kind of cultural entitlement. 
+Figure 25  Economic impacts of arts & culture industry by region – direct impacts, 2018
+
+Source: Centre for Economics and Business Research, Contribution of the arts and culture industry to the UK economy: A Cebr report for Arts Council England, May 2020. p. 30.
+The success of recent events produced with the Fijian and Cameroonian communities in Rushmoor further highlights the dual benefit of a focus on equality, diversity and inclusion in new programming, offering greater benefit to communities and people with protected characteristics whilst presenting an alternative range of content for local and wider audiences.
+Creative exports
+International export data for creative industries is split between creative goods and creative services; and none of it is disaggregated at NUTS3 level in a way which would help us to derive any accurate estimates for export activity from Rushmoor’s CCIs. 
+Obviously export growth is a desirable outcome of any sector plan but, outside a few significant content producers and the value of ‘invisible exports’ in the form of visitor spend at festivals and events, what creative export mostly consists of is freelancers and micro-enterprises finding opportunities to work outside Rushmoor. 
+What this presents is an opportunity to provide the skills and management development needed by those independent producers - an integral part of the sector -  to allow them to scale up and create more jobs within the local authority area whilst accessing markets outside Rushmoor.
+Outstanding data:
+	•	Awards to Rushmoor orgs 2020-21 total £
+	•	Assume that those who made bids in 2021 will do so for approx. same £s for 2022-3
+	•	CRF1 grants 2020 
+	•	CRF2 grants 2021
+	•	Continuity funding for TV organisations £
+	•	ACPG bids
+	•	CRF1 Capital Kickstart grants to Rushmoor (against 74/£58,881,334 awarded to England organisations)
+	•	Developing Your Creative Practice Awards (DYCP) – Round 10 – July 2021
+
+Potential interventions
+Intervention: Arts Council National Portfolio
+The Cultural Strategy needs to put conditions in place by facilitating and supporting organisations to better position themselves for opportunity, to ‘horizon scan’, to look ahead. 
+The best opportunity presently lies with the Arts Council about to launch a new round for applicants for portfolio funding 2023-2027. As the Arts Council strategy, Let’s Create, projects to 2030 we should assume that there will be a further refresh of the portfolio for 2027-2030.
+The Cebr also notes the importance of National Portfolio Funding in terms of economic impact.
+“In all, NPOs supported £4.0bn of turnover, £3.1bn of GVA and 57,000 jobs in the financial year 2018/19
+48% of organisation have been involved in or currently are still involved in local regeneration projects around their communities and 52% occupy previously unused or regenerated buildings.
+NPOs also have a significant international presence. It is calculated that 6 percent of all performances, exhibitions, broadcasts and festivals were outside the UK in 2017/18. This is broadly consistent with the 6.3% of all NPO earned income that comes from international sources.”
+
+To summarise:
+	•	Current NPO cohort funding extended to 2023 (ACE announcement Oct 21)
+	•	Current value to Rushmoor from ACE [insert data]
+	•	Next round to run for 3 years 2023-2026 
+	•	Further advice due January 2022
+	•	Application window Feb -Apr 22
+	•	Announcements Oct 22
+Intervention: Support for sector bids
+As there is immediate opportunity as well as a case to be made for levelling up, the next step is to ensure that organisations with ambitions to gain NPO status are supported in making bids; and that other organisations with potential are encouraged to get the support for further development.
+Interventions to support as many as want to apply for project grants (new name pending) are likely to demonstrate an increase in:
+Outputs
+	•	New businesses 
+	•	Organisations safeguarded or stabilised
+Jobs
+	•	New FTE jobs (include f/t and p/t)
+Further information:
+	•	New advice for Project Grants pending Nov
+	•	# of organisations likely to make applications 
+	•	Added value from ACE’s emphasis on delivering better governance models
+Sources for information:
+	•	ACE CRF Investment Data 020421
+	•	Arts and Culture funding from foundations and trusts
+	•	Arts Council Delivery Plan 21-24 (and website updates)
+	•	Eligible Places CPP National Portfolio 22-25
+We are flagging these other funding strands as regular funders to arts sector agencies with the caution that each places great emphasis on long run-in time and relationship development:
+	•	National Lottery Heritage Fund Funding | The National Lottery Heritage Fund
+	•	Trusts & Foundations 
+	•	Paul Hamlyn Foundation Our funding - Paul Hamlyn Foundation (phf.org.uk)
+	•	Other social funds and foundations
+	•	Local Authority funding
+	•	Value added contributions attracting sponsorship
+	•	Airshow STEAM
+	•	Global Streets
+Conclusions
+Initial focus on NPO applications process (alone) unlikely to yield strong results.
+Continuing support (coaching/mentoring, etc) likely to yield further positive results for other successful bids across a spectrum of funders.
+Potential to achieve greater investment from ACE and NHLF .
+Value of the interventions will extend to other benefits (e.g. capacity in governance, better data, increased individual and sectoral skills).
+Guiding investment 
+HORIZON SCAN OF FUNDING AND FINANCING OPPORTUNITIES 
+These include:
+Inward investment whether public, private or ‘social’ finance
+Compatible/relevant national or regional public funding
+Other initiatives or programmes that can provide support, resources or otherwise leverage in additional capital funding or assets
+We included the full breadth of the creative economy in determining what is compatible or relevant:
+Arts, culture and heritage whether non-profit, commercial or a social enterprise mix
+Creative services, creative originals, creative content
+Their supply chains
+We looked at the following different types of funding for capital in local creative economy:
+	•	Funding specific to arts, culture or heritage
+	•	National public funding programmes (not culture specific)
+	•	Social investment, Trusts & Foundations, Crowdfunding/Individual Giving
+	•	Private investment – corporate, venture
+A.	Funding specific to arts, culture or heritage 
+Here we review capital funding from:
+Arts Council England
+National Lottery Heritage Fund
+Historic England
+Arts Council England (ACE)
+Arts Council England has the following capital funding:
+Capital Investment Programme
+Cultural Investment Fund
+National Lottery Project Grants
+Capital Investment Programme
+	•	The current call is about to close but they are a regular feature of ACE funding overall. We would expect there to be yearly opportunities for such funds, after a COVID-induced hiatus where Cultural Renewal Fund dominated with some capital elements, unlikely to be repeated.
+	•	ACE capital funding has evolved over recent years to put a much bigger emphasis on digital infrastructure: to produce, distribute and exhibit cultural content, reaching homes, cultural venues, and community spaces, including purchasing or developing: 
+	•	Enhanced capability in data and analytics; content strategy; digital accessibility; digital marketing; customer relationship management; e-commerce; and business systems
+	•	Enhanced capability to support content production and distribution or improve visitor experience
+	•	ACE has a broad interpretation of ‘physical infrastructure’:
+	•	It is not just about buildings, including also furniture, fixtures, equipment, vehicles, musical instruments
+	•	Its purpose must be to meet the diverse needs of creative practitioners, participants, partners, workforce, volunteers, and audiences.
+	•	Work to buildings emphasises:
+	•	Adapting existing buildings to cultural or creative uses in areas of low cultural infrastructure.
+	•	Adapting existing buildings to support business model innovation and the circular economy; improve environmental performance; or enhance physical accessibility.
+	•	Public realm improvements to support outdoor events and festivals.
+	•	Building-based projects need to be at RIBA stage 3.
+	•	Professional fees and other one-off costs are eligible.
+	•	The current guidance emphasises that anything that will be capitalised on the balance sheet of the applying organisation(s) is eligible.
+	•	Non-profit and statutory/public bodies with cultural aims are eligible to apply. Not for-profit organisations.
+	•	The current range of grants available per application is £100-750k, with a 5% match required for grants up to £250k and 10% match required for larger amounts.
+Cultural Investment Fund
+	•	This is made up of the Cultural Development Fund, Museums Estate and Development Fund and Libraries Investment Fund. Originally envisaged as a 5-year programme pre-COVID, funding beyond its second round in 21/22 is not as yet confirmed. It is DCMS funding administered by ACE with decisions made by the Secretary of State but undoubtedly heavily advised by ACE. We will not know who is successful from the second round until February 2022.
+	•	Were further funding to be confirmed, the most relevant strand would be the Cultural Development Fund, it being designed to support capital investment in ‘transformative place-based creative and cultural initiatives’ with outcomes. 
+	•	Economic growth and productivity, including inclusive opportunities for creative and cultural careers and talent development and retention and investment in high-performing and innovative sectors.
+	•	Supporting places to be more attractive in which to live, work, visit and invest, particularly in ‘marginalised’ areas with low cultural engagement.
+	•	Strengthening local leadership, partnerships and capability, with an emphasis on diversity and the skills needed to achieve this
+	•	Economic and social recovery from the impact of COVID-19, including the return of businesses and people to economic centres – as well as regeneration of communities more broadly
+	•	Any investment in assets is to be entirely instrumental in economic growth and productivity improvement and then can focus on one of capacity building of local creative and cultural ecosystems or cultural placemaking. 
+	•	Again, digital infrastructure is emphasised, potentially including:
+	•	Large-scale software purchases such as a town or city-wide box office
+	•	Portable equipment for outdoor events and festivals
+	•	Equipment for the production or distribution of digital content, such as high-spec digital studios
+	•	Built environment investments can include:
+	•	Affordable workspaces, workshops, research and development facilities, managed workspace business incubation or makerspaces for the cultural and creative industries
+	•	Public realm improvements linking cultural infrastructure or supporting outdoor events and festivals, such as highway or pedestrian access redesign
+	•	A proportion of resource investments that are not capital but complement capital expenditure are permitted, for example:
+	•	Skills and business support to build capacity and resilience across the creative industries, capacity building for cultural partnerships
+	•	Enterprise and skills development for sustainable culture and creative industries sector growth
+	•	Start-up costs for running new assets
+	•	Complementary cultural activities, including core costs
+	•	Training in the use of new digital assets
+	•	Projects need to articulate a strategic vision (which this strategy provides) and demonstrate both ‘cultural maturity’ (in approach rather than existing ecosystem) and commitment to ‘culture-led growth’. Alongside culture, personal creativity, creative work and creative industries are both repeatedly emphasised.
+	•	This fund is designed to support partnerships projects led by a local authority, Local Enterprise Partnership or other ‘appropriate body’ - outside London.
+	•	Second round funding applications had to be in the range £2-5m with a maximum of £700k of supporting resource activity alongside capital investment. Match has to be 15% and non-public funding is encouraged, with crowdfunding and social investment highlighted as sources alongside corporate sponsorship and individual giving.
+National Lottery Project Grants
+	•	A rolling programme which permits up to £100k of capital within any one application. Permission to apply is required for applications above £100k or applications above £15k including capital.
+	•	In addition to building works funding can be used to buy equipment or other assets such as vehicles or instruments.
+	•	This funding also supports innovation projects such as:
+	•	exploring new ways of working with technology and digital at a significant scale
+	•	establishing new partnerships in practice and research
+	•	supporting or testing new touring models and ways of removing barriers to access
+	•	testing new ways of reaching new and diverse audiences including through experimental practice in digital engagement
+	•	developing exceptional projects in non-traditional spaces and venues
+National Lottery Heritage Fund
+The National Lottery Heritage Fund is primarily a capital investor.
+Its strategic funding framework 2021-24:
+	•	Has a mandatory inclusion outcome for all projects of "a wider range of people will be involved in heritage,” necessitating research, strategies and planning for this in bid preparation and activities delivering this within projects.
+	•	Has high-level outcomes of:
+	•	heritage will be in better condition
+	•	heritage will be identified and better explained
+	•	people will have learned about heritage, leading to change in ideas and actions
+	•	Permits ‘activity’ alongside asset purchase and development.
+	•	Increasingly focuses on wellbeing, capacity-building and innovation .
+	•	Prioritises community heritage, landscapes and nature and heritage at risk – other categories covered being: historic buildings and monuments; industrial, maritime and transport; museums, libraries, archives and collections; intangible heritage (such as historical figures, folklore and customs).
+	•	Has different processes and guidance for grant amounts in the range £3-10k, £10-250k, £250k-£5m and above £5m.
+Further reprioritisation in recovery from COVID applies to 21/22 but can reasonably expected to continue to some extent in the next one or two financial years at least. These priorities are:
+	•	Boosting the local economy including job creation.
+	•	Local areas: “the local area will be a better place to live, work and visit”.
+	•	Skills: “people will have developed skills”.
+	•	Organisational resilience: “funded organisations will be more resilient.”
+In addition, economic growth is supported through the Heritage Enterprise process.
+Historic England
+Heritage Action Zones (and their High Street HAZ variant) have become a popular vehicle for place-based regeneration schemes focused around built heritage assets and there is no reason to assume that something similar to them will not continue.
+Historic England also funds planning authorities the cost of preparing conservation area management plans (CAMPs) to help guide placemaking in conservation areas. 
+B.	National public funding programmes (not culture specific)
+Post-Brexit adjustments, COVID-19, localism and the ‘levelling up’ agenda are driving government funding and policy towards:
+	•	Investment into infrastructure outside London and more economically and socially advantaged areas.
+	•	Place-based policymaking and funding schemes.
+	•	Investment into capacity building of all kinds bringing together different stakeholders across the private, third and public sectors, joining up supply chains, bringing together different parts of the economy in a place.
+Such schemes tend to not be sector specific. They will rarely specifically reference arts, culture or heritage or the wider creative economy – nor exclude them. Digital technology is often emphasised as a horizontal sector and set of technologies that is transforming society, the economic and all industries. 
+The Creative Industries Council, cultural arms-length bodies of DCMS (ALBs), the Local Government Association (LGA) and The Audience Agency (TAA) amongst others have been active in promoting the opportunities that these generic funds afford local and regional creative and cultural ecosystems, if the business case and narrative is framed in a way that is appropriate to each fund. This is often different to the framing and narrative required for normal cultural funding (see above) or social impact/third sector funding (see below).
+There is considerable investment which is not capital or related to capital, relevant to other parts of these frameworks – such as the National Skills Fund. Funding schemes relating to capital are more limited and include:
+	•	Towns Fund via which an initial allocation of 101 places have had funding confirmed. 
+	•	The Department for Levelling Up, Homes and Communities (DLUHC) committed to a further competitive allocation of funding for further towns that were not initially selected but has not yet provided details of the timetable or process.
+	•	Community Renewal Fund - positioned as funding preparatory work and piloting approaches for the larger Shared Prosperity Fund, the notional replacement for various EU ‘structural’ funding.
+	•	The Autumn budget announced £2.6bn for the UK Shared Prosperity Fund over the Spending Review period but we are awaiting further details.
+	•	The Levelling Up Fund as a follow on from the Towns Fund focuses on local capital and infrastructure. It has just announced its round 1 successful bidders.
+	•	Round 1’s prospectus has cultural and heritage infrastructure as a theme.
+	•	Community Ownership Fund enables voluntary and community groups to bid for match funding to acquire important assets and run them for the benefit of the local community. 
+	•	The Fund will run until 2024/25 and there will be at least 8 bidding rounds in total.
+	•	Whilst the core idea is acquiring assets, emphasis (and proportion of bid scoring, based on the round 1 prospectus) is placed on:
+	•	Strengthening capacity and capability in communities and inclusion in the project itself with the proposal demonstrating community support and local partnerships – thus creating a requirement on this capital leverage investment fund to support activities to develop these.
+	•	Setting up a new community business or buying an existing business in order to save an asset or amenity of importance to the community – needing local social entrepreneurs to be identified or developed and the required skills and resources to be in place to manage the asset
+Example asset types include cinemas, theatres, music venues, museums, galleries – and community centres (in which creative and cultural activities could take place, embedded within local communities and high streets).
+	•	Outcomes include greater local participation in arts and culture. 
+Analysis and interpretation
+UK capital funders still do invest in land and buildings, but with a strong focus on:
+	•	Public engagement – local people, potential users/audiences/visitors of those land and buildings often in a co-design or deliberatively democratic style
+	•	Other activities required to realise the social, economic and environmental benefits of improved physical infrastructure 
+	•	Ensuring that talent, skills, organisational and sectoral capacity are developed alongside new assets especially where these are required to run, manage, use or otherwise gain from such new assets
+They also regard digital infrastructure of all kinds – associated with buildings and public realm as well as independent of it – as equally important.
+Appendix 1: Most memorable cultural events in the past 25 years
+
+The reconstruction of the Cody plane at FAST.
+The Air Show
+Art and craft with the Nepalese community at farnborough library with my grandkids 
+Festival in the park
+Westival
+Fireworks show
+Air show
+Charity bands at local pub Camberley film festival
+woodland events?
+Victoria day parade
+Farnborough air show, open air cinema, 
+The unveiling of the memorial for the victims of the 1952 airshow disaster at the FAST museum.
+Farnborough Airshow, Picnic in the park, Aldershot Town football club achievements,  British Car Show, Farnborough FC fireworks. Preserving important buildings from R.A.E. The rare occasions tours were allowed around Farnborough Hill and Farnborough Abbey. Farnborough FCs F.A. Cup run. Allowing Nepalese families to live and settle in our area. Charity variety shows at St Marks Church Hall and British Legion (organised by Town's Women's Guild). Classic car shows in town centre. and many more I will have forgotten  
+Cinemas… events at the Westy.. apart from that can’t think of anything
+Aldershot Fc winning something and going through town on bus
+WEC always worthwhile
+When the wind tunnels opened, including the concert
+I think that the Westival at the west end centre Aldershot is my favourite and most memorable, great for the whole family, music, art, crafts and food
+Airshow
+The street performance in summer 2021. Really enjoyed the one-man show about a chicken that fought against slugs.
+The Westival at the West End Centre
+Farnborough air show, open air cinema, 
+Party in the park
+Westival 2017.
+It is difficult to remove the memories of the Rushmoor Arena Army Day events of my childhood in the 70s and 80s from my memory. 
+The Gurkha Statue unveiling seems pretty significant 
+I did attend the Food festival and the Gurkha cup a few months ago. I was going to attend Bula? Festival but was busy on that day. 
+Me personally Dave Gorman and Jay Foreman appearing together at Princes Hall is most memorable as I still reminisce about it
+Westival at the West End Centre. Such a valuable local venue.
+Tricky, as everything I have attended has been small . I guess the save the westy campaign as that got people to look at the venue and not take it for granted
+Gurkha Cup
+Varied bands and musicians playing to the public in Princes Gardens
+Love life festival 
+Picnic and Pop Manor Park
+Father Christmas's arrival each year
+Westival
+Watching the theatre company Badak at the West End Centre. To be honest anything at the West End Centre, it's a truly magical place!
+ Music in the Park is probably the closest I can think of but that's run by the Roundtable. 
+West End Centre festivals. 
+Art exhibition associated with Farnborough air show
+Gigs , theatre and comedy at West End Centre 
+Anti-world
+Westival is a highlight every year usually! 
+Farnborough air show
+Army shows at Rushmore Arena
+So many legendary gigs at the westy 
+The Victorian parades, car shows, army parades 
+I think watching the Army March for Remembrance Day and the event they put on once a year, that is sadly no longer done 
+Conversations with Aldershot was something that I followed with great interest.
+Music in the Park
+I love Victoria Day every year.  The year that manor park did the fireworks to a star wars music that was amazing. I'm not even a star wars fan but that was spectacularly choreographed.  I also saw Nosferatu at the Westy that was brilliant. 
+Crimea Fest
+Ukulele evening class
+Grenedier Guards open day, 4 years ago
+Unveiling of the parachute and Gurka statues 
+Farnborough festival of Arts
+A Certain Ratio at the West End centre
+Princes hall productions
+Westival at West End Centre annually
+Farnborough Air Show
+Victoria Day
+V day parade
+Variety of performances at Princes Hall including dance, comedy, panto 
+Farnborough Air Show
+Summer Westival festivals at the West End Centre. 
+Victoria day. Theatre productions at bandstand. Military parades.
+Can't really think of it
+Summer Westival at The West End Centre.
+ we love attending events at The West End Centre and really enjoyed The Shakespeare Bicycle company outdoor performance
+Let's live life festival 
+Farnborough airshow
+Panto!   But why doesn’t Farnborough have a ‘hub’ & why is anything ‘culture’ based typically Nepalese! 
+Victoria Day Parade
+Drama at the West End Centre; no single event but decades of memorable shows and workshops.
+Tappy jam
+Remembrance parades  Theatre performances 
+Food festival in Aldershot
+Mayor's Fashion Show in 2012/13
+Ken Dodd at Aldershot
+Air show
+Party in the Park /Rushmoor Arena Fireworks/Performances at Princes Hall
+The unveiling of VC Kulbir Thapa statue
+Victoria Parade
+West Indian community event Farnborough 
+Aldershot army show
+Wishbone Ash
+Children attended embroidery guild which no longer  runs 
+Heritage days 
+Picnic in the Park at King Georges
+Farnborough fake festival
+Falklands day parade and para statue.  Film ‘I Daniel Blake’ made me cry.
+When the royal family visit - army marching in town - Victoria Day 
+Panto at the Princes Hall
+Victoria day
+“Jack and the beanstalk” in Princes Hall.
+Farnborough Air Show
+Cinema trips
+Aldershot music festival
+Food festival in municipal Gardens, Aldershot 
+In 2000 we held a local history festival
+Para statue unveiling 
+West End Centre anniversary party Christmas 2016 I think
+I've only been here for 5, but for me the best example of community spirit I have seen was the St Peter's Church Light Trail last year.
+Nothing springs to mind.
+Phyllis Tuckwell Music in the Park
+ model railway exhibition at Alderwood, the Farnham Assist Lego show (sadly stopped by COVID), and occasional shows at Princes Hall 
+The celebration of Farnborough's Aviation history through the Air Show.  It really galvanised all the residents.
+Unveiling of the Nepali statue
+Rotary picnic in the park 
+Music in The park
+Airshow
+I have lived here for 25 years and the only event I can think of is the unveiling of the Samuel Cody statue. There are plenty outside the area, which shows how devoid this area is.
+Samuel Cody Statue creation
+The annual carnival and parade
+*Victoria Day.   *The opening of the statue in Princess Garden. 
+Westival; all the Cody musicals, Victoria Day, 
+West End Centre annual exhibition
+British Legion Parade through Aldershot. visiting Blue Plaque buildings and sites that commemorated Farnborough residents and achievements
+Green Day in Aldershot
+Concerts Farnborough Symphony Orchestra
+Film festival held in places of historic interest.
+Army events 
+Visit of Our Lady of Walsingham to the Catholic Cathedral and associated exhibition 
+Heritage Open Days.
+Picnic in the park for Phylis tuckwell 
+ONly lived here   7 - enjoyed theatre recently alice in wonderland, enjoyed wind tunnels opening
+Can't immediately think of one - which surprises me
+Farnborough Community Centre Annual Arts and Crafts Competition 
+Donkey Derby
+Street parties for the jubilee
+Army show
+'Live' theatre broadcasts at cinema
+West End Centre - Westivals (numerous)
+Display of several of my son's sketches at West End Centre, Aldershot (2014).
+Food festival, anything at the West End Centre
+VE Day parade
+Victoria day
+The gig at St George's Playing Fields, excellent.  Music Festival at the Alexandra Pub. 
+Victoria Day
+Remembrance Day
+Army Show, Farnborough Air Show
+the Ukulele record setting back in 20 something was pretty good picnic and pop too. To be honest they are all good but poorly supported by residents.
+The college of music events at the west end centre ,the bicycle bards and picnic and pop.
+Town Twinning tour of Aldershot military heritage sites
+army show
+Airshow
+Heritage walks led by local expert and photo exhibition. 
+Westival
+Rushmoor fireworks display :-)
+Almost anything that I can attend or walk to!! Covid has stopped so much so but prior to that local Donkey Derby and Picnic to Music in the Park! Remembrance services!!
+Unveiling of the Cody Statue
+The closure of Farnborough fitness facilities is the most memorable, demonstrates the Council do not care 
+Some Symphony Concerts at Princes Hall, Aldershot
+ Johanna McGregror playing the piano at what was then Farnborough Music Society Farnborough 6th Form College's production of The Marriage of Figaro Both were a long time ago
+Street history walks. 
+Aldershot open day vintage cars,Victoria day
+Visit of the Dalai Lama
+The Army show used to be very good
+Victoria Day and Armed Forces Day in Aldershot. 
+Air show
+Picnic and Pop. This says everything about Rushmoors ambitions.
+Manga show at the military museum 
+Visiting military museum
+The Summer Westival at the West End Centre  Open-top bus journey to celebrate the football club’s league victory in 2008
+Farnborough air show
+Victoria Day
+The Statues to the Parachute Regiment and Gurkhas.
+West End Center Festival,  Victoria Day, Army celebration day  2012 Olympic Torch event
+Army show
+Princes hall performance
+Airshow
+Panto!!!
+Victoria day
+Farnborough Airshow
+Everyone will say the air show or the donkey derby, I really enjoyed the mini cover band festival at George v playing fields in 2019.
+Music in the park
+The Army Show (on Queens Avenue)
+Exhibition of art and craft at the Elle’s Centre many years ago
+Airshow or army show - not really cultural events though. Picnic to Music  in the Park, Dalai Lama in Aldershot, Fiji event a couple of weeks ago.
+Victorian day
+Dalai Lama at Aldershot Football club
+Farnborough wind tunnel open day. 
+Picnic and Music in the Park King George Playing Field by The Rotary Charity
+The old Army shows, they were brilliant 
+Celebrating the scouting centenary at Runways End at 6am with over 100 beavers, Cubs and scouts.   Or   West End centre - Handlebards performing in Wellesley Woods
+The Olympic Flame at the military stadium
+Victoria Day, events at Princes hall
+Watching the Prince Hall panto  our family go every year and it what's makes Christmas for us all
+Armed forces day event.
+Pop in the Park
+I’ve always loved seeing the parades which celebrated our Army heritage. Loving on the High St these often passed out front door
+The unveiling of the Gurkha Statue.
+The army museum holding their open day/ they let children have a go on the tanks around the trees. I will never forget going in the tank and having the best time. 
+Victoria Day
+Victoria Day
+Picnic & pop
+Difficult to say.  I really like the current (2021) use of town centres to display art work e.g. from the college and the Beyond the Lens exhibition.
+West End Centre anniversary event
+Food festival 
+Most of the events at the West End Centre, Westival, art exhibitions etc
+Army events 
+Music/picnic in the park
+Victoria day
+Victoria Day. Playing the church organ at various churches in the area. Rushmoor in Bloom. 
+Most based around Westend Centre
+Frimley Lodge Festival 
+Farnborough Air Show (well, pre 2016)
+Too many to list!!! You know that!!!    Let's Love Life
+Having only lived here 7 years I would say the Victoria Day parades. Armed forces day parades. The unveiling of the statues in princes gardens
+Aldershot and Farnborough festival of music and arts 
+Bi-annual air show Has aN historical reflection of RAF and airborne defence In Farnborough. Aldershot has a good number: firework display, opening statues and dedications, Victoria Day etc
+The Dalai Lama visit
+Farnborough Festival Of Arts
+Westival at the West End Centre every time it happens
+Dalai Llama visit. Military parades. Tibetan monk tour to WEC
+Dalai Llama opening the Buddhist centre 
+Army show
+Victoria Days
+Party in the park 
+Air show - Farnborough culture 
+Victoria Day
+The Food Festival in The Memorial gardens.
+Picnic and Pop Music Festival
+Airshow, frost fayres -  
+Very difficult to think of anything in Farnborough, probably when wind tunnel was opened to public with accompanying music
+Victoria Day
+Music in the Park
+Music in the Park appeared a well attended event in Farnborough not sure it was memorable though.
+Inauguration of the Buddhist Monastery of the Budhist Cultural Centre UK (BCCUK) in Aldershot by His Holiness the Dalai Lama in June 2015.
+The Farnborough Music Festival, organised by The Farnborough Society
+Victoria Day and Memorial Day Parades 
+Pantomime at Princess Hall
+Opening of Vue cinema in Farnborough…..nothing else was memorable.  Farnborough is unfortunately a cultural desert
+Farnborough frost fair and school Carol concert in kingsmead/princessmead/queensmead
+Air Show
+The air show was the closest thing that Farnborough used to have. We go to fleet for the family spirit and festivals that Farnborough doesn’t bother with. 
+Airshow 
+Farnborough airshow 
+Victoria Pared, Gorkha Cup, 
+VJ day
+Air show 
+Farnborough Air Show
+Farnborough Air Show
+Farnborough Air Show
+All the wonderful gigs events that used to be held at the tumbledown dick before it was destroyed.  Phyllis tuckwell picnic in the park with the London philharmonic orchestra.
+Donkey Derby        )    In King George 5th  Music in the Park  )    Playing Fields - Farnborough
+Stephen k amos
+Music festival at Manor Park
+Rushmoor Food Festival
+
+
+
+
+
+
+
+
+
+Rushmoor Arts and Cultural Mapping Survey
+This survey was split into three sections and focussed on organisations; freelancers / sole traders; networks / groups. 
+
+Figure 26  Q1. Answering the survey as ...
+
+More than half of the respondents surveyed are freelancers or sole traders, and 37% are an organisation. 7% are a network or group.
+“Free text” answers to questions 2 – “What is the name of your organisation?”, 3 – “What is your name and role within your organisation?”, 5 – “How many people does your organisation employ?”, 8 – “Q8. How many people engage with your work annually? Please include both audiences and participants,”  and details of freelancers and sole traders (Q13) are still being analysed.
+
+
+Figure 27  Q4. The main focus of their work
+
+Respondents stated that the main focus of their organisation’s work was largely as community organisations (23%), followed by heritage and music organisations, arts venues, theatres, libraries, production and technology services. 
+There were several types of organisations that were not represented in this cohort: 
+	•	Health or wellbeing
+	•	Music venues
+	•	Fundraisers, 
+	•	Studio facilities
+	•	Crafts
+	•	Consultancy
+	•	Branding / design services. 
+This may be because they do not exist in the area, or did not respond to the survey.
+
+Figure 28  Q6. Does the organisation create, commission or curate, stage, promote or support other people’s new artistic work?
+
+Within the cohort, practices are largely equal and 18% do not stage, support, commission or promote artistic or creative work.
+
+Figure 29  Q7. Arts and cultural activities
+
+Cultural provision for Rushmoor residents is largely performance based, followed by community arts and digital (which we must take to not include design and branding - ref earlier question regarding the main focus of their work, where this was not represented at all). Almost a quarter of the respondents offer crafts / making / visual arts which contrasts with the low engagement within these areas as shown in the resident’s survey.
+
+Figure 30  Q9. Are the organisations part of local networks
+
+There is low engagement with regional organisations being a part of professional networks.
+
+
+Figure 31  Q10. Assisting the organisations aims and objectives
+
+
+85% of respondents would like to see more funding opportunities and grants, followed by marketing and promotion and opportunities to collaborate with similar organisations and organisations outside of their sector, which bears out with previous answers and conclusions. 65% of respondents are not part of local professional networks.
+
+Figure 32  Q14. The main employment of freelancers and sole traders
+
+Most freelancers and sole traders class their main employment as ‘artist’, closely followed by ‘other’ (data not available). ‘Musician’, ‘designer’ and ‘arts educator’ come next at around 12-13%
+Figure 33  Q15. How they support their practice
+
+Most freelancers and sole traders are employed or support their practice through contracts or hire by arts and cultural organisations, followed by support by the private sector and selling directly to collectors and clients. Being hired by the voluntary sector and being supported by grants are the least likely support methods.
+Data from Q16, “How many organisations have you worked for or with in the last two years? Please leave blank if you prefer not to say,” are still being analysed.
+
+Figure 34  Q17. Where they have worked geographically in the last two years
+
+
+Most freelancers and sole traders work locally, with some work coming from further afield.
+
+Figure 35 Opportunities sought by local freelancers and sole traders
+
+Freelancers and sole traders are predominantly seeking opportunities to exhibit their work
+
+
+Data on the following three questions are still being analysed:
+Q22. What is the name of your network or group?
+Q23. What is the purpose of your network or group?
+Q24. Who do you support?
+
+Figure 36  Q.25 Where the network or group operates
+
+
+Networks / groups that completed the survey operated across Rushmoor, Farnborough and ‘other’ (data not available). None of the respondents operate in Aldershot.
+ Figure 37  Q26. What would assist your organisation’s aims and objectives?
+
+Funding opportunities, collaborations to create new art works and platforms to show or exhibit work are the most sought after in terms of aims and objectives, with no call for digital platforms, spaces or places to meet, professional development opportunities, or organised events.
+
+Figure 38  Q29: Which artform is the main focus of your work?
+
+
+The main focus of the group's work is music and visual arts, followed by dance, then theatre.
+Methodology 
+The research and engagement methods used were selected to provide a balanced and representative sample of views across producers and participants in culture, and to consciously extend the sample to include individuals and organisations who had been excluded from or marginalised in the conversation around culture to date.  
+We sense-checked all our activity through an intersectional lens, and in doing so identified the shortfalls that exist as regards under-represented voices, especially within neighbourhoods. 
+Our two EDI leads led stakeholder interviews with a focus on inclusion and diversity founder represented voices and collaborated with the rest of the team to ensure that research and engagement was all conducted through a lens of equality, diversity and inclusion
+The final report will reflect this as regards context and national picture, local ecology, supply and demand and underrepresentation. 
+Profile
+Of the respondents, 56% answered the profile questions. The respondents were largely female - 57% to 31% male and a small number preferred not to say or identified as non-binary.
+66% of respondents identify as heterosexual / straight with 21% prefering not to say. 13% identified as bisexual or queer.
+86% identified as White British/English/Northern Irish/Scottish/Welsh including 6% as other white, 8.5% preferred not to say and 6% identified as White and Black Caribbean / Other Asian / Caribbean / Other.
+11% of respondents identified as disabled with disabilities ranging from Neurodiverse or mental health to chronic health conditions.
+Of the respondents, most were in the 45-54 age bracket, followed by the 35-44 age bracket. Smaller numbers came from the other age brackets or preferred not say, with just 1 respondent being in the 18-24 age bracket.
+Freelance / Sole Traders
+Voluntary sector organisations and freelancers and sole traders need more support in accessing grants to further develop their work and strengthen engagement with the audience.
+Networks and Groups
+A developed network provision needs to be implemented or strengthened to support creative organisations and practitioners.
+Further recommendations include engaging with the residents at either end of the age brackets - i.e. expand the cohort by working with schools, colleges and care homes, and working more with the minority groups in the area, i.e. the Nepalese community.
+Organisations
+Can these organisations implement a programme of events that engage the rest of the cultural community in the wider premise of seeking audience engagement?
+This can be combined with further community outreach, promotion, marketing  and PR which is required to engage with the local audience?
+Conclusions
+There appears to be a gap in connectivity between freelancers, sole traders and cultural organisations. 
+

@@ -1,0 +1,999 @@
+Creative Wakefield skills pathways
+
+
+Final report
+
+July 2021
+Creative Wakefield skills pathways
+
+
+Final report
+
+July 2021
+Contents
+
+1	Executive summary	2
+2	Introduction	8
+3	Contextual background	11
+4	Findings from desk research	13
+5	Provider consultation	18
+6	Employer consultation	27
+7	Diagnostic tools	34
+8	Summary of findings	35
+9	Recommendations	36
+Appendix 1: Sector and workforce mapping	38
+Appendix 2: Creative and digital careers information	46
+Appendix 3: Comments from provider survey	48
+Appendix 4: List of consultees	51
+
+
+
+Executive summary
+1.1	Research brief
+The Arts, Culture and Leisure Service at Wakefield Council commissioned this research as part of the development of a new creative skills development programme for locally rooted Cultural, Creative & Digital Industries (CCDI).
+This is a collaborative initiative within Wakefield Council led by the Arts, Culture and Leisure Service together with the Economic Growth & Skills Service. The Council has developed a comprehensive Employment and Skills Strategy for Wakefield district - including identifying the city as part of an international network of Learning Cities – and is currently undertaking a review of existing provision across its Arts, Culture and Leisure Service. The new creative skills programme will add value through the creation of a targeted and sector-specific programme.  
+The research provides insight into the following areas:
+	•	The current skills offer for progression into CCDI across the learning spectrum 
+	•	Entry points for progression into CCDI at every stage of life and career development
+	•	Gaps of the current offer and opportunities for development
+	•	The level of accessibility of the current offer
+	•	Skills pathways for training / career development in CCDI
+	•	The perspective of industry on the quality, relevance and reach of the current offer
+	•	The perspective of training providers on the quality, relevance and reach of the current offer
+The brief called for: an audit of current provision and evidence of skills pathways for progression into CCDI via training or employment from entry level to career development, as well as transfer into CCDI from other sectors, informed by the analysis of current provision. 
+We consulted with local CCDI employers to gather insight into the current landscape and with training providers to gather insight into the quality, relevance and reach of the current offer. We looked into the popularity of courses and pathways with learners; demand from employers; and progression into further learning or employment. We also looked into the key drivers behind the current offer, how it is being develop and, the support needed to maximise the reach and impact of creative skills training.
+1.2	Skills pathways
+Most arts and creative courses, and many digital courses, are not directly vocational. Unlike professions such as accountancy, law or medicine, there are few roles within CCDI which require formal certification or completion of an accredited qualification as a precondition of employment. (Exceptions include the need for Health & Safety and electrical engineering qualifications in parts of the production services sector.) In addition, the accelerating pace of digital transformation across CCDI means that professionals are constantly acquiring new skills, either self-taught or through CPD, to keep pace with technological changes. 
+Mapping skills pathways in CCDI, therefore, is an art and not a science. Our aim was to produce a typology of skills which was easy to understand and linked training and qualifications to occupations in a way which would make sense to students, providers, employers and careers advisers alike. It was also important that the framework should be ‘future proof’ and adaptable to future changes in technology and the continuous innovation in job roles and descriptions which is taking place across the industry. To do that, we mapped skills pathways against five digital and creative sector supply chains, each of them made up of a series of LinkedIn industry codes:
+	•	Creative originals: arts & crafts, fine art, apparel & fashion
+	•	Creative services: marketing and advertising, architecture & planning, graphic design, product design, design services
+	•	Creative experiences: music, performing arts, museums and institutions, libraries 
+	•	Creative content: computer games, mobile games, publishing, motion pictures & film, broadcast media, animation, photography
+	•	Digital technology: information technology and services, computer & network security, computer software, computer networking
+Basing our analysis on these five skills pathways helped us to see strengths and gaps in provision and provided insight into skills which provide a ‘platform’ for further development.
+Within our work, we recognise the disproportionate impact that the COVID emergency has had on the most disadvantaged and marginalised communities. We sense-checked all our activity through an intersectional lens, and in doing so identified the shortfalls and inequalities of access that exist with regard to under-represented voices, especially within neighbourhoods.
+1.3	Policy context
+Changes to Higher Education funding mean that creative and arts courses now attract a lower tariff than some other subjects (notably, STEM) – with the result that Russell Group universities say that arts courses will run at £2,700 deficit per student. 
+This is balanced by an increased focus on addressing employer needs through Further Education. The Skills and Post-16 Education Bill (May 2021) calls for funding for employers to get involved in course development and introduces a duty for colleges to be responsive to local needs. Learners will benefit from a lifelong learning loan (operational from 2025) and a lifelong skills guarantee; whilst FE Colleges with HE centres, such as Wakefield College, will see more funding for Higher Level courses in FE.
+The education sector response has included innovations such as ‘microcredentials’, accreditation for smaller units of learning which can be aggregated up toward a qualification or as part of a learning portfolio, and a shift in funding to allow learners with existing qualifications to ‘go back’ a level (or two) and add a ‘fourth year’ through microcredentials – commonly referred to as ‘top-up’ learning. In HE, we have seen universities creating MOOCs (massive open online courses) with an element of free online learning to attract users, who can then progress to either microcredentials or full-time courses.
+The introduction of these more flexible forms of training reflect the urgings of creative employers over a number of years.
+However, there is a risk that these changes will be accompanied by a loss of funding for creative arts (to STEM subjects) and will lead to HEIs and FE either dropping fine arts or (more positively) incorporating more creative technology-based practice in those courses. In an attempt to address this, the Creative Industries Council and others are lobbying for the definition (and by extension, funding) for STEM courses to incorporate the arts (‘STEAM’).
+1.4	Wakefield’s CCDI sector and workforce
+Using the same supply-chain based pathways to analyse the CCDI sector and workforce identified that the business base in Wakefield is larger than revealed in national statistics, with close to double the number of businesses in design, music, performing & visual arts, advertising & marketing and publishing as shown in the latest BRES data.
+Analysis of LinkedIn showed that 5,505 individuals in Wakefield stated that their main occupation was in one of the cultural, creative or digital industries sectors, as opposed to 2,800 in BRES. These differences highlight the significant numbers of freelance/self-employed individuals in the sector; and give a better indication of potential demand for creative skills from students, employers and creative professionals.
+1.5	Audit of skills provision 
+Our research identified 1,292 courses across all levels and types of provision, summarised below:
+
+Pathway 1 Creative originals
+Pathway 2 Creative services 
+Pathway 3 Creative experiences 
+Pathway 4 Creative content
+Pathway 5 Digital technology
+CPD
+25
+128
+21
+68
+0
+HE
+30
+188
+175
+196
+8
+FE
+70
+111
+164
+110
+10
+T-Levels
+*
+*
+*
+*
+*
+Apprenticeships 
+0
+9
+2
+7
+5
+Key
+
+
+
+
+
+
+Very Good 
+
+
+
+
+
+Satisfactory 
+
+
+
+
+
+Not Good
+
+
+
+
+
+Poor
+
+
+
+
+
+In Further Education, we found excellent provision for pathways 2, 3 and 4 but very little for pathway 5; provision for pathway 1 was mostly evening classes. There were good examples for pathways within subjects (eg, York College Art & Design from levels 1-3 with follow-on pathways at level 6 and Wakefield College from level 1 right through to Level 6) and some provision for 16–19-year-old, including: two BFI Film Academies, in Leeds and at Workstation in Sheffield. 
+There is excellent Higher Education provision across Yorkshire with 512 degree courses covering a wide range of creative sectors and disciplines, including TV, film, music, performance, PR, fashion, animation and games design, with good pathways into Masters courses. There is a good range of CPD from universities including Leeds Beckett, York and Nottingham Trent.
+We identified a good range of Apprenticeships available at Level 2 and 3, but mostly in the digital space; as expected, we found few apprenticeships in creative areas. 
+T-levels are to be introduced in 2021 to provide a focus for vocational studies. They are the equivalent to 3 A-levels and must include a minimum of 45 days’ work experience. To date, only one T-Level in a CCDI pathway has been approved (Digital Production, Design and Development Level 3, designed to lead to jobs in web development, software development, mobile app developer, programmer), with a new T-level in Craft and Design (to cover jewellery, ceramics, furniture and textile making) due for release in 2023. None of the employers we interviewed showed any awareness of T-levels or how they would work. 
+Continuing Professional Development (CPD) provision showed an excellent range of courses for pathway 2 (mostly Adobe for creative services companies) and good provision for pathway 4 (including National Film & Television School, Screen Yorkshire Centre of Excellence and Screenskills online and reflecting the Channel 4 presence in Leeds)
+Placements
+It is clear that placements are highly sought after in both HE and FE, with over 1,000 placement places identified for creative and media courses through our survey participants. Although not required in all courses areas, industry placements are required in others (eg, journalism). Providers cited the difficulty in securing placements during last year due to the pandemic, putting even more pressure on finding placements for this and future years. 
+Although 78% of survey participants stated that they had a member of staff dedicated to finding placements, some also cited the lack of staff or staff being “stretched” to do this on top of teaching requirements.
+
+“One of the challenges is that as educational institutions, we can't approve students to miss classes and learning without reasonable notice and many placement opportunities (understandably, due to the way the industries work) are almost immediate.”
+
+This response highlights issues of timing and a disconnect between the needs of employers and of University educators.
+Some institutions reported support for placements from a strong alumni network and investment in employability at all levels. 
+1.6	Employer needs and future skills
+Skills needs change rapidly across the CCDI sector, driven both by developments in technology and changes in markets.
+For example, the film and television industry is going through rapid changes not only technically but also on the type of content that is being required, from subscription video on demand (SVOD – services such as Netflix, Prime etc) to ‘high end’ unique dramas. There are new roles appearing all the time, not least on the digital tech side. As we look to an ever faster paced digital world with ‘on demand’ services sitting alongside and competing with ‘terrestrial’ TV, future skills needs will continue to develop apace.
+Employer responses are summarised below:
+	•	Need for greater “job-readiness”
+	•	There is a willingness to work more with providers
+	•	Apprenticeships work for technical and engineering grades
+	•	More leadership and management and business skills needed
+	•	Increasing importance of diversity and inclusion
+	•	Rapid changes in technology impacting at all levels 
+	•	Pandemic – has been “like falling off a cliff”
+1.7	Areas for improvement
+Industry awareness and engagement
+HE and FE institutions are still dividing the creative study areas into Arts & Design or Digital technologies; this fails to recognise the impact of digital technologies on a range of creative areas and acts as a barrier to both student recruitment and employer engagement. Similarly, providers offered no evidence of success rates of progression into further learning or employment within the creative industries. 
+This reflects a ‘gap’ between providers and employers, who reported low levels of engagement with HE and FE institutions. This forms part of a long-term pattern of employers feeling that graduates are not ‘work-ready’, whilst providers assert that they are delivering education, not training. 
+There are few examples of interesting industry partnerships in Wakefield and its surrounding areas. We can contrast this with a good example at Manchester College as part of its Industry Excellence Academy, which offers 4-6 week paid internships (Level 3) with Flow Creative with Motion Design & Digital.
+1.8	Diagnostic tools 
+Analysis of web sites from skills bodies revealed that skills assessments have replaced Training Needs Analysis (TNA) – eg, the National Careers Service skills assessment web site offers a comprehensive range of online resources.
+Whilst individual providers and trade associations are no longer offering TNA, hybrid sites – like the intogames site provided by Ukie, the UK games trade association - offer an experiential way for learners to explore skills needs.
+This led us to explore the potential to create a ‘blended’ solution, in which training providers and/or employers refer individuals to the National Careers Service, and learners/employees bring back their results as the basis of an individual diagnostic session with an expert advisor
+In response to this, the course data collected was input to Tableau to provide a searchable database of some 1300 arts and creative courses across West Yorkshire. This can be easily updated by importing spreadsheets containing new course details.
+1.9	Opportunities
+Wakefield has several key sectors with established capacity and potential to stimulate further growth and demand for skills across the district:
+	•	Cultural venues, both National Portfolio Organisations and smaller hubs
+	•	Games, where Team 17 represents a ‘hero’ brand for the sector and region
+	•	Production services, for which Production Park represents a hub of national significance
+Our analysis of the business base and workforce also revealed nascent strengths in other sectors notably music, visual & performing arts, design, advertising & marketing and publishing. Most of these are microbusinesses - many individual freelancers who may alternate between leading projects and forming part of supply chain for others. Policy makers and providers need to find ways of engaging with the employment and entrepreneurial opportunities in these sectors which helps match supply with demand for skills and innovation which are not overly bureaucratic and burdensome to the employer. 
+In particular, there is a need for innovative thinking to establish how the creative sector can collectively meet demand for placements across apprenticeships, T-Levels and degree courses in a way which reflects the working patterns and structural capacity of individual organisations.
+Investment in workspace – not just WX3, but private sector investment in Tileyard and the expansion of Production Park, points to confidence in the sector’s ability to overcome the shocks of the Covid-19 pandemic and return to innovation led growth. 
+The commitment from local and regional government and providers to ‘joined-up’ provision is evident from our consultation. The creation of Creative Wakefield provides further opportunity to lobby regional and national bodies to represent opportunities in Wakefield, including Screen Yorkshire, WYCA and creative sector skills councils, Screenskills and CCS.
+1.10	Embedding diversity
+Subsectors within CCDI are responding differently to the challenge around embedding diversity and inclusion: the film and television sector is linking commissioning spend to targets around gender, BAME representation and disability for both on-screen performers, employees and freelance crew.
+Further research in this area is needed, but having a voice is an absolute necessity. Policy makers, providers and industry should continue to consult with underrepresented groups and existing cultural groups that currently do not have a voice within the industry (eg, ethnically diverse, queer and trans people, disabled people, older people) to ensure that education and skills training provision reflects the whole of Wakefield district in its governance and operation. There is a role for Creative Wakefield in identifying and supporting ‘champions’ going out to solicit and support the development of formal and work-based learning. Those representatives should in turn become ‘ambassadors’ to ensure equitable access to provision and to grow the new cultural leaders from within Wakefield’s communities.
+
+1.11	Recommendations
+	•	Use Creative Wakefield and the WX3 programme together to build on existing strengths within the cultural sector – top-down and bottom up – and provide a platform for working collectively, providing resources for artists and freelancers
+	•	Build on the extraordinary efforts made by the cultural sector during COVID emergency to reinforce its organisations and its activities within communities.
+	•	Offer increased diversity (young people, older people, disabled, d/Deaf and neurodivergent people, LGBTQ+, ethnically diverse and SEB etc). Brokering relationships with VCSE organisations, the education sector and the culture and heritage sectors, increases access and provides equity for underrepresented groups to have a voice and stake in the cultural life of the city. 
+	•	Creative Wakefield provides a mechanism for discovery, development, diversification and growth of a new generation of leaders. Diversification and distribution of cultural power and equity means challenging established orthodoxies and reframing what culture in the city and its neighbourhoods look like. This transition leads to a powerful cultural scene that is predicated on co-design and collaboration and develops a new cultural leadership that has generosity, inclusion and distributed power at its core.
+	•	Promote (and establish protocols and data privacy policies for) sharing of knowledge and intelligence amongst existing Council business support services to employer relationships across culture, heritage, VCSE and communities, and skills providers. Tableau tool should be a regularly updated resource shared between providers, employers, policy makers, schools and creative organisations of all kinds. It should be complemented by creation of a resource bank and ‘easy reads’ on skills policy and funding.
+	•	Bring WYCA closer to the ambition of Creative Wakefield. The focus on Leeds (as a point of aggregation and attractor of investment for CCDI) and Bradford (with its focus on increasing ethnic diversity and youth engagement within the sector) is both rational in policy terms and a reflection of stretched resources, but Wakefield has a distinctive offer which combines both national centres of excellence and an opportunity to address the disparity in opportunities from more deprived socio-economic backgrounds.
+	•	Strengthen employer-provider dialogue on the principle of knowledge exchange means this is about levelling the playing field – not ‘levelling up’. Local artists have an important role in leadership here, creating and communicating a narrative of the sub-region’s cultural and creative strengths and ambition in a way that brings it more frequently and more forcefully to the attention of employers, investors, students, mid-career professionals, arms-length bodies and policy makers in government in a way that results in Wakefield getting not just a larger slice of investment, but the investment it deserves and needs to further its creative and cultural ambitions. 
+	•	Skills and opportunities need to be developed in a way that is geographically permeable – removing the perception and reality of a focus on Wakefield city centre and recognising the value of and connections between assets, audiences and communities across Wakefield and the five towns, across the West Yorkshire region, nationally and internationally.
+	•	Explore the potential within Cultural Development Fund, Kickstarter and other funds to support placements with CCDI employers – including microbusinesses. The ‘ask’ from the sector within this small consultation is quite aspirational. If it is to happen there will need to be a dedicated resource.
+	•	Use Creative Wakefield as a forum to establish industry links to provide mentoring support from larger organisations for smaller organisations and individual artists.
+Introduction
+2.1	The Brief
+The Arts, Culture and Leisure Service at Wakefield Council commissioned this research as part of the development of a new creative skills development programme for locally rooted Cultural, Creative & Digital Industries (CCDI).
+This is a collaborative initiative within Wakefield Council led by the Arts, Culture and Leisure Service together with the Economic Growth & Skills Service. The Council has developed a comprehensive Employment and Skills Strategy for Wakefield district - including identifying the city as part of an international network of Learning Cities – and is currently undertaking a review of existing provision across its Arts, Culture and Leisure Service. The new creative skills programme will add value through the creation of a targeted and sector-specific programme.  
+The research provides insight into the following areas:
+	•	The current skills offer for progression into CCDI across the learning spectrum (levels 1-7)
+	•	The entry points for progression into CCDI at every stage of life and career development
+	•	The gaps of the current offer and opportunities for development
+	•	The level of accessibility of the current offer
+	•	The skills pathways for training / career development in CCDI
+	•	The perspective of industry on the quality, relevance and reach of the current offer
+	•	The perspective of training providers on the quality, relevance and reach of the current offer
+The brief required:
+	•	Audit of current provision
+A review of the current skills offer for progression into CCDI across the learning spectrum (levels 1-7) and to map out different entry points for careers in CCDI. 
+	•	Skills pathways
+Evidence of skills pathways for progression into CCDI via training or employment from entry level to career development as well as transfer into CCDI from other sectors, informed by the analysis of current provision. 
+	•	Industry consultation
+Consultation with local CCDI employers to gather insight into the current landscape to establish:
+	•	Is there a good match across local training provision and industry needs? 
+	•	Is there a strong learning culture, e.g., CPD, coaching and mentoring offer? 
+	•	Which skills will futureproof industry?
+	•	Service Providers Consultation
+Consultation with training providers to gather insight into the quality, relevance and reach of the current offer. Areas of enquiry included:
+	•	Which courses and pathways are popular with learners?
+	•	What is the demand from employers?
+	•	What is the onward success of a) further learning or b) employment from the providers within the sector?
+	•	How is the current offer being developed and what will it look like in the future? 
+	•	What support is needed to maximise the reach and impact of the offer?
+	•	What are the key drivers behind the current offer provided? 
+2.2	Defining pathways
+One challenge in this work was to find a consistent way of linking training and qualifications to occupations in a way which would make sense to both providers and employers. To do this, we split the digital and creative sectors into five supply chains:
+	•	Creative originals: arts & crafts, fine art, apparel & fashion
+	•	Creative services: marketing and advertising, architecture & planning, graphic design, product design, design services
+	•	Creative experiences: music, performing arts, museums and institutions, libraries 
+	•	Creative content: computer games, mobile games, publishing, motion pictures & film, broadcast media, animation, photography
+	•	Digital technology: information technology and services, computer & network security, computer software, computer networking
+2.3	Sector mapping
+The work was developed using ‘live’ data on employment from LinkedIn and on companies from Companies House. These were compared with latest available data from the ONS Business Register and Employment Survey (BRES). Our mapping showed the sector, and in particular the workforce, to be much larger than revealed by ONS data.
+2.4	Skills mapping
+We mapped provision in West Yorkshire and surrounding areas and carried out ‘heat mapping’ to see if there were particular concentrations of skills.
+Basing our analysis on the five skills pathways outlined above:
+	•	Helped us to see strengths and gaps in provision
+	•	Provided insight into skills which provide a ‘platform’ for further development
+2.5	COVID emergency
+We recognise the disproportionate impact that the COVID emergency has had on the most disadvantaged and marginalised communities. We sense-checked all our activity through an intersectional lens, and in doing so identified the shortfalls and inequalities of access that exist with regard to under-represented voices, especially within neighbourhoods.
+
+Contextual background
+3.1	Cultural Development Fund and WX3
+Creative Wakefield is supported by The Department of Digital, Culture, Media & Sport (DCMS). In early 2019 Wakefield Council was awarded £4.38m from the Cultural Development Fund, managed by Arts Council England on behalf of DCMS. This was supplemented in December 2020 by an additional £1.2million Capital Kickstart grant as part of the Government’s £1.57billion Culture Recovery Fund.
+That investment has been divided between several major projects within the WX3 programme: 
+	•	Redevelopment of the former Market Hall into a creative hub offering creative business and learning space and performance, events and exhibition facilities
+	•	Business support for SMEs, freelancers and individuals working in Wakefield and the wider region 
+	•	Opportunities for local people to develop skills and experience to help them find employment in the creative and digital sector
+	•	Establishing Creative Wakefield as an independent, strategic cross sector body to represent and promote cultural, creative and digital industries
+The research addresses this last strand and informs development of business support.
+3.2	National policy context – skills
+	•	Higher Education (HE) 
+	•	Creative and arts courses now attract a lower tariff than some other subjects (notably, STEM) 
+	•	Russell Group universities say that arts courses will run at £2700 deficit per student 
+The Auger Review on post-18 education and funding makes several recommendations which impact on provision of creative skills education: 
+	•	Low value HE courses
+	•	Access to lifelong learning entitlement
+	•	Value of Higher Level Apprenticeships (HLAs)
+	•	Further Education (FE)
+	•	Skills and Post-16 Education Bill (from May 2021)
+	•	Funding for employers to get involved in course development
+	•	Lifelong learning loan (operational from 2025)
+	•	Lifelong Skills Guarantee 
+	•	Duty for Colleges to be responsive to local needs
+	•	More HE provision and more funding for Higher Level courses in FE:
+	•	Opportunity for FE Colleges with HE centres – eg, Wakefield College
+	•	Some piloting (eg, Salford) of more provision of FE within HEIs – but no evidence of that yet in Yorkshire
+3.3	Education sector response
+	•	Microcredentials
+	•	Shift in funding to allow learners with existing qualifications to ‘go back’ a level (or two) and add a ‘fourth year’ through microcredentials – ‘top-up’ learning
+	•	Reflects urgings of creative employers over a number of years
+	•	HEIs creating MOOCs
+	•	Some free online learning offered to attract users
+	•	Progression to either microcredentials or full-time courses
+3.4	Impact on creative arts courses
+	•	Funding moving from creative arts to STEM
+	•	Creative Industries Council and others lobbying for STEM to be extended to ‘STEAM’
+	•	Expected to lead to HEIs and FE either dropping fine arts or incorporating more creative technology-based practice in those courses.
+
+
+
+
+
+
+Findings from desk research
+4.1	Scale and significance of cultural, creative and digital industries (CCDI) in Wakefield
+Creative businesses
+The number of active CCI businesses in Wakefield registered at Companies House as of January 2021 was 27% higher (813 against 640) than shown in the latest available data from ONS (BRES 2020). 
+Companies House revealed that there were 45 more businesses in each of the subsectors of design and music, performing & visual arts, 40 more companies in IT, software & computer services and double the number of businesses in both advertising & marketing and publishing as shown in the latest BRES data.
+  
+Figure 1 Wakefield CCDI business counts - comparison of BRES 2020 and Companies House data
+
+Source: Curator Technologies/The Fifth Sector 2021
+Creative workforce
+5,505 individuals on LinkedIn stated that their main occupation was in one of the cultural, creative or digital industries sectors and their location was Wakefield (as of January 2021) 
+Comparing our analysis of LinkedIn with ONS statistics, that figure is nearly double the total of 2,800 employees (pre-pandemic) shown in BRES (2019) (see 
+Figure 2, below).
+The discrepancies between the datasets reflect the difference in methodology, but also emphasise the significant numbers of freelance/self-employed individuals and micro-businesses not captured in the BRES survey.
+Strengths and limitations of this approach
+For the purposes of this research, the additional evidence provided by LinkedIn gave a better indication of demand for skills, and opportunities for employment, in Wakefield’s CCDI. However, LinkedIn does not ‘publish’ this as longitudinal data for the purposes of backcasting, so it does not provide the same narrative of growth as BRES.
+
+Figure 2 Wakefield CCDI employment - comparison of LinkedIn and BRES (2020) data
+
+Source: Curator Technologies/The Fifth Sector 2021
+
+More detailed data can be found at 
+Appendix 1: Sector and workforce mapping, below. 
+4.2	Analysis and audit of skills provision pathways
+Most arts and creative courses, and many digital courses, are not directly vocational. Unlike professions such as accountancy, law or medicine, there are few roles within CCDI which require formal certification or completion of an accredited qualification as a precondition of employment. (Exceptions include the need for Health & Safety and electrical engineering qualifications in parts of the production services sector.) In addition, the accelerating pace of digital transformation across CCDI means that professionals are constantly acquiring new skills, either self-taught or through CPD, to keep pace with technological changes. 
+Mapping skills pathways in CCDI, therefore, is an art and not a science. Our aim was to produce a typology of skills which was easy to understand and adaptable to future changes in technology and the continuous innovation in job roles and descriptions which is taking place across the industry. To do that, we mapped skills pathways against five digital and creative sector supply chains, each of them made up of a series of LinkedIn industry codes, as shown in Table 1:
+Table 1 Skills provision pathways
+Name of pathway
+Description
+Pathway 1
+Creative originals: arts & crafts, fine art, apparel and fashion
+Pathway 2
+Creative services: marketing and advertising, architecture & planning, graphic design, product design, design services
+Pathway 3
+Creative experiences: music, performing arts, museums and institutions, libraries
+Pathway 4
+Creative content: computer games, mobile games, publishing, motion pictures & film, broadcast media, animation, photography
+Pathway 5
+Digital technology: information technology and services, computer & network security, computer software, computer networking
+
+The outcomes are summarised in Table 2, below:
+Table 2  Audit of skills provision by pathway
+
+Pathway 1 Creative originals
+Pathway 2 Creative services 
+Pathway 3 Creative experiences 
+Pathway 4 Creative content
+Pathway 5 Digital technology
+CPD
+25
+128
+21
+68
+0
+HE
+30
+188
+175
+196
+8
+FE
+70
+111
+164
+110
+10
+T-Levels
+*
+*
+*
+*
+*
+Apprenticeships 
+0
+9
+2
+7
+5
+Key
+
+
+
+
+
+
+Very Good 
+
+
+
+
+
+Satisfactory 
+
+
+
+
+
+Not Good
+
+
+
+
+
+Poor
+
+
+
+
+
+	•	FE Provision
+	•	Excellent provision for pathways 2, 3 and 4: very little for pathway 5 
+	•	Provision for pathway 1 is mostly evening classes 
+	•	Good examples for pathways within subjects (eg, York College Art & Design from levels 1-3 with follow-on pathways at level 6 and Wakefield College from level 1 right through to Level 6) 
+	•	Some provision for 16–19-year-olds: two BFI Film Academies in Leeds and Workstation in Sheffield 
+	•	No evidence of industry “badged” courses (ie, designed and partly delivered by employers)
+	•	HE Provision
+	•	Some 700 courses, covering wide range of creative sector (TV, film, music, performance, PR, fashion, animation, games design, etc) with good pathways into Master’s degrees
+	•	Excellent provision for pathways 2,3 and 4: very little for pathways 1 and 5
+	•	It is often difficult to categorise into which pathway courses should fall, eg, Art & Design, English and Media. This perhaps reflects the HE premise that higher education is there to give broader experience and not vocational skills. 
+	•	Apprenticeships
+	•	Good range of apprenticeships available at Level 2 and 3, mostly in the digital space, ie: Digital Marketeer and Digital & Technology Solutions. 
+	•	Not a great number of apprenticeships in creative areas (as expected)
+	•	Pathway 2 is good 
+	•	Very little for pathways 4 and 5 
+	•	Surprisingly, very little for pathway 3
+	•	T-Levels
+T-levels are the equivalent to 3 A-levels but encompass more vocational studies. They must include a minimum of 45 days’ work experience. To date, only one T-Level relevant to this study has been approved: Digital Production, Design and Development Level 3, designed to lead to jobs in web development, software development, mobile app developer, programmer. A new T-level in Craft and Design (to cover jewellery, ceramics, furniture and textile making) is due for release in 2023.
+The new T-Level in Digital Production, Design & Development is being offered at five colleges, each with a with slightly different interpretation: eg, Calderdale College is marketing its T-Level as ‘Digital Skills Media and Computing’, which could lead to careers in web development, app development, cyber security and network engineering.
+In light of that, it is perhaps unsurprising that not a single employer expressed awareness of, nor knowledge about, what was involved. This and other feedback on the difficulty faced by organisations across the whole spectrum of CCDI suggests that placement requirements are likely to be seen as even more challenging to employers post-pandemic
+	•	CPD Provision
+	•	Excellent range for pathway 2 (mostly Adobe for creative services companies)
+	•	Good provision for pathway 4 (including National Film & Television School, Screen Yorkshire Centre of Excellence and Screenskills online and reflecting the Channel 4 presence in Leeds)
+	•	Some provision for pathway 3, although mainly hobbyist evening classes. General observations:
+	•	HE and FE institutions are still dividing the creative study areas into Arts & Design or Digital technologies eg: York College - and failing to capitalise on the impact of digital technologies on a range of creative areas
+	•	Excellent provision for CPD and accessible pathways for TV and film at NFTS, Leeds and at Screen Yorkshires Centre of Excellence– could this provision be expanded to cover wider area? Or develop new pathways into it?
+	•	CPD from commercial entities is very Adobe dominated, eg, Armada in Sheffield (only one course – intro to Adobe Premiere Pro), Noble (Adobe) and Design Training, Xchange and Best Practice in Leeds and Total Training and Four Square training in Wakefield
+	•	The format of CPD offerings varies from college to college. Some are more like community evening classes and some part-time: eg, Barnsley College, York College Art School, Leeds City College, Bradford College
+	•	There is a good range of CPD from universities including Leeds Beckett, York and Nottingham Trent
+	•	Provision for 16-19-year-olds includes:
+	•	Two BFI Film Academies (at Leeds Film and Workstation in Sheffield) for 16-19-year-olds, leading to NCFE Level 2 qualification (BFI Film School)  
+	•	Restart at Calderdale College for 16-18-year-olds (creative and digital training, 12 hours per week for 11 weeks). 
+	•	Excellent HE provision across Yorkshire with 512 degree courses covering a wide range of creative sectors and disciplines, including TV, film, music, performance, PR, fashion, animation and games design, with good pathways into Masters courses.  
+	•	Leeds Conservatoire, Leeds Trinity and Nottingham Trent all offer courses at Levels 5/6/7/8
+	•	In contrast, York St John University offers no creative pathways.
+	•	Excellent FE provision – 477 courses 
+	•	There are few examples of interesting industry partnerships in Wakefield and its surrounding areas. We can contrast this with a good example at Manchester College as part of its Industry Excellence Academy, which offers 4-6 week paid internships (Level 3) with Flow Creative with Motion Design & Digital
+Good range of apprenticeships available (see 
+	•	Figure 3, below) at Level 2 & 3 and four Degree-level apprenticeships:
+	•	 Digital User Experience Professional Apprenticeship (Bradford University)
+	•	Outside Broadcast apprenticeship (Bradford University)
+	•	Digital Marketer at Leeds Trinity
+	•	Digital & Technology Solutions at Leeds Beckett and Calderdale College
+
+Figure 3  Apprenticeships in creative pathways by location
+
+Provider consultation 
+We sought the perspective of training providers on the quality, relevance and reach of the current offer. In addition to face-to-face interviews, a survey was sent out to 41 recipients at:
+	•	Leeds Beckett University 
+	•	Northern Film School (at Leeds Beckett University) 
+	•	Leeds University
+	•	Huddersfield University 
+	•	Leeds Trinity
+	•	Capa College
+	•	Kirklees College
+	•	Barnsley College
+	•	Wakefield College
+
+Areas of enquiry included:
+	•	Which courses of study are popular with learners?
+	•	What is the demand from employers?
+	•	Measuring diversity and inclusion
+	•	What is the relative success rate of progression into further learning and employment?
+	•	How is the current offer being developed?
+	•	What support is needed to maximise the reach and impact of your offer?
+	•	What are the key drivers behind the current offer?
+
+We backed up the consultation with a ‘snowball’ survey, sent to individuals identified by Council and cultural partners and through the consultants’ own networks, which encouraged them to pass the survey to other people within their organisations and networks. This approach is used to try to uncover ‘unheard’, marginalised and excluded voices. The survey had ten responses; it addressed:
+	•	Employer engagement
+	•	Placements
+	•	Recruitment
+	•	Funding
+
+5.1	Which courses of study are popular with learners?
+Creative, arts and media courses are very popular with learners. Courses with a digital element, including music technology, digital fashion and digital media, are increasingly popular. This is evident from the number of courses available: 1,292 courses at both FE and HE across all pathways (March 2021). 75% of survey participants said creative and arts courses are in high demand.
+5.2	What is the demand from employers?
+Reflecting trends across creative industries, there is a diverse range of demands from employers; however, the term ‘work-ready’ seems to cross all sectors. Many employers believe that not enough is being done to ensure new entrants are fully aware of working practices.
+	•	Production Services 
+Production services involves a range of skills from electrical and mechanical engineering through to augmented and virtual reality. 
+Typically, engineering, electrical and electronics needs have been met through apprenticeships. (NB – this is even more the case with Ad Lib in Liverpool, which is going through the process of becoming an apprenticeship provider.)
+Challenges are really around soft skills:
+	•	Customer relationship management – not in the software sense, but the ‘knowing how to deal with a client on site’ sense. Many of those clients (artists, managers, promoters) have large and sometimes fragile egos – even junior employees need to know how to respond appropriately to demands, criticism, requests for information etc
+	•	Sales training and negotiation
+	•	Management and leadership skills – especially delegating responsibility rather than passing on tasks 
+	•	HSE – working at height and electrical safety
+And applied skills:
+	•	Application of AR/VR technologies in live event production
+	•	Sophisticated automation technologies to manage complex sets (both mechanical and scenic)
+	•	Moving engineers and electricians with traditional’ core skills into live events
+	•	Marketing and communications
+	•	Backend developers 
+	•	More formal mentoring 
+	•	Film and television
+Industry stalwarts:
+	•	Production Managers
+	•	Production Accountants
+	•	Production Co-Ordinators 
+	•	Drama crew – runners, camera, sound
+	•	Location Manager
+	•	Line Producer
+	•	1st AD (assistant director)
+	•	Management skills
+	•	Financial skills and the ability to work to a budget
+	•	Communication/interpersonal skills
+	•	Planning and organisational skills 
+	•	Leadership skills
+	•	Problem-solving skills
+	•	Games and animation
+	•	Marketing
+	•	Director/designer
+	•	Business skills – cashflow, finance management, how to scale up 
+5.3	Diversity and inclusion
+It is clear from our consultations with both providers and employers that diversity and inclusion are crucial to release the true potential of the region’s creative talent. 
+Whilst there was almost unanimous agreement on this point, many commented that the pandemic had set back progress being made into recruiting a more diverse workforce by several years. 
+Some employers have clear diversity targets which are becoming increasingly difficult to hit. With all new BBC productions having to hit a 20% diversity target since last November, TV content producers remarked on the impact of the pandemic which has seen many in a largely freelance workforce choose to seek employment outside the industry. 
+Monitoring of Widening Participation within FE and HE is also a requirement, and several providers believe there is a role for local authorities to champion the value of the arts and creative industries as important and fulfilling careers.
+
+“In terms of placements, we frequently find nepotism (placements going to those related to people who already work in the industry). In addition, our students are often offered placements which are well below minimum wage. For example, a student has just been offered a six-month placement in London and they have offered £300 a month - which wouldn't even cover transport costs. Unpaid or unfairly paid placements are thus only 'available' to students who come from privileged backgrounds.”
+
+5.4	What are the success rates of progression into, (a) further learning or, (b) employment within the creative industries, if known?
+Unknown – none of the providers responded to this question.
+5.5	How is the current offer being developed and what will it look like in the future? 
+	•	Higher Education funding
+Current Government policy is that creative arts courses are not a strategic priority with a view that funding should be reprioritised “towards the provision of high-cost, high-value subjects“.
+Earlier in 2021, the Education Secretary, Gavin Williamson announced changes to the funding for arts to create savings of around £20m. Under the plan spending for non-prioritised subjects is to be cut from £36m to £19m, with the savings being redirected to other “prioritised” areas, such as nursing and computing.
+In HE, changes to funding levels during the 2021-22 year onwards could impact heavily on future growth. Funding from the Office for Students (Ofs, the independent regulator of higher education) is to be cut by half for students of art and design, music, dance, drama and performing arts, media studies and archaeology. In effect, this cuts the award for each student from £243 to £121 per academic year.
+The Russell Group of universities argues that the affected courses will now run at a deficit of about £2,700 per student, including the income from tuition fees.
+	•	Further Education
+The announcement of a Skills Lifetime Guarantee by the Prime Minister in April will entitle around 11 million people who have no Level 3 qualifications to access qualifications for free. In line with Government policy, the 400 initial qualifications on offer are for “in-demand” skills and do not include creative arts/media areas but do include digital (eg, software development, digital engineering, digital product design, cyber security, computing etc).
+In our provider survey, the impact of these funding changes is evident with clear expansion in areas of digital technology (87% predict growth in this pathway) and 77% indicating that funding levels will influence future provision.
+
+Figure 4 Plans for future provision of arts and creative courses
+
+
+
+In HE, 75% of those surveyed agreed that funding for arts and creative courses was poor with one participant stating:
+ “Some courses are expensive to run, and funding is tight or not sustainable”. 
+
+“Creative courses are expensive but their value to society is great. We cut funding to the arts at our peril!”
+
+Figure 5 Influence of funding on provision of creative courses
+
+	•	T-Levels
+T-levels are new two-year courses launched September 2020 which are the equivalent to 3 A-levels. They are designed to offer students a mix of classroom learning and “on-the-job” experience during an industry placement of 315 hours (approximately 45 days). 
+The impact of T-levels on the sector is a relative unknown. Survey participants were equally divided on whether they would work for the sector.  
+Currently the only T-level is aligned to the creative sector is “Digital Production, Design and Development” which is being interpreted in differing ways amongst West Yorkshire Colleges ( eg: Digital Skills, Media and Computing at Calderdale College and Digital Technologies at York College)
+A new T-level in Craft and Design (to cover jewellery, ceramics, furniture and textile making) is due for release in 2023. 
+Also unknown is the impact on pathways into HE. As one HE survey participant said: 
+“I do generally think T-levels are a retrograde step in terms of admission to HE institutions (sic). We currently accept BTEC qualifications, but T-levels are less certain.”
+There was agreement however that the on-the-job nature of T levels will put more pressure on FE with 88% of participants stating that they would impact heavily on the need to find more placements. 
+	•	
+	•	Bootcamps 
+Government has also announced a skills bootcamps programme. These are free flexible courses of learning between 12 and 16 weeks for adults aged over 19 designed to develop sector-specific skills and fast-track to an interview with an employer. 
+Over the last two years, trailblazer bootcamps were delivered in a range of digital areas including software development, data analytics and digital marketing. Further funding for more bootcamps is expected imminently. 
+Government states that,
+“Key requirements will be to deliver the skills and wider competencies that employers require to recruit to specialist digital roles and that a learner gets a job at the end.”
+The initiative aligns substantially with what employers say is lacking – the gap between education and being ‘job ready’ is too wide. However, with the concentration of funding for bootcamps on digital and tech areas, impact on creative and arts employers will be minimal. 
+Bootcamp-type training in West Yorkshire includes ‘Beyond Brontës’, delivered by Screen Yorkshire, which has just recruited its third cohort. Set up two years ago with funding from the City of Bradford Metropolitan Borough and the Leeds LEP, the scheme offers a range of training over an intensive six-month period for 50 18-24-year-olds from the Leeds City Region (including Wakefield). The package includes mentoring, 1-2-1 support, paid internships and careers information. Whilst the scheme has impressive employment results, it is designed for one sub-sector: the screen industries.
+	•	Placements
+It is clear that placements are highly sought after in both HE and FE with over 1,000 placement places identified for creative and media courses through our survey participants. Although not required in all courses areas, industry placements are required in others (eg, journalism). Providers cited the difficulty in securing placements during last year due to the pandemic, putting even more pressure on finding placements for this and future years. 
+Although 78% of survey participants stated that they had a member of staff dedicated to finding placements, some also cited the lack of staff or staff being “stretched” to do this on top of teaching requirements. 
+“One of the challenges is that as educational institutions, we can't approve students to miss classes and learning without reasonable notice and many placement opportunities (understandably, due to the way the industries work) are almost immediate.”
+This response highlights issues of timing and a disconnect between the needs of employers and of University educators.
+Some institutions reported support for placements from a strong alumni network and investment in employability at all levels. 
+5.6	What support is needed to maximise the reach and impact of the offer?
+	•	Employer engagement 
+Whilst 87% of those surveyed said they engage with employers on a regular basis 62.5% said that this type of engagement is difficult. 
+
+Figure 6  Employer engagement responses
+
+
+Employer engagement is sought for a range of areas:
+	•	Curriculum development
+	•	Student talks
+	•	Student placements 
+	•	Research 
+
+“We engage with employers in lot of different ways, but it can be hard to do consistently and across each pathway, especially in creative industries.”
+Several participants reported having insufficient time to engage with employers due to teaching workload.
+	•	Placements
+Providers struggled to identify placement opportunities with employers and highlighted difficulties around diversity and inclusion (particularly on economic grounds) for students.
+Courses varied widely in terms of placement requirement, from compulsory to optional. Some institutions had placement officers, whilst others expected placements to be sourced by the students themselves. Even institutions with good and long-established relationships with employers found placements difficult to identify and support. The project-based nature of employment in creative industries, which means that placement opportunities may need to be filled as soon as they come up, can also pose problems in terms of timetabling and the educational institutions duty of pastoral care. 
+
+Figure 7 Placements
+
+
+5.7	What are the key drivers behind the current offer? 
+	•	Ability to recruit 
+87% of survey participants said popularity of courses was most important when choosing courses.
+Figure 8 Recruitment
+
+
+	•	
+	•	Funding 
+Figure 9 highlights the considerable impact of funding changes on arts courses, with 87% saying it will impact on decision making going forward with 75% stating that funding for creative courses in HE is poor.
+
+“Some courses such as music technology and media require heavy investment to ensure resources and valid, current and industry standard. Because recruitment in the Arts is usually in lower numbers, it's very difficult to justify the investment with low viability.”
+
+Figure 9 Impact of funding on provision of arts and creative courses
+
+
+
+Employer consultation
+We identified key stakeholders from each creative supply chain to be consulted as part of the process, with a set of questions agreed with the project steering group.  Interviewees included employers in:
+	•	Creative content: TV & film, games and animation
+	•	Creative experiences:
+	•	Round table with employers from Production Park and other Yorkshire-based production services companies
+	•	NPOs: Theatre Royal Wakefield and Yorkshire Sculpture Park
+	•	Creative services: advertising and marketing
+	•	Digital tech: immersive media
+We were unable to secure an interview from an employer within the ‘creative originals’ pathway.
+
+Need for “job-readiness”
+	•	There is a willingness to work more with providers
+	•	Apprenticeships work for technical and engineering grades
+	•	No recognition of T-levels
+	•	More leadership and management and business skills needed
+	•	Increasing importance of diversity and inclusion
+	•	Rapid changes in technology impacting at all levels 
+	•	Pandemic – has been “like falling off a cliff”
+
+
+	•	Need for “job-readiness”
+	•	There is a willingness to work more with providers
+	•	Apprenticeships work for technical and engineering grades
+	•	No recognition of T-levels
+	•	More leadership and management and business skills needed
+	•	Increasing importance of diversity and inclusion
+	•	Rapid changes in technology impacting at all levels 
+	•	Pandemic – has been “like falling off a cliff”
+
+
+
+
+
+
+
+
+
+
+
+
+
+	•	Future skills 
+	•	Television and Film
+The film and television industry is going through rapid changes not only technically but also on the type of content that is being required, from subscription video on demand (SVOD – services such as Netflix, Prime etc) to very unique dramas (Discovery of Witches etc). There are literally roles appearing frequently that were never heard of before, not least on the digital tech side.  As we look to an ever faster paced digital world with on demand sitting alongside terrestrial, future skills are unknown.
+Sectors are starting to merge naturally with requirements for digital content, online, SVOD etc, and that in itself is bringing sectors that were previously ‘different’ organically together. Historically, television was television and online/digital was ‘content’: now the lines are very much blurred and there are just different types of ‘content’ - the skills to produce and transmit all of this are meaning any traditional ‘television’ company is transforming into a much more forward thinking, modern content company needing all the skills that requires.
+“Because we're into entertainment, people want to see something new. They wanted something risky something, ‘wow’. And that means everything we do is always changing. So, any skill you learn, in three years’ time, it's useless because something else has happened.”
+	•	Production Services
+Future skills needs in the following areas:
+	•	Projecting video over fibre optics – media server mapping and technologies
+	•	Private communications networks – 5G, IoT, sensor technologies
+	•	Data analytics
+	•	AR/VR
+	•	Games and animation
+Future skills needs in the following areas:
+	•	Ability to make augmented reality work. 
+	•	Adobe Creative Suite 
+	•	New tech areas - CelAction or ToonBoom Harmony 
+	•	Business skills 
+	•	Leadership and Management ( help from Creative England + Wakefield Advance Programme)
+	•	CCDI employers in general
+	•	App development
+	•	Coding/Programming
+	•	Data Analytics
+	•	Design and Visualisation
+	•	Hardware
+	•	Project Management
+	•	Social Media
+	•	UX – User Experience
+	•	Web development 
+6.2	Views on colleges/universities 
+College graduates lack core skills (basic electrical and engineering know-how) – eg, basic soldering skills, cabling – and ‘common sense’.
+FE and HE train people for the higher grade creative or technical roles, but those graduates can’t deploy any of those skills without developing knowledge of how the industry works – similar to TV, where people who’ve studied film directing find they have to start as a runner and work their way up.
+We do tend to find that a lot of FE/HE is not always producing students who are ready for the workplace at the end of their (sometimes very long) courses.  
+New entrants are not work ready, or to not have the right skills for the industry.
+We run outreach projects such as Northern Lights where we do workshops, projects, talks and advisory sessions with various universities. In these workshops feedback from students is that they’ve learnt more in that week/day than in a whole chunk of their courses. 
+Lack of direction is an issue for many employers.
+The university model seems to cast a very wide net offering multiple courses across industry subjects and it’s a concern that sometimes this is more driven by income than by offering learning. 
+Schools need to be brought into the equation, getting the message across to younger students about the options, roles, careers available in the industry are available to them not only helps with the choices they make to enter the industry (apprenticeship route rather than Uni etc) but also the wider message of D & I – the fact this is an industry open to the masses for successful long-term careers.
+They are trying but don't really turn out the people that we need. 
+Would like to be more closely involved in courses and meet students at earlier stages and have strategic input at different points across the courses.
+Some good Uni courses – Leeds Trinity, Leeds, Hull but not enough design and marketing courses locally (none in Wakefield).
+Despite providers’ attempts to engage, employers observed that there was little liaison with curriculum developers and no formal placement programme.
+Greater connection with creative talent within schools is also in demand so that younger students can gain better advice on the options, roles and careers available in CCDI:
+Schools need to be brought into the equation so younger people get help with the choices they make to enter the industry (ie: maybe an apprenticeship route rather than University) but also with the wider message of Diversity and Inclusion – the fact this is an industry open to the masses for successful long-term careers.
+6.3	Impact of COVID
+With a predominantly freelance workforce, and a huge amount of face-to-face interaction, the creative industries has been one of the sectors hardest hit by the measures to counteract the pandemic. Film and television production was first suspended, then allowed to reopen subject to imposing sanitary measures which add an estimated 15% to any production budget; large parts of the live entertainment sector have, at time of writing, yet to reopen. Many live events and festivals have lost two full years of revenue, whilst the uncertainty about dates and conditions under which the sector might reopen has forced some employers to suspend or scale back training and development.
+COVID has meant huge changes to the way we film and the way our buildings work. Our priorities remain to produce the best content we can and we’re very proud of the fact we led the world in getting back to filming whilst the pandemic progressed. A lot of our workforce has been working from home throughout and a big priority for us is to make sure they still feel part of the team and are able to manage their work life balance whilst not being in the office for over 12 months. There is a good deal of support given to ensure the wellbeing of staff throughout the pandemic and the change in working environment. A Wellbeing manager is responsible for training courses and activities to ensure that people can collaborate virtually and have sufficient breaks away from meetings.
+The main impact on skills is being unable to progress any of our normal outreach and training initiatives for the past 12 months, we have supported FE remotely as and when we can and we will soon be restarting various initiatives including ensuring diverse and under-represented groups get a good understanding of the roles available within the industry, and ultimately the chance to work with us. 
+The pandemic presented a very real challenge for us. It was like “falling off a cliff” and the company lost many clients. Some have returned and some new ones not on board. Fiscal and cashflow was the main problem.
+6.4	Is there a good match across local provision and what industry needs?
+Across all pathways, employers placed lot of emphasis on finding people with basic skills, ‘common sense’ and the right attitude and developing them ‘on the job’. The quotations below from a round table held with production services employers reflect the fact that this requirement runs across all course levels and even to disciplines not normally associated with the creative sector, such as construction and engineering:
+Apprenticeships can work really well for us, alongside our traineeships. They also tend to give us more of a chance to get people from under-represented and diverse walks of life who wouldn’t have been able to go to university.  
+It’s about learning how to use the tools in a live event setting – not just ‘skills training’ but applying knowledge and principles to create new sonic and visual experiences.
+Tait is recruiting large numbers of apprentices in construction and engineering disciplines from Wakefield (c 20 per annum).
+Performance disciplines are not producing people with the right skills [for production services].
+Employer interactions indicate demand for:
+	•	More mentoring needed at all levels, including for business owners and leaders
+	•	More core business skills such as marketing, IP, sales, platforms
+	•	More industry events to familiarise young people, their parents, careers advisers and teachers with opportunities in a range of technical skills, as well as creative disciplines, within the creative industries
+	•	More online networking
+
+6.5	Is there a strong learning culture (eg, CPD, coaching and mentoring offer?)
+In summary, yes: all the employers stressed the importance of training and acclimatisation to the very different world in which they operate from some of the other careers to which both creative and STEM graduates might ordinarily gravitate.
+Leadership and management too: one of the employers described a long-term mentoring arrangement to help him address business challenges. There is scope to develop a pool of non-executive directors with parallel experience in other sectors.
+Several employers praised the Creative England Female Founders programme and Wakefield’s iteration of the Advance Programme.
+6.6	Importance of Diversity and Inclusion
+Employers across all creative pathways expressed strong support for taking steps to increase equality, diversity and inclusion in their businesses and industries. This took a range of different forms: from targets and quotas imposed by TV commissioners to examples off employers in the live events sector trying to change the working culture from very long days and professionalise elements of it to make it more attractive to women (and in the process making it easier for all employees with family commitments.)
+There is a wider message of D & I – the fact this is an industry open to the masses for successful long-term careers, indeed without a diverse and inclusive workforce surely television ‘content’ isn’t going to be relevant to huge swathes of the very thing that keeps it going, its audience.
+This is the number one item of importance for us. With broadcasters requiring 25% D+I targets, this is becoming an increasingly important problem, but the pandemic year has impacted hugely on who’s out there and still wanting to work in a freelance industry. People are opting for long-term steady jobs.
+It’s crucial going forward - it's baked into everything we do - we need diverse people in our team.
+It is hugely important, not only from an ethnic standpoint but also a socio economic one. Things have improved but there is a way to go both in front of and behind the camera.   We still have so many under-represented groups missing from the industry, and we are constantly striving to find the right mechanic to ensure all those groups are aware that working in the creative industries is an option for them.  
+We have found that colleges and universities also have the same issue on creative courses - a noticeable lack of diversity - and it’s a subject we discuss with them frequently.  At present there isn’t any quick fix, but we are working with various bodies such as Screenskills on initiatives to help improve the situation.
+Without a diverse and inclusive workforce surely television ‘content’ isn’t going to be relevant to huge swathes of the very thing that keeps it going, its audience.
+6.7	Other comments 
+Employers reflected on both skills needs, commercial pressures, the social and economic benefits of increasing equality and diversion in the creative workforce and optimism around new developments in Wakefield:
+There’s a continuing need to invest in arts courses at Universities - the UK needs creative people and problem solvers not just robot scientists!
+Would be good to help young people to build networks.
+Historically keeping creative skills in the region has been challenging with the constant exodus to London, and more recently across to MediaCityUK - both being the ‘go to’ hubs for the industry particularly for College/Uni leavers and young talent that is the industry’s future. Now with the arrival of more productions around the North and East, and arrival of Channel 4 in Leeds it’s not just keeping the right skills/people in the region - it’s also retaining them in ITV. We need to be seen as an employer of choice and recognised locally to have a broader production range in the region than perhaps we do (Emmerdale). The pandemic has resulted in many productions all starting up at the same time which has led to a shortage of experienced crews in both non scripted and scripted genres. Our Out of London strategy means that we need to focus on our northern production hubs. An outcome of this has been that inexperienced crews are operating at a higher level without sufficient training.
+I’m really hopeful that Tileyard could be a real catalyst for skills development.
+6.8	Summary of responses by sector
+Film and television
+	•	Importance of diversity and inclusion
+	•	Speed of change
+	•	Merging of sectors (‘high end’ TV)
+	•	New entrants are not ‘job ready’ 
+	•	Skills gaps – production managers; production accountants; drama “crew”
+	•	Pandemic has impacted availability of freelancers
+Games and animation
+	•	Business skills needed- cashflow, marketing etc.
+	•	More senior management support
+	•	Future skills – AR, new tech areas (Celaction)
+	•	Unis not turning out people needed 
+Advertising, marketing & communications
+	•	Importance of diversity and inclusion
+	•	Informal placements
+	•	More needed for senior managers
+	•	Some good new entrants from Leeds and Leeds Trinity Unis 
+	•	Skills gaps – backend developers
+Production services
+	•	Challenges around soft skills
+	•	Wide range of skills needed – from electrical and mechanical engineering through to AR/VR
+	•	Impact of 5G
+	•	Graduates lack core skills 
+	•	Recruitment locally 
+	•	Future skills needed – projecting video over fibre optics; data analytics; industrial automation
+Cultural sector
+	•	Widely varying requirements between organisations
+	•	Venues require front-of-house, site management and retail skills as well as creative
+	•	Few new creative opportunities, and an established pool of creative practitioners from which to draw
+	•	Willing to offer placements (in particular to demonstrate commitment to EDI) but need additional resource in order to provide proper levels of support
+
+Diagnostic tools
+Analysis of web sites from skills bodies revealed that Skills assessments have replaced Training Needs Analysis (TNA) – eg, the National Careers Service skills assessment web site offers a comprehensive range of online resources.
+Whilst individual providers and trade associations are no longer offering TNA, hybrid sites – like Ukie’s intogames - offer an experiential way for learners to explore skills needs.
+This led us to explore the potential to create a ‘blended’ solution, in which:
+	•	Training providers and/or employers refer individuals to the National Careers Service
+	•	Learners/employees bring back their results as the basis of an individual diagnostic session with an expert advisor
+In response to this, the course data collected was input to Tableau to provide a searchable database of some 1300 arts and creative courses across West Yorkshire. This can be easily updated by importing spreadsheets containing new course details. 
+
+Figure 11 Diagnostic tool on Tableau
+
+Summary of findings
+8.1	Opportunities
+Wakefield has several key sectors with established capacity and potential to stimulate further growth and demand for skills across the district:
+	•	Cultural venues, both National Portfolio Organisations and smaller hubs
+	•	Games, where Team 17 represents a ‘hero’ brand for the sector and region
+	•	Production services, for which Production Park represents a hub of national significance
+Our analysis of the business base and workforce also revealed nascent strengths in other sectors notably music, visual & performing arts, design, advertising & marketing and publishing. Most of these are microbusinesses - many individual freelancers who may alternate between leading projects and forming part of supply chain for others. Policy makers and providers need to find ways of engaging with the employment and entrepreneurial opportunities in these sectors which helps match supply with demand for skills and innovation which are not overly bureaucratic and burdensome to the employer. 
+In particular, there is a need for innovative thinking to establish how the creative sector can collectively meet demand for placements across apprenticeships, T-Levels and degree courses in a way which reflects the working patterns and structural capacity of individual organisations.
+Investment in workspace – not just WX3, but private sector investment in Tileyard and the expansion of Production Park, points to confidence in the sector’s ability to overcome the shocks of the Covid-19 pandemic and return to innovation led growth. 
+The commitment from local and regional government and providers to ‘joined-up’ provision is evident from our consultation. The creation of Creative Wakefield provides further opportunity to lobby regional and national bodies to represent opportunities in Wakefield, including:
+	•	Screen Yorkshire
+	•	WYCA
+	•	Screenskills/CCS
+8.2	Embedding diversity 
+Further research and consultations are needed concerning governance and sector representation. Subsectors within CCDI are responding differently to the challenge around embedding diversity and inclusion: the film and television sector is linking commissioning spend to targets around gender, BAME representation and disability for both on-screen performers, employees and freelance crew, whilst other sectors are taking a lighter touch, self-regulating approach. From a policy and skills provider perspective, understanding how the sector pivots, flexes and shifts in response to market and societal changes should be an on-going piece of work.
+This highlights the need for greater shared understanding within the sector, and a sharing of learning and best practice. Creative Wakefield should facilitate cross sector working to make sure representation is a call to action and not an invitation. In order to support this, there needs to be resource (funding) to support small organisations and individual artists/ practitioners to take part and to also take the lead.
+Having a voice is an absolute necessity. Policy makers, providers and industry should continue to consult with underrepresented groups and existing cultural groups that currently do not have a voice within the industry (eg, ethnically diverse, queer and trans people, disabled people, older people) to ensure that education and skills training provision reflects the whole of Wakefield district in its governance and operation. There is a role for Creative Wakefield in identifying and supporting ‘champions’ going out to solicit and support the development of formal and work-based learning. Those representatives should in turn become ‘ambassadors’ to ensure equitable access to provision and to grow the new cultural leaders from within Wakefield’s communities.
+Recommendations
+
+	•	Build on existing strengths within the cultural sector – top-down and bottom up – including:
+	•	NPOs – existing joint activity, including COVID response and CRF, but also leverage in the national conversation.
+	•	What we learnt from smaller organisations and freelancers’ agile response to COVID. 
+	•	Creative Wakefield and the WX3 programme together provide a platform for working collectively and providing resources for artists and freelancers. It offers potential to build on the current mapping with the aim of creating meaningful partnerships, creating opportunities to work together as well as creating and holding the space for networking to happen.
+	•	Build on the extraordinary efforts made by the cultural sector during COVID emergency to reinforce its organisations and its activities within communities, the new cultural consortium will provide capacity to sustain that level of engagement and extend it to encompass potential strengths, resources, energy and audiences not currently engaged within Creative Wakefield or other forums – eg, Leeds universities, other West Yorkshire colleges, VCSE.
+	•	Offer increased diversity (young people, older people, disabled, d/Deaf and neurodivergent people, LGBTQ+, ethnically diverse and SEB etc). From the survey, the World Cafés and the Stakeholder interviews diversity was referenced by participants throughout the process, and indeed different voices were platformed throughout the process. However, many voices were not. Creative Wakefield has the potential to truly present the intersectional diversity of the district - in particular, barriers imposed by class and poverty - and move beyond instrumentalist representation of diverse characteristics. Brokering relationships with VCSE organisations, the education sector and the culture and heritage sectors, increases access and provides equity for underrepresented groups to have a voice and stake in the cultural life of the city. 
+	•	Creative Wakefield provides a mechanism for discovery, development, diversification and growth of a new generation of leaders. Diversification and distribution of cultural power and equity means challenging established orthodoxies and reframing what culture in the city and its neighbourhoods look like. This transition leads to a powerful cultural scene that is predicated on co-design and collaboration and develops a new cultural leadership that has generosity, inclusion and distributed power at its core.
+	•	Promote (and establish protocols and data privacy policies for) sharing of knowledge and intelligence amongst existing Council business support services to employer relationships across culture, heritage, VCSE and communities, and skills providers. Tableau tool should be a regularly updated resource shared between providers, employers, policy makers, schools and creative organisations of all kinds. It should be complemented by creation of a resource bank and ‘easy reads’ on skills policy and funding.
+	•	Bring WYCA closer to the ambition of Creative Wakefield. The focus on Leeds (as a point of aggregation and attractor of investment for CCDI) and Bradford (with its focus on increasing ethnic diversity and youth engagement within the sector) is both rational in policy terms and a reflection of stretched resources, but Wakefield has a distinctive offer which combines both national centres of excellence and an opportunity to address the disparity in opportunities from more deprived socio-economic backgrounds.
+	•	Strengthen employer-provider dialogue on the principle of knowledge exchange means this is about levelling the playing field – not ‘levelling up’. Local artists have an important role in leadership here, creating and communicating a narrative of the sub-region’s cultural and creative strengths and ambition in a way that brings it more frequently and more forcefully to the attention of employers, investors, students, mid-career professionals, arms-length bodies and policy makers in government in a way that results in Wakefield getting not just a larger slice of investment, but the investment it deserves and needs to further its creative and cultural ambitions. 
+	•	Skills and opportunities need to be developed in a way that is geographically permeable – removing the perception and reality of a focus on Wakefield city centre and recognising the value of and connections between assets, audiences and communities across Wakefield and the five towns, across the West Yorkshire region, nationally and internationally.
+	•	Explore the potential within Cultural Development Fund, Kickstarter and other funds to support placements with CCDI employers – including microbusinesses. The ‘ask’ from the sector within this small consultation is quite aspirational. If it is to happen there will need to be a dedicated resource.
+	•	Use Creative Wakefield as a forum to establish industry links to provide mentoring support from larger organisations for smaller organisations and individual artists.
+9.1	Further research
+We would recommend that the WX3 programme consider investing in additional work in:
+	•	Understanding aspirations and barriers at a very local level – individual schools and communities - involves doing the groundwork.
+	•	More conversations with the sector as an ongoing strand of work.
+	•	Bridging the gap – facilitating and putting in place closer working between Wakefield Council, WYCA, providers and creative sector employers and their representative organisations in implementing and updating the findings of this research.
+	•	The use of technology to support collective action and endeavour – including implementing the pathways mapping tool.
+	•	Additional longitudinal research to map progression in CCDI from early career onwards.
+It would be instructive to revisit the business and workforce data in January 2022 to assess the longer-term effects of Covid on business start-up and survival rates and employment in CCDI in Wakefield.
+
+Appendix 1: Sector and workforce mapping
+
+Table 3 Active creative industries businesses in Wakefield
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 12 Location of Wakefield Creative Industries Companies by Postcode
+
+
+
+Figure 13  Wakefield Creative Industries by Location and DCMS sub-sector
+
+
+
+Table 4 Wakefield Creative Industries Companies by DCMS Grouping and SIC code
+
+Table 5 Wakefield Creative Companies by 'Out' Post Code
+Figure 14 Wakefield Creative Industries Companies by DCMS Grouping (bar chart)
+
+
+Table 6 Wakefield Creative Industries Companies by DCMS Grouping (list)
+
+Table 7 Proportion of Wakefield Creative Companies by DCMS group
+
+Figure 15 Wakefield Creative Industries Startup Businesses (bar chart)
+
+
+Key
+
+Table 8 Wakefield Creative Industries Start-up Businesses by DCMS group
+
+	•	Appendix 2: Creative and digital careers information
+	•	National Careers Service
+Main careers/skills diagnostics for the creative sector are within the Nation Careers service site:
+https://nationalcareers.service.gov.uk/skills-assessment
+There are specific careers areas for creative and media
+https://nationalcareers.service.gov.uk/job-categories/creative-and-media
+Plus
+https://nationalcareers.service.gov.uk/job-profiles/tv-or-film-production-runner
+	•	Gateway Qualifications
+Website contains two simple initial assessment tools for use with learners considering undertaking Essential Digital Skills qualifications (EDSQ).
+https://www.gatewayqualifications.org.uk/advice-guidance/delivering-our-qualifications/support-materials/diagnostic-tools/
+Also a digital ladder showing appropriate digital qualifications.
+https://www.gatewayqualifications.org.uk/wp-content/uploads/2020/11/The-Digital-Skills-Landscape-Webinar-Slides-Gateway-Qualifications.pdf
+	•	The Creative Careers Programme
+Discover! Creative Careers is an initiative by the UK creative industries to make it easier for young people to find careers in the creative industries. It was originally funded by the Department for Digital, Culture, Media and Sport. Its 2020/21 funding comes from Arts Council England. The website has info on  events, workshops , masterclasses, talks, work experience. It last held a national careers day in 2019.
+https://www.creativeindustriesfederation.com/publications/creative-careers-programme
+https://discovercreative.careers/#/
+	•	Creative and Cultural Skills 
+Run annual Careers Week Discover! ( as part of National Career week usually early March)
+Creative Careers Programme
+https://www.ccskills.org.uk/our-services/creative-careers-programme
+ 
+	•	Screenskills
+The industry-led skills body for the screen industries – film, television (including children's, unscripted and high-end), VFX (visual effects), animation and games. With info on careers and training https://www.screenskills.com/careers/job-profiles/
+	•	BAFTA Guru
+http://guru.bafta.org/
+“A hub for inspirational career advice from the very best in film, games and television”
+Archive of video and audio from BAFTA events , with online recorded Masterclasses from writers , directors and actors including Killing Eve stars http://guru.bafta.org/killing-eve-tv-qa-0
+	•	4TALENT
+With info on apprenticeships in Manchester and Leeds, talent schemes and work experience.
+https://careers.channel4.com/4skills
+	•	Target Careers 
+A generalist site for 15-18 year olds aimed at helping young people figure out their future and find work. Information and advice including articles on media apprenticeships, how to get into journalism/editing/production/acting and degrees.https://targetcareers.co.uk/career-sectors/arts-and-creative/1014259-how-to-get-into-acting
+	•	PROSPECTS
+Good overview of jobs and work experience in the creative arts sector with a national jobs search for creative jobs.
+https://www.prospects.ac.uk/jobs-and-work-experience/job-sectors/creative-arts-and-design/overview-of-the-creative-arts-sector-in-the-uk
+	•	MINDTOOLS
+Site with quiz to understand your creativity levels.
+
+
+
+
+
+
+Appendix 3: Comments from provider survey
+3.1	Employer Engagement
+Engaging with employers is central to HE Development at the College, in terms of both curriculum design and delivery. A good recent example would be the employer involvement in the design of a new BSc in Computer Science which was a key factor in its successful validation and implementation. We would like to generate more graduate level employment opportunities in Wakefield for our graduates and increase the number of internships and work placements.
+We're an incredibly large Faculty (8K students studying subjects as diverse as Fashion design, film, digital media, performance, and music - and much more). We engage with employers in many different ways - our Cultural Institute provides an important point of contact, but we also have University and Faculty employability teams who engage with employers, and we have employability support in many of our 9 schools.
+There is a module on each of the two BA(Hons) programmes that I wrote, and which are validated by the University of Hull which requires students to gain industry experience. As a result, various placements are sought and vary year in year out. The two programmes are the BA Creative Industries programme and the BA Performance Industries programme.
+We engage with employers in lot of different ways, but it can be hard to do consistently and across each pathway, especially in creative industries.
+Insufficient time to engage with employers due to teaching workload.
+We engage with employers for works placement, curriculum design and also for live briefs for assessments for the students as we feel that they need to mirror industry to ensure real work situations.
+3.2	Placements
+We have around 150 Creative and Digital HE students on full-time programmes. Industry / work placement is an integral part of the level 6 Top-up degrees (30 students in 2020-21). Placements for students on level 4 or level 5 programmes are optional.
+The course specification does not require placements, with the emphasis on students to secure them.
+I couldn't even begin to answer this question - the placement needs of students across the Faculty are so different. Also, we have people working at different levels - we have industry required placements in some schools (journalism) and placements that are optional and available to any student (not just 'creative' students) 
+Placements are always being sought on a range of levels. The cohort size on average for the BA programmes is approximately 14 per programme. The level of the industry experience sought is more intense than the lower levels and both programmes focus on the transition from education into the creative industries. Further discussion about the design of the programmes may assist you in moving things forward in building Wakefield's CI.
+All our students require placements so that is approximately 450 covering Performing Arts, Music, Media, Design and Photography and Art and fashion. Unfortunately, last  year due to the pandemic we did not achieve any placements as we tend to start after Christmas and try to do them in week long blocks.
+We have over 300 learners and less than 100 placements this year. Less last year, before there were more placement officers.
+We draw on the extensive links that the College has with hundreds of employers spearheaded by our employer engagements and work placement teams, as well as our strong links with the Council.
+We are a new course and have not established placements yet.
+This is not at all a simple question - we have very strong relationships with the cultural and creative sector through the cultural institute, strong alumni networks, and lots of investment in employability support. 
+Range of placements depending on discipline - further discussion would help with this.
+Many placements are sourced from industry working partnerships that the department has due to many staff still working within the industry and having contacts. We also work with the local authority who provided placements for our L3 Media students who looked at doing promotional videos for council leisure facilities. We struggle with music and performing arts as there is only one theatre, so we find ourselves needing to be creative, we also use the Artwalk and the Ridings for our Art student placements which has worked extremely well.
+One of the challenges is that as educational institutions, we can't approve students to miss classes and learning without reasonable notice and many placement opportunities (understandably, due to the way the industries work) are almost immediate. So essentially, issues of timing and a disconnect between the needs of employers and of University educators. In a large department, it is difficult for one colleague to respond to all employer requests and University systems are always significantly stretched in this regard. In terms of placements, we frequently find nepotism (placements going to those related to people who already work in the industry). In addition, our students are often offered placements which are well below minimum wage. For example, a student has just been offered a 6 month placement in London and they have offered £300 a month - which wouldn't even cover transport costs. Unpaid or unfairly paid placements are thus only 'available' to students who come from privileged backgrounds.
+What works well is placements that are advertised in a timely manner, and who care about developing the placees and pay them a living wage.
+They are difficult to find and to support.
+3.3	Recruitment
+It depends on how much our funding gets cut.
+We're looking at our provision as part of an institutional review but it's just not as simple as saying that we are or are not going to increase provision in certain areas. There are plans in place in Fashion. The other thing to remember is that institutions are incredibly different vis creative courses. Our pressures as a Russell Group institution are going to be very different from other parts of the sector locally. 
+T Levels and focus for Art and Media, looking more at Media and event technician roles which we currently don't do and also specialist courses in ceramics, jewellery, furniture and fashion.
+Recruitment is still high for us, but an ongoing challenge is always ensuring a good balance between critical thinking and practical experience. There is increasing desire for Digital Media programmes. 
+3.4	Expanding provision
+Creative courses are expensive but their value to society is great. We cut funding to the arts at our peril!
+T-levels aren't relevant to us - although I do generally think that it's a retrograde step in terms of admission RG institutions. We currently accept BTEC qualifications, but T-levels are less certain. Obviously, questions about funding in the current climate are live - but as yet not impacting on course development (beyond a general assessment of the 'market' for an individual subject). 
+I have worked in further education a long time and there always has been "a bums on seats" mentality. If courses are not financially viable, they won't run. Creative ways have been implemented to combat this - but this is becoming more difficult.
+Some courses such as music technology and media require heavy investment to ensure resources and valid, current and industry standard. Because recruitment in the Arts is usually lower numbers it's very difficult to justify the investment with low viability.
+Funding is crucial, not just at HE level, but also at School and HE levels, paving the way for teaching and learning. Funding cuts in these areas will continue to have a detrimental effect on the provision that we can over, on the social value of these courses, and ultimately on democracy.
+Some courses are expensive to run and funding is tight or not sustainable.
+
+
+Appendix 4: List of consultees 
+First name
+Surname
+Organisation
+Sector
+Craig
+Potterton
+Interactive Immersive Classroom
+ICT, software & computer services
+Adam
+Lockwood
+Tait/Brilliant Stages Ltd
+Production services
+Gordon
+Addison
+TechLED
+Production services
+Miles
+Marsden
+Production Park Ltd
+Production services
+Phil
+Adlam
+RockTech
+Production services
+Sophie
+MacFarlane
+Daisybeck
+Film & television
+Amanda-Jane
+Dean
+ITV in the North
+Film & television
+Ian 
+Winterbottom
+Our Agency
+Advertising & marketing
+Kath
+Shackleton
+Fettle Animation
+Film & television
+David
+Longworth
+BBC England
+Film & television
+Vic 
+Roye
+Channel 4
+Film & television
+Gill
+Galdins
+Theatre Royal, Wakefield
+Music, visual & performing arts
+Jane
+Appleyard
+Yorkshire Sculpture Park
+Museums, libraries & galleries
+Sam
+Taylor
+Yorkshire Sculpture Park
+Museums, libraries & galleries
+Marie
+Dalton
+Wakefield College
+Education
+Peter
+Goodwin
+Wakefield College
+Education
+Rachel
+Nicholson
+Backstage Academy
+Education
+
+
+
+
+
+
+
+
+
+

@@ -228,6 +228,223 @@ All residual uncertainties have been resolved through user decisions (2026-09-11
 | BID_SUPPORT_DELIVERED | 2 |
 | **Total** | **115** |
 
-## QA status: COMPLETE
+## QA status: COMPLETE (Pass 1-2)
 
 All Tier 2 QA checks pass. All residual uncertainties resolved through user decisions. AGENTS.md updated with rules to prevent recurrence in future batches.
+
+---
+
+## Pass 3: Full-Read Consistency Audit (2026-09-12)
+
+**Scope:** Complete source corpus — all G2, R2, R3, LPF, and project-specific sources read in full. Register reconciliation, evidence link gaps, source metadata, and QA re-verification.
+
+### Inventory verification
+
+All source files in `extracted_text/` verified against `02_sources.csv` register. 111 source records in register; 107 extracted text files on disk. Mapping confirmed for all canonical sources.
+
+**Problematic sources flagged:**
+
+| Source | Issue | Action |
+|--------|-------|--------|
+| SRC-G2-056 (Plymouth NMP Digital Strategy) | BINARY PDF stream; 22MB; no human-readable text | extraction_quality=BINARY; cannot be analysed |
+| SRC-G2-065 (WYCA proposal) | EMPTY file; 0 bytes | extraction_quality=EMPTY; no claims possible |
+| SRC-G2-074 (Lancaster AHRC CIC) | FILENAME/CONTENT MISMATCH; extracted text is Liverpool MusicFutures email | extraction_quality=MISMATCH; do not code under P75; validation action raised |
+
+**Supporting sources not separately extracted (25):** These are supporting documents (drafts, presentations, procurement specs, web versions, workshop notes) whose content is covered by their canonical source. Marked extraction_quality=SUPPORTING, source_review_state=NOT_ASSESSED.
+
+### Evidence link gap closure
+
+109 evidence links added (E-G2-430 to E-G2-538) connecting claims to sources that were missing from `05_evidence_links.csv`:
+
+| Project | Source | Claims linked |
+|---------|--------|---------------|
+| P46 (TVCA) | SRC-G2-036 | 23 |
+| P69 (Wakefield OY) | SRC-G2-067 | 30 |
+| P83 (BC Western Balkans) | SRC-G2-085 | 19 |
+| P57 (Rushmoor) | SRC-G2-051 | 9 |
+| P52 (Somerset) | SRC-G2-046 | 12 |
+| P62 (TRP) | SRC-G2-059 | 11 |
+| P22 (LCR Film Fund) | SRC-G2-030 (LPF-FINAL) | 5 (additional links) |
+
+All 65 projects now have at least one evidence link from claims to their canonical source.
+
+### Source register metadata update
+
+59 G2-BATCH-C source records (SRC-G2-030 through SRC-G2-088) updated with:
+- `derived_location` populated for all sources with extracted text files
+- `extraction_quality` set to COMPLETE/SUPPORTING/BINARY/EMPTY/MISMATCH as appropriate
+- `source_review_state` set to REVIEWED for complete reads; NOT_ASSESSED for supporting/problematic
+- `reviewer` = Devin; `review_date` = 2026-09-12
+- `extraction_scope` = full for complete reads
+- `extraction_warnings` populated for substantial reports and problematic sources
+
+### Validation actions added
+
+16 new validation actions (VAL-G2-025 through VAL-G2-040) covering:
+- SRC-R2-09B internal GVA inconsistency (£4.0bn vs £4.5bn)
+- SRC-G2-074 filename/content mismatch
+- SRC-G2-056 binary extraction failure
+- SRC-G2-065 empty file
+- SRC-G2-075 Lancaster Horizon bid status unknown
+- SRC-G2-077/079/080/081 work-in-progress status verification
+- SRC-G2-085 BC WB phase status confirmation
+- Numeric verification for Wakefield OY visitor spend and engagement counts
+- Somerset Cebr multiplier verification
+- Rushmoor games sector undercount verification
+- TRP interview methodology check
+
+### QA fixes applied
+
+| Fix | Count | Details |
+|-----|-------|---------|
+| DESIGN claims for NOT_AWARDED without EXPIRED | 3 | C-G2-449, C-G2-450, C-G2-451 (P07-CC): option_state PROPOSED → EXPIRED |
+| Sector baseline mislabelled as METHOD_OUTPUT | 2 | C-G2-465 (Birmingham LQ), C-G2-480 (Beauhurst company count): METHOD_OUTPUT → CONTEXT, value_basis=DESCRIPTIVE_ESTIMATE |
+
+### Updated register counts
+
+| Register | Rows (previous) | Rows (current) |
+|----------|----------------|----------------|
+| 01_projects.csv | 36 | 65 |
+| 02_sources.csv | 53 | 111 |
+| 03_methods.csv | 48 | 52 |
+| 04_claims.csv | 115 | 561 |
+| 05_evidence_links.csv | 126 | 578 |
+| 06_measurements.csv | 78 | 78 |
+| 07_validation_actions.csv | 48 | 63 |
+| 08_tenders.csv | 5 | 5 |
+| 10_review_history.csv | 232 | 256 |
+
+### Updated claim type distribution
+
+| Claim type | Count (previous) | Count (current) |
+|------------|-------------------|------------------|
+| CONTEXT | 56 | 213 |
+| DESIGN | 29 | 150 |
+| METHOD_OUTPUT | 20 | 102 |
+| EFFECT | 8 | 82 |
+| BID_SUPPORT_DELIVERED | 2 | 14 |
+| **Total** | **115** | **561** |
+
+### Updated effect family distribution
+
+| Effect family | Count |
+|---------------|-------|
+| CONTEXTUAL | 205 |
+| DIRECT | 98 |
+| OPTION | 86 |
+| KNOWLEDGE | 83 |
+| NETWORK | 43 |
+| PRODUCT | 30 |
+| NOT_APPLICABLE | 16 |
+
+### QA verification — ALL CHECKS PASS
+
+| # | Check | Result |
+|---|-------|--------|
+| 1 | Unique IDs (all registers) | PASS |
+| 2 | Foreign keys (claims→projects, sources→projects, evidence→claims/sources, measurements→claims) | PASS |
+| 3 | Empty project_id on claims | PASS |
+| 4 | OPTION claims without option_state | PASS |
+| 5 | Empty effect_family | PASS |
+| 6 | Empty fifth_sector_role | PASS |
+| 7 | DESIGN claims for unsuccessful bids without EXPIRED | PASS (fixed 3 claims) |
+| 8 | EFFECT claims without attribution_strength | PASS |
+| 9 | Claims with £ figures but empty value_basis | PASS |
+| 10 | Sector baselines mislabelled as METHOD_OUTPUT | PASS (fixed 2 claims; 1 false positive confirmed) |
+| 11 | Claims without evidence links | PASS (109 links added) |
+| 12 | Evidence→Sources FK | PASS |
+| 13 | Measurements→Claims FK | PASS |
+| 14 | Sources with empty project_id | PASS (4 tender pipeline items confirmed correct) |
+
+### Remaining open validation actions
+
+| Status | Count |
+|--------|-------|
+| RESOLVED | 15 |
+| OPEN | 48 |
+| **Total** | **63** |
+
+48 validation actions remain OPEN, requiring:
+- Iain confirmation on bid/commission statuses (Lancaster Horizon, Beatles, CELL, Southampton, WB6, BC WB phase)
+- Numeric spot-checks (Wakefield OY visitor spend, Somerset Cebr multiplier, Rushmoor games undercount)
+- Source file location (Lancaster AHRC CIC correct source, WYCA proposal original)
+- Methodology checks (TRP interview sample, Wakefield OY engagement counting)
+
+## QA status: COMPLETE (Pass 3)
+
+All Tier 2 QA checks pass after full-read reconciliation. 109 evidence links added. 59 source records updated. 16 validation actions added. 5 claim fixes applied. 3 problematic sources flagged. AGENTS.md rules remain authoritative.
+
+---
+
+# Pass 4: Index card QA + register schema repair (2026-09-12)
+
+## Five-agent review of index cards P04-P09
+
+Applied SHELDON / THAD / DEEPTHINK / BLINDSPOT / SKiN / WISHFUL to the six populated index cards.
+
+### Errors found and fixed
+
+| # | Finding | Lens | Status |
+|---|---------|------|--------|
+| 1 | P08 "77,252 total" misread — it is £77,252 GVA per capita, not workforce | DEEPTHINK | FIXED |
+| 2 | P08 circular reuse claim (listed itself as reuse example; method originated P04-GBSLEP 2017) | DEEPTHINK | FIXED |
+| 3 | P07 "five case model reused in CELL (P79)" — absent from P79 text | DEEPTHINK | FIXED (set NOT_ESTABLISHED) |
+| 4 | P06 £75.6m presented without scope qualifier — national programme total, not bid share | DEEPTHINK | FIXED |
+| 5 | P04 "50,000 workers" glossed three source figures (49,600 / 49,900 / "nearly 50,000") | DEEPTHINK | FIXED (approximately) |
+| 6 | P04 "significant innovation" presented as fact — it is BOP's self-description | DEEPTHINK | FIXED (attributed) |
+| 7 | P04 Crafts "11x" needed measure+geography clarification (Birmingham centre; LQ 6.2 GBSLEP area) | DEEPTHINK | FIXED |
+| 8 | REVIEWED status claimed without Iain consistency confirmation | THAD | RESOLVED via walkthrough |
+
+### Register schema-drift corruption found and repaired
+
+15 pilot rows (P01-P15) in 01_projects.csv had role/evidence values written under wrong columns — a legacy schema migration left [contracting_role, prime_contractor, relationship_evidence, review_status] values shifted into [relationship_evidence, review_status, codebook_version, review_batch]. Confirmed values (e.g., P08 PRIME/The Fifth Sector from VAL-R3-015) were invisible under the current header. Repaired: all 15 rows realigned; stray notes text in parent_project_id moved to notes; review_batch set R3-PILOT. Backup: 01_projects.csv.bak.
+
+74 claim fields realigned in 04_claims.csv to match confirmed contracting roles (incl. P05 SUBCONTRACTOR→BOP_ASSOCIATE, P06/P07→ADVISORY, P08→PRIME). Backup: 04_claims.csv.bak.
+
+### Walkthrough resolutions (Iain confirmations 2026-09-12)
+
+| Project | Resolution |
+|---------|-----------|
+| P04-GBSLEP | Fifth Sector co-lead with Jonathan Todd (then BOP) — "contribution unclear" resolved |
+| P05-WMCA | BOP associate arrangement — fees paid to Fifth Sector; register semantics confirmed: ALL work paid to Fifth Sector; contracting_role distinguishes lead/subcontractor/associate arrangement |
+| P06-COSTAR | Framework design (LEAD/DRIVE/ACCELERATE) confirmed as Fifth Sector contribution — innovation claim verified |
+| P07-CC | Framework design (five work packages + five-case model) confirmed |
+| P08-LIVDCI | precedent_strength STRONG / evidence_strength MEDIUM split approved |
+| P09-CDEC | Paid commission confirmed; challenges paper never finalised — deliverables were demonstrators + TDC12 presentation |
+
+### Card status
+
+P04-P09 all REVIEWED with Iain consistency confirmation recorded. P01-P03, P10 remain PROVISIONAL pending same walkthrough.
+
+### Remaining known limitations (not defects)
+
+- All A4 permission fields remain INTERNAL_ONLY/NOT_ESTABLISHED — no card may be cited in tenders until reference_status cleared (template §C.5 gate)
+- project_index.csv browse layer still not created (template §D promised)
+- source_claims cite generic C-G2-* ranges, not specific claim IDs
+- P06 Create Growth date discrepancy in source (2023-26 vs 2022-2025) preserved
+- P09 Nov 29 proposal remains unextractable (scanned PDF)
+- P36-DERBYCSR contracting_role=BIDDER is a legitimate value (not corruption)
+- contracting_role EMPTY on P37+ is honest — Phase 2 projects not yet confirmed
+
+### Method lesson added
+
+Schema-drift check is now a required QA step: before any CSV field update, verify row structure against header (field count AND positional semantics). The earlier "check headers" rule was insufficient — rows can have the right count with values in wrong columns.
+
+---
+
+# Pass 5: Index layer + permissions (2026-09-12)
+
+## project_index.csv created
+65 rows — one per register project. Card-bearing projects (P01-P10) carry REVIEWED status, precedent/evidence ratings, spillover types, contract values, headline findings. Non-card projects show NO_CARD with register identity. Closes the SKiN browse-layer gap.
+
+## Permission gate: TENDER_CITATION cleared for all 10 pilot projects
+All pilot projects approved APPROVED_NAMED for tender submissions (TENDER_ONLY — website gate remains separate). 09_publication_assets.csv populated with 10 rows including per-project permitted wording and caveats.
+
+## Material corrections from permission walkthrough
+- P06-COSTAR: bid was SHORTLISTED on submission strength; consortium lost at interview (Fifth Sector not involved). lifecycle→SHORTLISTED_NOT_AWARDED; precedent WEAK→MODERATE; card reframed as submission-stage success.
+- P07-CC: same — SIPF application shortlisted. Same corrections applied.
+- P03-MITIH: register revealed Jun 2025 report rejection for recommendations + Oct 24 reconciliation acceptance — now recorded in card lifecycle, decision-use, and caveats.
+- Distinction codified: failed-bid (no delivered work) vs rejected-recommendation (completed work, rejected element). P06/P07/P03 all delivered work with documented outcomes.
+
+## Contract values recorded
+P02 £25k; P03 £25k; P10 £10k×3 cycles (£30k total); P01+P04 NOT_DISCLOSED; others NOT_ESTABLISHED.

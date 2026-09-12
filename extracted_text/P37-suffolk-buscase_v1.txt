@@ -1,0 +1,335 @@
+Suffolk CC Renewable Energy 
+Programme Business Case	
+
+
+
+
+Version 1.0: 21 December 2021
+
+
+
+
+
+
+
+	•	Overview
+	•	Introduction
+This Programme Business Case has been prepared for Suffolk County Council by ADEPT to support officers in fulfillment of the Cabinet’s direction of 14th July 2020. Cabinet directs officers to develop detailed, costed, policies, projects and working practices for approval, which will contribute to the Council achieving the ambition of net zero emissions for its own operations by 2030
+Additionally officers have been asked to explore how best to work with partners toward the aspiration of Suffolk achieving carbon neutrality by 2030
+Section 7a of the direction specifically asks officers ‘to develop and implement an investment programme to maximise renewable energy generation on the SCC estate (and to) investigate the feasibility of supplying our own energy needs by 2030’.
+This case provides the basis for speedy and effective development towards this by officers. It uses an outline appraisal made by the South EastEnergy Hub of suitability of all public land assets across SE England for renewable projects and a range of technologies. Using this work as a foundation and with  input from Council Officers and engineers of the major utility Scottish and Southern Energy, a stakeholder in the region and potential project partner, although not the regulated network operator. With their insight this work establishes the analysis framework and requirements for subsequent development of the formal detailed, costed projects and working practices identified by Cabinet. This work will be progressed by Officers as part of the developing SCC Climate Action Plans and published in 2021. 
+	•		Programme business case development
+
+The diagram at Figure 1 shows the stages of development of the programme business case. It contains information wihch will help Suffolk CC define the scope of its programme and prioritise options for project delivery at the next stage.
+Figure 1.  Programme business case development
+
+	•	Summary
+The programme relates to development of a portfolio of renewable energy projects to support Suffolk County Council’s strategy to become carbon neutral by 2030. One or more renewable energy assets will be built on land already owned by the county council in {Location}. The overall project cost will be [£X.Xm] and will make a positive contribution of [£Y.Ym].
+The programme business case sets out the scope and scale of the strategic opportunities around renewable energy assets. In moving to the outline business case, we will also address:
+	•	Prioritised strategic outcomes and planned operational benefits (including an assessment of disbenefits; in the final business case, this will be measured against a clear counterfactual case consisting of the value of land remaining in agricultural tenancy)
+	•	Potential operating models and technical options
+	•	Partnering and contracting models
+	•	Ownership and control (RACI)
+	•	Strategic, market and political volatility (and ways to mitigate them)
+	•	Political, reputational, environmental, social, technical, legal, economic and operational risks
+	•	Technological and operational constraints
+	•	Development, implementation and operating costs
+The programme business case will help Suffolk CC to identify and procure a commercial partner to commercialise and exploit the development via one or a combination of the following:
+	•	Power Purchase Agreement (PPA), whether to a direct off taker, sleeved supply or wholesale agreement
+	•	EV
+	•	Battery storage
+The plans outlined here are ready for rapid realisation to ensure commencement of delivery during 2021.
+This is based on the principle of value exchange (ie, realised value of land owned by the council) as a means to secure short-term revenue for Suffolk CC. 
+By implementing these plans we will reduce barriers to rapid decarbonisation and stimulate commercial investment in a way that encourages innovation.
+	•	Strategic case
+	•	The case for change
+	•	Strategic context and alignment with SCC priorities
+On 21 March 2019 Suffolk County Council (SCC) voted to declare a climate emergency. SCC also set up a Policy Development Panel (“PDP”) to investigate how to cut carbon and harmful emissions on a ‘spend and save’ basis. SCC’s stated intention is to become carbon neutral across all buildings, schools and services by 2030.
+SCC also confirmed its willingness to work with partners across the county and region, including the Local Enterprise Partnership,other public sector leaders and central government, in support of its 25-year Environment Plan, noting the commitment to increase the powers and resources available to local authorities to help to achieve the 2030 target.
+In May 2020, SCC published a technical report commissioned from Ricardo Energy and Environment considering how Suffolk could achieve carbon neutrality by 2030 and the possible policy options and actions to deliver this.
+In July 2020, the PDP presented its findings to Cabinet including recommendations that  SCC should use its  farm estate  to develop and implement an investment programme to maximise renewable energy generation, and investigate the feasibility of supplying its  own energy needs by 2030.
+Since then, with the help of the Greater South East Energy Hub, SCC has undertaken a systematic review of its agricultural holdings and analysed the potential for the reuse of its land for renewable energy generation from solar PV, wind or biomass. One of the critical success factors was to find opportunities for commercialisation and income generation through the development of renewables.
+Suffolk is largely rural. Businesses identify that there are areas where further development and growth locations are significantly constrained due to lack of electricity capacity. The expected shift towards electric vehicles (EVs) will add further pressure to the network. There are also opportunities for improvement; for example existing schemes to bring renewables onshore at Bustall (East Anglia ONE) and Sizewell (Greater Gabbard and Galloper Wind Farm). The county benefits from higher than average hours of sunlight (for the UK) and therefore PV is set to be a growing, and critical, element in meeting decarbonisation targets.
+Suffolk CC has identified a budget of [£15-20m] for renewables and decarbonisation. Any  investment in renewables will need to be met out of borrowing and repaid from revenues. 
+
+	•	Alignment with local strategies
+This approach aligns closely with local strategies, including:
+	•	SCC Framework for Inclusive Growth AND Business Plan 2020/21;
+	•	‘Clean Growth Region’ - the Norfolk and Suffolk LEP Economic Plan;
+	•	Lower tier Council Economic Development Plans
+
+This proposed programme also responds to the current development of the Suffolk Climate Emergency Plan actions identified during workshops held in November and December 2020 which defines the following actions for the power sector:
+
+
+
+Work on the Suffolk Climate Emergency Plan continues and will be made available for partner review and agreement in early 2021. This programme case will be developed further in alignment with this plan.
+
+	•		Fit with National Policy
+
+Under the 2008 Climate Change Act, the UK Government set a target of cutting greenhouse gas emissions (GHG) in 2050 by 80% compared to 1990 levels. In 2018, the Government asked the Committee on Climate Change (CCC) to advise on a new target that would limit global warming to 1.5° C. The Committee on Climate Change came back with a bold proposition, and in June 2019, Parliament passed legislation requiring the government to reduce the UK’s net emissions of greenhouse gases by 100% relative to 1990 levels by 2050 (“Net Zero”).
+
+Net Zero can be achieved by reducing existing emissions and removing greenhouse gases, particularly among economic activities that produce most GHG. Energy supply accounts for 26% of UK GHG. The other main sectors include transportation (34% of emissions) and commercial use of electricity by businesses and residential (19% and 18% of emissions respectively).
+The UK’s Clean Growth Strategy sets out government policies and proposals for decarbonising the UK economy including delivering clean, smart, affordable and flexible energy. The Strategy also states that achieving clean growth while ensuring an affordable energy supply for businesses and consumers is at the heart of the UK’s Industrial Strategy.  Low-carbon forms of energy in the UK include nuclear power, renewable electricity (hydro, wind, solar, biomass and biogas), and renewable heat (biomass, biogas and heat pumps).
+In November 2020 National policy was updated to provide direction to the detailed delivery of Net Zero. The UK ‘10 Point Plan for a Green Industrial Revolution’  outlined  how public investment would lever further private investment in Zero Carbon technologies, transformational transport and building initiatives set within an innovative financing system. The Energy White Paper 2020 followed in December. This identifies how the 10 Point Plan will be achieved and establishes a strategy for the wider energy system that: 
+
+	•	transforms the production, distribution and consumption of energy,  in ways that
+	•	support a green recovery in new industries geared for innovative markets, and ensures
+	•	a fair deal for consumers, balancing costs of energy system investment against end-user bill impacts.
+
+At a strategic scale Suffolk will benefit from the UK policy priorities through offshore wind and a likely further development of Sizewell Nuclear that  is set to deliver jobs, apprenticeships and significant local economic growth to the area.  The decarbonisation of maritime energy identified in the White paper also has potential implications for Suffolk and the wider Eastern region, both at the ports of Felixstowe and in Lowestoft as well as the smaller harbours supporting the offshore wind farms.  SCC and East Suffolk District Council already support this growth through the Orbis and PowerPark developments. 
+At a more granular level there is significant work to be done to ensure that the projected 2050 requirement for a ‘four-fold’ increase in low-carbon electricity generation is achieved across the UK through creation of comprehensive and resilient distribution networks.  Further, the policy emphasises the need to ensure that this transformation is fair and consumer focused.  
+Specific examples of requirements in Suffolk include delivery of charging facilities for electric vehicles along the trunk road system and more locally as well as supporting the policy ambition of expansion of electric fleets for transport and logistics.  
+The operation of an expanded  clean and green energy system, built upon distributed networks, will require a significant increase in generation and storage capacity distributed locally across the UK. 
+Pre-existing work, such as the two Solar Farms operated by West Sussex District Council and the involvement by them and Suffolk County Council in battery storage projects,  points to how public bodies with land assets can deliver against the principles of UK policy. Projects such as these may enhance council revenue streams from land assets, support clean and resilient energy provision locally and lever additional private investment.
+
+
+
+	•	Fit with Future Energy Scenarios 2020
+Every year, the National Grid Electricity System Operator produces a set of future energy scenarios (FES) which cover possible electricity generation by source to 2050. FES 2020 envisages significant growth in electricity use as the UK transitions to Net Zero: 
+	•	Strong policy support for continued growth of wind and solar drives decarbonisation and sees increases in our projections for the growth of renewable generation.
+	•	Solar capacity projections in the FES have increased significantly supported by growth in flexible electricity demand for hydrogen production
+	•	The more established technologies of solar and wind dominate compared to smaller contributions from other technologies such as wave, tidal and hydro generation
+A key aspect of the FES relevant to this Business Case is the increasing decentralisation of electricity production. All scenarios show higher levels of decarbonisation and decentralisation compared with today. By 2050 up to 42% of generation capacity could be decentralised, meaning it is connected to the distribution networks. 
+By 2050, the level of decentralisation in all scenarios suggests the role of the transmission system may often be to transport electricity from one distribution network to another, rather than delivering from transmission connected generation to distribution networks.
+This makes the role of local generation at scale strategically important and emphasises that the rationale for this project is also strongly aligned with FES 2020 objectives.
+	•			SCC programme of projects in renewable energy
+
+	•		Programme ObjectivesProject objectives:
+Revenue generation for the Council
+Carbon savings
+Improved network resilience
+To establish a model for future projects
+SCC’s main objective is to fulfill the mandate of Cabinet as recommended by the Climate Emergency PDP and identify a set of initial projects which, taken together, will:
+	•	Demonstrate potential net positive commercial return from land value exchange in the short term 
+	•	Contribute to SCC’s targets to achieve carbon neutrality in all of its activities by 2030
+	•	Contribute to the immediate delivery of Suffolk’s Climate Action Plan exploring through profitable delivery how the SCC can establish leadership through further regional partnership with the private sector at scale
+	•	Explore how a wider approach across the county can be scaled up to accelerate the transition to becoming a Net Zero economy by 2050
+
+This report therefore addresses the options available to SCC in developing a programme of renewable energy projects focused on understanding how value exchange of land and other assets can meet both commercial and environmental targets:
+	•	A business case for a solar farm on agricultural holdings solely owned by SCC
+	•	A business case for an Electric Vehicle charging hub on land owned by SCC
+	•	An outline of future service opportunities to support the development of the distributed electricity network including a battery storage facility on land owned by SCC
+	•	The opportunity to explore different models of operation and ownership
+	•	Capacity for the development of new skills, jobs and technologies for the renewable energy sector
+
+	•	Strategic Rationale
+The strategic rationale for the proposed programme flows from actions and plans defined in response to SCCs declaration of a Climate Emergency and its own strategy as described in Section 2.2.1.  This programme seeks to target opportunities for understanding how SCC (and by extension other local authorities) can  include value exchange of land and property assets in support of UK Distributed Energy policy in the long term while simultaneously delivering net positive financial returns to the local authority in the short to medium term.
+Clearly, achieving this rational is likely to lead to a very targeted portfolio of projects effectively setting narrow selection criteria to filter a long list of project options:
+	•	A focus on technologies that can be rapidly deployed and easily removed and/or transferred to another location
+	•	Sites that are close the the electricity network (possibly non-High Voltage) to limit network connection costs
+	•	Retention of land ownership to enable future flexibility in land use (for example use of a site for 15 years or so prior to releasing it for residential development)
+	•	Opportunities that help to  develop local strengths in energy and environmental tech, stimulating growth  in key sectors already prioritised by Suffolk. 
+The rationale is based on a pragmatic principle: the public sector can meet its own needs in a way that helps achieve wider objectives for the economy and society. We also consider that this programme approach can offer several areas of learning for other local authorities, the Department for Business, Energy & Industrial Strategy (BEIS), Department for Food, Rural and Agricultural Affairs (DEFRA) and other organisations undertaking large-scale renewable energy projects. 
+
+	•	SCC’s needs as a user - current and future
+At this stage SCC does not wish to develop energy services as a commercial offering for tenants, local businesses and residents. Its indicated direction however is toward ensuring  its  energy consumption shifts to 100% renewable by 2030 in line with the Suffolk Climate Crisis pledge. 
+
+Equally, SCC will significantly benefit  through improved control  of its  exposure to variable costs of future energy supply  for lighting, heat and transport.  This is especially true in the case of fleet management and buildings in working towards Net Zero operations by 2030.
+
+The illustrative 2050 production by type set out in the 2020 UK Energy White paper indicates an increased share of Hydrogen and Carbon Capture and Storage for which market prices are unknown. It may be the case that in the medium and long-term these and other forms of energy generation are both green and cheaper than current technologies. SCC therefore wishes to retain flexibility in its choices of source wherever feasible.
+
+	•	Improvements to SCC services
+As well as reducing the energy component of cost of provision of SCC services leading to improved efficiency the support for establishment of a clean and resilient distributed energy network supports the council’s delivery of economic development services by increasing the confidence with which local SMEs can operate, especially in rural areas. Equally the rapid expansion of Electric Vehicle charging hubs along the trunk network  may require consideration of the feasibility of supporting additional provision of EV charging services for its own fleet of vehicles.
+
+	•	Programme development toolkit
+With the sites, potential technologies and possible commercial arrangements broadly explored through this work  the information needed and dependencies for the next stage of case development by SCC officers are definable under two headings : 
+
+1) Market Information-  
+
+	•	Agricultural land values and projected trends for counterfactual case analysis.
+
+	•	An audit of larger regional business appetite for off-take of power from SCC sites  developed understanding  building on interest uncovered by the SCC Climate Emergency plan engagement.
+
+	•	Market insight of a wider set of potential Energy partners including UK Power Networks the DNO.
+
+	2) Financial Information
+
+	•	An approved SCC  guide to the scale of any ‘spend to save’ Value Exchange portfolio.
+
+	•	Details of how these projects fit within the wider scope of the authority’s statutory Capital Strategy and related property portfolio arrangements.
+
+	•	Details of any Central Government funding arrangements for local authority roll out of EV charging. 
+
+
+
+	•	 Economic Case
+The Economic Case focuses on options appraisal to ensure that the investment (in this case, in renewable energy infrastructure) maximises public value to society. It considers alternatives to the proposed investment, and compares them to demonstrate that the preferred option offers the best combination of available resources (inputs or ‘components’), products (outputs) and related activities (outcomes and impacts).
+The focus on public value differentiates the Economic Case from the Financial Case, which considers the direct benefits and returns for the public sector on the financial investment.
+Reuse also results in secondary benefits for the public sector resulting from economic growth (eg, efficiency gains, tax take), and multiplier effects that accelerate economic growth (eg, economic clustering).
+
+	•	Scoping the options
+Initial long list of potential projects
+SCC commissioned the Greater South East Energy Hub (“GSEEH”) to produce a systematic inventory of SCC owned land, ranking criteria, project categories and analysis to produce a long list of options for further evaluation. 
+The inventory comprises 58 sites with a total land area of over 5,200 Hectares. Each site was assessed for its suitability for both Local Authority and Communities as developers for solar and wind generation. The inventory also included an assessment of the  biomass potential of Local Authority owned land. 
+Ranking criteria
+Working with SCC, GSEEH defined a set of ranking criteria and scored each of the 58 potential sites using a two stage assessment process to: 
+	•	Discount any sites which are unlikely to be permitted due to land-based designation or other significant constraint (e.g. for wind generation its proximity to settlements)
+	•	Rank according to criteria agreed with SCC to produce a filtered list of sites for further evaluation
+The ranking criteria were based on an assessment of:
+	•	Site topography (for example slope and aspect)
+	•	Proximity to nearest “receptors “. The most susceptible receptors (ie those most likely to be affected by a development)  are residents, communities, people engaged in outdoor recreation where the landscape is part of the experience, visitors to landscape whose interest is focussed on natural and built heritage assets and users of scenic routes. Sites ranked poorly, for example, if they were within 1 km of sensitive properties or communities.
+	•	Agricultural land classification 
+	•	Potential ‘Private Wire Offtaker’ (ie, a large nearby company or organisation that has the potential to become a customer directly connected to the site and able to use a substantial proportion of the energy produced). Sites ranked highly  if they had a potential offtaker on or adjacent to the site; poorly if a potential offtaker was more than 1km from the site boundary
+	•	Proximity and status of the power network. Sites ranked poorly if more than 3km from a point of connection to the 33kV network or the capacity of the network to accept power generated from the site might be limited (known as “curtailment”)
+	•	Statutory and local designations (for example sites are ruled out if located in a National Park or they contain a Site of Special Scientific Interest, Priority Species or a Scheduled Ancient Monument
+	•	Public access – footpaths, open access 
+	•	Water resources and flood risk 
+	•	Accessibility for asset construction/maintenance
+	•	Significant infrastructure, shading and other obvious constraints. 
+Planning constraints
+It is worth noting that there are a number of general planning constraints which  limit project selection; particularly wind energy projects:
+	•	The National Planning Policy Framework places constraints on the development of new wind energy developments. New developments will only be considered acceptable if they are in an area defined as suitable in the development plan and, following consultation, it can be demonstrated that the planning impacts identified by the affected local community have been fully addressed and the proposal has their backing
+	•	Projects in the range 1.5 - 2.5 MWe with less than 130m blade height have requirements in addition to standard planning applications. These projects require detailed Landscape and Visual and Impact Assessment (LVIA) and a comprehensive Cultural Heritage assessment along with Phase 1 ecology and multiple bat and bird surveys.
+	•	Projects of over 50MWe generating capacity are not determined by the local planning authority; they need to be submitted to the Infrastructure Planning Commissions and obtain development consent from the Secretary of State.
+There are also constraints affecting the use of agricultural land for Solar Farm Development based on its classification where it is highly unlikely that applications would be permitted for Solar Farms on the best agricultural land (grades 1 or 2).
+The ranking process and consideration of the constraints produced a set of sites for further assessment and evaluation.
+Further evaluation of potential projects
+A joint team from SCC, Proving Services, SSE and CBN considered the most highly ranked project opportunities in a series of workshops. A structured process was used to assess each of the sites and potential projects were taken forward for further analysis as described in the Commercial Case.
+
+	•	Cost Benefit Appraisal
+
+At this stage of the development of the programme for the use of SCC’s agricultural portfolio for renewable energy, a full Cost Benefit Analysis is not yet deliverable. However, this section sets out the required elements of the appraisal that will be required as the Five Case model is further developed.
+
+The programme’s Economic Case will be established on the balance of the costs and benefits to UK society as a whole, and in the broadest of terms, incorporating social welfare and environmental impacts as well as monetary factors. When fully developed in the Full Business Case it provides a Net Present Social Value (NPSV) estimate for the project. In distinction from the Financial case its scope is broader and includes estimated social welfare and environmental costs; opportunity costs in the form of estimated benefits foregone / counterfactual cost in not pursuing the project.
+
+Within the 5 Case model the NPSV assessment for UK society as a whole is appraised under a combination of two categories:
+
+	•	The Public Sector, combining : Direct Costs and Benefits (falling to the originating organisation) and Indirect Costs and Benefits ( aggregated across the wider public sector)
+	•	The further, indirect costs and benefits accumulating to wider society
+
+Under the terms  of the Cabinet mandate, the Indirect Benefits (Clean Energy, jobs etc),  are perhaps as equally significant as the Direct Benefits, albeit the latter are more easily understood in terms of the marginal financial return to SCC from differing uses of the land portfolio. 
+
+3.2.1	Value Exchange
+It is within this context that the use of a Value Exchange approach is appropriate in establishing the outline programme case for temporary use of SCC agricultural land in Renewable Energy Projects. This involves exchanging the projected revenue value of the land under existing operations for the length  of a project for a higher return provided by a private partner through an alternate use of the land. In the case of temporary structure renewable energy projects the analysis compares whether estimated project returns are greater than the counterfactual returns from continued agricultural letting of that land. The Direct cost benefit analysis of the Value Exchange project is therefore entirely determined by the contractual arrangements entered into by SCC. This provides a robust foundation for project appraisal in the knowledge that the exchanged asset ( the land parcel), will return to SCC in the same condition at the end of the project term.
+
+Further, net direct benefits  are feasible for SCC through the renewable energy projects where these supply power to the council for its own use at lesser cost and/or with greater control of price variation than existing open-market contracting. And clearly there are options around potential Indirect benefits for the wider public sector and business where these considerations are integrated with projects such as the One Public Estate.
+
+Local authorities’ borrowing and investment activities take place within the prudential framework supported by statutory CIPFA guidance and overseen  by the Ministry of Housing, Communities and Local Government. The framework includes all forms of ‘credit arrangement’ that incur long-term liabilities to achieve the same effects as borrowing.
+
+CIPFA note that management and investment of commercial property assets ( including land) by an authority is far more likely to meet the needs of the Prudential Framework where its main purpose is directly to deliver service benefits or promote wellbeing sufficient to justify the financial risks involved. This requires any decision upon projects to be established in alignment with the authority’s Capital Strategy at the same time establishing the wider service and well-being benefits of the proposal whilst understanding related dis-benefits.
+			
+	•	Public sector benefit
+The anticipated direct benefits to SCC of renewable energy related land asset value exchange lie in two main groups:
+	•	Additional income over agricultural - these are largely predictable and form part of the Financial Case
+	•	Carbon savings and efficiencies through the use of renewable energy sources
+
+	•	Wider economic benefit
+Infrastructure projects deliver wider economic benefits:
+	•	Project investment: The major investment cost is associated with the purchase of PV panels and associated equipment, although investment is also required for civil, electrical and grid connection works. Additional investment will be required regarding project management, financing, insurance and other project costs
+	•	Construction Employment: expressed as a combination of Direct jobs (i.e., site-related) and Indirect jobs in the local and wider economies (i.e., jobs that are generated by the employment multiplier as funds circulate around the economy between various industry sectors). employment multiplier as funds circulate around the economy between various industry sectors)
+	•	Operational Employment: Operational-related employment is for the lifetime of the programme (i.e., at least 25 years); therefore, while job creation is relatively small, it represents new long-term employment opportunities at local and regional level.
+	•	Risk Assessment
+[To follow options appraisal: risks relating to customers, delivery partners and the market as a result of this project being implemented. outline mitigating actions and associated costs]
+
+	•	Commercial Case
+The commercial case focuses on the attractiveness of the development (and any procurement) to the ‘supply side’. Is there a willing provider, and can they also benefit from the potential deal within the business case? Does the project present a risk of excess State aid, and what measures can be taken to mitigate that risk?
+
+Each of these is detailed within the commercialisation model.
+	•	Commercialisation model
+In this section, we provide an analysis of the potential commercial models that can be applied by SCC to the projects identified in the options analysis. It should be noted that we provide initial models based on real project examples though the exact locations are not provided at this stage.
+
+	•	Solar Farm on SCC land
+There are 3 commercial models to consider:
+	•	Building a solar farm close to a potential major customer who agrees a long term contract (a Power Purchase Agreement or “PPA”) for the use of all (or a substantial part of) the electricity generated. This is known as a ‘direct off taker’
+	•	The provision of the electricity generated by SCC for its own use or to a customer who is remote from the solar farm and agrees to a PPA for a long term supply. This is known as a “Sleeved” PPA. In this case, a licensed supplier will charge a fee to the offtaker for acting in its capacity as intermediary, but the sale and purchase of the power is still between the generator and the offtaker
+	•	Supply of electricity to the grid;  sometimes called ‘Wholesale’ provision through a PPA between the generator and a licenced supplier
+
+It should be noted that these commercial models are often ‘blended’ in operation; for example if a direct offtaker is unable to use all the power generated then it could be provided to a licensed supplier (called ‘grid spill’). The use of these commercial model categories enables us to model an upper bound (direct offtaker) and a lower bound (Wholesale provision) for the analysis.
+
+In the following table, we show one of the potential project options for illustrative purposes to enable us to model a real case.
+
+
+
+“Suffolk Solar Farm” - example
+
+	•	Total site size over 50 Hectare
+	•	Nearby major offtaker (<3 km away)
+	•	Estimated demand from offtaker 5MW which would require the use of only 9 Hectare
+	•	The areas shaded blue show the land in SCC’s holding that is Agricultural Grade 3 or 4 and therefore potentially available as a solar farm
+
+	
+
+
+
+Cash Flow model and returns analysis for and illustrative solar farm project
+
+
+
+
+
+	•	State aid
+The State aid position varies depending on which option is chosen and will be developed by SCC’s own legal team and/or advisors once the preferred option is selected. 
+
+	•	Procurement strategy
+SCC is likely to procure, through open tender,  a supplier to carry out design and construction. Project management will also be included in the above elements.
+
+
+
+	•		Financial case
+	•	Funding
+In preparation of the Outline Business Case, the following will be required:
+	•	Capital and Revenue Model
+	•	Cost-benefit model  for the investment by SCC in renewable energy projects. The model will compare savings and income benefits with investment and operational costs  over the project lifetime, using a discount rate of 3.5% to estimate the net present value
+	•	Potential savings to SCC 
+	•	Income: the income that SCC will receive from any development
+	•	Investment: the total investment made, including any central government grant and contribution from SCC and partners
+	•	Costs: the costs in maintaining the  infrastructure
+	•	Depreciation: the costs of elements of the infrastructure that will require replacement
+	•	Net benefit: the benefits less the costs
+
+Assumptions and notes
+	•	The net present values are calculated assuming a discount rate of 3.5%
+	•	The investment is the total investment by SCC and its partners, made at the start of the project
+	•	Asset remaining is the (net present value of the) initial investment less an accrual for asset replacement (depreciation) over the period. This assumes that PV infrastructure may need to be replaced in 25 years
+	•	Net investment cost is thus the (net present value of the) difference between the investment at the start of the period and the asset remaining at the end
+	•	Savings is the (net present value of the) cost of providing the equivalent generating capacity to the target sites by alternative (counterfactual) means
+	•	Income is the (net present value of the) anticipated income from the cooperative. This is explored further below
+	•	Costs is the (net present value of the) operational cost to SCC. This is explored further below.
+	•	Surplus less investment cost is an indicator of the net financial benefit of the investment to CC and its partners
+	•	IRR, the internal rate of return on surplus less investment cost, is an alternative indicator of the net benefit
+
+
+	•		Management case
+	•	Overview
+
+The purpose of the management dimension of the business case is to demonstrate that robust
+arrangements are in place for the delivery, monitoring and evaluation of the scheme, including
+feedback into the organisation’s strategic planning cycle.
+
+The Management Case forms part of the Outline Business Case. At the point at which SCC identifies its preferred option, the challenges will be:
+	•	To manage the risks in the design, build, funding and operational phases of the scheme and put in place contingency plans
+	•	To deal with inevitable business and service change in a controlled environment, and
+	•	To ensure that objectives are met, anticipated outcomes delivered and benefits evaluated.
+
+	•	Governance
+
+Proposed governance arrangements will depend on the option(s) which SCC chooses to pursue. They will be set out in the Outline Business Case and detailed in the Full Business Case.
+
+	•	Project plan
+Once the preferred option or options are identified, SCC will need to ensure that its preferred project delivery partner  (whether in the capacity of tenant, JV partner or supplier, depending on decisions taken about risk and governance) can progress through procurement.
+
+Stages of the project plan are likely to include:
+
+	•	Preparation
+	•	Dialogue and due diligence
+	•	Final decision on locations
+	•	Procurement
+	•	Physical construction
+	•	Design, deployment and maintenance of transmission connections
+	•	Other design and build (eg, EV charging points/plaza)
+	•	Legal
+	•	Contract
+	•	Wayleaves and easements
+	•	Design
+	•	Physical construction
+	•	Design, deployment and maintenance of transmission connections
+	•	Other design and build (eg, EV charging points/plaza)
+	•	Build
+	•	Physical construction
+	•	Design, deployment and maintenance of transmission connections
+	•	Other design and build (eg, EV charging points/plaza)
+	•	Operation (options relate to preferred operating model, eg.)
+	•	PPA contract
+	•	Maintenance
+	•	Share of revenues
+

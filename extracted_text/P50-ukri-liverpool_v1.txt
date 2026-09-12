@@ -1,0 +1,77 @@
+Liverpool City Region Creative & Digital Industries briefing
+The Depot, Liverpool Innovation Park, 13 December 2021
+
+In attendance:
+Andrew Chitty, UKRI
+Graham Hitchen, UKRI
+Rosalind Stockhill, FACT
+Liam Kelly, Make CIC
+Clemens Wangerin, vTime
+Peter Woodbridge, Draw & Code
+Madeline Heneghan, Writing On The Wall
+Richard Koeck, CAVA at University of Liverpool
+Kevin Bell, Liverpool Film Office
+Iain Bennett, The Fifth Sector Ltd
+
+Apologies:
+Phil Charnock, Draw & Code
+Liam Naughton, Kazimier
+Craig Pennington, Future Yard
+Cathy Skelly, Liverpool City Council
+Jen Fenner, Defproc
+Nicola Triscott, FACT
+
+Although a small group, it contained representatives from the local authority, the city region Innovation board, universities, VC-backed digital creative firms, Arts Council NPOs and social enterprise.
+Discussion can be summarised in a SWOT:
+Table 1 SWOT analysis of creative & digital sectors in Liverpool City Region
+Strengths
+Weaknesses
+Culture (big and small ‘c’) – recognised as an important driver of civic and commercial investment (particularly in the city)
+Identity – strong sense of local identity, often linked by culture
+Creativity – legacy of distinctive creativity in music, games, film, television
+Storytelling - strengths in storytelling across music, media, publishing, spoken word
+Film – Liverpool now second most filmed city in UK outside London, as a result of sustained investment promotion and financial support for indigenous and inbound productions (esp. high end TV and features), which is now returning 6 x public investment
+Social enterprise – has proved a successful, scalable and transferable model for creative and tech sectors
+
+Formal innovation ecosystem – disjointed and focused on other sectors (advanced manufacturing, chemicals) 
+Lack of patient money and smart capital in local economy – not enough founders have exited and reinvested, corporate sector smaller than other core cities (in part due to proximity to Manchester and ‘180 degree’ nature of Liverpool’s economy with resulting smaller commercial hinterland)
+Competition between institutions – main universities unable to collaborate on Creative Cluster bid, at least one too many mayors
+Lack of major institutions with significant market reach – with exception of Sony (which is pretty insular), little presence of global brands
+Opportunities
+Threats
+Understand how the scalability of collaborative models successfully deployed in social enterprise can start to populate a pre-start pipeline
+Develop complementary strategy to Manchester (and seek to take advantage of more developed investor ecosystem there) rather than looking to compete
+Highlight where start-ups and scale-ups are part of larger global supply chains, delivering both content and tech innovation (eg, significant portion of AoTF development budgets subcontracted to Liverpool XR companies)
+Big student population, cheap accommodation, lower cost of living / wages than core cities such as Mcr, Bristol, Edinburgh could be more effectively marketed as an attractive start-up and FDI proposition for creative and tech scale-ups
+Continuing to take a ‘top down’ approach, working through institutions with limited financial scope or human capacity (City Council) or little or no ‘institutional memory’ of successful investment in digital & creative (LEP, CA, universities)
+Continuing to expect Liverpool to perform in same way or replicate strengths of Manchester 
+Extremely deep cuts to public sector budgets (esp. City Council) threaten vibrancy and viability of cultural sector which has been such an important source of talent and audiences for creative sector as a whole
+
+Conclusion
+Models of growth based on single companies will continue to demonstrate poorer returns in Liverpool than in other markets for structural reasons. However, understanding opportunities to stimulate ‘horizontal’ growth of a creative and commercial ecosystem through developing successful models of collaborative innovation drawing up precedent from social enterprise is likely to stimulate more start-up activity and promote resilience and sustainability of the sector.
+Commercial context
+Analysis of Beauhurst data on 68 on 99 active ‘tracked’ companies drawn from SIC Sections J (Information & communication) and R (arts, entertainment & recreation) emphasises both structural weaknesses and sector strengths.
+Structural weaknesses
+Of the 68 companies, 
+Fewer than 20% (13) had received a large innovation grant
+Only 4 are 20% scale ups
+Only 2 are university spinouts
+
+Figure 1  Beauhurst 'tracked' companies - reasons for tracking (n = 68)
+
+Source: The Fifth Sector analysis of Beauhurst data, 30 March 2022
+
+Sector strengths
+Analysis of the same group of companies by sector focus highlights strengths in:
+Games (15 of 68 companies)
+Advertising, marketing and design (15)
+Film, TV and media (9)
+
+
+Figure 2  Treemap showing sector split of 'tracked' companies (n = 68)
+
+
+Source: The Fifth Sector analysis of Beauhurst data, 30 March 2022
+
+Iain Bennett, The Fifth Sector
+30 March 2022

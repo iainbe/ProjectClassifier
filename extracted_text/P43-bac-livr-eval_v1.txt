@@ -1,0 +1,188 @@
+BAC + LIVR - Evaluation 
+The project
+Arts Council England (ACE) has funded a project between LIVR and Battersea Arts Centre (BAC) to select five artists to each create a piece of new work using LIVR Player.
+The work was to have been curated by BAC and presented as part of its Spring/ Summer 2021 season. However, disputes between BAC and LIVR resulted in the BAC instructing LIVR to shut down production with only three of the five pieces having been filmed. At time of writing (August 2021) one piece of work has been through post-production. 
+This means that the nature and purpose of the evaluation differs from that originally intended. The original aim of the evaluation was to determine whether the artists selected had been able to establish new routes to monetisation of their original IP through commercial exploitation of a 360° extended reality (XR) video of their original work, in which they would retain copyright. Instead, the evaluation becomes more an examination of why the project failed, what lessons can be learned and what steps might be taken in future to mitigate the risks involved in experiments with new technologies and novel business models for their exploitation.
+This has meant that it has not been possible to carry out some of the original elements of the evaluation:
+Aims of the evaluation
+The evaluation aimed to capture a logic model for the programme as a whole and for each individual piece of work. The logic model was to have set out of inputs, activities, outputs, outcomes and impacts for each piece of work and for the programme as a whole. The final evaluation was to have centred upon an economic impact assessment that looked to establish value added for each artist, for the parties to the production and to Arts Council England, and sustainability and replicability of the model.
+Logic model and economic impact evaluation
+With no outputs to review, and no opportunity for the artists to have promoted their work, it is not possible to carry out the intended economic impact evaluation to establish value added, sustainability and replicability of the model.
+Theory of Change
+The original ‘case for change’ for the project was that ownership of the intellectual property rights (IP) in the new work would remain with the artists, who would also determine the digital content and monetisation strategy for their own piece. As none of the finished work has yet been released, it is not possible to complete this.
+Process evaluation
+Pre-application
+LIVR (https://livr.co.uk) had successfully developed a model for presenting 360° XR videos of live performances. Leo Kellgren-Parker of LIVR had expressed to ACE an interest in testing its platform with NPOs; following a conversation with Tarek Iskander at BAC, ACE made an initial introduction.
+Application process
+BAC/LIVR worked with an independent producer (Jazlyn Pinckney) to submit a National Lottery Project Grant (NLPG) that was initially rejected due to weaknesses in Quality and Public Engagement in August 2020. The project was subsequently funded in November 2020 following a resubmitted and strengthened application.
+Funding of £75,000 was awarded to cover five productions.
+Selection process
+BAC put out a call for projects which attracted over 100 expressions of interest. 
+BAC, Jazlyn Pinckney and Leo Kellgren-Parker were involved in reducing that to an initial shortlist of 12 proposals. Shortlisted applicants were invited to an initial “informal conversation” on Zoom to discuss their application and were then asked to create an in-depth proposal. The call specified that they would, “be offered 1.5 hours of time with either a BAC Producer or Jazlyn Pinckney and a member of the LIVR team to work up their idea.” Following submission of the in-depth proposal, shortlisted artists were then invited to interview with the selection panel.
+Production
+Production timetable was:
+w/c 29th March – N2P, Helen
+w/c 5th April – RashDash, Look At Me Don’t Look At Me
+w/c 12th April – Poltergeist Theatre, Lights over Tesco Car Park – The Abductions 
+w/c 26th April – Chisato Minamimura, Scored in Silence 
+w/c 5th May – Live to Tell: (A Proposal For) The Madonna Jukebox Musical Madonna
+The five selected productions varied widely in scale and duration, from 5 to 40 minutes and casts between one (Chisato) and six (N2P) people.
+Termination of agreement
+On 5 May, I was advised in an email from Lucy Monkman that,
+“Various challenges arose during the process and BAC has taken the decision to suspend the project for the time being, effective immediately.”
+At this point, three of the projects (N2P, RashDash and Poltergeist) have completed content capture, and Chisato Minamimura had worked for three days. Live to Tell had not commenced production.
+A further email from Lucy Monkman, dated 9 June, updated me on the status of the project as follows:
+The edit of the three pieces of work which were either about to go into or were in the process of postproduction will be completed by LIVR. These artists will receive the asset and still have access to the LIVR player, as well as a 360 asset they can use outside of the LIVR ecosystem. These artists are N2P, RashDash and Poltergeist.
+There will be very little leeway as part of the edit process between the artists and LIVR. They will finalise stitching and work through any technical needs and then will deliver the final work.
+This work won’t be part of the Wild Times season but Tarek is keen to keep the conversation with the artists going about how this work and their practice could be platformed through BAC at another point. 
+We have offered Chisato an additional 2 days in BAC to work with LIVR to finish the process – we are yet to hear whether this will be possible for her. 
+For Brian Mullin – Live to Tell – as we postponed the project before they were due to film with LIVR, we were able to support them on working with an alternative filming team. They are in the edit process for their work at the moment.
+
+Findings
+Scope and focus of the project
+The initial call-out for submissions included the promise of:
+Working with the LIVR team to understand the full possibilities of the technology.
+This will include full digital production facilities and post-production effects.
+Learning about the post production process and how it can be used. Up to 5 days additional time can be spent in the edit with the LIVR team (optional, at the artists’ discretion)
+Learning about digital monetization and marketing approaches.
+However, delivery of this element seems not to have been clearly defined between LIVR and BAC.  In particular, the option for artists to be engaged in post-production was specifically denied by LIVR in practice. 
+LIVR’s view, expressed in correspondence with Tarek Islander and David Jones at BAC following the suspension of production, was that, 
+“Somewhere along the line, the core aims seem to have shifted to giving artists unlimited content capture time.”
+The call specified that submissions should be, 
+“Work that has either had significant R&D time and/or work that is ready to be presented but has not extensively toured.”
+This corresponds with LIVR’s assertions that its role was primarily in providing technical resource in recording, ingesting and carrying out post-production – not acting as a ‘creative producer’ to assist artists in experimentation with the form. However, interviews with some of the artists suggested that not all of the productions conformed to this brief. One artist talked about bringing together casts and production for the first time, and the pressure of having only three and a half weeks to cast and rehearse between selection and the start of pre-production; another, interviewed on the first day of the production week, was still entirely focused on forms of experimentation with the medium.
+Leo’s response to BAC on being closed down focused on the theatre’s lack of awareness of what was required in terms of production and post-production, particularly the ratio of filmed content to post-production times. Lucy Monkman described herself as, ‘by no means a digital producer – I live for the live experience,” and talked in the interview about, “three, four, five days of filming.”
+Monetisation
+The call presented two scenarios to artists:
+“Do you want advice and tech support to create a digital work? Or do you want a digital Plan B for a project you’d like to tour?”
+Although LIVR’s understanding was that the project’s primary objective was to help artists understand ways of using XR to monetise their IP, the call out emphasised reaching audiences in lockdown, developing new skills in digital content creation and “think[ing] about your practice in digital forms and how this can add value – artistically and financially – to your work.”
+This subtle but important difference in emphasis – between LIVR’s focus on technical and monetisation issues, and BAC and the artists’ focus on developing practice and experimenting with the form – was a continuing source of tension. 
+Although some of the artists had either worked with LIVR before or had performances captured in 360° video, none came to the piece with a clear expression of how they hoped to exploit the finished work. Some teams were focused predominantly on ways in which the XR could extend their audience, either directly through consumption of the XR film or indirectly through raising awareness of their work as a way to secure bookings at larger venues for the live performance version of their work. The suspension of the project means we have not subsequently gone back to artists as originally planned to test how their thinking developed on this.
+The Space 
+The Space was brought on board to provide support and mentoring to the artists in developing their distribution and commercial exploitation plans for the finished films. This engagement, however, seemed to create more problems than it caused:
+The responsible person at The Space was (arguably) already over-committed on other projects to contribute directly.
+The Space felt that there was insufficient resource (a fee of £2k) to allow for a greater commitment of staff time – so why did they accept the commission?
+The Space’s choice of sub-contractor reflected the low level of fee on offer – LIVR felt aggrieved that someone who they felt to have less commercial experience that its own team had been engaged to advise the artists.
+There was a strong difference of opinion between LIVR and The Space on the validity of using YouTube as a platform, for both commercial and technical reasons.
+The Space seemed not to have a detailed enough grasp of the technical constraints involved in presenting XR video on a platform such as YouTube. This led to further miscommunication around LIVR’s unwillingness to deliver files in a format suitable for that platform, and the (mistaken) assumption on the part of The Space that this was down to cost alone. There would have been an additional cost to LIVR, but far more serious would have been the impact in terms of time needed to compress files and the resulting reduction in quality. However, LIVR could perhaps have been more explicit providing the justification for resisting The Space’s requests.
+The Space subsequently withdrew from the project (in part because its sub-contractor took another job, and in part because the organisation felt it could devote no further time to the project.)
+Conclusions
+The budget allowed insufficient resource for mentoring in use of XR technologies and development of exploitation models – especially after LIVR’s production fee was cut from £5k per production in the original submission to £4k.
+The season needed a creative producer with experience of working in digital either instead of or to support BAC’s producer, whose experience was exclusively in live performance. The lack of appreciation of technical and resource demands of post-production was cause of significant conflict – although LIVR could have helped themselves and relations with BAC and the artists by explaining this in more detail earlier, rather than just repeatedly telling both BAC and artists that it was not possible to meet requests for greater clarity about and participation in the process, particularly around post-production.
+The terms of the call out were interpreted very differently by LIVR and BAC in some critical areas – in LIVR’s view, for example, it was never going to be feasible for the artists to take as significant a role in the post-production process as described in the call out. It isn’t clear whether LIVR’s unwillingness in practice to provide artists with access or input to post-production was the result of concerns about ‘unlimited’ content creation placing undue stress of time and resource, or whether this element needed to be more closely defined and specified by agreement between the parties before the call was put out in that form (or at least as soon as they realised that this was included in the brief) to avoid giving BAC and the artists the wrong impression.
+Leo made a very clear expression of the technical and resource constraints in letters to Tarek Iskander and David Jones of BAC, but only after production had been suspended. It would have been more helpful had those constraints been shared more clearly with BAC’s production team and the artists at the application stage. 
+This is consistent with criticisms of the communication style of Leo and other members of LIVR’s team – including abruptness in interviews and the perceived discourtesy of Leo not having a camera on his PC so not appearing on any of the shortlisting interviews. Whilst this may be justifiable in terms of lack of resource, it nonetheless allowed an impression to be formed that LIVR was in some way uninterested in either the artists or the creative outcomes of the project – an inference which Leo’s statements about LIVR’s commitment to the artists, including to the creative team which did not get an opportunity to film, strongly contradict.
+However, that negative impression formed of LIVR was reinforced by practices such as lateness or total non-attendance at the ‘tech’ day of some production weeks. If LIVR wanted to define itself as the tech company, and not the creative producer, it would seem desirable that they should have been present to give technical advice in a way which may have prevented some of the issues of ‘over filming’ – spending too much time recording different elements of performance, with a detrimental knock on in terms of resource and time described in Leo’s subsequent correspondence – which were then magnified into ‘show-stoppers’ over the course of three weeks.
+Despite the difficulties, the artists to whom we spoke felt that they had been given good ‘pastoral’ support by BAC, in particular from Lucy Monkman. Reports of the smoother passage of the capture carried out at the Rose Theatre in Kingston are reinforced by Poltergeist’s reported engagement with LIVR on another project.
+Recommendations
+In the initial interview with Lucy Monkman, we discussed the very different interpretation of the same terminology – and the role of the producer – in the context of live performance, film and digital production. Although this demonstrates that the BAC team was aware of the potential gap in knowledge and understanding, it was the source of the accelerating tensions and disagreements which led ultimately to the suspension of the project. My recommendation would be that in approaching future collaborations of this kind, Arts Council England work with specialists from the relevant industry in advance to establish clear terms of reference, including definitions and a glossary of key roles and stages in the creative and technical production process, and how they relate to each other. 
+ACE should recognise that smaller arts and cultural organisations, including NPOs without specialist staffing resource or a legacy of dealing with digital projects, need more technical and contractual support in entering into agreements with commercial partners for experimental work involving technologies with which they are not familiar. Processes for developing new work, assessing and assuring applications for funding need to reflect this.
+The role of The Space in providing commercial and technical support to projects needs to be re-examined, and due diligence carried out on whether it has the capacity as an organisation to offer expert and objective support in this regard.
+
+Iain Bennett, The Fifth Sector
+2nd September 2021
+Appendix 1:  List of consultees
+
+First name
+Surname
+Organisation
+Role
+Jack
+Bradfield
+Poltergeist
+Producer
+Tom
+Curteis
+
+Producer
+Sarah
+Fortescue
+The Space
+Head of Distribution
+Scott
+Howland
+N2P
+Director
+Tarek
+Iskander
+BAC
+Artistic Director
+Leo
+Kellgren-Green
+LIVR
+CEO
+Chisato
+Minamimura
+
+Artist
+Lucy
+Monkman
+BAC
+Producer
+Jazlyn
+Pinckney
+Freelance
+Inclusion Producer
+Harriet
+Taylor
+N2P
+Producer
+Steph
+Weller
+Live to Tell
+Producer
+
+
+
+
+Production was terminated before I had opportunity to speak to:
+Abbi
+Greenland
+RashDash
+
+Becky
+Wilkie
+RashDash
+
+
+
+
+Appendix 2: Approach and methodology
+Evaluation was intended to take a three-stage approach
+	•	Ex ante evaluation
+	•	Interim evaluation (end of project)
+	•	Impact assessment (three months after end of project)
+Stage one: Ex ante evaluation
+As the name suggests, ex ante evaluation took place before the start of production. It examined the expected outcomes of the programme, and of the individual pieces of work. will be five workstreams within this stage of evaluation:
+Identification of key stakeholders
+All relevant actors who either were affected by the activities within the scope or who had influence the project (either positively or negatively)
+Objective and scope
+To establish the economic and social value resulting from the opportunity provided by the funding, this initial stage looked to establish the expectations and requirements of participants and stakeholders
+Selection procedure
+Identification and selection of artists: what selection processes were considered, how can they be seen to have promoted equality, diversity and inclusion in the final selection, who was responsible for the final decision in selection?
+Theory of Change
+The original design called for a Theory of Change to provide a ‘live’ record of progress and new discoveries throughout the evaluation. The Theory of Change was to have established the ‘case for change’ – in this case, the justification provided for new models of commercial exploitation – and ‘tell the story’ of the project and how it brought about change in the lives of direct beneficiaries (the artists, BAC and LIVR) and other stakeholders. All stakeholders, including the artists themselves, were to have had input to and influence on creating  the Theory of Change. The intention was to enhance collective ownership and encourage learning from and about different perspectives and realities. 
+Building the logic model
+The logic model was to have summarised inputs, outputs and outcomes (identifying results). For each intended outcome there are different investments or ‘costs’ linked to the realisation of the specific outcome. There may be unintended outcomes (or investments), which can also be measured; these can be positive or negative. 
+In addition to information drawn from programme management, including a review of selection process; number and source of applications; shortlisting and selection, evidence was gathered through semi-structured interviews to identify costs and expected benefits. These included:
+	•	Stakeholder interviews – BAC management and production teams, ACE, LIVR
+	•	Artists: career history, motivation for applying for this project, previous experience of digital, previous experience of initiating their own production, barriers, aims and ambitions for the project, financial baseline, financial expectations
+This stage was also intended to include benchmarking interviews with other participants in the performing arts ecosystem with past experience or influence of the commissioning and programming of new digital work, eg: Without Walls, Festivals Edinburgh, international festivals (Adelaide, Avignon), other theatres (eg, Everyman/Playhouse), but the difficulties inherent in the production from an early stage, and sensitivities about the implications these might have for any of the parties involved, meant that there was never an appropriate stage to engage those third parties.
+Stage two: Interim evaluation
+Stage two was intended to take place at the completion of production of the five pieces of work, to provide a measure of outputs of the work. Further interviews with participants and key stakeholders were to have been undertaken to establish whether the expectations within the Theory of Change had been met:
+Did each project complete? Will the programme proceed as planned?
+How did the work change during production? If so, why?
+What were the impacts of any changes?
+Was the work completed on budget? Were any additional inputs needed?
+What expectations do artists and producers have of the completed work? Do these differ from initial expectations?
+This report provides an interim evaluation with the proviso that it has not been possible to review the completed pieces of work. The focus is therefore shifted to an evaluation of processes to establish why the original outputs were not met and the impact this has had on participants and stakeholders.
+Stage three: Impact assessment
+It has not been possible to carry out any impact assessment work, which was to have included:
+Economic impact assessment - a measure of outcomes measured in terms of sales (increase), new products, new channels exploited, new markets entered; audience numbers, location and (if possible) demographics
+Analysis of audience and professional feedback and reviews
+Comparative analysis: analysis of the outcomes of different formats, digital content strategies 
+Outcomes for artists - further semi-structured interviews to establish: the extent to which the outcomes of the project met their original expectations; any plans for extension of use of IP created; new work and/or new collaborations secured or initiated as a result of taking part in the project; how participation in the project has influence their plans (and if that has resulted in a business plan for their further professional development)
+Outcomes for BAC: audience numbers; demographics; influence on future commissioning and programming; new business models; digital strategy
+Outcomes for LIVR: how the project has validated or changed their existing business model
+Outcomes for ACE: perception of the new work; its influence on future digital strategy; influence on commissioning new projects and future funding
+Other key stakeholders – we will return to the organisations interviewed in stage one to gather their reflection on the finished work, any changes they may have made to their own digital strategies in the meantime and the extent to which these changes may have been influenced by this project.

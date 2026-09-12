@@ -1,0 +1,170 @@
+
+
+Assessing the opportunities for renewable energy generation Client: Suffolk County Council
+Client contact: David Walton
+
+Foreword
+
+The Greater South East Energy Hub is a collaboration of eleven Local Enterprise Partnerships, that are working together to increase the number and scale of decentralised local energy projects being delivered across the south east region of the UK.
+
+We are funded by the Department of Business, Energy and Industrial Strategy (BEIS), working alongside four other regional Energy Hubs across England. Each Hub has the technical, legal and financial expertise to enable energy projects, and we work in partnership to deliver best practice.
+
+If you would like more information about the Energy Hub or to submit an Expression of Interest for support, please contact us via info@energyhub.org.uk.
+
+Disclaimer
+
+While the Greater South East Energy Hub has made every attempt to ensure that the information used here is accurate, we are not responsible for any errors or omissions, or for the results obtained from the use of this information. All information is provided “as is”, with no guarantee of completeness, accuracy, or timeliness.
+
+Assumptions used in the calculations are for indicative purposes and based on a range of sources including information supplied by partners, industry research and published government data. We are not liable for any errors in calculations or omissions resulting from data provided by the customer or third parties.
+
+
+
+Purpose
+
+To assess Suffolk County Council’s land holding to identify the opportunities for renewable energy generation; in particular, with respect to solar PV, wind or production of biomass.
+
+
+Method followed
+
+Set out below are the steps the Greater South East Energy Hub has followed based on discussions with the client contact.
+
+	•	Review of relevant spatial information to include:
+	•	Land holding (to be provided by client)
+	•	Topography
+	•	Proximity to nearest receptors
+	•	Agricultural land classification
+	•	Proximity and status of the power network
+	•	Statutory and local designations e.g. a full list of databases that have been searched will be set out in the report
+	•	Public access – footpaths, open access
+	•	Water resources and flood risk
+	•	Accessibility for asset construction/maintenance
+	•	Significant infrastructure, shading and other obvious constraints.
+
+	•	For power generation (Solar PV and wind), identification of potential loads:
+	•	Identification of potential private wire off-takers within 1km of the site boundary
+	•	Initial search to identify use and name/status of the controlling organisation.
+
+	•	Opportunity ranking:
+	•	Two stage assessment of identified sites against criteria to generate a score of key attributes
+	•	Discount any sites which are unlikely to be permitted due to land-based designation or other significant constraint (e.g. for wind generation its proximity to settlements)
+	•	Rank according to criteria agreed with the client
+	•	Top ranking sites to move to Steps 4 (Solar PV), 5 (Wind) and 6 (Biomass).
+
+	•	Design of Solar PV generation to include:
+	•	potential size of generation, proximity to a point of network connection, presence of constraints:
+	•	Establish relevant insolation profile
+	•	Estimation of annual yield
+	•	Estimation of generation profiles using solar PV assessment tools - monthly generation output and summer and winter daily profiles
+	•	Initial financial appraisal of opportunity - Indicative build-out cost, indicative annual revenue, simple payback
+
+
+
+
+
+	•	Design of Wind generation to include:
+	•	potential size of generation, indicative proximity to a point of network connection, presence of constraints
+	•	Estimation of annual yield based on benchmark load factor
+	•	Initial financial appraisal of opportunity - Indicative build-out cost, indicative annual revenue, simple payback.
+
+	•	Assessment of Biomass potential to include:
+	•	Estimation of gross available land area
+	•	Estimation of crop yield over life cycle (Short Rotation Coppice to be considered – 22 years)
+	•	Initial financial appraisal of opportunity - Indicative establishment cost, lifetime costs for maintenance, harvesting and storage
+	•	Indicative revenue/surplus over the crop life cycle.
+
+	•	Collateral benefit assessment/comparators:
+	•	CO2 offsetting against equivalent grid import (Solar PV/wind) or replacement of oil as energy source for heating (Biomass).
+Follow-up stages to be discussed with client
+
+	•	Initial due diligence assessment:
+	•	Review against Energy Hub Guide 4 - Due diligence in large scale renewable energy projects
+	•	Populate matrix of any legal, technical and financial issues identified or to be considered.
+	•	High level financial appraisal of key opportunities.
+
+Output
+
+The following outputs have been prepared:
+
+	•	A Search Inventory setting out the land polygons that have been created from the landholding shape files provided by Suffolk County Council. For each polygon, the following is presented:
+	•	captured data
+	•	ranking and an opportunity assessment to give an indication of scale and value for the highest-ranking sites (Solar and Wind) and a percentage of the total available land holding (Biomass).
+
+	•	An image file of each polygon created from the SCC land holding
+	•	An image file of the highest-ranking sites for Solar PV and Wind.
+
+
+
+
+Ranking system
+
+Key factors have been aggregated and scored from 0 (least favourable) to 5 (most favourable) in terms of their impact on the successful delivery of the energy opportunity. A Deliverability Score has then been calculated to be able to rank sites. The ranking criteria used for the opportunities assessment is shown in Table 1.
+
+How to use the Search Inventory
+
+Each tab is colour-coded as follows:
+
+	•	Administrative/information and advisory – BLUE
+	•	Ranking criteria - YELLOW
+	•	Energy opportunities tabs - GREEN
+
+The following colour coding is used in the Energy Opportunities tabs:
+
+	•	All tabs: A specific feature significantly affects a ranking – AMBER
+	•	All tabs: A site is discounted because of a rule being applied from the ranking – RED
+	•	Solar PV tabs: a site scores above a deliverability score of 17 (Total = 30) – BLUE
+
+Information and outputs
+
+The information presented is based on a suite of publicly available data sets listed in the Source Data tab of the Search Inventory. Each data source will carry its own statement of accuracy, appropriate application and copyright. Any data captured from the listed sources and resulting output values that are quoted in this file should therefore be read and interpreted with caution.
+
+
+Project costs and revenues are based on a range of values quoted to the GSEEH. These do not form an accurate value on which to base a business case and should only be used for indicative purposes at the initial project concept stage.
+
+
+
+
+
+NOT FOR DISTRIBUTION
+
+
+
+Table 1: Ranking criteria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5

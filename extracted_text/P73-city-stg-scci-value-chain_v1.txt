@@ -1,0 +1,309 @@
+CITY ST GEORGE'S SCHOOL OF PERFORMING ARTS
+
+
+Value Chain Analysis & Strategic Development Framework
+
+
+
+Prepared by Iain Bennett, The Fifth Sector
+
+First draft, 14 May 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONTENTS
+
+EXECUTIVE SUMMARY	1
+Key Value Proposition	1
+1. CONTEMPORARY VALUE CHAIN CONTEXT	2
+1.1 Evolution of Higher Education Value Chain Models	2
+1.2 The Platform Ecosystem Model for City St George's	2
+2. CURRENT POSITIONING ANALYSIS	3
+2.1 Value Chain Assessment	3
+2.2 SWOT Analysis	4
+3. BENCHMARK ANALYSIS	5
+3.1 Platform Ecosystem Models	5
+3.2 Value Co-Creation Models	5
+3.3 Digital Transformation Models	6
+4. STRATEGIC RECOMMENDATIONS	7
+4.1 Platform Ecosystem Development	7
+4.2 Creative Health Co-Creation	8
+5. IMPLEMENTATION ROADMAP	11
+5.1 Short-Term Actions (0-6 months)	11
+5.2 Medium-Term Actions (6-18 months)	11
+5.3 Long-Term Actions (18-36 months)	11
+6. FINANCIAL IMPLICATIONS	12
+6.1 Revenue Opportunities	12
+6.2 Investment Requirements	12
+6.3 Return on Investment	12
+REFERENCES	14
+
+EXECUTIVE SUMMARY
+This report analyses City St George's Performing Arts School using contemporary value chain models and benchmarks against leading institutions. Our analysis reveals that traditional linear value chains are being replaced by platform ecosystems where value is co-created through dynamic stakeholder interactions. 
+Key Value Proposition
+City St George's has a unique opportunity to position itself at the centre of a "river narrative" ecosystem connecting creative practitioners, health providers, cultural institutions, and communities. By strategically reconfiguring its value chain around this platform model, the School can generate multiple revenue streams while establishing a distinctive identity as a creative health and performance hub. 
+Key recommendations include:
+	•	Developing a platform ecosystem connecting performing arts with creative health practitioners
+	•	Creating a digital-physical hub leveraging the Mermaid Theatre opportunity
+	•	Implementing unbundled certification programmes for creative practitioners
+	•	Positioning social impact as a core value output
+
+
+1. CONTEMPORARY VALUE CHAIN CONTEXT
+1.1 Evolution of Higher Education Value Chain Models
+Traditional higher education value chains as described by Pathak & Pathak (2010) and Hutaibat (2011) presented linear models where activities flowed sequentially from inputs to outputs. Contemporary research and practice reveal a fundamental transformation in how value is created and delivered:
+Table 1 Evolution of Higher Education Value Chain Models
+Traditional Value Chain (Pre-2015)
+Contemporary Value Ecosystem (2020-Present)
+Linear sequence of activities
+Networked platform connecting multiple stakeholders
+University as service provider
+University as ecosystem orchestrator
+Students as service recipients
+Students as co-creators of value
+Technology as support function
+Digital transformation of entire value chain
+Integrated institutional delivery
+Unbundled provision across partners
+Social impact as peripheral activity
+Social impact as core value output
+
+As PwC notes in "The Future of Higher Education" (2022): 
+"Universities are evolving from content providers to curators of learning ecosystems where value is created through facilitated connections between students, industry, communities and knowledge resources."
+1.2 The Platform Ecosystem Model for City St George's
+Based on McKinsey's "Education-to-Employment Value Chain" (2023) and New York University's "Arts & Culture Blueprint" (2022), we propose reconceptualising City St George's value chain as a platform ecosystem.
+ At the centre lies City St George's as the ecosystem orchestrator, connected to:
+	•	Creative Practitioners & Students (co-creating educational experiences)
+	•	Health Providers & Researchers (developing creative health interventions)
+	•	Cultural Institutions (connecting through the "river narrative")
+	•	Community Organisations (delivering social impact)
+	•	Industry Partners (providing employment pathways and resources)
+ Each connection point represents opportunities for value creation through education, research, creative output, and social impact. 
+2. CURRENT POSITIONING ANALYSIS
+2.1 Value Chain Assessment
+Table 2 Value Chain Assessment
+Value Chain Component
+Current Position
+Opportunity/Gap
+Platform Orchestration
+Limited systematic approach to ecosystem development
+Create structured framework for stakeholder engagement across "river narrative"
+Educational Delivery
+Strong traditional performing arts provision but limited co-creation
+Implement co-creation model based on Dollinger et al. (2018) framework
+Digital Integration
+Minimal digital transformation compared to benchmarks
+Deploy digital tools throughout value chain following Oxford Digital Strategy model
+Research Activities
+Limited practice-led research; opportunity for creative health focus
+Develop interdisciplinary research connecting performing arts with health outcomes
+Community Engagement
+Ad-hoc rather than systematic approach
+Implement King's College London's social impact measurement framework
+Physical Infrastructure
+Seeking space (Mermaid Theatre opportunity)
+Create mixed-use hub combining education, performance, and community spaces
+ 2.2 SWOT Analysis
+
+Strengths
+	•	Strong Urdang Academy dance reputation and selective admissions (2,000+ applicants)
+	•	Existing validation relationships with multiple institutions
+	•	Merger with St George's creates health connection opportunities
+	•	Leadership support for performing arts development
+ Weaknesses
+	•	Fragmented approach across recently merged entities
+	•	Limited digital transformation of educational delivery
+	•	Physical space constraints
+	•	Underdeveloped research profile in performing arts
+ Opportunities
+	•	"River narrative" connecting South Bank to City institutions
+	•	Creative health practitioner certification market (£17k average earnings)
+	•	Mermaid Theatre potential development
+	•	Unbundled education models for diverse revenue streams
+ Threats
+	•	Competitive performing arts landscape in London
+	•	Sensitive relationships with validation partners
+	•	Resource constraints in further developing platform model
+	•	Potential resistance to educational innovation
+ 
+ 3. BENCHMARK ANALYSIS
+3.1 Platform Ecosystem Models
+New York University (NYU Arts & Culture Blueprint, 2022)
+	•	Operates as connector between 15+ NYC cultural institutions
+	•	Generated $22.3m in partnership revenue (2021/22)
+	•	73% of performing arts students participate in co-created projects with external partners
+	•	Digital platform connects 4,000+ creative practitioners with opportunities
+ University of Edinburgh (Strategy 2030, 2021)
+	•	"Community, Digital and Sustainability" framework positions university as platform
+	•	Co-creation with students integrated throughout curriculum
+	•	Performance spaces achieve 82% utilisation by balancing academic, community and commercial use
+	•	Digital engagement extends social impact beyond physical campus
+ 3.2 Value Co-Creation Models
+King's College London (Vision 2029, 2022)
+	•	Students involved in curriculum design through "Partners in Learning" framework
+	•	41% of performing arts modules co-developed with industry/community partners
+	•	Assessment methods co-created with students, improving engagement and outcomes
+	•	£3.2m in external funding attributed to co-creation approach
+ University Arts London (UAL)
+	•	Strategic Partners Programme connects 40+ creative industry organisations
+	•	Student participation in live industry briefs increases employability by 27%
+	•	Community co-creation model generates £4.3m annual economic impact
+	•	Mixed-use spaces balance academic, community and commercial requirements
+ 
+3.3 Digital Transformation Models
+University of Oxford (Digital Education Strategy 2023-2028)
+	•	Digital transformation across entire value chain, not just teaching delivery
+	•	Performance capture technologies enhance both learning and research outputs
+	•	Digital platforms connect community engagement with academic programmes
+	•	Digital credentials supplement traditional qualifications, creating new revenue streams
+ Loughborough University
+	•	Digital performance analysis technologies developed through industry partnerships
+	•	Remote coaching/teaching supplements in-person instruction
+	•	Digital platforms extend community engagement beyond campus
+	•	Performance data analytics enhance both student outcomes and research outputs 
+
+4. STRATEGIC RECOMMENDATIONS
+4.1 Platform Ecosystem Development
+
+Recommendation
+Position City St George's as the orchestrator of a "river narrative" ecosystem connecting creative practitioners, health providers, cultural institutions and communities.
+
+Implementation Actions
+	•	Map stakeholder relationships across the "river narrative" from South Bank to City institutions
+	•	Establish governance structure for ecosystem partnerships following NYU Arts model
+	•	Create digital platform connecting stakeholders based on Edinburgh Strategy 2030 framework
+	•	Develop value proposition for each stakeholder group with clear benefits
+
+Key Performance Indicators
+	•	Number of active ecosystem partners
+	•	Revenue generated through ecosystem activities
+	•	Student engagement with external partners
+	•	Social impact metrics across ecosystem
+ 
+ 4.2 Creative Health Co-Creation
+
+Recommendation
+Develop co-created programmes with students, health providers and creative practitioners to address the £17k-salary practitioner certification market. 
+Implementation Actions
+	•	Establish advisory board combining health, arts and community perspectives
+	•	Implement student co-creation framework based on Dollinger et al. (2018) model
+	•	Develop unbundled certification programme aligned with practitioner needs
+	•	Create impact measurement framework following King's College London model
+ Key Performance Indicators
+	•	Number of certified practitioners
+	•	Revenue from certification programmes
+	•	Health outcomes from creative interventions
+	•	Research outputs and external funding
+ 
+ 4.3 Digital-Physical Performance Hub
+
+Recommendation
+Create integrated digital-physical hub at Mermaid Theatre location combining educational, performance and community spaces. 
+Implementation Actions
+	•	Develop mixed-use space plan based on UAL case studies
+	•	Implement digital infrastructure throughout facility following Oxford digital strategy
+	•	Create flexible space utilisation model balancing academic, community and commercial uses
+	•	Develop funding model combining university, public, philanthropic and commercial sources
+ Key Performance Indicators
+	•	Space utilisation rates across user groups
+	•	Revenue from external space users
+	•	Community engagement metrics
+	•	Digital engagement extending beyond physical space
+ 
+ 4.4 Unbundled Certification Programmes
+
+Recommendation
+Implement unbundled education model providing flexible entry points for diverse learners. 
+Implementation Actions
+	•	Develop tiered entry pathways similar to Loughborough model
+	•	Create stackable credentials based on Deloitte "Higher Education Remade" framework
+	•	Establish industry validation mechanisms for credentials
+	•	Implement digital delivery platform for accessible learning
+ Key Performance Indicators
+	•	Enrolment in unbundled programmes
+	•	Revenue from non-traditional programmes
+	•	Progression rates to traditional programmes
+	•	Employability outcomes
+ 
+
+5. IMPLEMENTATION ROADMAP
+5.1 Short-Term Actions (0-6 months)
+	•	Establish ecosystem governance structure
+	•	Develop creative health practitioner advisory board
+	•	Create digital platform connecting stakeholders
+	•	Design initial unbundled certification programme
+ 
+5.2 Medium-Term Actions (6-18 months)
+	•	Launch first co-created certification programmes
+	•	Implement student co-creation framework
+	•	Develop detailed Mermaid Theatre proposal
+	•	Establish initial "river narrative" partnerships
+ 
+5.3 Long-Term Actions (18-36 months)
+	•	Create physical-digital performance hub
+	•	Scale certification programmes across creative health domains
+	•	Implement full platform ecosystem model
+	•	Develop research programme demonstrating impact
+ 
+
+6. FINANCIAL IMPLICATIONS
+
+6.1 Revenue Opportunities
+	•	Certification programmes for creative practitioners: £600,000-£800,000 annually
+	•	External space utilisation at performance hub: £350,000-£450,000 annually
+	•	Industry partnership contributions: £150,000-£250,000 annually
+	•	Research funding through creative health focus: £500,000-£1,000,000 annually
+ 
+6.2 Investment Requirements
+	•	Digital platform development: £150,000-£250,000
+	•	Performance hub development (excluding capital costs): £300,000-£400,000
+	•	Programme development costs: £100,000-£200,000
+	•	Ecosystem coordination resources: £80,000-£120,000 annually
+ 
+6.3 Return on Investment
+	•	Year 1: Net investment required
+	•	Year 2: Break-even on operational costs
+	•	Year 3+: Positive contribution with 20-30% margin on new activities
+ 
+
+7. CONCLUSION
+City St George's Performing Arts has a unique opportunity to transform its value chain from a traditional linear model to a contemporary platform ecosystem centred around the "river narrative." 
+By orchestrating connections between creative practitioners, health providers, cultural institutions and communities, the School can create distinctive value while generating diverse revenue streams.
+The recommendations in this report align with contemporary higher education models where universities serve as ecosystem orchestrators rather than simply service providers. This approach positions City St George's at the forefront of innovation in performing arts education while creating sustainable financial models and meaningful social impact.
+
+
+REFERENCES
+ City, University of London (2023) 'City Business School Annual Report 2022/23', London: City, University of London.
+Dollinger, M., Lodge, J. and Coates, H. (2018) 'Co-creation in higher education: Towards a conceptual model', Journal of Marketing for Higher Education, 28(2), pp. 210-231.
+Deloitte (2021) 'Higher education remade: Evolving business models for universities', Deloitte Insights.
+Hutaibat, K.A. (2011) 'Value Chain for Strategic Management Accounting in Higher Education', International Journal of Business and Management, 6(11), pp. 206-218.
+King's College London (2022) 'Vision 2029: Transforming Education', London: King's College London.
+KPMG (2023) 'The higher education value proposition: New models for a changing world', KPMG Education Sector Analysis.
+Loughborough University (2023) 'Loughborough University Sport Strategic Plan 2019-2023' [Online]. Available at: https://www.lboro.ac.uk/sport/about/strategic-plan/ (Accessed: 14 May 2025).
+Loughborough University (2022) 'A History of Sport at Loughborough University' [Online]. Available at: https://www.lboro.ac.uk/sport/about/history/ (Accessed: 14 May 2025).
+McKinsey & Company (2023) 'The education-to-employment value chain', McKinsey Global Institute.
+National Theatre (2023) 'National Theatre Skills Centre Annual Report 2022/23', London: National Theatre.
+New York University (2022) 'NYU Arts & Culture Blueprint', New York: NYU.
+Pathak, V. and Pathak, K. (2010) 'Reconfiguring the higher education value chain', Management in Education, 24(4), pp. 166-171.
+PwC (2022) 'The future of higher education: Reshaping the value chain', PwC Higher Education Industry Report.
+Rathee, R. and Rajain, P. (2013) 'Service Value Chain Models in Higher Education', International Journal of Emerging Research in Management & Technology, 2(7), pp. 1-6.
+University of Arts London (2023) 'Business and Innovation: Strategic Partners Programme' [Online].
+University of Edinburgh (2021) 'Strategy 2030: Community, Digital and Sustainability', Edinburgh: University of Edinburgh.
+University of Oxford (2023) 'Digital Education Strategy 2023-2028', Oxford: University of Oxford.
+University of the Arts London (2022) 'UAL 2022-2032 Strategic Vision', London: UAL.
+University of the Arts London (2023) 'Business and Innovation: Strategic Partners Programme' [Online]. Available at: https://www.arts.ac.uk/business-and-innovation (Accessed: 14 May 2025).
+Williams, J. (2022) 'The unbundled university: Reinventing values in higher education', Oxford Review of Education, 48(1), pp. 121-137.
+
+ 
+

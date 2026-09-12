@@ -1,0 +1,748 @@
+Somerset Council Cultural Strategy 2023 – 2027
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Draft report v3
+
+
+January 2023
+
+
+
+
+
+Contents
+Vision	1
+Foreword	2
+Executive Summary	3
+The new Somerset Council	3
+Why does Somerset need a cultural strategy?	4
+Strategic Priorities	5
+SWOT analysis	6
+Action plan	7
+1.	People	9
+The priorities for the strategy	9
+The audience for culture	9
+Young people	10
+Equality, diversity and inclusion	11
+2.	Place	13
+Existing cultural assets	13
+Community Arts	14
+Existing arts funding	16
+Major capital investments	17
+Visitor economy	17
+3.	Production	19
+Cultural & Creative Economy Mapping: Creative Enterprises	19
+Creative microclusters	21
+Creative workforce	22
+Provision of creative skills	22
+Education and skills: The importance of creative and cultural education in Somerset	22
+Cultural ecology	24
+Cultural sector survey	25
+Recommendation: Cultural Advisory Board for Somerset	27
+4.	Economic impact	28
+Indirect and induced outputs	28
+Appendix 1: Theory of Change	30
+Appendix 2: Glossary	34
+
+Figures
+Figure 1  “How could arts and culture be applied to make improvements in Somerset?”	10
+Figure 2  Comparison of IDBR (April 2022) and Companies House data (August 2022)	21
+Figure 3  Creative employment in Somerset by creative supply chain (see Glossary for definitions)	23
+
+Tables
+Table 1 Somerset's cultural offer - SWOT analysis	6
+Table 2  Outcomes of recommended actions, by theme	8
+Table 3  Measures to promote equality, diversity and inclusion in Somerset's cultural sector	11
+Table 4  Comparison of ACE funding per capita in urban areas across the South West	16
+Table 5  SWOT - Somerset Visitor Economy	19
+Table 6  Needs identified through online survey of cultural practitioners	27
+Table 7  Estimate of Somerset's Cultural and Creative Industries direct GVA - all employment, June 2022	29
+Table 8  Theory of Change	31
+
+Vision
+Somerset has a distinct cultural identity, rooted in its landscape and natural heritage. We will celebrate this identity through arts and culture and preserve all that is good about the sector. We will nurture it, to ensure that it grows and enriches the lives of our residents, through our communities and cultural partners.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Foreword
+The process and creation of a cultural strategy for Somerset Council will be an essential advocate for the arts and culture in Somerset. From this, it will present an exciting vision for the role of culture within the county, and the communities the Council serves. 
+I am delighted to share with you our Cultural Strategy for the new Somerset Council. Culture makes a significant contribution to the new Council vision for Somerset. It places an emphasis on establishing a cultural ecosystem and making Somerset a place where business can flourish within safe, vibrant and healthy communities. Residents will enjoy healthy lifestyles, better economic and social prospects through engagement with arts, culture and Somerset’s unrivalled legacy of natural and built heritage. 
+The purpose of this Cultural Strategy is to set out a strategic approach for the supply of arts and culture through all our services. It explores ways in which arts and community organisations can work in partnership with services such as social care, education and planning. As well as supporting the new Council’s mission to build healthy, cohesive communities, it embeds arts and culture within our lives. Providing a high quality of life, supporting people in improving their own physical and mental wellbeing. 
+Research has been the basis of development for this strategy. It brings to light the breadth and scale of arts and culture on offer in Somerset, and the depth of feeling that the people and communities within the region have for engagement in cultural activity. We have been given the opportunity to transform arts and culture within Somerset. Additionally, through the Arts Council England’s renewed commitment to investing in arts organisations in Somerset, major capital programmes ensuring redevelopment have occurred. This plan understands the contextual issues of the county and seeks to address the key challenges facing our residents. 
+The Cultural Strategy seeks to make the arts and culture more accessible, visible, and relevant to the residents and visitors of Somerset. In actioning the priorities of new Somerset Council, we ensure activity serves Somerset's communities positively. However, this is an ambitious proposal whose success will rely on partnership working and the commitment of all parts of the Council, cultural organisations, and community partners, embodies in a new Cultural Compact for Somerset. 
+I am excited to see the direct impact our work will have for our residents, and an increased level of activity for our creative sector.
+Executive Summary
+The new Somerset Council
+Somerset Council’s new vision will preserve and promote the county’s heritage, beauty and traditions that have set it apart from the rest of the country. In order to build a fairer, greener, more flourishing community that listens to its residents, and cares for the most vulnerable. Delivery will be built around four priorities: 
+	•	A Greener, More Sustainable Somerset: to preserve the natural beauty and encourage an environmentally sustainable and more resilient Somerset. To encourage the existing community to take more steps in this pursuit and to encourage newer residence who have this ethos to set up business and homes in Somerset. 
+	•	A Healthy and Caring Somerset: to preserve the health and wellbeing of the community supporting residents to stay as healthy as possible and encouraging new communities to support the economic benefits to the county. For example, bringing new skills, ways of living and enabling employment to support the provision of social care and cultural prescribing. 
+	•	A Fairer Somerset: to preserve and encourage a county that is proud of its diversity. To retain and attract the younger demographic, to play their parts in the arts and grow a more diverse and inclusive county. 
+	•	A Flourishing and Resilient Somerset: this is the net result of the above priority and is the ‘action plan’ for the next 5 – 10 years to promote Somerset at a regional, national and international level. Promoting the wealth of opportunities to bring investment and highly skilled, well-paid jobs for Somerset people.
+
+Why does Somerset need a cultural strategy?
+The new Somerset Council has identified culture as one of the drivers to bring about economic growth and a better quality of life for all. The cultural strategy gives voice to priorities expressed by residents and the cultural sector through a six-month period of research and consultation undertaken between June and December 2022. It recognises that change is needed in planning for and investment in culture to make best use of existing capacity and resources across all Somerset’s districts.
+Whilst enlisting change, the cultural strategy also celebrates and builds upon what each local authority already does well. It rationalises existing council strategies, consolidating existing investment and best practice in arts development, cultural programming, venue management, museums, libraries and heritage, community arts provision, cultural education and social prescribing.
+The strategy will promote cultural engagement, raise awareness and promote the role arts and culture can play in enriching our communities, improving quality of life, health and wellbeing. 
+It provides recommendations to boost skills and creative employment and nurture existing and new creative businesses.
+Somerset’s distinctive and vibrant cultural identity will be promoted to establish and realise Somerset’s potential as a cultural destination. 
+Serving to protect, capitalise and unlock potential opportunities for Somerset’s creative sector that unifies place-based priorities of all five existing local authorities, the strategy recognises the key role of cultural provision and public art in placemaking in both urban and rural contexts across the county. This includes both significant investment in regeneration through large schemes including the £23m Glastonbury Town Deal and the £29m redevelopment of the Octagon Theatre and support for the county-wide network of venues ranging from commercial theatres to community halls. 
+The strategy addresses historic discrepancies in public funding for the arts which have seen urban areas in other parts of the South West receive eight times the funding per capita of that granted to Somerset. 2023 will see an increase in Arts Council investment in organisations promoting rural touring, heritage and arts development in areas of low social mobility.
+The strategy proposes that future decision making for culture and creative industries be brought together under a new Cultural Advisory Board for Somerset [see page 27] which will work with the Council and other partners and funders to ensure that it delivers the outcomes promised. Over time, the Cultural Advisory Board will play a bigger role in development of cultural strategy and  delivery of its recommendations .
+
+
+Strategic Priorities
+
+People
+	•	We will explore ways in which cultural organisations can work in partnership with education, social services and countryside/heritage to help build healthy and cohesive communities, which support their wellbeing.
+	•	We will develop social prescribing framework to encompass arts and culture and embed it within our communities.
+	•	We will make arts and culture more accessible to residents in remote areas through outreach activities.
+	•	We will make arts and culture more inclusive by working with our accessibility group to ensure performances and experiences are accessible by all.
+	•	We will work to make our creative sector sustainable by encouraging young people to see the creative sector as a viable career choice, working through the Education Service.
+
+Place
+	•	The strategy will establish landscape and natural heritage as part of Somerset’s distinctive cultural identity and a catalyst for attracting arts and heritage visitors.  We will promote Somerset as a green and cultural destination as well as creating content for local communities.  
+
+Production:
+	•	The creative sector makes a substantial contribution to Somerset’s economy: we need to recognise this and do our part in protecting it by preserving key cultural assets.
+	•	To support its future growth Somerset Council will, with partners, improve data capture and evaluation capabilities.
+	•	Somerset Council will support cultural organisations to leverage investment from other funders.
+	•	Somerset Council will, with key partners, establish an Advisory Board to strengthen connections across the network.
+
+
+SWOT analysis
+Research and consultation carried out between June and December 2022 identified that Somerset\s cultural sector and creative economy have some distinctive characteristics that lend it resilience but also suffer from some structural weaknesses which make them more vulnerable to changes in the external economic environment.
+
+Table 1 Somerset's cultural offer - SWOT analysis
+
+Strengths 
+	•	Somerset has a rich, varied, and distinctive creative arts scene.
+	•	The county’s distinctive topography, heritage and history are reflected in the diversity of the cultural offer to residents and visitors.
+	•	A highly skilled creative workforce and productive and distributed base of creative businesses make a significant contribution the County’s economy.
+	•	Culture provides effective, efficient and economical ways to address other social outcomes.
+Weaknesses 
+	•	Unequal access to arts and culture, exacerbated by rurality and lack of social mobility. 
+	•	Destination marketing does not reflect or promote the strength of cultural offer.
+	•	Communication and travel across a large and predominantly rural county present barrier to engagement and participation.
+	•	Lack of sustained investment and over-dependence on short-term, project-based funding.
+	•	Levels of public investment in arts and culture are much lower than that afforded to more urban areas of the Southwest.
+	•	Barriers to attracting and retaining talent, including lack of university. 
+	•	Lack of forums in which artists and organisations can network and collaborate on a county-wide basis.
+Opportunities 
+	•	Meet the demand for new content for a more diverse set of audiences amongst resident and visitors.
+	•	Increase the profile of Somerset’s cultural offer as a key driver of its visitor offer.
+	•	Collaborative working across all art forms, culture and heritage sectors to develop capacity and reduce dependence on short term funding.
+	•	Attract and retain creative talent to drive increased inward investment in culture and creative industries.
+	•	Increase delivery of social benefits in health & wellbeing, education and social mobility.
+	•	Unlock additional investment in placemaking.
+	•	Skills and creative leadership development - Somerset is well equipped to deliver a range of creative and cultural qualifications.
+Threats 
+	•	Continuing reduction in levels of funding for local authorities threatens their ability to maintain current levels of investment and support for the sector.
+	•	Somerset’s existing NPOs received “standstill” funding in the 2023-26 settlement – an effective cut, in view of rising inflation – so expect to revise levels of activity downward accordingly.
+	•	Key challenges to delivery of the Council strategy – including reducing funding, an ageing population, additional costs imposed by the County’s rurality and poor health and wellbeing outcomes will make it more difficult to invest in the development of innovation and capacity in the creative sector with the potential to grow audiences, attract investment and provide effective and cost-efficient means to deliver the social benefits of culture across a wider range of services.
+
+Action plan
+The strategy includes recommendations for a seven-point action plan, led by the Council and delivered in partnership with arts and cultural organisations, schools and colleges, health & wellbeing providers and the private sector.
+	•	Cultural and Creative Industries (CCI) investment and support programme which draws together existing investment across council districts and services to provide sector specialist business support and access to finance. It will balance priorities between retention of funding for existing programmes (including events and touring productions) and nurturing existing and start-up businesses to ensure that the sector delivers increased economic benefits and opportunities through business growth and job creation.
+	•	Creative skills and leadership development – the strategy will amplify cultural & creative education and skills at all levels including careers advice through securing continuing funding from Department for Education for the Music Education Hub. We will work with partners in the county’s schools and FE colleges, and in neighbouring Universities to develop a plan to dleiver a right to creative skills education at all ages and increases provision of further and higher education in creative and digital skills.
+	•	Collaborative network development to enable artists and organisations to benefit in a timely way from opportunities for development and growth. This may include formalising relationships across private and public sectors within arts and culture through development of an independent Cultural Advisory Board. [See page.27]
+	•	Recognising and promoting the diversity of Somerset’s rural and urban cultural offer through of Cultural and Creative Zones (CCZs), building on existing and emerging clusters of creative businesses, working with “anchor” institutions, venues, and local arts organisations with the aim to build capacity for arts and creative industries and link them together with other forms of culture and public services to capture and amplify the economic and social value of the creative and visitor economy. CCZs will reflect existing and emerging strengths in both urban and rural locations, from West Somerset to North Mendip, forming a county-wide “mosaic” of creative districts which link creative production, cultural experiences and visitor economy offers and promotion.
+	•	Promote Somerset as a Green and creative destination - working in partnership through local representative bodies and democratic structures (including arts and cultural organisations, community groups, business associations, Chambers of Commerce, national trade bodies and Town Councils) to jointly develop plans for and promotion of arts and culture. This will embed the vision of preserving, celebrating, nurturing, and growing Somerset as a special and distinctive cultural and heritage destination. It will promote a mosaic of creative districts (see Cultural and Creative Zones, above), Areas of Outstanding Natural Beauty (AONBs) and heritage sites, local food and produce and visitor economy attractions and events. By grouping attractions and events within a thirty-minute radius of the CCZ hub sites, and promoting local transport plans, it will embed the brand of Somerset as a “30-minute cultural county”. 
+	•	Develop a shared framework for intelligence and evaluation for creative and visitor economy investment and performance (audiences, businesses, jobs and Gross Value Added (GVA)). 
+	•	Establish a county-wide social prescribing framework and training plan to amplify the role of arts and culture in health wellbeing and promote equal access opportunities, building on learnings from existing programmes within the county (including Yeovil Hospital Thriving Communities) and drawing on best practice from national bodies such as the National Academy for Social Prescribing (NASP).
+	•	
+Outline action plan
+
+ The recommendations in the action plan link directly to the vision and priorities set out in the strategy:
+
+Table 2  Outcomes of recommended actions, by theme
+
+Action
+Place
+People
+Production
+1
+CCI investment and support programme
+
+Ö
+Ö
+2
+Creative skills and leadership development
+
+Ö
+Ö
+3
+Cultural Advisory Board 
+Ö
+Ö
+Ö
+4
+Cultural and Creative Zones
+Ö
+Ö
+Ö
+5
+Promote Somerset as a Green and creative destination 
+Ö
+Ö
+Ö
+6
+Shared intelligence and evaluation framework
+Ö
+Ö
+Ö
+7
+Social prescribing framework and training plan
+
+Ö
+
+
+
+	•	People
+The priorities for the strategy
+	•	We will develop a social prescribing framework to encompass arts and culture and embed it within our communities.
+	•	We will make arts and culture more accessible to residents in remote areas through outreach activities.
+	•	We will make arts and culture more inclusive by working with our accessibility group to ensure performances and experiences are accessible by all.
+	•	We will work to make our creative sector sustainable by encouraging young people to see the creative sector as a viable career choice, working through the Education Service.
+The strategy will put in place structures which will best engage all residents and local communities across the county not only as audiences, but as participants in decision making about Somerset’s cultural offer.
+It sets a direction for how venues and arts organisations can work together to develop and grow audiences.
+It explores ways in which cultural organisations can work in partnership with education, social services and countryside/heritage to help build healthy and cohesive communities, which support their wellbeing.
+Somerset has a growing ageing population who are increasingly living in poor health, placing a significant burden on service budgets. The rurality of the county adds to those challenges. There are existing local projects in which culture already plays an important role in health and wellbeing, social prescribing and integrated adult social care – this knowledge will be shared across Somerset and built upon, both to support the ageing population of the county as well as developing routes into creative careers for practitioners.
+Arts & Health South West is prioritising mental health, social prescribing and loneliness. The very rural character of parts of the county could factor heavily in developing schemes and working across council services and with other local bodies such as NHS Trusts, ICGs and other wellbeing providers to catalyse a change in rurality and cultural participation and well-being. 
+The audience for culture
+We received nearly 1,500 responses to an online residents’ survey, which revealed an active and dynamic group of residents who demonstrate an appetite for both venue and non-venue-based activity across arts, culture and heritage. They attend music, performance and visual arts events, visit museums and galleries, and enjoy outdoor arts and street festivals.
+The high levels of cultural engagement are even more impressive when the rurality of the county and large travel distances are considered. People are prepared to travel to get their cultural “fix”, with nearly 50% of audiences travelling between 5 and 20 miles and 38% regularly travelling up to 30 miles.  
+When asked to consider how arts and culture could be applied to make improvements in Somerset (Figure 1), most respondents felt arts and culture were important in enriching lives with activities, along with making places more attractive. Over 50% strongly agreed that improving health and wellbeing was important, as well as building local pride.
+The responses confirmed that Somerset residents understand the importance of arts and culture. It shows an appreciation for its contribution to individual wellbeing, place making and quality of life. 
+
+
+Figure 1  “How could arts and culture be applied to make improvements in Somerset?”
+
+
+Source: The Fifth Sector analysis of residents’ survey findings (n=1,494)
+Young people
+The future of the creative and cultural sector will rely on a healthy supply of new talent. As outlined in the Creative Industries Policy and Evidence Centre report of September 2021, there are “deep divides and entrenched inequality within the creative sector” and it recognises that class-based exclusions are more pronounced in the creative sector than in any other industrial sector.  
+The Fifth Sector, supported by Bridgewater and Taunton College, held a round-table for young people to discuss key issues impacting on their access to and involvement in the creative and cultural sector.  The young people expressed a desire to see:
+	•	Creative activities during the summer 
+	•	More creative careers advice both within and external to colleges and schools
+	•	Better signposting to creative events and activities through social channels
+	•	A Somerset creative youth social calendar
+	•	An annual creative arts competition for Somerset artists and creatives aged under 25 to include a physical showcase and social gathering
+	•	 Access to experienced professionals through mentoring and/or work experience
+	•	Short courses in new technologies – something for which many young people would said they would be willing to pay
+	•	Business support – including legal and financial advice – to support their development as freelancers 
+	•	Prioritisation of future skills and digital technologies in all activity 
+
+
+Equality, diversity and inclusion
+The cultural sector and cultural strategy have a role to play in helping deliver the four priorities of the new council. Woven through the recommendations above are a set of principles and actions to embed equality, diversity and inclusion.
+
+Table 3  Measures to promote equality, diversity and inclusion in Somerset's cultural sector
+People: A Fairer Somerset 
+People: A Healthy and Caring Somerset
+Somerset residents enjoy many excellent local initiatives which, if scaled on a county-wide basis and viewed through a lens of inclusivity and plurality, could help meet the demands of many people in the county who feel underserved by culture. 
+There is a role for a new Cultural Partnership to ensure that underrepresented voices are at the centre of commissioning of events and activities at community levels and that there is agency in how culture is platformed and promoted. 
+
+Somerset already has some great examples of the role culture can play in addressing both health & wellbeing and lack of social mobility.
+The strategy will develop existing work of NPOs, Health Trusts and Somerset Integrated Care groups partnerships and Clinical Commissioning Groups (CCGs) around social prescribing, cultural participation and addressing the very different needs of both older people and children and young people, especially those who experience poverty.
+It will don’t best practice from groups such as SEED and Young Somerset to address lack of social mobility among young people: the role culture can play in rural and social isolation is integral in Somerset and can and should address all age groups. 
+Place: A Greener, More Sustainable Somerset 
+Production: A Flourishing and Resilient Somerset 
+Culture as a guardian of natural heritage: Somerset’s diverse landscapes are a key feature of its cultural environment: as a creative inspiration, as a cultural destination and as backdrop for outdoor work. Culture has a role to play in preserving and promoting new and inclusive ways to enjoy natural heritage, both through place-based strategies which reflect opportunities to distribute creative workspace in ways which minimise environmental impact and in framing innovative and creative ways to respond to and celebrate the natural environment. 
+
+Addressing the lack of diversity in the cultural sector presents opportunities to increase skills development, including amongst those from more disadvantaged socio-economic backgrounds, improve access to funding and stimulate audience demand for new cultural experiences.
+Creative skills and leadership development is key: the cultural strategy can only truly succeed with a workforce that looks like the communities it serves. Apprenticeships, creative leadership and mentoring schemes can help the sector attract new and more diverse talent whilst building a more representative workforce. 
+
+Addressing equality , diversity and inclusion has cross-cutting benefits for Somerset residents and the cultural sector:
+	•	Increasing investment: Arts Council England’s Investment Principles focus on inclusion and relevance. Their research shows that supporting development of a diverse workforce stimulates production of more relevant and resonant work for wider audiences from across the county and beyond. Embracing those principles can help Somerset win a larger share of public investment: the recent round of Developing Your Creative Practice awards saw more diverse artists win funding and the award of National Portfolio Organisation status to five new Somerset companies shows ACE’s commitment to inclusion. 
+	•	Audience development: existing networks for engagement around diversity are fragmented but this doesn’t mean that the talent and demand for diverse content is insignificant – this is a market opportunity for Somerset’s cultural sector to address. Promoting diversity recognises the value of the county’s rurality: events in rural areas and rural touring are essential in terms of equality and access, and this also applies to developing workforce in those areas. 
+	•	Addressing digital inclusion: the Covid-19 pandemic disrupted models of cultural production and saw artists and creative organisations adapt to new models of digital delivery. The County’s continuing investment in digital infrastructure and addressing digital poverty can help drive experimentation and innovation in digital art forms and improve engagement amongst new audiences and those unable to travel. Investment in infrastructure is complemented by helping artists access the skills and platforms needed to support digital and multi modal distribution and using the prospect of access to a range of digital cultural experiences to encourage residents to develop digital skills. 
+	•	The decline in public transport was one of the key factors cited as a barrier to cultural engagement and participation in Somerset. With younger people – including visitors – more likely to access public transport, this represents an opportunity for transport plans around cultural events to encourage behaviour change around public transport.
+	•	
+	•	Place
+Existing cultural assets 
+The value of place and placemaking provide the canvas for which an area can grow. Those values are embodied in Somerset’s diverse and rich ecology of urban, rural and natural assets. With no single metropolitan centre, the importance of establishing the potential of a distributed model of sustainability and vibrancy is critical in informing the starting point for a new cultural strategy. Therefore, the strategy takes a wider view of what constitutes a cultural asset, including arts, culture, built and natural heritage, festivals, venues, libraries and museums. We comment in more detail on some of these below. 
+Libraries
+Somerset’s county library service retains a presence in communities across the county, operating across 19 core sites and 13 community library partnerships. The service has assumed an increased importance in Somerset at a time when many other local authorities have actively divested their library portfolio. Here, libraries play a significant role as both cultural and community hubs, offering a much wider range of services: not just exhibition space and access to computers, but a specialist Performing Arts Library offering resources and advice for music and drama study, recreation and performance, business support and access to health and wellbeing services.
+Museums 
+There are over 50 museums and heritage organisations/attractions within Somerset, and of these 25 are within the Arts Council England’s Museum Accreditation scheme. Almost every town in Somerset has a museum, almost always entirely run by volunteers, and with collections specifically from their town and surrounding parishes, including nine accredited by Arts Council England.  
+All are run by charitable trusts, and largely run by volunteers. Many of these are classed as micro-museums by Museum Development UK (i.e., fewer than 10,000 visits per annum); only two of these are in receipt of regular funding by a local authority (Wells and Mendip Museum receives funding to look after the Wells City Archive and Blake Museum in Bridgwater is funded by the Town Council).  
+Several of these museums offer resources and sessions for local schools, and some have developed a strong learning offer, receiving repeat visits from local primary schools. Many offer family activities.
+In addition, Southwest Heritage Trust (SWHT) manages Somerset County Council collections and museum sites, as well as the county archives, and 400 acres of historic landscapes owned by the county. It is funded largely by the County Council. SWHT became an ACE NPO in 2023. 
+Venues
+Somerset enjoys a diverse range of cultural venues, each of which plays an important role as a hub for professional development and community identity:
+	•	Commercial theatres including the Octagon Theatre in Yeovil, The McMillan Theatre in Bridgwater and Strode Theatre in Street, which present a mix of commissioned and touring work in theatre, music and dance.
+	•	Multi-art form venues including The Brewhouse Theatre and Tacchi-Morris Arts Centre in Taunton and Frome’s Merlin Theatre, with its mix of live performance, film and workshops.
+	•	Galleries for visual arts and making ranging from Hauser & Wirth in Bruton, part of a large international franchise offering support to Somerset makers, contemporary visual arts and crafts galleries such as  Black Swan Arts in Frome and East Quay in Watchet whose studio and exhibition space play a major role in local regeneration.
+	•	Independent music venues and performing arts centres including The Cheese and Grain, Frome and the David Hall in South Petherton.
+Rural Touring venues 
+Somerset’s cultural ecology is a distinctive blend of formal and informal structures. Rural touring is an essential ingredient in Somerset’s rich cultural mix. It provides opportunities for audiences of all ages and backgrounds in all parts of the county to experience new professional work at affordable prices. Take Art has operated a rural touring programme in Somerset since 1987; it continuing role as an NPO and ACE’s investment in two new touring theatre companies for Somerset illustrate the importance of the form.
+Rural touring is about more than just performances, it plays an important part in the social life of small communities, it involves people of all ages and backgrounds, it can be a catalyst for community development.
+(“Only Connect Report” by Francois Matarasso)
+Rural touring has both huge reach and impact. It provides development opportunities for thousands of volunteers, hundreds of communities and volunteer promoters. Whilst supporting the preservation of local venues, including community and church halls, it provides the aspiration for members of rural communities to engage as audience and, participants in work of the highest quality. It should therefore be seen as an essential complement to venue-based production companies and valued as a seed bed for talent.
+The now established pattern of alternating Open Studios and Art Weeks produced by Somerset Art Works achieves a similar end for visual artists: raising their profile, promoting opportunities for collaboration and attracting significant numbers of visitors and spend to the county - “the 2019 Somerset Art Weeks Festival saw over 80,000 visitors engage with art and creativity across 135 venues throughout Somerset.”
+The distribution of touring venues across Somerset is reflected in the presence of “microclusters” of creative businesses in rural areas with no producing venues, such as West Somerset, rural South Somerset and North Mendip. It is a reminder that the creativity of a place stems from its people and can be catalysed by the imaginative combination of a range of assets and resources, not just buildings. 
+Community Arts
+One of the distinctive features of Somerset’s cultural offer is the prevalence of community arts. Community art is a critical element of Somerset’s cultural ecology. Hundreds of smaller arts and voluntary arts organisations across the county are essential to the preservation, retention and development of Somerset’s creative ecology. 
+Participation in community events, as audience, participant or professional facilitator, plays a pivotal role in sustaining and nurturing cultural activity in Somerset and has an influence well beyond its measurable economic impact. For many people, it provides their main engagement with the arts as an audience member; for others, it offers an introduction to the idea of creative employment and a way to develop skills as a volunteer. The social capital and sense of a shared historical and cultural legacy created by community arts finds its expression in forms of artistic expression which reflect Somerset’s distinctive cultural identity, including the Illuminated Carnivals.
+The often-highlighted resilience of arts and culture in Somerset over the last decade, a period when economic shocks have been followed by reduced levels of arts funding in an endless downward spiral, can arguably be attributed to the habits and practice of collaboration and making the most of what is there formed through community art.
+Festivals and events
+The festivals and events sector has potential to meet Somerset’s objectives to create distinctive experiences which build on its unique heritage. Like community arts, festivals and events reside on the boundary of the professional sector and their role in wider society. Somerset holds many festivals and events, ranging from major international attractions such as Glastonbury Festival to the distinctive and community-led Illuminated Carnivals. Together they present the diversity of its communities to wider audiences both from within and beyond the county. 
+We will look to address opportunities to sustain and grow professional and community-led events by maintaining investment in the event programme is important to maintain local provision whilst encouraging development of skills in creative leadership, production skills and technical crew to meet existing demand. Sector specialist business support will address the need for festivals and events organisations to develop capacity, including bringing in more established operators to support and mentor local artists and producers. This could increase employment, leverage inward investment and deliver GVA through a mix of the wider indirect and induced benefits (see Glossary, below) in sector employment and through the visitor economy.
+Natural and Built Heritage
+Landscape and natural heritage are part of Somerset’s distinctive identity and should be a catalyst for attracting arts and heritage visitors. Its diverse mix of rural areas, from Exmoor to the Quantocks through the Somerset Levels to the Mendips and the unique landscape of Cheddar Gorge and the Wookey Hole Caves, with its evidence of human habitation dating back to the Stone Age, is complemented by its of coastal offer.  
+The county also has a noteworthy built heritage asset, ranging from ancient monuments such as Glastonbury Abbey and Glastonbury Tor to Wells Cathedral to the expansive gardens of Hestercombe House. 
+We will promote all of these natural and built heritage assets in promoting Somerset as a green and cultural destination as well as creating content for local communities.  
+
+Existing arts funding
+Local authority funding
+The County Council Music Education Hub has been the most significant beneficiary of public funding, receiving £700k per annum from the Department for Education that is managed by Somerset County Council. 
+Other local authority support includes:
+	•	Somerset West & Taunton Council has regular funding agreements totalling £166,000 per annum to organisations including Taunton Brewhouse, Arts Taunton, Fuse Performance, Hestercombe Gardens Trust and Take Art. In addition, it has provided grant funding to organisations including Actiontrack, Creative Industries Centre CIC, Go Create, Somerset Art Works, Somerset Film, Regal Theatre Minehead, Watchet Live, Dulverton by Starlight, Pride 2022, the Ten Parishes Festival and State of Trust, which delivers The Coleridge Project, which works in schools around Taunton to reeal possibilities of a wider scope in careers in the arts by engaging interest and curiosity in museums as well as revealing vocational pathways into the performing arts as a whole.
+	•	South Somerset District Council has regular funding agreements totalling £19,000 with Take Art, Somerset Art Works. Somerset Film and Actiontrack to support work in the district. It also has a small commissioning pot for new work.
+	•	Somerset County Council has long-term annual funding agreements totalling £54,000 with libraries in Bishops Lydeard, Bruton, Castle Cary, Nether Stowey, North Petherton, Porlock, Somerton, South Petherton, Street and Watchet.
+Other agencies, including Somerset Film, have been successful in getting small project grants for social prescribing  from local authorities. 
+Arts Council England
+The strategy will address the discrepancy between the levels of arts funding received by Somerset and other urban centres across the South West. Somerset has been receiving between half and one-eighth of the per capita investment by Arts Council England afforded to more urban areas:
+
+Table 4  Comparison of ACE funding per capita in urban areas across the South West
+
+City of Bristol
+£23.72
+Plymouth
+£20.15
+Exeter
+£17.27
+West of England Combined Authority
+£13.60
+Bournemouth, Christchurch and Poole
+£10.92
+
+In 2021, Arts Council England (ACE) assessed every local authority in England to determine which areas would become “priority places” for culture. All four of Somerset’s district authorities demonstrated high levels of need for additional investment; but only South Somerset was granted priority place status. 
+As part of local government reorganisation, Somerset Council will assume ownership of the assets and responsibility for the development of the Octagon Theatre. From April 2023, it will become an Arts Council National Portfolio Organisation (NPO) with funding for cultural outreach and education, alongside six other Somerset-based organisations: Contains Art, Somerset Art Works, Somerset Film, South West Heritage Trust, Take Art and Little Bulb Theatre, a touring theatre company new to Somerset which will be working in partnership with the Octagon). This represents an increase of 139% in annual NPO funding to Somerset (from £544,000 to £1.298 million per annum.) 
+ACE also contributed £645,000 in funding for 36 projects by Somerset-based artists in the 2021. 26 out of the 36 received awards of £15,000 and below, eight received awards of between £15,000 and £50,000 and two recipients received National Activity awards under £100,000.
+Major capital investments
+There is a significant public and private sector investment into cultural and heritage infrastructure in Somerset, including:
+	•	Glastonbury Town Deal has secured £23m investment from the Towns Fund  Of this, £3m is allocated to Bridgwater Carnival to provide improved facilities, £9.2m for the restoration of the docks, £1.6m to the restoration of Bridgwater Arts Centre and £0.6m to development of improved premises for Somerset Film (“Engine Room 2.0”).  The Life Factory is allocated £3.43m, part of which is about creating a new industry and preserving craft skills around restoration, making and repair, and £1.77m to the Glastonbury Abbey Piazza.  
+	•	Glastonbury Festival generates over £35m in benefits to the local economy and is  followed each year by a programme of events at Glastonbury Abbey which reinforce its cultural value to residents.
+	•	 A £29m investment in the arts through redevelopment of the Octagon Theatre, backed by new Arts Council England investment to help build audiences and improve outreach through a network of hubs across the South Somerset district.
+Visitor economy 
+Arts and culture have the potential to play a more significant role in projecting Somerset’s cultural identity and driving growth.
+	•	“Attractions/entertainment” (including direct spend on arts and culture) represents 10% of total income from visitors to the county.  The cultural strategy will look to grow this through increased coordination in planning and promotion of Somerset’s offer from both professional companies and community arts. 
+	•	Arts and culture can also help Somerset address the marked seasonality of its visitor economy, especially in staying visitors – its “shoulder seasons” (between the summer peak and Christmas) are very low. This suggests that the county is not fully exploiting the opportunity to drive more traffic to its arts and cultural offering outside those peak seasons.
+	•	The visitor economy is heavily dependent on day trips (91% of visits and 61% of spend). 94% of staying visitors are from the UK; overseas staying visitors spend more per trip (£307 against an average £195 for UK staying visitors). This reflects the trend observed across the UK whereby majority of staying trips are to visit family and friends and thus reducing the accommodation element of that spend. 
+	•	More coordinated planning and promotion of cultural events – identifying a “mosaic” of Creative and Cultural Zones connecting urban centres and rural districts across the county and linking the cultural experience with complementary offers such as food tourism - can help visitors plan itineraries and lead to longer and more lucrative stays.
+
+Table 5  SWOT - Somerset Visitor Economy
+Strengths 
+	•	Somerset’s unique diversity of landscape, history and number of natural heritage attractions. 
+	•	Wells Cathedral, The Bishop’s Palace, Dunster Castle and other built heritage sites. 
+	•	The embodiment of spirituality and mysticism in attractions such as Glastonbury Tor, Wookey Hole Caves and Cheddar Gorge. 
+	•	Food and drink (36%) and shopping (25%) make up the largest elements of visitor expenditure.
+Weaknesses 
+	•	The lack of consistent record taking and measurement of visitor and resident engagement in the arts and culture.
+	•	There is no data on what proportion of visits are motivated by attendance at a cultural event or venue. 
+	•	Seasonality of Somerset’s visitor economy, especially in staying visitors.
+	•	The visitor economy is heavily dependent on day trips (of lower value than staying visitors.)
+	•	No forum through which festivals, venues and visitor attractions can plan an annual calendar or events, or a non-clash diary.
+
+Opportunities 
+	•	As is the trend across the UK, visits to “friends and family” make up most staying trips – an opportunity to capture a larger audience for local cultural offers. 
+	•	The rise and strength of food tourism especially with some of the speciality foods from the area. The inbound market is especially interested in this and coupled with this English heritage could elevate and change the visitor numbers. 
+	•	A joint strategy for a data sharing solution. The options for this range from a single digital platform to a shared list of questions to be used in evaluating impact of local events but either way, it will need full cooperation of local partners and cultural organisations.
+
+Threats
+	•	The seasonality of the visitor economy will make it increasingly difficult for hospitality sectors to invest in attracting, developing and retaining key staff needed to support the visitor economy.
+
+
+	•	
+	•	Production
+The creative sector makes a substantial contribution to Somerset’s economy: we need to recognise this and do our part by protecting it and preserving key cultural assets. We will support its future growth, and Somerset Council will, with partners, improve data capture and evaluation capabilities. Somerset Council will support cultural organisations to leverage investment from other funders. And finally, Somerset Council with its key partners, establish an Advisory Board to strengthen connections across the network. 
+Our priorities for developing creative skills and opportunities for Somerset are:
+	•	To lead the development of a Cultural and Creative Industries (CCI) Investment and support programme which will balance priorities between retention of funding for existing cultural programming and nurturing existing and start-up businesses to ensure that the sector delivers increased economic benefits and opportunities through business growth and job creation.
+	•	To extend creative skills and leadership development – the strategy will amplify cultural & creative education and skills at all levels including careers advice through securing continuing funding from Department for Education for the Music Education Hub. We will work with partners in the county’s schools and FE colleges, and in neighbouring Universities to develop a plan which delivers a right to creative skills education at all ages and increases provision of further and higher education in creative and digital skills.
+	•	To establish a strong, diverse, inclusive and independently led Cultural Advisory board [see page 27]
+	•	To work  together to create a compelling and attractive cultural programme that is both venue and non-venue based, physical and online to preserve, celebrate, nurture and grow other cultural assets of the county, including food and heritage. 
+	•	The appetite for collaborative practice in creating new work by both organisations and freelancers.
+	•	To embed a cultural strategy within the new Council’s policy with placemaking and a sense of engagement with and shared responsibility to communities at its core.
+Cultural & Creative Economy Mapping: Creative Enterprises
+Somerset has a larger population of cultural and creative enterprises – 2,360 in total - than reflected in national statistics. That includes a significant proportion of businesses in the Arts (performing arts, artistic creation, support activities to the performing arts and venue creation) and Film, TV and Music. 
+Some kinds of businesses, such as crafts, visual and performing arts are underrepresented in national statistics. To address this concern, we carried out a separate analysis of ‘active’ businesses at Companies House using Beauhurst as the data source.
+Comparing our analysis of Companies House data with the most recent ONS data (from April 2022) shows some variety, notably:
+	•	595 more active businesses in total - 2,360 against 1,765 (a difference of 34%). This is far more than could be explained by the number of new start-up businesses since 1 April 2022, which we estimate to be 90 businesses.
+	•	Nearly double the number of Film, Television and Music businesses (360 against 190). This inconsistency can be explained in part by the project-based nature of the sector. Some of these businesses will be “special purpose vehicles” created for a single production and may have no employees.
+	•	50% more registered businesses (345 against 230) in the Arts sub-sector, with Companies House shows 150% more active companies in support activities to performing arts (75 versus 30).
+	•	More than double the number of Publishing businesses (175 against 85).
+	•	130 more IT, software, and computer services businesses (775 against 645).
+
+Figure 2  Comparison of IDBR (April 2022) and Companies House data (August 2022)
+
+
+Source: The Fifth Sector analysis of Companies House data, parsed via Beauhurst, August 2022 and IDBR 2022 (figures rounded to prevent disclosure)
+
+
+Creative microclusters
+Clustering of businesses is often an indication of increased shared expertise with resulting benefits in productivity and the ability to attract and retain skilled workforce. This is typically observed in larger urban areas, but The Creative Radar report supports the idea that rural creative industries are expanding through a series of “microclusters” of 50 or more creative firms within a defined location. Postcode analysis of Companies House data suggests that nearly all areas of Somerset (with a minimum population of 10,000) demonstrate existing or developing microcluster. 
+Evidence of the distribution of county-wide urban and rural creative districts informs the recommendation to create cultural and creative zones as the basis for increasing collaboration and investment in the sector. 
+	•	Wells – greatest density of creative businesses and the largest cluster of film, television, video and radio businesses
+	•	Frome – more than 50 arts businesses supported by a diverse venue infrastructure
+	•	Taunton – the largest single cluster of arts businesses and creative services such as architecture, advertising and marketing
+	•	Yeovil – strengths in arts and software (potentially linked to the local aerospace cluster)
+	•	Glastonbury and rural South Somerset demonstrate diversified creative clusters with a growing arts sector
+	•	Bridgwater, Wiveliscombe and Somerton have software-focused microclusters
+	•	Other rural areas, including West Somerset and North Mendip, demonstrate evidence of microclustering as strong as that in larger towns with established cultural venues. 
+
+
+Creative workforce
+The creative workforce of Somerset numbers around 9,500 individuals - 92% greater than that shown in national statistics. However, evidence from consultation suggests that even this figure underestimates a far wider population who engage in some form of art or creativity for their own enjoyment and as a contribution to community events. 
+
+Figure 3  Creative employment in Somerset by creative supply chain (see Glossary for definitions)
+
+Source: The Fifth Sector/Curator Technologies analysis of LinkedIn, August 2022
+
+Provision of creative skills 
+Education and skills: The importance of creative and cultural education in Somerset 
+The cultural and creative sectors demonstrate an increasing need for a mix of technical and creative skills. It is therefore not surprising that the creative economy has a qualification and skills structure far more geared towards high level qualifications. Nationally, 67% of the workforce is equipped with qualifications from higher education, while only 16% have qualifications at level 2 or below (low skills). Somerset reflects this national image and has a highly qualified creative workforce, with 65% educated to degree level and 12% with qualifications at level 2 or lower. 
+Analysis of creative skills training across Somerset identifies 158 courses, the overwhelming majority of which are at FE level. There are an additional 535 courses available in a wider Travel to Work Area (including Exeter, Weston-Super-Mare, Bristol, Bath and Bournemouth). 
+This suggests that Somerset is relatively well equipped to deliver a range of creative and cultural qualifications but there is room for improvement. 
+	•	The lack of undergraduate and postgraduate provision is a barrier to developing, attracting and retaining talent and has implications for diversity, inclusion, social mobility and economic growth.
+	•	Continuing Professional Development (CPD) is mostly “hobby-type courses” – e.g., “introduction to” type courses such as the “Painting for Fun” courses at Strode College. Although Taunton and Bridgewater College do have a range of accredited Adult Learning courses around sewing, painting, dressmaking, ceramics etc.
+	•	FE and HE are not delivering any CPD for creative businesses – there is an opportunity to extend the range of courses for businesses (for example “Smartphone Photography for your Creative Business” at Bridgewater and Taunton College).
+	•	FE is covering all 5 pathways well although there are opportunities to develop more creative/technical fusion courses to align with the future skills needs. 
+	•	Creative Originals (craft and maker skills) is well catered for at all levels, and there is good provision of Creative Content skills (audio visual content). 
+	•	There is an opportunity to concentrate on Creative Services (consider more digital graphic design and visualisation aligned to future business needs) and Creative Experiences (consider event management courses due to the opportunities that the high preponderance of carnivals and festivals in the region offer).
+	•	There is a lack of apprenticeships and T-level provision. This is common throughout England due to a lack of pathways and the funding structures of apprenticeships which are currently difficult to deliver by SMEs in the creative/cultural sectors. New T-levels coming on board in September 2023 could provide better access routes into the sector. 
+	•	There are some interesting T-level “transition” courses (i.e.: prep for T-levels) at Yeovil and Strode Colleges. 
+
+
+
+Cultural ecology
+
+In 2015, John Holden published The Ecology of Culture (Holden, 2015). Commissioned by the AHRC’s Cultural Value Project, the report explored the ecology of culture: 
+“The complex interdependencies that shape the demand for and production of arts and cultural offerings.” 
+Holden asserted that, “the ecology of culture could be conceived as three highly interactive spheres: publicly funded culture, commercial culture and homemade culture.”
+Holden’s findings and recommendations are particularly relevant to a rural county such as Somerset. Culture can be looked at as an economy (of supply and demand, of workforce and consumption) – and this is typically how it is assessed in metropolitan and urban areas, where the mass effects of clustering are more easily observed and measured. 
+Holden found that, 
+“Treating culture as an ecology brings the qualitative into consideration as much as the quantitative,” 
+and this approach seems particularly resonant with the establishment of the County and the unitary authority. A purely economic analysis risks falling short of presenting the true value of culture to a rural county where non-monetary measures – the importance of social value and the preservation and celebration of natural heritage – make a significant contribution to identity and wellbeing. 
+This is even more the case in an era of diminishing financial resources, where a strategic approach needs to properly value collaboration and shared social value. 
+In this respect, Somerset’s cultural ecology is more like that of small UK nations than urban metropolitan cities.
+
+
+
+Cultural sector survey
+An online survey for “cultural practitioners” - artists, makers, musicians, performers, producers, venue managers, heritage organisations – was carried out to inform an overview of the cultural ecology of Somerset.
+A national system which promotes competition for funding and resource has had a negative impact on the ability of artists and organisations to build capacity and invest in long term development. But whilst funding is always identified as a primary need, many artists and organisations placed equal importance on collaboration as a way to both share scarce resource and stimulate new ideas.
+The strategy identifies and reinforces the ways in which pooling resources – skills development, platforms for production and clearly identified cultural and creative zones to promote collaboration – can add to the benefits of bringing together funding and best practice from the five previous local authorities in the new Somerset Council. 
+With so many freelancers in Somerset working within educational or community contexts the opportunity to develop new work in these areas serves both to attract new audiences and help the Council identify new, economical and effective ideas to deliver key services. 
+Free text responses to the question, “What would assist you?” included:
+	•	“A very strong diverse and inclusive Cultural Strategy Group/Board, which includes an education strand, within the new Unitary Authority which drives action and change and raises the profile of culture and activity across the County. Also, a Youth Cultural Group which is valued and feeds ideas into this.”
+	•	“Somerset's arts and cultural sector is in serious need of levelling up between areas of strong provision (and coincidentally? higher engagement) and those areas without it…”
+	•	“I hope there can be varied opportunities in Somerset. Growing up, peers and I believed you were only going to be successful and work in the arts industry if you moved to London or big cities.”
+	•	Local authorities – including Somerset – continue to face reductions in funding from central Government. Although the new Council has an important role to play in setting strategy and framing the ambition for Somerset’s cultural sector it cannot – and should not – be seen as the sole, or even the main funder for arts and cultural activity. Therefore, the strategy includes a recommendation to seed to development of a Cultural Advisory Board which can, over time, work with partners from across arts, culture, education, public and private sectors to assume greater responsibility for attracting the investment needed by the sector.
+
+
+Some specific needs identified include:
+
+Table 6  Needs identified through online survey of cultural practitioners
+Facilitating workspaces and collaboration
+Co-working spaces create an opportunity for creative businesses to collaborate, which can bring about greater gains in productivity across a cluster than focusing on individual business growth. Such spaces can also provide an inclusive environment for communities and audiences to engage with cultural development in the county ensuring a more collaborative and diverse offer.
+Governance and collaboration
+Viewing culture in Somerset as an ecosystem underpins the need for more county wide sector networks and augmenting the roles of existing networks who responded to the survey and ensuring there are country wide networks that support collaboration, sector development and leadership.
+Somerset boasts award winning productions and responds to the remoteness and rurality of the area, with touring work which is essential for rural audiences.
+This however could exclude a dynamic ecology, missing out on nurturing of a thriving creative economy and thus leads to missing out on engagement with a post pandemic audience. We see that the sector that is adapting to new ways of working and consuming culture. The continuing recovery of audiences from the pandemic coupled with the cost-of-living crisis makes for a difficult environment for culture as regards priorities.
+Retaining and attracting talent
+With tourism and culture playing a significant role within the new council’s priorities this is an opportunity to grow the home-grown talent as well as attracting back those who have received training in Somerset with the expectation of not finding work locally.
+New ways of working and technological collaboration
+This also can explore the unfairness of digital engagement, and the issues with rural poverty and isolation to produce cultural working that can span the urban centres and the rural hinterlands.
+
+A more inclusive view of cultural ecology
+There is an opportunity to couple geographical assets of the county and the role food culture plays, landscape and food coupled with the new investment (£754,000 per annum) from Arts Council in the National Portfolio can stimulate the ecology.
+
+
+Recommendation: Cultural Advisory Board for Somerset
+
+What
+	•	A delivery vehicle for cultural development in Somerset.
+	•	An independent body set up with support from Somerset Council and Arts Council with representation from arts, public, private and third sectors.
+	•	Potential to evolve into a registered charity with charitable aims and governance.
+	•	A mechanism to help deliver the objectives of the Cultural Strategy.
+
+Why
+	•	To provide leadership for the cultural sector on key strategic objectives.
+	•	To give arts, creative industries and cultural businesses a voice in placemaking, building on the momentum of creative regeneration in Somerset.
+	•	To support Somerset’s varied communities (especially the least culturally engaged) to nurture, express and develop their cultural identity and celebrate these together.
+	•	To support and where needed lead on bids for the cultural and creative community.
+
+How
+	•	Task and finish groups to support the establishment and delivery of ‘Cultural and Creative Zones’ in rural and urban areas across Somerset and ensure sharing of knowledge and best practice between them.
+	•	Curating and maintaining networks and digital platforms to support artists, creative businesses and cultural organisations to come together and collaborate.
+	•	Working with educational partners to inform development of new provision for creative skills and leadership development.
+	•	Development of better relationships between cultural partners and business sectors, including food and hospitality, to optimise local investment in culture.
+	•	Collaborating with ACE and other arms-length bodies to help develop joint bids for funding for arts, culture and heritage.
+	•	Secure and manage relationships with other rural creative regions in UK and globally for cultural exchange.
+
+
+	•	
+	•	
+	•	Economic impact
+
+Arts, culture and creative industries make a combined contribution of £616 million to Somerset’s economy.  
+Direct output
+We estimate direct GVA of Somerset’s cultural and creative industries at £492 million:
+
+Table 7  Estimate of Somerset's Cultural and Creative Industries direct GVA - all employment, June 2022
+Sector
+GVA (£ ,000)
+Advertising and marketing
+ 141,772 
+Architecture
+ 16,927 
+Arts
+ 38,338 
+Crafts
+ 94,530 
+Design and Designer Fashion
+ 30,946 
+Film, TV and Music
+ 66,248 
+IT, software and computer services
+ 54,648 
+Photography
+ 6,190 
+Publishing
+ 40,272 
+Libraries and archives
+ 196 
+Museums and galleries
+ 2,268 
+Total
+ 492,336 
+
+
+This highlights both the significance of arts, culture and the creative industries to Somerset’s economy and the different make up of those sectors from those found in urban areas. Three sectors: Advertising and marketing, Crafts and Film and television, are larger than the IT, software and computer services sector which is typically the largest and most productive of the creative industries in an urban context.
+
+Indirect and induced outputs
+Investment in arts and culture has both direct and indirect benefits to the economy.
+Analysis carried out for ACE and DCMS showed that for every 1 FTE worker directly employed by the arts and culture industry, a further 0.62 FTE jobs are supported through indirect effects and an additional 0.84 FTE jobs are supported through induced impacts.  This implies that for every 1 FTE worker directly employed in arts and culture, a total footprint of 2.46 FTE workers is supported in the wider economy.
+The arts & culture industry represents 26% of all creative businesses in Somerset and 34% of the creative workforce – 615 businesses and 3,220 individuals. 
+Applying Cebr’s analysis leads to an estimated combined GVA for arts & culture of £208.9 million (£84.9m direct, £52.6m indirect and £71.3m induced). 
+Combining those estimates gives a total of direct, indirect and induced GVA for Somerset’s Cultural and Creative Industries of £616 million:
+	•	£492.3 million direct benefits from turnover and employment in the sector
+	•	£52.6 million indirect benefits from turnover and employment in the supply chain
+	•	£71.3m induced benefits from increased spending in the wider economy
+Measures of economic impact alone do not reflect the full value of Somerset’s rich and diverse cultural ecology – in particular, the importance of social value and the preservation and celebration of natural heritage – and their significant contribution to identity and wellbeing. The proposal to connect creative industries development and visitor economy promotion through a mosaic of urban and rural Cultural and Creative Zones reflects the complementary values of arts, culture and heritage.
+
+Crafts
+Data for the Crafts sector in Somerset is a complete outlier from that we have found for any other area in England. Analysis of employment and output suggest that crafts is the second largest contributor of all creative sectors to Somerset’s economy, with 1,335 individual makers generating £94.5 million in GVA – approximately the same as IT, software and computer services and Publishing combined. 
+Whilst recognised in programmes such as Hauser & Worth’s Make Gallery, crafts activity in Somerset represents an untold story and an underutilised asset for development and promotion of both the creative and the visitor economy.
+
+Crafts
+Data for the Crafts sector in Somerset is a complete outlier from that we have found for any other area in England. Analysis of employment and output suggest that crafts is the second largest contributor of all creative sectors to Somerset’s economy, with 1,335 individual makers generating £94.5 million in GVA – approximately the same as IT, software and computer services and Publishing combined. 
+Whilst recognised in programmes such as Hauser & Worth’s Make Gallery, crafts activity in Somerset represents an untold story and an underutilised asset for development and promotion of both the creative and the visitor economy.
+
+
+
+
+Appendix 1: Theory of Change
+Table 8  Theory of Change
+VISION
+A new Cultural Strategy for Somerset, preserving, celebrating, nurturing and growing cultural activity, self-expression and development for all residents.
+AIMS
+A Fairer Somerset
+A Healthy and Caring Somerset
+Create a flourishing and resilient county
+A Greener, more sustainable Somerset
+LONG-TERM IMPACTS
+(5+ years)
+An inclusive cultural offer for all our residents reflected in greater sustainability for Somerset’s cultural organisations through increased revenue from direct income and funding.
+Diversity and representation in producers and audiences reflects Somerset’s population.
+Culture helps people live full and healthy lives if they are able.
+Measurable improvement in health outcomes from social prescribing.
+Drawn by the prospect of well-paid jobs and skills development opportunities, young people stay in the county and established creative professionals return to Somerset.
+Cultural and Creative Zones in urban and rural districts across the county provide capacity for economic and social growth through arts and creative industries and promote growth of cultural tourism.
+Arts and culture make a positive contribution to behaviour change needed to address climate emergency and net zero targets.
+Collaboration between local authorities, arts, culture, built and natural heritage make Somerset an exemplar in sustainable placemaking in rural communities.
+MEDIUM-TERM OUTCOMES
+(3-5 years)
+Greater coordination and better communication improve access to leisure facilities, cultural experiences, open spaces, and social opportunities.
+Increased opportunities for people from all communities, including those with protected characteristics, to see themselves reflected in the cultural offer.
+Support carers and volunteers through the arts.
+Maintain and grow existing levels of social prescribing.
+Scale best practice from local pilot projects to sustained county-wide programmes in reference to Octagon NPO. 
+Strengthen Somerset’s Place proposition.
+Measurable increases in jobs, employment (including freelance and self-employed) and GVA (direct, indirect and induced) across creative and visitor economy.
+New investment in cultural assets and placemaking (including public art) across rural and urban settings.
+
+
+
+Cultural Compact becomes fully independent and a net contributor to budgets for arts and culture.
+New creative venues and attractions.
+Sustainable small-scale rural venues and attractions.
+Increase funding levered in through grants and trusts.
+Improved access to higher education and CPD.
+Increased use of public transport and reduced use of private cars.
+
+SHORT-TERM OUTPUTS
+(1-2 years)
+Improved coordination and planning of culture across Communities and other Council Directorates.
+Amplify the role of arts and culture in wellbeing.
+
+Promote Somerset as a unique rural destination on the national and local stage.
+
+
+
+
+Establish Cultural Compact for Somerset.
+Establish Cultural and Creative Zones (“30-minute County”).
+Active travel plans to improve awareness of and access to cultural opportunities.
+ACTIVITIES
+
+Adopt Cultural Strategy findings and recommendations.
+Develop a Communications Plan to include the diversity of Somerset’s cultural offer
+Work through libraries, arts organisations and local groups to influence the type of services that are available in each community, so they best match local needs.
+Preserve funding for existing social prescribing and develop framework and training for local care commissioners.
+
+Shared intelligence and evaluation framework for arts and cultural activity of all kinds.
+
+
+
+CCI investment and support programme (programming of events and touring, business support, skills and creative R&D) based on audit of cultural funding across all “legacy” Council departments to set a baseline for future funding.
+Maintain arts development support and collaborative network development across the county.
+Amplify arts and cultural education and skills at all levels, including securing reinvestment in Music Education Hub.
+Identify opportunities to bid for new funds for creative sector and skills development.
+Promote Somerset’s Green, sustainable and resilient environment.
+Support the development of a new Visitor Economy strategy, which emphasises the tole of culture and the public realm and promotes green tourism.
+Council to develop evaluation framework and survey for cultural tourism.
+Council and Cultural Partnership to identify opportunities to bid for new funds for creative placemaking.
+THEMES
+Place
+People
+People
+People
+Place
+Production
+Place
+CHALLENGES
+Embedding equality, diversity and inclusion in all services.
+Access to leisure facilities, cultural experiences, open spaces, and social opportunities.
+Maintaining cultural provision including local events and rural touring.
+Lack of social mobility exacerbates unequal access to and participation in culture.
+
+
+Ageing population.
+Rurality and physical isolation exacerbate mental health problems and impose additional cost of service delivery.
+Limited information about benefits of arts and culture in health & wellbeing results in lack of sustained investment.
+
+Reducing funds to local government forces funding decisions based on “tough choices” not strategy for growth.
+Lack of a university.
+Unequal educational outcomes.
+Skills gaps and shortages.
+Arts and cultural organisations are under-capitalised.
+Retain and attract talent.
+Making celebrated natural heritage known and accessible to everyone.
+Rural county over-dependent on private transport – need to improve physical and digital connectivity.
+Retain biodiversity and address environmental sustainability in face of threats from climate emergency.
+Increase investment in creative placemaking (including public art).
+[Aligns with]
+ACE Let’s Create outcomes
+Cultural Communities
+Creative People
+Cultural Communities
+Creative People
+
+Cultural Communities
+A Cultural and Creative Country
+Cultural Communities
+Levelling Up Missions
+1. Living standards
+
+1. Living standards
+
+
+
+
+2. R&D activity
+
+
+3. Transport infrastructure
+4. Digital Connectivity
+
+
+3. Transport infrastructure
+4. Digital Connectivity
+
+
+
+5. Education
+6. Skills
+
+
+
+7. Health
+8. Wellbeing
+
+
+
+9. Pride in Place
+
+Appendix 2: Glossary
+Artist: person who creates art or culture: for example, a painter, writer, singer, musician, dancer.
+The arts: refers to the wider arts and cultural sectors including arts and or cultural organisations, venues (music, theatre, visual arts, comedy, film etc), artists, producers, and freelancers. It covers the range from those who create content to those who distribute it and show it.
+ACE: Arts Council England, an arms-length body of the Department of Digital, Culture, Media & Sport with a duty for development of arts and culture in England.
+Community arts: artistic activity that is based in a community setting (which can be geographical communities or communities characterised for example, by ethnicity, gender, age, or sexuality), characterised by interaction or dialogue with the community and often involving a professional artist collaborating with people who may not otherwise engage in the arts.
+Creative arts: Using creativity as a means of expressing emotion or conveying an idea. Through the medium of paint, film, theatre, photography or sculpture.
+Creative education: provision of education services (both formal as regards courses and curriculum-based learning) and informal such as workshops and drop-in sessions. Can range from any age.
+Creative industries: business in the commercial sector who provide creative services such as graphic design, web design, marketing and advertising, games development, and other digital service – also a blanket term to include arts and cultural organisations (also CCI: Cultural and Creative Industries).
+Creative practitioners/creatives: people who provide either cultural and/or creative services or produce cultural product.
+Creative supply chains: analysis of the business base, workforce and the supply of skills and education is linked by the concept of creative supply chains, made up of the following industries and activities: 
+	•	Creative content: businesses which make a living through creation and exploitation of intellectual property in new creative works such as film, television, recorded music, animation, computer games and publishing. 
+	•	Creative experiences: sectors in which the primary means of delivery is in person. Including theatre, dance, live music, performance, festivals, events, libraries, museums and galleries. 
+	•	Creative originals: creation of original physical artefacts, including fine and visual arts, crafts, “making”, fashion design and photography. 
+	•	Creative services: professional services with a significant creative element, including advertising, marketing, architecture, graphic design, cultural education and translation services. 
+	•	Digital creative: computer-related services which utilise the creative skills of software development and coding but whose output is typically in other sectors (eg, business software development, computer consultancy, fintech). This excludes both computer games, augmented and virtual reality, which are identified within creative content. Computer security and “hardware” elements of the IT supply chain (telecoms, data centers, supply of computer equipment).  
+Culture: can refer to a broader sense of culture as people and how they do things. The consultation process did not dictate a definition of culture, so as not to exclude people who view culture beyond the formal definitions that the cultural sector relates to. In the context of this strategy, its use refers to cultural product; culture that has been produced including but not exclusively, music, theatre, film, visual art, poetry. 
+Cultural activity: the act of taking part in culture: going to the theatre, to see a band or orchestra, to watch a film, visit a gallery, attend a Carnival etc.
+Cultural organisations: a structure that can range from 1-2 employees or freelancers to many employees who produce and support culture, including the creation of, distribution of, and showcasing of. This can be venues such as theatres, cinemas, music venues, comedy clubs and art galleries but also non-venue-based organisations such as community arts organisations, producers, outdoor arts companies, festival companies and business Some may be formally constituted as charities, CICs, CIOS, limited companies or partnerships and some may be informally convened. Some may be core funded through public bodies such as Arts Council England and others may be funded on a project-by-project basis whilst others might have a model of all of these as well as ticketed income from box office or fees. Can also be referred to as an arts organisation.
+Direct economic impact: the direct impacts of cultural and creative industries employment (whether permanent, self-employed or freelance) in terms of increased turnover and earnings.
+Indirect economic impact: supply chain linkage effects from arts and culture, eg, the economic impact of consumption of accommodation, food and transport which results from attendance at arts and cultural events.
+Induced economic impact the economic impact of increased spending in the local economy from increased personal income which is a result of the direct and indirect benefits.
+Natural Heritage: Natural features, geographical and physiological formations. Plants and natural sites of value from the point of view of science, conservation and natural beauty. 
+NPO: abbreviation of National Portfolio Organisation. Cultural organisations who received core funding from Arts Council England, usually on a three-year basis.  
+Outdoor arts: culture produced in outdoor settings such as Festivals, Carnival, Mela and other work like sculpture or visual art in the public realm. (In towns, rural areas etc).
+Producer: a person who helps produce culture for example a theatre producer, a festival producer, or a carnival producer (roles can include project management, fund raising as well as other creative roles).
+Theory of Change: A comprehensive description and illustration of how and why a desired change is expected to happen in a particular context. 
+World Café: a consultation format which makes use of an informal café set up for participants to explore an issue by discussing it in small groups. Discussions are held in multiple rounds, with participants moving around between rounds.
+

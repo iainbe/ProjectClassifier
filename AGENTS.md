@@ -157,3 +157,26 @@ Before completing any QA batch, run ALL of these checks:
 11. **Conflation check**: claim geography vs project geography — flag mismatches that aren't comparators
 12. **Strong causal verbs in non-EFFECT claims**: scan for "caused", "enabled", "instrumental", "catalysed" in CONTEXT/DESIGN claims; review semantically (some are descriptive, not causal)
 13. **Sources with empty project_id**: verify these are tender pipeline items, not missing assignments
+
+## Live-work capture rules
+
+### Bid submission trigger
+When informed a bid was submitted: copy `bid_submission_record_template.md` to `bid_records/TND-YYYY-NNN_<name>.md` and ask for any empty fields in sections 1-4 — especially `fifth_sector_contribution` (specific sections/frameworks, never generic "bid support") and `interview_involvement`. Add row to `08_tenders.csv`. See `register_update_workflow.md`.
+
+### Bid outcome trigger
+On any outcome mention: complete record section 5. Always establish `stage_reached` (highest stage, not just final result) and `notification_type` — never infer "failed" from "not awarded". Then run the section 6 register checklist.
+
+### Project confirmation trigger
+When a project is confirmed: copy `project_management_record_template.md` to `project_records/PXX-<name>_pm.md` and ask for empty fields in sections 1-3 — especially `contracting_role` (the ARRANGEMENT, not ownership), named contributors, and `reference_permission` (prompt Iain to ask the client at kickoff). Add register row + provisional index card.
+
+### Milestone trigger
+At each milestone mention: append a Milestone section to the PM record. Ask the section-5 prompts — `spillover_observed` (with source) and `problems` (record rejections as they happen).
+
+### Schema-drift rule
+Before ANY CSV edit: verify field count AND positional semantics against the header. Right column count ≠ right values — check 2-3 existing rows first. (Pass 4 repair lesson.)
+
+### Stale-artefact rule
+After card or register changes: regenerate `project_index.csv`.
+
+### Repo sync
+Canonical = this Drive folder. `ProjectClassifier/` repo is the versioned mirror — sync after register-changing sessions, commit with the trigger named, push only when asked.

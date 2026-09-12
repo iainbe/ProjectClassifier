@@ -1,0 +1,270 @@
+WAKEFIELD SKILLS NEEDS ASSESSMENT – Interim report, December 2024
+Executive Summary 
+This interim report provides an overview of the creative skills landscape in Wakefield and West Yorkshire, highlighting key challenges, opportunities, and recommendations for future action. The creative industries are a vital part of the UK economy, but skills shortages and precarity of freelance working across the sector pose a significant threat to the sector's resilience and future growth, particularly in jobs requiring a mix of creative and technical skills.
+In West Yorkshire and Wakefield, the analysis identified five key areas of need: 
+	•	Creative and technical skills development
+	•	Professional development and mentorship
+	•	Network building and collaboration
+	•	Funding and financial skills
+	•	Leadership and mindset shifts
+The report also highlights the potential to further develop apprenticeships and the need to enhance career awareness among young people.
+An audit of skills provision in Wakefield and Pontefract revealed growth in course offerings since 2022, with the biggest increases in Creative Experiences and Creative Content. However, there is a clear lack of apprenticeships in the sector. The Xcellerator Programme, designed to address barriers to sustainable growth for creative businesses in Wakefield, identified mindset barriers, financial barriers, and practical knowledge and skills gaps as key challenges.
+The film and television sector has experienced considerable volatility, with increasing demand for original content from streaming platforms leading to more production activity across the UK. However, much of this investment remains focused in London and the South East, while reduced revenues from television advertising and a freeze in the BBC licence fee put pressure on production budgets in UK Public Sector Broadcasters (PSBs). The games and interactive media sector is also undergoing a transition from the traditional publishing model to a more diverse ecosystem that includes independent developers.
+Employer engagement highlighted difficulties in recruiting talent with relevant skills, the need for continuous skills development, and the importance of collaboration with educational institutions. Suggested actions include:
+	•	Enhancing business networks
+	•	Improving tender processes
+	•	Fostering stronger partnerships with educational institutions
+	•	Promoting non-graduate routes into the sector
+
+1.Creative skills national overview 
+The creative industries are the UK’s fastest growing sector, with one in 11 jobs in the creative economy. Worth £87.4bn to the economy - more than oil and gas, automotive, aerospace and life sciences combined and growing at twice the rate of the wider economy.
+However, skills shortages are the biggest issue facing the sector particularly in jobs that need a mix of creative and technical skills, such as graphic design and visual effects. These skills are often referred to as ‘createch’ skills. In fact, engineering and creative industries jobs make up more than half of those on the government’s official ‘shortage occupation list’. DCMS Sector Skills Shortages and Skills Gaps: 2022, UK
+These skills gaps stem from a mix of several factors , including:
+	•	Inadequate provision at schools, 
+	•	An underdeveloped technical education system including apprenticeships
+	•	A lack of awareness about careers that the sector has to offer
+There is evidence that demand for skills in not being met by participation in creative learning. A recent Creative Industries Policy and Evidence Centre (Creative PEC) report  shows a  severe drop ( 57%) in participation with creative FE enrolments declining at a faster rate than average across all subject disciplines. Creative Further Education in the four UK nations: 2024
+The research also reveals very low take up creative industries apprenticeships across all four nations. Whilst UK governments have indicated an expansion in apprenticeships will help tackle barriers to opportunity, the data points to the scale of the challenge with take up starting from a very low levels in creative arts and design. The share of all apprentices aligned to the creative industries range between 1.7% (Wales) and 8.7% (England). The apprenticeships picture is dominated by information and communications technology (ICT) meaning that apprenticeship numbers in other creative disciplines (e.g. creative arts and design) are very low.
+In addition, there is a huge socio-economic disparity in terms of who works in the sector with working class employees in some sectors such as ‘Film and TV’ making up just 10% of the workforce. 
+2. Skills gaps in West Yorkshire and Wakefield 
+In the summer of 2024, a skills need analysis was carried out with 5 creative networks across West Yorkshire as part of the WY Create programme. 
+A review of documentation provided by network partners gave a detailed analysis of the skills gaps and needs across the creative sectors in Bradford, Calderdale, Kirklees, Leeds, and Wakefield. 
+Analysis highlighted 5 keys areas of needs:
+Creative and Technical Skills Development
+	•	Performing Arts and Music: There is a need for more practical training opportunities like workshops, placements, and work experience in performing arts, along with technical skills in areas such as sound engineering.
+	•	Women in Technical Roles: Efforts are needed to address gender imbalances in technical and production roles, as well as to promote broader participation from underrepresented groups, including British Muslims and those from South Asian backgrounds.
+	•	Early Childhood Education: Specialised early years arts programmes have been impactful and could be expanded, providing creative training for teachers and caregivers.
+Professional Development and Mentorship
+	•	Mentorship Programmes: Both established and emerging creative professionals express a strong need for mentorship, particularly in roles that combine creative and business skills.
+	•	Business Skills: Freelancers and small creative enterprises often lack knowledge in areas like fundraising, business planning, and marketing, leading to limited capacity for sustainable growth.
+Network Building and Collaboration
+	•	Networking Events: Events that bring together producers, artists, and other professionals for networking and collaboration are recommended to address isolation within the creative sector.
+	•	Multi-disciplinary Collaboration: There is an interest in fostering multi-arts collaboration, especially to bridge gaps between traditional arts and high-tech digital creative fields, like VR and AI.
+Funding and Financial Skills
+	•	Grant Writing and Fundraising: Many creatives struggle with writing effective funding applications and understanding funders’ requirements. Training in these areas would benefit the sector significantly.
+	•	Financial Independence and Sustainability: There's a call for financial skills development tailored to freelancers and small enterprises, addressing needs like budgeting, income diversification, and building sustainable business models.
+Leadership and Mindset Shifts
+	•	Leadership Training: Programmes for creative leaders need to address unique challenges, such as leading under budgetary constraints while fostering innovation particularly around exploitation of IP.
+The importance of having the right leaders in place to move Bradford’s cultural ecology forward and position it as an energizer for change has been vital. The JCNA and the Workforce report for the Bradford 2025 bid both identified the need to invest in creating the next generation of leaders in the arts and cultural sector in order to maintain momentum and culture’s position in Bradford’s offer post 2025. Bradford Producing Hub Report June 2023.
+	•	Sector Mindset Shift: Encouraging creatives to view their practices through a business lens (without compromising artistic integrity) could help foster resilience and sustainability within the sector.
+Furthermore, the analysis identified additional areas of development in educational and vocational pathways:
+	•	Apprenticeships and Work Placements: There is potential for stronger industry-academic partnerships, such as creative apprenticeships. Whilst programmes like the Career+ department at Leeds Trinity University are deemed to be successful, there is scope for more to help young people gain hands-on experience.
+	•	Career Awareness: Many young people are unaware of career paths in the creative sector. Enhanced career guidance and exposure to diverse creative professions could encourage broader participation and reduce local talent migration.
+3.	Wakefield skills needs analysis to date (December 2025) 
+Skills Supply 
+An extensive analysis of the skills supply to the Wakefield area was carried out in the spring of 2024. It followed on the previous work in 2022 using the same methodology allowing for a comparison of historical data. 
+The methodology used captured the number of education and private courses delivered in the area across five creative career pathways : 
+	•	Pathway 1 - Creative Originals : arts & crafts, fine art, apparel and fashion
+	•	Pathway 2 - Creative Services: marketing and advertising, photography, architecture & planning, graphic design, product design, design services
+	•	Pathway 3 - Creative Experiences: music, performing arts, museums and institutions, libraries  
+	•	Pathway 4 - Creative Content: computer games, mobile games, publishing, motion pictures & film, broadcast media, animation
+	•	Pathway 5 – Technical, Internet & Information (matched against the new SIC codes covering the sector) : digital technologies including AR and VR, digital skills, coding , software development 
+
+
+
+
+
+
+PATHWAYS 
+CREATIVE ORIGINALS 
+CREATIVE SERVICES 
+CREATIVE EXPERIENCES 
+CREATIVE CONTENT 
+TECHNOLOGY, INTERNET & INFORMATION  
+ 
+ACADEMIC
+9
+7
+25
+18
+7
+66
+TECHNICAL 
+8
+9
+23
+20
+9
+69
+APPRENTICESHIPS 
+0
+0
+0
+0
+0
+0
+CPD
+7
+0
+5
+1
+3
+16
+TOTAL 
+24
+16
+53
+39
+19
+151
+Table1. Audit of skills provision by pathways 2024 Wakefield and Pontefract 
+This research identified growth in the provision of courses ( approx. 38%) since 2022 with the biggest growth Creative Experiences and Creative Content.  
+It highlighted the following changes since 2022 : 
+	•	Wakefield College 35 new courses and 12 dropped . New HNC’s delivering at level 4 with  pathways to level 5 courses. Currently there are good pathways in Creative Media film and TV at levels 1, 2 and 3 and a new range of computing an IT courses. 2024 success rate figures show nine subjects achieved a 100% pass rate at A level including Art, Design & Media, Biology, Chemistry, Economics, English Language and Film Studies,
+	•	Academy of Live Technology –8 new courses (including 3 x 5-week bootcamps)  and new MSc in VP. Also VP accelerator course (£1950 for 3 days).
+	•	Wakefield Girls High school – dropped A level computer science 
+	•	Queen Elizabeth High school has dropped A level art and design and put in A level computer science and Design Tech
+	•	Outward Grange added new A levels in computer science and media studies and dropped A level drama
+	•	Rodillian academy dropped A level art, dance computer games and production arts but has A levels in fine art media studies and computer science. 
+The chart above clearly shows the potential for further development of apprenticeships for the sector. Whilst the lack of apprentices working within the sector is a national issue due to the size and nature of creative businesses, there is some evidence that small businesses are having success hiring an apprentice ( see below) 
+A Creative Apprenticeship Case Study
+Amy Lawrence is a 25-year-old former apprentice now in a full-time position with Feel Created – an award winning digital marketing and web services company based in Nostell in Wakefield. As an illustration graduate from Huddersfield University, Amy faced challenges finding employment after graduation as freelancing, heavily promoted during her studies, didn’t appeal to her. Through her own research, she discovered and applied for apprenticeships via Baltic Apprenticeships, which helped her craft a CV and secure interviews.
+She began her apprenticeship in digital marketing in December 2022, completing it in March 2023. The programme included weekly and monthly training sessions, often online, where she learned various marketing skills such as email marketing, Google Ads, and coding. Despite her overqualification and some training inconsistencies, Amy valued the experience, citing it as more impactful for career growth than university.
+Her employer, Ian Long, highlighted the advantages of hiring Amy, praising her maturity and professionalism, which contrasted with the typical perception of apprenticeships being for younger or less academically inclined individuals. Though managing the training requirements presented challenges for their small business, Ian believed the apprenticeship was ultimately a success and expressed openness to hiring apprentices in the future. Both parties emphasised the benefits of apprenticeships for skill development and career readiness.
+Skills Gaps
+As mentioned above, a skills need analysis was carried out with creative networks across West Yorkshire as part of the WY Create programme. This identified the following gaps and needs for Wakefield: 
+	•	There is a lack of connectivity across traditional and digital arts, and limited support for creative professionals transitioning across sectors.
+	•	Limited funding and support systems are available, which hinders the growth of creative businesses.
+Skills Needs
+	•	Creatives need support in sustainable business model development, brand development, and gathering impact evidence.
+	•	Additional needs include reskilling opportunities for blending analogue and digital skills, and leadership training focused on community impact and resilience.
+	•	A strong call for improved networking, showcasing opportunities, and access to high-quality training and workspace to foster growth in the creative economy.
+To date we have reviewed the following 2024 creative sector skills support activity:
+The Xcellerator Programme was designed to address barriers to sustainable growth for creative businesses in the Wakefield area. The first iteration of the Xcellerator programme focused on addressing two consistently cited development needs: marketing & communications and practical planning & funding. Creative freelancers and organisations expressed the need for support in articulating their offerings, effectively marketing themselves, improving their online presence, and developing strong brands
+Following this first phase of the Xcellerator  programme, extensive evalution was carried out  gathered through 1-2-1 conversations, social media monitoring, email feedback, and surveys. The evaluation identified several challenges faced by creative professionals, grouped into three primary categories:
+Mindset Barriers
+Creative professionals often do not view their work as a business and can be overwhelmed by traditional business language and tools. The  key challenges focus on delivering daily operations over strategic growth, struggling to balance commercial and non-profit priorities, equating quality work with investment readiness, and relying on shrinking public grants. They also tend to undervalue their expertise, face imposter syndrome that limits risk-taking, and prefer working independently rather than fostering partnerships.
+Financial Barriers
+Many cannot afford to take time away from paid work to focus on business planning. Current evidence from the WY Create programme 
+Practical Knowledge and Skills Gaps
+The evaluation highlighted this area as one of the biggest skills gaps . Participants emphsised the need to develop sustainable business models, engage with potential clients, develop funding strategies’ including exploring financial options and enhancing funding applications to secure resources; marketing & branding; and fostering collaborations and partnerships within and beyond the creative industry. In essence, there is a gap in entrepreneurial skills – much needed to deliver business growth. 
+Next Steps- Xcellerator Programme
+The programme aims to evolve over time by addressing these identified challenges, informed by ongoing feedback and sector research and there are plans to run another round of Xcellerator delivering both face-to-face and online session early in 2025 under the WYCreate programme. This delivery will focus on the previously identified needs – support in monetising creative practices, pricing services, and applying for funding.
+WYCreate programme
+‏Funded by WYCA, the programme has been delivering a range of training and skills events since the end of October. A total of 83 people attended 9 events delivered in Huddersfield, Bradford and Leeds. Initial review of those attending indicates 17 (21%) have come from Wakefield district – further evidence of Wakefield participation in the programme will be analysed  and more fully evaluated in Phase 2 of the programme beginning in mid January 2025. 
+Phase 2 will include an iteration of Xcellerator focused on business development and funding opportunities for freelance creative, delivered through a mix of online and in-person sessions.
+Employer engagement 
+Emails were sent to 21 Wakefield employers in September 2024 requesting interviews on skills needs. Response was poor but two employers gave feedback. A trawl with LinkedIn Sales Navigator resulted in a further employer interview. 
+A review of this engagement indicates that there are high levels of acknowledgment that Wakefield has the potential to become a hub for the creative sector but that the creative and tech sectors face barriers in finding specialised talent and leveraging local networks to address these gaps. 
+Interviews highlighted significant challenges in the following :
+Recruitment – This was a common theme. Employers highlighted the difficulty of recruiting the right talent with relevant skills , particularly developers with specialised skill sets.  Some indicated that as their businesses are often small, candidates are often attracted to bigger companies outside the region. Challenges in attracting both clients and talent due to the remote working trend was cited as an issue with remote working remaining a preference. One employer said that having a passion for the business, sometimes cultivated as a hobby, is a more important hiring criteria than formal education.
+Skills development of team members including development of future skills such as AI Technical abilities required for work evolve rapidly, making it difficult to keep up with new technologies. There was an emphasis on the need for continual self-improvement and keeping up-to-date with software and industry changes. Leadership development is also crucial, including formal training and mentorship 
+Collaboration with educational institutions – Employers highlighted the need for better education and training through local colleges and universities. One employer mentioned that while universities teach technical skills, they may not cover the commercial aspects of business. It was acknowledged that the fast-paced nature of their work makes it difficult to mentor students on work placement properly but that structured placement activity with back-up support, such as that at Leeds Trinity University, can help. 
+Suggested actions:
+	•	Enhancing business networks
+	•	Improving tender processes 
+	•	Fostering stronger partnerships with educational institutions
+	•	Promote the value of non-graduate routes into the sector such as apprenticeships and community learning.
+
+ 4. Sector trends
+Film and television
+The film and TV sector has witnessed considerable volatility since 2020, when production was halted for nine months during lockdown. Increasing demand for original content from streaming platforms is leading to more production activity across the UK, but much of this investment remains focused in London and the South East. In contrast, a freeze in the BBC licence fee and reduced revenues from television advertising on commercial channels is putting pressure on production budgets in UK Public Sector Broadcasters (PSBs). This means that freelance work in the sector across the North of England is increasingly precarious, with a 2023 survey carried out by broadcast union BECTU suggesting that as much as three-quarters of the screen industry workforce in the North is unemployed at any one time.
+Production Park, now a ‘hub’ of the national CoSTAR network with a specialism in developing new technology for  live entertainment 
+For Wakefield to capitalise on opportunities whilst sustaining and continuing to develop the skills of the screen workforce, it will be important to develop the local skills base in ‘traditional’ broadcast areas like:
+	•	Film and TV production skills (camera, sound, lighting, etc)
+	•	Post-production and visual effects
+	•	Screenwriting and content development
+	•	Production management
+Production Park’s status provides opportunities for collaboration with the national CoSTAR hub at Pinewood Studios and other innovative broadcast production hubs, including dock10 at MediaCity, to provide CPD for crew who need to upskill to address new opportunities in virtual production technologies, real-time 3D engines and VFX in production and post-production.
+Partnerships between education providers and industry to provide hands-on training opportunities will be key. Attracting productions to film in Wakefield locations can also provide valuable experience for local crew.
+Improving diversity and inclusion is a major challenge for the industry nationwide that needs to be addressed in skills pipelines. Outreach to underrepresented groups should be a priority.
+Games and interactive media
+Volatility in the film and TV sector is matched, if not surpassed, on a global level by that experienced in the videogames sector.
+The videogames industry is transitioning from the traditional publishing model focused on large "AAA" console/PC games to a more diverse ecosystem that includes more independent "triple-i" developers making innovative games on smaller budgets, often for digital distribution.
+Team17 is a major asset for the Wakefield videogames cluster. Under new management following its acquisition in 2022, it has an opportunity to be a leader in this "triple-i" space, leveraging its history of working with top indie talent.
+To support Team17 and enable new games startups to emerge, Wakefield should focus on developing skills in areas like:
+	•	Game design and development (coding, art, animation, audio, etc)
+	•	Innovative technologies like AR/VR, AI and  blockchain
+	•	Games marketing, community management, live operations
+	•	Entrepreneurship and startup skills for founding new studios
+	•	Apprenticeships, internships and graduate recruitment from games-related degree programmes will be important talent pipelines. Game jams and accelerators can foster indie development talent.
+As with film/TV, diversity is a major challenge. Games-focused youth programs in underserved communities could help build a more inclusive talent pool. National industry body Ukie has initiated ‘Raise The Game’, an industry led initiative focused on increasing equality, diversity and inclusion in the sector’s employed and freelance workforce. 
+Cross-sector collaboration with film/TV around technologies like real-time 3D engines, VFX and virtual production could open up new opportunities spanning both industries. Entrepreneurship support and access to finance is also needed to commercialise new ideas.
+Wakefield has opportunities in both the film/TV and games sectors but will need to take a strategic approach to skills and talent development, with an emphasis on industry partnerships, inclusion, and supporting innovation and entrepreneurship. Team17 can be an anchor for the local games ecosystem, but cultivating the wider sector is also important. Cross-sector collaboration around emerging technologies will be important to ensure resilience and sustainable employment in ‘legacy’ sectors whilst providing an increasingly diverse cohort of new entrants with opportunities.
+ 
+Game Republic
+Game Republic has delivered a range of key skills development activities since April 2024. hrough a mix of educational webinars, conference appearances, showcasing emerging talent, and events covering business topics, Game Republic has provided various avenues for game developers in the region to expand their skills and knowledge in 2024. The events have spanned creative, technical and entrepreneurial skills development.
+- An online webinar on IP with Lewis Silkin and GG Insurance covering intellectual property topics relevant for game developers.
+-A new Creative Technologies event in collaboration with Barclays Games and Creative and XR Stories. Included talks, panels and demos on the latest innovations in creative tech for games, film and TV. 
+- A Game Republic Student Showcase, featuring 14 universities, 50 projects and 150 students. This event allowed students to get feedback from industry professionals to develop their skills. Included judges from major studios.
+- A GaMaYo event  with talks on topics like pitching and funding to help developers build business skills alongside the networking.
+Screen Yorkshire
+Since April 2024, Screen Yorkshire has focused on building a diverse and inclusive workforce to support the film industry in Yorkshire and Humber. It is collaborating with industry and educational institutions to deliver innovative programmes that enhance skills and develop talent. Key elements of its skills and talent development initiatives include:
+	•	The Mayor's Script Diversity Programme: This free development lab is designed for underrepresented writers in West Yorkshire who are interested in exploring screenwriting. The programme is currently open for applications.
+	•	Beyond Brontës: Although this scheme is closed until 2025, it offered flexible training with a focus on diversity and inclusion for individuals in West Yorkshire.
+	•	Connected Campus: This initiative collaborates with universities and colleges in Yorkshire and Humber to prepare students for careers in the screen industries.
+	•	BFI Insight Producer Toolkit: A PDF toolkit featuring filmed recordings and advice, inspired by the Insight Producer program, which is aimed at emerging producers on the verge of their debut feature.
+These programmes are designed to empower the workforce and develop a new generation of storytellers in the region.
+
+5.	Skills Needs Assessment - Next Steps
+	•	Develop targeted initiatives to address the identified skills gaps and needs, focusing on creative and technical skills development, professional development and mentorship, network building and collaboration, funding and financial skills, and leadership and mindset shifts.
+	•	Identify and articulate opportunities to attract new funding to support Creative Wakefield to increase its engagement with employers around identified skills gaps and needs.
+	•	Engage more employers, possibly by aligning training sessions with a skills-focused round table as part of the Xcellerator 2 programme.
+	•	Build on existing measures within the Xcellerator programme to develop skills of  freelancers and microbusinesses to address tender opportunities for new work.
+	•	Convene further discussion between industry partners and educational institutions to identify appetite for apprenticeship opportunities and better promotion of career awareness among young people.
+	•	Seek intelligence from Screen Yorkshire and WYCA on further proposals to support the development of a diverse and inclusive workforce in the film and television sector by partnering with initiatives like the Mayor's Script Diversity Programme and Beyond Brontës.; encourage videogames employers to sign the ‘Raise The Game’ pledge to address EDI in the sector.
+	•	Explore the scope to boost cross-sector collaboration between the film/TV and games sectors to capitalise on emerging technologies using existing capacity (e.g., XPLOR, CoSTAR hub at Production Park) to reduce precarity amongst the existing freelance workforce and create new opportunities for talent development and employment.
+	•	Establish capacity of Creative Wakefield to carry out additional work with Game Republic and Ukie to support the growth of the local videogames ecosystem through skills development amongst indie developers, helping them access finance, and promoting entrepreneurship.
+	•	Measure and communicate the impact of community learning, including further evidence gathering around Digital Badges and reporting exact numbers for and highlighting positive feedback from employers regarding the summer s’cool event hosted at Production Park in September 2024 (reported as 130 attendees).
+	•	Continue to monitor and analyse workforce data (e.g., through regular repeated mapping) to identify trends and inform future skills development strategies.
+By implementing these recommendations and working closely with industry stakeholders, educational institutions, and local government, Wakefield and West Yorkshire can address the skills challenges facing the creative sector and position the district and the city region as thriving hubs for creative talent and innovation.
+
+Appendix 1: Updated employee and workforce data
+We have updated our analysis of the creative workforce in Wakefield and West Yorkshire (using LinkedIn as a massive survey sample) to reflect updated ONS data from Business Register and Employment Survey 2023 (BRES 2023), published in November 2024.
+Wakefield Creative Industries
+
+Figure 1  Wakefield Creative Industries workforce, LinkedIn 2023 vs BRES 2020-2023
+
+
+ * Includes BRES employee numbers for SIC 77291 : Renting and leasing of media entertainment equipment, in addition to DCMS Creative Industries SIC, to reflect importance of Production Park
+Source: The Fifth Sector 2024
+Comparison of LinkedIn analysis for 2023 and BRES data 2020-2023 shows:
+	•	Total of employed and freelance/self-employed Creative Industries workforce in LinkedIn - 7,010 – is more than twice that shown in BRES estimates (3,035 in 2023)
+	•	Greatest discrepancy is in Advertising and marketing: 1,870 in Linked in vs 235 in BRES 2023.
+	•	BRES shows significant recovery in number of Creative Industries employees since pandemic, rising from 2,195 in 2020 to 3,080 in 2022 (40%) before falling back slightly in 2023 to 3,035.
+	•	Volatility in Film, TV, video, radio and photography reflects high levels of demand in 2022 when the high end television sector in particular was trying to fill schedules denuded by COVID, followed by disruption caused by US Screen Actors’ Guild and Writers’ strikes in 2023.
+Wakefield Cultural sector
+DCMS uses a smaller set of (mostly overlapping) SIC codes to describe the Cultural sector; some of these provide greater clarity around trends than the wider Creative Industries indices.
+Figure 2 Wakefield Cultural sector workforce, LinkedIn 2023 vs BRES 2020-2023
+
+* Includes BRES employee numbers for SIC 77291 : Renting and leasing of media entertainment equipment, in addition to DCMS Creative Industries SIC, to reflect importance of Production Park
+Source: The Fifth Sector 2024
+Here again we see the importance of freelance and self-employed workers, whose inclusion more than doubles the size of the Cultural workforce (2,230 in LinkedIn against 1,095 in BRES 2023). 
+	•	The post-pandemic recovery is even more pronounced in the Cultural sector than in the wider Creative Industries – a 66% increase in full- and part-time employees in BRES between 2020 and 2023. 
+	•	Film, TV and music again reflects wider volatility in the sector.
+	•	Identifying Photography as a separate sector using LinkedIn reveals ten times as many creative professionals in this sector as employees recorded in BRES.
+	•	LinkedIn provides evidence of 165 Craftspeople in Wakefield, versus none in BRES. 
+	•	Neither BRES nor LinkedIn identifies any employment in Heritage (defined as, operation of historic buildings) – perhaps because those working in the sector in Wakefield may be public sector employees and classified as such rather than as part of a separate heritage sector. 
+	•	That the recorded Libraries workforce is lower in LinkedIn than in BRES reflects a similar structural quirk in the evidence. 
+	•	LinkedIn has no industry definition equivalent to Cultural Heritage.
+Wakefield and West Yorkshire
+West Yorkshire Creative Industries
+Analysis of the West Yorkshire creative workforce reveals similar trends both in sector distribution and post-lockdown recovery in employment. 
+	•	Wakefield’s Creative Industries employees (in BRES) and workforce (measured by analysis of LinkedIn) are both 8% of the West Yorkshire total. 
+	•	Cultural sector employees make up 12% of the (BRES 2023) total for West Yorkshire, and 10% of sector workforce measured by LinkedIn. 
+	•	Analysis of LinkedIn suggests that Wakefield’s Cultural sector represents 32% of the district’s total Creative Industries workforce, a higher proportion than the 27% of the Combined Authority’s Creative Industries workforce within Cultural sectors – which may reflect the strength of clusters in Advertising and Marketing, Film, TV and music and IT, software and computer services in Leeds. 
+	•	The Combined Authority shows a less pronounced, but still very strong, bounce back from lockdown, with growth in number of employees of 28% in Creative Industries and 40% in Cultural sector between 2020 and 2022.
+	•	Together these data reflect that Wakefield has slightly increased its share of creative employment as a proportion of the total for West Yorkshire in that time.
+	•	In both District and Combined Authority area, we see a repeated pattern that LinkedIn shows much higher levels of workforce in sectors including Advertising and marketing, Design and designer fashion and Film, TV and music – between four and six times the level of recorded employment in BRES. 
+	•	LinkedIn also indicates an Arts sector workforce higher than shown in BRES, but by a smaller margin – around 30%. When compared with the much larger discrepancies in creative content and creative services sectors, this may reflect anecdotal evidence that comparatively fewer artists subscribe to LinkedIn for the purpose of finding new work, and that some may list occupations in other industries (including ‘non-creative’ sectors) as part of a ‘portfolio’ of work. 
+	•	Comparison with West Yorkshire reveals a much larger music workforce of more than 5,000 individuals across the Combined Authority area, accounting for more than half of all occupations in music, performing and visual arts. This is a much larger proportion of the creative workforce than for Wakefield alone; but may reflect that Musicians are opting to use the geographical descriptor of ‘Greater Leeds Area’ in LinkedIn, rather than Wakefield district locations, to signal their availability across a wider geography of live music venues and recorded music opportunities.
+	•	LinkedIn gives a slightly lower figure for the software workforce than BRES employment data. This may reflect a higher proportion of full or part time employment in this sector relative to other creative occupations, or that the increased specialisation of ‘non-creative’ digital occupations, particularly in Leeds, means that LinkedIn’s more fine-grained industry definitions for other digital sub-sectors separate these out from the ‘broad brush’ of SIC codes used to measure software development and IT consultancy in BRES.
+
+Figure 3  West Yorkshire Creative Industries workforce, LinkedIn 2023 vs BRES 2020-2023
+
+
+* Includes BRES employee numbers for SIC 77291 : Renting and leasing of media entertainment equipment, in addition to DCMS Creative Industries SIC, to reflect importance of Production Park
+Source: The Fifth Sector 2024
+
+West Yorkshire Cultural sector
+
+Figure 4  West Yorkshire Cultural sector workforce, LinkedIn 2023 vs BRES 2020-2023
+
+ * Includes BRES employee numbers for SIC 77291 : Renting and leasing of media entertainment equipment, in addition to DCMS Creative Industries SIC, to reflect importance of Production Park
+Source: The Fifth Sector 2024
+
+
+
+
+
+

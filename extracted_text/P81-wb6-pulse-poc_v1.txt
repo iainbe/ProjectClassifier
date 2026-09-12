@@ -1,0 +1,72 @@
+
+
+WB6 Creative Economy Pulse PoC
+Linkedin (and adjacent sources) as a baseline for the Creative Economy in WB6
+Research brief
+British Council  ·  Western Balkans Creative Economy Consultancy
+CP1048  ·  May 2026
+Prepared by BEYOND Studio
+1. Background and context
+This brief commissions a small, time-boxed proof of concept (PoC) within the British Council Western Balkans Creative Economy Consultancy. The wider consultancy is establishing a regional evidence base for the creative economy across Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia. NACE has been adopted as the agreed framework because it aligns most closely with the data the WB6 will need to collect for EU accession.
+The data problem we are solving
+	•	The existing WB6 baseline is fragmented and uneven (per the BEYOND Studio Evidence Review, March 2026).
+	•	Only Serbia has comprehensive figures. Kosovo, Albania and BiH have no published GVA or employment baseline. Montenegro's most recent mapping is from 2017.
+	•	Where data does exist, it is built from tax returns, company registrations and infrequent surveys, all of which are lagging indicators.
+Why Linkedin (and Lightcast)
+	•	Linkedin profile and company data is dynamic, self-reported and updated continuously by individuals whose livelihood depends on its accuracy.
+	•	It should help surface emerging job titles and roles that the VET Creative Skills review (260314) identified as structurally invisible to ESCO, NQFs and national employment statistics, including Technical Artist, Pipeline Technical Director, Real-Time VFX Artist and Narrative Designer.
+	•	The same logic applies to the experience economy, a strategic focus for the British Council that is being pitched to the World Bank with Albania a stated interested party. Live experience, festivals, venues, hospitality-adjacent creative roles and place-based activity are similarly hard to see in traditional industrial data; Linkedin job titles, company tags and skills may capture them more reliably.
+	•	Lightcast, a global labour market intelligence platform aggregating job postings, online worker profiles and government labour data, was suggested as a complementary source by Iain Bennett (Fifth Sector). It covers four of the six WB6 countries (Serbia, Albania, BiH, Montenegro) at its lowest ‘Set 4’ confidence tier, which Lightcast itself describes as suitable for directional rather than definitive analysis. Kosovo and North Macedonia are absent from the dataset.
+2. Aims and direction of travel
+Immediate aim of the PoC
+	•	Test whether Linkedin, alongside Lightcast where coverage allows, can produce a credible, repeatable creative economy baseline mapped to NACE (Layer 1 core sectors) and ISCO (Layer 2 occupations).
+	•	Test whether the same data can capture growth signals between data pulls.
+Direction of travel, if the PoC is positive
+	•	A fully funded multi-year monitoring instrument, potentially financed by the EU and World Bank.
+	•	Benchmarks creative economy growth across WB6 and provides national and regional governments with near-live data.
+	•	Enables earlier interventions for both growth and market failure.
+This is an aspiration, not a commitment, but it shapes what we are looking to learn from this test.
+3. Scope of the PoC
+Geography
+	•	All six WB6 countries in framing.
+	•	Lightcast covers four (Serbia, Albania, BiH, Montenegro). Kosovo and North Macedonia will be Linkedin-only.
+Sectors
+	•	A working sectoral frame to be agreed in week one. A draft three-layer NACE/ISCO mapping has been prepared by the consultancy team but is not yet finalised, and the wider study may revise it. The PoC should adopt provisional codes and stay flexible to whatever the longer study lands on.
+	•	Suggested provisional sectors: gaming, film and moving image, digital and software creative, plus an experience economy proxy (for example live performance, events or venue programming).
+Suggested data sources to test
+	•	Linkedin: profiles, Campaign Manager audience estimates, company pages, skills tags.
+	•	Lightcast: job postings, online profiles and gender diversity data, where coverage exists.
+	•	NapoleonCat stats and DataReportal for free penetration baselines.
+Access to Linkedin and Lightcast
+	•	We are open to the researcher's own approach to access. Both are potentially expensive at full commercial rates.
+	•	Worth considering a corporate-level conversation with each provider, possibly via the British Council, framed as pilot data access pending a fuller study. We defer to the researcher's judgement and existing relationships on the best route.
+Out of scope
+	•	Informal economy, traditional crafts and cultural tourism. All difficult to asses through Linkedin, if not invisible, and properly Phase 2.
+4. Specific questions the PoC must answer
+Framed as testable questions so the researcher can return clear yes/no answers and a confidence rating.
+	•	Can Linkedin industry, job title, skills and company data be mapped reliably to the agreed NACE Layer 1 codes and ISCO Layer 2 occupations? Where does the mapping break, and how can those breaks be flagged in any output?
+	•	Given current Linkedin penetration (Serbia 16.8%, Montenegro 21.5%, Albania 18.5%, North Macedonia 16.0%, BiH 10.4%, Kosovo 7.2%), at what level of disaggregation (country-by-sector, country-by-sector-by-role) does the data cease to be statistically meaningful? What is the floor?
+	•	Does Linkedin surface the creative tech roles identified as missing in the VET review (Technical Artist, Pipeline TD, Real-Time VFX Artist, Narrative Designer) and the equivalent experience economy roles (festival producers, venue programmers, live event technicians, creative placemakers and so on) that ESCO and NQFs do not capture?
+	•	Does company-employee linkage on Linkedin give a usable health index (company size dynamics, hiring or contraction signals) by sector and country? How frequently could this be refreshed?
+	•	How visible are freelancers and self-employed practitioners, given their economic significance and known invisibility to formal data?
+	•	A short structured pros and cons assessment of the Linkedin-led approach. We expect the researcher to validate or challenge our working hypothesis (set out below).
+Our working hypothesis on pros and cons
+Pros: dynamic refresh; self-reported in the individual's economic interest because Linkedin directly affects livelihood; better mapping of emerging companies, job titles and skills than government data; dynamic company-size signals could function as a sector-by-sector health index.
+Cons: low (but growing) penetration that has to be statistically accounted for; self-report bias; trend distortion (the 'everyone is now an AI expert' effect, where the strongest signal may be the company-employee link rather than the title itself); risk of insufficient sample to be statistically significant in the smaller countries.
+5. Desired outputs
+	•	A short methodology note, replicable by another researcher.
+	•	A prototype data pull. We recognise that a full baseline across all six countries and all selected sectors is likely beyond the budget. We suggest the researcher proposes a feasible approach. Our working assumption is that two contrasting test countries, Serbia and North Macedonia, would be sufficient to demonstrate the method, exercise the Linkedin-versus-Linkedin-plus-Lightcast contrast, and surface the statistical floor. We are open to alternative recommendations.
+	•	A short pros and cons assessment of the Linkedin-led approach (per Section 4).
+	•	A recommended Phase 2 design with indicative cost, sample, frequency and data sources, framed for an EU or World Bank funding conversation.
+6. Proposed timeframe
+	•	Six to eight weeks from kick-off, subject to researcher view.
+	•	Flexibility if access negotiations with Linkedin or Lightcast take time.
+7. Budget
+	•	£5,000 for the PoC (tbc)
+	•	The budget is deliberately modest. Demonstrating useful value at this scale is part of the success criteria, since it makes the case for proportionate Phase 2 investment.
+8. Annexes
+	•	Linkedin Penetration WB6 (with Lightcast addendum), March/April 2026.
+	•	Three-layer NACE/ISCO dashboard methodological note (draft).
+	•	Relevant excerpts from the VET Creative Skills review on missing roles and freelance invisibility.
+	•	WB6 Creative Economy Evidence Review for the wider data-gap context.
+

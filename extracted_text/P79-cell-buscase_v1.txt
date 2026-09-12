@@ -1,0 +1,279 @@
+CELL Business Case
+Research Status Report
+Part one: Ten-minute summary
+What We Set Out To Do
+The CELL research programme has three interlocking objectives:
+	•	Map the supply chain — Who are the companies and practitioners in East London capable of delivering transversal creative technology projects?
+	•	Identify the skills landscape — Where are the gaps between what the market needs and what the workforce can currently deliver?
+	•	Build the business case — What is the specific, evidence-based value proposition for CELL as an institution?
+We are now approximately 75% through the evidence-gathering phase. This presentation summarises what we have found, what it means, and what we still need to establish.
+Scale of the Supply Chain
+Across five transversal searches (Architecture × Immersive, Museums × Spatial Audio, Live Performance × LED Volumes, Retail × Experience Design, and Property Development × Digital Activation) we have identified a combined workforce of approximately 74,000 current LinkedIn profiles in the UK, of which roughly 32,000 sit within Creative and Production roles.
+Search
+Total Profiles
+Creative & Production
+C&P %
+Architecture × Immersive
+3,529
+1,662
+47%
+Museums × Spatial Audio
+3,529
+2,292
+65%
+Live Performance × LED Volumes
+4,011
+1,877
+47%
+Retail × Experience Design
+11,059
+5,897
+53%
+Property Dev × Digital Activation
+33,836
+20,346
+60%
+Key message: The supply chain is real, substantial, and concentrated in the Creative and Production workforce. The question is not whether it exists but whether it has the right skills for the transversal work CELL will enable.
+Skills Picture: Where the Gaps Are
+The headline finding: Across all five searches, the most commercially critical skills are consistently in Tier 3 or Tier 4 - meaning they are present in fewer than 25% of the relevant workforce, and in many cases fewer than 10%.
+Selected critical findings:
+Skill
+Search
+Prevalence %
+Tier
+Digital Audio Workstations
+Museums × Spatial Audio
+30%
+Tier 2
+Immersive Audio
+Museums × Spatial Audio
+10.5%
+Tier 3
+Interactive Sound Design
+Museums × Spatial Audio
+4.5%
+Tier 3
+Game Audio
+Museums × Spatial Audio
+3.8%
+Tier 3
+ICVFX
+Live Performance × LED
+10.9%
+Tier 3
+Virtual Production
+Live Performance × LED
+6.3%
+Tier 3
+BIM Integration
+Architecture × Immersive
+2.3%
+Tier 4
+Photogrammetry
+Architecture × Immersive
+0.7%
+Tier 4
+Digital Twins
+Architecture × Immersive
+1.4%
+Tier 4
+Spatial UX
+Retail × Experience Design
+0.4%
+Tier 4
+IoT Integration
+Property Dev × Digital
+1.7%
+Tier 4
+Real-time Data Visualisation
+Property Dev × Digital
+1.2%
+Tier 4
+Creative Coding
+Property Dev × Digital
+1.0%
+Tier 4
+Key message: The skills that are most commercially valuable — the ones that enable transversal, cross-sector projects — are precisely the ones in shortest supply. This is not a coincidence. It is the structural gap that CELL exists to address.
+Geography: East London as a Cluster
+The Museums × Spatial Audio 5-Borough analysis confirms a strong geographic concentration of relevant companies within Hackney, Tower Hamlets, Newham, Waltham Forest and Greenwich. Key findings from the company-level data:
+	•	Hackney is the dominant borough for micro-companies in the spatial audio and immersive sound space (Cenatus, 1.618 Digital, Timo Saila Sound, Three Hearts Digital, Neave Interactive, Polished Rock, We Are Not Content, ThreeDee Music, Magnetic London Creative Services)
+	•	Tower Hamlets has a strong cluster of production and post-production companies (Instrument Studio, Azimuth Audio, Monamas, Who Knows Sound, Luminius)
+	•	Waltham Forest contains several notable companies including Rogue Productions (Company No. 10429544) — the same entity identified in the Experience MOD/Minecraft consortium — confirming the borough's role in the touring immersive sector
+	•	Newham hosts Azimuth Audio (E16) and several digital production entities near the Olympic Park corridor
+Key message: The geographic cluster is real. The companies are there. The challenge is that most are micro-enterprises (1-3 employees) operating in isolation, without the connective infrastructure to collaborate on large-scale transversal projects.
+Micro-Enterprises dominate
+The company-level data from the Museums × Spatial Audio search reveals a striking pattern:
+	•	The majority of companies have 1-3 employees
+	•	Turnover ranges from £11,500 (Focal Rhythm Productions) to £237,748 (1.618 Digital)
+	•	Several companies show zero or near-zero turnover despite active LinkedIn profiles
+	•	The word frequency analysis of company websites reveals that the highest-scoring terms are "sound," "audio," "islands," "republic," "design" — confirming genuine sector relevance — but also reveals a significant tail of companies whose websites score negatively on sector-relevant terms (museums, exhibitions, heritage, immersive), suggesting they are adjacent to but not fully embedded in the CELL target market
+Key message: The supply chain exists but is atomised. Individual practitioners and micro-companies have the skills but lack the scale, the connections, and the production infrastructure to deliver complex transversal commissions. This is CELL's primary operational opportunity.
+What the Qualitative Research Adds
+Five expert interviews (Alex Wills, Annette Mees, Matt Quinn, Paddy Rodgers, John Cassy) provide critical context for the quantitative findings. Three themes emerge consistently:
+Theme 1: The sector is maturing from technology-showcase to experience-led The skills gap is not just technical. The hardest skill to find — identified by John Cassy, Matt Quinn and Annette Mees independently — is the experienced producer who can bridge creative vision, technical delivery, and commercial return.
+Theme 2: The "empty labs" warning Alex Wills has visited eight UK creative technology labs and found most of them underused. The reason is consistent: CapEx was prioritised over OpEx, and the design process did not establish clearly enough who the facility was for and what they would get out of it.
+Theme 3: Distribution and touring remain unsolved Matt Quinn (59 Productions/Lightroom) and Annette Mees both identify the inability to make successful immersive experiences tourable and replicable as the sector's most acute structural problem. No existing institution is addressing this systematically.
+CELL Value Proposition (Evidence-Based)
+Based on the combined quantitative and qualitative evidence, CELL's value proposition can now be stated with precision:
+CELL will be the connective infrastructure that enables East London's atomised creative technology micro-enterprises to collaborate on large-scale transversal commissions — by providing shared production resource, applied skills development in Tier 3/4 gap areas, and a convening function that connects practitioners, commissioners, and investors.
+This is distinct from:
+	•	A technology showcase (CoStar's perceived weakness)
+	•	A training provider (too narrow)
+	•	A co-working space (too passive)
+	•	A venue (too infrastructure-focused)
+What We Still Need to Establish
+Three evidence gaps remain before the business case is complete:
+	•	Demand-side validation: We know the supply chain exists and where the skills gaps are. We do not yet have systematic evidence of unfilled commissions — projects that failed or were delayed because the right skills were not available. Nikolas's ongoing interviews should specifically target this question. 
+	•	The touring/distribution economics: Annette Mees and Matt Quinn identify this as the sector's most fundable R&D challenge. We need to quantify what it actually costs to make an immersive experience tour-ready, and how many UK companies are currently losing IP because they cannot afford to do this. 
+	•	The counterfactual: John Cassy's challenge — "what is needed vs. wanted?" — requires us to answer: what will not happen if CELL does not exist? The answer is available in the data but needs to be articulated explicitly.
+Part two: Key findings in detail
+Finding 1: The Transversal Skills Gap is Structural, Not Incidental
+The skills data reveals a consistent pattern across all five searches: the skills with the highest commercial value (those that enable cross-sector, large-scale projects) are precisely those with the lowest prevalence.
+This is not a random distribution. It reflects a structural feature of the UK creative technology sector: training pipelines are sector-specific (game audio for games, BIM for architecture, ICVFX for film) while the market is increasingly demanding cross-sector capability (game audio for museums, BIM for immersive architecture, ICVFX for live performance).
+CELL's training mandate should therefore focus not on teaching individual skills in isolation, but on cross-sector application of existing skills: helping a game audio engineer understand how to apply Wwise in a museum context, or helping an architect understand how to integrate Unreal Engine into a BIM workflow.
+Finding 2: The Property Development × Digital Activation Search Reveals an Unexpected Opportunity
+The largest search by volume (33,836 profiles, 20,346 Creative & Production) reveals that the top 10 companies are dominated by major engineering and architecture practices: Foster & Partners, Arup, Mott McDonald, Zaha Hadid Architects, Ramboll, Buro Happold.
+This is significant for two reasons:
+	•	These are large, well-capitalised companies with established client relationships in property development; they are potential commissioners of CELL-enabled work, not just supply chain participants
+	•	Their Creative & Production percentages (48-73%) suggest they already have substantial in-house creative capability but the skills data shows that IoT integration (1.7%), Real-time Data Visualisation (1.2%), and Creative Coding (1.0%) remain Tier 4 gaps even within these large firms
+Implication: CELL should position itself as a specialist R&D partner to major engineering and architecture practices for digital activation projects — not just as a resource for micro-enterprises.
+Finding 3: The Retail × Experience Design Search Identifies the Largest Addressable Market
+With 11,059 total profiles and 5,897 in Creative & Production, this is the second-largest search and the one with the most direct commercial application. The top companies (Alford Hall Monaghan Morris, Heatherwick Studio, Hawkins Brown, Imagination, Fever) represent a mix of architectural practices and experience design agencies.
+The skills data reveals:
+	•	Retail Data Analytics (25%) is the only Tier 2 skill — suggesting strong commercial infrastructure
+	•	3D Product Modelling (13%) is approaching Tier 2 — a growing capability
+	•	AR SDKs (3.7%), Spatial UX (0.4%), Interactive Retail Displays (1%) remain Tier 3/4 gaps
+Implication: The retail sector has the commercial scale and the analytics infrastructure to commission and measure immersive experiences — but lacks the spatial interaction design capability to make them work. This is a specific, fundable training gap for CELL.
+Finding 4: The Museums × Spatial Audio Geography Confirms the East London Cluster
+The 5-Borough company list reveals 40+ companies within the CELL geography with direct relevance to spatial audio and immersive sound. Notable findings:
+	•	1.618 Digital (E13, Newham): £237k turnover, 2 employees: the highest-revenue micro-enterprise in the spatial audio search, specialising in interactive VR/AR audio and intelligent audio branding. A potential CELL anchor tenant.
+	•	Cenatus Ltd (E2, Tower Hamlets): Active since 2004, specialising in sound art installations and immersive experiences. Multiple RTICs including Advanced Screens and Immersive Technologies. A potential CELL founding partner.
+	•	Rogue Productions (E17, Waltham Forest): Already identified as a partner in the Experience MOD/Minecraft consortium. Confirms Waltham Forest's role in the touring immersive sector.
+	•	Azimuth Audio (E16, Newham): Registered at Waterfront Studios, Dock Road: within the Olympic Park corridor. Directly relevant to CELL's geographic mandate.
+Finding 5: The Word Frequency Analysis Reveals a "Signal vs. Noise" Problem
+The word frequency scoring for the Museums × Spatial Audio search reveals a critical methodological insight. The highest-scoring terms (sound 9.71, audio 7.83, islands 6.01, republic 5.64) confirm genuine sector relevance in the top-ranked companies. However, the negative-scoring terms reveal a significant tail of companies whose websites are dominated by visitor-facing language (museum, exhibition, heritage, community, events, tickets) rather than production and supply chain language.
+This confirms Iain's observation that the DataCity seed lists contain a mix of:
+	•	Supply chain companies (what CELL needs to map)
+	•	End-user institutions (museums, galleries, heritage sites — CELL's potential clients)
+Implication: The deduplication and filtering process must explicitly separate these two categories. The business case needs both — but for different reasons.
+Part three: How qualitative research addresses evidence gaps
+Gap 1: The Demand Side
+What we have: Supply chain mapping and skills prevalence data. 
+What we need: Evidence of unfilled commissions and frustrated demand. 
+How qualitative research helps: Nikolas's remaining interviews should include a standard question: "Has a project failed, been delayed, or been taken offshore in the last 3 years because you could not find the right skills in the UK?" Five positive answers to this question would be more powerful in the business case than any amount of supply-side data.
+Gap 2: The IP Retention Problem
+What we have: Anecdotal evidence (Annette Mees, John Cassy) that UK companies are losing IP to international co-producers. 
+What we need: One or two specific, quantified case studies. 
+How qualitative research helps: A targeted follow-up with Annette Mees and her network at No Ghost and Nexus to document specific instances where UK-originated IP left the country — and what the financial value of that loss was.
+Gap 3: Tour-Readiness Economics
+What we have: Multiple interviewees identifying this as the sector's most acute structural problem. 
+What we need: A cost model — what does it actually cost to make an immersive experience tour-ready? 
+How qualitative research helps: Matt Quinn (59 Productions/Lightroom) is the ideal source for this. A follow-up interview specifically focused on the economics of the Lightroom touring model would provide the quantitative foundation for CELL's R&D mandate.
+Gap 4: CoStar Differentiation
+What we have: Multiple negative references to CoStar from interviewees. 
+What we need: A clear, evidence-based statement of how CELL differs from CoStar. 
+How qualitative research helps: Alex Wills, who worked on the original CoStar bid, is the ideal source for a structured "lessons learned" conversation. This would also help address Andrew's concern about staying within the agreed taxonomy.
+Gap 5: 
+Governance Model
+What we have: Matt Quinn's NLA reference as the most useful structural model. 
+What we need: A specific governance blueprint. 
+How qualitative research helps: A direct conversation with NLA (Matt Quinn can facilitate) about their membership model, funding structure, and programming approach would provide the governance template for CELL's convening function.
+
+
+PART FOUR: DRAFT REPORT — CURRENT STATUS OF BUSINESS CASE DEVELOPMENT
+
+CELL Business Case: Status as of 16 March 2025
+Working Draft: Not for External Distribution
+1. Research Programme Overview
+The CELL Mapping and Business Case Development (MABCD) programme is a collaborative research initiative between UCL, Loughborough University, and LLDC. Its purpose is to establish the evidence base for a Creative Experience Lab London — a proposed applied R&D facility and convening institution for the experience economy in East London.
+The research programme comprises four workstreams:
+	•	Layer 1: Sector taxonomy and transversal search design (Iain Bennett / DataCity): COMPLETE
+	•	Layer 2: Supply chain mapping via LinkedIn network expansion (Andy/Simon, Unscrambled): IN PROGRESS (75%)
+	•	Layer 3: Skills prevalence analysis (Unscrambled / CELL Skills Search V2): FIRST RESULTS AVAILABLE
+	•	Layer 4: Qualitative primary research: expert interviews (Nikolas Kunesch / UCL)  IN PROGRESS (5 of ~20 interviews complete)
+2. Current Evidence Base
+2.1 Supply Chain Scale Five transversal searches have identified a combined UK workforce of approximately 74,000 LinkedIn profiles, of which 32,000 are in Creative and Production roles. Geographic analysis confirms a strong concentration of relevant micro-enterprises within the five target boroughs (Hackney, Tower Hamlets, Newham, Waltham Forest, Greenwich) and the wider East London corridor.
+2.2 Skills Prevalence First-pass skills analysis across all five searches confirms that the most commercially critical skills — those enabling transversal, cross-sector project delivery — are consistently in Tier 3 (<25% prevalence) or Tier 4 (<10% prevalence). This applies across all five searches and represents a structural, not incidental, feature of the UK creative technology workforce.
+2.3 Company-Level Geography The Museums × Spatial Audio 5-Borough analysis has identified 40+ companies within the CELL geography with direct sector relevance. The majority are micro-enterprises (1-3 employees) with turnover below £250k. Several have been identified as potential CELL anchor partners (1.618 Digital, Cenatus, Azimuth Audio, Rogue Productions).
+2.4 Qualitative Evidence Five expert interviews have been completed with Alex Wills (Disguise/CoStar), Annette Mees (immersive dramaturgy), Matt Quinn (Journey/59 Productions), Paddy Rodgers (Royal Museums Greenwich), and John Cassy (commercial immersive producer). Key themes: sector maturity, the "empty labs" warning, distribution/touring as the unsolved problem, and the primacy of experienced producers over technologists.
+3. Emerging Business Case Thesis
+The evidence to date supports the following core thesis:
+East London has a substantial, geographically concentrated supply chain of creative technology micro-enterprises with genuine capability in immersive, spatial, and interactive media. However, this supply chain is atomised, under-capitalised, and missing the specific transversal skills required to deliver large-scale cross-sector commissions. CELL will provide the connective infrastructure — shared production resource, applied skills development, and cross-sector convening — that enables this supply chain to operate at scale.
+This thesis is supported by:
+	•	Quantitative evidence: Skills prevalence data confirming Tier 3/4 gaps in all five transversal searches
+	•	Geographic evidence: Company-level mapping confirming cluster density in the 5 target boroughs
+	•	Qualitative evidence: Expert testimony confirming the structural nature of the skills gap and the absence of existing institutions addressing it
+4. Outstanding Evidence Requirements
+The following evidence gaps must be addressed before the business case is complete:
+Gap
+Source
+Timeline
+Demand-side validation (unfilled commissions)
+Remaining qualitative interviews
+March 2025
+Tour-readiness economics
+Matt Quinn follow-up
+March 2025
+IP retention case studies
+Annette Mees follow-up
+March 2025
+CoStar differentiation
+Alex Wills follow-up
+March 2025
+NLA governance model
+Matt Quinn / NLA direct
+March 2025
+Salary benchmarking (Lightcast)
+Phase 2 research
+April 2025
+CoStar bid alignment
+Graham/Andrew steer
+Pre-March 2nd meeting
+5. Risks and Mitigations
+Risk
+Likelihood
+Mitigation
+Qualitative interviews fail to surface demand-side evidence
+Low-Medium
+Add specific "unfilled commission" question to remaining interviews
+LinkedIn mapping underestimates workforce (Aberdeen Process not yet applied)
+Medium
+Andy/Simon to apply cluster-term methodology to all five searches
+"Empty labs" perception damages CELL proposition
+Medium
+Lead with convening/network model; position technology as secondary
+
+6. Next Steps
+Action
+Owner
+Deadline
+Complete remaining 15 qualitative interviews
+Nikolas / UCL
+March 2025
+Apply Aberdeen Process to all 5 LinkedIn searches
+Andy / Unscrambled
+Complete
+Deliver expanded seed lists for 4 remaining searches
+Iain / DataCity
+23 March
+Request lab/event company list from Graham/Cathy (GDPR-compliant)
+Ruichao
+This week
+Prepare CoStar differentiation statement
+Iain 
+23 March
+Commission NLA governance case study
+Nikolas
+March 2025
+Begin Phase 2 (salary benchmarking, production workflow)
+Iain / The Fifth Sector
+April 2025
+
+Glossary
+"Aberdeen Process" refers to a specific LinkedIn search methodology for skills searches to avoid undercounting the workforce. Rather than searching LinkedIn for a specific software tool in isolation (e.g., searching only for "Unity" or only for "Unreal Engine"), you search using the parent cluster term (e.g., "Game Engines") in combination with the specific tools.
+Why it matters:
+	•	Searching for "Unity" alone might return 10 people
+	•	Searching for "Unreal Engine" alone might return 10 people
+	•	But searching for "Game Engines" + Unity + Unreal might return 2,000 people — because many practitioners describe their skills using the category name rather than listing every individual tool
+The practical implication for the CELL research is that any skills prevalence figure derived from a narrow, tool-specific search is likely to be a significant undercount of the true workforce. The Aberdeen Process corrects for this by ensuring the search captures everyone who works within a capability cluster, not just those who happen to use the exact keyword Andy or Simon searched for.
+
