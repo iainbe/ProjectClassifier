@@ -105,3 +105,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - tools/JON_ACCESS.md: web-Drive route (jon@thefifthsector.co.uk) is canonical access; share links/file IDs (not filesystem paths) for pulling into Places; script-running requires local mount (Iain-side)
 - README_sweep.md updated to point at access note
+
+## 26/09/12 — Jon docs folded + tenders-folder matching
+
+- tools/JON_SWEEP_GUIDE.md: single doc for Jon (access route, what sweep does, categories, web-testable checklist, limits, feedback format); replaces JON_ACCESS.md + README_sweep.md (deleted)
+- Sweep improvement: Active proposals folders now matched to 08_tenders via 'Drive folder:' notes (T01/T02 recorded) — registered tender folders classify TENDER_FILE instead of UNREGISTERED_PROJECT?

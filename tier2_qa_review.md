@@ -531,3 +531,11 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 # Pass 12: Jon access clarification (26/09/12)
 
 - Jon's access is web-Drive only (jon@thefifthsector.co.uk) — README_sweep's run instructions assumed local mount; corrected via JON_ACCESS.md (web route canonical; share links/file IDs for Places; scripts are Iain-side)
+
+
+---
+
+# Pass 13: Jon doc merge + tenders matching (26/09/12)
+
+- JON_ACCESS.md + README_sweep.md folded into tools/JON_SWEEP_GUIDE.md (web-testable checklist for Jon)
+- Gap found while writing: sweep didn't match proposals folders to 08_tenders — T01's own folder flagged UNREGISTERED_PROJECT?. Fixed: tenders 'Drive folder:' notes added (T01, T02; T06-T12 already had them); TENDER_FILE category added

@@ -32,7 +32,13 @@ def load_registers():
             for c in ('original_locator', 'controlled_location', 'title'):
                 v = (r.get(c) or '').strip()
                 if v: src_names.add(os.path.basename(v))
-    return proj_folders, src_names
+    tender_folders = {}
+    with open(os.path.join(TK, CFG['register_tenders'])) as f:
+        for r in csv.DictReader(f):
+            m = re.search(r'Drive folder:\s*([^|]+)', r.get('notes') or '')
+            if m:
+                tender_folders[m.group(1).strip().rstrip('/')] = r['opportunity_id']
+    return proj_folders, src_names, tender_folders
 
 def scan():
     """Walk watch roots -> {relpath: (mtime, size)} and list of icloud placeholders."""
@@ -54,7 +60,7 @@ def scan():
                     pass
     return files, placeholders
 
-def classify(rel, proj_folders, src_names, non_proj):
+def classify(rel, proj_folders, src_names, non_proj, tender_folders):
     # toolkit-internal changes
     if rel.startswith('Website 2026/spillover-toolkit/'):
         return ('DRIFT', 'register/toolkit file changed outside a session')
@@ -64,6 +70,10 @@ def classify(rel, proj_folders, src_names, non_proj):
             base = os.path.basename(rel)
             tag = 'SOURCE_UPDATED' if base in src_names else 'UNREGISTERED_SOURCE'
             return (tag, f'in registered project {pid}')
+    # inside a registered tender folder?
+    for tf, tid in tender_folders.items():
+        if rel.startswith(tf + '/'):
+            return ('TENDER_FILE', f'in registered tender {tid}')
     # known non-project folder?
     for npf in non_proj:
         if rel.startswith(npf + '/') or rel == npf:
@@ -85,7 +95,7 @@ def classify(rel, proj_folders, src_names, non_proj):
     return ('NEW_FILE', 'new file in watched area')
 
 def main():
-    proj_folders, src_names = load_registers()
+    proj_folders, src_names, tender_folders = load_registers()
     try:
         old = json.load(open(STATE_PATH))
     except (OSError, json.JSONDecodeError):
@@ -100,7 +110,7 @@ def main():
     non_proj = CFG.get('non_project_folders', [])
     findings = []
     for rel in new + changed:
-        tag, note = classify(rel, proj_folders, src_names, non_proj)
+        tag, note = classify(rel, proj_folders, src_names, non_proj, tender_folders)
         if tag == 'UNREGISTERED_PROJECT?':
             findings.append((tag, note, note, 'new'))
             continue
@@ -117,7 +127,7 @@ def main():
     findings = collapsed
 
     order = {'UNREGISTERED_PROJECT?':0,'POSSIBLE_TENDER':1,'DRIFT':2,
-             'SOURCE_UPDATED':3,'UNREGISTERED_SOURCE':4,'NEW_FILE':5,'NON_PROJECT':6}
+             'SOURCE_UPDATED':3,'UNREGISTERED_SOURCE':4,'TENDER_FILE':5,'NEW_FILE':6,'NON_PROJECT':7}
     findings.sort(key=lambda x: order.get(x[0], 9))
 
     now_ts = datetime.now()
@@ -128,7 +138,7 @@ def main():
     if not old:
         lines.append("**First run — baseline snapshot taken. All existing files treated as baseline; "
                      "findings below are classification of what is already unregistered.**\n")
-    for tag in ['UNREGISTERED_PROJECT?','POSSIBLE_TENDER','DRIFT','SOURCE_UPDATED','UNREGISTERED_SOURCE','NEW_FILE','NON_PROJECT']:
+    for tag in ['UNREGISTERED_PROJECT?','POSSIBLE_TENDER','DRIFT','SOURCE_UPDATED','UNREGISTERED_SOURCE','TENDER_FILE','NEW_FILE','NON_PROJECT']:
         group = [f for f in findings if f[0]==tag]
         if not group: continue
         lines.append(f"\n## {tag} ({len(group)})\n")
@@ -150,7 +160,7 @@ def main():
     open(os.path.join(REPORT_DIR,'SWEEP_LATEST.md'),'w').write(report)
     json.dump(now_ser, open(STATE_PATH,'w'))
 
-    n_hi = sum(1 for f in findings if f[0] in ('UNREGISTERED_PROJECT?','POSSIBLE_TENDER','DRIFT','UNREGISTERED_SOURCE','SOURCE_UPDATED'))
+    n_hi = sum(1 for f in findings if f[0] in ('UNREGISTERED_PROJECT?','POSSIBLE_TENDER','DRIFT','UNREGISTERED_SOURCE','SOURCE_UPDATED','TENDER_FILE'))
     summary = f"{len(new)} new, {len(changed)} changed, {n_hi} need attention — see SWEEP_LATEST.md"
     try:
         subprocess.run(['osascript','-e',
