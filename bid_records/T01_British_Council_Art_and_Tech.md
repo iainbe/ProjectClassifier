@@ -1,6 +1,6 @@
 # Bid Record — T01-BCAT
 
-**Status:** LIVE — response in final drafting (Annex 2 + QU01-03 + MA01 + pricing complete as of 26/09/09)
+**Status:** SUBMITTED 26/09/12 (Iain) — documents frozen; outcome pending
 **Created:** 26/09/12 (retrospective — bid already in flight when template created)
 
 ## 1. Bid identity
@@ -65,4 +65,6 @@
 | Technical writing | STRONG |
 | Commercial (50%) | UNKNOWN until pricing set — dominant lever |
 
-## 6. Outcome — pending submission 26/09/26
+## 6. Outcome — SUBMITTED 26/09/12, awaiting result
+
+Trigger pending: outcome notification → update tenders row + bid record §5-6 + lessons

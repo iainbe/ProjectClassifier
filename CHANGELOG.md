@@ -86,3 +86,17 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - USW initial bid shortlisted; Fifth Sector direct proposal accepted (£10k incl VAT); Places evidence for full submission COMPLETED; USW outcome pending
 - Claim C-R4-002 added; P06/P07 wording pattern applies (completed evidence work, not funded project)
+
+## 26/09/12 — T01-BCAT SUBMITTED
+
+- Bid submitted ahead of 26/09/26 deadline (Iain); documents frozen — no wording changes applied
+- Tenders row → SUBMITTED_AWAITING_RESULT; bid record updated; outcome trigger armed
+- NOTE: FGTG wording recommendation NOT applied — submitted version retains original text
+
+## 26/09/12 — QA pass + session-closure enforcement
+
+- REVIEW (agents lenses): sweep script + README + workflow + registers re-checked
+- BUG FIXED: sweep state tuple-vs-list comparison made every file report "changed" (24,501 false deltas) — fixed to list() compare; now correct deltas
+- FIXED: dead seen_folders code removed; stale TND- example in workflow; README path unusable for Jon (full path + machine-varies note); 6 review-history IDs normalised to hyphenated
+- DOCUMENTED: sweep blindspots — empty folders invisible, renames show as delete+new, gdoc stubs approximate, DRIFT fires on own session edits
+- AUTOMATION: tools/check_session_closure.sh installed as repo pre-commit hook — commits changing toolkit files without all 3 audit artefacts (CHANGELOG/audit/history) are blocked; --no-verify bypass for emergencies

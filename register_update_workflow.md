@@ -64,7 +64,7 @@
 |---|---|
 | 1 | After any register-changing session: `rsync -av --exclude '.git' --exclude '*.bak' spillover-toolkit/ ProjectClassifier/` (or copy changed files explicitly) |
 | 2 | `cd ProjectClassifier && git status` — review diff before committing |
-| 3 | Commit with message naming the trigger (e.g. "Bid record TND-2026-004 + register update") |
+| 3 | Commit with message naming the trigger (e.g. "Bid record T13 + register update") |
 | 4 | Push to `git@github.com:iainbe/ProjectClassifier.git` only when asked |
 
 **Schema-drift rule (from Pass 4 repair):** before ANY CSV edit — verify field count AND positional semantics against the header. Right column count ≠ right values. Check 2-3 existing rows first.

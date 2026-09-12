@@ -21,7 +21,9 @@
 ## How to test it
 
 ```bash
-cd "My Drive/Website 2026/spillover-toolkit"
+# Full path on Iain's machine (yours will differ — find your own
+# Google Drive mount under ~/Library/CloudStorage/):
+cd "/Users/iainbe/Library/CloudStorage/GoogleDrive-iain@thefifthsector.co.uk/My Drive/Website 2026/spillover-toolkit"
 python3 tools/drive_sweep.py        # run a sweep now
 open sweep_reports/SWEEP_LATEST.md  # read the report
 ```
@@ -51,6 +53,10 @@ Installed as a launchd job — runs weekday mornings at 09:00 (`com.thefifthsect
 - It can't read `.gdoc`/`.gslides` content (Drive stubs) — detects them by name/date only
 - It doesn't decide what to do — findings surface to the next toolkit session for human review
 - It doesn't see files that aren't synced locally (streaming-only files appear as `.icloud` placeholders, listed at report end)
+- It doesn't detect **empty new folders** — a folder only shows up once a file lands in it
+- Renames appear as "deleted + new" — same content, flagged as change (acceptable noise)
+- `.gdoc`/`.gslides` edits in the browser may not update the local stub's timestamp — treat their detection as approximate
+- **DRIFT fires on our own session edits too** — the sweep can't tell governed edits from outside ones. DRIFT with no corresponding recent session is the signal to investigate; DRIFT after a session is expected
 
 ## Feedback wanted
 

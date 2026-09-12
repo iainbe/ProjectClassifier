@@ -510,3 +510,17 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Buyer/stage fields are folder-evidence inferences marked for Iain confirmation — not verified facts
 - T01-BCAT (British Council Art and Tech) identified as live bid, deadline 26/09/26 — Option A live-tender test candidate
 - Loose root files pending Iain filing decision: Rachel Granger DMU x3, City and Guilds docx
+
+
+---
+
+# Pass 11: Agents re-review + automation (26/09/12)
+
+## Findings fixed
+- SWEEP BUG: JSON state stores lists, scan produces tuples — tuple!=list always true → every file falsely "changed" (24,501 deltas). Fixed; verified correct delta output.
+- Dead code (seen_folders), stale TND- example, README path, ID-format inconsistency — all corrected
+- Documented blindspots: empty folders, renames=delete+new, gdoc stubs, DRIFT-on-own-edits
+
+## Session-closure automation
+- tools/check_session_closure.sh → repo pre-commit hook; verified blocking a test commit missing artefacts
+- Caveat: enforces the audit trio at commit time; behavioural rule (AGENTS.md) still governs in-session updates

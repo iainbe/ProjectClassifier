@@ -94,18 +94,15 @@ def main():
     now_ser = {k: list(v) for k, v in now.items()}
 
     new = [k for k in now if k not in old]
-    changed = [k for k in now if k in old and now[k] != old[k]]
+    changed = [k for k in now if k in old and list(now[k]) != old[k]]
     deleted = [k for k in old if k not in now]
 
     non_proj = CFG.get('non_project_folders', [])
     findings = []
-    seen_folders = {}
     for rel in new + changed:
         tag, note = classify(rel, proj_folders, src_names, non_proj)
         if tag == 'UNREGISTERED_PROJECT?':
-            key = note
-            seen_folders[key] = seen_folders.get(key, 0) + 1
-            findings.append((tag, key, note, 'new'))
+            findings.append((tag, note, note, 'new'))
             continue
         findings.append((tag, rel, note, 'new' if rel in new else 'modified'))
     # collapse duplicate folder findings, keep counts
