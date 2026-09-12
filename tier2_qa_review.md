@@ -549,3 +549,12 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Corrections found during card work: P82 year error (25→26, file evidence), P64 start (23/01→22/10)
 - Honest flags retained in cards rather than smoothed: P81 baseline unapproved, P83 implementation incomplete, P27 internal FTE inconsistency, P64 thin sources
 - 57→51 projects remain without cards
+
+
+---
+
+# Pass 15: P82 date correction reverted (26/09/12)
+
+- ERROR CAUGHT + FIXED: my 25→26 correction conflated Kotor 2025 ministerial with Herceg Novi 2026 materials. Reverted to 25/05 (correct — sources in 2025 Projects/2025 Kotor with YYMMDD filenames 250527/250528)
+- Residual question for Iain: are 2026 Herceg Novi materials part of P82 or a separate engagement?
+- Method note: year inference from folder years fails when events recur — user confirmation beats inference

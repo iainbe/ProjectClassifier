@@ -117,3 +117,10 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Priority cards created: P81-WB6 (skills-pivot + 3-phase gated funding), P82-KOTOR (ministerial declaration — dates corrected 25→26 on file evidence), P83-BCWB (3-country institutional design, honest incompleteness), P27-WAKECDF (Green Book anchor: £22.03m from £4.38m), P64-BCJ (funding-unlock, option EXERCISED), P69-OURYEAR (£4.2m evaluation, model adopted by WYCA/ACE)
 - All DRAFT pending Iain walkthrough; flags: P81 lacks claims/sources rows, P82 year-error confirm, P64 WYCA letter to register
 - project_index.csv regenerated
+
+## 26/09/12 — P82 date correction REVERTED (my error)
+
+- Iain clarified: TWO Berlin Process events — Kotor 2025 ministerial + Herceg Novi 2026 forum
+- My earlier "correction" (25→26) conflated them: reverted P82 register + SRC-G2-083/084 to 25/05 (Kotor 27-28 May 2025 — correct per filenames 250527/250528 in 2025 Projects)
+- 2026-dated materials (briefing, EWG report, contract addendum) = Herceg Novi 2026 follow-on — flagged in card as phase-boundary question for Iain
+- Lesson: filename-year inference is not sufficient when two same-named events exist in different years — confirm before correcting

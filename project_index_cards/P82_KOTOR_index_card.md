@@ -15,8 +15,8 @@
 | `client` | British Council (FCDO-funded) | register |
 | `client_contact` | British Council WB programme team (Tara Solesbury — EWG report author; contract via BEYONDSTUDIO_CONTRACT0060 + addendum) | folder docs |
 | `reference_permission` | NOT_ESTABLISHED — check before citing (FCDO context) | — |
-| `commission_date` | 26/05 (corrected from 25/05 — file evidence all 2026; Iain confirm) | register + files |
-| `completion_date` | 26/06 — EWG summary report draft for review 26/06/25 | folder |
+| `commission_date` | 25/05 — Kotor ministerial 27-28 May 2025 (Iain confirmed: Kotor 2025 vs Herceg Novi 2026 = two events) | register + Iain |
+| `completion_date` | Ministerial phase complete 25/05; 2026 Berlin Process materials (briefing 18/05/26, EWG report 25/06/26) = Herceg Novi 2026 follow-on — phase boundary TBC | folder |
 | `contract_value` | NOT_DISCLOSED — contract + addendum in folder | contract docs |
 | `contracting_role` | PRIME — direct contract to British Council (Iain Bennett named contractor) | contract docs |
 | `prime_contractor` | The Fifth Sector / Iain Bennett | contract docs |
@@ -28,8 +28,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `brief_summary` | The Fifth Sector (Iain Bennett) served as UK expert to the Berlin Process Creative Economy Ministerial Meeting in Kotor, Montenegro (27-28 May 2026) — preparing the UK expert briefing, presenting recommendations, and contributing to the Expert Working Group process. Ministers from all six Western Balkans economies endorsed a joint declaration establishing regional creative economy cooperation; British Council announced a new multi-year funding programme; the World Bank confirmed technical assistance for youth employment initiatives. | claims C-G2-309-315 + folder |
-| `key_deliverables` | (1) Berlin Process Forum UK Expert Briefing v1 (18/05/26); (2) recommendations slides; (3) ministerial meeting agenda input; (4) Expert Working Group participation; (5) Skills slides (18/06/26); (6) contract + addendum | folder docs |
+| `brief_summary` | The Fifth Sector (Iain Bennett) served as UK expert to the Berlin Process Creative Economy Ministerial Meeting in Kotor, Montenegro (27-28 May 2025) — preparing the UK expert briefing, presenting recommendations, and contributing to the Expert Working Group process. Ministers from all six Western Balkans economies endorsed a joint declaration establishing regional creative economy cooperation; British Council announced a new multi-year funding programme; the World Bank confirmed technical assistance for youth employment initiatives. | claims C-G2-309-315 + folder |
+| `key_deliverables` | (1) Kotor ministerial briefing + session input (27-28/05/25); (2) Herceg Novi 2026 follow-on: UK Expert Briefing v1 (18/05/26), recommendations slides, Skills slides (18/06/26), EWG summary report (25/06/26); (3) contract + addendum | folder docs |
 | `client_objective` | Position UK expertise at the centre of regional creative economy cooperation; support the ministerial declaration and follow-on programme design | claims + briefing |
 | `scope_boundary` | Ministerial engagement + expert briefing + recommendations; not the follow-on programme delivery (awaiting instruction) | register |
 
@@ -48,7 +48,7 @@
 | Field | Value | Source |
 |---|---|---|
 | `commercial_reuse` | REVIEW_PENDING — FCDO context needs permission check | — |
-| `permitted_wording` | Cite as "UK expert contribution to the British Council Western Balkans creative economy ministerial (Kotor, May 2026)" — ministerial outcomes are attributable to the process, not solely to Fifth Sector | Derived |
+| `permitted_wording` | Cite as "UK expert contribution to the British Council Western Balkans creative economy ministerial (Kotor, May 2025)" — Herceg Novi 2026 follow-on TBC — ministerial outcomes are attributable to the process, not solely to Fifth Sector | Derived |
 | `expiry` | NOT_ESTABLISHED | — |
 | `reference_status` | INTERNAL — tender citation allowed with accurate attribution; website gate separate | Derived |
 
@@ -99,5 +99,5 @@
 | `reviewed_by` | Devin (folder+register+claims evidence) | — |
 | `source_claims` | C-G2-309-315 (7 claims) | 04_claims.csv |
 | `source_measurements` | None | — |
-| `unresolved_issues` | (1) date correction 25→26 needs Iain confirmation; (2) contract value undisclosed; (3) Iain's formal role title (UK expert? facilitator? speaker?) — briefing doc defines it; (4) follow-on instruction status | Derived |
+| `unresolved_issues` | (1) Herceg Novi 2026 materials — same engagement as P82 or separate? (Iain); (2) contract value undisclosed; (3) Iain's formal role title; (4) follow-on instruction status | Derived |
 | `superseded_by` | None | — |
