@@ -24,7 +24,7 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `brief_summary` | Evaluation-approach design for UKRI/AHRC's £80m+ Creative Industries Clusters Programme — the national programme whose cluster model P75-LANC and P85-AMGEN bids now feed into. Mixed-methods design combining contribution analysis, CBA, DiD and sector/workforce mapping. Iain contributed the sector/workforce mapping and methodology design as BOP subcontractor. | C-G2-024 + notes |
+| `brief_summary` | Evaluation-approach design for UKRI/AHRC's £61m Creative Industries Clusters Programme (2018-23; £55m core to nine CRDPs — the £80m press figure included co-investment) — the national programme whose successor CICP2 (£50m initial DCMS) is what P75-LANC and P85-AMGEN bid into. Mixed-methods design combining contribution analysis, CBA, DiD and sector/workforce mapping. Iain contributed the sector/workforce mapping and methodology design as BOP subcontractor. | C-G2-024 + UKRI final eval report (web-verified 26/09/12) |
 | `client_objective` | A defensible evaluation framework for the national CICP programme | source |
 
 ### A3. Key findings / significance

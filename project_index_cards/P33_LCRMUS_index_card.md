@@ -39,7 +39,7 @@
 |---|---|---|
 | `headline_finding` | LCR music economy: £405.9m direct GVA → £779.8m total economic impact — a genuine, published, worked multiplier calculation in a creative economy context | C-G2-070 |
 | `key_findings` | (1) £405.9m direct → £779.8m total (Integrated Case); (2) 14,370 headcount / 7,215 FTE; (3) 335 businesses, 621 venues; (4) SNA 272 businesses — 12% of connections in closed triangles (fragmentation signal); (5) £1bn/2035 target = 2.5% CAGR from £780m baseline; (6) growth levers: IP capture (£100m), production export (£75m); (7) 20% artists moving to performance-plus-IP-ownership model quantified; (8) Adlib Audio case: major touring/festival/corporate supplier from LCR base | C-G2-070-074 |
-| `quantified_results` | £405.9m→£779.8m; 14,370/7,215; 335/621; 2.5% CAGR; £100m IP / £75m export levers | claims |
+| `quantified_results` | £405.9m→£779.8m; 14,370/7,215; 335/621; 2.5% CAGR. Full lever menu (Table 18, verified): £100m IP capture + £75m production export + £60m formalisation + £50m venue circuit + £43m music-tech = £328m target GVA → £630m total impact | extract Table 18 |
 | `client_decision_use` | Published baseline for the region's music strategy and £1bn target framing | report |
 | `evidence_strength` | HIGH — published canonical report, verified multiplier, SNA, case documentation | Derived |
 

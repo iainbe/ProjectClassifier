@@ -12,7 +12,7 @@
 |---|---|---|
 | `project_id` | P82 | 01_projects.csv |
 | `project_name` | British Council Kotor Exchange Pilot — UK expert contribution to the Western Balkans Creative Economy Ministerial Meeting (Berlin Process) | register + folder |
-| `client` | British Council (FCDO-funded) | register |
+| `client` | British Council (FCDO-funded — Iain-confirmed, not in extract) | register + Iain |
 | `client_contact` | British Council WB programme team (Tara Solesbury — EWG report author; contract via BEYONDSTUDIO_CONTRACT0060 + addendum) | folder docs |
 | `reference_permission` | NOT_ESTABLISHED — check before citing (FCDO context) | — |
 | `commission_date` | 25/05 — Kotor ministerial 27-28 May 2025 (Iain confirmed: Kotor 2025 vs Herceg Novi 2026 = two events) | register + Iain |

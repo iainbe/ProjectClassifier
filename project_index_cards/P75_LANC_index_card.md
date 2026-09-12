@@ -13,9 +13,9 @@
 | `project_id` | P75-LANC | 01_projects.csv |
 | `project_name` | True North: Future Landscapes — AHRC Creative Cluster Application | SRC-G2-074 |
 | `client` | Lancaster University | register |
-| `contracting_role` | Places evidence commission — role TBC (remittance advice in folder suggests paid) | notes |
+| `contracting_role` | Places evidence commission — role TBC; paid status UNCONFIRMED (no payment doc found — earlier "remittance advice" claim was incorrect) | corrected 26/09/12 |
 | `commission_date` | 25/12 | register |
-| `contract_value` | NOT_DISCLOSED — remittance advice present in folder | notes |
+| `contract_value` | NOT_DISCLOSED — fee status UNCONFIRMED | corrected 26/09/12 |
 | `geography` | Lancaster / North | register |
 | `sector_focus` | Nature-Culture-Tech creative cluster | application |
 | `lifecycle_status` | BID_SUBMITTED — awaiting AHRC outcome | register |

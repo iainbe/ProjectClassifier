@@ -582,3 +582,11 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Method-provenance correction: LFF multiplier is LFO/Olsberg-agreed, not Fifth Sector's own
 - Green Book framing provenance traced to proposal team credentials, not report labels — T01 wording risk logged
 - Review blindspot logged: docx paragraph-only scanning misses tables — extraction must always include tables
+
+
+---
+
+# Pass 19: Challenges 4-9 (26/09/12)
+
+- P16 corrected to £61m (UKRI official figure); P33 lever menu verified+completed; P75 fabrication removed; P69 adoption strength marked; P82 FCDO user-confirmed
+- Two review false positives (P81 phases, P33 £75m) traced to same blindspot: table data invisible to paragraph/grep checks

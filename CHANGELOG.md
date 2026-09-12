@@ -141,3 +141,12 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - P27: SRC-G2-022 CDF Evaluation FINAL found on OneDrive (pre-migration archive) + extracted; all headline figures verified verbatim; FTE inconsistency specified (120 Table 14 vs ~160 narrative); Green Book/WELLBY framing corrected — not the report's language; Green Book provenance = Steve Sheppard/Adroit Economics HMT credentials in proposal
 - P81: gated sequence £5k→£80-100k→£150-300k VERIFIED in client note v2 table (earlier "unverifiable" verdict wrong — table scan missed); stage flux = key BC staff departure mid-project (Iain)
 - 02_sources.csv truncated by failed write (schema-drift hazard recurrence) — restored all 111 rows from repo mirror; SRC-G2-030 + SRC-G2-022 extract paths linked
+
+## 26/09/12 — Card challenges 4-9 resolved
+
+- P16: £80m corrected to £61m programme (£55m core, per official Frontier/BOP final eval — web-verified); £80m was press co-investment total; CICP2 = £50m initial
+- P33: £75m export lever VERIFIED in Table 18 (earlier challenge was false positive — bare numbers under £m header); full lever menu added: £100m IP + £75m export + £60m formalisation + £50m venues + £43m music-tech = £328m→£630m
+- P75: invented "remittance advice" claim removed; fee status UNCONFIRMED
+- P69: adoption claims marked EFFECT-REPORTED (external confirmation not located); National Library of Korea corrected
+- P82: FCDO basis marked Iain-confirmed
+- Review blindspots logged: (a) docx paragraph-only scanning misses tables; (b) grep for "£N" misses bare numbers under currency headers — verification must extract tables + check bare numerics
