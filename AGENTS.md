@@ -161,7 +161,7 @@ Before completing any QA batch, run ALL of these checks:
 ## Live-work capture rules
 
 ### Bid submission trigger
-When informed a bid was submitted: copy `bid_submission_record_template.md` to `bid_records/TND-YYYY-NNN_<name>.md` and ask for any empty fields in sections 1-4 — especially `fifth_sector_contribution` (specific sections/frameworks, never generic "bid support") and `interview_involvement`. Add row to `08_tenders.csv`. See `register_update_workflow.md`.
+When informed a bid was submitted: copy `bid_submission_record_template.md` to `bid_records/TXX_<name>.md` (bid_id = next `T-NN` from `08_tenders.csv`) and ask for any empty fields in sections 1-4 — especially `fifth_sector_contribution` (specific sections/frameworks, never generic "bid support") and `interview_involvement`. Add row to `08_tenders.csv`; add `01_projects.csv` row only if the bid work is a paid commission or deliverable body (P06/P07 precedent). See `register_update_workflow.md`.
 
 ### Bid outcome trigger
 On any outcome mention: complete record section 5. Always establish `stage_reached` (highest stage, not just final result) and `notification_type` — never infer "failed" from "not awarded". Then run the section 6 register checklist.

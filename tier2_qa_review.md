@@ -448,3 +448,24 @@ All pilot projects approved APPROVED_NAMED for tender submissions (TENDER_ONLY �
 
 ## Contract values recorded
 P02 £25k; P03 £25k; P10 £10k×3 cycles (£30k total); P01+P04 NOT_DISCLOSED; others NOT_ESTABLISHED.
+
+---
+
+# Pass 6: Live-work templates review (2026-09-12)
+
+## SHELDON verdict: PARTIALLY PROVEN
+- EXISTS+proven: bid_submission_record_template.md, project_management_record_template.md, register_update_workflow.md, bid_records/, project_records/, AGENTS.md live-work rules, tools/regenerate_index.py (executed+verified), repo sync (commit e56660d)
+- CONFIGURED: trigger rules are convention (fire when agent reads AGENTS.md); Drive-canonical rule unenforceable
+- PARTIALLY EXISTS: record directories empty awaiting first live event
+- UNKNOWN: trigger firing at real events — untestable until first use
+
+## SKiN verdict: FRICTION → cleared after fixes
+- Worst failure (fixed): bid template invented TND-YYYY-NNN ID scheme contradicting 08_tenders.csv T-NN convention; register-row rule undefined (P06/P07 precedent now codified: commissioned bid work → project row, speculative → tenders only)
+- Hidden opportunity: precedent_cards_cited field will record which track-record items appear in winning bids — conversion analytics for the toolkit itself
+- Residual friction: PM checklist requires opening the file — mitigated by standing monthly prompts, not eliminated
+
+## Fixes applied during review
+- tools/regenerate_index.py persisted (was session-only logic); includes schema-drift check
+- Bid ID scheme aligned to T-NN convention
+- Register-row rule defined in template, workflow, AGENTS.md
+- PM milestone section converted to self-contained checklist (event-triggered + standing monthly prompts)

@@ -1,8 +1,9 @@
 # Bid Submission Record — Template
 
 **Purpose:** completed WHEN a bid is submitted — not retrospectively. Captures contribution and outcome-stage detail that is otherwise lost (see P06-COSTAR / P07-CC: "failed bid" was actually shortlisted-on-submission).
-**Location:** copy to `bid_records/TND-YYYY-NNN_<short_name>.md` at submission.
+**Location:** copy to `bid_records/TXX_<short_name>.md` at submission.
 **Feeds:** `08_tenders.csv` row at submission; outcome section completed on notification; register/card/claims updated at outcome.
+**ID rule:** `bid_id` = next sequential `T-NN` from `08_tenders.csv` (T03, T04...) — same ID used for the file, the tenders row, and any project row. Do NOT invent a separate ID scheme.
 
 ---
 
@@ -10,7 +11,7 @@
 
 | Field | Value | Notes |
 |---|---|---|
-| `bid_id` | TND-YYYY-NNN | Sequential, year-prefixed |
+| `bid_id` | T-NN | Next sequential ID from 08_tenders.csv (T03, T04...) |
 | `tender_title` | | As stated by buyer |
 | `buyer` | | Organisation holding the contract |
 | `contracting_party` | | Who we actually contract with (may differ from buyer — see P02 MMU) |
@@ -18,7 +19,8 @@
 | `deadline` | | |
 | `submission_date` | | |
 | `submission_portal_ref` | | Confirmation/portal reference |
-| `08_tenders_row` | | Link to opportunity_id in 08_tenders.csv |
+| `08_tenders_row` | | opportunity_id — same as bid_id |
+| `register_row` | | 01_projects.csv project_id IF the bid work itself is a paid commission (P06/P07 precedent) or produces a deliverable body of work — otherwise leave blank |
 
 ## 2. Our position (at submission)
 
@@ -63,7 +65,7 @@
 ## 6. Post-outcome register actions (checklist — complete ALL)
 
 - [ ] `08_tenders.csv`: actual_outcome, outcome_source_id, feedback_status updated
-- [ ] `01_projects.csv` (if project record exists): lifecycle_status updated (SUBMITTED / SHORTLISTED_NOT_AWARDED / AWARDED / NOT_AWARDED)
+- [ ] `01_projects.csv` (if `register_row` set): lifecycle_status updated (SUBMITTED / SHORTLISTED_NOT_AWARDED / AWARDED / NOT_AWARDED)
 - [ ] Index card: lifecycle_status, client_decision_use, precedent_strength updated — record the HIGHEST stage, not just final result
 - [ ] `04_claims.csv`: any OPTION claims updated (option_state PROPOSED → EXERCISED/EXPIRED)
 - [ ] `09_publication_assets.csv`: if outcome changes what can be cited, update permitted_wording

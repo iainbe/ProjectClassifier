@@ -49,21 +49,37 @@
 | 1 | | | | |
 | 2 | | | | |
 
-## 5. Milestone updates (append one section per milestone/phase — prompts for evidence WHILE it happens)
+## 5. Milestone checklist (self-contained — tick items as they happen, no external prompt needed)
 
-### Milestone N — [date]
+**How to use:** each item below is a standing reminder for the life of the project. Tick `[x]` and date it when done; re-tick a new copy each phase. Copy this block per milestone if you want per-phase records, or maintain it as one rolling list.
 
-| Prompt | Entry |
+### Every deliverable draft sent
+- [ ] _Date:_ Version filed under `canonical/` (or named consistently with version records)
+- [ ] _Date:_ Emerging findings noted below (headlines, any quantified numbers)
+- [ ] _Date:_ Client reaction/problems recorded — including any rejection or revision request **as it happens** (P03 lesson: Jun 2025 rejection was only reconstructable via register notes)
+
+### Every client meeting / workshop
+- [ ] _Date:_ Anything the client did with the work noted (decision-use evidence)
+- [ ] _Date:_ Spillover observed or reported — PRODUCT / KNOWLEDGE / NETWORK — **with source** (who said it, where)
+- [ ] _Date:_ Option elements noted — proposed / held / exercised
+- [ ] _Date:_ Anything Fifth Sector did that others might later claim (attribution events)
+
+### Every invoice / phase boundary
+- [ ] _Date:_ Quantified results captured NOW — GVA, jobs, firms, counts (don't leave to the end)
+- [ ] _Date:_ Claim stubs for `04_claims.csv` noted
+- [ ] _Date:_ New documents/data noted for `02_sources.csv`
+
+### Standing prompts (review monthly while project is live)
+- [ ] Deliverables table (§4) still accurate? Dates/slippage recorded?
+- [ ] Any rejection, dispute or revision recorded — with dates?
+- [ ] Any option proposed to client that has since been exercised or expired?
+- [ ] Permission status still valid? (§3 — terms can change mid-project)
+- [ ] Contributors list still accurate? (people join/leave — P04 lesson)
+
+### Notes log (free text — newest first)
+| Date | Entry |
 |---|---|
-| `deliverables_status` | On track / revised / blocked |
-| `emerging_findings` | Headline findings so far — numbers where quantified |
-| `quantified_results` | Any numbers worth capturing NOW (GVA, jobs, firms, counts) |
-| `spillover_observed` | PRODUCT / KNOWLEDGE / NETWORK effects observed or reported — with source |
-| `option_elements` | Options proposed / held / exercised during this phase |
-| `attribution_events` | Anything Fifth Sector did that others might later claim |
-| `problems` | Rejections, disputes, revisions (see P03 lesson: record rejection history as it happens) |
-| `new_claims_to_log` | Claim stubs for 04_claims.csv |
-| `sources_to_register` | New documents/data for 02_sources.csv |
+| | |
 
 ## 6. Completion (at acceptance — complete ALL)
 

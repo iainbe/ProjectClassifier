@@ -10,9 +10,10 @@
 
 | Step | Action | Artefact |
 |---|---|---|
-| 1 | Copy `bid_submission_record_template.md` → `bid_records/TND-YYYY-NNN_<name>.md`, fill sections 1-4 | bid record |
+| 1 | Copy `bid_submission_record_template.md` → `bid_records/TXX_<name>.md`, fill sections 1-4. `bid_id` = next sequential `T-NN` from `08_tenders.csv` | bid record |
 | 2 | Add row to `08_tenders.csv` (opportunity_id = bid_id) | register |
-| 3 | `10_review_history.csv` entry | audit trail |
+| 3 | Add `01_projects.csv` row ONLY if the bid work itself is a paid commission or produces a deliverable body of work (P06/P07 precedent — lifecycle = BID_SUBMITTED). Speculative submissions stay in `08_tenders.csv` only | register |
+| 4 | `10_review_history.csv` entry | audit trail |
 
 **Prompt rule (AGENTS.md):** when Devin is told a bid went out, ask for any empty section 1-4 fields before proceeding — especially `fifth_sector_contribution` (specific, not "bid support") and `interview_involvement`.
 
@@ -68,7 +69,7 @@
 
 **Schema-drift rule (from Pass 4 repair):** before ANY CSV edit — verify field count AND positional semantics against the header. Right column count ≠ right values. Check 2-3 existing rows first.
 
-**Stale-artefact rule:** after card or register changes, regenerate `project_index.csv` — it derives from both, so any upstream change makes it stale.
+**Stale-artefact rule:** after card or register changes, regenerate `project_index.csv` — it derives from both, so any upstream change makes it stale. Script: `python3 tools/regenerate_index.py` (includes schema-drift check — exits with error if register columns are missing).
 
 ---
 
