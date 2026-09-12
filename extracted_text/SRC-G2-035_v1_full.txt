@@ -1,0 +1,1499 @@
+(Lancashire\222s)-9.9 ( )
+(Technology & Digital)-10 ( )
+Industries 2020/21
+Produced by Lancashire County Council
+Lancashire 
+Enterprise Partnership
+02
+(Digit)0.5 (al Econo)0.5 (my Report)0.5 ( 2021)
+Lancashire County Council
+03
+(Just over two hours from)-10 ( )
+(London by train, the county)-10 ( )
+(is also well connected via six)-10 ( )
+(major motorways. The rest of)-9.9 ( )
+(the world can also be reached)-10 ( )
+(easily via international airports)-9.9 ( )
+at Manchester and Liverpool.
+(Lancashire is a diverse and)-10 ( )
+(dynamic region geographically,)-10 ( )
+(culturally and socially.)-10 ( )
+<005201760003014B01A6>395 <0003>-167.9 <01010169016D000300D60003011500D60142017600D6016D0176012200F3000300F001370101014200F9>-10 <0003>
+(of bustling urban centres)-10 ( )
+(\(including Preston, Lancaster,)-10 ( )
+(Burnley and Blackburn\),)-10 ( )
+(picturesque rural villages, and)-10 ( )
+(lively seaside resorts \(such as)-10 ( )
+(Blackpool and Morecambe\).)-9.9 ( )
+(It\222s also home to swathes of)-10 ( )
+(unspoilt countryside including)-10 ( )
+(The Forest of Bowden - a)-10 ( )
+designated 
+(Area of Outstanding)-10 ( )
+(Natu)3 (ral Beauty)
+( - and miles of)-9.9 ( )
+(rugged coastline.)-10 ( )
+(And if that\222s not enough, the)-9.9 ( )
+(Yorkshire Dales and the Lake)-9.9 ( )
+District are right next door.
+<009C017D00F3011E000300F90122019101010169016D01220176019800030122016D000300D60137016D014B00030169010101AA>356.5 <0003>-139.5 <010100F30176010100F9>-20 <0003>
+<01220176016D00030169012200F3011E000300F3017D01370176017D016900D60137000300D6014200F90003013701010122016D017D016901010003014B01A6>390 <0003>-173 <01010169030D>-20 <0003>
+(From award winning English)-20 ( )
+(pubs and Michelin starred)-20 ( )
+(restaurants - through to street)-20 ( )
+(food, artisan producers and)-20 ( )
+(farmers\222 markets. There\222s also)-20 ( )
+(arts centres, live music venues,)-20 ( )
+(www.lancashire.gov.uk/business )-1810 (  @LancashireCC)
+Welcome to
+Located in the heart of England\222s North West, and bordering the city-\ regions 
+of Liverpool Manchester and Leeds, Lancashire has one of the largest reg\ ional 
+economies in the UK. 
+(theatre, galleries and museums)-20 ( )
+located throughout the county.
+( Major events, from outdoor)-10 ( )
+(theatre to folk music festivals,)-10 ( )
+(and from hit musicals to)-10 ( )
+(international air shows, are)-10 ( )
+(hosted throughout the year.)-10 ( )
+(Lancashire also has a great)-9.9 ( )
+(sporting tradition, an)-10 ( )
+(extensive range of exciting)-10 ( )
+(outdoor activities, great)-10 ( )
+(shopping - and much, much)-10 ( )
+(more - all on your doorstep.)-10 ( )
+(Find out more at)-10 ( )
+(www.visitlancashire.com)-10 ( )
+Contents
+p
+2
+(About)-10 ( )
+this report
+p
+3
+(About)-10 ( )
+(Lancashire)-9.9 ( )
+p
+6
+/
+7
+(Lancashire\222s)-10 ( )
+tech sector
+p
+8
+/
+9
+(Industrial)-10 ( )
+technology
+p
+10
+/
+11
+(Telecoms &)-10 ( )
+(connectivity)-10 ( )
+p
+12
+(Cyber)-9.9 ( )
+security
+p
+(13)-10 ( )
+(Coding &)-10 ( )
+programming
+p
+14
+(Tech-hubs)-10 ( )
+& testbeds
+p
+16
+(Digital health)-9.9 ( )
+& MedTech
+p
+17
+<009C0165010100F3012201A9>361.5 <0003>-134.5 <00F30003016D010100F30176014B0169>-10 <0003>
+(opportunities)-10 ( )
+p
+18
+(E-commerce &)-10 ( )
+(creative industries)-9.9 ( )10 (  )
+p
+19
+(Lancashire\222s tech)-10 ( )
+eco-system
+Lancashire
+People, Productivity & 
+Potential 
+With a \24334 billion economy, 
+Lancashire is home to 1.5 
+million people \(with a further 6 
+million living within an hour\222s 
+drive\). The region is also 
+home over 50,000 businesses 
+employing over 600,000 
+people.
+The county has a large, diverse 
+skills base across professional 
+<00D6014200F90003016D0134012201370137010100F900030176016900D600F90101016D0307000300D6014200F90003014B01A6>400.2 <0003>-163 <01010169016D000300D60003>
+<011E01220117011E01370198000300F3014B016D0176031F010101A6>400.1 <0003>-163 <010100F3017601220191010100030137014B00F300D601760122014B01420003>
+for businesses. 
+Wages are, on average, 
+10% lower than the UK\222s 
+average, while house prices 
+are around half that of the 
+national average.  As a result, 
+Lancastrians see their money 
+go much further. Employers 
+<00F300D60142000300D60137016D014B000300F001010142010101A9>366.6 <0003>-129.5 <017603070003016D00D601910122014201170003>
+<016D012201170142012201A9>366.5 <0003>-129.4 <00F300D601420176013701980003014B014200030176011E0101012201690003016D00D6013700D601690198000300F00122013701370003>
+without having to compromise 
+on talent. 
+Over a third of Lancashire\222s 
+working age population is 
+educated to degree level 
+or above, while its student 
+population - spread over 
+four universities - is over 
+55,000. Lancashire also has 
+13 FE colleges, many of which 
+specialise in vocational skills 
+and apprenticeships directly 
+aligned to the technology 
+sector. 
+Vocational courses \(ranging 
+from NVQ Level 2-7\) include 
+software development, IT, web 
+design, data analytics, data 
+science and cyber security.
+Commercial Connectivity
+Lancashire enjoys superb road 
+and rail connectivity, with 
+excellent north-south and 
+east-west access.
+By train from Preston, 
+Manchester Piccadilly is 
+just 36 minutes away, while 
+Manchester Airport can be 
+reached in less than an hour. 
+Liverpool John Lennon Airport 
+is also only 45 miles from 
+Preston and can be reached by 
+car within 60 minutes.  
+In addition, Preston station 
+has three trains an hour direct 
+to London, with a journey time 
+of under 2.2 hours.
+A Proud Technological 
+Tradition 
+Lancashire has a long, 
+proud history of industrial 
+innovation which stretches 
+back to the birth of the modern 
+manufacturing. Richard 
+Arkwright\222s revolutionary 
+cotton spinning technology 
+- developed in Lancashire in 
+1767 - is widely credited with 
+<0134012200F30134031F016D017600D60169017601220142011700030176011E010100030192014B0169013700F9032A016D000301A9>366.7 <0003>-129.5 <0169016D01760003>
+industrial revolution. 
+Today, this dynamic 
+entrepreneurial tradition is 
+<0169010101AA>366.5 <0003>-129.5 <010100F30176010100F90003012201420003006400D6014200F300D6016D011E012201690101032A016D000301170137014B00F000D601370003>
+reputation for excellence in 
+advanced manufacturing, 
+energy, automotive, food 
+production, and many other 
+key sectors. 
+International names based 
+here - such as Rolls Royce, BAE 
+Systems, TRW, Sanko-Gosei, 
+Safran, PACCAR and Toshiba 
+Westinghouse - are further 
+testament to Lancashire\222s 
+status as an economic 
+powerhouse.  
+Aerospace in particular is 
+a core economic strength. 
+Lancashire is not only the UK\222s 
+number one aerospace cluster 
+- with around 500 aerospace 
+companies - it is the fourth 
+largest aerospace cluster in the 
+world.
+In addition to these companies 
+investing heavily in their own 
+technological capabilities, 
+many of them are working 
+closely with our universities to 
+drive new digitally based R&D 
+opportunities. 
+Lancashire is also pursuing 
+(rapid )0.5 (growth )0.5 (in )0.5 (other )0.5 (emerging )
+technology sectors such as 
+MedTech, 5G, Future Mobility, 
+UAVs, renewables, CleanTech, 
+AgriTech and MarineTech. 
+Investment & Support For 
+Business 
+Lancashire has a powerful 
+eco-system based on a strong 
+private and public sector 
+partnership which underpins 
+its economic prosperity. 
+The 
+Lancashire Enterprise 
+Partnership
+ has, for example, 
+established a technology 
+sector group, led by local tech 
+entrepreneurs and digital 
+business leaders, which advises 
+on the county\222s technology 
+investment strategy.    
+There are also regional 
+investment programmes to 
+support scale-ups - such 
+as the 
+Northern Powerhouse 
+(Investment Fund and Access T)26.1 (o )
+Finance
+.
+Lancashire also enjoys 
+<016D012201170142012201A9>366.6 <0003>-129.5 <00F300D60142017600030122014201910101016D0176013F0101014201760003>
+and support from national 
+government. As a result, 
+Lancashire is the only UK 
+region to have been granted 
+four Enterprise Zone sites 
+\(special investment areas 
+<016D0165010100F3012201A9>366.6 <0003>-129.5 <00F300D6013701370198000300F90101016D012201170142010100F900030176014B0003>
+help businesses grow\). One 
+of these, at Samlesbury, is 
+primarily focused on industrial 
+technological innovation and 
+digitalisation. 
+An economic powerhouse in its own right 
+Wages are, on average, 10% lower 
+than the UK\222s average, while house 
+prices are around half that of the 
+national average
+Preston
+Manchester
+Manchester Airport
+London
+36 mins
+60 mins
+2hrs 15mins
+Lytham St. Annes
+Blackpool
+Fleetwood
+Poulton-le-Fylde
+Preston
+Garstang
+Lancaster
+Morecambe
+Clitheroe
+(Bu)4 (rnley)
+Accrington
+(Blackbu)4 (rn)
+Chorley
+Ormskirk
+Skelmesdale
+Nelson
+Colne
+Leyland
+Rossendale
+Rawtenstall
+04
+(Digit)0.5 (al Econo)0.5 (my Report)0.5 ( 2021)
+Lancashire County Council
+05
+Technology Landscape
+www.lancashire.gov.uk/business
+  @LancashireCC
+(Lancashire\222s)-9.9 ( )
+Technology Landscape
+Infographic to Follow
+06
+(Digit)0.5 (al Econo)0.5 (my Report)0.5 ( 2021)
+Lancashire County Council
+07
+Applied Industrial Technology
+(www.lancashire.gov.uk/business )-1810 (  @LancashireCC)
+(At the heart of Applied)-10 ( )
+(Industrial Technology)-10 ( )
+One of the core foundations 
+of Lancashire\222s thriving 
+economy and high-value 
+skills base is its globally 
+recognised aerospace, energy 
+and advanced manufacturing 
+sectors. By their very nature, 
+these industries are entirely 
+reliant on technological 
+innovations, bespoke digital 
+solutions, and highly secure 
+\(yet scalable\) systems, to 
+remain competitive.
+This - coupled with the rapid 
+migration to cloud-based 
+platforms, edge computing, 
+IIoT, predictive maintenance, 
+and other digitalised and 
+Industry 4.0 processes  - 
+means having robust and 
+reliable cyber security at every 
+level of the business is crucial.
+Lancashire\222s world-leading 
+cyber security expertise, in 
+both industrial and critical 
+infrastructure settings \(see 
+page 12\), is therefore playing 
+a vital role within these and 
+other tech hungry industrial 
+sectors. 
+In addition, our universities 
+are driving technology-
+based R&D programmes in 
+partnership with industry and 
+are devising and delivering 
+courses and vocational training 
+which is directly aligned to the 
+digital demands of employers.
+There is also enterprise-
+level connectivity embedded 
+throughout the county, 
+including a gateway to a subsea 
+<01A9>366.5 <0003>-129.5 <00F00169010100030142010101760192014B01690134000300D600F30169014B016D016D00030176011E010100030070014B01690176011E0003>
+Atlantic. \(see page 11\). 
+A digitalised supply chain
+Lancashire\222s deep supply 
+chains - which already serve 
+established tech-dependent 
+industries such as aerospace 
+and energy, and related 
+sectors - have embraced new 
+digital technologies, advanced 
+production methods, and 
+Industry 4.0 practices. 
+Growth areas here include 
+advanced materials, 
+CNC, robotics, additive 
+manufacturing, precision 
+engineering, VR and digital 
+twins, low-carbon solutions, 
+and intralogistics.  
+Public health and social care 
+are other areas where the 
+county\222s technology suppliers 
+are pivoting  to meet changing 
+market needs. Telemedicine, 
+3D-printing, and personalised 
+digital health apps, are just 
+some of the MedTech areas 
+which are growing. 
+Lancashire also has an agile  IT 
+support sector, with expertise 
+in managed IT, cloud and 
+network services. 
+A fast-growing electech 
+industry 
+Lancashire\222s fast growing 
+<01010137010100F30176010100F3011E0003014B01A6>400.1 <0003>-163 <010101690003031F00030192011E012200F3011E0003>
+encompasses electronics, 
+electrical hardware and 
+embedded software - further 
+<0169010101AA>366.5 <0003>-129.5 <010100F30176016D0003011E014B0192000301220176016D0003016D017D0165016501370198000300F3011E00D6012201420003>
+has adapted to meet new 
+commercial needs. 
+The Morecambe Bay and 
+Lancaster areas are, in 
+particular, home to a 
+growing cluster of companies 
+specialising in industrial 
+control systems, navigation 
+technology, battery storage 
+and other electech disciplines. 
+This has led to the formation 
+of Lancashire\222s 
+Electech 
+Innovation Cluster
+ \(EIC\) - an 
+industry-led consortium 
+of tech businesses whose 
+aim is to bridge the gaps 
+between electech research, 
+R&D, government policy, and 
+education. 
+Founded by six major electech 
+<01A9>366.5 <0003>-129.5 <0169013F016D0003031F00030044014B0169016D00F00101016901170307000300640122013401010003>
+Technologies, LiNa Energy, 
+Marl, OTAQ and Rinicom- the 
+EIC is backed by Lancaster 
+University, RTC North, the UK 
+Electronics Skills Foundation, 
+and Innovate UK. 
+(Indust)0.5 (ry partnerships & pilot)0.5 (s)
+Lancashire is renowned for its 
+participation in government 
+and industry-led  technology 
+pilot schemes. 
+Lancashire\222s world-leading cyber 
+security expertise, in both industrial 
+and critical infrastructure settings, 
+is playing a vital role within tech 
+dependent sectors
+As digitalisation accelerates, many of Lancashire\222s major industrial \ sectors are developing 
+(and deploying advanced technologies which need to be smart, scalable and\  secu)4 (re.   )
+An example is the 
+government-backed 
+Made 
+Smarter
+ Industry 4.0 support 
+<01650169014B0117016900D6013F013F010100030192011E012200F3011E0003014B01A6>400.1 <0003>-163 <01010169016D0003>
+funding and advice to SMEs 
+regarding the adoption of 
+more advanced manufacturing 
+technologies. Lancashire was 
+<014B014201010003014B011500030176011E0101000301A9>366.6 <0003>-129.5 <0169016D0176000300D60169010100D6016D00030176014B0003016501220137014B01760003>
+the scheme, which is now 
+being rolled-out in other 
+regions.
+The county has also recently 
+been working in partnership 
+with the government on two 
+pioneering skills projects, the 
+DCMS-funded 
+(Fast T)19 (rack Digital )
+Workforce
+ programme and the 
+DfE\222s 
+Digital Skills Bootcamp
+pilot \(which is now rolling-
+out nationally\). Both schemes 
+have enabled employers to 
+fast-track people into digital 
+employment in skills shortage 
+areas such as electronics 
+technology, software 
+programming, cyber security, 
+(digital marketing, and DevOps. )151.8 ( )
+Another example is the 
+ACaDEmE
+ programme, a 
+partnership between BAE 
+Systems, Lancaster University, 
+and local SMEs, which 
+enables training for students, 
+apprentices and young people 
+in technical disciplines such 
+as additive manufacturing and 
+VR.
+<007A017D01690003011500D6016D0176031F01170169014B0192012201420117000301010137010100F30176010100F3011E0003014B01A6>400.2 <0003>-163 <010101690003>
+<0169010101AA>366.5 <0003>-129.5 <010100F30176016D0003011E014B01920003006400D6014200F300D6016D011E012201690101032A016D000300F90101010101650003>
+supply chain has adapted to meet 
+new commercial needs
+UK #1
+UK\222s Number 1 
+aerospace cluster, 
+and 4th biggest in 
+the world
+3,500
+Lancashire is 
+home to 3,500 
+nuclear specialists
+08
+(Digit)0.5 (al Econo)0.5 (my Report)0.5 ( 2021)
+Lancashire County Council
+09
+Delivering Digital Data
+(www.lancashire.gov.uk/business )-1810 (  @LancashireCC)
+(Delivering Digital Data)-10 ( )
+With vast expertise across 
+<01A9>366.5 <0003>-129.5 <0197010100F9031F0137012201420101000300F3014B01420142010100F301760122019101220176019803070003>
+industrial cabling and ethernet 
+networking,  data transfer and 
+storage, VoIP technologies 
+and wireless, the county is 
+now embracing the exciting 
+<014B01650165014B01690176017D01420122017601220101016D0003014B01A6>400.1 <0003>-163 <01010169010100F9000300F001980003>
+5G/6G, private networks, IIoT 
+and Industry 4.0 connectivity.
+The county\222s wireless industry 
+alone has seen over 30% 
+growth between 2014-19, while 
+the region\222s concentration of 
+communications equipment 
+manufacturing is over four 
+times the national average.
+In March 2021, Rossendale-
+based Mission Labs \(who 
+developed the CircleLoop VoIP 
+telephony product for micro-
+businesses\), was acquired by 
+the Gamma software group in a 
+\24346m deal.
+Outstanding telecoms talent 
+Lancashire\222s mature 
+telecoms sector means it 
+has an established, highly- 
+skilled telecoms workforce 
+of over 5,300 \(spanning 
+wired, wireless and satellite 
+specialisms\) working for over 
+<02D102CF02CF000301A9>366.5 <0003>-129.5 <0169013F016D030D>
+These include major operators, 
+such as enterprise telco Daisy 
+Communications, together 
+with niche providers such as 
+The Networking People \(a 
+large-scale private network 
+developer\), and B4RN \(supplier 
+<014B011500030115017D01370137031F01A9>366.6 <0003>-129.5 <00F001690101000300F00169014B00D600F900F000D6014200F900030176014B0003>
+remote locations\).
+5G & the future 
+Lancashire\222s telecoms pedigree 
+was a key driver in bringing the 
+ground-breaking 5G 
+Factory 
+(of the Futu)3 (re)
+ testbed to the 
+county. 
+Backed by government, and 
+based at the Salmesbury 
+Enterprise Zone \(adjacent to 
+the AMRC, see page 14\), the 
+facility brings major players 
+from the private and public 
+sectors together to drive the 
+development, deployment 
+and adoption of 5G-enabled 
+technologies in multiple 
+settings.
+Partners in the project, in 
+addition to the AMRC, include 
+BAE Systems, IBM and private 
+network specialist aql.  
+Also contributing to the project 
+is Miralis, a Lancashire-based 
+global logistics and data 
+optimisation business whose 
+customers include Europcar, 
+the 
+(Department for T)19.1 (ransport)
+, 
+Disney, Diageo, Shell, and the 
+Co-Op.    
+Further 5G innovation is 
+being driven by  Lancaster 
+University\222s 
+Communication 
+Systems Research Group
+,  
+which is currently focusing 
+on 5G within advanced 
+manufacturing, and Edge 
+Hill University, which has 
+with dedicated research 
+programmes linked to wired, 
+wireless and 5G networking.
+Commercial communications 
+connectivity  
+Lancashire is rapidly 
+building capacity to enable 
+faster, higher volume - and 
+more secure - transfer and 
+storage of digital data. With 
+<0101019700F3010101370137010101420176000301A9>366.6 <0003>-129.5 <00F001690101000300F3014B01420142010100F30176012201910122017601980003>
+already installed in many 
+conurbations, next generation 
+digital infrastructure is being 
+rapidly rolled-out.
+This includes a new county-
+wide gigabit network being 
+developed by IX Wireless. 
+Unlike traditional \221dig and 
+cover\222 operators, IX Wireless 
+<00F9010101650137014B0198016D000300D6000301A9>366.6 <0003>-129.5 <00F001690101000301690122014201170307000300F300D6016901690122010100F90003>
+above ground on its own 
+telegraph pole infrastructure 
+<031B00D6016D00030192010101370137000300D6016D000301A9>366.6 <0003>-129.5 <0197010100F90003019201220169010101370101016D016D0003>
+technologies\) to deliver gigabit 
+capability.
+Already having achieved 80% 
+domestic and commercial 
+coverage in Blackburn, the 
+company has plans to  extend 
+its reach to four million 
+premises by 2025.
+Lancashire has also invested 
+in high-speed, high-volume 
+global connectivity. This is 
+<010101970101013F01650137012201A9>366.6 <0003>-129.5 <010100F9000300F00198000301220176016D000300F3014B00D6016D017600D601370003>
+gateway to the North Atlantic 
+Loop; a high-capacity, ultra-
+low latency subsea network 
+which connects the county 
+directly to North America and 
+Europe.
+This connection means that 
+Lancashire companies can 
+enjoy faster transatlantic 
+switching speeds via  New 
+York rather than being routed 
+through a London exchange. 
+Having access to this network 
+- which  has the capability 
+to carry more than 30% of 
+<0176011E010100030192014B0169013700F9032A016D00030122014201760101016901420101017600030176016900D601A7>755.5 <0003>-140.7 <0003>-140.6 <00F30003>
+<031F000300D60137016D014B000300F30169010100D601760101016D0003016D012201170142012201A9>366.7 <0003>-129.5 <00F300D6014201760003>
+opportunities within the 
+hyperscale Data Centre market.
+It further gives the region 
+a competitive edge in 
+global mass data  markets 
+such as smart cities & IoT, 
+e-sports & online gaming,  
+Ultra-HD content, and OTT 
+entertainment services. 
+The region\222s 
+concentration of 
+communications 
+equipment 
+manufacturing is 
+over four times 
+the national 
+average
+Lancashire\222s 
+telecoms 
+pedigree was 
+a key driver in 
+bringing the 
+ground-breaking 
+5G Factory of the 
+Future testbed to 
+the county
+Lancashire has been at the frontline of the UK\222s advanced telecommuni\ cations industry 
+for a generation and telecoms is the county\222s second largest technolo\ gy employer.
+4m
+Starting in East 
+Lancashire, Wireless 
+IX has a target of 
+four million gigabit 
+connections by 2025
+30%
+(2014-19 saw)-19.5 ( )
+(30% grow)0.5 (t)0.5 (h in)-19.9 ( )
+(Lancashire\222s w)0.5 (ireless)-19.9 ( )
+(indust)0.5 (ry)
+10
+(Digit)0.5 (al Econo)0.5 (my Report)0.5 ( 2021)
+Lancashire County Council
+11
+Cyber Security & Digital Defence
+(www.lancashire.gov.uk/business )-1810 (  @LancashireCC)
+(Cyber Security,)-10 ( )
+Coding & Computing
+As home to many highly 
+sensitive industrial sectors 
+- including defence, energy, 
+aerospace, advanced 
+manufacturing and national 
+food production - so 
+Lancashire has established 
+a world-leading expertise in 
+cybersecurity.
+And while much of this is 
+focused on corporate online 
+protection - especially as 
+more industrial sectors adopt 
+cloud-based processes, IIoT 
+and private wireless networks 
+- the county is also developing 
+robust cyber security provision 
+which supports SMEs and 
+consumers.
+From campus to containment 
+The county\222s universities have 
+driven much of this work, with 
+Lancaster University at the 
+forefront. 
+They have established the 
+(Lancaster Cyber Secu)3.1 (rity )
+Centre of Excellence
+, a 
+multi-disciplinary hub and 
+testbed which is renowned 
+internationally for its research 
+into every dimension of cyber 
+security. 
+This includes monitoring and 
+anticipating emerging threats, 
+identifying new hacking 
+tactics, developing faster 
+threat detection methods, 
+and exploring cyber-attack 
+motivations and psychology.
+ Lancaster\222s expertise is 
+<0115017D01690176011E0101016900030169010101AA>366.6 <0003>-129.5 <010100F30176010100F9000301220142000301220176016D000300F3019800F0010101690003>
+security master\222s degree, only 
+<014B014201010003014B0115000301A9>366.6 <0003>-129.5 <01910101000301650169014B0117016900D6013F013F0101016D00030122014200030176011E01010003>
+<00AD0062000300F3010101690176012201A9>366.6 <0003>-129.5 <010100F9000300F0019800030176011E01010003007000D601760122014B014200D601370003>
+Cyber Security Centre \(NCSC\).
+Private sector protection 
+Such world-class, R&D-led  
+cyber security provision is 
+reinforced by private sector 
+specialists such as Mitigate 
+Cyber, whose sector expertise 
+includes energy, telecoms, 
+<01A9>351.5 <0003>-144.5 <01420176010100F3011E000300D6014200F9000301650169014B01150101016D016D0122014B014200D601370003016D010101690191012200F30101016D030D>
+(Mitigate, which is a member)-10 ( )
+of the 
+(Cyber Resilience Centres)-9.9 ( )
+(T)19 (rusted Partners)
+( network \(which)-10 ( )
+(works closely with GCHQ\) also)-10 ( )
+(undertakes ethical hacking)-10 ( )
+(and penetration testing across)-10 ( )
+(a wide range of industries. It)-10 ( )
+<0115017D01690176011E010101690003014B01A6>395 <0003>-168 <01010169016D00030176016900D601220142012201420117000300D6014200F9>-9.9 <0003>
+(cyber assessments which are)-9.9 ( )
+<00F3010101690176012201A9>361.5 <0003>-134.5 <010100F9000300F0019800030176011E0101000300700021009C0021030D>-10 <0003>
+Lancashire is home to 
+numerous other cyber security 
+providers and consultancies 
+which work across industrial, 
+commercial and consumer 
+markets. 
+SMEs can also explore and 
+develop new cyber security 
+technologies via the 
+Lancashire 
+Cyber Foundry
+, a government-
+backed initiative delivered in 
+partnership with four North 
+West universities, including 
+Lancaster. 
+Coding, Computing & 
+Creating
+(Coding and software)-20 ( )
+(development capabilities are)-20 ( )
+(key technology drivers and)-20 ( )
+<006400D6014200F300D6016D011E0122016901010003011E00D6016D000300D60003016D012201170142012201A9>356.5 <0003>-139.5 <00F300D601420176>-20 <0003>
+<01650169014B0165016901220101017601980003005200940003014B01A6>390.1 <0003>-173.1 <010101690003031F00030176014B011701010176011E01010169>-20 <0003>
+(with scalable \221white label\222 skills)-20 ( )
+and capacity - across the county.
+Lancashire has over 2,100 
+businesses working within 
+computer programming, 
+consultancy, and related 
+services, which employ over 
+7,000 people. 
+Between 2014-19, this 
+market grew by over 20%, 
+making it the county\222s largest 
+digital technology sector. 
+More recent research has 
+<012200F9010101420176012201A9>366.6 <0003>-129.5 <010100F900030176011E0101000300F3014B017D0142017601980003011E00D6016D0003>
+15,000 professionals working 
+<016D0165010100F3012201A9>366.6 <0003>-129.5 <00F300D60137013701980003019201220176011E012201420003016D014B01150176019200D6016901010003>
+and software development \(a 
+majority of which are high-
+skilled, high-value roles\). 
+Another indicator of the 
+county\222s growing software 
+market is its rapidly expanding 
+<016D014B01150176019200D60169010100030165017D00F001370122016D011E0122014201170003014B01A6>400.2 <0003>-163 <01010169030D0003>
+Between 2014-19, this sector 
+more than doubled is size. 
+A programming pipeline
+Lancashire\222s long-established 
+technology tradition, 
+developed by helping 
+sectors such as advanced 
+manufacturing, telecoms, 
+energy and aerospace adopt 
+new digital protocols, means 
+the county has extensive 
+expertise in upgrading, 
+integrating and securing legacy 
+systems. 
+Between 2014-
+19 Lancashire\222s 
+(computing )0.6 (sector )
+grew by over 
+20%, making 
+it the county\222s 
+largest digital 
+technology 
+market
+(Lancashire\222s world-class expertise in cybersecu)4.4 (rity spans from defending critical infrastructu)4 (re and )
+protecting national government networks to preventing industrial espiona\ ge, blocking consumer 
+malware, and safeguarding children. 
+Workers with experience of 
+programming languages such 
+as .NET have been key to this, 
+especially when required to 
+<00F90101019101010137014B0165000300F3014B016D0176031F010101A6>400.1 <0003>-163 <010100F3017601220191010100030169010101760169014B01A9>366.6 <0003>-129.5 <01760003>
+solutions for companies 
+looking to digitalise their 
+processes. 
+Lancashire\222s pipeline of 
+next generation coders and 
+programmers is also healthy, 
+underpinned by its world-class 
+higher education provision.  
+For example, Lancaster 
+University is home to the 
+School of Computing and 
+Communications
+ \(ranked #6 
+in the country in the latest 
+Guardian University League 
+Table
+ for computer science and 
+information systems\). 
+Edge Hill University and UCLan 
+also have well-established 
+specialisms in software 
+development, software 
+engineering, and related 
+technology disciplines.
+As result, the county produces 
+over 1,0000 graduates a 
+year with high quality, 
+industry-relevant computing, 
+technology and engineering 
+expertise.
+Lancaster 
+University\222s 
+cyber security 
+master\222s degree 
+is only one of 
+<01A9>366.5 <0003>-129.5 <0191010100030122014200030176011E0101000300AD00620003>
+<00F3010101690176012201A9>366.6 <0003>-129.6 <010100F9000300F0019800030176011E01010003>
+National Cyber 
+Security 
+Centre
+15,000
+Lancashire is home 
+to 15,000 software 
+professionals
+10,000+
+Graduates every 
+year with computing, 
+technology and 
+engineering skills
+12
+(Digit)0.5 (al Econo)0.5 (my Report)0.5 ( 2021)
+Lancashire County Council
+13
+Industy-led Innovation
+(www.lancashire.gov.uk/business )-1810 (  @LancashireCC)
+(Industry-led)-9.9 ( )
+(Innovation)-10 ( )
+Lancashire\222s mix of high-
+value industries, highly skilled 
+workforce, geographical 
+connectivity, and its strong 
+regional economy, means 
+it is already enjoying rapid, 
+technology-led growth.
+This, when coupled with the 
+industry-led R&D provision 
+being developed by its 
+universities; the county\222s 
+pipeline of industry-relevant 
+graduate and young talent; 
+(and major investments in new, )110.1 ( )
+technology facilities; adds up 
+to an even greater opportunity.
+The home of high-tech hubs 
+& testbeds  
+Lancashire has invested 
+<016D012201170142012201A9>366.5 <0003>-129.4 <00F300D60142017601370198000301220142000300D60003016D0101016901220101016D0003014B01150003>
+strategic, industry-focused, 
+and collaborative technology 
+hubs, digital testbeds, 
+innovation sandpits, and 
+centres of R&D excellence, to 
+unlock commercial potential:
+The Advanced Manufacturing 
+Research Centre \(AMRC\) North 
+West
+Based at the Samlesbury 
+Enterprise Zone, the AMRC 
+North West has been created 
+to accelerate the development 
+and adoption of Industry 4.0  
+technologies and processes 
+across all manufacturing 
+disciplines. 
+Part of the national AMRC 
+network, which is HQ\222d at the 
+<00AD01420122019101010169016D0122017601980003014B01150003009C011E010101A7>755.5 <0003>-140.7 <0003>-140.7 <0101013700F9030700030176011E01010003>
+Lancashire facility is a world-
+leading research centre for 
+advanced manufacturing R&D. 
+It\222s also home to Lancashire\222s 
+(5G Factory of the Futu)3.1 (re)
+ \(see 
+page 10\).
+The BAE Academy for Skills & 
+Knowledge \(ASK\)
+BAE System\222s ASK centre - also 
+based at Samlesbury  - is an 
+integrated skills hub which 
+trains technology apprentices 
+for both BAE and other 
+Lancashire employers. 
+ASK\222s leading-edge equipment 
+and systems exactly mirror 
+the latest technologies used 
+on BAE\222s own production 
+line such as robot cells, a VR 
+cave, and industrial additive 
+manufacturing equipment.
+UCLan\222s Engineering 
+Innovation Centre
+UCLan\222s  
+Engineering 
+Innovation Centre
+ \(EIC\) 
+in Preston provides 
+Lancashire\222s next generation 
+of technologists, engineers, 
+and tech-led SMEs, with 
+real-world experience on live 
+industrial challenges  involving 
+robotics, mechatronics, AI and 
+advanced materials. 
+Recently the EIC secured over 
+\2433m of investment to develop 
+new drone technologies and 
+is the home of the 
+Lancashire 
+Drone Command and Control 
+Centre
+. This is  a centre of 
+excellence for applied drone 
+research, with a particular 
+focus on commercial and 
+enterprise applications.  
+Lancaster University\222s Health 
+Innovation Campus
+The 
+Lancaster Health Innovation 
+Campus
+ \(LHIC\) is focused on 
+the development of health-
+related products and services 
+including digital health and 
+MedTech innovation. 
+A collaborative space - which 
+brings both businesses and 
+health providers together - its 
+mission is to take a solution, 
+place-based approach to 
+addressing global health 
+issues. 
+The LHIC will create new, 
+high-value jobs, and help 
+<006400D6014200F300D6016D011E012201690101000301A9>366.6 <0003>-129.5 <0169013F016D000300F90101019101010137014B01650003>
+innovative products and 
+services which can be quickly 
+commercialised. Larger 
+organisations, including 
+national and international 
+healthcare providers, can 
+access LHIC\222s extensive 
+network of digital health 
+experts - and R&D facilities - 
+to develop scalable MedTech 
+opportunities. 
+Edge Hill University\222s  Centre 
+for Data and Complex Systems
+Edge Hill\222s CDCS supports 
+international excellence in 
+computer and data science with 
+a particular emphasis on data 
+analytics, data representation 
+and visualisation. Other 
+specialisations include 
+interoperable and 
+interconnected distributed 
+technologies and 
+infrastructures; future internet 
+and cloud computing; IoT; 
+disruptive technologies; and 
+cyber security. 
+Edge Hill is also home to the 
+Productivity & Innovation Centre
+\(PIC\), a business-focused hub 
+which helps SMEs increase 
+<010101A7>755.3 <0003>-140.6 <0003>-140.7 <00F301220101014200F3019800030176011E0169014B017D0117011E0003016D013F00D6016901760101016903070003>
+data-led product development 
+and digital innovation.
+In addition to higher education 
+provision and facilities aligned 
+to industry, Lancashire also 
+has an outstanding further 
+<010100F9017D00F300D601760122014B01420003014B01A6>400.1 <0003>-163 <0101016900030192011E012200F3011E000300F300D601420003011E0101013701650003>
+meet the needs of specialist 
+technology sectors. 
+For example, Myerscough 
+College, based near Preston, 
+is a leader in AgriTech 
+research, while the Energy HQ 
+at Blackpool & Fylde College 
+specialises in vocational 
+engineering training for the 
+commercial energy sector.
+Lancashire has a dynamic, technology-led R&D ecosystem which is set to d\ rive 
+<01170169014B01920176011E000300D6014200F9000300F30169010100D6017601010003016D012201170142012201A9>330.2 <0003>-93 <00F300D601420176000300F3014B013F013F0101016900F3012200D601370003014B01650165014B01690176017D01420122017601220101016D000300D600F30169014B016D016D000300D60003016900D60142011701010003014B01150003016D010100F30176014B0169016D030D0003>110.9 <0003>111 <0003>
+Industry-led R&D provision, 
+a pipeline of industry-relevant 
+talent, and major investments in 
+new  technology facilities, adds 
+up to a great opportunity
+\243100m+
+invested in new 
+high-tech collab 
+hubs across
+Lancashire
+Lancashire\222s next generation of 
+technologists, engineers, and tech-
+led SMEs, get real-world experience 
+on live industrial challenges involving 
+robotics, mechatronics, AI and 
+advanced materials
+\2433m
+of funding recently 
+secured to develop 
+commercial drone 
+technologies 
+14
+(Digit)0.5 (al Econo)0.5 (my Report)0.5 ( 2021)
+Lancashire County Council
+15
+www.lancashire.gov.uk/business
+  @LancashireCC
+(Digital Health)-10 ( )
+(& )-10 (MedTech)-10 (  )
+For example, UCLan\222s 
+pioneering 
+(Neu)3 (ro-)
+Rehabilitation Online
+ project 
+involves academics  working 
+with the NHS to pilot an online 
+tele-rehabilitation initiative 
+to help support survivors of 
+stroke and brain injuries.  
+Telecare - and \221at home\222 
+smart technologies - also 
+underpins East Lancashire 
+Hospitals NHS Trust\222s work on 
+pioneering digital discharge 
+technologies. This involves 
+installing sensors in the homes 
+of patients to monitor their 
+recovery remotely. 
+The private sector is also 
+ramping up its digital health 
+the NHS. 
+Sundown Solutions is working 
+with the NHS on a web-based 
+dashboard that accurately 
+tracks bed availability in 
+hospitals, while Redmoor 
+Health \(which has grown from 
+just two to twenty employees 
+in the last two years\) is 
+supporting the NHS with 
+AI-enabled cancer treatment 
+screening applications.  
+Lancashire is also the UK home 
+of Alcidion, an Australian 
+health informatics company 
+which is working with the NHS 
+to develop mobile solutions 
+to help detect deteriorating 
+opportunity in Lancashire which is geared to up meet the demands of a mo\ re 
+(p)-20 (e)-20 (r)-20 (s)-20 (o)-20 (n)-20 (a)-20 (l)-20 (i)-20 (s)-19.9 (e)-20.1 (d)-19.9 ( )-20.1 (-)-19.9 ( )-20 (a)-20 (n)-20 (d)-20 ( )-20 (more preventative - approach health and social care.)-20 ( )
+are working with 
+the NHS on a 
+range of digital 
+health solutions 
+including 
+telemedicine, 
+AI-enabled 
+cancer screening, 
+and predictive 
+hospital bed 
+management 
+(Tech Hungry)-10 ( )
+(Sectors)-10 ( )
+Aerospace 
+(Anchored by BAE Systems)-10 ( )
+\(which produces the 
+(T)26 (yphoon)-10 ( )
+<0031017D>3 <0169014B01A90117011E0176010101690003>
+(and sections of)-10 ( )
+the 
+F-35 Lightning II
+(\), and)-9.9 ( )
+(employing over 13,000 people,)-10 ( )
+(Lancashire is the world\222s fourth)-10 ( )
+(largest aerospace cluster.)-10 ( )
+(BAE is a global leader in applied)-10 ( )
+(aerospace technologies.)-10 ( )
+(Next generation BAE aircraft)-10 ( )
+(\(including the autonomous)-9.9 ( )
+Taranis
+ and the 
+Tempest
+<000301A90117011E017601010169031C>-10 <0003>
+(are being developed using AI,)-10 ( )
+(robotics, VR, digital twinning,)-10 ( )
+(IIoT, and a host of cloud and)-10 ( )
+edge-based processes.
+Lancashire is also home to 
+aerospace giants such as Rolls 
+Royce, Aircelle, Kaman and 
+Magellan, who themselves 
+are rapidly digitalising their 
+production lines. These in turn 
+support a local supply chain 
+many of which have adopted 
+new technologies to meet 
+evolving client demands.
+Energy 
+concentration of  energy assets 
+including oil, gas, nuclear 
+and renewables. It\222s energy 
+supply chain also has extensive 
+utilities, transmission and 
+distribution expertise. 
+Within nuclear - which alone 
+employs over 3,500 people 
+Lancashire is home to several major industrial sectors which are rapidly\  adopting new digital processes 
+(to stay competitive. With many involved in defence and critical infrastr\ uctu)4 (re, they constantly require the )
+(most robust technologies, the most skilled technicians, and the highest \ levels of cyber secu)4 (rity, available.)
+Lancashire\222s 
+key industrial 
+sectors require 
+the most robust 
+technologies, 
+the most skilled 
+technicians, and 
+the highest levels 
+of cyber security, 
+available
+patients on hospital wards. 
+Alcidion already works 
+with 300 hospitals across 
+Australasia and the UK.
+Another exemplar is ORCHA, 
+a company which carries 
+out independent reviews of 
+digital health apps on behalf 
+of national and international 
+healthcare providers. With 
+customers including 
+Public 
+Health England, MHRA, NHS 
+Digital,
+ the 
+Mental Health 
+Commission of Canada
+, and 
+the 
+American Telemedicine 
+Association
+, ORCHA holds a 
+library of 9,000 audited and 
+assessed patient-centred 
+digital health products.
+- Lancashire is the only UK 
+region to have a whole fuel-
+cycle capability. It also has a 
+fast-growing Small Modular 
+Nuclear Reactor sub-sector.
+In addition, Westinghouse\222s 
+Strategic National Asset
+ - 
+produces over 30% of the UK\222s 
+low-carbon electricity. 
+is home to a new 
+Clean 
+Energy Technology Park
+ - also 
+facilitates the 
+Oxide Fuels 
+Complex
+, one of the world\222s 
+most advanced nuclear 
+manufacturing facilities. 
+Manufacturing & Automotive
+Employing over 84,000, 
+Lancashire has the UK\222s 
+second largest manufacturing 
+sector, accounting for 13% of 
+Lancashire\222s workforce \(the 
+UK national average is 8%\).  
+A key  manufacturing sub-
+sector which - like aerospace 
+- is rapidly adopting more 
+Industry 4.0 technologies is 
+automotive, and the county is 
+home to over 100 automotive 
+businesses employing around 
+3,500 people. 
+One of these is PACCAR\222s 
+Leyland Trucks assembly 
+plant, one of the most 
+advanced truck manufacturing 
+facilities in Europe.
+30%+
+Over 30% of the 
+UK\222s low carbon 
+electricity is 
+generated here
+9,000
+(patient)0.5 (-centred digit)0.5 (al)-19.7 ( )
+(health apps audit)0.5 (ed)-19.7 ( )
+(by Lancashire-based)-19.8 ( )
+ORCHA
+16
+(Digit)0.5 (al Econo)0.5 (my Report)0.5 ( 2021)
+Lancashire County Council
+17
+(www.lancashire.gov.uk/business )-1810 (  @LancashireCC)
+(E-commerce &)-9.9 ( )
+Creative Tech
+End-to-End E-commerce
+Some of the most successful 
+e-commerce businesses in the 
+UK are based in Lancashire.
+These include Preston-based 
+EKM, whose e-commerce 
+platform has been deployed by 
+80,000 online businesses and 
+<00F3017D01690169010101420176013701980003016D017D01650165014B01690176016D0003014B01420101000301220142000301A9>366.7 <0003>-129.5 <019101010003>
+UK online shops.
+Online fashion retailer Boohoo 
+Group \(which 2019 had sales 
+of \243857m\) also has its global 
+distribution centre in Burnley, 
+employing over 3,500 people, 
+and is rapidly adopting a more 
+digitalised, automated and 
+smart picking and packing 
+processes.
+Other Lancashire e-commerce 
+success stories include 
+Rossendale\222s webuybooks, 
+an online book, CD and DVD 
+recycler which processes 
+10,000 orders a day, gifts 
+and homewares business 
+Studio Retail Group, luxury 
+wallpaper business Graham 
+and Brown, The Bathroom 
+Store, Haverwoods Flooring, 
+and Pure Luxuries.
+Specialist e-commerce 
+software and digital support 
+services are also a growth 
+area in the county, with 
+businesses like Brickweb, The 
+<0044017D013701A9>366.5 <0003>-129.5 <0137013F010101420176000300210169014B019200F90307000300D6014200F9000300210137014B017D00F90003>
+Commerce Pro, all developing 
+and delivering advanced 
+technology solutions for the 
+booming online shopping 
+sector.  
+Dynamic Digital Design
+Lancashire is also home 
+to hundreds of tech-savvy 
+creative suppliers including 
+digital design agencies, digital 
+Lancashire\222s strength in applied industrial technologies and commerci\ ally focused digital R&D is 
+<00F3014B013F016501370101013F010101420176010100F9000300F00198000300D60003016D01760169014B01420117000300F90101016D01220117014203070003013F010100F9012200D6000300D6014200F900030101031F00F3014B013F013F0101016900F301010003014B01A6>338 <0003>-101 <01010169030D>
+E-commerce 
+technology 
+from Preston\222s 
+EKM powers 
+<014B01420101000301220142000301A9>366.6 <0003>-129.5 <019101010003>
+UK online 
+shops
+marketing consultancies, and 
+freelance content creators. 
+Creative clusters can be found 
+in areas such as Burnley \(also 
+the location of AMS Neve, an 
+Oscar award-winning company 
+specialising in digital music 
+production\), and Preston, the 
+base of full-service digital 
+design consultancy Motion Lab 
+whose clients include Saab, 
+Sainsburys, easyJet and Stella 
+Artois.
+Lancaster is another creative 
+digital hotspot and home to 
+numerous creative studios 
+including Two Stories, Hot 
+Foot, Fat Media, NuBlue, 
+Factored and SQ Digital.
+10,000
+(orders a day pro)0.5 (cessed)-19.7 ( )
+(by Ro)0.5 (ssendale\222s)-19.9 ( )
+(w)0.5 (ebuyboo)0.5 (ks online)-19.8 ( )
+(recycling service)-19.8 ( )
+3,500
+<005E005F004C02AC>413.4 <0002>-98.4 <000200500058005B0057005A00640050004F0002004D00640002>
+Boohoo in Burnley
+(Photo)-10 ( )
+(to)-10 ( )
+Follow
+(Photos)-10 ( )
+(to)-10 ( )
+Follow
+(Testimonials/Case)-9.9 ( )
+Studies/Image Gallery
+Testimonials/
+Case Studies/
+Image Gallery
+18
+(Digit)0.5 (al Econo)0.5 (my Report)0.5 ( 2021)
+Lancashire County Council
+19
+www.lancashire.gov.uk/business
+  @LancashireCC
+(Digital Sector Support)-10 ( )
+Lancashire has an extensive eco-system of industry-focused groups, publi\ cly funded business support 
+programmes - and informal peer-to-peer networks -  all dedicated to grow\ ing the county\222s tech sector. 
+Examples include: 
+Table to Follow
+About this report
+(This report has been produced)-10 ( )
+(by )0.5 (Lancashire )0.5 (County Council )0.5 (in)-10 ( )
+(partnership with the Lancashire)-10 ( )
+Enterprise Partnership.
+(It is based on economic,)-10 ( )
+(demographic, educational,)-9.9 ( )
+(occupational and skills)-9.9 ( )
+(research undertaken by)-10 ( )
+(specialist regional development)-10 ( )
+(consultants Mickledore)-10 ( )
+between May - August 2021.
+<007A01A700F3012200D60137000300AD00620003002700D6017600D6016D01010176016D0003017D016D010100F9>-20 <0003>
+(included the Business Register)-20 ( )
+(and Employment Survey)-20 ( )
+(\(BRES\), UK Business Counts,)-20 ( )
+(The Annual Survey of Hours and)-20 ( )
+(Earnings, the Annual Population)-19.9 ( )
+(Survey, Companies House and)-20 ( )
+(the Higher Education Statistics)-20 ( )
+(Authority \(HESA\).)-20 ( )
+(Other sources included)-10 ( )
+(company information from)-10 ( )
+(Dun & Bradstreet, company)-10 ( )
+(websites, as well as information)-10 ( )
+(from the Lancashire)-9.9 ( )
+(Digital Skills Partnership\222s)-9.9 ( )
+(Lancashire\222s Digital Landscape)-10 ( )
+report \(2019\).
+(Data from the Lancashire)-10 ( )
+(Enterprise Partnership,)-10 ( )
+(Lancashire County Council,)-10 ( )
+(Digital Lancashire, Boost)-10 ( )
+(\(Lancashire\222s Growth Hub\),)-9.9 ( )
+(and other partners was also)-9.9 ( )
+drawn upon.
+(In addition, bespoke LinkedIn)-10 ( )
+(research was undertaken)-10 ( )
+(across a number Lancashire\222s)-10 ( )
+(employment sectors to get)-10 ( )
+(a more accurate, real-time)-9.9 ( )
+(understanding of the county\222s)-10 ( )
+(technical and digital skills)-10 ( )
+capacity and capability.
+Mickledore also conducted 
+over 20 interviews with a 
+wide range of public and 
+private sector stakeholders, 
+including technology and 
+(digital businesses, )0.5 (universities, )
+Digital Lancashire, 
+representatives from 
+Lancashire\222s district councils, 
+the Lancashire LEP\222s Digital & 
+Technology Sector Group, and 
+Lancashire County Council. 
+(We would like to thank all)-10 ( )
+(contributors for giving up their)-10 ( )
+(time, sharing their insights,)-9.9 ( )
+(and supporting this project.)-10 ( )10 ( )
+Photos to follow
+(We would also like to thank)-10 ( )
+(all partners and businesses -)-10 ( )
+(including UCLan, Lancaster)-10 ( )
+(University, Edge Hill, AMRC,)-10 ( )
+(Forsberg, Made Smarter, Boost,)-10 ( )
+(Marketing Lancashire and the)-10 ( )
+(LEP - for contributing some of)-10 ( )
+(the reports images.)-10 ( )10 (    )
+(For more details about the)-10 ( )
+(research - and Lancashire\222s)-10 ( )
+(digital and  technological)-9.9 ( )
+(sectors - please contact)-10 ( )
+(Lancashire County Council\222s)-10 ( )
+(Innovation and Digital Lead,)-10 ( )
+Maya Ellis \(maya.ellis@
+lancashire.gov.uk\).
+(You can also get more)-10 ( )
+(information on Lancashire\222s)-10 ( )
+(economy and investment)-10 ( )
+opportunities at
+www.investinlancashire.com
+Produced by Lancashire County Council
+Lancashire County Council
+County Hall
+Fishergate
+Preston
+Lancashire  
+PR1 8XB
+www.lancashire.gov.uk
+(Useful Resou)4.1 (rces)
+Digital Lancashire 
+\(the county\222s tech industry network\)
+www.digital-lancashire.org.uk
+Invest in Lancashire 
+\(inward investment opportunities\)
+www.investinlancashire.com
+Boost 
+\(Lancashire\222s business support service\)
+www.boostbusinesslancashire.co.uk 
+Made Smarter 
+\(Industry 4.0 support & funding for SMEs\)
+www.madesmarter.uk 
+IN4.0 Access 
+\(NW Industrial technology accelerator\)
+www.in4group.co.uk
+Northern Powerhouse Investment Fund 
+www.npif.co.uk 
+Tech Nation 
+\(the UK\222s network of tech entrepreneurs\)
+www.technation.io
+Visit Lancashire 
+\(tourism, events & leisure information\)
+www.visitlancashire.com
+Lancashire Enterprise Partnership 
+\(strategic economic development\)
+www.lancashirelep.co.uk
+Lancashire Skills Hub 
+\(skills data and employment resources\)
+www.lancashireskillshub.co.uk

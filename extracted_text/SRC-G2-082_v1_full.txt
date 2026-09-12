@@ -1,0 +1,50 @@
+LinkedIn Penetration: Western Balkans (WB6)
+Research note — March 2026
+The following figures are drawn from LinkedIn’s advertising audience data as reported by NapoleonCat (2023–2024) and DataReportal’s Digital 2024 country reports. They reflect registered accounts rather than active users. Data vintages vary slightly by country.
+Current penetration snapshot
+Penetration growth
+All six countries have shown consistent year-on-year growth in LinkedIn registrations. The table below sets out the comparable data points available from open sources.
+Note: North Macedonia year-on-year growth figures were not available in open sources at the time of writing. Kosovo’s growth rate (+22.4%) is the highest in the WB6 in relative terms, though it starts from a low base. Montenegro has the highest penetration rate at 21.5% as of December 2023, the most recent available figure.
+Sector activity
+LinkedIn’s own data is skewed towards knowledge-intensive sectors — ICT, professional and scientific services, and financial and business services — and is less representative of agriculture, manufacturing and the informal economy, all of which are significant in this region; this should be borne in mind when drawing conclusions from LinkedIn-based analysis.
+Available evidence, including UNDP Accelerator Lab analysis using LinkedIn’s Economic Graph data, points consistently to IT and technology as the dominant active sector across the WB6, with financial and business services and professional/technical activities the next most represented; no published country-level breakdown by sector exists for this region.
+Additional data source: Lightcast
+Lightcast was identified as a potential additional data source by Iain Bennett at Fifth Sector. Lightcast is a global labour market intelligence platform drawing on job postings, professional worker profiles (sourced primarily from LinkedIn and similar networks) and government Labour Market Intelligence. As of March 2026, it covers 165+ countries organised into four tiers (Sets 1–4) based on data quality and confidence.
+Four of the six WB6 countries appear in Lightcast’s dataset, all at Set 4 — the lowest confidence tier, added in the March 2026 data release. Kosovo and North Macedonia are absent from the dataset entirely.
+Lightcast rates Set 4 data confidence as “lower” and describes it as suitable for directional or early-stage analysis rather than definitive workforce planning. Workforce estimates and advertised salary data — the most analytically useful outputs — are unavailable for all four covered countries due to insufficient underlying government data. As profile data is sourced from LinkedIn, it carries the same sector skew noted above, with stronger representation in ICT, professional services and finance than in manufacturing, agriculture or the informal economy.
+Notes
+All penetration figures are based on LinkedIn’s advertising audience data and reflect registered accounts, not active or monthly users. Figures for different countries are drawn from different reference months; direct comparisons should be made with that caveat in mind. The Kosovo user count (~120,000) is an estimate derived from the 7.2% penetration rate applied to a January 2024 population of approximately 1.67 million.
+Sources
+NapoleonCat — LinkedIn users in European countries (blog overview)
+NapoleonCat — LinkedIn users in Serbia, May 2024
+NapoleonCat — LinkedIn users in Serbia, January 2022
+NapoleonCat — LinkedIn users in Albania, July 2022
+NapoleonCat — LinkedIn users in Montenegro, December 2022
+DataReportal — Digital 2024: Serbia
+DataReportal — Digital 2024: Kosovo
+UNDP — Can LinkedIn data help us measure the glass ceiling?
+Lightcast — Available Countries in Global
+Lightcast — Global Data Release Notes
+Lightcast — Global Data 101
+=== TABLES ===
+Country | LinkedIn users | Penetration (total pop.) | Source / date
+Serbia | 1,430,000 | 16.8% | NapoleonCat, May 2024
+Montenegro | 119,000 | 19.1% | NapoleonCat, May 2023
+Albania | 551,800 | 18.5% | NapoleonCat, Jul 2023
+North Macedonia | 335,700 | 16.0% | NapoleonCat, May 2023
+Bosnia & Herzegovina | 358,800 | 10.4% | NapoleonCat, May 2023
+Kosovo | ~120,000 | 7.2% | DataReportal, Jan 2024
+Country | Earlier figure | Later figure | Change | Source
+Serbia | 1,043,000 (Jan 2022, 12.2%) | 1,430,000 (May 2024, 16.8%) | +387,000 (+37%) over ~28 months | NapoleonCat
+Serbia (YoY) | — | +100,000 (early 2023–early 2024) | +8.3% year-on-year | DataReportal Digital 2024
+Albania | 501,300 (Dec 2022, 16.8%) | 571,800 (Dec 2023, 19.1%) | +70,500 (+14%) in 12 months | NapoleonCat
+Montenegro | 108,100 (Dec 2022, 17.5%) | 133,000 (Dec 2023, 21.5%) | +24,900 (+23%) in 12 months | NapoleonCat
+Bosnia & Herzegovina | 333,500 (Dec 2022, 9.7%) | 358,800 (May 2023, 10.4%) | +25,300 in ~5 months | NapoleonCat
+Kosovo | — | — | +22,000 (+22.4%) early 2023–2024 | DataReportal Digital 2024
+Country | Set | Job postings | Online profiles | Gender diversity | Workforce estimates | Advertised salary
+Serbia | 4 | ✔ | ✔ | ✔ | ✖ | ✖
+Albania | 4 | ✔ | ✔ | ✔ | ✖ | ✖
+Bosnia & Herzegovina | 4 | ✔ | ✔ | ✔ | ✖ | ✖
+Montenegro | 4 | ✔ | ✔ | ✔ | ✖ | ✖
+Kosovo | — | — | — | — | — | —
+North Macedonia | — | — | — | — | — | —

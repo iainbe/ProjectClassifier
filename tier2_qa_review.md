@@ -606,3 +606,11 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 
 - OneDrive archive contained the remittance I declared fabricated; payment evidence now registered (SRC-R5-001)
 - New rule: fabrication verdicts require cross-checking BOTH archives — G Drive live folders are not complete pre-migration
+
+
+---
+
+# Pass 22: Extraction sweep (26/09/12)
+
+- All 13 claim-linked sources now extracted + linked; 2 controlled_locations corrected (UoL CPD reporting deliverable; WMGC canonical v2a; Herefordshire FINAL)
+- DIR-pick heuristic flagged: when a registered location is a folder, alphabetical-first grabs wrong files — canonical selection must apply version protocol

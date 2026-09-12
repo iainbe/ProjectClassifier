@@ -1,0 +1,2134 @@
+Digital &amp; Creative
+Pitchbook Template
+Draft Vs2
+
+Introduction: 
+Telecoms &amp; the 5G Market Opportunity
+The UK Region for Developing 5G technologies 
+The West Midlands is home to a number of telecoms companies, ranging from mobile network operators, services to hardware. Key companies 
+include Vodafone, BT, Fujitsu
+, Ericsson and 
+Telent
+.
+This company base as well as WM5G’s close engagement with mobile network operators including O2 (through its parent, Telefonica) and BT enables collaborative operator/supplier relationships;  with the 5G 5PRING innovation centres (see page 33 for more detail) reinforcing this fast track to commercialisation - WM5G is the optimal partner for development of new mobile applications and network technologies.
+The 5G Supply Chain Opportunity 
+The UK government has stated its ambition to have the majority of the population connected to 5G by 2027. As the UK’s best developed and fastest-growing 5G environment, the West Midlands is primed to work with industry to realise the considerable 5G market opportunities.
+The removal of Huawei from the list of approved suppliers for UK mobile networks in 2020 potentially left a gap in the supply chain for mobile network operators (MNOs). O-RAN (Open Radio Access Network) allows networks to be assembled from  components from different providers using an interoperable 
+standards-based architecture and standardised elements, presenting an opportunity for new entrants and OEMs to quickly scale their operations.
+The UK government is embracing O-RAN to diversify the 5G supply chain as well as creating other market opportunities including in: 
+Software defined networks, network function virtualisation, installation of cloud platforms, commercialisation of wireless services and multi-access edge computing. 
+There are also considerable opportunities in cyber security.  The government is aiming aims to ensure that digital products and devices are cyber secure; and accelerate the deployment of 5G and gigabit broadband. 
+A Considerable Base of R&amp;D Support
+Birmingham City University’s Intelligent Systems and Networks Research (ISN) group undertake work to  mitigate the cost and strengthen the infrastructure of 5G. The Aston Institute of Photonic Technologies (
+AiPT
+) one of the world’s leading photonic research centres. engineering including high-speed optical fibre system data transmission systems, 5G/6G wireless links, and optical signal processing. (see R&amp;D assets) 
+The global 5G technology market size is anticipated to surpass $700bn at a 70.83% CAGR (Compound Annual Growth Rate) from 2020-2025 (Market Research Future, 2021).  The global  roll-out of infrastructure and widespread adoption of 5G devices and services is creating diverse market opportunities.  
+The UK is second only to Switzerland in terms of 5G deployment in the European market.  The UK’s strengths and 5G expertise places it in an ideal position from which to serve the global 5G market.  Within the UK, the West Midlands has the highest penetration of 5G networks of any UK region – as such the West Midlands is well positioned to develop the next generation telecoms and 5G industries. 
+WM5G (West Midlands 5G) with £100m in UK government backing, operates the UK’s only regional 5G testbed. This has pioneered new methods of network deployment, run thirty trials of 5G use cases and opened the first commercial 5G accelerator across three sites in Birmingham, Coventry and Wolverhampton.
+In 
+order t
+o realise the 5G opportunities, the UK government and WM5G’s priorities include:
+Attracting and introducing new suppliers to the telecoms market
+Growing locally based companies and expertise
+Stimulating new models such as private 5G networks
+
+Telecoms: 
+A Collaborative Base of Telecoms Expertise
+.
+The West Midlands telecoms industry ranges from mobile network operators, services to hardware. The strength of  the industry is growing due to the region being at the forefront of 5G developments. 
+WM5G’s close engagement with mobile network operators including O2 (through its parent, Telefonica, and its 
+Wayra
+ accelerator) and BT enables collaborative approaches with the 5G innovation centres reinforcing this fast track to commercialisation.
+Telecoms related businesses include (also see adjoining table):
+Telent
+ - 
+headquartered in Warwick, the company is one of the largest independent network service providers, offering comprehensive technical, operational and field engineering services to support Network Providers, Carriers, ISPs, Mobile Operators and 
+Altnets
+ in the roll out of fixed and mobile telecoms networks. In 2020, 
+Telent
+ was ranked  at 16 in the Sunday Times PwC ‘Top Track 250’ league table.
+Vodafone
+ – regional office and Technology Centre. In 2020, Vodafone, Transport for West Midlands (
+TfWM
+) and WM5G agreed on a joint collaboration to work together on 5G projects to improve transport and support congestion and emissions reductions. Vodaphone, in partnership with the University of Birmingham has developed a Vodafone Digital Degree. This combines a Bachelor of Science degree in computer science with a technology apprenticeship at Vodafone. 
+Ericsson
+ – the company has its 5G Centre of Excellence in Coventry.  The 5G Centre is a leading hub for the design, integration and commissioning of mobile network sites in the UK and has a training facility provides access to the latest 5G technology.
+Company
+Activity
+Fujitsu
+UKHQ in Birmingham employing over 700 staff
+BT
+Regional HQ with over 2,500 staff . Activities include software engineering and cyber security. 
+Telent
+ 
+One of the largest independent network service providers. HQ. 
+Vodafone
+Regional office and Technology Centre
+Ericsson
+5G Centre of Excellence.
+Virgin Media
+Training and research centre.
+NXO (NextiraOne) 
+integration and management of enterprise digital flows, specializing in communication and collaboration solutions
+Triton Telecom
+Telecom connectivity solutions 
+FTI Communications Systems
+Design of communication and systems integration for air and defence. 
+NTT Data
+Technical services including Infrastructure Managed Services, Cloud Platform services, an award-winning service desk, API and integration services.
+Selected Telecoms Companies, West Midlands 
+
+The Opportunity: 
+O-RAN and 5G Private Networks
+Businesses wanting to develop or accelerate their 5G product/service by locating in the West Midlands can easily connect to cross-sector R&amp;D and commercialisation opportunities in what is the UK’s best developed and fastest-growing 5G environment. WM5G provides new entrants with an accelerated route to growth through the testing facilities, development support and access to customers through use case programmes for transport, manufacturing and health for example. 
+WM5G is now developing 5G technical challenges in other industries including low carbon, construction and retail.
+The number of use demonstration cases undertaken by WM5G across diverse industries is  demonstrating how 5G is benefiting specific user cases in the public and private sector. As more applications and use cases for 5G come to the fore, the demand and commercial value of private networks is likely to increase.
+Key market players are strategically building partnerships with industry giants to set up a private 5G network to provide high-speed secure connectivity to their customers. WM5G through its partnership approach with industry and research institutes can help facilitate these partnerships. 
+O-RAN &amp; Software Defined Networks – 5G Public Network Testbeds
+5PRING is the UK’s first 5G commercial innovation centre and provides access to 5G public network testbeds. Backed by a £75m investment from UK Government, it works with private companies and public sector organisations to support the development of O-RAN technologies and harness the power of 5G.  
+O-RAN standardises the development of hardware and software components so that telecoms operators can source equipment from a wider variety of networks. O-RAN disaggregates the access networks into smaller parts: Radio Unit (RU), Distribution Unit (DU) and Central Unit (CU).   This disaggregation 
+As 
+makes it possible to tune the split of functions across each platform to operational needs. Together with the use of open interfaces; this has lowered entry barriers for 5G only entrants and allows a wider set of smaller suppliers to offer components for the access network while ensuring interoperability.
+5PRING is located across the region at Innovation Birmingham, the MTC (Manufacturing Technology Centre) in Coventry and Wolverhampton Science Park. This 5PRING network provides support for businesses in software/applications and hardware using O-RAN standards to create interoperable components and systems with potential to address supply chain gaps left by removal of Huawei from UK public networks.
+WM5G, 5PRING and the local 5G ecosystem helps start-ups, scale ups and new entrants to break into the UK market for 5G products and service. Together with partners Telefonica, Deloitte and Digital Catapult the centres have assisted over 400 companies through 5G training and innovation support.
+5G Private Networks – A Considerable Market Opportunity
+The global private 5G network market size is estimated to reach $14.28bn by 2028 (
+ReportLinker
+, 2021). Growing demand for ultra-reliable low-latency connectivity with an extremely secure network is expected to boost the deployment of private 5G networks during the forecast period of 2021 – 2028.
+Industries such as manufacturing and energy and utilities – which are heavily represented in the West Midlands, are already deploying private 5G networks to enhance their overall productivity and operational efficiency. Local initiatives such as MTC’s 5G private network will increase local market opportunities for the 5G private network supply chain. 
+
+5G Enabled Opportunities: 
+5G Private Networks 
+The Growth of 5G Private Networks cont. 
+The private 5G network at MTC’s manufacturing research facility in Coventry launched in February 2021 was undertaken in partnership with WM5G and W5G (Worcester 5G) and technology partner BT.  This private network is being used to demonstrate to manufacturers of all sizes the benefits from multi-edge computing and wireless connectivity in digital manufacturing and robotics. A live 5G-connected robotics demonstrator will come on stream later in the year to give insights into how 5G can boost their productivity through connected digital innovation.
+Warwick headquartered 
+Telent
+ is a market-leader in using NDAC (Nokia Digital Automation Cloud) to create private networks for advanced manufacturing clients. 
+Telent
+ launched its new 5G private network venture in March 2021. Their 5G private network test environment facility in Warwick demonstrates how organisations can easily deploy 5G Private Wireless Networks for their sites, campuses and facilities to provide pervasive connectivity for operational, control, security and management application use.
+5G Private Networks connect machines, IoT sensors and data at scale, using technologies like machine learning, AI and cognitive analytics to deliver scalable process automation and control. The resulting automation at scale can transform productivity, innovation, precision and safety in environments as diverse a smart digital manufacturing facilities for automotive and aerospace to live event production for music, theatre and esports.
+Transport and Connected &amp; Autonomous Vehicles represent the greatest 5G use case. The government in partnership with the West Midlands is supporting transport as a key priority through investments including £20m for the Future Mobility Zone between Birmingham, Solihull and Coventry; and up to £50m for 5G trials across the West Midlands to enable a new approach to real time data and user management across the whole transport system.
+Live Test-Beds Across a Wide Range of Industries
+WM5G has worked with companies across a wide range of case applications including industrial automation, construction,  telehealth and energy. A number of examples include: 
+AE Aerospace 
+is the first SME in the UK to deploy a 5G private network working together with partners including WM5G and technology partner BT.  The trial enabled the successful roll out of an automated system that streamlines the day-to-day operations. Through 5G, the system is supporting live scheduling, analysis of machine capacity, required tools, quality checks, live planning and report production. 
+Fine Energy 
+is a renewable energy generation company located in Birmingham.  The company worked with WM5G’s 5PRING accelerator programme to develop its remote asset monitoring service (Osmium) using 5G cellular IoT solution controls and monitors in wind turbines in remote Scottish Islands. 5G provided connectivity at sites where the internet signal is weak. This enabled access to operational and diagnostic data from which to issue commands and to update firmware remotely.
+WM5G with 
+Tekeihealth
+, 
+a small telemedicine company founded by two General Practitioners developed an  innovative healthcare trial, which has enabled GPs to provide treatment during the pandemic without the need to set foot inside the care homes.
+The CAT VLR (Very Light Rail) 
+project with Westfield Technology Group, WMG, Nexor and the Black Country Innovative Manufacturing Organisation is exploring how 5G can improve the safety of VLR autonomous vehicles through its real time applications. The project will trial a 5G connected control system which operators will be able to interact with and respond to in real-time. CAT is also hoping to solve the major safety concern of personal items and passengers trapped in doors and will test a connected door safety system
+.
+.
+
+5G Enabled Opportunities: 
+From Manufacturing to 
+MaaS
+ 
+cont.  
+Future of Mobility Applications
+With access to the UK’s largest commercially deployed public 5G network, and expertise in creating private 5G network environments for smart digital manufacturing; joint working with the regional transport authority, Transport for West Midlands (
+TfWM
+) is creating considerable Future of Mobility and Mobility as a Service applications and access to supply chain ‘primes’ across a range of other sectors
+T
+fWM
+ is actively promoting the development of 
+MaaS
+ (Mobility-as-a-Service) through:
+Targeted investment in innovation
+Provide the underpinning transport network
+Targeted pilot projects to enable and allow systems resellers and integrators to enter the market
+TfWM
+ is deploying a huge network of advanced sensors on its Key Road Network to explore how IoT can help improve transport across the region. 
+TfWM
+ has partnered with global telecoms giant Ericsson to investigate how 4G and 5G cellular networks can provide privacy-enabled transport insights and using AI to produce real-time road traffic data. 
+As the regional transport body, 
+TfWM
+ can also provide collaborative projects with access to road, rail, tram infrastructure and  transport data
+Future Mobility Commercial Opportunities
+The Second Devolution Deal in 2017 commits 
+TfWM
+ and the Government to developing the West Midlands as the UK’s leading centre for deployment of Mobility as a Service (
+MaaS
+), providing new integrated easy payment and guided travel across all modes. As a result a number of major projects have already been put in place to support this:
+Future Mobility Zone 
+- This unique Zone deploys new mobility services, that work seamlessly for travellers in the West Midlands, creating a better connected region that enables a positive change in the lives of millions of people. The West Midlands is working with Finnish mobility as a service provider Global 
+MaaS
+ to deploy its ‘Whim’ app to facilitate multi-model travel across the region.
+Midlands Future Mobility 
+(see 
+page 18)  
+-  A connected platform for the development of future Connected and Automated Mobility (CAM) solutions; instrumenting more than 100 miles of 'real world' roads in Coventry, Solihull and Birmingham for CAV developers to not only come and test their new technology but bring their manufacturing operations with them.
+HS2 – 
+as Europe’s largest transport infrastructure project, the West Midlands is working to ensure that on planned opening in 2029, the region be matched by the ability of the local transport system to transport those travellers in a seamless, flexible and efficient way to their final destination, using shared mobility services wherever possible. 
+International linkages 
+- The West Midlands is a member of the 
+MaaS
+ Alliance, an international public-private partnership to develop and implement integration of various forms of transport services into a single mobility service and accessible on demand.
+
+Digital Enterprise Technologies
+
+Introduction: 
+Digital Enterprise Technologies
+The pervasive use and application of digital technology and data is changing how all sectors and industries across the economy operate. Big data, the emergence of energy efficient and high performance computing, as well as the pervasiveness of new digital technologies and the Internet of Things are transforming the global economy.
+The Industrial Internet of Things (
+IIoT
+) market is expected to grow from $77.3bn in 2020 to $110.6bn by 2025 (Markets &amp; Markets 2021). This growth is being driven by technological advancements in semiconductor and electronic devices; and increased use of cloud computing platforms. The roll-out of 5G networks is set to considerably increase the take-up of 
+IIoT
+ technologies particularly in areas such as condition asset monitoring and predictive maintenance systems. 
+The tech and creative sector in the West Midlands is differentiated by the opportunities to build on existing supply chain, network and collaborative R&amp;D relationships between tech and creative firms and with companies in other industries within the region and beyond.
+Notably, these regional opportunities include manufacturing, transportation, automotive, aerospace energy, utilities and financial services.
+The West Midlands’ digital industries are represented by global companies including IBM, 
+CapGemini
+, Oracle and Atos to medium sized companies and innovative start-ups including Click Travel and Generic Robotics. The latter, a “Immerse UK 21 to Watch” company based in Stratford is developing 
+SimuTouch
+; a universal haptic manual skills training platform, and 
+Toia
+, a software middle-ware and haptic authoring tool for designers, streamlining routes to market for hardware manufacturers.
+The West Midlands has notable cyber security expertise, particularly relating to industrial and national critical infrastructure applications.  The region has growing AI expertise; with recent start-up 
+Eatron
+ Technologies specialising in AI for autonomy and e-mobility. 
+Imibisoft
+ UK provides AI driven automation solutions for companies includes GSK and Sky and 
+Sidetrade
+ has recently developed an  AI-Powered Order-to-Cash Platform.
+Kallik
+ uses its AI based software platform to support regulated industries including life sciences and chemicals to converge their physical and electronic labelling requirements. 
+Recent investors to the region include Advanced, Autodesk and 
+Microland
+. The latter, a global Indian owned tech company recently re-invested in the region and established an additional digital hub in Birmingham. 
+Kainos
+, a software company specialising in areas including AI, IoT and Intelligent Automation recently 
+established
+ a global development hub for AI, VR and 5G networks in the region. 
+. 
+ 
+Company 
+Activity
+Atos 
+The Birmingham operation incudes a growing cyber security team
+CapGemini
+UK HQ and IT service centre.
+SCC
+Europe’s biggest independent IT service providers. Managed IT services 
+Autodesk
+Software for design, engineering, and entertainment. 
+Dassault Systems 
+Product Lifecycle Management (PLM) software for industrial processes.
+Advanced
+Cloud services, managed IT services, digital workplace
+Microland
+Expertise in Networks, cybersecurity and Industrial IoT 
+SOTI
+EMEA HQ and development of IoT device management solutions
+Calero-MDSL 
+US owned technology expense management for telecom, mobility and SaaS subscriptions.
+AEB
+German owned company providing software support to logistics sector
+Pinewood PLC
+Development of dealer management software to motor retailers and fleet providers 
+Selected Digital Technology Companies, West Midlands 
+
+The Opportunity: 
+Digital Enterprise Technologies
+A Considerable Supply Chain &amp; Market Opportunities for Digital Businesses
+The strength and depth of the region’s manufacturing industries, automotive, transport, energy and utilities is creating considerable market opportunities for digital and tech solutions providers. 
+Locally based global leading manufacturing firms such as Jaguar Land Rover and Rolls-Royce are using digital capabilities (especially advanced simulation, modelling and visualisation capabilities) and data analytics to accelerate their R&amp;D activities, improve quality and reduce costs. The UK’s automotive industry which is centred in the West Midlands in increasingly being shaped by technologies like computer vision, vehicle connectivity and autonomous driving.  This is creating opportunities for digital companies to collaborate and enter new supply chains as well as an opportunity to attract digital talent represented in other industries. The increasing synergies between manufacturing, engineering and digital are typified by TATA Technologies:
+In 2017 TATA Technologies established its European HQ and European Innovation and Development Centre (EIDC) in Warwick. The Centre employing over 1,000 staff; develops systems engineering and software solutions for automotive as well as other industries including aerospace and heavy machinery equipment. The EIDC also develops numerous in-vehicle software applications including in infotainment
+A Growing Systems Integration Market 
+The considerable increase in the use of embedded systems is leading to the West Midlands being home to a growing base of systems integrators. These include 
+Callisto
+ Integration (part of  Accenture's Industry X.0 practice) and Cougar Automation - system integrator providing automation and control systems to industry, manufacturing and process plants (PLC, SCADA &amp; MES). Additionally, Spica, is a specialist IoT systems integrator based in Birmingham. 
+ 
+5G is Accelerating Industry Take-up of Digital Technologies
+WM5G is managing collaborative industry projects to speed up the launch of 5G networks and test, prove and scale-up new 5G products and services. This is leading to a growing uptake of private 5G networks, with the with the roll-out of 5G increasing the use of 
+IIoT
+, AI and cyber security technologies with industrial applications in autonomous and industrial automation systems including in condition asset monitoring, predictive maintenance and control systems.
+The roll-out of 5G networks is set to considerably increase the take-up of 
+IIoT
+ technologies and AI, used for applications including condition monitoring and predictive asset maintenance amongst other areas. These are key technologies for the manufacturing industry, transportation, defence, energy and utilities – all industries that are significantly well represented in the West Midlands. 
+Industrial Automation Systems Opportunities &amp; Existing Expertise
+Faster speeds enabled by 5G is creating more opportunities in the area of industrial software including SCADA (Supervisory Control &amp; Data Acquisition) software, Manufacturing Execution Systems and PLM (Product Lifecycle Management) software. 
+ Examples of such expertise includes:
+Schneider Electric – the company has its UK Automation Centre located in Coventry
+Wolf Automation – automation and Industrial control systems solutions provider specialising in PLC programming, Motion Control, HMI/SCADA programming &amp; control system refurbishment.
+UCS Systems – based in Wolverhampton – industrial automation and embedded computing. 
+Embed Ltd – automotive systems developer including in developing safety critical systems
+
+The Opportunity: 
+Digital Enterprise Technologies
+Industrial Automation Systems Expertise cont. 
+Schneider Electric – the company has its UK Automation Centre located in Coventry.
+Wolf Automation – automation and Industrial control systems solutions provider specialising in PLC programming, Motion Control, HMI / SCADA programming and control system refurbishment.
+UCS Systems – based in Wolverhampton – industrial automation and embedded computing. 
+Embed Ltd – automotive systems developer including in developing safety critical systems
+Quartzelec
+ - telemetry systems for synchronous machines &amp; condition monitoring
+Autodesk has its Advanced Manufacturing Facility in Birmingham. The facility houses advanced manufacturing tools and is a space for Autodesk to collaborate with customers and digitise their fabrication techniques and other manufacturing processes.
+Siemens Industry Software – based in Solihull, this centre focuses on PLM software and also has its own 
+Xcelerator
+ Training Academy. 
+Oxford Vision &amp; Sensor Technology - an industry leader in the design and supply of machine vision systems used for robot guidance, inspection and process control. 
+Digital Opportunities in Autonomous &amp; Connected Vehicles
+The West Midlands is the UK location for developing modelling and simulation technologies for the CAV and CAM (Connected &amp; Automated Mobility and Vehicle) market.  The West Midland’ is home to the UK’s Future Mobility Zone (a £25m investment), representing the country’s most comprehensive on-road trialling environment, covering over 200 miles.
+This significant national testbed enables CAV developers and technology companies to trial autonomous solutions and commercialise their technologies; with 
+5G technologies providing 
+V2V (Vehicle to Vehicle) and V2X (Vehicle-to-everything communications); with facilities specialising in simulation, cyber
+ 
+securirty
+ and data analytics. 
+In addition, the Centre for Connected and Autonomous Automotive Research is a partnership with HORIBA MIRA and Coventry University. The Centre brings together OEMs, their supply chains and technology companies to collaborate on technological solutions for AV through the use of simulated validation and physical test-beds.
+These technologies are creating new entrants to the automotive industry as well as increasing the digital capabilities of existing supply chain companies  including: 
+Conigital
+ - provides automated and optimised integration of CAVs into a local transport system. Utilising AI and machine learning techniques, integrated solutions to improve asset management, customer experience and operational efficiency. The company has developed a Passenger Mobility Application providing access to automated vehicle services on mobile devices.
+Eatron
+ Technologies Warwick-based intelligent software products and solutions company specialising in electric and autonomous vehicles. 
+ZF specialises in ADS (Advanced Driver Assistant Systems) as well as passive safety technology, making us one of few market actors to support all automation levels from L0 – L5. 
+IPG Automotive specialises in virtual test driving technology, developing innovative software and hardware solutions for the application areas autonomous vehicles and ADAS.
+
+The Opportunity: 
+Digital Enterprise Technologies 
+ 
+Digital Opportunities in Transport - HS2 and Digital Rail
+In addition to the region being the centre of the UK’s automotive industry, the West Midlands is at the epicentre of Europe’s largest infrastructure project - HS2.  This multi-million High Speed rail project is already creating huge supply chain opportunities for technology businesses. Digital technologies are key across the rail industry with opportunities ranging from remote telemetry to digitally enhancing the passenger experience. Simulation technologies, data integration &amp; cyber security and the digitally enabled passenger experience are all key areas. 
+The HS2 Accelerator is working with digital companies including 
+Sensat
+, who developed a cloud-based platform to capture, visualise and track infrastructure project data from anywhere in the world.  Its 3D visualisation helps engineers collaborate remotely from any location. Rail related companies locally with expertise in digital technologies for rail include: 
+Wabtech
+ Control Systems – advanced railway assets monitoring and management systems
+Siemens Mobility –control systems, connected mobility infrastructure and software services 
+Oktal
+ 
+Sydac
+ - developer of simulation systems and AR/VR technologies  for the rail industry
+The advancement of new technologies enabled by 5G 
+are 
+critical to the rail industry 
+and
+ also key for the passenger and station experience. WM5G working with Transport for the West Midlands has recently awarded a share of a £2.4m to a number of consortiums to deliver a series of 5G transport trials across the region with projects including passenger experience in areas such as security, station crowding and guidance and station information.
+The West Midlands has considerable R&amp;D and innovation assets to support the development of digital technologies for the industry, including the Centre of Excellence in Rail Digital Systems, University of Birmingham which provides considerable testing facilities as well as supporting industrial collaborations. 
+Digital Opportunities in National Critical Infrastructure &amp; Utilities
+The local presence of national critical infrastructure headquartered companies such as FTSE 100 National Grid and Severn Trent Water as well as Cadent, E.ON is leading to an increasing presence of digital and tech businesses supporting the digitisation of these regulated industries – industries that are also more resilient to economic shocks.    
+National Grid has its own VC arm (National Grid Partners) which has already invested over $300m in tech companies including in AI &amp; Analytics, IoT 
+&amp;
+ grid modernisation,; Cloud &amp; Edge; Energy Management &amp; Cyber. National Grid has an average annual global supply chain expenditure of  over 5bn. 
+The UK water industry is investing £51bn up to 2025 in infrastructure including in digital technologies for managing process optimisation and reducing leakages.  
+Examples of companies with a local presence to serve these industries include: 
+US owned 
+Enzen
+ has its UK HQ and Future Utilities Centre of Excellence in Solihull. 
+Enzen
+ supports the transition of energy and water companies into smarter digital utilities. Expertise includes asset performance and modelling; automation and SCADA;  smart digital networks and industrial automation.
+SPS International – US owned. Asset management information for capital equipment and optimising critical and capital parts life to optimise reliability. SCADA expertise including for the   offshore wind sector.  
+TCS (Tata Consultancy Services) – this global IT solutions provider based in Coventry delivers services for both National Grid and Severn Trent Water amongst other clients. 
+
+Content
+Chapter
+Subject
+Page No. 
+Executive Summary
+3
+1.
+Introduction
+6
+2.
+Telecoms &amp; 5G
+9
+3.
+Digital Enterprise Technologies
+15
+IT Services
+22
+4.
+Games and VR/AR
+25
+5.
+Sector Ecosystem
+29
+6.
+Skills &amp; Talent
+37
+7.
+University R&amp;D Assets
+48
+8.
+Industry Trends
+55
+9.
+Case Studies
+59
+10.
+Appendix
+62
+
+The Opportunity: 
+Cyber Security for Industry &amp; Infrastructure
+Cyber Security - Introduction
+The industrial cybersecurity market is expected to grow at a CAGR of 5.81% from $16.9bn in 2020 to $22.5bn in 2025. (
+MarketsandMarkets
+, 2020). The primary reasons for this rise in demand is the increasing cyber-attacks on industrial control systems. Utilities and manufacturing plants are particularly exposed to cyber attacks particularly as industrial control systems deployed in smart grids, electrical power and other facilities rely on supervisory control and data acquisition (SCADA) technology. The introduction of new technologies such as AI, the IoT and 
+th
+e roll out of 
+5G 
+are all leading to 
+increased risk of cyberattacks
+The global automotive cybersecurity market size is projected to grow from $1.9bn 2020 to $4bn by 2025, at a CAGR of 16.5% - this is due to the increasingly electronic and embedded systems nature of cars as well as the growth of autonomous systems in cars. 
+The UK has the largest, most concentrated and accessible cyber-security market in Europe. The industry 
+which is 
+concentrated in the Midlands is supported by Midlands Cyber. The latter is a UK government backed initiative, supported by the Midlands Engine and Department of International Trade. 
+Midlands Cyber is based in Malvern.  The wider Midlands region is home to QinetiQ, the National Cyber Skills Centre, and working alongside GCHQ in Cheltenham and the National Cyber Security Centre in London.
+Cyber Security Opportunities - Industrial &amp; National Critical Infrastructure
+The strength of the West Midlands in manufacturing, automotive as well as being home to the HQs of a number of national critical infrastructure companies including National Grid, Cadent, E.ON, Severn Trent Water means that there is a growing base of cyber security expertise serving mission critical industries.
+ 
+National Grid through its VC arm National Grid Partners, has recently invested in Dragos Inc., a US owned leader in cybersecurity for industrial controls systems.
+The roll-out of 5G and the vulnerability of industrial control systems and increasingly connected cars to cyber attacks creates are all creating more opportunities for cyber security companies to establish a presence in the West Midlands.
+HORIBA MIRA and Mira Technology Park is a global Centre of Excellence pioneering engineering, research and test services for the automotive, defence, aerospace and rail industry and has significant capabilities and facilities relating to automotive cyber security.  The Park’s  Circuit Facility and other Proving Ground Facilities enables the assessment of automotive cybersecurity vulnerabilities in a controlled real-world environment. The Park’s IT networks are fully accredited by the UK Ministry of Defence.
+By 2022, HS2 will have in place a high-tech monitoring system to enable the remote supervisory control of railway assets and systems by key operational personnel. The Engineering Management System (EMS) will provide an integrated SCADA consolidating multiple SCADA systems. This will enable the monitoring of railway assets and systems in real time from the HS2 Network Integrated Control Centre in Birmingham. HS2 is working with the University of Birmingham’s  Centre of Excellence in Digital Systems on the development of control, data integration, cyber security, condition monitoring and sensor systems. 
+The electricity transmission &amp; distribution sector as well as water utilities are increasing their investment in cyber security to protect national critical infrastructure. Both Severn Trent Water and National Grid have Technology Centres with cyber security capabilities based at their HQs in the West Midlands.
+
+The Opportunity: 
+Cyber Security
+A Growing Base of Commercial Cyber Expertise 
+The West Midlands has a growing base of commercial cyber expertise – from large multinationals to local start-ups. These businesses serve a wide range of industries including utilities, telecoms, financial services and critical national infrastructure. 
+German 
+owned
+ ZF Automotive has a significant cyber-security division located at its Technological Centre in Solihull.
+PWC recently moved their cyber security leads to Birmingham (
+from London?) 
+and now has a significant cyber security consulting  team locally.
+Deutsche Bank has significant cyber security capabilities at its Birmingham operations with new 200 security roles being created.  
+(can any info be added here) 
+Goldman Sachs will be opening its IT and cyber security operation in Birmingham towards the end of 2021 
+(can any info be added here). 
+Goldman Sachs announced the move of this operation from London in May 2021. 
+Telent
+, a telecoms engineering company with expertise in cyber-physical systems.
+Omni Cyber Security (also with offices in Canada) specialises in penetration testing, managed security and compliance.
+Other companies include JC Cyber Security, 
+Acutec
+ 
+and Risk Evolves.
+ 
+An Innovative Base of Cyber Start-ups
+The strength of the West Midland’s support ecosystem, academic capabilities and networks has led to a growth of a number of innovative start-ups locally. A number of examples are included below.
+CyberQ
+ is a growing cyber business headquartered in Birmingham.  
+CyberQ
+ is very active in the regional ecosystem and is participant on the Birmingham Tech 
+ScaleUp
+ programme. In 2017, 
+CyberQ
+ was identified by the UK government as a ‘top Cyber Growth Company’.  In 2020, the company secured $2.5m of VC funding to launch into the US. 
+Nettitude
+, headquartered in Leamington-Spa was founded in 2013. The 
+company provides cyber security services such as penetration testing, managed security services and incident response handling.  
+Nettitude
+ works in industries including finance, banking, IT, healthcare, offshore and critical national infrastructure. In 2018, 
+Nettitu
+de
+ 
+was acquired by Lloyds Register Group.
+Nationally Significant Cyber Academic 
+Capabilities
+The West Midlands has two (the University of Birmingham and Warwick University) of the 19 universities in the UK recognised by the UK National Cyber Security Centre (NCSC) in partnership with the Engineering and Physical Sciences Research Council (EPSRC) as an Academic Centre of Excellence in Cyber Security Research (ACE-CSR).  
+The Wolverhampton Cyber Research Institute (WCRI) is based within the School of Mathematics and Computer Science and in the Hereford Centre for Cyber Security. The Institute has expertise in the area of network and communication security, AI, big data and cyber physical systems. The University offers both a BSC (Hons) and MSc in Cyber Security. (See R&amp;D assets)
+The strength of the automotive industry as well as the significant base of critical infrastructure companies has led to a considerable base of academic expertise in relation to industrial applications including power grids, Industry 4.0 and rail.
+
+IT Services 
+Harnessing New Talent 
+(i.e. “
+Northshoring
+)
+
+IT Services: 
+Harnessing New Digital Talent
+A growing number of IT services and software related businesses have been relocating their operations to the West Midlands so as to establish new IT centres that can benefit from access to a large pool of labour as well as a dynamic source of young talent from the area’s universities and Further Education colleges. 
+Business expansion, increasing costs in London and the search for new talent has led to more companies establishing ‘hub-and-spoke’ models, whereby they still retain a presence in the capital city but are able to capitalise on new talent pools and lower costs. 
+With a working age (16-65) population of 3.3m within a 45 minute commuter drive time of Birmingham, this puts a large workforce within easy reach  of employers. 
+Additionally, HS2* will bring Birmingham and the West Midlands within an hour’s commute of Manchester, Sheffield, Leeds, London, York, Preston and Wigan.
+*Phase 1, the line between Birmingham and London is planned to open in 2029. Phase 2 to Leeds and Manchester are planned to open towards 2038.
+The West Midlands’ has a well established base of IT services and outsourcing companies. These include TCS, IBM, Wipro, 
+CapGemini
+ and Atos with managed IT services providers including SCC, Advanced and 
+Kainos
+.  Oracle, one of the world’s largest cloud technology companies also has a significant operation in the region (
+information required on IBM, TCS, 
+CapGemini
+ and Oracle). 
+Access to a sustainable and diverse pool of talent has attracted these companies to the area. Advanced is the UK’s third-largest provider of business software and services, with over 2,400 employees. It opened its Birmingham regional HQ in 2017 attracted by the quality and volume of graduate talent and by the city’s enthusiastic embrace of ‘smart cities’ technologies. 
+Employers based in the West Midlands can benefit from: 
+A working age population of 3.3m within a 45 minute drive time
+An average student population of 385,000 at the 22 universities located within an hour’s drive time.
+An experienced talent pool, with 32,000 people employed in the field of computer programming and associated consultancy.
+The West Midlands provides a sustainable workforce – the region has highest growth forecast in the working age population of the non-London Combined Authorities – growing by 140,000 by 2041. 
+. 
+ 
+Company 
+Activity
+Atos 
+The Birmingham operation incudes a growing cyber security team
+CapGemini
+UK HQ and IT service centre.
+SCC 
+Europe’s biggest independent IT service providers. Managed IT services 
+Advanced
+Cloud services, managed IT services, digital workplace
+Microland
+Expertise in Networks, cybersecurity and Industrial IoT 
+Oracle
+Cloud technology management support
+IBM
+Outsourced services
+????
+Wipro
+Cyber Security, managed IT services, SAR and ERP etc.
+TCS 
+Software asset management, ERP etc
+CGI Group Inc. 
+IT consulting,  cloud services systems integration and cyber security.
+Selected Digital Technology Companies, West Midlands 
+Please note that there is some repetition from the previous ‘chapter’ but this new section is more about “
+northshoring
+’ from London and hence has a different slant – stakeholders will need to be made aware of this otherwise there could be some confusion 
+
+The Opportunity: 
+Harnessing Digital Talent
+A Track Record in Attracting Software &amp; IT Services Investment
+The West Midlands employs 32,000 people in computer programming, consultancy &amp; related activities (Standard Industrial Classification 62). This is a proportion 35% higher than that of the Greater Manchester Combined Geography and double the proportion of the Cambridgeshire and Peterborough Combined Authority. 
+The strength of the West Midlands in a wide of software development skills and across different industries ranging from automotive to financial services; has attracted global brands including Deutsche Bank and Goldman Sachs to establish new IT and software hubs in the region. In May 2021, Goldman Sachs announced the move of part of its digital engineering operation to the West Midlands 
+(can any info be added here – is it a complete relocation or a hub etc?). Other companies include: 
+TCS (Tata Consultancy Services) – this global IT solutions provider based in Coventry delivers services for both National Grid and Severn Trent Water amongst other clients
+Specialist IT support centres includes TATA Technologies established its European HQ and European Innovation and Development Centre (EIDC) in Warwick in 2017. The Centre  which employs over 1,000 staff; with over 300 staff providing IT support services to Jaguar Land Rover’s manufacturing plants. 
+CapGemini
+ which has a significant presence in the region (how many staff?)works with the  University of Birmingham’s Business School to deliver its Capgemini Community Challenge which provides an immersive consultancy experience for the School’s undergraduates. 
+Kainos
+, which employs more than 1,300 staff established its office in Birmingham in December 2017 to act as its global development hub for AI, VR and 5G networks.  It now employs some 200 people in the city. The company is part of the Goldman Sachs’ supply chain
+Number of People Employed in Computer Programming, Consultancy &amp; Related Activities (SIC 62), West Midlands and Selected Comparators
+Geography
+62: Computer Programming, consultancy &amp; related activities
+No. of Employees
+West Midlands (3 LEP areas) 
+32,000
+Cambridgeshire and Peterborough CA
+16,000
+Greater Manchester CA
+23,000
+West Yorkshire CA
+22,000
+West of England CA
+13,000
+In addition to the base of IT service providers who have established a new presence in the West Midlands, the region also has its own ‘homegrown’ companies. SCC has been headquartered in Birmingham since its incorporation in 1975. The company is now a £2.2bn turnover company, with over 5,500 employees and businesses in the UK, France, Spain, Romania and Vietnam.
+(See Skills Chapter for more information)
+Sources: BRE, ONS 2019 (latest data)
+
+Games &amp; VR/AR
+
+Games: 
+Introduction
+The global games market was valued at $151. 55bn in 2019 and is expected to reach a value of $256. 97bn by 2025. 
+Adoption of games platforms, such as 
+eS
+ports is driving the market with considerable demand resulting from the pandemic. eSports in particular have grown considerably over the last year and driving the overall games industry across the globe. (
+ReportLinker
+ 2020) 
+The UK is the leading video game market in Europe and the sixth-largest games market worldwide. Between 2019 and 2020, the number of video game users in the UK 
+increased
+ from 33 million to over 36 million.  
+Leamington Spa in the West Midlands represents 25% of all the UK games output 
+Th
+e UK’s video game market is valued at £5.3bn, with digital and online games accounting for the largest share of consumer spending on video games.  Thanks to rapid smartphone adoption throughout the UK, mobile games engagement is now higher than ever. (Source: Statista 2021)
+The West Midlands is home to a number of global industry players and world leading researchers in game technology in console &amp;PC, mobile and AR/VR. It is also ideally positioned to exploit the growing eSports market which is driving the overall games industry across the globe.
+ 
+The West Midlands has a nationally significant games industry. Across the region around 130 games businesses employing a workforce of 3,000-3,500 games industry professionals. The industry  is centred at Leamington Spa (‘Silicon Spa’); a national centre of excellence for production of computer games and games technology,  with over 50 companies employing over 2,500 people with skills in design, software development, AI, augmented and virtual reality, and product development. 
+UKIE, the UK games industry trade association, identified Leamington Spa (‘Silicon Spa’) as a national Centre of Excellence for production of computer games and games technology (UKIE &amp; BOP Consulting, 2017).
+Whilst Royal Leamington Spa is undoubtedly the centre of the games industry in the area, the cluster is expanding into other areas in the West Midlands. For instance, 
+Codemasters
+ has recently opened a studio in Birmingham and in December 2019 Natural Motion (owned by Zynga) established a new office in Birmingham, focused on racing games.
+The region has a proven track record in creating AAA games and working with world renowned IP. Developed over 4 decades the local cluster has created such games as Dizzy, Guitar Hero, Sonic Dash and the Forza Horizon Series. 
+Company
+Activity/Key Brands
+Codemasters
+Dirt Rally and F1
+Playground Games (Xbox Studio)
+Forza Horizon Series
+Sega Hardlight
+Sonic Dash &amp; Sonic Forces
+Ubisoft Leamington
+Tom Clancy’s The Division 2
+Pixel Toys
+Warhammer: Realm War
+Rebellion
+Sniper Elite 4
+Fish in A Bottle
+Browser game developer, worked on brands including Peppa Pig
+AppyNation
+Games developer supported by NESTA to adopt no- traditional publishing model
+Mediatonic
+AtmosVR
+Developer of multiplayer games
+AR/VR content innovator
+Kwalee
+Developer and publisher of hypercasual games
+Sumo Digital
+UK games developer
+Unity Technologies
+Experts in real-time 3D content
+Electric Square
+Exient
+independent developer and publisher of games on mobile devices
+Selected Games Companies, West Midlands 
+
+Games: 
+A Globally Connected &amp; Competitive Games Industry
+Alongside the presence of global players such as EA Games (which acquired Leamington-based 
+Codemasters
+ for $1.2bn early in 2021) and Ubisoft (which has two studios in Leamington), a core of medium sized developers and publishers ‘anchor’ the cluster, including Playground Games, Rebellion Warwick (which acquired Radiant Worlds in 2018) and 
+Exient
+.
+Games Developers and Publishers
+Studios across the region are working on AAA titles and renowned IP with global reputations including:
+Ubisoft Leamington was founded in 2017 and now employs over 50 people in Leamington. It is an AAA game developer collaborating on games including Tom Clancy's The Division, The Division 2, Far Cry 5 and 
+Starlink
+: Battle For Atlas.
+Codemasters was founded in 1986 and was recently acquired (February 2021) by EA for $1.2 billion, on the basis of its original AAA games, including Formula One and 
+DiRT
+. Headquartered in Southam, near Leamington Spa, it also has a studio in Birmingham and overall employs 450 people.
+Founded in 2010, Playground Games is the developer of the Forza Horizon series of AAA racing games and Fable, a fantasy games franchise. Forza is a multiple award winning game including Best British Game in the BAFTA Game Awards 2019. The company which was acquired by Microsoft Studios in 2018, undertakes all its R&amp;D activity at its base in Leamington Spa.
+Mediatonic
+ which has recently opened a studio in part of the 1 Mill Street cultural hub in the heart   of Leamington Spa employing 60 people, is an indie developer of multiplayer games including ‘Fall Guys’ was acquired in March 2021 by industry giant Epic, publisher of Fortnite, for an undisclosed sum. 
+Sega 
+HARDlight
+ – SEGA’s UK mobile games studio. Sonic Dash is downloaded over 150,000 times a day.
+SEGA’s UK mobile games studio. Sonic Dash is downloaded over 150,000 times a day.
+AtmosVR
+, an innovator in VR and AR entertainment content.
+Kwalee
+ is a developer and publisher of 
+hypercasual
+ games for PC, mobile and console. They have 100 staff in Leamington Spa plus offices in Beijing, Bangalore and Istanbul. Kwalee publishes 178 mobile apps with over 4 million downloads a month.
+Sumo Digital is a games developer with 8 studios in the UK, including a specialist mobile games studio in Leamington Spa. It makes games and content for some of the world's biggest publishers including Microsoft, Sony, Apple and Sega.  It also recently acquired ‘work-for-hire’ developer Lab42 and its exclusive licence to the World Snooker Tour brand.
+eSports
+The global demand for eSports is growing considerably, with the global eSports market valued at just over $1.08bn (Statista 2021). The West Midlands is well positioned to benefit from this rapidly growing market. The largest prize pool event held in the UK to date was ESL One Birmingham with a prize pool of $1m, held at Arena Birmingham 2018. In May 20021, the University of Warwick announced it plans to establish an eSports centre. 
+The region’s 8 universities with their large student populations are growing the eSports scene. In the UK overall there are over 3,000 players in the National University eSports league, representing 110 universities. 
+
+AR &amp; VR: 
+Strengths in Applications for Industry
+Over the course of the last year, there has been considerable growth in several areas of the games industry including eSports, application of AR/VR technology across other sectors, UX, front end development for data collection, procedural generation and ‘work for hire’ specialist studios whose focus is on the creation of games based on IP owned by other developers or publishers.
+The nationally significant West Midlands games cluster has potential to take the lead in the developing AR/VR industry and the major opportunity that exists to apply these technologies to other sectors such as manufacturing, healthcare, logistics and education. Transport also represents a huge opportunity with Transport for the West Midlands exploring disruptive games technology for transport applications and for ‘amplifying’ the customer experience – enabled by 5G infrastructure connecting roads, rail, buses and trams. 
+Augmented Reality and Virtual Reality (AR/VR) – Industrial Applications
+The Global AR and VR market is projected to grow significantly and account for a revenue of $1,274.4bn in 2030 (Research and Markets 2020). 
+There is a growing demand for AR/VR technology transfer to Serious Gaming across industries including manufacturing, engineering, healthcare, retail, construction, education, financial services and tourism. The West Midlands is ideally placed to lead this technology. Many of the leading games developers in the region are experts in VR/AR technology. Established franchises such as Forza Horizon 4 are now being released in VR versions for PC and Mac across platforms including Steam.
+Industry collaborations include TATA Motors and Playground Games based in Leamington-Spa. TATA took the concept of a racing car popular within the Forza Horizon racing franchise as the basis of a physical prototype. Warwick Innovations (the commercialisation arm of the University of Warwick) used this as the basis for a scalable modular software-based concept for automotive design. 
+Locally based companies with industry applications include:
+Cue Interactive - a university spin-out is based in Coventry. The company is developing large scale immersive simulations; 3D visualisations using VR, AR and gamification applications for industry. The company works with BAE Systems, Costain and Jaguar Land Rover. 
+Dassault Systems is the software arm of French owned Dassault Groupe.  The former has its UK HQ in Coventry. The company develops PLM (Product Lifecyle Management) software applications software for industrial processes and provides 3D vision of the entire life cycle from concept to maintenance. 
+Oktal
+ 
+Sydac
+ is a leading developer of simulation systems for rail (including HS2), light rail, truck &amp; bus and airports. The company has pioneered a wide range of AR/VR and simulation technologies for driver training, motion simulation and training systems.
+Unity Technologies is a US owned company providing a platform for creating and operating real-time 3D (RT3D) content. The company is working with the MTC in product visualisation and procedural generation to create content for video games and animated movies. Procedural generation is data created algorithmically to produce realistic 3D effects and user experiences, both in games and in other sectors including film/television, e-learning, model-based simulations for planning and healthcare.
+EnginSoft
+ UK, is a Italian owned company developing simulation based solutions for engineering, training and research.  
+
+Sector Ecosystem
+
+Executive Summary: 
+A Digital Tech Centre of Excellence
+.
+Industrial Automation Systems Opportunities. 
+The West Midlands considerable manufacturing, utilities and energy base is creating opportunities in industrial automation, with the roll-out of 5G supporting digital transformation and industrial automation. Existing investors in the region include Schneider Electric, Autodesk, UCS Systems and Wolf Automation. 
+A nationally significant games industry centred on Leamington Spa - ‘Silicon Spa’ represents 25% of all the UK games output. 
+A cluster of around 50 businesses includes global players such as EA Games, Ubisoft and Sega, alongside creators of international franchises for both AAA  (Playground Games, creator of Forza Horizon)) and ‘
+hypercasual
+’ mobile games (
+Kwalee
+). Across the region, the industry employs circa 3,500 people.
+A considerable cyber security industry; part of the Midlands Cyber regional cluster including 
+Cyber Valley, 
+with Malvern and Worcestershire
+. 
+The strong base of industries such as automotive, aerospace and medical devices as well as national critical infrastructure companies means that there is a growing base of cyber security companies supported by considerable academic expertise. PwC has their national cyber security leads in Birmingham and other companies include 
+CyerQ
+ and 
+Nettitude
+ (a Lloyds Register Group of companies) as well as cyber divisions within companies including AZ Automotive, National Grid and Severn Trent Water.
+The region’s strengths in manufacturing, transport, healthcare and education provides a considerable opportunity for the AR/VR industry
+. 
+C
+ompanies
+ based locally with this expertise include: Dassault Systems, 
+Oktal
+ 
+Sydac
+ and Unity Technologies. 
+Around the world, the most successful ideas emerge from places which have three critical things: world-class research institutions; a cluster of high technology firms: and major government investment. The West Midlands is home to all three. 
+This combination of talent, institutions and market opportunities across a range of industry sectors has helped the West Midlands build a deep ecosystem ranging from global technology giants to creative games companies. 
+The tech and creative sector in the West Midlands is differentiated by the opportunities to build on existing supply chains, network and collaborative R&amp;D relationships in strongly locally represented industries including manufacturing, transportation, automotive, aerospace energy, utilities and financial services.
+A Strong-Track Record in Attracting Digital &amp; Creative Investment  
+A track record in establishing and attracting leading 
+software and IT services
+ companies
+.  Global companies already based in the region spanning a wide spectrum of software development and other digital capabilities include: IBM, Atos, Oracle, 
+Microland
+, 
+CapGemini
+ and TCS.
+Nationally significant investment in 5G infrastructure and innovation testbeds.  
+WM5G (West Midlands 5G) with £100m in UK government investment, operates the UK’s only regional 5G testbed. This has pioneered new methods of network deployment and developed a strong collaborative approach with industry partners including BT, Vodaphone and Telefonica. The West Midlands is already home to a number of telecoms companies, ranging from mobile network operators, services to hardware. Key companies include Vodafone, BT, Fujitsu, Ericsson and 
+Telent
+.
+
+Digital Tech: 
+A Strong Collaborative Ecosystem
+The West Midlands has a considerable ecosystem which supports the digital tech industry and provides opportunities for collaborations between large, medium and small companies as well as start-ups.  Additionally, this ecosystem enables commercial partnerships across the different industries represented in the West Midlands, including manufacturing, rail, transport and energy systems for example. 
+The region’s universities and Catapults (for example MTC and the Energy Systems Catapult) provide considerable R&amp;D expertise and access to equipment and facilities for testing and trialling new digital technologies in a real-life environments and industrial settings. 
+The Growth Hubs in the West Midlands also provide support to SMEs (small to medium sized businesses) to help connect them to local and national programmes as well grants, employment and skills. 
+Businesses in the West Midlands can benefit from being part of the UK’s first 5G application accelerator - 5PRING. The 5PRING open-innovation centres bring organisations with specific industry challenges together with start-ups and scale-ups, to incubate and accelerate commercially viable solutions to these challenges by leveraging 5G technology.
+There is a considerable 
+number of 
+local industry networks that exist to support and promote collaboration, innovation and business opportunities for digital businesses. As well as supporting innovation, these networks and accelerators such 5PRING, Innovation Birmingham and Birmingham Tech help smaller 
+businesses innovate into large local supply chains across different industries including manufacturing, finance, transport and infrastructure.  A number of these are listed below and are detailed in the following pages. 
+
+Digital Tech: 
+A Comprehensive Digital Network
+Existing and new businesses to the area can benefit from a considerable base of organisations and networks who specifically support the digital tech industries.  A number of these are included as follows:  
+The Innovation Alliance for the West Midlands 
+This represents an alliance of 
+organisations in the area of science and technology based innovations, The Alliance has recently established PIVOT, a financially supported programme to stimulate and catalyse a pipeline of innovation activity. Current programmes include those accelerating cross-industry innovation in the West Midlands supply chains, including automotive and aerospace. 
+The Innovation Alliance organises regular networking events and major events such as 
+Venturefest
+ West Midlands; providing entrepreneurs, investors and innovators a place to meet, engage and exchange ideas for co-operation and collaboration, particularly in the fields of science and emerging technologies.
+Birmingham Tech
+This CIC raises the profile of the regional tech scene by supporting the scale-up of tech and digital businesses through for example scale-up initiatives and showcase events. Birmingham Tech’s 
+ScaleUp
+ Programme is run in collaboration with the WMCA and Purpose Led Performance and in partnership with 
+Bruntwood
+ Sci-Tech (Innovation Birmingham Campus). 
+Recent successes have included 
+CrediCar
+, an innovative smartphone-based platform lets automotive retailers provide a fully digital and automated car purchasing journey and cyber security provider, 
+CyberQ
+ Group. 
+Birmingham Tech recently partnered with West Midlands Combined Authority to create a low carbon Scale-Up Accelerator to help local businesses with high-growth potential, and to support the West Midland’s Combined Authority’s 2041 net zero ambitions for the region. 
+Birmingham Tech also runs Birmingham Tech Week – an annual event which celebrates the success of the region’s tech sector as well as encouraging more industry collaborations as well as inspiriting the next generation of digital entrepreneurs. 
+Create Central
+This industry body has a membership base consisting of  film, TV, games and other creative content sectors. Create Central collaborates with national and regional partners to develop the use of immersive technologies in driving innovation-led pilots, exploiting new major market opportunities in sectors beyond the creative industries.
+Interactive Futures Leamington Spa
+This annual industry event to showcase the latest developments and opportunities; TEDx Leamington Spa; Creative Mornings Leamington Spa – a local network for creatives where industry can share stories with their peers; Checkpoint – a casual monthly social in Leamington Spa for anyone in the games industry and Gather in the Middle – a 
+facebook
+ group for indies and developers. 
+Midlands Cyber 
+Midlands Cyber is a UK government backed initiative, supported by the Midlands Engine and the  Department of International Trade, showcasing the region for its considerable Cyber Security commercial and academic expertise.  Midlands Cyber helps members in building sales capabilities  into new tech networks as well as in international markets.  Midlands Cyber is developing several global connections including USA, France, Israel and Central Europe.
+SuperTech
+SuperTech
+ is the first dedicated 
+ProfTech
+ collaboration of its kind in the UK, with this supercluster promoting and supporting regional businesses in sectors including FinTech, 
+LegalTech
+, 
+PropTech
+ and 
+InsurTech
+.
+
+Digital Tech: 
+A Diverse Base of Digital Accelerators 
+Accelerators &amp; Innovation Hubs
+The West Midlands has a considerable track record in the development of accelerators and innovation hubs to support industry. The region is home to the UK’s first 5G commercial innovation hubs, with 5PRING centres in Coventry, Wolverhampton and Birmingham. 5PRING provides a collaborative innovation environment and de-risks the process of building a business case for real time monitoring and 5G sensor integration, by providing a shared space for conducting this type of research.
+The region’s innovation ecosystem is continually being added to and will soon be further 
+enhanced with the attraction of ‘
+Plug and Play’ a 
+Silicon Valley accelerator which is establishing a new Mobility Innovation Accelerator at Mira Technology Park later in 2021. The Accelerator will focus on electrification, cyber security. 
+Other key innovation and industry support networks include the HS2 Innovation Centre, Innovation Birmingham and others as follows:
+Innovation Birmingham
+Innovation Birmingham is the UK’s largest campus dedicated to digital technology businesses and part of 
+Bruntwood
+ SciTech’s network of thriving innovation districts. Over 170 digital tech companies and over 1000 innovators are located at this campus. The 5G 5PRING accelerator as well as the HS2 Accelerator and Barclays Eagle labs forms part of this tech campus. The campus provides over 100,000 
+sq
+ ft of workspace including coworking, serviced, managed and leased offices alongside meeting and conference facilities for digital tech entrepreneurs, start-ups, scale ups and large organisations.
+Innovation Birmingham works with businesses from across tech, creative and manufacturing, ranging from home-grown unicorn sportswear brand 
+Gymshark
+ to Tata Motors and the NHS, to stimulate
+collaborative cross-sector innovation. Innovation Birmingham brings together a network of investors looking to develop or fund digital tech businesses with high growth potential across sectors such as health, transport, finance, manufacturing sport and property. Some of the examples of innovative products resulting from these collaborations include:
+E4F New Start (Cohorts of 50 x 3) –Business skills programme for 150 digital tech companies which follows 3 previous incubators focussed on early stage businesses. New Start looks particularly for founders and businesses that are underrepresented in our programmes and the midlands innovation ecosystem. 
+Innovation Birmingham work with large and small companies to stimulate industry collaborations.  Recent examples include the Capgemini Applied Innovation Exchange (AIE) which has been hosted at the Innovation Campus.  The AIE focuses on demand led innovation where larger companies can draw upon the innovative potential of SMEs, with SMEs working with larger companies as early adopters of their technologies. 
+Engine Birmingham (The UK Investment Association FinTech Hub)
+A programme for 
+FinTechs
+ to accelerate their immersion in the investment management industry. The Engine Room offers over 5,000 sq. ft. of free co-working space for IA FinTech Members – providing space to innovate, collaborate and cross-fertilize with other firms.
+Birmingham Enterprise Community (BEC)
+BEC supports entrepreneurs, start-ups and scaleups across all business stages and sectors through a series of programmes designed by entrepreneurs, for entrepreneurs. Support includes helping businesses to find investment and providing access to new markets. BEC runs FORWARD, a 6 month long global accelerator programme.
+
+Digital Tech: 
+Accelerators 
+cont.
+5PRING – 5G Innovation Centre
+5PRING is the UK’s first 5G commercial innovation centre. Backed by a £100m investment from UK Government, it works with private companies and public sector organisations to harness the power of 5G to deliver growth and innovation. 
+The open-innovation centres bring organisations with specific industry challenges together with start-ups and scale-ups, to incubate and accelerate commercially viable solutions to these challenges by leveraging 5G technology.
+5PRING provides a collaborative innovation environment and de-risks the process of building a business case for real time monitoring and 5G sensor integration, by providing a shared space for conducting this type of research.
+Examples of projects that have been developed out of 5SPRING include: 
+Passenger Management - 
+GoMedia
+, 
+Wordnerds
+ and Icomera
+An AI-led system – designed to improve passenger experiences and safety – provides intelligence in interpretation of live customer feedback over 5G. Immediate problems can be resolved with the aim is to enhance the traveller experience by improving the products and services available to passengers across the transport system.
+Predikt
+ - 
+AppyWay
+ and 
+Getmapping
+A predictive parking system that uses 5G-enabled kerbside imaging to reduce the amount of time spent finding a parking space. This could reduce the estimated £373m spent each year in wasted time, fuel and emissions caused by drivers searching for a place to park. 
+HS2 Innovation Centre
+HS2 has established an innovation programme with the Connected Places Catapult and Innovation Birmingham to foster collaborative working with small and medium enterprises and the core members of the HS2 supplier network. The Accelerator will drive innovation in the design &amp; build of HS2; innovate railway operations to delivery world class leading customer experiences. The Accelerator is based at the 
+Bruntwood
+ SciTech Innovation Birmingham Campus and offers: 
+Business development opportunities and introductions to potential customers
+Technical support including access to technical experts
+Investment readiness – tailored investment readiness programmes with support from investment coaches
+Funding advice – including grant opportunities
+Coaching and mentoring – including VC support 
+Showcase day – demonstration days to investors, industry and customers
+Growth support – 4 months tailored business support
+The Accelerator has already seen two cohorts graduate, with companies addressing productivity challenges and improving the station ‘experience’.  Companies such as 
+Buildots
+, 
+Dendra
+ Systems, 
+Sensat
+ and 
+Cloudcycle
+ have participated in the Accelerator - representing technologies ranging from drones, AI and the Internet of Things.
+
+Digital Tech: 
+University Business Support 
+ 
+Selected University Business Support Centres
+Activities
+Leading to Grow, Aston Business School and University of Birmingham Business School 
+A programme to help support small businesses grow, innovate and increase productivity through adoption of digital and other relevant new technologies.
+Gamer Camp, Birmingham City University
+A finishing school for game developers based at Birmingham City University. It is backed by the likes of Sony Computer Entertainment Europe, 
+Codemasters
+, Playground Games, Pixel Toys, Feral Interactive, Lab42, Flix Interactive and more.
+STEAMhouse
+, Birmingham City University
+STEAMhouse
+ supports creative and maker businesses to develop products and services with a strong focus on the use of digital technologies. The University has recently launched a new incubation centre and is investing £70m in a new innovation campus.
+Creative and Digital Communities Initiative, University of Warwick
+This initiative works to support creative and digital companies working locally and has a dedicated project officer engaging with games companies.
+The Beaconing Project, Coventry University
+The Beaconing Project  is an international collaboration between academia and industry with Coventry University being the project coordinator. In conjunction with 15 partners the project seeks to pilot innovation in gamified learning in a real operational environment.
+Disruptive Media Learning Lab, Coventry University
+The Lab represents a cross-university unit which works to Exploring innovative methods of teaching and learning in Higher Education including gamification, digital fluency, and participative learning practices.
+The 
+Coventry
+ 
+Simulation centre, Coventry University
+This advanced interactive people training and development centre provides simulation based training in any type of environment including an office, hospital ward, community, site office, airport or nuclear reactor.
+SPARK, University of Wolverhampton
+Located at the University’s Science Park, SPARK helps entrepreneurs that are creative or use technology in innovative ways to launch, develop and grow their businesses.
+The SciTech Innovation Hub, University of Wolverhampton
+Supporting businesses through the process of new product development, from idea generation to commercialisation.
+The West Midlands’ provides a considerable university based business support infrastructure.  Selected examples are included below
+: 
+
+Digital Tech: 
+Catapult Network Support
+The Catapult Network consists of technology and innovation centres which are independent not-for-profit private organisations.  The Catapults centres provide cutting-edge R&amp;D facilities including laboratories, testbeds as well as technical experts that prove and adopt breakthrough products, processes, services and technologies. The West Midlands is home to 3 Catapults:
+The MTC (Manufacturing Technology Centre) 
+The MTC is part of the High Value Manufacturing Catapult established by Innovate UK, the UK’s innovation agency and is located in 
+Ansty
+, Coventry. It has notable expertise in areas such as digital manufacturing and robotics and autonomous systems. Its work includes the deployment on simulation to improve design and manufacturing efficiency and works with SMEs to realise this technology.  The MTC has recently put in place a 5G private network. 
+The MTC which has considerable digital manufacturing expertise; is part of the Smart Factory Innovation Hub (funded by UK Research &amp; Innovation).  This hub enables businesses to develop and test the latest digital manufacturing solutions in a broad range of applications before investment. This provides technology providers to showcase new technology solutions on real industry examples and source feedback to improve their technology offering for the sector.
+MTC work with a diverse base of digital technology companies.  For example, Unity Technologies (based in Stratford-upon-Avon) is working with MTC around product visualisation and procedural generation. This is used to create content for video games or animated movies, such as landscapes, 3D objects, character designs, animations, or non-player character dialogue.
+WMG (Warwick Manufacturing Group) 
+WMG is part of the HVM (High Value Manufacturing) Catapult and is an academic department within the University of Warwick. WMG works across industries including automotive, aerospace, rail and defence. Digital technologies r
+esearch
+ activities include automated design and process optimisation and computer vision as well as a number of the following: 
+Digitalisation and Industry 4.0
+Automation and robotic systems lifecycle engineering (including specification, design, integration, implementation, support and reconfiguration)
+Virtual process planning and virtual commissioning
+Industrial IoT and distributed controls systems
+Digital twin / digital shadow creation and integration
+IT/OT Integration strategies and manufacturing data models
+Production data analytics and information visualisation
+Other areas of digital expertise include: 
+High-Dynamic-Range (HDR)
+ technology to enable the creation of complex virtual environments including visual, aural, smell, touch and even taste to achieve a level of perceptual realism. These technologies that for example cars can be designed digitally without the need to build physical prototypes
+
+Digital Tech: 
+Catapult Network Support 
+cont.
+Artificial Intelligence 
+- WMG is working on the development of AI technologies to provide machines with fully automated strategies for complex interaction tasks. Other research in this area includes advanced simulations and “digital twins” to optimise physical systems and their control algorithms at the design stage, whether in the automotive industry or industrial robotics.
+WMG is a Centre of Excellence for Connected and Autonomous Vehicle research. 
+Expertise includes cooperative driving systems, connectivity, human factors and verification and validation. Examples of research includes the Safety 
+PoolTM
+ Scenario Database:
+In March 2021, WMG and Deepen AI (a Silicon Valley based start-up) launched the Safety 
+PoolTM
+ Scenario Database, the largest public repository of scenarios for testing autonomous vehicles in e world. This built on the work with the Centre for Connected and Autonomous Vehicles and the UK funded West Midlands Future Mobility Area, which offers a real-world ecosystem for development and trialling of Connected and Automated Technology as part of the Zenzic coordinated CAM Testbed UK capability.
+Energy Systems Catapult 
+This Catapult supports digitalisation in energy power networks, smart grids and systems.  The centre provides a range of digital and data services; assets and expertise, such as data science, algorithms and artificial intelligence, alongside a Living Lab made up of real-world digitally connected homes.
+The Catapult has supported over 200 digital businesses including in a number of applications including:  
+Digital Utilities
+Predictive Maintenance
+Energy Price Comparisons Services
+EV Car Sharing &amp; Pooling 
+Charging Point Platforms
+The Energy Systems Catapult manages the Energy Knowledge 
+eXchange
+ which delivered in collaboration with stakeholders across the energy industry and academic research providers, EKX allows energy SMEs to gain free access to valuable information and acts as a platform for innovators to find support networks, collaborate, explore sources of funding and build productive partnerships.
+
+Skills &amp; Talent
+
+Skills &amp; Talent: 
+A Large &amp; Sustainable Labour Pool
+Map Indicating 45 minute Drive Time from Birmingham
+Introduction - A Considerable Catchment Area 
+The West Midlands’s has a considerable 45 minute drive time catchment area, providing employers with a large, sustainable and well educated pool of labour: 
+Total population of 5.4m within a 45 minute drive time of Birmingham
+Working age population (16 -64) of 3.3m within a 45 minute commuter drive time of Birmingham
+Of the larger labour markets outside London, Birmingham has the second largest proportion of employees qualified to NVQ3 or 4+ after Bristol. 
+The West Midlands has the highest growth forecast in the working age population of the non-London Combined Authorities – growing by 140,000 by 2041. 
+Please note comparators are in the Appendix.  As the Manchester catchment area is larger, this hasn’t been used in this slide as a comparator. 
+
+Skills &amp; Talent:
+ The Digital Workforce
+Digital Related Employment
+The table opposite indicates the numbers and proportions of employees in selected industry sub sectors of relevance to Digital (as defined at 2, 3 or 5 digit SIC Code level in the Business Register and Employment Survey). 
+Data is broken down by individual LEP, the combined 3 LEP West Midlands geography, the West Midlands Government Office Region and England data are included for comparative purposes.
+The telecommunications sector employs 8,500 employed in the West Midlands’ 3 LEP area.
+In total, the West Midlands (the combined 3 LEP geography) employs over 51,600 people (rounded) in digital technology related activities. 
+The largest sub sector is computer programming, consultancy and related services which 32,000 people. This sub-sector employs considerably more people in the combined 3 LEP geography than in other comparators including the Combined Authority areas of Greater Manchester and Cambridgeshire &amp; Peterborough. 
+(please note that the combined LEP area has been used for consistency and also as the number of employees for SIC 62 is higher – 19,000 in the West Midlands Combined Authority geography
+Numbers and proportions employed in Digital Industries
+Selected Industries by SIC Code
+Black Country
+Coventry &amp; Warwickshire 
+Greater Birmingham &amp; Solihull 
+Combined 3 LEPs
+West Midlands
+England
+Eng-land
+Number
+%
+Number
+%
+Number
+%
+Number
+%
+%
+%
+%
+18 : Printing and reproduction of recorded media
+1,125
+0.3
+700
+0.2
+2,375
+0.2
+4,200
+0.2
+0.2
+0.3
+0.3
+58 : Publishing activities
+400
+0.1
+400
+0.1
+900
+0.1
+1,700
+0.1
+0.1
+0.4
+0.4
+59 : Motion picture, video and television programme production, sound recording and music publishing activities
+400
+0.1
+700
+0.1
+1,375
+0.1
+2,475
+0.1
+0.1
+0.4
+0.4
+60 : Programming and broadcasting activities
+0
+0.0
+100
+0.0
+1,000
+0.1
+1,100
+0.1
+0.0
+0.1
+0.1
+61 : Telecommunications
+1,375
+0.3
+1,625
+0.3
+5,500
+0.6
+8,500
+0.5
+0.5
+0.7
+0.7
+62 : Computer programming, consultancy and related activities
+3,750
+0.8
+11,000
+2.4
+17,500
+1.8
+32,000
+1.7
+1.7
+2.6
+2.6
+63 : Information service activities
+400
+0.1
+500
+0.1
+700
+0.1
+1,600
+0.1
+0.1
+0.3
+0.3
+Employment by 3 and 5 digit SIC Code 
+61100 : Wired telecommunications activities
+0
+0.0
+0
+0.0
+1,125
+0.1
+1,125
+0.1
+0.0
+0.0
+61200 : Wireless telecommunications activities
+0
+0.0
+100
+0.0
+600
+0.1
+700
+0.0
+0.1
+0.1
+61900 : Other telecommunications activities
+1,375
+0.3
+1,500
+0.3
+3,750
+0.4
+6,625
+0.4
+0.4
+0.5
+62011 : Ready-made interactive leisure and entertainment software development
+100
+0.0
+900
+0.2
+200
+0.0
+1,200
+0.1
+0.0
+0.0
+62012 : Business and domestic software development
+500
+0.1
+2,750
+0.6
+5,000
+0.5
+8,250
+0.4
+0.4
+0.6
+62020 : Computer consultancy activities
+2,000
+0.4
+5,000
+1.1
+9,500
+1.0
+16,500
+0.9
+0.9
+1.4
+62090 : Other information technology and computer service activities
+1,125
+0.3
+2,500
+0.5
+2,750
+0.3
+6,375
+0.3
+0.4
+0.5
+631 : Data processing, hosting and related activities; web portals
+400
+0.1
+500
+0.1
+600
+0.1
+1,500
+0.1
+0.1
+0.2
+63110 : Data processing, hosting and related activities
+400
+0.1
+500
+0.1
+600
+0.1
+1,500
+0.1
+0.1
+0.1
+63120 : Web portals
+0
+0.0
+0
+0.0
+100
+0.0
+100
+0.0
+0.0
+0.1
+Sources: BRES, ONS 2019 (latest data)
+Geography
+62: Computer Programming, consultancy &amp; related activities
+West Midlands (3 LEP areas) 
+32,000
+Cambridgeshire and Peterborough CA
+16,000
+Greater Manchester CA
+23,000
+West Yorkshire CA
+22,000
+West of England CA
+13,000
+
+Executive Summary: 
+A Digital Tech Centre of Excellence
+.
+A Collaborative Innovation Ecosystem &amp; Access to Market Opportunities
+An environment for encouraging collaborations and supply chain opportunities. 
+The West Midland’s diverse base of global and indigenous digital companies combined with an ecosystem of support organisations and R&amp;D infrastructure enables joint collaborations and networking.  Key networks include  Innovate Birmingham, the Innovation Alliance of West Midlands and Create Central. 
+A hub of entrepreneurial start-ups and SMEs. 
+T
+he significant number of digital start-ups and SMEs such as 
+Eatron
+ Technologies, 
+Sidetrade
+, Cue Interactive and 
+CyberQ
+ provides the entrepreneurial start-up and SME collaboration base often required by the larger global companies. 
+The  West Midlands is the best placed UK region for developing the next generation 5G related industries. 
+The roll-out of 5G infrastructure is creating wide range of supply chain opportunities for digital and creative content companies including in: software defined networks, network function virtualisation The West Midlands with the highest penetration of 5G networks in the country and the country’s first region-wide public 5G networks provides considerable trialling opportunities.  
+The ideal location in which to test, prove and scale-up new 5G products and services. 
+Allied to its success in stimulating the roll-out of 5G networks and test-beds;  WM5G is the optimal partner for development of new mobile applications and network technologies. Through its 5PRING innovation centres, MNOs including Telefonica and BT collaborate to help start-ups, scale ups and new entrants to the UK market
+ meet telco requirements, quality assurance thresholds and levels of supply.
+Access to Digital &amp; Creative Skills &amp; Talent
+The region’s software skills and large talent base is attracting global brands such as Goldman Sachs, Wipro and Tata Technologies 
+– international companies across different industries establishing are presence in the West Midlands to benefit from the large and diverse base of digital skills. 
+A considerable skills base of digital and creative talent, with the industry employing  51,600 people in the West Midlands; with the largest proportion represented by 32,000 employees in computer programming and associated consultancy.  
+This local base of digital and creative employees is enhanced by access to a large working age population of 3.3m based within a 45 minute drive time from Birmingham
+. 
+The West Midlands has a young and diverse population. 
+Eight universities and world-class research institutions produced 58,700 graduates in 2020 
+(HESA, 2019/20)
+, with 22  universities within an hour’s drive time providing an annual student 
+population of 385,00
+0. 
+A nationally significant number of science based students. 
+The West Midlands’ Combined Authority geography has a considerably higher number of students in science based subjects There is a total of 87,480 students studying all science subjects including just under 8,000 in computing only. The latter is a proportion that is 66% higher than the number of computing students in Greater Manchester and considerably higher than other City Regions outside of London.
+A low risk location with sustainable population growth. 
+The West Midlands has the highest growth forecast in the working age population of the non-London Combined Authorities – growing by 140,000 by 2041. 
+
+Software Development Expertise
+LinkedIn provides an indication of the available talent pool with particular skills sets. 
+The West Midlands has over 16,000 people registered on 
+Linkedin
+ with software development skills and just over 17,000 with SQL skills. The latter represents the largest proportion of jobs with IT skills within the broader IT sector. 
+The West Midlands has a large skills base in programming skills relevant to cyber security, including Python, HTML, C++, JavaScript and PHP. 
+Selected IT Skills
+WM Professionals
+No. 
+% 
+of WM Total 
+Jobs with IT Skills 
+GM Professionals No.  
+Leeds City Region
+Professionals No.
+WM Professionals difference with GM
+WM Professionals
+difference with Leeds City Region
+SQL
+17,005
+40.0%
+16,551
+11,636
+454
+5,369
+Software Development
+16,073
+37.8%
+16,202
+10,562
+-129
+5,511
+JavaScript
+9,407
+22.1%
+11,037
+6,559
+-1,630
+2,848
+Python (Programming Language)
+9,259
+21.8%
+8,856
+4,888
+403
+4,371
+Java
+9,239
+21.7%
+9,958
+5,706
+-719
+3,533
+HTML
+8,745
+20.6%
+9,252
+5,703
+-507
+3,042
+Data Analysis
+8,246
+19.4%
+7,697
+5,001
+549
+3,245
+Microsoft SQL Server
+7,549
+17.8%
+7,131
+5,239
+418
+2,310
+C++
+7,231
+17.0%
+6,363
+3,445
+868
+3,786
+Business Analysis
+7,206
+17.0%
+6,187
+4,576
+1,019
+2,630
+C#
+6,762
+15.9%
+6,772
+4,295
+-10
+2,467
+Databases
+6,547
+15.4%
+6,101
+4,193
+446
+2,354
+Programming
+6,016
+14.2%
+5,229
+3,410
+787
+2,606
+Technical Support
+5,851
+13.8%
+4,988
+3,478
+863
+2,373
+Linux
+5,253
+12.4%
+6,009
+3,508
+-756
+1,745
+Cloud Computing
+4,992
+11.7%
+5,374
+3,204
+-382
+1,788
+MySQL
+4,377
+10.3%
+5,337
+3,176
+-960
+1,201
+PHP
+4,312
+10.1%
+5,328
+3,347
+-1,016
+965
+MATLAB
+4,082
+9.6%
+3,375
+1,613
+707
+2,469
+XML
+4,011
+9.4%
+3,873
+2,879
+138
+1,132
+C (Programming Language)
+3,968
+9.3%
+3,493
+1,936
+475
+2,032
+HTML5
+3,502
+8.2%
+4,332
+2,504
+-830
+998
+.NET Framework
+3,501
+8.2%
+3,779
+2,615
+-278
+886
+Business Process
+3,384
+8.0%
+2,409
+1,868
+975
+1,516
+Cybersecurity
+3,377
+7.9%
+3,208
+2,038
+169
+1,339
+R (Programming Language)
+3,253
+7.7%
+3,412
+2,043
+-159
+1,210
+Artificial Intelligence (AI)
+2,097
+4.9%
+2,077
+NA
+20
+N/A
+Skills &amp; Talent: 
+Software Development &amp; IT Skills
+Number of Selected IT Skilled Professionals, West Midlands Combined Authority and Selected Comparators of Greater Manchester Combined Authority and Leeds City Region (LinkedIn Talent Insights, June 2021)
+
+Games Development Expertise
+LinkedIn provides an indication of the available talent pool with particular skills sets in games design. 
+The West Midlands Combined Authority area has 2,028 people registered on LinkedIn with stated games development skills, representing the highest proportion of games skills -  87% of all posts. 
+The West Midlands Combined Authority has 43% more registered employees on LinkedIn with games development skills than Greater Manchester as a whole.
+The West Midlands has a four times higher proportion than the Bristol City Region of people with games development skills. 
+Selected Games Skills
+West Midlands CA Professionals
+% of Total   Games Skills
+Greater Manchester CA Professionals 
+Bristol &amp; Bath City Region Professionals 
+Professionals WM difference with GM
+Professionals
+WM difference with Bristol 
+Games Development
+                         
+2,028
+ 
+87.1%
+        1,410 
+512
+618
+1,516
+Video Games
+                         1,378 
+59.2%
+           893 
+258
+485
+1,120
+Game Design
+                         1,354 
+58.1%
+        1,006 
+363
+348
+991
+Unity
+                            834 
+35.8%
+           574 
+269
+260
+565
+Adobe Photoshop
+                            809 
+34.7%
+           702 
+207
+107
+602
+C#
+                            739 
+31.7%
+           517 
+242
+222
+497
+Programming
+                            687 
+29.5%
+           461 
+185
+226
+502
+C++
+                            671 
+28.8%
+           455 
+222
+216
+449
+Gameplay
+                            585 
+25.1%
+           285 
+75
+300
+510
+Xbox 360
+                            547 
+23.5%
+           201 
+34
+346
+513
+Source: LinkedIn Talent Insights, June 2021
+Skills &amp; Talent: 
+Games Design Skills
+Number of Games Development Professionals, West Midlands Combined Authority, Greater Manchester Combined Authority, Bristol City Region (LinkedIn Talent Insights, June 2021)
+
+FE &amp; HE
+
+Training &amp; Skills Provision: 
+FE &amp; Apprenticeships
+Further Education and Apprenticeship Training Provision
+The West Midlands has a considerable base of Further Education Colleges and apprenticeship providers working with the digital and tech industry to support the growth of skilled workforce of the future. There are a number of colleges offering courses specifically designed to develop and enhance skills in computers sciences, including cyber security and gaming. A number are included as follows: 
+Warwickshire is a leading location for the UKIE’s Digital Schoolhouse Programme which uses play-based learning to engage the next generation of pupils and teachers with the new Computing curriculum. As part of this programme there is a Sony initiative in four schools in Coventry &amp; Warwickshire providing a talent escalator from secondary schools into the universities.
+BMet
+ College
+B
+M
+et
+ College has an established reputation for games design training and offers a range of relevant courses at different study levels. These include a Level 2 and Level 3 Computer Games Design Diploma; a Level 3 Computing Diploma incorporating cyber security, coding, website and games development; a Level 3 e-sports Diploma. 
+Coventry College
+Coventry College is a FE college in Coventry which offers courses from entry-level qualifications, through to degree-level and specialist professional courses. It offers courses in digital skills including for instance Level 3 Cyber Security Technical Apprenticeship and a Level 3 Diploma in Games Design
+South and City College Birmingham:
+The College runs a range of courses from ‘A’ levels, apprenticeships and degree level courses such as BSc in Computing. It offers a Higher Apprenticeship for a Cyber Security Technologist.
+.
+Walsall College
+Walsall College has established dedicated digital centres in partnership with industry leaders - the 
+Risual
+ Microsoft Academy and Cisco Academy. This enables the college to use the latest technology to deliver specialist qualifications. We’ve also established partnerships with Oracle and Code Club Academy.
+Solihull College &amp; University Centre
+This FE College is the lead organisation for the Greater Birmingham Institute of Technology – a collaboration between 4 universities and 3 FE colleges in Birmingham and Solihull. The Institute provides higher level technical skills (levels 4 and 5), including a digital T-Level in September 2021. Relevant 
+digital courses include the
+ Level 3 Extended Diploma in IT (Network and Cyber Security Technician) with CISCO Internet of Everything &amp; CISCO Cyber Security and a BSc (Hons) Games Design and Virtual Reality (University of Northampton). Apprenticeships in cyber security technologist, software developer and unified communications are also available.
+There are numerous other FE colleges across the combined LEP geography of the West Midlands which offer courses of relevance to digital specialisms. These include Dudley College of Technology, Sandwell College, City of Wolverhampton College, Halesowen College and the Warwickshire College Group, with seven sites across the region including 
+Royal Leamington Spa College, Rugby College, Moreton Morrell College and Warwick Trident College.
+BBC Academy, Birmingham
+The BBC Academy is an educational arm of the BBC. The Centre in Birmingham trains current and prospective broadcasting employees in the skills of the broadcasting industry, with a particular focus on digital.
+
+Higher Education Provision
+A total annual student population of over 385,000 students studying at numerous universities within an hour’s drivetime of the West Midlands’ provides a young dynamic and sustainable source of new talent that is in short supply in other parts of the country.
+A Nationally Significant Number of Science Subjects
+The West Midlands’ Combined Authority geography has a considerably higher number of students in 
+science subjects than other selected comparator Combined Authorities and City Regions. 
+There is a total of 87,480 students studying all science subjects including just under 8,000 in computing only – this is a proportion over 66% higher than the number of computing students in Greater Manchester and considerably higher than other City Regions.
+ 
+(please note that the WMCA geography has been used at a subject level as it scores higher than other city regions etc which wouldn’t be as contrasting if based on 1 hour drive time of Manchester for example). 
+High Levels of Graduate Retention
+The West Midlands is ranked 3rd of all the English regions in terms of graduate retention which makes it easier for businesses to easily access local graduate talent. 
+55% of graduates remain in the West Midlands compared to 47% in the South East.
+In relation to domiciled students, 68% stay in the West Midlands compared to 63% in the South West and 57% in the South East. 
+Selected Combined Authority &amp; City Region
+All Sciences
+ Mathematical sciences
+ Computing
+Engineering &amp; technology
+TOTAL 
+West Midlands Combined Authority (WMCA)
+                  59,775 
+                3,635 
+                 7,965 
+        16,105 
+     87,480 
+Greater Manchester 
+                  38,345 
+                1,895 
+                 4,715 
+          8,395 
+     53,350 
+Glasgow City Region
+                  34,060 
+                1,590 
+                 4,925 
+        10,120 
+     50,695 
+North East
+                  30,600 
+                1,735 
+                 4,545 
+          5,990 
+     42,870 
+West Yorkshire
+                  32,240 
+                1,355 
+                 3,440 
+          7,210 
+     44,245 
+West of England
+                  28,860 
+                2,725 
+                 3,200 
+          8,195 
+     42,980 
+Edinburgh City Region
+                  31,015 
+                2,700 
+                 5,160 
+          6,120 
+     44,995 
+Cardiff City Region
+                  27,405 
+                    820 
+                 3,410 
+          4,005 
+     35,640 
+Liverpool City Region
+                  24,465 
+                1,625 
+                 2,560 
+          4,590 
+     33,240 
+Sheffield City Region
+                  21,490 
+                1,065 
+                 3,060 
+          7,960 
+     33,575 
+Source: Higher Education Statistics Agency (HESA) 2019/2020
+Training &amp; Skills Provision: 
+Universities
+Number of Students, WMCA and Comparator City &amp; Combined Authority Regions, 2019/20 
+
+High Quality Teaching &amp; Strong Industry Links
+Not only are there are over 385,000 students studying at numerous universities within an hour’s drivetime; but 14 of the 22 universities within an hour’s drivetime have been awarded the highest ‘gold’ award in the Teaching Excellence Framework (TEF).
+The TEF assesses the standard and quality of teaching in undergraduate study across universities and colleges in the UK.
+University &amp; Industry Partnerships
+The universities in the West Midlands work closely with industry including digital to develop the talent base that will need the needs of businesses.  Examples include the University of Birmingham which works in partnership with Vodaphone in developing a Vodafone Digital Degree. This combines a Bachelor of Science degree in computer science with a technology apprenticeship at Vodafone.
+The University of Birmingham’s Business School is a key partner in the Capgemini Community Challenge. This provides an immersive consultancy experience for the School’s undergraduates. The annual week-long Challenge takes place at Capgemini’s client-solutions facilities in Birmingham, with students carrying out tangible solutions-based consultancy projects for actual third-sector clients. 
+The Institute of Coding
+The University of Coventry is the national lead in ‘Digitising the Professions’ with The Institute of Coding (IoC). The latter consists of 25 HEI partners and over 60 industry partners who are working to develop the next generation of digital talent at degree level and above.
+IoC Coventry University collaborates with industry partners in sectors such as automotive and engineering, healthcare, and creative sectors to develop sector-specific digital skills programmes. The University works with industry partners for Masters, Degree Apprenticeships, CPD, and Taster programmes, in the format of blended online and face-to-face learning.
+Universities Within an Hour’s Drive of Birmingham
+Tottal
+ HE 
+Student Enrolments by HE Provider 2019/2020
+TEF rating: 2019
+Aston University
+15,385
+Gold
+Birmingham City University
+26,930
+Silver
+University of Birmingham
+35,760
+Gold
+University College Birmingham
+4,930
+Silver
+Newman University
+2,795
+Silver
+Coventry University
+38,450
+Gold
+University of Warwick
+26,825
+Silver
+University of Wolverhampton
+18,875
+Silver
+Harper Adams University
+4,680
+Gold
+University of 
+Keele
+10,880
+Gold
+Staffordshire University
+15,675
+Gold
+University of Worcester
+10,180
+Silver
+Bishop Grosseteste University
+2,285
+Gold
+De Montfort University
+29,000
+Gold
+University of Derby
+19,675
+Gold
+The University of Leicester
+16,185
+Silver
+The University of Lincoln
+16,415
+Gold
+Loughborough University
+18,300
+Gold
+University of Nottingham
+34,840
+Gold
+The Nottingham Trent University
+35,800
+Gold
+University of Gloucestershire
+7,910
+Silver
+The University of Northampton
+12,065
+Gold
+Total
+385,125
+Source: Higher Education Statistics Agency (HESA) 2019/2020
+Training &amp; Skills Provision: 
+Universities
+
+Training &amp; Skills Provision: 
+Universities
+The West Midlands has two of the 19 universities in the UK recognised by the UK National Cyber Security Centre (NCSC) in partnership with the Engineering and Physical Sciences Research Council (EPSRC) as an Academic Centre of Excellence in Cyber Security Research (ACE-CSR). 
+The following pages sets out a number of relevant degree and post-graduate degrees relevant to the digital industries. 
+Aston University
+Aston University has well regarded digital technology specialisms, delivering a range of undergraduate degrees in the area of computer science, including Business Computing and IT BSc and Cyber Security BSc. There is a degree apprenticeship in Digital and Technical Solutions, partnered with Cap Gemini. At post graduate level, courses include MSc degrees in Data Analytics and AI. 
+The university’s strengths in computer science means that it has good cross over study opportunities in the areas of AI and software engineering, with several engineering courses offered as a joint honours with computer science. At postgraduate level, courses include the MSc Smart Telecom and Sensing Networks (SMARTNET) and the Photonic Integrated Circuits, Sensors and Networks (PIXNET) as well as an MSc in Future Vehicle Technologies and Applied AI MSc.  The University also delivers Master Degree programmes in 5G and photonic technologies
+Birmingham City University
+Relevant undergraduate courses include BSc degrees in areas such as computers and data science; computer games technology; cyber security and digital media technology. 
+At taught postgraduate level, MSc degrees on offer include in AI, Big Data Analytics, Data Networks &amp; Security, Cyber Security, Digital Construction and Video Game Enterprise, Production and Design.
+University of Birmingham
+The University of Birmingham is a member of the Russell Group and has an extensive range of undergraduate and postgraduate degrees housed within its School of Computer Science. Undergraduate BSc degrees include AI and computer science with a year in industry and a degree apprenticeship in computer science with digital technology partnership with PwC. 
+At postgraduate level, Masters degrees include an MSc in AI and Machine Learning, MSC in Computer Science and Law and an 
+MRes
+ in Natural Computation. 
+The University’s MSc in Cyber Security is fully certified by GCHQ. The GCHQ scheme is part of the National Cyber Security Strategy to ensure the highest level of quality of teaching.  The curriculum has been developed with the involvement of key individuals in the cyber security industry and companies including Microsoft, Vodafone, Siemens, IBM and Hewlett Packard.
+A ground-breaking MSc in Computer Science and Law prepares attorneys to deal with complex cases involving privacy breaches and cyber attacks
+Coventry University
+Housed within the School of Computing, Electronics and Mathematics, the university offers several digital technology undergraduate degrees. These include BSc degrees in Computer Science and AI; Ethical Hacking and Cybersecurity; Games Technology and Informatics. At taught postgraduate level, students can choose from a range of advanced computational sciences including in Connected Autonomous Vehicles; Cybersecurity; Data Science and Computational Intelligence; Digital Technology for Business and Digital Technology for Engineering. 
+
+Training &amp; Skills Provision: 
+Universities
+University of Warwick
+Undergraduate courses of relevance include BSc degrees in Cyber Security and Data Science. There is also a BEng or MEng degree in Computer Systems Engineering. At postgraduate taught degree level there are several degrees on offer of relevance to the digital industry. 
+These include MSc degrees in Big Data and Digital Futures and Communications and Information Engineering, The University offers a NCSC certified BSc in Cyber Security and a MSc in Cyber Security Engineering.
+University of Wolverhampton
+The School of Mathematics and Computer Science offer undergraduate BSc degrees in a variety of disciplines such as computer science with specialisms within that including games development and software engineering. 
+The School also offers an MSc in Artificial Intelligence (AI) in addition to an MSc in AI and Robotics. 
+The Wolverhampton Cyber Research Institute, with sites on the main campus and in Hereford Centre for Cyber Security, offers cyber security BSc degree and a BA degree in computer games design. At postgraduate level courses include MSc degrees in AI and robotics; data science and cyber security. 
+
+University R&amp;D Assets
+
+R&amp;D and Innovation: 
+Aston University
+Aston University
+In the 2021 Knowledge Exchange Framework (KEF), compared to other 135 English universities, Aston University is in the top 20% for working with business and supporting local growth and regeneration. Aston University also performed well in the intellectual property (IP) and commercialisation category, being placed in the top 30% .
+Within the College of Engineering and Physical Sciences, ASTUTE and AIPT are of particular relevance of digital and telecoms industries.  
+AiPT
+ is one of the world’s leading photonics research centres with a long track record of scientific achievements ranging from creating bio-sensing equipment for healthcare to designing the new high-speed optical communications technologies to power the internet. Photonics and fibre optics play a vital supporting roles in transporting signals to and from the new generation of 5G base stations. 
+The Aston Institute of Urban Technology and the Environment (ASTUTE) 
+which is tackling urgent issues emerging around the future of city living, drawing on research in data analytics, robotics, 
+logistics
+, artificial intelligence, mathematics and communications to develop sustainable solutions to the complex, long-term challenges of urban life. 
+The Aston Institute of Photonic Technologies (
+AiPT
+) 
+-The 
+AiPT
+ coordinates more than 60 national and international, research and industrial projects across science and engineering including high-speed optical fibre system data transmission systems, 5G/6G wireless links, and optical signal processing. 
+AiPT
+ has notable expertise in areas including: 
+Novel approaches to overcoming hardware and infrastructure limitations 
+Reducing the cost of access networks to connect with end users 
+Software solutions to increasing the maximum potential bit rate of wireless links 
+Questions surrounding Internet Protocol stability and network robustness
+Cyber Security
+Aston’s research programs in cyber security includes work on the protection of critical infrastructure, security of the connected supply chain. There is a strong engagement with the policy making processes in the areas of AI, National Cyber security Strategy, National Infrastructure security, Virtual Financial Assets cyber security insurance and cyber risk management instruments.
+Systems Analytics Research Institute
+The Institute supports the industry across a range of areas including: user experience evaluation, 3D modelling, motion capture and audience augmentation. 
+Gamification
+The Business School also conducts gaming research. One such project involved working with Chiltern Railways to investigate how disruptions are managed and use this understanding to develop innovative solutions to prevent negative customer experiences. This involved collaboration with Focus Games Ltd. on a gamified approach to learning, giving staff the opportunity to practise dealing with real world disruptive scenarios in a risk-free environment.
+The Advanced Services Group (ASG) is the world’s primary research centre focused exclusively on the adoption of 
+servitization
+ and outcome-based business models. The ASG 
+collaborates with large and small businesses in the area of 
+servitization
+, with large companies including Thales, Legrand and 
+Baxi
+. Current projects include using gamification to engage businesses with 
+servitization
+
+Executive Summary: 
+A Digital Tech Centre of Excellence 
+cont.
+.
+The region’s universities and Catapults provide considerable R&amp;D expertise and access to facilities for testing and trialling new digital technologies in a real-life environments and industrial settings. 
+For example, the University of Warwick is home the Centre for Applied Artificial Intelligence and the University of Birmingham’s Centre of Excellence in Digital Systems - both bridg
+e
+ academic expertise with real applications in collaboration with industry partners. The University of Wolverhampton is home to the Artificial Intelligence &amp; Data Science Research Laboratory. 
+Nationally Significant Cyber Academic Capabilities. 
+The West Midlands has two (the University of Birmingham and Warwick University) of the 19 universities in the UK recognised by the UK National Cyber Security Centre (NCSC) as an Academic Centre of Excellence in Cyber Security Research (ACE-CSR).  In addition, the Wolverhampton Cyber Research Institute (WCRI) is based within the School of Mathematics and Computer Science and in the Hereford Centre for Cyber Security. 
+A Collaborative Innovation Ecosystem &amp; Access to Market Opportunities cont. 
+The growing uptake of 5G Private Network environments for smart digital manufacturing is leading to considerable opportunities for digital tech companies with automated industrial solutions 
+including in predictive asset maintenance, condition monitoring and systems integration.  Locally based companies representing these technologies include: 
+Callisto
+ Integration (Accenture), Autodesk and Schneider Electric. 
+A centre for developing Future of Mobility technologies
+. With access to the UK’s largest commercially deployed public 5G 
+network
+; joint working with the regional transport authority, Transport for West Midlands (
+TfWM
+) is creating considerable Future of Mobility and Mobility as a Service applications and access to supply chain ‘primes’ across a range of other sectors.
+The West Midlands is leading advancing digital technology in connected &amp; autonomous cars. 
+The region is home to the UK’s First Future Mobility Zone - the country’s most comprehensive on-road autonomous test-bed. This nationally significant test-bed is attracting tech companies in the areas of modelling &amp; simulation and AI. 
+The West Midlands has a considerable innovation ecosystem supporting the digital tech industry in the development of new technologies and in accessing commercial opportunities.  
+The West Midlands is home to the UK’s first 5G commercial innovation centre, a public-private partnership backed by £100m in public sector funding. Other accelerators supporting the development of digital 
+technologies and access to large supply chain opportunities includes the HS2 Innovation Centre and a new Mobility Innovation Accelerator providing collaborative linkages to OEMs is due to open later in 2021. 
+
+R&amp;D and Innovation: 
+Birmingham City University
+Birmingham City University (BCU)
+In the 2021 Knowledge Exchange Framework (KEF) BCU 
+ranked highly in the following categories: 
+Skills, Enterprise and Entrepreneurship (top 20% of all universities)
+Working with Businesses (top 30% of all universities)
+ Local Growth and Regeneration (top 30% of all universities)
+The School of Computing and Digital Technology conducts research across a variety of digital and emerging fields:
+Cyber Physical Systems (CPS) Group
+The group engages in applied and practice-informed fundamental research to aid architecting and adoption of future CPS that are resilient against evolving cyber threats. CPS are interconnected, complex systems that are aimed at delivering new functionalities in diverse areas such as healthcare, manufacturing and energy
+The Digital Media Technology (DMT) Lab 
+This facility specialises in the development of methods for creating, processing, 
+analysing
+, evaluating and distributing digital media. The Human-Computer Interaction (HCI) group specialises in innovative research and teaching around user experience design, virtual/augmented reality, accessibility and assistive technology, and sensor-driven interaction. One research project involves a mixed reality system which allows medical practitioners to view and interact with virtual replicas of patients’ organs, bones or body parts. 
+The Graphics and Vision group within the 
+DMTLab
+ at BCU focuses on synthetic image generation, applied artificial intelligence, digital twins, animation and computational geometry. 
+Online Simulation and Immersive Education R&amp;D Group (OSIME RDG) 
+This multi-disciplinary team combines learning design, pedagogy, research, 3D design and user interface and back end software engineering skills. BCU is also home to 
+Gamercamp
+ a department which offers postgraduate game design experience within the university’s in-house bespoke studio.
+The Sensors and Control Research 
+G
+roup 
+The Group work on applied research employing leading edge digital sensor and communication technologies. Areas of expertise include: 
+Sensor and embedded digital systems; wireless sensing technologies
+Energy harvesting and power management
+Low power electronic and communication
+The Smart Sensing and Communication 
+Research Group is working on ‘The Internet of Things for Smart Water Innovative Network’ (IoT4Win) project which utilises smart sensors, IoT, big data and AI technologies to solve several water use challenges, including providing real-time updates on the quality, quantity and demand for water as well as cyber-physical security for water systems. 
+The Computational Modelling Research Group 
+This Group’s research includes:  investigating nano-fluid heat transfer, vehicle aerodynamics, complex systems and hydrological modelling.
+
+R&amp;D and Innovation: 
+Coventry University
+Coventry University
+In relation to the KEF 2021, 
+Coventry University ranked in the top 10% for public and community engagement, top 20% for skills, enterprise and entrepreneurship, and top 30% for local growth and regeneration. 
+Coventry University research expertise in digital specialisms include:
+The Centre for Data Science (CDS) 
+This Centre develops cutting edge pure research in Artificial Intelligence, Data Science and Future Computing, linking fundamental science to real-world applications. The Centre is organised according to four key themes: Artificial Intelligence for 
+Cyberphysical
+ Systems; Machine Learning for Computer Vision and Natural Language Processing; Fundamental Algorithms for Artificial Intelligence and Statistical and Computational Modelling. 
+These all are linked to key applications in Healthcare and Improving Quality of Life; Health and Life Sciences; Industry 4.0; Smart Cities and Transport; The Future of Computing and Novel Algorithms and the use of Data Science and High-Performance Computing in Science and Technology
+Disruptive Media Learning Lab 
+This Lab works on responding to the disruption of connected media technologies, the Lab develops radically new approaches to teaching and learning.  It provides the support, expertise and resources needed to enable projects to experiment with pedagogies, business models and technologies.
+Expertise in research, innovation game-based learning, serious games and gamification.
+The Institute for Future Transport and Cities (IFTC) 
+The 
+IFTC
+ coordinates expertise across manufacturing, engineering, design, intelligent systems and business studies with research covers automotive, aerospace, maritime and rail transport
+Coventry University has considerable expertise in autonomous vehicles, and works in partnership with HORIBA MIRA at the Centre for Connected and Autonomous Automotive Research at the MIRA Technology Park.. The Centre brings together OEMs, their supply chains and technology companies to collaborate on technological solutions for autonomous vehicles. HORIBA MIRA works with industry to design, build, test and validate their CAV solutions through the use of simulated validation and physical test-beds. 
+The University’s Cyber Security Group within the 
+IFTC
+ is part of the Institute for Future Transport and Cities. It consists of a team of multi-disciplinary researchers addressing issues of systems security for automotive, rail and connected infrastructure. The Centre also runs a automotive cybersecurity short courses. 
+The Centre for Post-Digital Cultures 
+This Centre explores cross-disciplinary and creative approaches to open and disruptive media, the posthuman, the 
+posthumanities
+, the Anthropocene and the 
+Capitalocene
+ to help society respond to challenges in relation to ‘the digital’ at a global, national and local level
+
+R&amp;D and Innovation: 
+University of Birmingham
+University of Birmingham
+In the 2021 KEF Framework, the University of Birmingham was ranked in the top 20% of all English universities in “IP and Commercialisation”; ‘Research Partnerships” and “Working with Businesses”.
+The Birmingham Centre for Cyber Security and Privacy
+A nationally recognised Academic Centre of Excellence in Cyber Security Research (ACE-CSR) with  expertise in areas including: Industrial Control Systems; Internet of Things; Automotive Security; Cloud Security and Applied Cryptography. 
+A ground-breaking MSc in Computer Science and Law prepares attorneys to deal with complex cases involving privacy breaches and cyber attacks.
+The Department of Electronic, Electrical &amp; Systems Engineering also has cyber security expertise in critical infrastructure including: water,  power grids and privacy of smart energy control, smart metering. Commercial collaborations include those with Microsoft, IBM and locally with JLR and National Grid. 
+The Institute for Interdisciplinary Data Science and AI
+The University is one of 13 partners in the Alan Turing Institute,  the UK’s national Institute for Data Science and AI
+ which 
+works in close collaboration with partners to deliver world leading collaborative research across the Turing’s scientific programmes through their Turing Fellows. 
+The university has outstanding high performance computing facilities provided by the Birmingham Environment for Academic Research (BEAR) including amongst others: 
+BlueBEAR
+ provides approx. 5500 Intel CPU cores and 33TB RAM over more than 200 compute nodes
+BEAR AI consists of ten IBM POWER9 compute nodes, each with dual 18-core POWER9 CPUs, 1TB RAM, and four NVIDIA Tesla V100, 16GB Tensor Core GPUs
+The University is also a partner in two national Tier-2 facilities funded by EPSRC as part of the World Class Labs funding scheme:
+Baskerville provides 46 compute nodes each with two 32-core Intel CPUs, 512GB RAM, and four Nvidia A100-40 GPUs, plus 500TB solid state disk, and 5PB of spinning disk storage.
+Sulis consists of 25,216 AMD EPYC compute cores configured as 167 dual processor CPU compute nodes plus 30 nodes equipped with three Nvidia A100 40GB GPUs.
+The 
+Human Interface Technologies Team 
+Located within the Department of Electronic, Electrical &amp; Systems Engineering this research group’s expertise includes: design and evaluation of advanced interfaces, including wearable computing, virtual, augmented and “mixed” reality; and 
+telerobotics
+ and telepresence projects. They deliver their research on behalf of and in collaboration with a range of partners in defence, healthcare, heritage and 
+telerobotics
+ / telepresence. 
+The 
+Intelligent Robotics Lab 
+leads R&amp;D in all aspects of intelligent robotics such as computer vision; knowledge representation and reasoning; cognitive systems and architectures; interactive learning; manipulation and kinematics and dynamics.
+The Centre of Excellence in Digital Systems 
+This Centre is part of the UK Rail Research and Innovation Network, a network of centres supporting new innovation in rail transport. The Centre focuses on all aspects of Digital Railway Innovation, providing a system-wide approach to transforming research, development and innovation. Areas of expertise includes: Railway 
+C
+ontrol and 
+O
+perations 
+S
+imulation and Data 
+I
+ntegration and Cyber Security.
+
+R&amp;D and Innovation: 
+University of Warwick
+In the 2021 Knowledge Exchange Framework (KEF), Warwick was placed in the top 20% of English higher education institutes for “Working with business”, the top 30% for “Research partnerships” and the top 30% for the development of “Intellectual property and commercialisation.” 
+Centre of Excellence in Cyber Security Research (ACE-CSR)
+This ACE-CSR  recognised centre includes the Centre for Applied Artificial Intelligence develops new technologies for machine learning and large-scale data analysis in order to provide solutions in areas including connected and autonomous vehicles, automation, healthcare, and cyber security. 
+The University has significant expertise in cyber security for vehicle control systems, building management systems, industrial control and medical devices. This includes IoT threat modelling and risk management. Recent collaborative projects include CARMA – a Cloud assisted Real-time Methods for Autonomy project with JLR.
+The University is a founding core partner of the UK’s PETRAS* National Centre of Excellence for IoT Systems Cybersecurity, the world’s largest socio-technical research centre focused on the future implementation of the IoT. (*Privacy, Ethics, Trust, Reliability, Acceptability, and Security). 
+Warwick Manufacturing Group (WMG)
+Digital research activities under this theme include automated design and process optimisation and computer vision as well as a number of the following: Digitalisation and Industry 4.0; Industrial IoT and distributed controls systems; Digital twin / digital shadow creation and integration; IT/OT Integration strategies and manufacturing data models and Production data analytics and information visualisation. State-of-the-art facilities and testing equipment related to the connected and autonomous world includes a Visualisation Suite and 3xD Simulator.
+Centre for Applied Artificial Intelligence
+The Centre develops new technologies for machine learning and large scale data analysis for applications in autonomous vehicles, automation, healthcare and cyber security. 
+The Data Science Lab 
+This lab is based in the Behavioural Science Group at Warwick Business School. Drawing on approaches from the social sciences, the natural sciences and engineering, the projects undertaken by the Data Science Lab are broadly concerned with the insights that Big Data offers into human behaviour and decision making. Their current major project is funded under RCUK’s New Economic Models in the Digital Economy – Big Data, Innovations and New Business Models scheme.
+ It aims to explore the opportunities that massive online information streams may offer into early stages of collective decision-making.
+Other specialisms include:
+The Warwick Data Science Institute builds upon Warwick’s research expertise across the mathematical sciences to promote innovative research collaborations that will help shape the future of data analysis. 
+Research expertise in High-Dynamic-Range (HDR) technology to enable the creation of complex virtual environments including visual, aural, smell, touch and even taste to achieve a level of perceptual realism. These technologies that for example cars can be designed digitally without the need to build physical prototypes.
+
+R&amp;D and Innovation: 
+University of Wolverhampton
+University of Wolverhampton
+In the 2021 KEF Framework, the University of Wolverhampton was placed in the top 30% of English higher education institutes for “Intellectual Property and commercialisation”; and top 10% for Local Growth and Regeneration“ and “Public and Community Engagement”.
+The University of Wolverhampton has research expertise in a number of areas including cyber security, visualisation, simulation and control.  
+The University is also home to the 
+Artificial intelligence and Data Science Research Laboratory
+ (
+AiDAS
+). 
+(is more information on this lab available? Limited information on the university’s website)
+The Wolverhampton Cyber Research Institute 
+This Institute is situated in the School of Mathematics and Computer Science in Wolverhampton and on the Hereford Centre for Cyber Security. It has expertise in the area of network and communication security, AI, big data and cyber physical systems.
+The research group works on various security aspects such as: Cryptographic solutions; security protocols; attack patterns and prediction; Risk assessment and quantification, Threat modelling; secure software engineering/software testing; secure electronics/embedded systems; and real time security analytics. Research facilities include the Pervasive Computing and Smart Technologies Lab.
+The Research Institute of Information and Language Processing (RIILP)
+RIILP brings together two complementary and interdisciplinary research teams, the Statistical 
+Cybermetrics
+ Research Group and the Research Group in Computational Linguistics, which explore the potential of advanced computing technologies for ‘understanding’ human language and social sciences, respectively. 
+The RIILP conducts research in a number of areas at the interface of computers and human language, including the problems that computers have in coping with the complex and intuitive system that is human language.
+Centre for Engineering Innovation and Research 
+This Centre focuses on the development of innovative technologies through application of aspects of material science, engineering to the realisation of tangible and virtual systems or system parts. This includes applications in design, visualisation, simulation and control. 
+
+Industry Trends
+
+Trends: Regulatory &amp; Technological
+Regulatory
+The West Midlands is home to a number of regulated industries and as such a number of these create distinctive opportunities for the digital industry, none more so than in cyber security. 
+Telecoms
+The ban on Chinese suppliers by the UK and other governments has forced mobile operators around the globe to open up their network to Open RAN faster than any other new technology in the past, which in turn is creating new supply chain opportunities. The UK government’s 2019 Telecoms Supply Chain Review identified the need to manage and mitigate risks from high risk vendors, introduce a new robust security framework for telecoms, and create a more diverse and competitive supply base for telecoms networks. 
+The Product Security and Telecommunications Infrastructure Bill announced in the Queen’s Speech in May 2021 aims to improve connectivity and help accelerate the rollout of gigabit-capable broadband and 5G across the whole of the UK, and reforms to the Electronic Communications Code. The bill will also ensure that smart consumer products, such as smartphones, are more secure against cyber attacks
+.
+The main driver within AMP is the NIS Directive (EU Security of Networks &amp; Information Systems) which aims to raise levels of cyber security and resilience of key systems across the EU. Its implementation in the UK is led by DCMS, and it was transposed into UK law in May 2018 via the NIS regulations.
+Ofgem regulates the prices network companies charge to run the gas and electricity networks in Great Britain through 5 year frameworks (RIIO); with the current RIIO T2 framework operating from 2021 to 2026.  Regulated industries such as gas and electricity transmission distribution companies have to set out their business plans under this regulated framework.   The current framework includes provision for electricity networks to put in place Digitalisation Strategy &amp; Action Plans and ensure that national critical infrastructure is more resilient to potential to cyber attacks.
+Technological Trends
+5G
+ is one of the most significant market opportunities with the large-scale roll-out of infrastructures and widespread adoption of 5G devices and services.  The global 5G technology market size anticipated to surpass $700bn at a 70.83% CAGR from 2020-2025 (Market Research Future, April 2021).
+Autonomous Cars
+The UK Government is a global leader in developing a supportive regulatory framework to enable the safe development and deployment of CAV technology and plans to allow “self-driving" vehicles on UK roads by the end of 2021. 
+Digital Rail
+The introduction of the European Railway Traffic Management System (ERTMS) is mandated by the control, command and signalling TSI (Technical Specification for Interoperability). The system will progressively replace some conventional signalling systems over the next 15 to 20 years with trains instead being controlled by radio signals.
+Water, Gas and Electricity Transmission &amp; Distribution
+The water industry is regulated by Ofwat (headquartered in Birmingham).   Water companies such as Severn Trent Water and South Staffordshire Water (both headquartered in the West Midlands) adhere to AMP (Asset Management Frameworks). The current framework (AMP7 2020-2025) has stipulated that investment has to be made relating to the protection of SCADA, industrial control systems and the Industrial Internet of Things.
+ 
+
+Trends: Regulatory &amp; Technological
+Technological cont. 
+Open RAN 
+was recently perceived as an “emerging” technology but is now seen as evolving and maturing, spurred on by a number of countries around the world banning the use of Huawei and other Chinese supplier technologies. As a result, this creating an expanded ecosystem, beyond just hardware and software suppliers. In addition to software and hardware players, it is likely that there will be more system integrators and tower companies joining the Open Ran supply chain. 
+The 
+global autonomous car market 
+is expected to recover from the impact of Covid-19 and reach $1,642.9bn in 2025. Data capture and analysis is key to future mobility. This is presenting  huge opportunities for telecoms and technology organisations across the emerging interconnected ecosystem. CAVs will generate and use unprecedented levels of data, whilst mobility providers depend on digital platforms and databases to execute their services. Communications infrastructure – whether 5G or other technologies – is essential to support vehicle-to-vehicle (V2V) and vehicle-to-grid (V2G) sensing and communication applications.
+The considerable growth of 
+sensors and software systems in the overall automotive sector 
+is likely to attract more software and  technology firms outside the traditional automotive supply chain.
+The Industrial Internet of Things (
+IIoT
+) market is expected to grow from $77.3bn in 2020 to $110.6bn by 2025 
+(Markets &amp; Markets 2021). The growth of the 
+IIoT
+ industry is being driven by technological advancements in semiconductor and electronic devices; and increased use of cloud computing platforms. The roll-out of 5G networks is set to considerably increase the take-up of 
+IIoT
+ technologies particularly in areas such as condition asset monitoring and predictive maintenance systems. 
+PwC’s ‘UK Manufacturing Pulse Survey’ 2021, identified that shifts in the world market place due to technology (
+IoTT
+ and growing interconnected devices) is making cyber security an urgent priority for manufacturers, with 63% of UK manufacturers having experienced a cyber attack. The Covid-19 pandemic highlighted the vulnerability of the UK’s critical national infrastructure to disruption by cyber attacks and as such the government stated in In November 2020 the 
+UK government stated that the resilience of UK’s critical national infrastructure to cyber attacks is a 2021 priority.
+The 
+UK is a world leader in AI. The Office for Artificial Intelligence will be launching a new national AI strategy in 2021
+.  There is growing take-up of AI in manufacturing industries as well as infrastructure projects such as HS2, power grids and micro grids. AI applications are serving as an energy trader, creating prices that fluctuate according to supply and demand.  National Grid has set-out how AI is ‘paving the way to net zero’.
+The 
+global games market 
+was valued at $151. 55bn in 2019 and 
+is expected to reach a value of $256. 97bn by 2025
+. Adoption of Gaming Platforms, such as E-sports is driving the market with considerable demand resulting from the pandemic (
+ReportLinker
+ 2020). The UK is the leading video game market in Europe and the sixth-largest gaming market worldwide. The industry has grown considerably over the past few decades, with a considerable increase during the pandemic. Between 2019 and 2020, the number of video game users in the UK jumped from 33 million to over 36 million. the UK’s video game market has come to be valued at £5.3bn (Statista 2021).
+The global pandemic has led to a considerable surge in ecommerce.  
+UK retail ecommerce sales are forecast to grow to £148.89bn in 2024 from £104.92bn in 2019
+. (eMarketer, September 2020). 
+
+Trends: Regulatory &amp; Technological
+Technological cont. 
+The global 
+industrial cybersecurity 
+market is expected to grow at a CAGR of 5.81% from $16.9bn in 2020 to $22.5bn in 2025. (
+MarketsandMarkets
+, 2020). The primary reasons for this rise in demand is the increasing cyber-attacks on industrial control systems. Utilities and manufacturing plants are particularly exposed to cyber attacks. Industrial control systems deployed in smart grids, electrical power and other facilities rely on supervisory control and data acquisition (SCADA) technology. The introduction of new technologies such as artificial intelligence (AI), the Internet of Things (IoT), and 5G has led to an increased risk of cyberattacks
+The power distribution industry as well as water utilities are increasing their investment in cyber security to protect  national critical infrastructure. Utilities’ existing systems are now becoming increasingly connected through sensors and networks, and due to their dispersed nature are becoming increasingly difficult to control. 
+The global 
+automotive cybersecurity 
+market size is projected to grow from $1.9bn 2020 to $4bn by 2025, at a CAGR of 16.5%. Increased use of electronics per vehicle and a growing number of connected cars and reinforcement of mandates by regulatory bodies for vehicle data protection are some of the key factors that will drive the market for the automotive cybersecurity market. The growth of the V2X market is also one of the factors that drive the automotive cybersecurity market. Applications include powertrain, infotainment, Automated Driver Assistance and safety. (
+MarketsandMarkets
+, 2020)
+
+Case Studies
+
+Introduction: 
+The West Midlands – a Thriving Digital Sector
+The West Midlands is home to a strong digital technology industry.  The region’s world-class research institutions;  cluster of high technology firms and talent: and major government investment have helped to build a perfect eco-system for games companies and global technology companies. 
+The presence of major technology companies and innovative tech enterprises in the region; a young and diverse population and strong collaborative ecosystem positions the region as a tech hub for the future.
+Considerable investment has been made by the UK government in the West Midland’s 5G infrastructure including in the UK’s first region-wide 5G testbed. The West Midlands has the highest penetration of 5G networks in the country – as such the West Midlands is well positioned to develop the next generation 5G industries. 
+HS2, a multi-billion pound project representing Europe’s largest infrastructure project is headquartered and centred in the West Midlands. This considerable investment is also creating significant opportunities for the digital tech supply chain.
+ *West Midlands combined 3 LEP geography, rounded data, BRES 2019
+The West Midlands represents a strong digital and creative industry, employing 
+51,600 people*.
+  With a population of 4.5 million located within a 45 minute commuter drive time of Birmingham, the region provides a large workforce catchment area. 
+With 22 universities located within an hour’s drive of the region, this provides an average annual student population of 385,000 – an  important future skills pipeline. 
+The digital tech sector in the West Midlands is differentiated by the opportunities to build on existing supply chain, networks and collaborative R&amp;D relationships between tech and creative firms and with companies in other sectors within the region and beyond. 
+A key differentiator is the regional roll-out of 5G infrastructure and the ecosystem to support it. WM5G manages collaborative industry projects to speed up the launch of 5G networks. WM5G also supports industry to test, prove and scale-up new 5G products and services – making the region an ideal for location for tech companies.
+The West Midlands’ nationally significant manufacturing and transport industry strengths are creating considerable opportunities for digital enterprise companies. Many of the region’s globally leading manufacturers and engineering companies such as 
+Jaguar Land Rover and Rolls-Royce are using digital capabilities 
+(especially advanced simulation, modelling and 
+and visualisation capabilities) and data analytics to accelerate their R&amp;D activities and 
+increase efficiencies.
+FTSE 100 critical infrastructure companies headquartered locally such 
+as National Grid and Severn Trent Water with their focus on digitisation and automating assets are also creating considerable supply chain opportunities for digital tech companies.
+Large global technology firms such as Dassault Systems, IBM and Atos as well as a diverse base of smaller companies in diverse technology areas including AI, cyber security and the Industrial Internet of Things are part of a thriving ecosystem.  This is enhanced by the number of innovation accelerators which are enabling collaborations between large companies and smaller businesses and start-ups. 
+The West Midlands also has a nationally significant games industry. Across the region around 130 games businesses employing approximately of 3,000 - 3,500 games industry professionals.
+The games industry  is centred on Leamington Spa - ‘Silicon Spa’ - and represents 25% of all the UK games output. A cluster of around 50 businesses includes international players such as EA Games, Ubisoft and Sega, alongside creators of international franchises for both AAA  (Playground Games, creator of Forza Horizon) and ‘
+hypercasual
+’ mobile games (
+Kwalee
+).
+
+Digital Tech: 
+Kallik
+Kallik
+Kallik is a global leader in the automation of labelling and artwork to radically enhance compliant and helpful consumer communication. Its mission is to transform the manner in which global companies promote trust in their products, processes and brands. 
+Kallik’s Veraciti cloud software platform manages millions of labels on hundreds of thousands of products for business worth billions of dollars every day. It uses innovative AI software to connect legal, regulatory, marketing and manufacturing to enable an integrated digital packaging and labelling supply chain.
+Tech Solutions for Regulated industries
+Kallik’s software platform is transforming the way regulated industries are converging their physical and electronic labelling. Veraciti enables regulated industries to bring products to market faster and more efficiently whilst maintaining compliance. Industries served include: life sciences, medical devices, chemicals and cosmetics 
+Why the West Midlands?
+Kallik moved from to Solihull during the COVID-19 pandemic in 2020, growing its workforce from 25 to 63 over the course of that year.
+The company was attracted to Solihull for its increased access to talent, including graduate skills; CEO Gurdip Singh describes his motivation for the move of: "Recruiting for skillsets to take the business forward and looking for people with the high quality skills needed to deliver to regulated industries.” 
+Kalllik recruits from a diverse skills base including: Oracle and software server engineers; accredited project management skills; business analysts  web-centric developers - html5, mobile and desktop friendly.
+Kallik
+ is working with the West Midlands Growth Company who has supported the company in developing its local network.   As a result, the company are now collaborating with Aston University on a Knowledge Transfer Programme on machine learning. 
+Other case studies to include Tata European Technology Centre. Speak with Adam. 
+Advance case study – in-hand?
+Other case study suggested for 
+AtmosVR
+
+Digital Tech: Kainos
+Kainos
+Kainos
+, which employs more than 1,300 staff in 11 offices across Europe and the USA, established its office in Birmingham in December 2017 to act as its global development hub for AI, VR and 5G networks. Starting with two employees, it now employs some 200 people in the city.
+Tom Gray, Chief Technology Officer at 
+Kainos
+, stated that: “AI is a foundational technology like electricity.” 
+Why the West Midlands? 
+Kainos
+ was attracted to Birmingham by the city’s “young, skilled workforce” and their belief that they would attract the talent they needed for their digital hub. This is borne out by 
+Kainos’s
+ graduate recruitment policy, which saw 20% of 100 new hires in 2019 drawn from its graduate scheme from local universities.
+ “The qualities we value are high-quality universities, a talent base and ideally a culture that would lend itself to a low attrition environment and value the opportunity to grow with the organisation”  
+Tom Gray, Chief Technology Officer
+Birmingham also served as the base from which 
+Kainos
+  re-establish its financial services business, building on the existing strengths of the region’s financial services centre. The 
+local financial services industry has been considerably enhanced by the announcement in 2021 that 
+Kainos’s
+ long-time client Goldman Sachs was establishing its data and software engineering centre in a new office in Birmingham.
+
+Appendix
+
+Selected Comparator Data
+Isochrone approach
+45 minute ‘commute’ area to build up data
+Compared ‘core cities’ plus Glasgow. 
+Ie
+:
+West Midlands (centred on Birmingham)
+Manchester
+Liverpool
+Nottingham
+Sheffield
+Leeds
+Newcastle
+Bristol
+Glasgow
+Map Indicating 45 minute Drive Time from Birmingham
+
+Selected Comparators -  45 min drivetime maps
+Manchester
+Glasgow
+Leeds
+Bristol
+Nottingham
+Sheffield
+Newcastle
+Liverpool
+
+Population – 45 minute Drive Time
+Total population within 45 minutes drive of larger UK city centres
+The largest population numbers within a 45-minute drive of city centre locations outside London are Manchester &amp; Birmingham with very similar numbers or people.
+Birmingham has a population of 5.4m within a 45-minute drive.
+This is 15% more than the next largest city and significantly higher than many other city locations
+
+Working Age Population – 45 minute Drive Time
+Total population aged 16-64 within 45 minutes drive of larger UK city centres
+The largest working age population numbers within a 45-minute drive of city centre locations outside London are also found in Manchester &amp; Birmingham with very similar numbers or people.
+Birmingham has a population of 3.3m within a 45-minute drive
+
+Qualifications Within 45 minute Drive Time
+The proportion of working population within 45 minutes drive of larger UK city centres with NVQ 3 or 4+ qualifications
+Of the larger labour markets outside London only Bristol has a larger proportion of employees qualified to NVQ3 or 4+ than the Birmingham catchment area
+
+Population Growth Within 45 minute Drive Time
+The projected change in working age (16-64 year-old) population 2021 – 2041 by Combined Authority Area
+Of the non-London Combined Authorities, the West Midlands has the highest forecast growth in population
+
+Introduction: 
+Emerging Tech – Digital &amp; Creative 
+The West Midlands has a strong emerging technologies sector, with particularly strengths in tech and creative*. The Emerging Tech Capabilities in the West Midlands Report (London Economics &amp; glass.ai, May 2021) indicates the number of emerging tech companies based on a ‘crawl’ of company websites by glass.ai. 
+These were  2,946 emerging tech companies identified in the West Midlands out of total number of 51,756 companies with a web presence. Thus, 5.7% of identified companies with a website in the West Midlands belong to the emerging tech sector. 
+Around 50% of identified companies are active in the tech &amp; creative sector, which makes this sector the largest emerging tech sector in the West Midlands. This corresponds to 1,492 companies representing 2.9% of all companies in the West Midlands that have a web presence.
+The largest sector is tech &amp; creative, and after London the West Midlands has the highest number of firms in this area. The West Midlands has a leading position in 10 out of 13 areas within tech &amp; creative, particularly in digital transformation, gaming, immersive tech, process automation, and software development. 
+West Midland’s Emerging Tech Sector (number of companies and % of total companies with a website)
+ 
+Source: London Economics based on glass.ai
+*
+Tech &amp; Creative definition in report: 5G, Analytics, Artificial Intelligence, Cloud Computing, Cybersecurity, Digital Transformation, Ecommerce, Games, Immersive Tech, IoT, Process Automation, Software Development and Telecoms
+
+Introduction: 
+Digital &amp; Creative Regional Specialisms 
+The Emerging Tech Capabilities in the West Midlands Report (London Economics &amp; glass.ai, May 2021) sets out the number of emerging tech companies based on a ‘crawl’ of company. 
+The 
+adjoining charts 
+compares, for each region, the absolute (number of firms in the sector, on the vertical axis) and relative size (number of firms in the sector as a proportion of all firms with a web presence in the region, on the horizontal axis) of the segments identified. Regions in the top right quadrant have larger than average sector in both absolute and relative terms.  
+(Check with actual charts provided)
+The adjoining tables indicates the distribution of firms across different areas within sub sectors. In the largest sector of tech &amp; creative, there are 468 companies are active in the field of software development which is the largest area in the entire West Midlands’ emerging tech sector. Given the size of the overall tech &amp; creative sector, other areas in the field are also relatively large, namely, software development (468), telecoms (239 companies), cloud computing (192 companies), process automation (88 companies), and cybersecurity (78 companies). 
+Make other comments when 
+formated
+ tables are available. 
+West Midland’s Regional Selected Digital Specialism (
+use tables for software development, telecoms, AI, Industrial Automation, IOT). Charts below used as examples.
+ 
+Source: London Economics based on glass.ai
+
+Telecoms &amp; 5G

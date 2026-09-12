@@ -164,3 +164,9 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Earlier "fabrication" verdict was wrong — file was in the pre-migration archive, not the G Drive live folder; registered as SRC-R5-001
 - Residual: £1,499.70 vs £10k proposal — amount relationship TBC (part-payment or separate invoice)
 - Rule added: fabrication verdicts require checking BOTH archives — G Drive live folders are incomplete pre-migration
+
+## 26/09/12 — Evidence-gap sweep: all 13 claim-linked unextracted sources resolved
+
+- Extracted + linked: SRC-G2-035 (Lancashire), -039 (WMGC v2a canonical — was about to use v1), -040 (WMGC brief), -058 (Leicester 249k), -062 (UoL CPD — location corrected to Reporting deliverable), -064 (P64 logic chain), -066 (WYCA WYCreate), -070 (Wakefield SNA), -072 (Herefordshire FINAL — was about to use a chapter), -076 (Virtual Agora), -078 (Beatles), -082 (WB6 LinkedIn), -084 (Kotor agenda)
+- Two wrong-file catches: WMGC dir-pick chose oldest version, Herefordshire dir-pick chose a chapter — corrected to canonical/latest before linking
+- Register integrity checks all pass: no orphan claims, no missing option_state/value_basis, no duplicate IDs

@@ -1,0 +1,638 @@
+University of Liverpool 
+Heritage CPD research  
+Final report
+November 2023 
+1.	Executive summary	1
+Key Findings and Themes	1
+2.	Introduction	4
+Purpose of the Report	4
+Scope of the Report	4
+Methodology	5
+3.	Analysis of Current Heritage CPD Offerings	6
+Overview of Liverpool’s CPD Heritage Offer	6
+Strengths	6
+Opportunities	6
+Areas for Improvement	8
+Client perception	9
+Case study: Unilever – Claire Tunstall , Global Head of Art, Archives and Records Management.	9
+Competitor Analysis	10
+Areas of potential competitive advantage for UoL	11
+4.	Feasibility Analysis for New Heritage CPD Courses	12
+Market Demand	12
+Options for feasibility study	12
+Red Ocean vs Blue Ocean strategy	13
+Assessing Market Demand for Digital Asset Management	15
+Case study: Potential demand for digital asset management from CIOs	18
+Cost Considerations	19
+Resource Allocation	19
+Lifelong learning entitlement	19
+Other research income	19
+Operational Considerations	20
+Risk Assessment	20
+5.	Strategic Recommendations for Expanding Heritage CPD Offerings	21
+Strategic link to development of Heritage Research Institute	21
+Delivering the Market Test	22
+1. Half-Day 'Knowledge Centre'	22
+Knowledge Centre as a ‘doorway’ to other offers	23
+1.	Three-day course for CIOs	23
+2.	Extended Consultancy Services	26
+3.	Degree Apprenticeships:	26
+6.	Implementation Plan	27
+Short-Term Actions (0-6 months):	27
+Medium-Term Actions (6-18 months):	27
+Long-Term Actions (18-36 months):	28
+7.	Conclusion: The Strategic Importance of Expanded Heritage CPD Offerings	29
+Recap of Strategic Importance	29
+Final Thoughts	29
+Appendix 1: Comparative Analysis of CPD Offers from Other Universities	31
+Desk-Based Analysis of UK HEI Competitors	31
+University of Cambridge	31
+University of Glasgow	32
+Other institutions (selected offers)	33
+Consultancy and NGO offers	34
+Appendix 2:  Cardiff University Case Study	35
+Cardiff University – CPD examples	36
+Cardiff University – marketed examples from School of Architecture	38
+Appendix 3: Psychological Market Insight for CIOs Looking for Digital Asset Management by Expert Archivists	43
+Executive summary
+Key Findings and Themes
+University of Liverpool Heritage CPD: Positioning for Future Success
+The University of Liverpool's commitment to enhancing and expanding its Continuing Professional Development (CPD) offerings in the field of Heritage is a strategic imperative in today’s rapidly evolving educational landscape. This report presents a comprehensive analysis and strategic recommendations for the further development and differentiation of Heritage CPD courses, consultancy and professional services. The recommendations also connect to the wider strategic ambition of the Heritage Research Institute and widening participation in higher education. 
+Key Findings:
+The Heritage sector is experiencing significant growth, underscored by the increasing importance of digital heritage, environmental sustainability, and effective marketing communications.
+Our research identifies a marketplace crowded with generic CPD offerings. University of Liverpool has wide expertise across different departments in areas of heritage and there is a wide range of offers from universities throughout England and Scotland. 
+Further analysis highlighted that, with few exceptions, Liverpool’s and other universities’ CPD offers are undifferentiated, poorly collated and marketed.
+There is an evident demand for specialised courses tailored to emerging needs, including:
+Archiving and Digital Information Management
+Institutional approaches to reconciling ‘Difficult’ Heritage in areas such as ESG, reputation and risk management, supply chain management and Marketing and Communications 
+Digital Heritage
+Application of sustainability practices developed through a conservation approach in both heritage and commercial development
+Architectural imaging and mixed reality
+Consultation identified considerable expertise within and beyond HSS and enthusiasm to develop and grow the University’s offer through CPD. There exists a substantial opportunity for the University to differentiate itself by leveraging its unique strengths and we are confident that there is a high probability of identifying commercial demand.
+However, the capacity of academics and support staff to develop and deliver any new courses emerged as a major constraint. Throughout our consultation, there were repeated reference to time and resource constraints on senior academics and the lack of a single, clear path within the University to developing the delivery and business model to support it. 
+Comparative Insights:
+The University of Liverpool’s offerings are comprehensive but face stiff competition from institutions specialising in niche areas.
+Opportunities lie in creating unique, specialised courses that leverage Liverpool’s strengths, such as its research capabilities or partnerships.
+Strategic Implications: To remain competitive, the University of Liverpool should consider:
+Exploring Transferable Knowledge and Skills: The growing trend towards the integration of digital tools and ethical considerations in heritage studies opens up opportunities for their exploitation in other industry sectors.
+Enhancing Technology Integration: Leveraging digital tools and technologies to offer cutting-edge courses, consultancy and professional services.
+Building Strategic Partnerships: Collaborating with industry and community organisations for practical and impactful learning experience
+Feasibility Analysis for New Heritage CPD Courses
+The report analyses the feasibility of launching new Heritage CPD courses, focusing on market demand, potential revenue, cost analysis, and the competitive landscape.
+It includes an assessment of the University's strengths and resources, such as its research capabilities and strategic partnerships, and how these can be leveraged to create a compelling CPD offering.
+We concluded that there was a clear pathway for a market test of one product – Digital Asset Management – which offered a good ‘fit’ with the University’s distinctive capability around archiving and addressed an identified business need not met by existing offers from either universities or private training firms. This is a growing market in the United States but little on offer in the UK. 
+The report sets out a proposed two-part course structure that would build on existing University relationships with senior decision makers in industry and public sector organisations, setting out the need for and benefits of Digital Asset Management and pointing to a longer term engagement with specialisms including archiving as a way to increase the lifetime value of those client relationships. Alongside work with external bodies to identify and target board level executives for an initial stage of the market test, there is an internal requirement for further work with colleagues across Departments, in the Business School and in marketing and administration to establish feasibility.
+Strategic Recommendations:
+Develop a Half-Day 'Knowledge Centre': A free to attend event for Board Directors of companies and public sector bodies which offers an introductory gateway highlighting the University’s USPs in archiving methodologies and digital asset management and their potential application across a range of commercial and institutional settings.
+The Knowledge Centre can act as a ‘doorway’ for other commercial offers:
+Launch a Specialised Three-Day Course for CIOs: Focused on digital heritage management, this course will cater to the specific needs of Chief Information Officers, combining theoretical knowledge with practical applications.
+Extend 'Closed' Consultancy Offers: By providing tailored consultancy services, the University can address specific organizational challenges, thereby establishing long-term partnerships and continuous learning opportunities.
+Explore Degree Apprenticeships: These programmes can bridge the gap between academic knowledge and practical skills, offering a unique blend beneficial to both students and professionals in the heritage sector. They hold out the potential of widening participation to students for whom the perceived costs and risks of a conventional three-year undergraduate degree are unacceptable, and at higher levels of presenting a more certain route into employment post graduation.
+The University of Liverpool is well positioned to lead in the Heritage CPD space. Development of the Heritage Research Institute demonstrates a unique commitment to the exploration of cross-disciplinary application of heritage knowledge and skills, in many cases augmented by leading edge technology, across business and civil society. By implementing these strategic recommendations, the University can not only meet the current market demand but also anticipate future trends, thereby ensuring its continued relevance and leadership in this field.
+Introduction
+Purpose of the Report
+This report has been commissioned by the University of Liverpool to undertake a comprehensive evaluation of its Continuing Professional Development (CPD) offerings in the field of heritage studies. The Department of Humanities and Social Sciences wished to identify opportunities for enhancement, diversification, and strategic positioning of its offerings in the current educational and professional landscape. Although this had a focus on market demand, resource allocation, and potential revenue streams, its primary objective was engaging in Knowledge Exchange via consultancy and CPD to support the institutional mission, to complement and enhance research and teaching and help the University meet its strategic objectives.
+This endeavour aligns with the University's commitment to maintaining its status as a leader in heritage education and to responding proactively to evolving market needs. In particular, it reflects the multidisciplinary and pan-University ambitions for the new Heritage Research Institute.
+The Heritage Research Institute at the University of Liverpool will be a university-level cross-disciplinary institute which will bring together researchers from the diverse disciplines currently engaged with the broad theme of ‘heritage’, as well as identifying new researchers and disciplines. The focus will be to enhance the University’s international reputation and status as a pre-eminent research institution, postgraduate research and training base, and outreach in the field of heritage, its management and interpretation. It will also aim to have closer ties and overlaps with the other University research themes (materials; diseases; health; digital and wellbeing).  
+Scope of the Report
+The scope of this report encompasses:
+Analysis of Current Offerings: Reviewing the existing consultancy, training and professional services in heritage-related areas offered by the University, focusing on content, delivery methods, and market reception.
+Competitive Landscape: Conducting a comparative analysis of similar offerings from other leading universities to identify market trends and gaps.
+Feasibility Study: Assessing the potential market demand for new commercial offerings and the practicality of introducing new CPD courses or modifying and recombining existing curriculum elements to furnish one. 
+Operational Capacity and Available Resource: who would potentially develop and deliver CPD courses, what support would they need and does the University have the systems and resources to manage this activity?
+Strategic Recommendations: Providing actionable recommendations for course development, marketing strategies, and potential partnerships.
+Methodology
+The methodology adopted for this report includes:
+Desk Research: Comprehensive review of existing literature, course materials, and market analysis reports to understand the current state of heritage CPD, training and professional service offerings.
+Stakeholder Interviews: Engaging with key stakeholders including faculty members, industry experts, and current customers to gain insights into the effectiveness and reception of the current offer in heritage-related areas.
+Market Analysis: Drawing on multiple tools and frameworks for analysing market trends, competitor offerings, and potential opportunities.
+Best Practice Benchmarking: Drawing on successful examples and case studies from other institutions and industries to inform recommendations.
+This report aims to provide the University of Liverpool with a clear, evidence-based pathway to enhance its Heritage CPD offerings, ensuring they remain relevant, competitive, and aligned with the University's strategic goals.
+Analysis of Current Heritage CPD Offerings 
+Overview of Liverpool’s CPD Heritage Offer
+The University of Liverpool currently offers a diverse range of consultancy and professional services in the field of heritage. We found some 50 areas of research across the university which map against the four themes of ‘Difficult’ Heritage, Digital Heritage, Environmental Heritage, and Heritage Marketing and Communications. 
+These offerings are characterised by their focus on integrating theoretical knowledge with practical applications. Within each of these themes, there is a spectrum of opportunity between:	
+Policies, technologies and processes of heritage management and conservation.	
+Heritage futures – ways in which the management and communication of heritage can have wider (often customer-facing) organisational impact.
+Strengths
+Expert Faculty and Research Excellence: the University boasts a strong faculty with expertise in various heritage-related fields, including photogrammetry, modern slavery and other recognised technical and academic specialisms.
+Interdisciplinary Approach: The scope of Liverpool’s current CPD heritage offer includes a range of knowledge, skills and client relationships across architecture, archives, languages, environmental science, planning whose scope and capability extends across and beyond HSS. Courses often combine insights from different disciplines, offering a holistic view of heritage.
+Practical Learning: Many courses include fieldwork or case study analyses, providing hands-on experience.
+Unique offers: UoL has a USP around archives, both as a discipline in which Liverpool has a distinctive offer (one of only two UK HEIs with a course) and in the experience of working with existing corporate archives (Cunard, Unilever).
+Opportunities
+Technology Integration: UoL has developed distinctive capacity and excellence in areas such as architectural imaging, digital heritage, mixed reality, DIF, supporting both delivery of heritage projects, MLA research (‘library as laboratory’) and Createch R&D (CAVA) – but this is not managed or promoted as part of an integrated offer. As digital heritage gains prominence, there is an opportunity to further integrate cutting-edge technologies into the curriculum and professional services.
+Focus on customer needs: Evidence of engagement with Tate, Cunard, Unilever offers proof of concept that this is a product with measurable ROI, not just relevant to heritage professionals.
+Liverpool’s own (dark) heritage: Access to its own collections and to corporate archives (Cunard, Tate, Unilever) has provided notable case studies.
+Liverpool as a ‘living lab’ The University’s engagement with communities and institutions in and around Liverpool demonstrates that archives and heritage are ‘living’ things, not static artefacts.
+International recognition and reputation: UoL academics are already working in EMEA and China; Assessment & Management Centre partnership with WHO; ICOMOS, UNESCO links.
+Technological expertise and capacity: including Quartex, a proprietary system licensed by the University which provides a distinctive combination of a powerful and versatile digital repository that can handle a wide range of digital assets and formats and a content management system which allows the creation of bespoke web-based user environments that enable libraries and archives to powerfully showcase, share and celebrate their archival materials in intuitive and visually engaging ways. Extensively used in North America and a handful of UK institutions, UoL is an early adopter amongst UK universities of its use in managing both its own collections and archives and those of clients.
+Institutional capacity: UoL has access to commercial knowledge and industry collaborations
+Institutional recognition: this area of work is a rich source of profile raising for both University and client through activities such as publication, industry visits and guest speaking opportunities.
+Income generation to support research and teaching. 
+Knowledge exchange: UoL has distinctive capability to add to company capacity through KTPs, live student briefs and other mechanisms which do not add to end users’ payroll.
+Areas for Improvement
+Market Differentiation: Despite the quality of offerings, there is a need for more distinctive courses that set the University apart in a crowded market (e.g., modern slavery).
+Coordination of the offer: Consultation identified other offers from within and beyond HSS but very little connection between Departments and researchers. They also highlighted the challenges of interdisciplinary collaboration within the university and the potential benefits of establishing a Heritage Research Institute to conjoin and prioritise between offers. 
+Focusing on commercial demand and customer needs: In many cases, University colleagues’ current efforts were focused on expanding existing offers to a market of heritage professionals. That is not a criticism; but the purpose of our study was to identify other areas which offered potential both for commercial exploitation and to address teaching, research and knowledge transfer objectives. Developing those new opportunities places a premium on listening to clients and contextualising their needs in order to effectively showcase and utilise heritage skills. We found limited evidence that this had taken place either within UoL nor at other HEIs with comparable expertise – with the result that the market is populated almost entirely by ‘push’ offers.
+Resource constraints: Concerns about resource (time, staff, cash) to develop and deliver external courses are inhibiting innovation. Incentives and recognition need to be aligned with other teaching, research and knowledge exchange activities and reflected in both departmental budgets and staff contracts. Any attempt to implement CPD needs to consider practical support for members of staff looking to develop those offers – insurance, pricing guidance, billing control etc.
+Client perception
+An interview with Claire Tunstall from Unilever gave helpful insights into how clients view the University’s offer and their own business needs. 
+Figure 1  Unilever case study
+Competitor Analysis
+We looked at competitor offers to see if they provided insight and inspiration of how HSS might most effectively and profitably start to build out a CPD offer.
+Details of the research carried out into heritage offers from comparable HEIs, NGOs and private sector training providers can be found in Appendix 1, below. Some reflections on the analysis of those findings are summarised here.
+Lack of customer focus
+As researchers, we are not equipped to say whether the heritage offers of other Universities are good, bad, better or worse than those of UoL. However, nor are most of the non-heritage clients in a position to make that judgement – their purchasing decisions will be made on grounds of the apparent ‘fit’ of the offer with their commercial and professional needs. Our analysis highlighted the fact that, with few exceptions, Liverpool’s and other universities’ CPD offers are undifferentiated, poorly collated and marketed. Other HEI offers share the same shortcoming: they focus on what the academic staff can provide and not on what the customer needs.
+This is reflected in the difficulty of finding information about available CPD and consultancy offers. Details tend to be buried within Departmental websites, and their presentation is inconsistent between Departments within the same HEI as well as between institutions. None of the institutions examined had a marketing led and/or customer focused approach to Heritage CPD or consultancy. Only one HEI – Cardiff – collated data about all available offers in one area of its web site; but even this was presented as a ‘catalogue’ rather than engaging with the benefits to clients. (see Appendix 2: Cardiff case study).
+Comparative Observations:
+Market Trends: A shift towards incorporating advanced technology in heritage studies is noted. This is an opportunity for Liverpool to position the University as a leader in digital heritage by leveraging its technological resources and research capabilities.
+Market Saturation: The market is saturated with courses focusing on general heritage management. This presents an opportunity for the University of Liverpool to focus on niche areas.
+Digital Heritage: There is a growing trend towards digital heritage courses, an area where the University of Liverpool can leverage its technological resources.
+Sustainability: Environmental sustainability in heritage conservation is a relatively untapped area that could be a key differentiator for the University.
+Customisation and Flexibility: Most offerings are either short intensive courses or longer modular ones. There is potential for offering flexible, customised courses to cater to diverse professional needs.
+This comparative analysis underscores the need for the University of Liverpool to position its Heritage CPD offerings more strategically and in the eyes of a wider range of potential clients. By focusing on unique aspects such as digital information management, sustainability practices, and customised learning experiences, the University can establish itself as a leader in this evolving field.
+Areas of potential competitive advantage for UoL
+One clear potential advantage for University of Liverpool is its ability to effectively communicate an offer which is interdisciplinary.
+The Heritage Research Institute embodies an institutional commitment to both interdisciplinarity and, ‘outreach in the field of heritage, its management and interpretation.’
+A second potential advantage lies in the University’s ability to demonstrate that its offer is focused on customer need. 
+This aligns with the mission of HRI to, ‘initiate relationships with clients and stakeholders,’ rather than to ‘push’ products and services.
+Looking across other institutions with a strong presence in the humanities, it is clear that clients and funders attach importance to the personality and key connections of the academics involved in delivery. For example, Prof Kirsty Fairclough at Manchester Met’s School of Digital Arts (SODA) has built a higher profile for her publications and her institution than UoL’s Institute of Popular Music, even though the latter is more established and can boast both an impressive track record of research and a cadre of recognised popular musicians amongst its teaching staff. Here again, the Heritage Research Institute represents a distinctive platform and showcase for the excellence of UoL’s faculty. Finding academics who are prepared to identify themselves with the Heritage CPD offer – and supporting that in the same way that the Uni might support publication or a research sabbatical, with time and resource – is likely to be a critical success factor, and something which could be a priority for HRI.
+Feasibility Analysis for New Heritage CPD Courses
+This feasibility analysis provides a structured overview of the key factors to consider in launching new Heritage CPD courses. This analysis has been influenced by the specific data and insights gathered through both desk research, consultation and competitor analysis and reflects the potential for the course particular courses being considered.
+Market Demand
+Emerging Trends: Recent studies indicate a growing interest in specialised heritage sectors, particularly in areas like digital heritage preservation, environmental sustainability in heritage, and the management of 'difficult heritage'.
+Target Audience: Potential learners include professionals within the heritage sector, museum staff, urban planners, and digital archivists, indicating a broad and diverse market.
+Gap Analysis: Current offerings in the market predominantly focus on general heritage management. There is a noticeable gap in CPD courses addressing the latest digital and sustainability trends in heritage.
+Options for feasibility study
+Our analysis of options looked at the market from two perspectives:
+Areas for which there was identified demand for services which UoL already offers
+We focused the feasibility study in areas in which we felt UoL had already established some degree of ‘proof of concept’ with corporate clients: 
+Digital information management: Alex Buchanan (Archives)
+Sustainability/supply chains/ESG: Urmila Jha Thakur (Environmental impact assessment and how it relates to heritage), Atta Alsalloum (Heritage-led sustainable management, including post-conflict reconstruction and reconciliation) and others.
+Marketing and communications (Dark heritage/ESG): Matt Greenhall, Director of Museums, Libraries and Galleries (Cunard collection; Unilever, NML, Modern Slavery etc).
+Architectural imaging and mixed reality: Sarah Duffy (applications in heritage management, planning, conservation).
+Identifying other market opportunities for UoL Heritage expertise
+In many cases, University colleagues were focused on expanding those existing offers to a market of heritage professionals. Although this all of these have an appeal to those already working in heritage, we felt that there was a greater opportunity to test commercial demand for services. The main focus of the feasibility study was on areas with capacity to attract new commercial clients from outside the heritage sector. 
+These can be summarised as ‘Red Ocean vs Blue Ocean’ strategies.
+Red Ocean vs Blue Ocean strategy
+The concept of red and blue oceans is widely used to help businesses identify market opportunities. 
+Red Oceans: A red ocean is an existing market with identified demand but many competitors. 
+It represents an obvious option and the ‘state of the art’ in the market; but requires extensive investment in product development and marketing to develop both ‘features’ and ‘benefits’ which will differentiate your product from that of your competitors. 
+Both desk research and consultation provided examples of expertise, skills and client relationships from HSS and other Departments in areas including Photogrammetry, Difficult Heritage, Digital Heritage, Digital Imaging, Environmental Heritage and CSG (e.g., in understanding the legacy of slavery on supply chains).
+In many cases, University colleagues’ current efforts were focused on expanding existing offers to a market of heritage professionals. 
+We took modern slavery as a case study of a ‘red ocean’ (see below). Given the strength of UoL’s offer and its engagement with clients locally and internationally, we wanted to establish whether modern slavery was an area in which, although well serviced by other provides, the University could establish a competitive advantage.  
+Figure 2  Case study of a 'Red Ocean': Modern Slavery
+A blue ocean is a market yet to be discovered with few or no competitors. A blue ocean strategy, 
+‘Redefines how businesses can look at success and offers a unique approach to growth’
+There is a large amount of risk associated with blue ocean initiatives. It is therefore best approached by organisations which can demonstrate a serious commitment to aligning their efforts and prioritising transparency.
+Our analysis of potential differentiators, including archives and information management, led us to conclude that that there was a greater opportunity to test commercial demand for services around Digital Asset Management.
+Given the uniqueness of UoL’s archives offer, and mindful of the Heritage Research Institute’s commitment to working with partners to delivery greater transparency in the understanding of heritage and application of specialist heritage skills to areas beyond conservation and culture, we felt that this was a good ‘fit’. 
+Whilst the quality of other existing offers is not called into question, the strength of existing competition in those markets would mean that any attempt to develop and market those offers would be expensive and call upon human resource for which we weren’t able to identify any spare capacity within either HSS or the wider institution. 
+Assessing Market Demand for Digital Asset Management
+Digital Asset Management presents:
+The clearest evidence of unmet need from both heritage and non-heritage organisations. Organisations and businesses in all sectors increasingly need to store, organise and find their library of content often in different formats – images, video, written materials, audio, etc. 
+A route to market – through Chief Information Officers – which offers board-level access to both decision making and procurement. 
+A clear call to action for businesses, irrespective of sector: the risks and difficulties of failing to effectively digitise and manage company records are largely unrealised and underestimated and include:
+Mismanagement of assets and misallocation of resources across teams
+Risks around regulatory compliance and copyright 
+Legal and reputational risks
+Marketing and communications issues around brand consistency.
+Who wants it? 
+Chief information officers (CIOs) and other IT professionals
+Marketing and comms teams (to meet growing demand for re-purposed content across multiple channels
+e-commerce retail teams
+Sales teams (customised content) 
+Charities/ and NGOs
+Community groups 
+Tourism and visitor economy teams
+Local governments
+Museum Trusts 
+Potential Revenue
+Pricing Strategy: Based on competitive pricing analysis, the new courses can be priced at a premium due to their specialized nature, while still remaining competitive.
+Enrolment Projections: With targeted marketing and leveraging the University's existing networks, a conservative estimate suggests a steady increase in enrolments over the first three years.
+Revenue Streams: Beyond tuition fees, additional revenue can be generated through partnerships, sponsorships, and possibly government grants focused on cultural preservation and education.
+Potential clients (worldwide)
+Interviews also confirmed some potential sources of demand from outside the heritage sector:
+Research and academic facilities
+SMEs
+Corporate organisations
+Governments
+NHS
+Business Archive Council
+Digital Preservation Coalition 
+Government departments/arm’s-length bodies (Heritage England, NLHF)
+UNESCO
+ICOMOS
+Opportunities for University of Liverpool to:
+Generate income
+Disseminate research
+Increase demand from public procurement tenders
+Increase inbound enquiries
+Broaden academic opportunities
+Strengthen bid applications
+Delivery models:
+Webinars and online courses
+Campus classrooms
+Off-site delivery
+Summer schools (virtual and in-person.
+Case study: Potential demand for digital asset management from CIOs
+We carried out further research into the features that CIOs might be looking for (details in Appendix 2) and the risks to which failing to have a digital asset management system for their company archive might expose them.
+Standard features
+Comprehensive Digital Archiving
+Secure Data Encryption
+User-friendly Interface
+Continuous System Updates
+Expert Archivist Consultation
+Seamless Integration Capabilities
+Detailed Reporting Features
+Scalable Storage Solutions
+Responsive Customer Support
+Data Redundancy and Backup
+Premium features
+Advanced AI-assisted data sorting
+Proactive alert system for sensitive data
+Dedicated archivist team for consultation
+Priority customer support
+Customisation features for user interface
+Subscription features
+Regular system updates
+Monthly expert archivist consultations
+Continuous data monitoring and alerts
+Dedicated support manager
+Periodic training and workshops for staff
+Competitors and substitutes
+Internal audits
+Hiring independent researchers
+Public disclosure without digital archiving
+Using basic digital storage solutions
+Risks: ignoring the issue
+Too time-consuming; organisations typically lack in-house expertise.
+They lack the technological tools for comprehensive digital archiving.
+Lacks thoroughness and structure.
+Lacks the nuance and features necessary for this complex issue.
+Ethically wrong and potentially disastrous.
+Cost Considerations
+Initial Development Costs: This includes the cost of curriculum development, faculty training, and investment in necessary technological infrastructure, particularly for digital heritage courses.
+Operational Expenses: Regular expenses would involve faculty salaries, marketing costs, and maintenance of digital platforms for course delivery.
+Break-Even Analysis: Based on initial cost estimates and projected revenue, a break-even point is anticipated within the first two years of launching the new courses.
+Resource Allocation
+Our focus in this work was to identify short course CPD which would have a commercial market. However, we recognise that both clients and the University operate a ‘mixed economy’ model in which the availability (or not) of public funding to subsidise or cover the cost of CPD is part of the purchasing decision for businesses.
+Lifelong learning entitlement 
+Scheduled from 2025 – (but a plan, not a commitment) will allow individuals to access the equivalent of four years of learning fee loan over their lifetime which can be used on multiple short courses across FE and HE (minimum 30 credits).
+In Scotland, increased funding to develop micro-credentials has allowed universities to initiate short courses in the heritage space. 
+Glasgow currently offers a 10-week courses in “Cultural Heritage Skills for Business“ via Moodle 
+Edinburgh has a 5-week online course, “Re-thinking Cultural Heritage and Climate Change adaptation.” 
+Stirling University offers a part-time 10-week online course, “Climate Change and Sustainable Business.”  
+– can this be replicated?
+Other research income
+Creative Sector Vision commitment to, “deliver the £80 million Research infrastructure for conservation and heritage science (RICHeS) programme” may have a material impact on the financial calculation of risk for investing in CPD.
+Operational Considerations
+Who would deliver?
+All the academics we spoke to emphasised that their current contracts made no allowance for any additional work to develop and deliver CPD. This, rather than a lack of interest or appetite to extend the University’s heritage offer, is arguably the major constraint on development of CPD. Ways in which this could be addressed include:
+Expand use of U/G, P/G and ECRs in direct engagement with organisations – along the lines of the opportunity Matt is developing around the libraries service. (Addresses frequently heard concerns about lack of academic time and capacity; and presents an opportunity to embed cross-disciplinary thinking with huge potential, stretching beyond CPD into KEF, REF and TEF outcomes - but requires coordination and strategic will to do it.)
+Closer working with Business School to market courses and in CRM.
+Any delivery of CPD will require additional resource:
+Business Development Managers 
+Course development
+Facilitators - delivery
+Project Officer / Administration support 
+Logistics
+Risk Assessment
+Market Risks: The primary risk involves the potential fluctuation in market demand, influenced by economic factors and changing professional training priorities.
+Competitive Risks: There is a risk of other institutions quickly adopting similar offerings, thus increasing competition.
+Mitigation Strategies: Diversifying the course portfolio, constant market monitoring, and establishing robust partnerships can mitigate these risks.
+Strategic Recommendations for Expanding Heritage CPD Offerings
+Digital Asset Management presents further potential to partner with other professional organisations both in the heritage sector (Digital Preservation Coalition), public sector IT managers (SOCITM) and marketing and communications businesses (IPA) to develop joint offers and marketing to their members.
+We have focused the market test options on CIOs, as they are likely to have board-level influence both on digital strategy and procurement of digital systems; but during the course of the research, we also saw potential for a more limited offer with specific relevance to marketing and communications professionals (both client-side and agency).
+Whilst there is demand for other products – Modern Slavery, photogrammetry – it isn’t clear that UoL has sufficient competitive advantage over other HEIs, nor the marketing resource to establish itself in a crowded marketplace, to justify focusing on these. (See ‘Red Ocean vs Blue Ocean’, above.)
+Our recommendations, therefore, are to:
+Identify a clear pathway for market testing of one product – Digital Asset Management – to include a Knowledge Centre style introduction.
+Use existing partners and relationships to market and test 
+Clearly identify the long-term opportunities in these relationships.
+Address internal time and financial constraints (potentially by aligning CPD with teaching, KE and other activities), 
+Identify clear cross-disciplinary working arrangements with colleagues in marketing and business  leading to a shared mechanism to develop CPD. 
+Expand use of undergraduates, post-graduates and Early Career Researchers to connect to business demand.
+Strategic link to development of Heritage Research Institute
+The need to frame this as an interdisciplinary endeavour – the potential and importance of the Heritage Research Institute in bringing together different Departments and enhancing their capacity and visibility to colleagues, clients and stakeholders. 
+The need for a marketing approach to promote UoL’s offerings and engage with potential clients.]
+This approach will be aligned with the University's objectives and the market needs, ensuring the report is both strategic and actionable.
+Delivering the Market Test
+1. Half-Day 'Knowledge Centre'
+We set out below ‘Fast Track’ process to develop and test a Digital Asset Management product through a half-day Knowledge Centre.
+The Knowledge Centre provides a short ‘taster’ to introduce decision makers to the risks associated with their archive and the benefits of working with University of Liverpool to implement digital archive management. It offers an initial, accessible entry point into the University of Liverpool’s Heritage CPD offerings. It needs to identify a clear product (either assembling existing modules or modifying content from those to form the course offer) which introduces and showcase the depth of the University's expertise in heritage studies and digital asset management.
+The Knowledge Centre is:
+Focused on senior executives (‘C-Suite’) and significant stakeholders.
+Presented as a networking opportunity, or in context of another professional/sector event.
+As we are looking to use this to benefit from information, this should be free to attend.
+The objectives of this session include:
+A call to action for senior executives to realise the value of their archive.
+To provide more detailed feedback on which elements of digital archive management should be prioritise in development of short course CPD.
+To identify managers within their organisation who could commit more time to development of digital archive management strategy and practice through CPD.
+Establish willingness to pay and price elasticity (testing different price points).
+Introducing and orienting potential clients to a broader range of CPD courses and opportunities.
+Table 1 Suggested agenda: Knowledge Centre
+This will be a low cost and low risk way to engage businesses to gather insights and test out ideas, emphasising the importance of the University’s mission in facilitating sensitive and exploratory discussions. It very closely reflects the mission and aims of the proposed Heritage Research Institute and could itself form part of the dissemination of information about and market testing of the HRI to colleagues, clients and stakeholders. It presents an opportunity to derive structured feedback on key elements of a CPD offer, including the relevance of digital asset management to a wider group of clients and stakeholders
+Knowledge Centre as a ‘doorway’ to other offers
+Three-day course for CIOs
+Using structured feedback from the Knowledge Centre, develop and present a three-day course for CIOs for trade bodies and other organisations, focusing on managing digital heritage, leveraging technology in heritage preservation, and strategic decision-making in this context.
+Objective: To provide in-depth knowledge and practical skills in digital asset management.
+Content: Cover topics like digital asset management, technological trends in creating and managing archives, and strategic decision making.
+Target Audience: Chief Information Officers and IT professionals in commercial business and large public institutions; business analysts; managers with responsibility for evaluation, monitoring and record keeping (most companies don’t have a recognised archivist); marketing and communications managers.
+Further market research is recommended to establish whether the three-day module should be credit bearing or not. Academic credits may increase demand and credibility amongst some sections of the market but there is a risk that, for some commercial clients, it may give the wrong impression (i.e.., that this is not primarily about strategic business outcomes.)
+Table  Suggested agenda: 3-day CPD course
+Extended Consultancy Services
+Build on ‘closed consultation’ offer to existing clients and those with whom the University has existing connections (e.g., Business Archive Council, Digital Preservation Coalition, Adidas in Hong Kong) to establish demand for CPD amongst their members.
+Objective: To offer bespoke consultancy services addressing specific challenges in the heritage sector.
+Services: Could range from heritage site management to digital transformation strategies.
+Target Audience: Heritage institutions, government bodies, and private sector companies in heritage-related fields.
+Degree Apprenticeships:
+Degree apprenticeships combine academic learning with practical experience in the workplace, offering a unique blend of skills and knowledge pertinent to the needs of the commercial sector at lower cost and risk to the corporate user than alternatives including commercial consultancy and graduate recruitment.
+Objective: To bridge academic learning with practical experience in the employer’s organisation.
+Program Structure: Combine coursework with on-the-job training, in collaboration with industry partners.
+Target Audience: Students from more diverse backgrounds for whom the perceived risks and costs of an undergraduate degree in arts & humanities are too great a barrier and professionals seeking to upskill in digital asset management.
+Implementation Plan
+Short-Term Actions (0-6 months):
+Curriculum Development: 
+Finalise course content and structure for the Knowledge Centre and CIO course. Establish the extent to which course materials can be furnished from existing modules 
+We know that there is a University-wide record of all modules, but it will need time from an academic course leader to identify the most appropriate elements to form part of a CPD offer and to establish if existing modules can be translated directly to this context or whether there will need to be modifications to content and structure to make them more appealing to a commercial market.
+Market Research: Conduct detailed market research for targeted consultancy services and degree apprenticeships.
+Resource Allocation: Secure necessary funding and allocate resources for initial course development and marketing. Establish a route map and costs for coordination and marketing of the initial Knowledge Centre 
+Medium-Term Actions (6-18 months):
+Launch Pilot Programs: Initiate the half-day Knowledge Centre and the three-day course for CIOs with initial cohorts.
+Develop Partnerships: Establish partnerships with industry and heritage organisations for apprenticeships and consultancy.
+Feedback and Improvement: Gather feedback from pilot programs and refine offerings accordingly.
+Further internal engagement around ‘Fast Track’ Development is needed to understand the cross-Departmental and interdisciplinary elements of what would be contained in the Knowledge Centre and short-course CPD offer. This includes provision of time for academic staff to review and assess suitability of existing MA modules, or content within those, to form part of that offer.
+Understand potential to utilise Quartex as part of an integrated systems offer: Further internal engagement is needed to understand potential of Quartex and potential barriers or limitations to its use in a commercial context. 
+Our research established that, subject to addressing licensing constraints, adding managed access to the Quartex digital asset management system as an integral part of the CPD offer would address a significant constraint around interoperability of different digital systems and would therefore offer a ‘one stop’ solution unlike anything else on offer from UK universities. However, our initial feedback was that the University’s current licence does not permit that.
+Further work is needed to establish whether the licensing constraints are absolute (i.e., that Quartex simply does not permit use of its software for commercial use in the way intended) or the result of having negotiated a contract on the basic of specific uses. If the latter, the University needs to understand what might be involved in renegotiating that contract, e.g.:
+Need for a different technical spec
+Potentially additional upfront costs in reconfiguration and/or procurement of software and equipment
+Any upfront licensing costs
+Additional ongoing cost for a commercial licence
+This would have many benefits to potential clients:
+It would reduce decision-making and workload for potential clients – in particular, it would give CIOs the basis of a complete business case for and much clearer idea of life time costs and values  of purchasing Digital Asset Management services from University of Liverpool.
+If those issues could be resolved, our preferred option would be to be able to include reference to an integrated digital asset management system and support in any market test and to able to compare the demand and perceived value of the integrated offer with that of CPD and closed consultancy.
+Long-Term Actions (18-36 months):
+Full-Scale Implementation: Roll out extended consultancy services and degree apprenticeships.
+Continuous Review: Implement a continuous review process to adapt courses to changing market needs.
+Expansion and Diversification: Explore opportunities for further expansion and diversification of CPD offerings.
+Conclusion: The Strategic Importance of Expanded Heritage CPD Offerings
+Recap of Strategic Importance
+The expansion of the Heritage CPD offerings at the University of Liverpool is a strategic move that aligns with the evolving research and technological capabilities of the heritage sector, the increased awareness amongst commercial and institutional clients of heritage-related risks and the broader educational landscape. The proposed initiatives – from the Knowledge Centre to degree apprenticeships – are designed not only to enhance the University's educational portfolio but also to address critical skill gaps in the heritage sector. By implementing these offerings, the University will reinforce its position as a leader in heritage education, contribute to the professional development of individuals in this field, and foster sustainable partnerships with industry stakeholders. 
+Final Thoughts
+The introduction of new, specialised Heritage CPD courses at the University of Liverpool is a feasible venture with a promising market demand. While initial costs and competitive risks present challenges, the potential for revenue generation and the strategic alignment with emerging market needs make this a worthwhile investment. Continual assessment and adaptive strategies will be key to ensuring the long-term success and sustainability of these offerings.
+The conclusion we draw from the findings is that there is a high probability that a well-designed market test could identify and articulate the need for a Digital Asset Management product across a range of sectors and help translate that into demand for a CPD offer which University of Liverpool is uniquely positioned to deliver. 
+However, there is no single, clear path to developing the delivery and business model to support it. 
+The factors influencing that conclusion are:
+There is no precedent for Heritage CPD (as distinct from ‘closed’ consultancy offers) within the University.
+There are benefits to introducing an interdisciplinary approach to design and delivery of digital asset management which goes beyond capacity and skills of HSS and engages other Departments. 
+We were not able to identify an existing business model or marketing support pathway for CPD from other Departments, or the Business School, which could be applied to Heritage CPD.
+Whilst some of the content which could be delivered as CPD exists in modular form, there is no shared mechanism across Departments to translate this into professional short course development.
+Resource constraints – time and resource for CPD would be additional to academics’ current commitments for teaching and research.
+Design and implementation of any CPD needs to be done with an awareness of the critical need for continuous adaptation to market trends and feedback in maintaining the relevance and impact of these courses.
+Appendix 1: Comparative Analysis of CPD Offers from Other Universities
+This appendix provides a comparison of Continuing Professional Development (CPD) offerings in the field of heritage from various universities. The analysis aims to benchmark the University of Liverpool's proposed CPD courses against existing offerings, highlighting unique opportunities for differentiation and improvement.
+It provides a valuable resource for understanding the competitive landscape and supports the strategic recommendations made in the report. By including this detailed comparison, the report offers a more rounded and informed perspective on the Heritage CPD market.
+Desk-Based Analysis of UK HEI Competitors
+We looked at heritage-related activity at HEI’s identified by colleagues as being competitors and/or collaborators in our areas of strength to see where we can exploit gaps and add value. This built on a previous study  looked at a core group of 8 HEIs: Hull, Leicester, Durham, Manchester, UCL, York, Leeds and Cambridge.
+We looked in more detail at specific offers from these and other institutions.
+University of Cambridge
+The University of Cambridge offers various CPD programs and courses related to heritage studies. These programs aim to provide professionals with opportunities to enhance their knowledge, skills, and understanding of heritage-related disciplines. Here are some examples of CPD offerings in heritage from the University of Cambridge:
+Institute of Continuing Education (ICE): The Institute of Continuing Education at the University of Cambridge offers short, part-time courses and programs designed for adult learners. They provide a range of courses related to heritage studies, including topics such as archaeology, art history, historic preservation, and museum studies.
+Centre for Heritage and Family History: The Centre for Heritage and Family History, affiliated with the University of Cambridge, offers courses, workshops, and events focused on genealogy, family history research, and heritage-related topics.
+Cambridge Heritage Research Centre: The Cambridge Heritage Research Centre is a multidisciplinary research centre that conducts research on various aspects of heritage, including conservation, cultural landscapes, archaeology, and museum studies. While primarily focused on research, they may also offer seminars, workshops, or lectures that professionals can attend.
+Conservation Leadership Programme: The University of Cambridge is involved in the Conservation Leadership Programme, which aims to train conservation professionals and build capacity in the field of heritage conservation. This program provides training and networking opportunities for professionals working in conservation-related roles.
+The Centre for Research in the Arts, Social Sciences and Humanities (CRASSH) at the University of Cambridge is a research centre that focuses on interdisciplinary studies in the arts, social sciences, and humanities. While CRASSH is primarily known for its research activities and collaborative projects, it also organises events, seminars, workshops and conferences that cover a wide range of topics, including heritage.
+While CRASSH does not specifically offer CPD programmes, it provides a platform for scholars, researchers, and professionals to engage in interdisciplinary discussions and exchange ideas. These events and activities may be relevant to professionals working in the field of heritage and can contribute to their continuing professional development.
+CRASSH's programmes and events often explore critical issues related to culture, history, memory, identity, and heritage. They bring together experts from various disciplines to foster interdisciplinary dialogue and innovative research approaches. Attending CRASSH events can offer valuable insights and networking opportunities for professionals interested in heritage studies.
+CRASSH collaborates with different departments and research centres at the University of Cambridge and beyond, which allows for a diverse range of research and interdisciplinary engagements. Its official website and events calendar (https://www.crassh.cam.ac.uk) provides up-to-date information about the specific heritage-related events and initiatives organized by CRASSH.
+University of Glasgow
+The University of Glasgow has expertise in heritage-related disciplines and offers CPD programs and courses that cater to professionals seeking to enhance their knowledge and skills in this field. Here are some examples of CPD offerings in heritage from the University of Glasgow:
+MSc in Sustainable Heritage: Master's degree program in Sustainable Heritage that may be pursued on a part-time basis, catering to professionals' needs. This program focuses on the sustainable management and conservation of heritage sites, providing professionals with a deeper understanding of heritage practices and approaches.
+Short Courses and Workshops cover various aspects of heritage, such as heritage management, heritage tourism, conservation, and cultural heritage policy. These courses and workshops provide professionals with opportunities to update their knowledge and skills in specific areas of interest.
+Collaborative Projects and Research: academic staff and research centres engage in collaborative projects and research related to heritage. These projects may involve partnerships with external organisations and provide opportunities for professionals to participate in research initiatives or contribute their expertise to specific projects.
+Archaeology Field Schools: the University of Glasgow's Archaeology Department organises field schools where professionals can gain practical experience in archaeological excavation, recording techniques, artifact analysis, and other aspects of archaeological practice. These field schools can provide valuable hands-on learning opportunities for professionals interested in heritage and archaeology.
+Other institutions (selected offers)
+Other universities identify a clear external offer to the heritage market:
+University of Leicester has a very distinct customer list and service offer including Heritage interpretation projects (for the redevelopment of buildings and regeneration areas) 
+Exeter University Culture Innovation Consultancy website lists a range of services including digitisation solutions and facilities, conservation management plans and arts and heritage interpretation.
+Dundee University offers a short course with professional accreditation that lasts 9-15 weeks. The course covers key subjects such as archive management, records management, information compliance, digital preservation and management, and family and local history.
+The Curatorial Research Centre collaborates with Truro and Penwith College to develop a CPD short course called "Innovation, Sustainability, and Enterprise in Cultural Heritage Today." This course is drawn from a module and is accredited by the University of Plymouth.
+Other universities, including Birmingham City University, the University of the West of Scotland, University of Oxford, and the Royal Agricultural University, also provide CPD offerings covering  topics such as conservation of the historic environment, heritage and cultural tourism, and heritage conservation training.
+Overall, the offerings from these institutions aim to enhance knowledge, skills, and practices in heritage management, preservation, and cultural sustainability.
+Consultancy and NGO offers
+There are also independent organisations and consultancy services that specialise in heritage and cultural heritage. These include Iraq Heritage, Liwan, Buttress, and Mott MacDonald. They offer a range of services such as information services, research and development, training, capacity building, consultancy, and heritage preservation.
+There are other public engagement initiatives and research projects focused on cultural heritage in Iraq. The Nahrein Network works with Iraqi stakeholders to support the country's post-conflict recovery. The Mosul Heritage project, hosted at Nottingham Trent University, aims to preserve and restore cultural heritage in collaboration with researchers from Leeds University, Wasit University, and the University of Mosul. The Iraq Heritage Stabilization Program (IHSP) focuses on preserving and promoting cultural heritage as part of wider humanitarian efforts in post-conflict environments.
+Appendix 2:  Cardiff University Case Study
+Cardiff University has expertise in various heritage-related disciplines and offers CPD programmes and courses designed to cater to professionals seeking to enhance their knowledge and skills in this field. 
+MA in Cultural Heritage: Cardiff University offers a Master's degree program in Cultural Heritage, which can be pursued on a part-time basis for professionals. This program provides a comprehensive understanding of the theoretical and practical aspects of cultural heritage, including heritage management, interpretation, conservation, and cultural tourism.
+Professional Development Workshops and Short Courses: Cardiff University organises professional development workshops and short courses on various topics related to heritage. These offerings cover a wide range of subjects such as heritage interpretation, heritage tourism, heritage management, community engagement, and conservation ethics. These workshops and courses provide professionals with opportunities to update their knowledge and skills in specific areas of interest.
+Archaeology and Conservation: Cardiff University's School of History, Archaeology, and Religion offers CPD opportunities in archaeology and conservation. These programmes focus on practical skills and techniques in archaeological excavation, site recording, artifact analysis, and conservation practices.
+Centre for Lifelong Learning: Cardiff University's Centre for Lifelong Learning provides a range of part-time courses and workshops that may include heritage-related topics. Designed for adult learners and professionals who want to gain knowledge in specific areas of heritage, such as local history, genealogy, or cultural heritage management.
+Research Projects : the re-imagining of Carnegie Public Libraries, sustainable technologies for Moroccan heritage, hygrothermal monitoring of timber-frame replacement infill panels, conservation and contestation in Tamil Temple Towns, and mapping layers of history for sustainable planning and conservation in the Historic City of Ajmer-Pushkar, among others.
+Professional Development offers at Cardiff University
+Bespoke training courses in various disciplines, including arts, humanities, and social sciences.
+CPD (International) programmes for professionals.
+Specialisations include professional development for archaeologists, conservation (care of museum or heritage collections), architecture, engineering, urban planning, and culture and language studies.
+Consultancy services are provided in heritage and conservation research, focusing on future heritage, buildings, and sustainability.
+Cardiff University – CPD examples
+Cardiff collates its CPD offer from across all Departments in one place on its website.
+Figure 3  Cardiff University Postgraduate modules for CPD
+Cardiff University – marketed examples from School of Architecture
+The marketing information includes detailed descriptors of course structure, pricing and information about which students qualify for UK pricing.
+Below are two examples of standalone modules marketed by the School of Architecture (https://www.cardiff.ac.uk/study/postgraduate/taught/standalone-modules/architecture):
+Figure 4  Cardiff University - standalone modules
+Investigation of the Built Environment 
+Credits: 10 credit module at Level 7 (Postgraduate level) (reference ART142)
+Dates: Double Semester. Please contact us for the latest timetable information.
+Cost: Fees for taking the module in Spring 2022 are as follows:
+Students from the UK = £540
+Student from the rest of the world (international) = £970
+If you are an EU/EEA/Swiss national, unless you qualify for UK fee status, tuition fees for 2021/22 will be in line with the fees charged for international students. UKCISA have provided information about Brexit and tuition fees.Low Carbon Buildings  
+Credits: 10 credit module at Level 7 (Postgraduate level) (reference ART135)
+Dates: Spring Semester. Please contact us for the latest timetable information.
+Cost: Fees for taking the module in Spring 2022 are as follows:
+Students from the UK = £540
+Student from the rest of the world (international) = £970
+If you are an EU/EEA/Swiss national, unless you qualify for UK fee status, tuition fees for 2021/22 will be in line with the fees charged for international students. UKCISA have provided information about Brexit and tuition fees.
+Cardiff evaluates its CPD and publishes the results as part of its marketing, as shown in the examples below:
+Figure 5  Cardiff University CPD statistics
+Figure 6  Cardiff University College of Physical Sciences and Engineering - evaluation of CPD
+Figure 7  Cardiff University - Webinars and Online courses
+Figure 8  Cardiff University evaluation of CPD
+Figure 9 Cardiff University evaluation of website, digital and social media statistics
+Assembling all CPD course and performance information in one area of the website helps potential client navigate to relevant offer and the transparent sharing of information and feedback promotes confidence in the relevance, accessibility and affordability of the offer.
+Appendix 3: Psychological Market Insight for CIOs Looking for Digital Asset Management by Expert Archivists 
+We carried out further desk research to more closely identify features and potential benefits of engaging University of Liverpool to provide training and services for Digital Asset Management for archives. We focused this on the needs of Chief Information Officers, as we felt this spanned market segments – corporates, charities and local government – and offered the potential to partner with other professional organisations in marketing and delivery of short course CPD.
+ What Keeps Me Awake at Night 
+"Did our previous record-keeping system inadvertently retain ties to slavery, and how deep does it run?" 
+"What if our stakeholders lose trust in our corporate leadership when they find out?" 
+"How can I be certain that the digital information management system we're employing is capturing everything?" 
+"What if the media catches wind of our historical associations before we've had a chance to address them?" 
+"Am I jeopardising my job and reputation by not managing this information effectively?" 
+"Are there other dark chapters in our corporate history that might surface?" 
+"What if our competitors use this information to their advantage?" 
+"Will our partners and clients question our ethical practices?" 
+"How will our employees react, and will this affect morale and recruitment?" 
+"What if the service we choose doesn't have the depth and expertise to handle such a sensitive issue?" 
+The Symptoms I’m Noticing 
+"I've noticed some questionable references in our archived documents." 
+"Our current archiving system is outdated, making it difficult to search for specific information." 
+"There’s increasing chatter among middle management about our historical ties." 
+"Some of our partners have raised concerns about our past." 
+"There's been a dip in our corporate reputation scores on various review platforms." 
+"Employees have asked about our company’s commitment to ethical practices." 
+"Our competitors seem to be emphasising their ethical practices more lately." 
+"There's been a decline in partnership proposals and collaborations." 
+"I sense a hesitation from the board when discussing our historical records." 
+"There’s been an increase in requests from the public for transparency about our history." 
+Risks (“FUD” messaging)
+This issue could spread like wildfire on social media, causing a massive PR crisis.
+By not addressing this head-on, we might be violating some disclosure regulations.
+Our investors could pull out, fearing potential backlash. 
+We might be undermining years of building corporate trust and brand loyalty.
+There could be lost opportunities for mergers or acquisitions due to our tainted history.
+We may be overlooking the mental toll this issue takes on our employees, particularly those of colour.
+Ignoring this might reinforce systemic racism, an issue that companies globally are trying to eradicate.
+By not being proactive, we risk being painted as a company that hides its past.
+We could face legal implications if not handled correctly.
+Our historical ties could be deeper and more damaging than I currently realise. 
+What I Deeply Desire 
+"I want to lead a transparent company that acknowledges its past and makes amends." 
+"I wish to protect and elevate the company's reputation, making it an ethical leader in the industry." 
+"I dream of a team that respects and trusts my decisions, seeing them as morally sound." 
+"To be recognised by my peers for tackling a difficult issue head-on." 
+"To ensure that our history is meticulously archived, ensuring no skeletons remain in the closet." 
+"I yearn for peace of mind, knowing our corporate history is fully managed and rectified." 
+"To enhance stakeholder trust by showing we’re proactive about ethical issues." 
+"To have a fool proof, modern digital information management system." 
+"I want our company to be a beacon for others on how to address historical ties appropriately." 
+"To sleep soundly, assured that our company's legacy is one of transparency, growth, and ethical behaviour." 
+What Challenges I'm Facing 
+"Finding a trustworthy service that can handle the sensitivity and gravity of this issue." 
+"Gaining board and stakeholder buy-in for investing in such a service." 
+"Addressing potential backlash from stakeholders and the public once the information is out." 
+"Ensuring that the company culture remains positive and forward-looking amidst these revelations." 
+"Balancing the urgency of the situation with the need for thorough, accurate digital archiving." 
+"Navigating potential legal and regulatory ramifications." 
+"Managing potential financial implications, such as loss of investors or clients." 
+"Deciding how to publicly address and atone for our company’s historical ties." 
+"Understanding the full scope and depth of our company's past associations." 
+"Ensuring our actions genuinely contribute to racial equity and aren’t just performative." 
+What I Will Feel When It's Done 
+"A profound sense of relief knowing the truth is out and dealt with." 
+"Pride in leading a company that stands for transparency and ethical behaviour." 
+"Confidence that our brand's reputation is secure and strengthened." 
+"Gratification from positive feedback from stakeholders and the public." 
+"Elated by the trust and respect earned from employees, peers, and competitors." 
+"Reassured that our company’s legacy is safeguarded for future generations." 
+"Uplifted by the positive impact on company culture and morale." 
+"Empowered by having a modern system in place for all future archiving needs." 
+"Joyful for having played a pivotal role in a significant positive transformation." 
+"Content in knowing I’ve set a new standard for ethical leadership." 
+Other Solutions I Have Considered 
+Internal audits – “It was too time-consuming and lacked expertise." 
+Hiring independent researchers – “They lacked the technological tools for comprehensive digital archiving." 
+Public disclosure without digital archiving – “It lacked thoroughness and structure." 
+Using basic digital storage solutions – “They lacked the nuance and features necessary for this complex issue." 
+Ignoring the issue – “Realised it would be ethically wrong and potentially disastrous." 
+What Questions I'd Want Answers To 
+"How does your service ensure comprehensive capture of all relevant data?" 
+Why: I need to ensure we don’t miss any critical information. 
+"What experience do you have with similar historical investigations?" 
+Why: I want assurance that you can handle the sensitivity of the matter. 
+"How do you ensure the security and confidentiality of the data?" 
+Why: It's critical that this information doesn't leak prematurely. 
+"What is your proposed timeline for this project?" 
+Why: We need to address this issue promptly. 
+"How will your service integrate with our current systems?" 
+Why: Seamless integration is key for operational efficiency. 
+"Can your service handle the potential volume of our historical data?" 
+Why: We need a robust solution. 
+"How do you handle false positives or irrelevant information?" 
+Why: Accuracy is paramount. 
+"What kind of after-service support do you offer?" 
+Why: We need ongoing support for potential issues or updates. 
+"How do you ensure your archivists maintain objectivity and neutrality?" 
+Why: We don't want the history to be misrepresented. 
+"Do you provide training or orientation for our internal teams to work with the new system?" 
+Why: Our teams need to be comfortable with the new system. 
+What Misconceptions I Have (Overcoming objections)
+"Digital archiving means just scanning and uploading old documents." 
+Root Cause: A simplistic understanding of the process. 
+"Expert archivists can immediately understand and interpret any old document." 
+Root Cause: Overestimating the speed of professional interpretation. 
+"Once the information is digitised, the process is complete." 
+Root Cause: Underestimating the need for continuous management. 
+"Digital information management systems are all the same." 
+Root Cause: Lack of experience with specialized systems. 
+"This process is just a formality and won’t bring up anything significant." 
+Root Cause: A defence mechanism to minimise potential issues. 
+What I'd Expect as Standard 
+Comprehensive Digital Archiving 
+Secure Data Encryption 
+User-friendly Interface 
+Continuous System Updates 
+Expert Archivist Consultation 
+Seamless Integration Capabilities 
+Detailed Reporting Features 
+Scalable Storage Solutions 
+Responsive Customer Support 
+Data Redundancy and Backup 
+Standard Feature Transformed into a Selling Point 
+Comprehensive Digital Archiving: Dive deep into history with our thorough Digital Archiving, ensuring not a single crucial detail is missed. 
+Secure data encryption: Sleep soundly knowing your data is guarded with the highest level of encryption. 
+User-friendly Interface: Navigate through centuries of data effortlessly with our user-centric design. 
+Continuous System Updates: Stay ahead of the curve with continuous, cutting-edge system updates. 
+Expert Archivist Consultation: Direct access to expert archivists for invaluable insights. 
+Seamless Integration Capabilities: Enjoy hassle-free integration with your existing systems. 
+Detailed Reporting Features: Glean precise insights with detailed, easy-to-understand reports. 
+Scalable Storage Solutions: Grow your archive seamlessly with our scalable storage solutions. 
+Responsive Customer Support: Our responsive support team is always just a call away. 
+Data Redundancy and Backup: Rest easy with our dual data redundancy and backup system, ensuring no loss. 
+What I'd Pay a Premium For 
+Advanced AI-assisted Data Sorting 
+Proactive Alert System for Sensitive Data 
+Dedicated Archivist Team for Consultation 
+Priority Customer Support 
+Customisation Features for User Interface 
+Premium Feature Transformed into a Selling Point 
+Advanced AI-assisted Data Sorting: Experience the future with AI-assisted data sorting, ensuring accuracy and efficiency. 
+Proactive Alert System for Sensitive Data: Stay a step ahead with proactive alerts for sensitive or critical data. 
+Dedicated Archivist Team for Consultation: Elevate your understanding with a dedicated team of expert archivists at your beck and call.
+Priority Customer Support: Skip the queue with our priority customer support, because your time is precious. 
+Customisation Features for User Interface: Make the system truly yours with a fully customizable user interface. 
+What I'd Pay a Recurring Fee For 
+Regular System Updates 
+Monthly Expert Archivist Consultations 
+Continuous Data Monitoring and Alerts 
+Dedicated Support Manager 
+Periodic Training and Workshops for Staff 
+=== TABLES ===
+Suggested Agenda | Suggested Content
+Understanding my digital assets | What is a digital asset?
+Understanding the process – how to find assets stored in digital form
+What to do with non-digital assets
+Understanding what I can do | What could they be used for: Collaboration for remote teams? Increased efficiency? 
+Monetising your assets 
+Using meta-data tags
+What are the goals for my organisation/business 
+Budgets
+Re-purposing content
+Systems and Technologies needed | Structuring and organising the assets – how to use meta-data and tags 
+Data encryption 
+DAM platforms 
+Use of new technologies – AR and VR 
+Integrating different platforms
+Managing the process | Planning and collaboration 
+Structuring teams/people to handle the assets
+Developing a framework for your business 
+Safekeeping your assets 
+Security 
+Handling copyright
+Staff training 
+What could go wrong?
+Working with archivists | What is a digital archivist ? 
+Why are they important 
+What is their role? 
+Preserving future assets
