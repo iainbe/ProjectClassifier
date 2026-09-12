@@ -500,3 +500,13 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 
 - tools/README_sweep.md created for external testing (Jon); covers honest limitations (gdoc stubs, baseline noise, detection-only)
 - naming_and_transition_protocol.md drafted pending Iain/Jon approval — recommends MOVE (not duplicate) for bid→project; flags existing naming violations (e.g. '2026 Maritime Belfast ' trailing space)
+
+
+---
+
+# Pass 10: Proposal triage registration (26/09/12)
+
+- 7 unregistered Active proposals folders registered as T06-T12 in 08_tenders + bid_records/
+- Buyer/stage fields are folder-evidence inferences marked for Iain confirmation — not verified facts
+- T01-BCAT (British Council Art and Tech) identified as live bid, deadline 26/09/26 — Option A live-tender test candidate
+- Loose root files pending Iain filing decision: Rachel Granger DMU x3, City and Guilds docx

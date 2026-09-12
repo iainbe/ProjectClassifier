@@ -1,4 +1,4 @@
-# File Naming + Bid→Project Transition Protocol — DRAFT for approval
+# File Naming + Bid→Project Transition Protocol — APPROVED 26/09/12
 
 **Purpose:** consistent naming so the sweep, registers and humans all read the same structure. Built on existing conventions (YYYY folders, YYMMDD files) rather than new invention.
 
@@ -62,7 +62,7 @@ Active projects/2026 <Name>/
 If a folder must be renamed: update `drive_folder_path` in `01_projects.csv` **in the same action** — the sweep will otherwise flag the old path as deleted + new folder as unregistered. (Sweep makes the breakage visible within 24h regardless, but same-action updating keeps the record clean.)
 
 ---
-**Questions for Iain/Jon:**
-1. Move vs duplicate — agreed on move?
-2. `Proposal/` subfolder name — `Proposal/`, `Bid/`, or `Submission/`?
-3. Apply retroactively to existing Active projects folders (one-time tidy), or forward-only?
+**Approved decisions (Iain, 26/09/12):**
+1. MOVE (not duplicate) — proposal folder becomes `Proposal/` subfolder of the project
+2. Subfolder name: `Proposal/`
+3. Retroactive: one-time tidy approved — in progress (trailing-space fix on Maritime Belfast done; BEYOND scene-setter filed; remaining moves pending bid-outcome confirmation)
