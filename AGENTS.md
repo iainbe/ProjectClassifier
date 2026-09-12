@@ -183,3 +183,11 @@ Canonical = this Drive folder. `ProjectClassifier/` repo is the versioned mirror
 
 ### Date format convention
 All dates use `YY/MM/DD` (e.g., 26/09/12). Month-precision: `YY/MM`. Year-only in date fields: `YY`. Timestamps: `YY/MM/DDThh:mm:ss`. Applies to all registers, cards, changelogs, records and fields. EXCEPTION: `extracted_text/` source files remain verbatim — never normalise dates inside source evidence. `tools/normalise_dates.py` implements the conversion rules.
+
+### Session-closure rule (MANDATORY — no reminders needed)
+Before ending ANY work session that changed toolkit files, update ALL THREE:
+1. `CHANGELOG.md` — session-level entry (what changed and why)
+2. `tier2_qa_review.md` — consistency-audit entry (findings, fixes, residual issues)
+3. `10_review_history.csv` — audit-trail row
+Plus per-project `project_changelogs/` entries for any project whose data/card changed.
+A session is NOT complete until these are written. This is not optional and does not require a user reminder.

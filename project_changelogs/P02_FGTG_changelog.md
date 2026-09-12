@@ -66,3 +66,11 @@ FGTG is a multi-phase intervention with distinct deliverable streams:
 2. **The R2 manifest source (FG2G Update, 24/11) is an interim update**, not the final deliverable. The final workshop report (25/06) is later.
 3. **Option thinking appears late** (25/06 "options for devolved approach"), if at all.
 4. **Spillovers were emergent from SME engagement**, not designed in from the brief. Specific spillover types and evidence to be identified in R3 review. This is a useful case for testing how the method handles emergent (non-designed) spillovers.
+
+## R3 card walkthrough (26/09/12)
+
+- **Resolved:** devolved R&D funding option exercise status — UNKNOWN (proposed, held by GMCA/Innovate UK).
+- **Contract value:** £25,000 (Iain).
+- **Register repair:** row realigned (contracting_role=PRIME to Manchester Met, consortium lead).
+- **Card framing:** delivered workshop with recorded outcomes incl. honest negatives treated as credibility asset.
+- **Status:** Index card REVIEWED; APPROVED_NAMED for tender citation.

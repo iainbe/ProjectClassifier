@@ -130,3 +130,10 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 2. Confirm there are no later versions outside the checked folders.
 3. Confirm the three-stream deliverable structure is correct, or identify additional deliverables.
 4. After confirmation, I will create the `canonical/` subfolder with copies and proceed to the other 9 projects.
+
+## 8. R3 card walkthrough (26/09/12)
+
+- **Resolved:** four-tier workforce model + invisible-workforce framing confirmed by Iain as correct description of distinctive method contribution.
+- **Contract value:** NOT_DISCLOSED (Iain).
+- **Register repair:** row realigned (contracting_role=PRIME, prime_contractor=The Fifth Sector, notes relocated from parent_project_id).
+- **Status:** Index card REVIEWED; APPROVED_NAMED for tender citation.

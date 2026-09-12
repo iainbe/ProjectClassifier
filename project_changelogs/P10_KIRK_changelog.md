@@ -134,3 +134,10 @@ Compare the 2026 report production process against the 2022 and 2024 cycles:
 - **Streamlining question:** Could a standardised process be written to streamline and ruggedise the move from initial draft to final report — incorporating the audit steps, changelog, consistency checks and error reconciliation as a repeatable workflow rather than an ad-hoc 2026 experiment?
 - **Toolkit relevance:** If the 2026 workflow is judged better, it could inform the spillover toolkit's own report production methodology. The audit files (deepthink, blindspot, consistency) map directly to the toolkit's lens protocols. This is a potential feedback loop from project practice to toolkit design.
 - **Confidence:** LOW. Requires content review of the audit files and the three reports to assess.
+
+## R3 card walkthrough (26/09/12)
+
+- **Resolved:** "policy use confirmed" clarified — reports used by council informally but NO specific policy application evidenced (option NOT exercised; my initial "exercised" overclaim corrected).
+- **Contract value:** £10,000 per cycle ×3 = £30,000 (Iain). 2026 cycle submitted pending acceptance.
+- **Register repair:** row realigned (contracting_role=PRIME, prime_contractor=The Fifth Sector).
+- **Status:** Index card REVIEWED; APPROVED_NAMED for tender citation.

@@ -101,3 +101,11 @@ MITIH separates evidence from recommended action:
 - **Publication status:** UNPUBLISHED — report not in public domain.
 
 This makes MITIH a useful R2 test case for distinguishing `claim_type=OBSERVATION` (findings) from `claim_type=RECOMMENDATION` (advice) and from `outcome_status=ACCEPTED` vs `outcome_status=REJECTED`. The codebook must handle the case where evidence is valid but recommended actions were not taken forward.
+
+## R3 card walkthrough (26/09/12)
+
+- **Resolved:** MITIH naming corrected — MediaCity Immersive Technologies Innovation Hub, Innovate UK-funded hub at MediaCityUK (UoS CSI attribution removed; their site hosts the initiative page but does not own it).
+- **Material correction:** Jun 2025 report REJECTED by client for recommendations; Aug 17 + Oct 24 reconciliation attempts; Oct 24 reconciliation ACCEPTED — now recorded in card lifecycle/decision-use/caveats.
+- **Contract value:** £25,000 (Iain). Gated investment sequence: NOT exercised.
+- **Register repair:** row realigned (contracting_role=PRIME, prime_contractor=The Fifth Sector).
+- **Status:** Index card REVIEWED; APPROVED_NAMED for tender citation.
