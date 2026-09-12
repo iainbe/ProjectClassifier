@@ -150,6 +150,10 @@ Rules:
 - Contribution claims (subcontractor/associate work) must name the contracting structure — never imply Fifth Sector ownership of a consortium or prime's deliverable
 - Figures and method labels must match the canonical document's own language; bid-level characterisations (e.g. "Green Book-compatible") are flagged as characterisations unless the document uses them
 
+## Evidence-location rule (26/09/12)
+
+Before declaring evidence missing or a claim fabricated: check BOTH archives — G Drive (current canonical) AND OneDrive-TheFifthSector (pre-migration archive at `~/Library/CloudStorage/OneDrive-TheFifthSector/Documents - The Fifth Sector/`). Live G Drive folders are incomplete for pre-migration material. Absence-of-file verdicts require a documented two-archive check.
+
 ## Tender vs project distinction
 
 Tender documents (RFQs, RFPs, ITQs, bid responses) for unsuccessful or pending bids are NOT projects. They belong in `08_tenders.csv` only. Do not create project records for:

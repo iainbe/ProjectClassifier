@@ -157,3 +157,10 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Applied to all 12 draft cards; card template + codebook_v1.3 + AGENTS.md updated — the model now governs how claims are cited in reports and bids
 - P75: direct proposal £10k incl VAT (Iain) — PRIME confirmed
 - P79: lifecycle corrected to REPORTING_COMPLETE — next phase pending client agreement on data format for CoSTAR Showcase bid reuse
+
+## 26/09/12 — P75 remittance verdict REVERSED (OneDrive check)
+
+- lu_remittance_advice_8032520.pdf EXISTS in OneDrive archive (P75 folder + P76 folder): £1,499.70 paid 26/05/08 vs INV-1357 (26/02/09) to The Fifth Sector Ltd from Lancaster University
+- Earlier "fabrication" verdict was wrong — file was in the pre-migration archive, not the G Drive live folder; registered as SRC-R5-001
+- Residual: £1,499.70 vs £10k proposal — amount relationship TBC (part-payment or separate invoice)
+- Rule added: fabrication verdicts require checking BOTH archives — G Drive live folders are incomplete pre-migration

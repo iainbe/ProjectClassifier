@@ -598,3 +598,11 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 
 - Two-field model replaces "APPROVED via use" across cards, template, codebook, AGENTS.md — separates factual work-claims from client-reference permission
 - P79 lifecycle inconsistency resolved (reporting complete; Showcase-reuse phase pending client agreement)
+
+
+---
+
+# Pass 21: Verdict reversal — P75 remittance real (26/09/12)
+
+- OneDrive archive contained the remittance I declared fabricated; payment evidence now registered (SRC-R5-001)
+- New rule: fabrication verdicts require cross-checking BOTH archives — G Drive live folders are not complete pre-migration

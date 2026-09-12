@@ -15,7 +15,7 @@
 | `client` | Lancaster University | register |
 | `contracting_role` | PRIME — direct proposal to Lancaster University | Iain 26/09/12 |
 | `commission_date` | 25/12 | register |
-| `contract_value` | £10,000 including VAT — direct proposal | Iain 26/09/12 |
+| `contract_value` | £10,000 incl VAT proposal (Iain); payment evidence: remittance lu_8032520 £1,499.70 paid 26/05/08 vs INV-1357 (26/02/09) — amount relationship TBC (part-payment or separate invoice) | Iain + OneDrive remittance |
 | `geography` | Lancaster / North | register |
 | `sector_focus` | Nature-Culture-Tech creative cluster | application |
 | `lifecycle_status` | BID_SUBMITTED — awaiting AHRC outcome | register |
