@@ -1,3 +1,22 @@
+## 26/09/12 — Cardless batch 1 + project_id cascade
+
+**Trigger:** "Proceed" (cardless card production after draft walkthrough)
+
+### New cards (PROVISIONAL, awaiting Iain walkthrough)
+- **P15_LIVMUS**: verified vs SRC-G2-010 — £100.5m turnover/2,360 jobs; >£200m full-footprint figure captured (direct+downstream framing anticipates P22 distinction); BOP prime → contribution framing TBC
+- **P19_LCRIMM**: verified vs SRC-G2-014 — 169 orgs/126 cos/600+; Meetup 4-city benchmarking; gated investment options PROPOSED; Iain named co-author (stronger citation basis than P15)
+- **P21_MMUCCI**: verified vs SRC-G2-016 — REF-2021-invisibility finding ("second of ALL UK HEIs... buried four clicks down"); PRIME role
+
+### project_id cascade (orphan-card fix)
+- 8 bare IDs upgraded to suffixed convention: P64→P64-BCJ, P69→P69-OURYEAR, P75→P75-LANC, P78→P78-BEATLES, P79→P79-CELL, P81→P81-WB6, P82→P82-KOTOR, P83→P83-BCWB
+- FKs cascaded: 04_claims 87 fields, 02_sources 17, 01_projects 17, 08_tenders 2, 11_permission_requests 3, 10_review_history 18 structured fields (record_id/source_ids only — prose verbatim)
+- **Incident:** first cascade write truncated 10_review_history (ragged row, None key) — restored from mirror, re-applied with row-level handling; 317 rows verified intact
+- project_index.csv regenerated: 25 cards mapped, 43 cardless (was 46)
+
+### Residual
+- 3 new cards PROVISIONAL — Iain walkthrough pending
+- Cardless backlog: 43
+
 ## 26/09/12 — Draft-card walkthrough complete; permission tracker created
 
 **Trigger:** "review draft cards; use that as a test for client-permission"

@@ -1,3 +1,10 @@
+## Consistency audit — 26/09/12 (cardless batch 1 + cascade)
+
+- 3 new PROVISIONAL cards (P15, P19, P21); all headline figures verified against full extracts before drafting.
+- project_id cascade: 8 bare IDs → suffixed; FK integrity verified post-cascade (0 residual bare refs in live registers).
+- INCIDENT + FIX: 10_review_history.csv truncated by failed write (ragged row → None key in DictWriter). Restored from ProjectClassifier mirror; cascade re-applied at row level; 317 rows intact. Lesson: write via csv.reader/writer for registers with ragged rows, not DictWriter.
+- project_index.csv: 68 rows, 25 with cards.
+
 ## Consistency audit — 26/09/12 (card walkthrough)
 
 - 12 draft cards walked through with Iain; contracting structures corrected on P81/P82/P83/P22/P27/P78 (subcontractor-vs-direct now accurate).
