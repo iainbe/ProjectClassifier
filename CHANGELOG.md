@@ -65,3 +65,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - P86-CSSAL registered: Creative Scotland Salary Benchmarking — PRIME, proposal pack submitted, award status flagged for confirmation
 - P64/P69 cross-linked as related-but-distinct commissions (framework design vs evaluation delivery); date inconsistency on P64 sources flagged
 - T01 bid record updated with register anchors
+
+## 26/09/12 — P86-CSSAL status: PREFERRED_BIDDER
+
+- Creative Scotland letter: preferred bidder; award confirmed after standstill ends 26/09/18 (Iain)
+- On confirmation → workflow Trigger 3: PM record + provisional index card
