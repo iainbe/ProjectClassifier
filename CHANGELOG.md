@@ -1,3 +1,22 @@
+## 26/09/12 — Sweep-agent VERSION_AMBIGUITY + Section B source registration
+
+**Trigger:** user instruction "Make changes to sweep agent and future extraction; log in #changelog and move to B"
+
+### Sweep agent + extraction rules
+- `tools/drive_sweep.py`: added VERSION_AMBIGUITY finding — registered sources whose controlled_location resolves to a directory holding multiple candidate files now emit a canonical-version-review finding (joins ordering + attention count). Rationale: near-misses at WMGC (v1 picked over canonical v2a), Herefordshire (chapter over final strategy), UoL CPD (non-existent path).
+- `tools/JON_SWEEP_GUIDE.md`: VERSION_AMBIGUITY row added to category table.
+- `AGENTS.md`: extraction rules inserted — folder locators are ambiguous until candidates reviewed; prefer canonical/latest designated version; extract tables + paragraphs; record exact selected file; two-archive check before absence verdicts.
+
+### Section B — three source-less projects now registered (11 sources, 5 claims, 6 evidence links)
+- **P85-AMGEN**: folder located at `Google project folders/2026/` (missed by earlier year-root sweeps); drive_folder_path fixed. Sources: Microcluster Evidence Pack (canonical Places deliverable), Theory of Change Multi-Route Analysis, PO0127+PO0130+INV-1371 (formal paid-engagement trail — PO0130 dated 26/06/11), EOI+feedback. Evidence pack extracted (15,153 chars incl. tables): 8 Welsh microclusters classified core/supporting/review-drop with explicit claim-use limits — Places claim discipline mirrored. Claims C-R5-524–526 registered.
+- **P86-CSSAL**: sources registered — tender brief, Schedule 4 Technical Proposal FINAL (submitted), Schedule 2 pricing + Schedule 5 form of tender, Salary Review + Benchmark Tool deliverables. Licence caution recorded: `DO NOT SEND - Lightcast originals` folder — originals not for circulation. Preferred-bidder letter is email-held, flagged as source-not-located. Claim C-R5-527 registered.
+- **P35-DERBYMAP**: sources registered — Derby Cultural Masterplan FINAL (canonical), Manifesto v3 + Compact governance (extracted, 18,594 chars), ENQ692 signed outcome notification (won-commission evidence). Claim C-R5-528 registered.
+
+### Residual
+- P86 preferred-bidder letter: email-held, not in folder — request filing into project folder.
+- P35/P85/P86 cards not yet produced (45 cardless count unchanged; these remain in the queue).
+- Extract coverage: P85 pack + P35 manifesto extracted; P35 masterplan FINAL (hi-res PDF) and P86 Schedule 4 FINAL (PDF) registered but extraction pending.
+
 # CHANGELOG — Spillover Toolkit
 
 Session-level record of all changes. Per-project detail lives in `project_changelogs/`; per-item audit trail in `10_review_history.csv`; QA findings in `tier2_qa_review.md`.

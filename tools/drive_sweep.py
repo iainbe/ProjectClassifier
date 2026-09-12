@@ -27,18 +27,22 @@ def load_registers():
                 if fp:
                     proj_folders[fp] = r['project_id']
     src_names = set()
+    src_dir_locs = {}  # controlled_location -> source_id, where location is a directory
     with open(os.path.join(TK, CFG['register_sources'])) as f:
         for r in csv.DictReader(f):
             for c in ('original_locator', 'controlled_location', 'title'):
                 v = (r.get(c) or '').strip()
                 if v: src_names.add(os.path.basename(v))
+            cl = (r.get('controlled_location') or '').strip().rstrip('/')
+            if cl and not os.path.splitext(cl)[1]:
+                src_dir_locs[cl] = r['source_id']
     tender_folders = {}
     with open(os.path.join(TK, CFG['register_tenders'])) as f:
         for r in csv.DictReader(f):
             m = re.search(r'Drive folder:\s*([^|]+)', r.get('notes') or '')
             if m:
                 tender_folders[m.group(1).strip().rstrip('/')] = r['opportunity_id']
-    return proj_folders, src_names, tender_folders
+    return proj_folders, src_names, tender_folders, src_dir_locs
 
 def scan():
     """Walk watch roots -> {relpath: (mtime, size)} and list of icloud placeholders."""
@@ -95,7 +99,7 @@ def classify(rel, proj_folders, src_names, non_proj, tender_folders):
     return ('NEW_FILE', 'new file in watched area')
 
 def main():
-    proj_folders, src_names, tender_folders = load_registers()
+    proj_folders, src_names, tender_folders, src_dir_locs = load_registers()
     try:
         old = json.load(open(STATE_PATH))
     except (OSError, json.JSONDecodeError):
@@ -126,8 +130,17 @@ def main():
         collapsed.append(('UNREGISTERED_PROJECT?', note.split('"')[1], note, f'{cnt} files'))
     findings = collapsed
 
+    # VERSION_AMBIGUITY: registered source whose location is a folder with multiple candidates
+    for cl, sid in src_dir_locs.items():
+        p = os.path.join(DRIVE, cl)
+        if not os.path.isdir(p): continue
+        cands = [n for n in os.listdir(p) if n.lower().endswith(('.docx', '.pdf', '.pptx')) and not ignored(n)]
+        if len(cands) > 1:
+            findings.append(('VERSION_AMBIGUITY', cl,
+                f'{sid}: folder location holds {len(cands)} candidate files — canonical selection required, not alphabetical', 'registered'))
+
     order = {'UNREGISTERED_PROJECT?':0,'POSSIBLE_TENDER':1,'DRIFT':2,
-             'SOURCE_UPDATED':3,'UNREGISTERED_SOURCE':4,'TENDER_FILE':5,'NEW_FILE':6,'NON_PROJECT':7}
+             'SOURCE_UPDATED':3,'UNREGISTERED_SOURCE':4,'TENDER_FILE':5,'VERSION_AMBIGUITY':6,'NEW_FILE':7,'NON_PROJECT':8}
     findings.sort(key=lambda x: order.get(x[0], 9))
 
     now_ts = datetime.now()
@@ -138,7 +151,7 @@ def main():
     if not old:
         lines.append("**First run — baseline snapshot taken. All existing files treated as baseline; "
                      "findings below are classification of what is already unregistered.**\n")
-    for tag in ['UNREGISTERED_PROJECT?','POSSIBLE_TENDER','DRIFT','SOURCE_UPDATED','UNREGISTERED_SOURCE','TENDER_FILE','NEW_FILE','NON_PROJECT']:
+    for tag in ['UNREGISTERED_PROJECT?','POSSIBLE_TENDER','DRIFT','SOURCE_UPDATED','UNREGISTERED_SOURCE','TENDER_FILE','VERSION_AMBIGUITY','NEW_FILE','NON_PROJECT']:
         group = [f for f in findings if f[0]==tag]
         if not group: continue
         lines.append(f"\n## {tag} ({len(group)})\n")
@@ -160,7 +173,7 @@ def main():
     open(os.path.join(REPORT_DIR,'SWEEP_LATEST.md'),'w').write(report)
     json.dump(now_ser, open(STATE_PATH,'w'))
 
-    n_hi = sum(1 for f in findings if f[0] in ('UNREGISTERED_PROJECT?','POSSIBLE_TENDER','DRIFT','UNREGISTERED_SOURCE','SOURCE_UPDATED','TENDER_FILE'))
+    n_hi = sum(1 for f in findings if f[0] in ('UNREGISTERED_PROJECT?','POSSIBLE_TENDER','DRIFT','UNREGISTERED_SOURCE','SOURCE_UPDATED','TENDER_FILE','VERSION_AMBIGUITY'))
     summary = f"{len(new)} new, {len(changed)} changed, {n_hi} need attention — see SWEEP_LATEST.md"
     try:
         subprocess.run(['osascript','-e',

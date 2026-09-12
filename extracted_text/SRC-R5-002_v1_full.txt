@@ -1,0 +1,193 @@
+Amgen CICP2 Microcluster Evidence Pack
+Evidence views for the Wales live-performance, Welsh-language and creative-technology bid
+Draft date: 2026-06-20 | Source: Wales evidence universe and Amgen client setup
+1. What This Pack Is For
+This pack turns the Amgen client setup into reviewable evidence views. It starts from the named live-performance, Welsh-language and creative-technology microclusters in the bid rather than using a national or all-Wales creative-industries baseline as the proof.
+The pack is deliberately strict about claim use: core microclusters can carry the delivery story; supporting clusters can only support scale, commercial or language claims where the bid makes that link; review/drop clusters should not be used as bid evidence until pruned.
+Evidence Limits
+Companies House and company-record evidence do not represent freelancers or informal practitioners.
+Nominated seed clusters need partner review before final publication.
+Co-investment, letters of support, exact delivery commitments and buyer/adopter commitments remain partner-provided evidence.
+Eisteddfod should be represented as itinerant dissemination infrastructure, not a single-location cluster.
+Screen and virtual-production records should support commercial spillover and scale only where tied back to live performance and creative technology.
+2. Portfolio View
+3. Consortium Readiness
+North Wales / Theatr Clwyd Working Set
+Theatr Clwyd anchors North Wales production, theatre-making, technical skills and local route-to-market activity.
+System exports: roster outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/north-wales-theatr-clwyd-working-set/roster.csv; GeoJSON outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/north-wales-theatr-clwyd-working-set/companies.geojson; evidence view outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/north-wales-theatr-clwyd-working-set/evidence_view.json.
+Denbighshire Media Edge Case
+Small Denbighshire media/tool-hire signal; not enough to carry a bid claim alone.
+System exports: roster outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/denbighshire-media-edge-case/roster.csv; GeoJSON outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/denbighshire-media-edge-case/companies.geojson; evidence view outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/denbighshire-media-edge-case/evidence_view.json.
+Ceredigion Publishing And Screen Microcluster
+Ceredigion adds rural Mid Wales evidence around Welsh-language publishing, screen/content and local cultural production.
+System exports: roster outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/ceredigion-publishing-screen/roster.csv; GeoJSON outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/ceredigion-publishing-screen/companies.geojson; evidence view outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/ceredigion-publishing-screen/evidence_view.json.
+Cardiff Bay Live Performance And XR
+Wales Millennium Centre and CULTVR anchor a Cardiff Bay live-performance, immersive and international showcase route.
+System exports: roster outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/cardiff-bay-live-xr/roster.csv; GeoJSON outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/cardiff-bay-live-xr/companies.geojson; evidence view outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/cardiff-bay-live-xr/evidence_view.json.
+Cardiff Screen And Virtual Production
+Cardiff screen and virtual-production companies can support the commercial scale story when linked back to live/digital performance.
+System exports: roster outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/cardiff-screen-and-virtual-production/roster.csv; GeoJSON outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/cardiff-screen-and-virtual-production/companies.geojson; evidence view outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/cardiff-screen-and-virtual-production/evidence_view.json.
+Carmarthen S4C / Welsh-Language Screen
+S4C, Theatr Genedlaethol Cymru and Welsh-language learning entities support a Welsh-language media and performance spine outside Cardiff.
+System exports: roster outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/carmarthen-s4c-welsh-language-screen/roster.csv; GeoJSON outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/carmarthen-s4c-welsh-language-screen/companies.geojson; evidence view outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/carmarthen-s4c-welsh-language-screen/evidence_view.json.
+Gwynedd Welsh-Language Performance
+Frân Wen and Nyth anchor Welsh-language youth performance, co-creation and North West Wales participation.
+System exports: roster outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/gwynedd-language-performance/roster.csv; GeoJSON outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/gwynedd-language-performance/companies.geojson; evidence view outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/gwynedd-language-performance/evidence_view.json.
+Itinerant Festival Dissemination
+Eisteddfod Genedlaethol Cymru operates as an itinerant Welsh-language testing and dissemination platform.
+System exports: roster outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/itinerant-festival-dissemination/roster.csv; GeoJSON outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/itinerant-festival-dissemination/companies.geojson; evidence view outputs/wales_amgen_microcluster_evidence_pack_20260620/microclusters/itinerant-festival-dissemination/evidence_view.json.
+=== TABLES ===
+Microcluster | Type | Companies | Employment | Turnover | Bid role
+North Wales / Theatr Clwyd Working Set | core | 168 | 1946 | GBP 114.7m | Core delivery microcluster
+Denbighshire Media Edge Case | review | 2 | 49 | GBP 9.6m | Review / merge / drop
+Ceredigion Publishing And Screen Microcluster | supporting | 16 | 74 | GBP 2.8m | Supporting rural language/content evidence
+Cardiff Bay Live Performance And XR | core | 12 | 995 | GBP 110.2m | Core delivery microcluster
+Cardiff Screen And Virtual Production | supporting | 12 | 151 | GBP 63.9m | Supporting commercial/scale evidence
+Carmarthen S4C / Welsh-Language Screen | supporting | 5 | 65 | GBP 18.4m | Supporting Welsh-language screen evidence
+Gwynedd Welsh-Language Performance | core | 8 | 139 | GBP 11.8m | Core delivery microcluster
+Itinerant Festival Dissemination | core | 1 | 6 | GBP 2.6m | Core dissemination layer
+Anchor group | Count | Use
+HEIs | 5 | Talent, research, evaluation and local delivery evidence
+Delivery partners | 5 | Resolved anchor organisations and bid testbed delivery routes
+National/context anchors | 6 | Policy, infrastructure, scale and dissemination context
+Field | Value
+Evidence category | core
+Role | Core delivery microcluster
+Seed status | persisted_in_snapshot_review_required
+Matched companies | 168
+Estimated employment | 1946
+Matched turnover | GBP 114.7m
+Bid use | Use as the North Wales live-performance and production testbed, with pruning before external export.
+Commercial route | Ticketed production, technical theatre capability, training, touring and supplier development.
+Spillover route | Production and skills spillovers into rural creative services, music, events, venues and technical suppliers.
+Review discipline | Large enough to be useful but dangerous to export without pruning; treat as working set.
+Top resolved record | Employees | Sector | Local authority
+THEATR CLWYD TRUST LTD | 97 | Performing Arts | Flintshire
+THEATR CLWYD MUSIC TRUST LTD | 33 | Education Training | Flintshire
+LLANGOLLEN INTERNATIONAL MUSICAL EISTEDDFOD LIMITED(THE) | 6 | Performing Arts | Denbighshire
+THEATR CLWYD PRODUCTIONS LTD | 3 | Performing Arts | Flintshire
+THEATR CLWYD ENTERPRISES LTD | 3 | Performing Arts | Flintshire
+Field | Value
+Evidence category | review
+Role | Review / merge / drop
+Seed status | persisted_in_snapshot_review_merge_or_drop
+Matched companies | 2
+Estimated employment | 49
+Matched turnover | GBP 9.6m
+Bid use | Keep as an evidence-quality test case or merge into the North Wales working set after review.
+Commercial route | Potential technical/supplier adjacency only.
+Spillover route | Useful for checking whether supplier spillovers are real or just noisy co-location.
+Review discipline | Use with confidence label and partner review.
+Top resolved record | Employees | Sector | Local authority
+THOMAS TOOL HIRE LIMITED | 48 | Unclassified | Denbighshire
+CARDREWS MEDIA LIMITED | 1 | Photography Film | Denbighshire
+Field | Value
+Evidence category | supporting
+Role | Supporting rural language/content evidence
+Seed status | persisted_in_snapshot_review_required
+Matched companies | 16
+Estimated employment | 74
+Matched turnover | GBP 2.8m
+Bid use | Use as supporting evidence for rural language/content capability, subject to partner confirmation of delivery role.
+Commercial route | Publishing, content services, educational media, screen production and language-market products.
+Spillover route | Links between publishing, screen, education, language and community cultural production in Mid Wales.
+Review discipline | Use with confidence label and partner review.
+Top resolved record | Employees | Sector | Local authority
+ATEBOL CYFYNGEDIG | 48 | Publishing | Ceredigion
+Y LOLFA CYFYNGEDIG. | 21 | Publishing | Ceredigion
+DALY MEDIA LIMITED | 2 | Advertising | Ceredigion
+AJW DEVELOPER LTD | 1 | Software | Ceredigion
+HAKA ENTERTAINMENT LIMITED | 1 | Performing Arts | Ceredigion
+RT EDITORIAL LTD | 1 | Publishing | Ceredigion
+CWLWM CYHOEDDWYR CYMRU |  | Publishing | Ceredigion
+O'R PEDWAR GWYNT CYF. |  | Publishing | Ceredigion
+Field | Value
+Evidence category | core
+Role | Core delivery microcluster
+Seed status | seed_ready_not_persisted
+Matched companies | 12
+Estimated employment | 995
+Matched turnover | GBP 110.2m
+Bid use | Use as the live/XR showcase and adoption testbed, not as a generic Cardiff creative-economy claim.
+Commercial route | Ticketed experiences, venue adoption, immersive production services, licensing, commissions and international showcases.
+Spillover route | Live/digital spillovers across WMC, CULTVR, WNO, Chapter, Sherman, Hijinx, ticketing, production and audience infrastructure.
+Review discipline | Use with confidence label and partner review.
+Top resolved record | Employees | Sector | Local authority
+WALES MILLENNIUM CENTRE | 350 | Performing Arts | Cardiff
+WELSH NATIONAL OPERA LIMITED | 232 | Performing Arts | Cardiff
+WALES MILLENNIUM CENTRE (TRADING) LIMITED | 174 | Performing Arts | Cardiff
+CHAPTER (CARDIFF) LIMITED | 83 | Photography Film | Cardiff
+CHAPTER TRADING LIMITED | 36 | Photography Film | Cardiff
+NOFIT STATE COMMUNITY CIRCUS LTD | 34 | Performing Arts | Cardiff
+SHERMAN CYMRU | 33 | Performing Arts | Cardiff
+HIJINX THEATRE | 20 | Performing Arts | Cardiff
+Field | Value
+Evidence category | supporting
+Role | Supporting commercial/scale evidence
+Seed status | seed_ready_not_persisted
+Matched companies | 12
+Estimated employment | 151
+Matched turnover | GBP 63.9m
+Bid use | Use as adjacent commercial and scale evidence only; do not let it replace the live-performance proposition.
+Commercial route | Production services, virtual production, IP, commissions, supplier development and exportable expertise.
+Spillover route | Screen-production capability feeding immersive, live capture, production services and creative-technology markets.
+Review discipline | Use with confidence label and partner review.
+Top resolved record | Employees | Sector | Local authority
+BAD WOLF LTD | 41 | Photography Film | Cardiff
+BAD WOLF (RED2) LTD | 35 | Photography Film | Cardiff
+BAD WOLF (TOBS) LTD | 26 | Photography Film | Cardiff
+BAD WOLF (TWB) LTD | 23 | Photography Film | Cardiff
+BAD WOLF (HDM3) LIMITED | 13 | Photography Film | Cardiff
+BAD WOLF STUDIOS WALES LTD | 4 | Photography Film | Cardiff
+BAD WOLF (DG) LTD | 3 | Photography Film | Cardiff
+BAD WOLF (IHS) LTD | 3 | Photography Film | Cardiff
+Field | Value
+Evidence category | supporting
+Role | Supporting Welsh-language screen evidence
+Seed status | seed_ready_not_persisted
+Matched companies | 5
+Estimated employment | 65
+Matched turnover | GBP 18.4m
+Bid use | Use only where the bid discusses Welsh-language media, scale or cross-platform performance, not as a core live-performance testbed unless partners confirm it.
+Commercial route | Broadcast, digital content, theatre, language learning, commissioning and Welsh-language media services.
+Spillover route | Crossovers between Welsh-language screen, theatre, education, audiences and national cultural infrastructure.
+Review discipline | Use with confidence label and partner review.
+Top resolved record | Employees | Sector | Local authority
+Y GANOLFAN DYSGU CYMRAEG GENEDLAETHOL | 23 | Education Training | Carmarthenshire
+THEATR GENEDLAETHOL CYMRU | 22 | Performing Arts | Carmarthenshire
+S4C2 CYF. | 9 | Screen Industries | Carmarthenshire
+S4C DIGITAL MEDIA LIMITED | 9 | Screen Industries | Carmarthenshire
+S4C MASNACHOL CYF | 2 | Screen Industries | Carmarthenshire
+Field | Value
+Evidence category | core
+Role | Core delivery microcluster
+Seed status | seed_ready_not_persisted
+Matched companies | 8
+Estimated employment | 139
+Matched turnover | GBP 11.8m
+Bid use | Use as the Welsh-language performance and rural participation testbed.
+Commercial route | Co-created performance, youth engagement models, touring formats, training and Welsh-language creative services.
+Spillover route | Connections across Frân Wen, Galeri, Cwmni Da, local production companies, venues and Welsh-language cultural infrastructure.
+Review discipline | Use with confidence label and partner review.
+Top resolved record | Employees | Sector | Local authority
+CWMNI DA CYF | 64 | Photography Film | Gwynedd
+GALERI CAERNARFON CYF | 41 | Performing Arts | Gwynedd
+CWMNI PLAS GLYN - Y - WEDDW LIMITED | 16 | Performing Arts | Gwynedd
+CWMNI'R FRAN WEN CYF | 9 | Performing Arts | Gwynedd
+CWMNI PENDRAW CYF | 9 | Performing Arts | Gwynedd
+CWMNI MURMUR COMPANY CYF |  | Performing Arts | Gwynedd
+CWMNI PEN PRODUCTIONS LTD. |  | Visual Arts | Gwynedd
+CWMNI FFILM CYF |  | Photography Film | Isle of Anglesey
+Field | Value
+Evidence category | core
+Role | Core dissemination layer
+Seed status | seed_requires_manual_entity_confirmation
+Matched companies | 1
+Estimated employment | 6
+Matched turnover | GBP 2.6m
+Bid use | Use as a national audience and dissemination route, never as a single fixed-location cluster.
+Commercial route | Festival presentation, audience testing, public showcase, touring and partner adoption.
+Spillover route | Welsh-language cultural reach across places, audiences, schools, communities, broadcasters and local hosts.
+Review discipline | Use with confidence label and partner review.
+Top resolved record | Employees | Sector | Local authority
+LLANGOLLEN INTERNATIONAL MUSICAL EISTEDDFOD LIMITED(THE) | 6 | Performing Arts | Denbighshire

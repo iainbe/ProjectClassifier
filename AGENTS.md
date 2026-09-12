@@ -150,6 +150,13 @@ Rules:
 - Contribution claims (subcontractor/associate work) must name the contracting structure — never imply Fifth Sector ownership of a consortium or prime's deliverable
 - Figures and method labels must match the canonical document's own language; bid-level characterisations (e.g. "Green Book-compatible") are flagged as characterisations unless the document uses them
 
+## Extraction rules (26/09/12)
+
+1. **Tables are evidence.** Docx/pptx extraction MUST include table content — paragraph-only scanning missed verified figures twice (P81 phase table, P33 lever table). Verify against tables before declaring a figure unsupported.
+2. **Bare numerics.** Grep for `£N` misses bare numbers under currency headers (e.g. `75` under "Target GVA (£ million)"). Check table cells for bare numerics.
+3. **Folder locations need canonical selection.** When `controlled_location` is a directory, apply `canonical_version_protocol` (latest/final dated, non-draft) — NEVER alphabetical-first. The sweep flags these as `VERSION_AMBIGUITY`.
+4. **PDF streams.** Without pdftotext, decode via zlib stream + Tj/TJ operators — mark extraction quality accordingly.
+
 ## Evidence-location rule (26/09/12)
 
 Before declaring evidence missing or a claim fabricated: check BOTH archives — G Drive (current canonical) AND OneDrive-TheFifthSector (pre-migration archive at `~/Library/CloudStorage/OneDrive-TheFifthSector/Documents - The Fifth Sector/`). Live G Drive folders are incomplete for pre-migration material. Absence-of-file verdicts require a documented two-archive check.

@@ -1,3 +1,25 @@
+## Consistency audit — 26/09/12 (Section B)
+
+**Scope:** source registration for P35-DERBYMAP, P85-AMGEN, P86-CSSAL; sweep-agent VERSION_AMBIGUITY enhancement.
+
+### Findings and fixes
+- P85 folder existed all along at `Google project folders/2026/` — register `drive_folder_path` was empty; fixed. Root cause of "no Drive folder" verdict: year-root sweep didn't cover the Google project folders subtree.
+- P85: formal procurement trail found (2 POs + invoice) — upgrades £10k engagement from user-confirmed to documentary.
+- P86: Lightcast originals folder marked DO NOT SEND — licence caution now on the source row; affects future reuse of benchmark data.
+- Evidence-ID convention slip: initial links written as EV-### then renamed to E-R5-### to match batch convention.
+- All 11 source rows carry original_locator paths; 2 extracts written (P85 pack, P35 manifesto).
+
+### Residual issues
+- P86 preferred-bidder letter not filed in project folder (email-held).
+- 2 registered deliverables unextracted (P35 hi-res PDF, P86 Schedule 4 PDF).
+- P35/P85/P86 still cardless.
+
+### Checks run
+- Source-ID uniqueness: PASS (123 sources)
+- Claim→project FKs: PASS
+- Evidence→claim/source FKs: PASS (584 links)
+- evidence_id convention: FIXED post-write
+
 # Tier 2 QA Review — Five-Lens Spot-Check
 
 **Date:** 26/09/11

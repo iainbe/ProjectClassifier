@@ -21,6 +21,7 @@ A script that scans Fifth Sector's Drive areas — `Active projects`, `Active pr
 | `UNREGISTERED_SOURCE` | File inside a known project folder but not in `02_sources.csv` |
 | `SOURCE_UPDATED` | A registered source file changed since registration |
 | `TENDER_FILE` | New/changed file inside a registered tender folder (new bid material) |
+| `VERSION_AMBIGUITY` | A registered source points at a folder holding multiple candidate files — the register needs the canonical version picked, not just any file |
 | `DRIFT` | Toolkit register file changed between sweeps |
 | `NON_PROJECT` | Known admin folders — flagged but expected |
 | Deleted / `.icloud` placeholders | Listed at report end |
