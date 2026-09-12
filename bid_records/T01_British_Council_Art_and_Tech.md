@@ -36,7 +36,7 @@
 | Green Book monetisation, Wakefield CDF | P27-WAKECDF | VERIFIED |
 | £406m→£780m music multiplier | P33-LCRMUS, SRC-G2-028 canonical: £405.9m→£779.8m | VERIFIED (rounds correctly) |
 | BC Western Balkans ×2 + live baseline | P83 (SRC-P83-05/06) + P81-WB6 baseline draft | VERIFIED — draft status honestly disclosed in bid |
-| FGTG spillover workshop | P02-FGTG | WORDING FLAG — bid says "for GMCA and Innovate UK"; register: client=MMU consortium (funders defensible, but verify contract party wording) |
+| FGTG spillover workshop | P02-FGTG | VERIFIED — MMU commissioned on behalf of GM partners/universities (Iain 26/09/12). RECOMMENDED EDIT: change "For Greater Manchester Combined Authority and Innovate UK" to "commissioned by Manchester Metropolitan University on behalf of Greater Manchester partners and universities" |
 | NE Scotland spillovers, 200+ firms | P01-NES | VERIFIED |
 | MITIH gated investment £40-60k→£700k-1.3m, >£2m downside | P03-MITIH | VERIFIED — consistent with card |
 | Liverpool Film Fund counterfactual | P22-LCRFILM | VERIFIED |

@@ -76,3 +76,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - BCJ = Business Case Justification (Iain); delivered Oct 22-Mar 23; WYCA confirmed funding to Wakefield Council
 - P64 dates corrected (23/01→22/10 start per source dates); renamed; distinct-commission link to P69 confirmed
 - Claim C-R4-001 added: funding-unlock outcome, option value EXERCISED — BCJ unlocked the programme P69 evaluated
+
+## 26/09/12 — P02-FGTG client clarified (Iain)
+
+- Man Met commissioned + project-managed on behalf of GM partners and universities — Fifth Sector contracted to MMU as consortium lead
+- T01 wording flag resolved: recommended edit logged in bid record (name MMU as commissioner, not GMCA/Innovate UK)
