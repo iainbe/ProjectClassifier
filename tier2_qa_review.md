@@ -728,3 +728,5 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - DIR-pick heuristic flagged: when a registered location is a folder, alphabetical-first grabs wrong files — canonical selection must apply version protocol
 
 | 26/09/12 | Corpus gate review | Five-lens adversarial review of full corpus | PASS to proceed — architecture sound; standing conditions: REVIEWED+CLEARED citation gate, permission-before-naming, role-attribution sentence rule. Findings in corpus_gate_review_260912.md |
+
+| 26/09/16 | Sweep: P78 2016 authorship + card correction | 2016 Beatles Legacy report verified from PDF as IPM/EIUA/ICC for LCC (NOT Fifth Sector); card "repeat-measurement" → "baseline-update"; £81.9m is NET not turnover; gross ~£210m/~5,990 added; 3 sources registered; C-G2-280 linked | P78 card now correctly frames the 2016 study as third-party; Evidence Review gate verdicts recorded; WB6 v2.1 registered but not extracted |

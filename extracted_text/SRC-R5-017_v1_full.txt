@@ -1,0 +1,198 @@
+# Beatles Economic Impact Study: consolidated evidence picture
+
+**Compiled 14 September 2026.** Internal working document. Applies the project's adversarial review gates (SHELDON / THAD / deepthink / blindspot / SKiN) to everything gathered so far. Nothing in this document is cleared for external release; confidential items are held in the firewalled annex at §10 and must not appear in any public output or be repeated to named parties.
+
+## 0. Read this first
+
+- **Gate verdicts: PARTIALLY PROVEN (SHELDON); BLOCK: PROOF FAILURE if published today with a point estimate or any §7 item uncaveated (THAD); FRICTION on document journey (SKiN).**
+- **Three headline conclusions:** (1) every measured volume indicator is materially above the 2014 baseline; (2) the Beatles-attributable share of spend remains an assumption, not a measurement, pending Beatles Story booking data and LCRDP survey data; (3) the correct output is a scenario range, not a single replacement figure.
+- **If you only read one section, read §7** (caveats register: what must not be claimed).
+
+---
+
+## 1. Purpose and method
+
+- **Brief:** update the 2016 Beatles economic and cultural impact assessment for the Beatles Legacy Group, and inform the linked feasibility question of a possible new Beatles visitor experience.
+- **Constraint:** ~£10,000, desk-based, ~8 weeks. **No fieldwork budget**, so no neutral-location visitor surveys, and no direct measurement of visitor motivation.
+- **Method:** improve the traceability and grading of stakeholder evidence; distinguish measured data (E1–E3) from verbal estimates and impressions (E4–E5); double-source material claims; report as an aggregated, anonymised whole.
+- **Standing rule:** any updated headline figure is an *informed, outline estimate*, not a measurement, unless stronger primary evidence arrives.
+- **Structural precedent adopted:** the AMION Eurovision 2023 evaluation (LCRCA-commissioned, same data stack — BID footfall, L1, card spend, STEAM, mobile data) is the city's own accepted template. The final report should mirror its executive-summary cascade table, its RAG-rated source table, its explicit disbenefits section, its two-stage design (desk-based stage now; measured-attribution stage later), and its case-study appendix. Register §M lists the seventeen borrowable assets and the one gap it exposes — AMION had 3,500 visitor surveys for attribution; we have none until the LCRDP data lands. Two assets deserve emphasis: AMION counted **non-attending visitors** (21% of Eurovision visitors came for the event but attended nothing ticketed — the accepted-method precedent for counting free-touchpoint Beatles visitors), and its mobile-phone data was **commissioned by LCRCA from Place Informatics** — if that licence is still live, it is a possible origin/motivation proxy without fieldwork (ask Wyatt, 16 Sept).
+
+## 2. The 2016 baseline: now verified at source
+
+The full 48-page report is held (`2016 Beatles Legacy report.pdf`). What it actually says:
+
+| Component | Turnover | Jobs |
+|---|---|---|
+| Direct Beatles-specific activity | ~£39m | ~690 |
+| Indirect | ~£15.64m | ~276 |
+| Catalytic visitor spending | ~£155.3m | ~5,021 |
+| **Gross** | **~£210m** | **~5,990** |
+| **Net (after deadweight, leakage, displacement, multipliers)** | **£81.9m** | **2,335** |
+
+Attribution assumptions used: **5% of day visitors and 20% of staying visitors** Beatles-motivated; ~30% leakage (per English Partnerships 2008 additionality guidance). Survey basis cited: 65% of overseas staying visitors and 43% of UK staying visitors named the Beatles as a key reason (LEP benchmarking, 2012 vintage).
+
+**Internal tension to flag:** the report's conclusion claims "an estimated half of all international visitors come at least in part because of the Beatles", which is materially stronger than the 20% staying-visitor assumption actually modelled. Any update must take a defensible position rather than inherit the ambiguity.
+
+## 3. What has demonstrably changed since 2014: volume evidence
+
+| Indicator | 2014–16 baseline | Current | Status |
+|---|---|---|---|
+| NT childhood homes (Mendips + Forthlin Rd) | 10,000 (2013) | 27,135 (2025–26) | **Verified, ~2.7x** |
+| Beatles Story | 254,000 (2013) | ~293,000 (2026, verbal); ~320k pre-COVID peak; income up despite lower footfall | Verbal, consistent with STEAM 240,750 (2024) |
+| Cruise calls / passengers | 63 calls / 80,759 pax (2016) | 112 calls / 204,153 pax (2025); 118 / ~250k forecast (2026) | **Verified, ~doubled** |
+| Cruise Beatles excursions | n/a | 482 Beatles coaches + 254 city-highlights coaches ≈ 27,080 people ("~85% accurate"); ~600–900 on Fab Four taxis | Verbal estimate, pending ship-level reconciliation |
+| City-centre footfall | ~54m (2016) | ~88.8m (2025) | **Direction robust; +64% overstates**: camera set expanded post-2019, Mathew Street only from 2020. Like-for-like analysis required |
+| City-centre card spend | n/a (series starts 2024) | ~£1.1–1.4bn/yr | Verified series, no pre-2024 baseline |
+| Liverpool ONE | n/a | Tourism ≈ 25% of annual footfall; ~23% of Beatles-adjacent-area footfall (Pier Head, Mathew Street, Albert Dock) flows into L1 | Verbal, data promised |
+| Cruise-day uplift at L1 | n/a | +23% / +9% / +8% on consecutive 3,000-pax ship days | Verbal; daily event log exists |
+| Hotel occupancy | 75.4% (2015) | ~71–83% monthly (2025–26); RevPAR +8% to £73.45 (BID-attributed); +2,539 rooms in pipeline | Verified series; pipeline is supply, not demand |
+
+**New structures that did not exist in 2014:** Strawberry Field as a ticketed attraction (~70% group sales, cruise-driven); Liverpool Beatles Museum (search competition and brand confusion, per Di Glover); the ABID subvention fund; Liverpool Music Heritage Trail (12 plaques + QR/Spotify); Beatles content inside NML's Wondrous Place gallery (free, uncounted in 2016).
+
+**External context has also shifted:** the rights-holder's posture toward Liverpool has materially strengthened in the past year (detail: §10.4, confidential), and a major screen-release event in 2028 creates a planned demand step-change that no current dataset captures. The model should carry an explicit post-2028 uplift scenario, labelled as projection. The 21 May practitioner summit (~35–40 attendees, transcripts held) reached the same conclusion independently — its consensus was "a window between now and then to better organise ourselves".
+
+## 4. The attribution problem: the binding constraint
+
+The study's own finding is that no Beatles motivation dataset exists anywhere in the evidence base; every interview to date has been consistent with that (no stakeholder has produced one, and Gallagher confirmed he had repeatedly sought the trail analytics precisely because nothing else exists). Specifically:
+
+- **Volume is measurable; motivation is not.** We can count attraction visitors, cruise excursionists, and footfall. We cannot yet say what share of city-wide visitor spend is Beatles-driven.
+- **The Liverpool ONE figure needs care.** The ~23% crossover is (a) footfall, not spend; (b) a *geographic* proxy: people near Pier Head or Mathew Street are not necessarily Beatles-motivated (Mathew Street is a nightlife district; Pier Head is the waterfront); (c) unverified pending data.
+- **Footfall growth ≠ spend growth.** L1's summer 2026: footfall +6–7%, spend flat, with visitors arriving in large groups, not all spending. Any model that scales spend off footfall inherits this error.
+- **Beatles Week uplift cannot be isolated** at L1; the late-August back-to-school spike swamps it. Do not claim a Beatleweek retail effect.
+- **Two assets could narrow the gap:** (i) Beatles Story booking-point data (origin + "how did you hear", promised ~20 Sept); (ii) LCRDP/Anna Rees on-site "reason for visiting" surveys run at Liverpool ONE, with raw data to be requested via Natalie Wyatt. If "Beatles" is a coded response option, this is the nearest thing to fieldwork evidence in existence.
+- **The Spencer interview (14 Sept) inverts the value ranking the study has carried:** overnight coach-package visitors (Trafalgar/Globus/Contiki/Shearings-type) stay in hotels, dine, shop and pay for guiding — while cruise passengers eat on board and carry little spend ashore. The high-value axis is staying-vs-day, not cruise-vs-land; and the coach market has **no arrival count anywhere in the evidence base** — it is invisible to official data. First direct motivation answer of the study: her client base "come here specifically for the Beatles". MMT booking data (McDermott, 23 Sept) is the natural test. Register §L.
+- **Spencer also supplies a necessary dissent** on the L1 crossover proxy: Mathew Street footfall includes weekend stag/hen traffic with no Beatles motivation — "half the people there couldn't name all four". The 23% crossover figure should carry this dilution caveat explicitly.
+- **A third route may exist without fieldwork:** the Eurovision evaluation used Place Informatics mobile-phone data (commissioned by LCRCA) to isolate additional visitors from baseline footfall. If LCRDP still holds that licence, it could provide origin/dwell data around Beatles sites — to be raised at the 16 Sept Wyatt interview.
+- **Free-touchpoint visitors are countable under the accepted method:** AMION's Eurovision evaluation included ~21% of visitors who came for the event but attended no ticketed event. The 2016 report's paid-attraction frame excluded the equivalent Beatles visitor; the update can include them with methodological cover, subject to the data above.
+
+## 5. Overnight-visitor levies: context, not attribution
+
+Two distinct mechanisms; do not conflate.
+
+- **ABID Charge (current):** £2/room/night; city-centre BID footprint only; **£45,000 rateable-value threshold**; ~**85 levy-paying businesses**. Year-1 actual levy income **£1,630,637** vs the "£9.2m over two years" projection. **BID's own documents conflict; resolve before quoting**. £1.27m sat in reserves at year-end. Claimed effects (+9.4% occupancy when subvention occurs; +8% RevPAR) are BID-attributed, not independently verified.
+- **Mayoral Overnight Visitor Levy (proposed):** announced 10 Sept 2026; government requires a **percentage of accommodation cost**, not a flat fee; region-wide incl. short-term lets/Airbnb; mayoral estimate ≤**£18m/yr**; expected post-Dec 2027 when ABID ends; **rate unannounced**; **no rateable-value threshold** in the framework. A small-provider threshold (nights-let / low-cost / low-turnover basis) was consulted on but its outcome is unconfirmed. National exemptions: temporary accommodation, shelters/refuges; local discretion for e.g. campsites.
+- **Analytical relevance:** the ABID base misses the accommodation the Beatles market disproportionately uses (STLs, small independents, non-centre). The levy figures are **public-revenue estimates, not Beatles-attributable impact**; use as context only.
+- Reference implementation: Edinburgh 5% of accommodation cost net of VAT, 5-night cap, all accommodation types (live July 2026). Glasgow 5% Jan 2027; Aberdeen 7% Apr 2027.
+
+## 6. Feasibility-relevant findings
+
+- **Capacity ceiling is real:** Beatles Story runs 60 per 15-minute slot; cruise growth cannot be absorbed within current hours; a larger/new site is in its five-year strategy. Demand pressure is corroborated, not hypothetical.
+- **Commercial headroom is narrower than headline turnover suggests** [detail: §10.1 CONF].
+- **A cautionary precedent exists:** the British Music Experience still trades but has never gained traction (listed-building signage limits, one-visit structure, no marketing budget) [detail: §10.2 CONF].
+- **Rights-holder engagement is conditional:** the governing distinction is free/non-commercial versus paid use [detail: §10.3 CONF].
+- **A credible new entrant and a rights-holder investment posture change exist simultaneously** [detail: §10.4 CONF: HIGHLY SENSITIVE; see also `260914 CONFIDENTIAL - Strategic Implications Note.md`].
+- **Governance appetite is uneven:** operators' trust is improving post-summit, but civic and institutional support is oriented to large events rather than slow groundwork [detail: §10.5 CONF]. Refinement from the AMION read: the city already has event-delivery machinery (LVEN, Music Board, SAG/JAG documented in the Eurovision report) — the gap is not absent machinery but no standing coordination for a *permanent* draw.
+- **Employment and GVA constants are now available on accepted terms** (register M15): STEAM's £96,781 visitor-spend-per-FTE, Experian's £38,120 GVA-per-FTE, and the 1.30/1.35/1.40 geography multipliers are what LCRCA accepted for Eurovision. If an updated figure is computed, using these constants is more defensible than the 2016 report's 2008-vintage additions.
+- **A plausible archive model exists:** university digitisation plus museum front-end plus loans (cf. The Beat Goes On 2008, ~90% borrowed material). Constraints: estates may monetise privately as custodianship passes generations; parity problem ("I'm not doing it if they're not doing it").
+- **Media-moment sensitivity is documented, not hypothetical** (summit, register K1): McCartney's "Dungeon Lane" album created a new pilgrimage site within weeks — guides already run tours there; Carpool Karaoke did the same for the Philharmonic; Harrison's childhood-home area is seeing unannounced walk-ups. The 2028 films will create pressure points faster than infrastructure adapts.
+- **No gateway exists** (summit, K4): practitioners independently proposed a "Beatles Hub"; production companies have no directory or contact point into the city; Visit Liverpool is paid membership while Music City is free-upload. The coordination gap is practitioner-felt, not just our analysis.
+- **Guide regulation is practitioner-demanded and has failed before** (summit, K3): council enforcement capacity was the blocker; room consensus for code of conduct, insurance, DBS. LCRCA's Sarah Lovell suggested the Destination Partnership as convenor — a live thread for the Wyatt interview.
+- **Penny Lane has a failed-funding precedent** (summit, K2): Development Trust coach-parking plans died unfunded; the field is a council asset in administration; participants floated overnight-levy income as the funding route.
+
+## 7. Caveats register: what must NOT be claimed
+
+1. Do not quote **+64% footfall** without the like-for-like camera caveat.
+2. Do not conflate the **ABID £2 charge** with the **mayoral percentage levy**; do not present the £45k RV threshold as applying to the mayoral levy; do not present the £18m as settled or Beatles-related.
+3. Do not imply a **second cruise terminal exists**; it is planned and permit-dependent. The Isle of Man Ferry Terminal (2024) is a different facility.
+4. Comparator attribution rates (Nashville 60%, Hamburg 15–20%, Austin 25%) remain **unverified**; illustrative only or drop. Memphis has a specified population but no located source.
+5. The 2016 "half of international visitors" claim and the 5%/20% model assumptions are **in tension**; present the range honestly.
+6. NT weekly/daily figures are **pixel-digitised estimates** constrained to exact card totals; label as `image_digitised_estimate`, never as measured.
+7. ABID yield: **£1.63m actual vs £9.2m/2yr projection**. Unresolved conflict in BID's own documents.
+8. LCRCA's own releases cite both **£6.8bn/55k jobs** and **£6.25bn/60m visitors**. Cite carefully, note vintage.
+9. Cruise excursion volumes (~27,080) are a **self-declared ~85%-accurate estimate**; reconciliation against the ship-level schedule is outstanding.
+10. Football/event cross-visitation is **observable but unproven**; treat as plausible spillover, not measured impact.
+11. Stakeholder figures carry **commercial incentives** (attraction operators, cruise port, BID); grade accordingly.
+12. **[CONF] items never appear in shared outputs.** The 4 September stakeholder interview (§10.4, implications note) carries extreme-caution handling: unattributed trend statements only in the report; no names, budgets, projects, or relationship detail may be quoted or paraphrased in any circulated document.
+13. **Summit transcripts anonymise speakers** (Otter "Speaker N"). Do not attribute statements to named participants without a full-transcript read; the room was also self-selecting practitioners, not a representative sample.
+14. **The 88.8m footfall figure is BID-scope only** (resolved via Williams, register J3): Liverpool ONE and Albert Dock feed a separate combined Springboard "Liverpool benchmark". Do not present 88.8m as citywide, and do not add L1's figures to it without checking for counter overlap.
+15. **Geography splits carry a respondent-perception error**: AMION's own caveat — survey respondents do not know LA vs LCR boundaries. Any Liverpool/LCR split we present inherits this; footnote it (their convention: state what is and isn't adjusted whenever comparing figures across bases).
+16. **Do not import AMION's additionality rates as ours**: their leakage 28% and displacement 20% are survey-derived for a nine-day event. They are the accepted-constant alternative to the 2016 report's 2008-vintage rates, but must be labelled as such, not treated as measured for the Beatles context.
+17. **Employment figures in "one-year temporary FTEs"**: AMION's honest unit for event impacts. Any Beatles jobs figure should state whether it is permanent FTEs, one-year equivalents, or spend-supported employment — the units are not interchangeable.
+
+## 8. Confidence classification (deepthink)
+
+- **SUPPORTED:** all volume-growth directions; cruise doubling; NT ~2.7x; the absence of any motivation dataset; footfall≠spend divergence.
+- **PLAUSIBLE:** retail spillover at meaningful scale (23% crossover, if verified); staying-visitor spend premium; Beatles excursion share of cruise activity.
+- **UNKNOWN:** any replacement point figure; the mayoral levy rate and threshold outcome; Beatles share of city-wide spend.
+- **UNSUPPORTED if claimed:** a Beatles-attributable city-wide retail figure; Beatleweek uplift; precise updated headline number.
+
+## 9. Gate verdicts
+
+- **SHELDON: PARTIALLY PROVEN.** Real transcripts, datasets and the source report exist; the load-bearing data (Beatles Story booking data, L1 spreadsheets, LCRDP surveys) is promised, not held.
+- **THAD: BLOCK — PROOF FAILURE** if published today with a point estimate or any §7 item uncaveated. Recovery path is wording and scenario framing, not new fieldwork. Re-review gate: receipt of Beatles Story data + L1 spreadsheets + STEAM segmentation.
+- **BLINDSPOT, hostile-reader test:** the first question will be "doubled on what evidence?" The defensible answer is: measured volume growth across every available series, plus an honestly-labelled assumption range on attribution rather than a single number. Presentational risks: leaked confidential items would damage stakeholder trust and the data-collection programme itself.
+
+---
+
+## Appendix A: Primary sources held (repo / Drive)
+
+| Source | File / location | Coverage | Grade |
+|---|---|---|---|
+| 2016 impact report (48pp) | `2016 Beatles Legacy report.pdf` | Baseline model, assumptions, derivation | E1 |
+| Gallagher interview | `260818 Paul Gallagher BLG.md` | Attribution gap, Apple terms, governance, archive model | E4–E5 (insider) |
+| Cruise port interview | `interviews/260820_Ian_Kay_Paul_Mullins_Liverpool_Cruise_Port.txt` | Excursion volumes, leakage, seasonality | E4 |
+| Strawberry Field interview | `interviews/260824_Sue_Harvey_Strawberry_Field.md` | Group/cruise sales mix, MMT relationship | E4 |
+| Beatles Story interview | `Beatles Impsct Study Meeting_transcript.txt` (+ `_summary.txt`) | Footfall, income, trade share, capacity, competition | E4 |
+| Liverpool ONE interview | `interviews/260914_Andy_Jones_Landsec.md` | Crossover, tourism share, event log, data promise | E4 |
+| Tessler interview | `interviews/260813_Holly_Tessler.md` | Summit context, BLG governance, siloing, 2016 method critique — mined, register §I | E4 |
+| BID data call | `interviews/260907_Calum_Williams_Liverpool_BID.md` | Counter scope, Liverpool benchmark composition, trend read — mined, register §J | E2/E4 |
+| Beatles Summit transcripts | `interviews/Beatles Summit transcripts/` (22 files) | 21 May summit: media-moment sensitivity, Penny Lane, guide regulation, hub gap — mined, register §K | E3–E4 |
+| Spencer interview | `interviews/260914_Jackie_Spencer.md` | Coach-vs-cruise value inversion, invisible coach market, guide quality/regulation, Penny Lane trust closure, Mathew Street dissent — mined, register §L | E4 |
+| Unrecorded meetings | Dale Roberts (8 Sept); National Trust joint interview — Andy Jones + Justin Pearce | Notes only, no transcript | E5 |
+| BID footfall | `Footfall - Beatles Impact Report.xlsx` | 9 counters, 2015+ (Springboard) | E2 |
+| BID spend | `Spend - Monthly.xlsx`, `Spend - Daily.xlsx` | 2024+ monthly, Jul 2025+ daily (Beauclair) | E2 |
+| Hotel occupancy | `Hotel Occupancy - Daily/Monthly.xlsx` | CoStar via BID | E2 |
+| NT dashboards | `Beatles NT.zip` + `260914 Beatles_chart_data_extracted.xlsx` | Annual exact; weekly/daily digitised estimates | E2 / flagged |
+| Cruise series | Jon Bains `260814 Liverpool Cruise analysis` + `Cruise Call Analysis.xlsx` (Drive) | Calls/passengers 2016→2026 | E2 |
+| ABID documents | `ABID-Hotel-Data-Update-June-2026.pdf`; `ABID one year on.pdf`; ABID page HTML | Levy design, threshold, year-1 accounts | E1 |
+| Mayoral levy | `New powers for Mayor to introduce overnight visitor levy.html` (LCRCA) + gov.uk release + consultation PDF | Framework, exemptions, estimate | E1 |
+| Calum Williams emails | `260902/260908 ... Liverpool BID.eml` | Data scope, attribution, camera caveat | E1 |
+| AMION Eurovision report | `AMION Eurovision report.pdf` (64pp, Oct 2023, LCC/LCRCA) | Methodology precedent — RAG source table, gross→net cascade at 3 geographies, on-site skew exclusion, deadweight via counterfactual; register §M | E1 (as precedent) |
+| MRI footfall benchmark | `MRIOnLocationFFWeeklyBenchmarkReportWk36...PDF` | National context | E2 |
+| STEAM highlights | `Steam Results 2025.pptx` (Drive) | Visitor economy topline | E2 |
+| Confidential interview, 4 Sept | `interviews/260904_Robin_Kemp_CONFIDENTIAL.md` | Rights-holder posture, 2028 demand shock, governance/resource gaps | E5 [CONF: extreme caution] |
+| Data request | `interviews/260908_Data_Request_Di_Glover_Beatles_Story.md` | Outstanding-data spec | n/a |
+| Evidence register | `Appendix - Evidence Register and Double-Sourcing.md` | All claims graded, A–H rows | n/a |
+
+## Appendix B: Secondary / corroborating sources
+
+| Source | URL | Corroborates |
+|---|---|---|
+| GOV.UK levy announcement (10 Sept 2026) | gov.uk/government/news/local-leaders-handed-powers-to-drive-investment-in-communities | Percentage requirement, mayoral discretion, £18m context |
+| LCRCA levy release (11 Sept 2026) | liverpoolcityregion-ca.gov.uk/news/new-powers-for-mayor-to-introduce-overnight-visitor-levy | Post-2027 timing, STL inclusion, Rotheram £18m estimate |
+| Govt consultation paper (72pp) | assets.publishing.service.gov.uk/.../overnight-visitor-levy-in-england.pdf | Scope "irrespective of size", threshold consultation, exemptions |
+| Edinburgh Visitor Levy | edinburgh.gov.uk/business/scheme-edinburgh-visitor-levy | 5% / 5-night cap reference implementation |
+| HRO cruise terminal application | gov.uk assets | 2016 baseline 63 calls / 80,759 pax |
+| Port statistics via Bains | Drive files | 2025 actual 112/204,153; 2026 forecast 118/~250k |
+| LCRCA follow-up release | liverpoolcityregion-ca.gov.uk (second release) | £6.25bn / 60m figure, inconsistent with £6.8bn release |
+
+## Appendix C: Outstanding inputs (as at 14 Sept)
+
+| Input | Owner / route | Expected | Status |
+|---|---|---|---|
+| Beatles Story footfall, income, origin, channel, segmentation data | Di Glover | ~20 Sept | Promised; data request logged (`interviews/260908_...`) |
+| Liverpool ONE spreadsheets: footfall by entrance/hour, crossover, CACI ACORN/dwell, monthly sales | Andy Jones (Landsec) | 1–2 weeks | Promised 14 Sept |
+| LCRDP "reason for visiting" survey raw data + STEAM domestic/international split | Natalie Wyatt (LCRDP); Anna Rees contact named | 16 Sept meeting | Request planned |
+| Victoria McDermott / MMT booking data (overnight-package share vs cruise share) | Victoria McDermott | 23 Sept meeting | Confirmed; guide revised post-Spencer |
+| Jimmy Boland interview (Mathew Street ops: crowd composition, off-record data, management) | Jimmy Boland | 15 Sept | Confirmed; new guide written |
+| Strawberry Field footfall, group %, survey material | Sue Harvey | Open | Offered, not received |
+| Hard Day's Night Hotel data | Alfie Abbott; second route via ABID marketing sub-group | Open | No response |
+| Heritage Trail QR-scan / Spotify analytics | Paul Gallagher → Mike Stewart | Open | Gallagher committed on record |
+| NML Wondrous Place gallery footfall counts | NML / Laura Pye route | Open | New request identified 14 Sept |
+| Springboard Places attraction-level data + like-for-like camera-set check | James Russell | 21 Sept meeting | Confirmed |
+| Ship-level reconciliation of ~27,080 cruise excursion estimate | vs `Cruise Call Analysis.xlsx` (Bains, Drive) | Desk task | Not yet run |
+| BID-vs-L1 footfall coverage (is L1 inside the 88.8m?) | Calum Williams (BID) | Desk task | Question logged from Jones transcript |
+| Like-for-like footfall trend on consistent camera set | vs BID footfall workbook | Desk task | Needed before quoting +64% |
+| Comparison matrix "Theme map" rebuild | From `interview-guides/` | Desk task | Source file corrupt (see register §F) |
+| BID Eurovision impact report | Calum Williams (BID) | Open | Promised on 7 Sept call — event-impact comparator for 2028 scenario work |
+
+## 10. Confidential annex: internal only, do not circulate
+
+Items below were given in confidence or contain third-party commercial judgements. They inform strategy and feasibility reasoning only. **Never quote, paraphrase, or reference them in any shared output.**
+
+- **10.1 Beatles Story margins** [Gallagher]: "turns over a lot of money but margins are wafer thin"; copyright and overhead costs invisible at headline level. Consistent with Di Glover's account of licensing costs and competitive pressure. Implication: high gross turnover is not commercial headroom; feasibility options should not assume the incumbent can fund expansion alone.
+- **10.2 BME precedent** [Gallagher]: Harvey Goldsmith offered the British Music Experience to NML pre-pandemic; NML declined on the numbers. Implication: a national-museum rescue is not a fallback for a struggling attraction.
+- **10.3 Apple engagement terms** [Gallagher]: NML received music/film rights free for the non-commercial "In the Town Where I Was Born" experience; Apple's posture is support for authentic storytelling but "don't want you riding on our coattails... when it comes to money, they want to make it." Implication: free vs paid status governs Apple cooperation; a commercial experience pays full licensing.
+- **10.4 Rights-holder posture and competing project** [HIGHLY SENSITIVE]: the detailed picture now sits in `260914 CONFIDENTIAL - Strategic Implications Note.md` (primary interview, 4 Sept). In outline: rights-holder engagement with Liverpool has materially strengthened in the past year; a 2028 screen-release event is expected to drive a step-change in demand; and a credible new entrant could reshape the incumbent attraction economics. Gallagher's earlier remark that a confidential project "will probably blow the Beatles Story out of the water" is consistent with this picture. Implication: feasibility recommendations must plan for investment arriving faster than governance capacity, and for incumbents' economics to deteriorate further.
+- **10.5 Governance judgements** [Gallagher]: Laura Pye is passive on BLG operationally (though active on visitor-economy infrastructure via ABID and the levy endorsement); Claire McColgan/Culture Liverpool favour tentpole events over groundwork; university archives operate a gatekeeper culture and the Beatles MA is under threat; Holly holds the Sean Lennon relationship. Implication: a neutral data compact is the obvious fix but needs a non-Culture-Liverpool host and a senior sponsor.

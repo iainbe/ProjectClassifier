@@ -382,3 +382,14 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **Spot verification:** batch-card headlines confirmed verbatim against extracts (P34 £5.25bn/39,980 BRES; P32 £7.2bn/17,000 companies/Farnborough; P52 £492m/£616m/1,335 makers).
 - **Key deepthink finding:** the signature "hidden workforce" claim survives as "alternative-data estimate" but a definitional-difference-vs-measurement-correction caveat must follow it into prose.
 - **Key blindspot finding:** client-outcome-vs-Fifth-Sector-role conflation is the fatal risk if it reaches tender prose; the register discipline must survive translation.
+
+
+## Session 26/09/16: Sweep resumed; canonical moved to Shared Drive; P78 corrected
+
+- **Canonical folder moved to Shared Drive** (`Fifth Sector Project Classifier/spillover-toolkit`) — service-account robot access instead of personal token; mirror synced.
+- **Sweep run** (first since 26/09/12): 24,728 files tracked; 1 unregistered folder (Skills prompts — non-project, SKiN/WISHFUL definitions); 100 unregistered sources (90 P78 Beatles, 1 P81-WB6 v2.1, others); 4 VERSION_AMBIGUITY; 175 DRIFT (expected, empty-state artifact).
+- **P86-CSSAL**: already fully registered (PREFERRED_BIDDER, panel scores 92.83%, standstill ends 18/09). No action needed.
+- **P78-BEATLES card corrected**: 2016 Beatles Legacy report authorship verified from PDF — IPM/EIUA/ICC for LCC, NOT a Fifth Sector deliverable. "Repeat-measurement" framing → "baseline-update of third-party study". £81.9m is NET impact (after deadweight/leakage/displacement/multipliers), NOT turnover. Gross ~£210m / ~5,990 jobs added. Evidence Review gate verdicts recorded.
+- **3 new sources registered**: SRC-R5-016 (2016 report), SRC-R5-017 (Evidence Review, extracted), SRC-R5-018 (WB6 v2.1, not yet extracted). Sources now 129.
+- **C-G2-280 linked** to SRC-R5-016 + SRC-R5-017 via E-R5-016/017. Evidence links now 589.
+- **Evidence Review key findings**: PARTIALLY PROVEN (SHELDON); BLOCK: PROOF FAILURE if published with point estimate (THAD); FRICTION (SKiN). Beatles-attributable spend is assumption not measurement. 2028 demand shock (Mendes films, ~£250m marketing) unmodelled. Apple posture inversion (CONFIDENTIAL, Robin Kemp interview).
