@@ -1,3 +1,13 @@
+## 26/09/16 — Agent harness protocol (Alpha lead, Luna sidekick)
+
+**Trigger:** "Harness Alpha as main agent and Luna as sidekick" — Alpha = ChatGPT (plan), Luna = GLM-5.2 (implementation)
+
+- New `agent_harness_protocol.md` (PROPOSED, awaiting Iain's approval): roles, cycle, work-package and implementation-return formats, inherited toolkit rules, access terms, failure handling
+- Standing rule set: no external agent writes to a register — Alpha and Luna produce plans and candidate content only; Devin or Iain apply every register change
+- Access follows the existing `tools/JON_ACCESS.md` route: Drive share links/file IDs, never filesystem paths; local scripts stay with Iain/Devin
+- Phase 2 (API integration under `tools/agents/`) documented but **not authorised** — open questions on billing route, return retention and whether client-identifying material may enter either vendor's context
+- No register data changed this session
+
 ## 26/09/12 — Cardless batch complete: all 68 projects carded
 
 **Trigger:** "keep working through all outstanding cards, in batches"
