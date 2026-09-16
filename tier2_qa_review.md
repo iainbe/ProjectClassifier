@@ -7,6 +7,15 @@
 - Residual risk: the ten values are Devin-derived from lifecycle and publication-asset evidence, not confirmed by Iain. Each card and each per-project changelog entry says so. P10 is the weakest — a single-value field on a three-cycle project; the live 2026 cycle is stated in the value and must not be cited as delivered.
 - Drive canonical was behind while the credential was unusable; resolved the same day — see the Drive re-sync audit below.
 
+## Consistency audit — 26/09/16 (QA checklist automation)
+
+- The checklist was previously run by hand each batch, which means its pass record is unverifiable after the fact. `tools/qa_checks.py` makes it repeatable and, more usefully, makes a *failure* visible to anyone who runs it rather than only to the person who ran the batch.
+- Scope honesty: 12 of the 13 listed checks are automatable and check 11 (conflation) is not. Pattern matching cannot tell a comparator from a misassignment — that judgement needs the project scope and the source. The script says so in its output rather than implying full coverage.
+- Two of the checks (10 and 12) are review prompts, not pass/fail rules. Check 10's 14 hits were each read against the codebook distinction rather than bulk-corrected: 11 were genuine method outputs and were left alone. Treating a review prompt as an error list would have degraded eleven correct classifications to make a number go green.
+- The two reclassifications are conservative in the direction that reduces the claim: METHOD_OUTPUT→CONTEXT removes any implication that Fifth Sector produced the finding. No claim was promoted.
+- Residual risk: the script is only as good as its patterns. Check 9 keys on `£` and so misses bare numerics under currency headers — the same failure the 26/09/12 extraction rule documents. Check 10's baseline vocabulary is a fixed list. A clean run is evidence of no *detected* defect, not of correctness.
+- C-G2-481 is left unresolved on purpose. Deciding it needs the source read to establish whether the Beauhurst/IDBR comparison was ours; guessing either way would fabricate provenance.
+
 ## Consistency audit — 26/09/16 (shared drive migration)
 
 - The residual risk logged in the re-sync audit below (personal token, Iain's full Drive access) is closed: writes now run as the `dwvin-drive` service account, whose access is one shared drive. The OAuth remote was deleted rather than left configured as a fallback.

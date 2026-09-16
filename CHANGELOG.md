@@ -1,3 +1,14 @@
+## 26/09/16 — QA checklist automated; two claim reclassifications
+
+**Trigger:** "proceed with project classifier next step"
+
+- New `tools/qa_checks.py` runs the `AGENTS.md` QA verification checklist over the registers — key uniqueness, five foreign-key sets, the required-field rules, the NOT_AWARDED/EXPIRED rule, `value_basis` on monetary claims, and the two review prompts (baseline language in METHOD_OUTPUT, causal verbs outside EFFECT). Reports only; changes nothing; exits non-zero so it can gate a batch
+- Checklist result across 68 projects / 568 claims / 126 sources: **11 of 12 automatable checks clean.** No duplicate keys, no broken references, no missing effect_family/fifth_sector_role/attribution_strength, no monetary claim without `value_basis`, no live option on an unsuccessful bid
+- Check 10 flagged 14 METHOD_OUTPUT claims using sector-baseline language. Eleven are genuine method outputs on review (SNA of 272 businesses, the 1,711→922 crosswalk, the four-tier workforce model, programme delivery data) and were left alone. Two were reclassified to CONTEXT: **C-G2-457** (P09-CDEC — a general statement about collaborative innovation in the sector) and **C-G2-522** (P12-KIRK15 — below-VAT-threshold proportions, a mapped sector baseline)
+- **C-G2-481** (P08-LIVDCI, Beauhurst vs IDBR undercounting) left unchanged and flagged for Iain: it reads as a comparison of two third-party datasets rather than our output, but that turns on whether the comparison was our analysis. Recorded in the claim notes rather than decided by inference
+- `project_index.csv` regenerated — unchanged at 68 rows, 10 cleared for use; claim_type is not an index field
+- Checks 11 (conflation) and the full-read rule stay manual — both need the source read, not a pattern match
+
 ## 26/09/16 — P01-P10 citation_status recorded; clearance view unblocked
 
 **Trigger:** "re-sync to Drive then classify P01-P10 citation"

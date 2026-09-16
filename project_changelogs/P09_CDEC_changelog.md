@@ -94,3 +94,8 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 - `citation_status` added to the index card: DELIVERED_WORK — consultation delivered under an ADVISORY role.
 - Evidence: `01_projects.csv` lifecycle_status + `09_publication_assets.csv` (TENDER_ONLY_NOT_WEBSITE). Derived by Devin, pending Iain confirmation.
 - `reference_permission` unchanged — citation status is not permission to name the client.
+
+## Claim reclassification (26/09/16)
+
+- C-G2-457 `claim_type` METHOD_OUTPUT -> CONTEXT: "creative industry innovation tends to be highly collaborative..." describes a sector characteristic reported in the work, not an analytical deliverable our method produced. Surfaced by the new `tools/qa_checks.py` check 10.
+- No other field changed; the claim's evidence links and review_status stand.

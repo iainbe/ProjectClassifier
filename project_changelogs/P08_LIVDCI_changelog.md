@@ -111,3 +111,7 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 - `citation_status` added to the index card: DELIVERED_WORK — completed as PRIME, no publication evidence.
 - Evidence: `01_projects.csv` lifecycle_status + `09_publication_assets.csv` (TENDER_ONLY_NOT_WEBSITE). Derived by Devin, pending Iain confirmation.
 - `reference_permission` unchanged — citation status is not permission to name the client.
+
+## Claim flagged for review (26/09/16)
+
+- C-G2-481 (`Beauhurst suggests fewer than half of active Arts businesses recorded in IDBR`) flagged by `tools/qa_checks.py` check 10: it reads as a comparison between two third-party datasets (CONTEXT) rather than an output of our method. Left as METHOD_OUTPUT pending Iain's decision, with the ambiguity recorded in the claim notes rather than resolved by inference.
