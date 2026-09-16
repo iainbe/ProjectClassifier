@@ -7,6 +7,14 @@
 - Residual risk: the ten values are Devin-derived from lifecycle and publication-asset evidence, not confirmed by Iain. Each card and each per-project changelog entry says so. P10 is the weakest — a single-value field on a three-cycle project; the live 2026 cycle is stated in the value and must not be cited as delivered.
 - Drive canonical was behind while the credential was unusable; resolved the same day — see the Drive re-sync audit below.
 
+## Consistency audit — 26/09/16 (shared drive migration)
+
+- The residual risk logged in the re-sync audit below (personal token, Iain's full Drive access) is closed: writes now run as the `dwvin-drive` service account, whose access is one shared drive. The OAuth remote was deleted rather than left configured as a fallback.
+- Content verification after the move: the same 26-file `rclone check --download` passes through the service-account remote, so the move did not alter or lose file content.
+- The move preserves file IDs, which is what keeps `02_sources.csv` locators and any Places references valid. Had the folder been copied rather than moved, every ID would have changed — worth stating because the failure would be silent.
+- Sweep state was re-keyed rather than reset, so the next run compares like with like. A reset would have produced a report of 255 deletions and 255 creations and buried any genuine drift.
+- Residual risk: the sweep runs on Iain's machine and now needs the shared drive mounted by Drive for desktop. If it is not, the toolkit watch root silently walks nothing — `scan()` skips a missing base directory without error, so an absent mount reads as "no drift" rather than as a failure. Worth a guard if the sweep is relied on unattended.
+
 ## Consistency audit — 26/09/16 (Drive re-sync)
 
 - Drift check before writing: the five long-lived files being replaced (`project_index.csv`, `CHANGELOG.md`, `tier2_qa_review.md`, `10_review_history.csv`, `tools/regenerate_index.py`) were fetched from Drive and diffed against the pre-session repo commit. All identical, so no Drive-side edit was overwritten. Had any differed, the sync would have stopped for Iain rather than resolved automatically.

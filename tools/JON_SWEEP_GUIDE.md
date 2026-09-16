@@ -1,6 +1,6 @@
 # The Drive Sweep — guide + test for Jon
 
-**Your access:** `drive.google.com` signed in as **jon@thefifthsector.co.uk** → shared items → `Website 2026/spillover-toolkit`. Web Drive is the canonical route — never filesystem paths (they only exist on Iain's machine).
+**Your access:** `drive.google.com` signed in as **jon@thefifthsector.co.uk** → **Shared drives** → `Fifth Sector Project Classifier` → `spillover-toolkit`. Web Drive is the canonical route — never filesystem paths (they only exist on Iain's machine).
 
 **For Places:** pull toolkit material via **share link / file ID** (right-click → Share → copy link; the ID is stable across machines and accounts). Store that, not paths.
 

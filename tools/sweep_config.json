@@ -1,6 +1,8 @@
 {
   "comment": "Drive sweep matrix \u2014 what counts as a gap. Edit watch_roots/patterns to tune.",
   "drive_root": "/Users/iainbe/Library/CloudStorage/GoogleDrive-iain@thefifthsector.co.uk/My Drive",
+  "shared_drive_root": "/Users/iainbe/Library/CloudStorage/GoogleDrive-iain@thefifthsector.co.uk/Shared drives/Fifth Sector Project Classifier",
+  "toolkit_path": "spillover-toolkit",
   "watch_roots": [
     {
       "path": "Active projects",
@@ -23,7 +25,8 @@
       "reason": "late-arriving archive material"
     },
     {
-      "path": "Website 2026/spillover-toolkit",
+      "path": "spillover-toolkit",
+      "root": "/Users/iainbe/Library/CloudStorage/GoogleDrive-iain@thefifthsector.co.uk/Shared drives/Fifth Sector Project Classifier",
       "severity": "DRIFT",
       "reason": "register edits outside governed sessions"
     }

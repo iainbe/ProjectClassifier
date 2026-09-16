@@ -2,7 +2,7 @@
 
 **Purpose:** the bid and project records exist to stop retroactive reconstruction. This document defines the pipeline from live event → register → repo, and who/what triggers each step.
 
-**Canonical location:** this Drive folder (`Website 2026/spillover-toolkit/`) is the working canonical. `Website 2026/ProjectClassifier/` is the versioned git mirror — it receives periodic sync commits. Never edit CSVs in the repo directly; edit here, then sync.
+**Canonical location:** the `spillover-toolkit/` folder in the `Fifth Sector Project Classifier` shared drive (moved there from Iain's My Drive `Website 2026/` on 26/09/16) is the working canonical. `Website 2026/ProjectClassifier/` is the versioned git mirror — it receives periodic sync commits. Never edit CSVs in the repo directly; edit here, then sync.
 
 ---
 

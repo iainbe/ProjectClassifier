@@ -48,17 +48,19 @@ def scan():
     """Walk watch roots -> {relpath: (mtime, size)} and list of icloud placeholders."""
     files, placeholders = {}, []
     for wr in CFG['watch_roots']:
-        base = os.path.join(DRIVE, wr['path'])
+        wr_root = wr.get('root', DRIVE)
+        base = os.path.join(wr_root, wr['path'])
         if not os.path.isdir(base): continue
         for root, dirs, names in os.walk(base):
             dirs[:] = [d for d in dirs if not ignored(d)]
             for n in names:
-                rel = os.path.relpath(os.path.join(root, n), DRIVE)
+                abs_path = os.path.join(root, n)
+                rel = os.path.relpath(abs_path, wr_root)
                 if ignored(rel): continue
                 if n.endswith(CFG['icloud_suffix']):
                     placeholders.append(rel); continue
                 try:
-                    st = os.stat(os.path.join(DRIVE, rel))
+                    st = os.stat(abs_path)
                     files[rel] = (st.st_mtime, st.st_size)
                 except OSError:
                     pass
@@ -66,7 +68,7 @@ def scan():
 
 def classify(rel, proj_folders, src_names, non_proj, tender_folders):
     # toolkit-internal changes
-    if rel.startswith('Website 2026/spillover-toolkit/'):
+    if rel.startswith(CFG['toolkit_path'] + '/'):
         return ('DRIFT', 'register/toolkit file changed outside a session')
     # inside a registered project folder?
     for pf, pid in proj_folders.items():

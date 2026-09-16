@@ -9,6 +9,18 @@
 - `project_index.csv` regenerated: 10 of 68 cleared for use (was 0). Per-project changelog entries written for P01-P10
 - Derivations are Devin-derived and marked pending Iain confirmation on each card
 
+## 26/09/16 — Toolkit moved to a shared drive; Drive access is now a service account
+
+**Trigger:** "the scoped robot account needs the org-policy exemption - how?"
+
+- The toolkit now lives in the `Fifth Sector Project Classifier` **shared drive** as `spillover-toolkit/`, moved out of Iain's My Drive `Website 2026/`. File IDs are unchanged, so existing share links and `02_sources.csv` file-ID references still resolve
+- Drive access is the `dwvin-drive@project-dashboard-auth-501608` service account (Content manager on the shared drive), replacing the personal OAuth token used earlier today — that remote has been deleted from this machine. Devin's Drive writes are now attributed to a robot account with access to this one shared drive, not to Iain's whole Drive
+- Route history, for the record: service-account keys were blocked by the org policy `iam.disableServiceAccountKeyCreation` (exempted for this project only); keys then failed against My Drive with `storageQuotaExceeded`, because service accounts cannot own files in a personal Drive. The shared drive is what makes the robot account viable, not the policy exemption alone
+- `tools/drive_sweep.py`: watch roots may now carry a `root` override, so the toolkit can be swept from the shared-drive mount while the project/proposal roots stay in My Drive. The hardcoded DRIFT prefix became `toolkit_path` in the config
+- `tools/sweep_state.json` re-keyed (255 of 24,529 entries) from `Website 2026/spillover-toolkit/...` to `spillover-toolkit/...`, so the next sweep reports real changes rather than 255 deletions plus 255 additions
+- Path references updated in `tools/JON_ACCESS.md`, `tools/JON_SWEEP_GUIDE.md`, `register_update_workflow.md`. The one-off historical scripts (`register_g2_*.py`, `extract_text_*.py`, `deepen_*.py`) keep their old absolute paths — they are spent run-once artefacts, not live tooling
+- **Iain action:** Drive for desktop must have the shared drive available locally before the next scheduled sweep, at `Shared drives/Fifth Sector Project Classifier`
+
 ## 26/09/16 — Drive canonical re-synced
 
 **Trigger:** "re-sync to Drive then classify P01-P10 citation" (first half, completed after credential resolved)

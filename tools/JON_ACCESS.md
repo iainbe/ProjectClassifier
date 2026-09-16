@@ -1,10 +1,10 @@
 # Access note for Jon — use the web-based Drive
 
-**Route:** `drive.google.com` signed in as **jon@thefifthsector.co.uk** → shared items → `Website 2026/spillover-toolkit`.
+**Route:** `drive.google.com` signed in as **jon@thefifthsector.co.uk** → **Shared drives** → `Fifth Sector Project Classifier` → `spillover-toolkit`. (The toolkit moved out of Iain's My Drive `Website 2026/` on 26/09/16 — file IDs are unchanged, so existing share links still resolve.)
 
 ## Why this route
 
-- The toolkit lives in Iain's Drive; the shared web access is your canonical way in — **not** filesystem paths
+- The toolkit lives in the `Fifth Sector Project Classifier` shared drive; the shared web access is your canonical way in — **not** filesystem paths
 - Local paths like `/Users/iainbe/.../My Drive/...` exist only on Iain's machine. Anything written for you uses Drive-relative paths or share links
 - **For Places:** when pulling toolkit material, use the **Drive share link / file ID**, never a filesystem path. File IDs are stable across every machine and account; paths are not
 
