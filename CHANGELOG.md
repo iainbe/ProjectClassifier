@@ -1,6 +1,6 @@
 ## 26/09/16 — Agent harness protocol (Alpha lead, GLM sidekick)
 
-**Trigger:** "Harness Alpha as main agent and Luna as sidekick" — Alpha = ChatGPT (plan), GLM-5.2 (implementation); sidekick renamed Luna → GLM at Iain's instruction in the same session
+**Trigger:** "Harness Alpha as main agent and GLM as sidekick" — Alpha = ChatGPT (plan), GLM-5.2 (implementation)
 
 - New `agent_harness_protocol.md` (PROPOSED, awaiting Iain's approval): roles, cycle, work-package and implementation-return formats, inherited toolkit rules, access terms, failure handling
 - Standing rule set: no external agent writes to a register — Alpha and GLM produce plans and candidate content only; Devin or Iain apply every register change
