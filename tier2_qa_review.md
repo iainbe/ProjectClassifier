@@ -1,3 +1,11 @@
+## Consistency audit — 26/09/16 (SKiN index corrections)
+
+- `project_index.csv` regenerated after the indexer change: 68 rows before and after; every pre-existing column value byte-identical except `precedent_strength`, which was the field being normalised. No register CSV touched.
+- `cleared_for_use` is strict by design: a missing `citation_status` is a blocker, not an inferred pass. Consequence is that the flag reads NO for all 68 projects, including the 10 REVIEWED pilot cards — those cards predate the 26/09/12 two-field citation model and were never migrated. Recorded as a finding rather than worked around; `commercial_reuse=APPROVED_NAMED` is a reuse decision and is not evidence of `citation_status`.
+- `arc_tags` is a derived browsing view produced by regex over geography and project name. It deliberately carries no claim of project identity — the `AGENTS.md` differentiation rule still governs any claim or source assignment.
+- Residual risk: `precedent_strength` normalisation takes the first controlled token, so a hyphenated "MODERATE-STRONG" records MODERATE with the full wording in `precedent_note`. Where the qualifier matters, the note must be read.
+- Canonical-location caveat: this work was done in the repo mirror because the Drive canonical is not reachable from this machine — the stored `GOOGLE_DRIVE_SERVICE_ACCOUNT_JSON` secret holds a `gcloud` command, not a key. Drive must be re-synced from the repo for these two files, or the change re-applied there.
+
 ## Consistency audit — 26/09/16 (agent harness protocol)
 
 - Documentation-only session: `agent_harness_protocol.md` added; no register, card or changelog data touched, so no FK or schema checks were required.

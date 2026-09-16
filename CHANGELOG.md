@@ -1,3 +1,14 @@
+## 26/09/16 — Megaplan resumed: SKiN index corrections
+
+**Trigger:** "Resume #megaplan" — next machine-doable step from the 26/09/12 corpus gate (SKiN corrections 1-3)
+
+- `tools/regenerate_index.py` extended: derived `cleared_for_use` + `cleared_blocker` gate (REVIEWED card AND citable `citation_status` AND `reference_status=CLEARED`), controlled `precedent_strength` (STRONG/MODERATE/WEAK/NOT_ESTABLISHED) with the original wording moved to `precedent_note`, plus `citation_status`/`reference_permission`/`reference_status` surfaced and `arc_tags` for multi-project geographies
+- `project_index.csv` regenerated: 68 rows, 68 carded, no pre-existing column values changed; strengths now 24 STRONG / 35 MODERATE / 6 WEAK / 3 NOT_ESTABLISHED (was polluted with sentence values)
+- **Finding: `cleared_for_use=NO` for all 68.** The 10 REVIEWED pilot cards (P01-P10) predate the two-field citation model — they carry `commercial_reuse=APPROVED_NAMED` and `reference_status=CLEARED` but no `citation_status`. The gate does not infer citation_status from commercial_reuse; migrating those 10 cards is the unblocking step and needs Iain's per-card DELIVERED_WORK/PUBLIC_REPORT call
+- Arc tags: LIVERPOOL_LCR 9, MANCHESTER 6, WAKEFIELD 6, LANCASHIRE 5, WEST_MIDS 3, SOUTH_YORKS 3, DERBY 3, KIRKLEES 2, SOLENT 2 — browsing view only, never a claim that tagged projects are the same project
+- Gate routes still human-gated and untouched: R3 walkthrough of the ~15 highest-precedent cards, sending the 35 DRAFTED permission asks, 26 blank `contracting_role` fields
+- Sweep check (session-start rule): `SWEEP_LATEST.md` (26/09/12 10:15) shows DRIFT only, all from our own session edits — nothing outstanding
+
 ## 26/09/16 — Agent harness protocol (Alpha lead, GLM sidekick)
 
 **Trigger:** "Harness Alpha as main agent and GLM as sidekick" — Alpha = ChatGPT (plan), GLM-5.2 (implementation)
