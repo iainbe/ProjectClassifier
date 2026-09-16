@@ -94,3 +94,9 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 - **Register repair:** contracting_role=ADVISORY, prime_contractor=NOT_APPLICABLE.
 - **Card corrections:** unverified "five case reused in CELL (P79)" claim removed (absent from P79 extracted text) — set NOT_ESTABLISHED.
 - **Status:** Index card REVIEWED.
+
+## citation_status recorded (26/09/16)
+
+- `citation_status` added to the index card: DELIVERED_WORK — SIPF application support delivered; bid NOT_AWARDED, so no live option may be implied.
+- Evidence: `01_projects.csv` lifecycle_status + `09_publication_assets.csv` (TENDER_ONLY_NOT_WEBSITE). Derived by Devin, pending Iain confirmation.
+- `reference_permission` unchanged — citation status is not permission to name the client.

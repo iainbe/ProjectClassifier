@@ -1,3 +1,35 @@
+## Consistency audit — 26/09/16 (P01-P10 citation_status)
+
+- Ten cards edited, one field inserted each; no other card content touched and no register CSV touched. `project_index.csv` regenerated: 68 rows, 10 `cleared_for_use=YES`.
+- `PUBLIC_REPORT` was considered and rejected for all ten: no card, publication asset row or register field evidences a web-published version, and `09_publication_assets.csv` explicitly records TENDER_ONLY_NOT_WEBSITE. An absence of publication evidence is recorded as DELIVERED_WORK rather than assumed either way.
+- Attribution risk handled inside the value: P04/P05 state the BOP prime/associate structure, P06/P07 state that the bids were not awarded, P03 names the reconciliation report as the accepted deliverable, P10 separates delivered cycles from the live 2026 cycle. A reader taking `citation_status` alone cannot infer Fifth Sector ownership or a won bid.
+- `cleared_scope=TENDER_ONLY` was added so `cleared_for_use=YES` cannot be read as website clearance — without it the flag would have overstated the 26/09/12 decision, which covered tender naming only.
+- Residual risk: the ten values are Devin-derived from lifecycle and publication-asset evidence, not confirmed by Iain. Each card and each per-project changelog entry says so. P10 is the weakest — a single-value field on a three-cycle project; the live 2026 cycle is stated in the value and must not be cited as delivered.
+- Drive canonical was behind while the credential was unusable; resolved the same day — see the Drive re-sync audit below.
+
+## Consistency audit — 26/09/16 (Drive re-sync)
+
+- Drift check before writing: the five long-lived files being replaced (`project_index.csv`, `CHANGELOG.md`, `tier2_qa_review.md`, `10_review_history.csv`, `tools/regenerate_index.py`) were fetched from Drive and diffed against the pre-session repo commit. All identical, so no Drive-side edit was overwritten. Had any differed, the sync would have stopped for Iain rather than resolved automatically.
+- Scope limited to the 26 files changed since the corpus gate, via an explicit `--files-from` list: copy only, no `sync`, no deletions, nothing else in the canonical folder touched.
+- Verification is content-based (`rclone check --download`), not timestamp-based: 26 matching files, 0 differences.
+- Residual risk: the credential is now a personal OAuth token for Iain's account, so anything Devin writes to Drive is attributed to Iain and carries his full Drive access, not a scoped robot account. Narrower scoping needs the org policy exemption that blocked the service-account route.
+
+## Consistency audit — 26/09/16 (SKiN index corrections)
+
+- `project_index.csv` regenerated after the indexer change: 68 rows before and after; every pre-existing column value byte-identical except `precedent_strength`, which was the field being normalised. No register CSV touched.
+- `cleared_for_use` is strict by design: a missing `citation_status` is a blocker, not an inferred pass. Consequence is that the flag reads NO for all 68 projects, including the 10 REVIEWED pilot cards — those cards predate the 26/09/12 two-field citation model and were never migrated. Recorded as a finding rather than worked around; `commercial_reuse=APPROVED_NAMED` is a reuse decision and is not evidence of `citation_status`.
+- `arc_tags` is a derived browsing view produced by regex over geography and project name. It deliberately carries no claim of project identity — the `AGENTS.md` differentiation rule still governs any claim or source assignment.
+- Residual risk: `precedent_strength` normalisation takes the first controlled token, so a hyphenated "MODERATE-STRONG" records MODERATE with the full wording in `precedent_note`. Where the qualifier matters, the note must be read.
+- Canonical-location caveat: this work was done in the repo mirror because the Drive canonical is not reachable from this machine — the stored `GOOGLE_DRIVE_SERVICE_ACCOUNT_JSON` secret holds a `gcloud` command, not a key. Drive must be re-synced from the repo for these two files, or the change re-applied there.
+
+## Consistency audit — 26/09/16 (agent harness protocol)
+
+- Documentation-only session: `agent_harness_protocol.md` added; no register, card or changelog data touched, so no FK or schema checks were required.
+- Protocol checked for consistency with `AGENTS.md` (differentiation, classification, forecast, value_basis, citation two-field model, extraction, evidence-location, date format, schema-drift) and with `tools/JON_ACCESS.md` access terms — inherited rather than restated in variant wording.
+- Residual risk: the protocol is PROPOSED and unenforced — nothing mechanically prevents assistant-produced rows reaching a register except the existing pre-commit closure hook and reviewer discipline. Enforcement would need phase 2.
+- Naming: sidekick renamed to GLM at Iain's instruction, including the trigger quote in `CHANGELOG.md` — Iain directed the quote be normalised rather than kept verbatim, so the changelog trigger is a corrected paraphrase, not a spoken-verbatim record.
+- Open for Iain: billing/account route per assistant; whether returns are retained in-repo; whether client-identifying material may enter either vendor's context where `reference_permission=NOT_ESTABLISHED`.
+
 ## Consistency audit — 26/09/12 (cardless batches complete)
 
 - 46 PROVISIONAL cards written; every card traces to reviewed register rows + claim IDs; headline figures checked against extracts where extracts exist.

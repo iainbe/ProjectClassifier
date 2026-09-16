@@ -48,6 +48,7 @@
 
 | Field | Value | Source |
 |---|---|---|
+| `citation_status` | DELIVERED_WORK — Oct 24 reconciliation report accepted; initial 25/06 report rejected — cite as delivered and accepted, not as accepted-first-time; not web-published (PUB-P03-MITIH) | 01_projects.csv lifecycle_status + 09_publication_assets.csv; Devin 26/09/16, pending Iain confirmation |
 | `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 26/09/12 | Iain confirmation |
 | `permitted_wording` | Cite as delivered and accepted; honest framing if asked — initial recommendations rejected, reconciliation accepted | Iain confirmation |
 | `expiry` | NOT_ESTABLISHED | 09_publication_assets.csv |

@@ -49,6 +49,7 @@
 
 | Field | Value | Source |
 |---|---|---|
+| `citation_status` | DELIVERED_WORK — earlier cycles delivered and accepted; 2026 cycle is LIVE_WORK pending acceptance — do not cite the 2026 cycle as delivered; not web-published (PUB-P10-KIRK) | 01_projects.csv lifecycle_status + 09_publication_assets.csv; Devin 26/09/16, pending Iain confirmation |
 | `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 26/09/12 | Iain confirmation |
 | `permitted_wording` | May be named in tender submissions (Iain approved 26/09/12) | Iain confirmation |
 | `expiry` | NOT_ESTABLISHED | 09_publication_assets.csv |

@@ -94,3 +94,9 @@
 - **Register repair:** row realigned (contracting_role=SUBCONTRACTOR, prime_contractor=BOP Consulting); relationship_evidence updated to co-lead confirmation.
 - **Card corrections:** "first to map" attributed to BOP self-description; ~50,000 replaces rounded 50,000 (source gives 49,600/49,900/nearly 50,000); Crafts 11x clarified as Birmingham centre (LQ 6.2 for GBSLEP area); key_findings prefixed with BOP attribution.
 - **Status:** Index card REVIEWED.
+
+## citation_status recorded (26/09/16)
+
+- `citation_status` added to the index card: DELIVERED_WORK — SUBCONTRACTOR contribution to a BOP Consulting prime deliverable.
+- Evidence: `01_projects.csv` lifecycle_status + `09_publication_assets.csv` (TENDER_ONLY_NOT_WEBSITE). Derived by Devin, pending Iain confirmation.
+- `reference_permission` unchanged — citation status is not permission to name the client.

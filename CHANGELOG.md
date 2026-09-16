@@ -1,3 +1,44 @@
+## 26/09/16 — P01-P10 citation_status recorded; clearance view unblocked
+
+**Trigger:** "re-sync to Drive then classify P01-P10 citation"
+
+- `citation_status` added to the ten REVIEWED pilot cards, migrating them onto the 26/09/12 two-field model. All ten are `DELIVERED_WORK`: no publication evidence exists for any of them (`09_publication_assets.csv` records TENDER_ONLY_NOT_WEBSITE for PUB-P01 to PUB-P10), so none qualifies as `PUBLIC_REPORT`
+- Attribution caveats carried in the value, not dropped: P03 the accepted deliverable is the Oct 24 reconciliation report; P04 SUBCONTRACTOR to a BOP prime; P05 BOP_ASSOCIATE; P06 shortlisted not awarded; P07 bid NOT_AWARDED; P10 earlier cycles delivered, 2026 cycle still LIVE_WORK
+- `reference_permission` untouched — still NOT_ESTABLISHED on nine of ten; citation status is not permission to name the client
+- New `cleared_scope` column: all ten read `TENDER_ONLY` because each `reference_status` clears tender naming and holds website publication behind a separate gate. `cleared_for_use=YES` therefore means citable in a tender, not publishable on the website
+- `project_index.csv` regenerated: 10 of 68 cleared for use (was 0). Per-project changelog entries written for P01-P10
+- Derivations are Devin-derived and marked pending Iain confirmation on each card
+
+## 26/09/16 — Drive canonical re-synced
+
+**Trigger:** "re-sync to Drive then classify P01-P10 citation" (first half, completed after credential resolved)
+
+- Access route: service-account keys are blocked in the Google org by `iam.disableServiceAccountKeyCreation`, so the route is now an rclone OAuth token for Iain's own Google account, held as the org secret `RCLONE_DRIVE_TOKEN`. The abandoned `GOOGLE_DRIVE_SERVICE_ACCOUNT_JSON` secret never contained a key
+- 26 files pushed to `Website 2026/spillover-toolkit` — the files changed since the 26/09/12 corpus gate (index, indexer, ten cards, ten per-project changelogs, three closure artefacts, protocol). Verified with `rclone check --download`: 26 matching, 0 differences
+- Before overwriting, every replaced file was compared against its pre-session repo version and found byte-identical, so nothing edited in Drive since the last sync was clobbered
+- Copy only — no Drive deletions and nothing outside the changed-file list touched
+
+## 26/09/16 — Megaplan resumed: SKiN index corrections
+
+**Trigger:** "Resume #megaplan" — next machine-doable step from the 26/09/12 corpus gate (SKiN corrections 1-3)
+
+- `tools/regenerate_index.py` extended: derived `cleared_for_use` + `cleared_blocker` gate (REVIEWED card AND citable `citation_status` AND `reference_status=CLEARED`), controlled `precedent_strength` (STRONG/MODERATE/WEAK/NOT_ESTABLISHED) with the original wording moved to `precedent_note`, plus `citation_status`/`reference_permission`/`reference_status` surfaced and `arc_tags` for multi-project geographies
+- `project_index.csv` regenerated: 68 rows, 68 carded, no pre-existing column values changed; strengths now 24 STRONG / 35 MODERATE / 6 WEAK / 3 NOT_ESTABLISHED (was polluted with sentence values)
+- **Finding: `cleared_for_use=NO` for all 68.** The 10 REVIEWED pilot cards (P01-P10) predate the two-field citation model — they carry `commercial_reuse=APPROVED_NAMED` and `reference_status=CLEARED` but no `citation_status`. The gate does not infer citation_status from commercial_reuse; migrating those 10 cards is the unblocking step and needs Iain's per-card DELIVERED_WORK/PUBLIC_REPORT call
+- Arc tags: LIVERPOOL_LCR 9, MANCHESTER 6, WAKEFIELD 6, LANCASHIRE 5, WEST_MIDS 3, SOUTH_YORKS 3, DERBY 3, KIRKLEES 2, SOLENT 2 — browsing view only, never a claim that tagged projects are the same project
+- Gate routes still human-gated and untouched: R3 walkthrough of the ~15 highest-precedent cards, sending the 35 DRAFTED permission asks, 26 blank `contracting_role` fields
+- Sweep check (session-start rule): `SWEEP_LATEST.md` (26/09/12 10:15) shows DRIFT only, all from our own session edits — nothing outstanding
+
+## 26/09/16 — Agent harness protocol (Alpha lead, GLM sidekick)
+
+**Trigger:** "Harness Alpha as main agent and GLM as sidekick" — Alpha = ChatGPT (plan), GLM-5.2 (implementation)
+
+- New `agent_harness_protocol.md` (PROPOSED, awaiting Iain's approval): roles, cycle, work-package and implementation-return formats, inherited toolkit rules, access terms, failure handling
+- Standing rule set: no external agent writes to a register — Alpha and GLM produce plans and candidate content only; Devin or Iain apply every register change
+- Access follows the existing `tools/JON_ACCESS.md` route: Drive share links/file IDs, never filesystem paths; local scripts stay with Iain/Devin
+- Phase 2 (API integration under `tools/agents/`) documented but **not authorised** — open questions on billing route, return retention and whether client-identifying material may enter either vendor's context
+- No register data changed this session
+
 ## 26/09/12 — Cardless batch complete: all 68 projects carded
 
 **Trigger:** "keep working through all outstanding cards, in batches"

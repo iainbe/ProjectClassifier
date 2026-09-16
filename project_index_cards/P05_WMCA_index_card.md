@@ -48,6 +48,7 @@
 
 | Field | Value | Source |
 |---|---|---|
+| `citation_status` | DELIVERED_WORK — BOP_ASSOCIATE arrangement — cite as associate contribution, never Fifth Sector delivery; not web-published (PUB-P05-WMCA) | 01_projects.csv lifecycle_status + 09_publication_assets.csv; Devin 26/09/16, pending Iain confirmation |
 | `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 26/09/12 | Iain confirmation |
 | `permitted_wording` | Cite as delivered under BOP associate arrangement, fees to The Fifth Sector — describe honestly | Iain confirmation |
 | `expiry` | NOT_ESTABLISHED | 09_publication_assets.csv |

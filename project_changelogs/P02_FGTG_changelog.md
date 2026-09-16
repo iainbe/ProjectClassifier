@@ -74,3 +74,9 @@ FGTG is a multi-phase intervention with distinct deliverable streams:
 - **Register repair:** row realigned (contracting_role=PRIME to Manchester Met, consortium lead).
 - **Card framing:** delivered workshop with recorded outcomes incl. honest negatives treated as credibility asset.
 - **Status:** Index card REVIEWED; APPROVED_NAMED for tender citation.
+
+## citation_status recorded (26/09/16)
+
+- `citation_status` added to the index card: DELIVERED_WORK — completed as PRIME to the MMU consortium; cite the consortium structure.
+- Evidence: `01_projects.csv` lifecycle_status + `09_publication_assets.csv` (TENDER_ONLY_NOT_WEBSITE). Derived by Devin, pending Iain confirmation.
+- `reference_permission` unchanged — citation status is not permission to name the client.

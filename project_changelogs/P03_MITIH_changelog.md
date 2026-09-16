@@ -109,3 +109,9 @@ This makes MITIH a useful R2 test case for distinguishing `claim_type=OBSERVATIO
 - **Contract value:** £25,000 (Iain). Gated investment sequence: NOT exercised.
 - **Register repair:** row realigned (contracting_role=PRIME, prime_contractor=The Fifth Sector).
 - **Status:** Index card REVIEWED; APPROVED_NAMED for tender citation.
+
+## citation_status recorded (26/09/16)
+
+- `citation_status` added to the index card: DELIVERED_WORK — the accepted deliverable is the Oct 24 reconciliation report, not the rejected 25/06 report.
+- Evidence: `01_projects.csv` lifecycle_status + `09_publication_assets.csv` (TENDER_ONLY_NOT_WEBSITE). Derived by Devin, pending Iain confirmation.
+- `reference_permission` unchanged — citation status is not permission to name the client.

@@ -137,3 +137,9 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 - **Contract value:** NOT_DISCLOSED (Iain).
 - **Register repair:** row realigned (contracting_role=PRIME, prime_contractor=The Fifth Sector, notes relocated from parent_project_id).
 - **Status:** Index card REVIEWED; APPROVED_NAMED for tender citation.
+
+## citation_status recorded (26/09/16)
+
+- `citation_status` added to the index card: DELIVERED_WORK — v3.12 accepted 26/06/05, no publication evidence.
+- Evidence: `01_projects.csv` lifecycle_status + `09_publication_assets.csv` (TENDER_ONLY_NOT_WEBSITE). Derived by Devin, pending Iain confirmation.
+- `reference_permission` unchanged — citation status is not permission to name the client.
