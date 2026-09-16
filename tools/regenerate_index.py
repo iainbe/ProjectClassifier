@@ -51,8 +51,9 @@ def normalise_strength(raw):
 def cleared_for_use(card_status, citation_status, reference_status):
     """Derived citation gate: REVIEWED card + citable status + cleared reference.
 
-    Returns (YES|NO, blocker). The blocker names every failing condition, so a
-    NO is actionable rather than a bare flag.
+    Returns (YES|NO, blocker, scope). The blocker names every failing condition,
+    so a NO is actionable rather than a bare flag. Scope is TENDER_ONLY where the
+    reference_status clears tender naming but holds website publication back.
     """
     blockers = []
     if not card_status.startswith('REVIEWED'):
@@ -61,7 +62,11 @@ def cleared_for_use(card_status, citation_status, reference_status):
         blockers.append(f"citation_status={citation_status or 'UNRECORDED'}")
     if not reference_status.upper().startswith('CLEARED'):
         blockers.append(f"reference_status={reference_status or 'UNRECORDED'}")
-    return ('NO', '; '.join(blockers)[:100]) if blockers else ('YES', '')
+    if blockers:
+        return 'NO', '; '.join(blockers)[:100], ''
+    scope = 'TENDER_ONLY' if re.search(r'tender', reference_status, re.I) \
+        and re.search(r'website', reference_status, re.I) else 'UNQUALIFIED'
+    return 'YES', '', scope
 
 
 def arc_tags(geography, project_name):
@@ -96,7 +101,7 @@ def main():
         citation_status = cf.get('citation_status','').strip()
         reference_status = cf.get('reference_status','').strip()
         strength, strength_note = normalise_strength(cf.get('precedent_strength',''))
-        cleared, blocker = cleared_for_use(card_status, citation_status, reference_status)
+        cleared, blocker, cleared_scope = cleared_for_use(card_status, citation_status, reference_status)
         rows_out.append({
             'project_id': pid, 'project_name': row['canonical_name'], 'client': row['client'],
             'geography': row['geography'], 'date_start': row['date_start'], 'date_end': row['date_end'],
@@ -111,6 +116,7 @@ def main():
             'reference_status': reference_status[:40],
             'cleared_for_use': cleared,
             'cleared_blocker': blocker,
+            'cleared_scope': cleared_scope,
             'arc_tags': arc_tags(row['geography'], row['canonical_name']),
             'spillover_types': spill,
             'client_decision_use': cf.get('client_decision_use','')[:60],

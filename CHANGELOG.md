@@ -1,3 +1,15 @@
+## 26/09/16 — P01-P10 citation_status recorded; clearance view unblocked
+
+**Trigger:** "re-sync to Drive then classify P01-P10 citation"
+
+- `citation_status` added to the ten REVIEWED pilot cards, migrating them onto the 26/09/12 two-field model. All ten are `DELIVERED_WORK`: no publication evidence exists for any of them (`09_publication_assets.csv` records TENDER_ONLY_NOT_WEBSITE for PUB-P01 to PUB-P10), so none qualifies as `PUBLIC_REPORT`
+- Attribution caveats carried in the value, not dropped: P03 the accepted deliverable is the Oct 24 reconciliation report; P04 SUBCONTRACTOR to a BOP prime; P05 BOP_ASSOCIATE; P06 shortlisted not awarded; P07 bid NOT_AWARDED; P10 earlier cycles delivered, 2026 cycle still LIVE_WORK
+- `reference_permission` untouched — still NOT_ESTABLISHED on nine of ten; citation status is not permission to name the client
+- New `cleared_scope` column: all ten read `TENDER_ONLY` because each `reference_status` clears tender naming and holds website publication behind a separate gate. `cleared_for_use=YES` therefore means citable in a tender, not publishable on the website
+- `project_index.csv` regenerated: 10 of 68 cleared for use (was 0). Per-project changelog entries written for P01-P10
+- **Drive re-sync not done** — the stored `GOOGLE_DRIVE_SERVICE_ACCOUNT_JSON` secret contains a `gcloud ... keys create` command, not a key, and no Drive mount exists on this machine. Canonical Drive remains behind the repo for these files
+- Derivations are Devin-derived and marked pending Iain confirmation on each card
+
 ## 26/09/16 — Megaplan resumed: SKiN index corrections
 
 **Trigger:** "Resume #megaplan" — next machine-doable step from the 26/09/12 corpus gate (SKiN corrections 1-3)

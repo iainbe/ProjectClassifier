@@ -48,6 +48,7 @@
 
 | Field | Value | Source |
 |---|---|---|
+| `citation_status` | DELIVERED_WORK — SUBCONTRACTOR to BOP Consulting — cite as contribution to a BOP-prime deliverable; not web-published (PUB-P04-GBSLEP) | 01_projects.csv lifecycle_status + 09_publication_assets.csv; Devin 26/09/16, pending Iain confirmation |
 | `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 26/09/12 | Iain confirmation |
 | `permitted_wording` | Cite as co-led with BOP Consulting (Jonathan Todd) — do not claim sole authorship | Iain confirmation |
 | `expiry` | NOT_ESTABLISHED | 09_publication_assets.csv |

@@ -48,6 +48,7 @@
 
 | Field | Value | Source |
 |---|---|---|
+| `citation_status` | DELIVERED_WORK — bid-support work delivered and completed; the bid was shortlisted, not awarded — citation must not imply a won bid; not web-published (PUB-P06-COSTAR) | 01_projects.csv lifecycle_status + 09_publication_assets.csv; Devin 26/09/16, pending Iain confirmation |
 | `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 26/09/12 | Iain confirmation |
 | `permitted_wording` | Cite as shortlisted consortium bid; framework shortlisted on submission strength, unsuccessful at interview | Iain confirmation |
 | `expiry` | NOT_ESTABLISHED | 09_publication_assets.csv |

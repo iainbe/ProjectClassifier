@@ -141,3 +141,9 @@ Compare the 2026 report production process against the 2022 and 2024 cycles:
 - **Contract value:** £10,000 per cycle ×3 = £30,000 (Iain). 2026 cycle submitted pending acceptance.
 - **Register repair:** row realigned (contracting_role=PRIME, prime_contractor=The Fifth Sector).
 - **Status:** Index card REVIEWED; APPROVED_NAMED for tender citation.
+
+## citation_status recorded (26/09/16)
+
+- `citation_status` added to the index card: DELIVERED_WORK for the accepted earlier cycles; the 2026 cycle remains LIVE_WORK pending acceptance.
+- Evidence: `01_projects.csv` lifecycle_status + `09_publication_assets.csv` (TENDER_ONLY_NOT_WEBSITE). Derived by Devin, pending Iain confirmation.
+- `reference_permission` unchanged — citation status is not permission to name the client.

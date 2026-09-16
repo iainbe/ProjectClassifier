@@ -103,3 +103,9 @@ SRC-R2-06 (`190730 final.docx`) is a client-authored document (Pritpal Bhurji), 
 - **Claims repair:** 74 claim fields realigned across P04-P09 incl. P05 SUBCONTRACTOR→BOP_ASSOCIATE; proposition text updated.
 - **Card corrections:** precedent reframed as "delivered under BOP associate arrangement" — claimable as company experience delivered under BOP contract, not sole delivery.
 - **Status:** Index card REVIEWED.
+
+## citation_status recorded (26/09/16)
+
+- `citation_status` added to the index card: DELIVERED_WORK — BOP_ASSOCIATE arrangement; never cite as Fifth Sector delivery.
+- Evidence: `01_projects.csv` lifecycle_status + `09_publication_assets.csv` (TENDER_ONLY_NOT_WEBSITE). Derived by Devin, pending Iain confirmation.
+- `reference_permission` unchanged — citation status is not permission to name the client.

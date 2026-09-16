@@ -108,3 +108,9 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 - **Register repair:** contracting_role=ADVISORY, prime_contractor=NOT_APPLICABLE.
 - **Card corrections:** £75.6m clarified as national programme total (Manchester bid was for a share); Create Growth date discrepancy (2023-26 vs 2022-2025) preserved as source inconsistency.
 - **Status:** Index card REVIEWED.
+
+## citation_status recorded (26/09/16)
+
+- `citation_status` added to the index card: DELIVERED_WORK — bid-support work delivered; the bid was shortlisted, not awarded.
+- Evidence: `01_projects.csv` lifecycle_status + `09_publication_assets.csv` (TENDER_ONLY_NOT_WEBSITE). Derived by Devin, pending Iain confirmation.
+- `reference_permission` unchanged — citation status is not permission to name the client.

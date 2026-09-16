@@ -105,3 +105,9 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 - **Register repair:** contracting_role=PRIME, prime_contractor=The Fifth Sector (VAL-R3-015 now correctly landed).
 - **Card corrections:** 77,252 corrected to GVA per capita (was misread as workforce total); circular reuse claim fixed (method originated P04-GBSLEP 2017); £77,252 GVA/capita added to quantified_results.
 - **Status:** Index card REVIEWED.
+
+## citation_status recorded (26/09/16)
+
+- `citation_status` added to the index card: DELIVERED_WORK — completed as PRIME, no publication evidence.
+- Evidence: `01_projects.csv` lifecycle_status + `09_publication_assets.csv` (TENDER_ONLY_NOT_WEBSITE). Derived by Devin, pending Iain confirmation.
+- `reference_permission` unchanged — citation status is not permission to name the client.

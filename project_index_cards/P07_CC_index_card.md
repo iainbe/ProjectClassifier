@@ -48,6 +48,7 @@
 
 | Field | Value | Source |
 |---|---|---|
+| `citation_status` | DELIVERED_WORK — SIPF application support delivered; bid NOT_AWARDED — citable as advisory work done, never as a live option or won bid; not web-published (PUB-P07-CC) | 01_projects.csv lifecycle_status + 09_publication_assets.csv; Devin 26/09/16, pending Iain confirmation |
 | `commercial_reuse` | APPROVED_NAMED — approved for tender citation by Iain 26/09/12 | Iain confirmation |
 | `permitted_wording` | Cite as shortlisted SIPF application; framework shortlisted on submission strength, not awarded | Iain confirmation |
 | `expiry` | NOT_ESTABLISHED | 09_publication_assets.csv |

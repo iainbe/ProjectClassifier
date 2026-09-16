@@ -1,3 +1,12 @@
+## Consistency audit — 26/09/16 (P01-P10 citation_status)
+
+- Ten cards edited, one field inserted each; no other card content touched and no register CSV touched. `project_index.csv` regenerated: 68 rows, 10 `cleared_for_use=YES`.
+- `PUBLIC_REPORT` was considered and rejected for all ten: no card, publication asset row or register field evidences a web-published version, and `09_publication_assets.csv` explicitly records TENDER_ONLY_NOT_WEBSITE. An absence of publication evidence is recorded as DELIVERED_WORK rather than assumed either way.
+- Attribution risk handled inside the value: P04/P05 state the BOP prime/associate structure, P06/P07 state that the bids were not awarded, P03 names the reconciliation report as the accepted deliverable, P10 separates delivered cycles from the live 2026 cycle. A reader taking `citation_status` alone cannot infer Fifth Sector ownership or a won bid.
+- `cleared_scope=TENDER_ONLY` was added so `cleared_for_use=YES` cannot be read as website clearance — without it the flag would have overstated the 26/09/12 decision, which covered tender naming only.
+- Residual risk: the ten values are Devin-derived from lifecycle and publication-asset evidence, not confirmed by Iain. Each card and each per-project changelog entry says so. P10 is the weakest — a single-value field on a three-cycle project; the live 2026 cycle is stated in the value and must not be cited as delivered.
+- Drive canonical is still unsynced (credential unusable, see below), so the repo is ahead of Drive for these files.
+
 ## Consistency audit — 26/09/16 (SKiN index corrections)
 
 - `project_index.csv` regenerated after the indexer change: 68 rows before and after; every pre-existing column value byte-identical except `precedent_strength`, which was the field being normalised. No register CSV touched.
