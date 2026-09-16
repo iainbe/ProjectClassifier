@@ -1,9 +1,9 @@
-## 26/09/16 — Agent harness protocol (Alpha lead, Luna sidekick)
+## 26/09/16 — Agent harness protocol (Alpha lead, GLM sidekick)
 
-**Trigger:** "Harness Alpha as main agent and Luna as sidekick" — Alpha = ChatGPT (plan), Luna = GLM-5.2 (implementation)
+**Trigger:** "Harness Alpha as main agent and Luna as sidekick" — Alpha = ChatGPT (plan), GLM-5.2 (implementation); sidekick renamed Luna → GLM at Iain's instruction in the same session
 
 - New `agent_harness_protocol.md` (PROPOSED, awaiting Iain's approval): roles, cycle, work-package and implementation-return formats, inherited toolkit rules, access terms, failure handling
-- Standing rule set: no external agent writes to a register — Alpha and Luna produce plans and candidate content only; Devin or Iain apply every register change
+- Standing rule set: no external agent writes to a register — Alpha and GLM produce plans and candidate content only; Devin or Iain apply every register change
 - Access follows the existing `tools/JON_ACCESS.md` route: Drive share links/file IDs, never filesystem paths; local scripts stay with Iain/Devin
 - Phase 2 (API integration under `tools/agents/`) documented but **not authorised** — open questions on billing route, return retention and whether client-identifying material may enter either vendor's context
 - No register data changed this session

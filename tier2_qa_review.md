@@ -3,6 +3,7 @@
 - Documentation-only session: `agent_harness_protocol.md` added; no register, card or changelog data touched, so no FK or schema checks were required.
 - Protocol checked for consistency with `AGENTS.md` (differentiation, classification, forecast, value_basis, citation two-field model, extraction, evidence-location, date format, schema-drift) and with `tools/JON_ACCESS.md` access terms — inherited rather than restated in variant wording.
 - Residual risk: the protocol is PROPOSED and unenforced — nothing mechanically prevents assistant-produced rows reaching a register except the existing pre-commit closure hook and reviewer discipline. Enforcement would need phase 2.
+- Naming: sidekick renamed Luna → GLM at Iain's instruction; renamed across protocol, changelog and review-history row. The verbatim trigger quote in `CHANGELOG.md` retains "Luna" as spoken.
 - Open for Iain: billing/account route per assistant; whether returns are retained in-repo; whether client-identifying material may enter either vendor's context where `reference_permission=NOT_ESTABLISHED`.
 
 ## Consistency audit — 26/09/12 (cardless batches complete)

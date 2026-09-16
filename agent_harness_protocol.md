@@ -1,4 +1,4 @@
-# Agent Harness Protocol — Alpha (lead) and Luna (sidekick)
+# Agent Harness Protocol — Alpha (lead) and GLM (sidekick)
 
 **Status:** PROPOSED — protocol only. No API integration exists yet; phase 2 (§8) is not authorised until Iain approves this document.
 
@@ -7,17 +7,17 @@
 | Agent | Tool | Responsibility |
 |---|---|---|
 | **Alpha** | ChatGPT | Lead. Owns the plan: scope, sequencing, acceptance criteria, gate selection. Does not write to registers. |
-| **Luna** | GLM-5.2 | Sidekick. Owns implementation: scripts, extracts, draft text, candidate register rows — always against an Alpha work package. |
+| **GLM** | GLM-5.2 | Sidekick. Owns implementation: scripts, extracts, draft text, candidate register rows — always against an Alpha work package. |
 | **Devin** | this repo | Executor of record. Applies register changes, runs the gates, writes the audit artefacts, commits. |
 | **Iain** | — | Authority. Approves plans, resolves conflations and contracting questions, holds the only sign-off that converts PROVISIONAL to confirmed. |
 
-Neither Alpha nor Luna is an author of record. Toolkit outputs are attributed to Fifth Sector work; assistant involvement is a method note, never a source.
+Neither Alpha nor GLM is an author of record. Toolkit outputs are attributed to Fifth Sector work; assistant involvement is a method note, never a source.
 
 ---
 
 ## 1. Standing rule
 
-**No external agent writes to a register.** Alpha and Luna produce plans and candidate content. Every change to `01_projects.csv` … `11_permission_requests.csv`, the index cards or the changelogs is applied by Devin (or Iain) in this repo, after the checks in `AGENTS.md`.
+**No external agent writes to a register.** Alpha and GLM produce plans and candidate content. Every change to `01_projects.csv` … `11_permission_requests.csv`, the index cards or the changelogs is applied by Devin (or Iain) in this repo, after the checks in `AGENTS.md`.
 
 Rationale: schema drift, FK breakage and project conflation are the three failure modes that have actually occurred. All three are write-path failures, so the write path stays narrow.
 
@@ -29,12 +29,12 @@ Rationale: schema drift, FK breakage and project conflation are the three failur
 2. Produce a **work package** (§4) per unit of work: scope, inputs, acceptance criteria, gates, exclusions.
 3. Choose the gates: `/thad`, `/sheldon`, `/blindspot`, `/deepthink`, `/wishful`, `/skin`.
 4. Name the conflation risks up front (see the multi-project geography list in `AGENTS.md`), and the archive check needed for each.
-5. Review Luna's returns against the acceptance criteria before they reach Devin.
+5. Review GLM's returns against the acceptance criteria before they reach Devin.
 6. Escalate to Iain anything requiring authority: contracting role, citation permission, option-exercise status, scope expansion.
 
 Alpha does not draft implementation detail, and does not assert that a figure is evidenced. It states what must be evidenced.
 
-### Luna (sidekick — implementation)
+### GLM (sidekick — implementation)
 
 1. Work only from an Alpha work package. No package, no work.
 2. Produce the artefact: script, extract, draft card, candidate rows, comparison table.
@@ -48,15 +48,15 @@ Alpha does not draft implementation detail, and does not assert that a figure is
 Trigger (Iain)
   → Alpha: work package            [plan]
   → Iain: approve / amend          [authority; required for any register-changing package]
-  → Luna: implementation return    [candidate artefact + evidence]
+  → GLM: implementation return     [candidate artefact + evidence]
   → Alpha: acceptance check        [against §4 criteria]
   → Devin: apply + gates + audit   [registers, /thad or /sheldon, closure artefacts, commit]
   → Iain: sign-off                 [PROVISIONAL → confirmed]
 ```
 
-A cycle may loop between Luna and Alpha any number of times. It may not skip Devin for register writes, and may not skip Iain for authority questions.
+A cycle may loop between GLM and Alpha any number of times. It may not skip Devin for register writes, and may not skip Iain for authority questions.
 
-## 4. Work package format (Alpha → Luna)
+## 4. Work package format (Alpha → GLM)
 
 ```
 PACKAGE:        WP-<YY/MM/DD>-<slug>
@@ -70,7 +70,7 @@ GATES:          which of /thad /sheldon /blindspot /deepthink /wishful /skin app
 EXCLUSIONS:     what must not be changed (registers, canonical files, prose in review history)
 ```
 
-## 5. Implementation return format (Luna → Alpha)
+## 5. Implementation return format (GLM → Alpha)
 
 ```
 PACKAGE:        WP-...
@@ -101,7 +101,7 @@ These are not negotiable per package; they are the toolkit's rules and apply to 
 
 ## 7. Access
 
-Alpha and Luna work from web Drive and from this repo's public content, on the same terms as the `tools/JON_ACCESS.md` route:
+Alpha and GLM work from web Drive and from this repo's public content, on the same terms as the `tools/JON_ACCESS.md` route:
 
 - Reference material by **Drive share link or file ID**, never by a filesystem path — paths exist only on Iain's machine.
 - `tools/drive_sweep.py`, `tools/regenerate_index.py` and `tools/normalise_dates.py` need a local mount and are run by Iain or Devin, not by the assistants.
@@ -112,7 +112,7 @@ Alpha and Luna work from web Drive and from this repo's public content, on the s
 
 Deferred until this protocol is approved. When authorised, the intended shape is:
 
-- a single `tools/agents/` client with one adapter per assistant (Alpha: OpenAI API; Luna: GLM API), keys held as environment secrets, never in the repo;
+- a single `tools/agents/` client with one adapter per assistant (Alpha: OpenAI API; GLM: Zhipu GLM API), keys held as environment secrets, never in the repo;
 - package and return objects as files under `agent_packages/`, so every exchange is diffable and auditable;
 - a dry-run mode that produces candidate rows to a scratch file, never to a register;
 - rate and cost logging per package.
@@ -123,7 +123,7 @@ Open questions for Iain before any of that is built: which account and billing r
 
 | Situation | Action |
 |---|---|
-| Luna returns unevidenced figures | Reject the return; Alpha reissues with the evidence requirement restated. Do not repair it silently. |
+| GLM returns unevidenced figures | Reject the return; Alpha reissues with the evidence requirement restated. Do not repair it silently. |
 | Alpha's package expands scope beyond the trigger | Iain decides; do not proceed on the wider scope. |
 | Two returns disagree on a figure | Record both, quote both locators, escalate. Never average or pick the convenient one. |
 | An agent asserts a completed action it cannot evidence | Treat the whole return as unverified and re-run the package. |
@@ -131,4 +131,4 @@ Open questions for Iain before any of that is built: which account and billing r
 
 ## 10. Session closure
 
-Sessions involving Alpha or Luna close under the same mandatory rule as any other toolkit session: `CHANGELOG.md`, `tier2_qa_review.md` and `10_review_history.csv`, plus per-project changelogs where project data changed. The changelog entry names which agent produced the plan and which produced the implementation.
+Sessions involving Alpha or GLM close under the same mandatory rule as any other toolkit session: `CHANGELOG.md`, `tier2_qa_review.md` and `10_review_history.csv`, plus per-project changelogs where project data changed. The changelog entry names which agent produced the plan and which produced the implementation.
