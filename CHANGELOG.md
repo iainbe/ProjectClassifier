@@ -7,8 +7,16 @@
 - `reference_permission` untouched — still NOT_ESTABLISHED on nine of ten; citation status is not permission to name the client
 - New `cleared_scope` column: all ten read `TENDER_ONLY` because each `reference_status` clears tender naming and holds website publication behind a separate gate. `cleared_for_use=YES` therefore means citable in a tender, not publishable on the website
 - `project_index.csv` regenerated: 10 of 68 cleared for use (was 0). Per-project changelog entries written for P01-P10
-- **Drive re-sync not done** — the stored `GOOGLE_DRIVE_SERVICE_ACCOUNT_JSON` secret contains a `gcloud ... keys create` command, not a key, and no Drive mount exists on this machine. Canonical Drive remains behind the repo for these files
 - Derivations are Devin-derived and marked pending Iain confirmation on each card
+
+## 26/09/16 — Drive canonical re-synced
+
+**Trigger:** "re-sync to Drive then classify P01-P10 citation" (first half, completed after credential resolved)
+
+- Access route: service-account keys are blocked in the Google org by `iam.disableServiceAccountKeyCreation`, so the route is now an rclone OAuth token for Iain's own Google account, held as the org secret `RCLONE_DRIVE_TOKEN`. The abandoned `GOOGLE_DRIVE_SERVICE_ACCOUNT_JSON` secret never contained a key
+- 26 files pushed to `Website 2026/spillover-toolkit` — the files changed since the 26/09/12 corpus gate (index, indexer, ten cards, ten per-project changelogs, three closure artefacts, protocol). Verified with `rclone check --download`: 26 matching, 0 differences
+- Before overwriting, every replaced file was compared against its pre-session repo version and found byte-identical, so nothing edited in Drive since the last sync was clobbered
+- Copy only — no Drive deletions and nothing outside the changed-file list touched
 
 ## 26/09/16 — Megaplan resumed: SKiN index corrections
 
