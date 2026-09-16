@@ -393,3 +393,11 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **3 new sources registered**: SRC-R5-016 (2016 report), SRC-R5-017 (Evidence Review, extracted), SRC-R5-018 (WB6 v2.1, not yet extracted). Sources now 129.
 - **C-G2-280 linked** to SRC-R5-016 + SRC-R5-017 via E-R5-016/017. Evidence links now 589.
 - **Evidence Review key findings**: PARTIALLY PROVEN (SHELDON); BLOCK: PROOF FAILURE if published with point estimate (THAD); FRICTION (SKiN). Beatles-attributable spend is assumption not measurement. 2028 demand shock (Mendes films, ~£250m marketing) unmodelled. Apple posture inversion (CONFIDENTIAL, Robin Kemp interview).
+
+
+## Session 26/09/16 (2): Beatles sources batch-registered
+
+- **142 Beatles sources registered** (SRC-R5-019 .. SRC-R5-160) — full folder inventory: 25 interview transcripts, 11 summaries, 11 guides, 22 Summit transcripts, 39 data files, 6 working papers, 6 method notes, 4 research docs, 2 report drafts, 2 contract docs, plus admin/images/emails/context.
+- **Sources now 271 total** (was 129). All new sources NOT_REVIEWED — extraction and review needed before claim use.
+- **Key items**: 2015 Reconstructed docx (25MB digitised 2016 report), V3 2026 draft update, Apple Experience economic case for/against, THAD review, AMION Eurovision report (structural precedent).
+- **Classification**: by document type (INTERVIEW_TRANSCRIPT, DATA_FILE, WORKING_PAPER, etc.) and independence (FIRST_PARTY, CLIENT_SUPPLIED, INDEPENDENT_COMMERCIAL, INDEPENDENT_RESEARCH).
