@@ -401,3 +401,15 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **Sources now 271 total** (was 129). All new sources NOT_REVIEWED — extraction and review needed before claim use.
 - **Key items**: 2015 Reconstructed docx (25MB digitised 2016 report), V3 2026 draft update, Apple Experience economic case for/against, THAD review, AMION Eurovision report (structural precedent).
 - **Classification**: by document type (INTERVIEW_TRANSCRIPT, DATA_FILE, WORKING_PAPER, etc.) and independence (FIRST_PARTY, CLIENT_SUPPLIED, INDEPENDENT_COMMERCIAL, INDEPENDENT_RESEARCH).
+
+
+## Session 26/09/23: Sweep — P87 AHRC assessment, 5 lost tenders, Liverpool Digital, sources registered
+
+- **Sweep run** (first since 26/09/16): 25,029 files tracked; 7 unregistered project folders; 7 unregistered sources; 6 possible tenders; 5 lost proposals registered.
+- **P87-TRUENORTH**: AHRC CICP2 full application (APP114872) submitted; panel assessment week of 14/09; outcome expected week of 28/09; interviews 21-22 Oct at Steamhouse Birmingham (Year 1 Business Plan + video elevator pitch). Folder moved from Archive to Active. 4 sources, 2 claims, 2 evidence links added. Card updated.
+- **P80 Southampton**: folder reorganized from "2026 South West Hampshire" to "2026 Southampton Strategic Review"; drive_folder_path updated.
+- **T15-LIVDIGITAL**: new tender registered — Liverpool Digital Economy Cluster Mapping (~£20k Stage A, ~£45k+ full study); working brief extracted.
+- **5 lost tenders registered**: T16-CSCC (Creative Scotland Culture Collective), T17-ESRC (Research sandpit), T18-GLAS (Glasgow Life), T19-LIVPHIL (Liverpool Philharmonic), T20-CESA (Plymouth CESA). All NOT_AWARDED.
+- **6 new sources registered**: P78 Beatles (MRIO wk37, evaluation discussion note, Victoria McDermott interview, N Wyatt LCRDP), P01-NES (Foresight Places options response), Liverpool Digital brief. Sources now 281.
+- **Wakefield Our Year 24 archive**: 231 files noted; final report already registered (SRC-G2-067); supporting material not batch-registered.
+- **Register state**: 68 projects, 281 sources, 591 evidence links, 20 tenders.

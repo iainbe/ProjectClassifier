@@ -25,7 +25,7 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `brief_summary` | Paid bid-support engagement for Lancaster's True North CICP2 bid — stakeholder workshop (INV-1357 £1,499.70) plus Foresight proposal, Letters of Commitment, match-funding and partner-status analysis. Separated from P75 (Places evidence) and P76 (Horizon) per Iain 26/09/12. | SRC-R5-001; 01_projects.csv |
+| `brief_summary` | Paid bid-support engagement for Lancaster's True North CICP2 bid (APP114872 "True North: Future Landscapes") — stakeholder workshop (INV-1357 £1,499.70) plus Foresight proposal, Letters of Commitment, match-funding and partner-status analysis. **AHRC full application submitted; panel assessment week of 14/09/26; outcome expected week of 28/09/26; interviews 21-22 Oct at Steamhouse Birmingham** (Year 1 Business Plan + one-minute video elevator pitch required). Separated from P75 (Places evidence) and P76 (Horizon) per Iain 26/09/12. | SRC-R5-001; SRC-R5-161; 01_projects.csv |
 | `key_deliverables` | Stakeholder workshop + Foresight proposal + Letters of Commitment + match-funding analysis | SRC-R5-001; folder docs |
 | `client_objective` | Support True North CICP2 bid development | 01_projects.csv |
 | `scope_boundary` | Bid support: workshop, proposal, commitment letters, match funding | 01_projects.csv |
@@ -34,8 +34,8 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `headline_finding` | Live bid-support engagement — workshop delivered and paid (£1,499.70, INV-1357); CICP2 bid development ongoing | SRC-R5-001 |
-| `key_findings` | (1) £1,499.70 workshop paid 26/05/08 (INV-1357 — payment predates invoice date, noted); (2) Foresight proposal + Letters of Commitment + match-funding analysis in folder; (3) bid outcome pending — LIVE | SRC-R5-001; register notes |
+| `headline_finding` | AHRC CICP2 full application submitted (APP114872); panel assessment week of 14/09; outcome expected week of 28/09; if shortlisted, interviews 21-22 Oct at Steamhouse Birmingham | SRC-R5-161 |
+| `key_findings` | (1) £1,499.70 workshop paid 26/05/08 (INV-1357); (2) Full application submitted — APP114872 "True North: Future Landscapes"; (3) Panel assessment week of 14/09/26; (4) Outcome expected week of 28/09/26; (5) Interviews 21-22 Oct — Year 1 Business Plan + video elevator pitch required; (6) Up to 8 representatives; BEYOND 2026 announcement for successful clusters | SRC-R5-001; SRC-R5-161 |
 | `quantified_results` | £1,499.70 paid | SRC-R5-001 |
 | `client_decision_use` | CICP2 bid pending — LIVE | Derived |
 | `evidence_strength` | MEDIUM — payment evidenced; bid incomplete | Derived |
@@ -89,4 +89,4 @@
 | `last_reviewed` | 26/09/12 | — |
 | `reviewed_by` | Devin (draft); Iain pending | — |
 | `source_claims` | none yet registered | 04_claims.csv |
-| `unresolved_issues` | Bid outcome; full engagement value beyond workshop; remittance date anomaly | — |
+| `unresolved_issues` | Bid outcome (week of 28/09); interview prep (Business Plan + video pitch); full engagement value beyond workshop; remittance date anomaly; folder moved from Archive to Active | SRC-R5-161 |
