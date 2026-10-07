@@ -449,3 +449,12 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **AMGEN framing + scheme amendment (26/10/07)**: P85 card updated — precedent weight is client adoption + external validation, not fee scale. Case-study ontology gains an intrinsic signal: method transfer (output portable enough for client self-application, outcome validates the method). Same-scale sibling P87 shows adoption without validation.
 - **Standing rule change (26/10/07)**: AGENTS.md repo-sync rule updated — push to origin/main (github.com/iainbe/ProjectClassifier) is now required at the end of every register-changing session; replaces push-only-when-asked. Remote had drifted 15 commits behind.
 - **Case-study decision document (26/10/07)**: `case_study_selection_decision.md` created — standalone capture of ontology, scheme, option parameters and open decision state. No schema or register changes made on this basis; decision remains open pending Iain.
+
+## Session 26/10/07 (2): Liverpool Production Fund split into 2021 and 2024 projects
+
+**Trigger:** Iain: "there should be two project folders, one for 2021 and one for 2024 - reallocate files and folders and update registry"
+
+- **P22-LCRFILM** is now the 2021 interim evaluation only; **P88-LCRPF24** (new, PROVISIONAL) is the 2024-25 final evaluation. They differ in year, deliverable and evidence base (project-differentiation rule). `SRC-G2-030` (250609 final report) moved from P22 to P88 and its path updated; claims C-G2-037..041 stay on P22 and keep their evidence links to SRC-G2-030 as the interim-vs-final comparison
+- **G Drive:** "2020 Liverpool Film Fund evaluation" renamed "2021 Liverpool Production Fund interim evaluation" and moved to 2021 Projects; the fuller "2024 Liverpool Production Fund" moved from 2025 Projects to 2024 Projects; the subset duplicate in 2024 Projects (verified: every file also in the fuller folder, matching names and sizes) renamed "ZZ superseded duplicate ... safe to delete". Nothing deleted. Also moved "2025 Liverpool Musiclab" into 2025 Projects (project not yet registered)
+- P88 fields not evidenced (contracting_role, contract value, client acceptance, exact dates) left blank, not inferred; VAL-S261007-01..04 added. `project_index.csv` regenerated
+- Residual: P22 card still mixes interim and final figures and P88 has no card or claims; per-project changelogs not yet written; Music Lab project (LCC, prime, 25/10-26/02, POs 3500530818 + 3500530819 = GBP 9,999 plus 3500535803 GBP 1,500 + VAT) not yet registered; AGENTS.md Liverpool list not yet updated
