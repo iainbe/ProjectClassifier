@@ -1,0 +1,42 @@
+# Candidate view: T22-VAIMP - Case studies of comparable work (impact study of an institution on UK creative industries)
+
+Derived, read-only. **Not a recommendation and not ranked.** Subject keywords: `evaluat|impact|visitor|heritage|museum|attraction|spillover`. Evidence kinds wanted: delivered_output, effect_reported, effect_as_evaluator.
+These are the operator's reading of the buyer's ask; Iain to correct. Candidates are in alphabetical order; kinds are never ranked against each other.
+
+9 candidates.
+
+| Project | Client | Lifecycle | Delivered / accepted | Citable | Lapsed option | Method current | Role wording | Referee | Evidence kinds held (claims) |
+|---|---|---|---|---|---|---|---|---|---|
+| BAC + LIVR Project Evaluation (P43) | Battersea Arts Centre/LIVR | COMPLETED | UNKNOWN | PASS | PASS | UNKNOWN | UNKNOWN | not established | delivered output 2, effect as evaluator 2, design 1, context 1 |
+| CICP Impact and Delivery Evaluation (P16-CICP) | UKRI / AHRC | COMPLETED | UNKNOWN | PASS | PASS | PASS | PASS | not established | delivered output 1 |
+| Creativeworks London KE Hub Evaluation (P13-CWL) | AHRC / Creativeworks London | COMPLETED | UNKNOWN | PASS | PASS | PASS | PASS | not established | effect as evaluator 1, context 3 |
+| Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026) (P10-KIRK) | Kirklees Council / West Yorkshire  | IN_PROGRESS | FAIL | UNKNOWN | PASS | PASS | PASS | not established | delivered output 2, design 1, context 4 |
+| LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) | Liverpool City Region Combined Aut | COMPLETED | UNKNOWN | PASS | PASS | PASS | PASS | not established | delivered output 3, effect as evaluator 1, design 1 |
+| SYMCA ARG Evaluation (P51) | South Yorkshire Mayoral Combined A | COMPLETED | UNKNOWN | PASS | PASS | UNKNOWN | UNKNOWN | not established | delivered output 1, effect as evaluator 6, context 2 |
+| University of Liverpool Heritage CPD (P63) | University of Liverpool | COMPLETED | UNKNOWN | PASS | PASS | UNKNOWN | UNKNOWN | not established | delivered output 1, design 2, context 1 |
+| Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) | Wakefield Council | COMPLETED | UNKNOWN | PASS | PASS | PASS | PASS | not established | delivered output 1, effect as evaluator 4, context 2 |
+| Wakefield Our Year 24 Evaluation (P69-OURYEAR) | Wakefield Council | COMPLETED | UNKNOWN | PASS | PASS | UNKNOWN | UNKNOWN | not established | delivered output 10, effect reported 10, design 4, context 6 |
+
+## Facts needed before each candidate can be used (UNKNOWN or FAIL)
+
+- BAC + LIVR Project Evaluation (P43): client acceptance; method rows; contracting role / prime contractor
+- CICP Impact and Delivery Evaluation (P16-CICP): client acceptance
+- Creativeworks London KE Hub Evaluation (P13-CWL): client acceptance
+- Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026) (P10-KIRK): client acceptance (FAIL); citation status
+- LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM): client acceptance
+- SYMCA ARG Evaluation (P51): client acceptance; method rows; contracting role / prime contractor
+- University of Liverpool Heritage CPD (P63): client acceptance; method rows; contracting role / prime contractor
+- Wakefield Cultural Development Fund Evaluation (P27-WAKECDF): client acceptance
+- Wakefield Our Year 24 Evaluation (P69-OURYEAR): client acceptance; method rows; contracting role / prime contractor
+
+## Subject matches with NO claims of the wanted kinds registered (not in the table above)
+
+These match the subject but hold none of the wanted evidence kinds in the claims register, so the table above cannot show them. This does not mean they lack the evidence: the claims may simply not be coded yet.
+
+- Beatles Visitor Impact Study (P78-BEATLES), Beatles Legacy Group (unconsti, COMPLETED: holds no claims coded
+- LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24), Liverpool City Region Combined, COMPLETED: holds no claims coded
+- SYMCA Create Growth Programme Final Report (P24-SYMCACGP), South Yorkshire Mayoral Combin, COMPLETED: holds design 1, context 3
+
+## Referee asks this tender needs
+
+The requirement asks for a named, willing referee for each case study. Referee permission is NOT_ESTABLISHED for every candidate unless shown above. Each ask is a separate plain-language message that Iain approves before it is sent.

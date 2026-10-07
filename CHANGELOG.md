@@ -553,3 +553,12 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **First run (69 projects, 60 completed):** delivered/accepted PASS 0, FAIL 9, UNKNOWN 60 (client acceptance not recorded); citable PASS 55, FAIL 4, UNKNOWN 10; lapsed option PASS 69; method current PASS 34, UNKNOWN 35 (no method rows registered); role wording PASS 44, UNKNOWN 25. No project is fully determinable yet
 - **AGENTS.md:** stale-artefact rule now also requires running the eligibility report after register, claim, method or permission changes
 - **Open question for Iain:** a project with no method rows is UNKNOWN on "method current" (27 completed projects). Either method rows are expected for every project, or "no method used" may count as not applicable; left UNKNOWN until Iain decides
+
+## Session 26/10/07 (11): Candidate view for the V&A tender (T22-VAIMP)
+
+**Trigger:** Iain: "Yes, run it for the V&A tender"
+
+- **New tool:** `tools/selection_view.py` (read-only) builds a candidate list for one tender requirement from the eligibility report: subject keywords plus the evidence kinds the buyer wants; alphabetical, never ranked across kinds, UNKNOWN never a pass; also lists subject matches that hold none of the wanted kinds so nothing is silently dropped (first version omitted them; fixed in this session)
+- **Output:** `selection_views/T22-VAIMP.md`. Reading of the buyer's ask (to be corrected by Iain): evaluation or impact of an institution or programme on creative industries; kinds wanted: delivered output, reported effect, effect as evaluator. Result: 9 candidates (BAC + LIVR Project Evaluation; CICP Impact and Delivery Evaluation; Creativeworks London KE Hub Evaluation; Kirklees Creative Industries Mapping (in progress); LCR Film and TV Production Fund Interim Evaluation; SYMCA ARG Evaluation; University of Liverpool Heritage CPD; Wakefield Cultural Development Fund Evaluation; Wakefield Our Year 24 Evaluation) and 3 subject matches with no coded claims (Beatles Visitor Impact Study; LCR Production Fund Final Evaluation 2024-25; SYMCA Create Growth Programme Final Report)
+- **Not done:** no recommendation, shortlist or positioning conclusion was written. The tender review protocol (full advisory lane team) is still required before any positioning, case-study sheet or submission content for T22
+- **Finding:** the view is limited by claim coding: the two projects the tender record calls its strongest precedents have no claims of the wanted kinds registered
