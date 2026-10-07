@@ -171,6 +171,26 @@ Tender documents (RFQs, RFPs, ITQs, bid responses) for unsuccessful or pending b
 
 Sources linked to tender documents may have empty `project_id` — this is correct, not an error.
 
+## Tender review protocol (MANDATORY — initial phase, 26/10/07)
+
+Before writing positioning conclusions, CAN questions or submission content for ANY tender (rows in `08_tenders.csv`, folders under `Active proposals/`), run the review team. A tender review that skips the team is incomplete — this applies whether or not the user asks.
+
+1. **Freeze the turn contract**: buyer, deadline, budget, scoring model (incl. kill gates and sequential scoring), our decision (triage / bid / no-bid).
+2. **Run the review lanes** on the brief and proposed strategy (`.devin/skills/`):
+   - `sark` / `load-the-team` — lane selection and receipt collection
+   - `blindspot` — evaluator, competitor and hostile-reader perspectives
+   - `deepthink` — every precedent claim cross-checked against register facts: `fifth_sector_role`, `lifecycle_status`, `citation_status`, claim state
+   - `sheldon` — what evidence actually exists before citing case studies (delivered vs in-progress vs designed-not-delivered)
+   - `wishful` — feasible routes for team shape, partners and delivery within budget and deadline
+   - `thad` — is the planned response fit for the brief's stated purpose, and does every key question have a named evidence route
+   - `grey` — weak signals and best current reading under partial intel (deal status, competitor behaviour, buyer intent)
+   - `shaz` — would the proposed instruments and reporting work for the real people collecting and supplying the data
+   - `skin` — do the proposed outputs reach their stated audiences
+   - `fok` — premise challenge: denominators, selection effects, questions that cannot be answered by the proposed instruments (Places-estate mechanics do not apply)
+3. **Out of scope for tenders**: `pigpen`, `mr-universe`, `jonbot`, `place-skills-research` — Foresight-product or personal lanes.
+4. **Record** the review in `tier2_qa_review.md` and `10_review_history.csv`; material findings go into the tender's `notes` field.
+5. Team source of truth: `Active projects/Skills prompts/foresight-agent-files-*/skills/` — re-sync `.devin/skills/` if those source files change.
+
 ## QA verification checklist
 
 Before completing any QA batch, run ALL of these checks:

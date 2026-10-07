@@ -28,3 +28,9 @@
 - **Key registered items**: Beatles_Heritage_Liverpool_2015_Reconstructed.docx (25MB digitised 2016 report), What_The_Beatles_Add_To_Liverpools_Economy_V3_2026.docx (draft update), Beatles_Experience_Economic_Case_FOR/AGAINST_2026.docx (Apple Experience feasibility), THAD Review - Project Scoping (Updated).md, AMION Eurovision report.pdf (structural precedent)
 - All sources NOT_REVIEWED — extraction and review needed before use in claims
 - Sources now 271 total (was 129)
+
+## 26/10/07 — Delivery confirmed
+
+- lifecycle_status IN_PROGRESS → COMPLETED; report pack Beatles_Report_Pack_2026-10-07 delivered (Iain-confirmed)
+- citation_status LIVE_WORK → DELIVERED_WORK; reference_permission remains NOT_ESTABLISHED — required for T22-VAIMP case-study referee by 26/10/19
+- Card updated; Evidence Review caveats stand (scenario range not point estimate; Beatles-attributable spend share is an assumption)
