@@ -149,6 +149,8 @@ Rules:
 - Client-supplied data (e.g. LFO Filming Activity Reports) is cited as client data incorporated into our evaluation, not as our measurement
 - Contribution claims (subcontractor/associate work) must name the contracting structure — never imply Fifth Sector ownership of a consortium or prime's deliverable
 - Figures and method labels must match the canonical document's own language; bid-level characterisations (e.g. "Green Book-compatible") are flagged as characterisations unless the document uses them
+- Citing delivered work in a tender needs no client permission unless a contract clause, NDA or client instruction restricts citation (Iain 26/10/07). Permission IS needed to name a client as a referee, to reproduce client-identifying content on the website, and to reuse client data
+- `reference_permission` is recorded only in `11_permission_requests.csv` (status ESTABLISHED on a NAMED_REFEREE request). Project records, cards and `project_index.csv` derive it from there. Request statuses: DRAFTED, SENT, ESTABLISHED, DECLINED, CAPPED, NOT_REQUIRED (no restriction marker recorded), INTERNAL_CHECK (a wording or identity check, not a client ask). Each live request has an owner and a reminder after five working days; nothing is sent without Iain's approval
 
 ## Extraction rules (26/09/12)
 

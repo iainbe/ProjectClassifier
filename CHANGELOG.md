@@ -520,3 +520,15 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - **True North bid support** (P87-TRUENORTH): value recorded as GBP 9,999 including VAT (PO 500222361), about GBP 8,333 ex VAT (exactly 8,332.50 at 20%; GBP 8,333 + VAT is the same fee rounded). Register notes, relationship evidence and card updated. VAL-S261007-16 resolved
 - **Changelog references fixed:** the True North changelog cited claims C-R4-003 and C-R4-004 and evidence E-R5-018 and E-R5-019, which are not in the registers. Corrected to C-R4-001 and C-R4-002 and E-R5-602 and E-R5-603, matched by content (assessment timeline; interview claim; links from SRC-R5-161); original wording kept in brackets. The match is by content, not proven. VAL-S261007-17 resolved
+
+## Session 26/10/07 (8): Permission requests decision (decision 9)
+
+**Trigger:** Iain: "Continue with the permission requests decision", answered question by question
+
+- **Rule (Iain):** citing delivered work in a tender needs no client permission unless a contract clause, NDA or client instruction restricts citation. Written into AGENTS.md citation rules, with the three things that still need permission: naming a client as a referee, reproducing client-identifying content on the website, and reusing client data
+- **One place (decision 9a):** `reference_permission` is recorded only in `11_permission_requests.csv` (ESTABLISHED on a NAMED_REFEREE request). `tools/regenerate_index.py` now derives it and `project_index.csv` has a `reference_permission` column. Cards still carry a legacy line (all NOT_ESTABLISHED except one non-canonical value); the index is authoritative
+- **The 35 requests (decision 9b):** 27 closed as NOT_REQUIRED (no restriction marker recorded; rows and reasons kept; reopen if one is found); 3 turned into INTERNAL_CHECK notes (University of Plymouth subcontractor wording; BOP Consulting / Frontier Economics contribution cap; Beatles Visitor Impact Study client identity); 5 client asks kept and rewritten in plain language with one question each (Wakefield Council, Liverpool City Council for the LCR music economy mapping, LCR Combined Authority, British Council contract clause, CELL client data reuse). Project IDs in the file normalised to register IDs; original text kept in notes where it carried extra detail
+- **Owner and reminder (decision 9c):** the 5 live asks carry owner Iain and a reminder after five working days. Nothing has been sent; each message needs Iain's approval
+- **Columns added to the permission file:** `owner`, `reminder_after_working_days` (appended at the end; 13 fields). New statuses: NOT_REQUIRED, INTERNAL_CHECK
+- **Validation actions added:** VAL-S261007-20 (CELL data reuse, hard stop 29 Oct 2026), -21 (confirm the LCR music mapping commissioner), -22 (spot-check closed requests for restriction markers)
+- **No test weakened:** the referee gate is unchanged (default NOT_ESTABLISHED); only requests that were never needed under the stated rule were closed, with the reason recorded

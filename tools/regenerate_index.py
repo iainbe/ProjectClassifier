@@ -18,6 +18,17 @@ def card_field(path, field):
     m = re.search(rf'`{re.escape(field)}`\s*\|\s*([^|]+)\|', txt)
     return m.group(1).strip() if m else ''
 
+def permission_state():
+    """reference_permission is recorded only in 11_permission_requests.csv (Iain 26/10/07):
+    ESTABLISHED when a NAMED_REFEREE request naming the project has status ESTABLISHED."""
+    est = set()
+    if os.path.exists('11_permission_requests.csv'):
+        with open('11_permission_requests.csv', newline='', encoding='utf-8') as f:
+            for r in csv.DictReader(f):
+                if 'NAMED_REFEREE' in r.get('permission_scope','') and r.get('status','')=='ESTABLISHED':
+                    est.update(x.strip() for x in r.get('project_ids','').split(';') if x.strip())
+    return est
+
 def main():
     with open('01_projects.csv') as f:
         reader = csv.DictReader(f)
@@ -26,6 +37,7 @@ def main():
         if missing:
             sys.exit(f"SCHEMA DRIFT: register missing columns {missing} — repair before indexing")
         register = list(reader)
+    established = permission_state()
 
     rows_out = []
     for row in register:
@@ -39,7 +51,7 @@ def main():
         rows_out.append({
             'project_id': pid, 'project_name': row['canonical_name'], 'client': row['client'],
             'geography': row['geography'], 'date_start': row['date_start'], 'date_end': row['date_end'],
-            'lifecycle_status': lifecycle, 'citation_status': row['citation_status'], 'client_accepted': row['client_accepted'], 'contracting_role': row['contracting_role'],
+            'lifecycle_status': lifecycle, 'citation_status': row['citation_status'], 'client_accepted': row['client_accepted'], 'reference_permission': 'ESTABLISHED' if pid in established else 'NOT_ESTABLISHED', 'contracting_role': row['contracting_role'],
             'prime_contractor': row['prime_contractor'], 'contract_value': cf.get('contract_value','')[:40],
             'card_status': cf.get('card_status','') or ('NO_CARD' if not has_card else ''),
             'precedent_strength': cf.get('precedent_strength','').split('—')[0].strip()[:12],
