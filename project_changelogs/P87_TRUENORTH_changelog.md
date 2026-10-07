@@ -16,3 +16,4 @@
 - **2 new claims**: C-R4-003 (assessment timeline), C-R4-004 (interview gated investment point)
 - **2 evidence links**: E-R5-018, E-R5-019
 - **Card updated** with AHRC assessment timeline and interview details
+- **26/10/07 — OUTCOME**: lifecycle_status LIVE_BID → NOT_AWARDED. Iain-confirmed: not shortlisted for CICP2 — full application APP114872 did not progress past panel assessment. Paid bid-support engagement (workshop + Foresight proposal + LoC + match-funding analysis) stands as delivered work; bid outcome is external.
