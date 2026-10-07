@@ -58,8 +58,8 @@
 |---|---|---|
 | `methods_used` | Places-platform evidence derivation; microcluster quantification; multi-route ToC analysis | 03_methods.csv |
 | `method_innovation` | Evidence-pack product — claim-disciplined (core/supporting/review-drop) evidence architecture delivered as a bid input; Places platform as reusable evidence engine | Derived |
-| `spillover_types_identified` | KNOWLEDGE (microcluster evidence); OPTION (CICP2 full bid — outcome EXTERNAL pending) | 04_claims.csv |
-| `option_analysis` | AHRC full-submission outcome pending — do NOT treat as awarded | 04_claims.csv |
+| `spillover_types_identified` | KNOWLEDGE (microcluster evidence); METHOD_TRANSFER — USW adopted the Places evidence pack and applied it inside their own authored submission, which was shortlisted for the next CICP2 round (Iain 26/10/07) | 04_claims.csv + Iain |
+| `option_analysis` | CICP2 full submission SHORTLISTED for next round (26/10/07) — client adoption of our evidence validated at national panel; funding award itself still external/pending | 04_claims.csv + Iain 26/10/07 |
 | `causal_analysis` | DESCRIPTIVE — evidence product for bid | 04_claims.csv |
 | `measurement_approach` | Microcluster quantification | Derived |
 
@@ -77,9 +77,9 @@
 |---|---|---|
 | `tender_relevance_tags` | cicp2, places-evidence, microcluster, usw, wales, consortium-bid, live-outcome | Derived |
 | `buyer_types` | University bid leads, research consortia | Derived |
-| `precedent_strength` | STRONG once outcome known — PO-evidenced paid delivery | Derived |
-| `precedent_caveats` | Bid outcome at AHRC discretion — EXTERNAL; do not imply AMGEN success; USW owns the bid | Derived |
-| `positioning_notes` | Evidence-provider-to-consortium-bid product — the Places platform monetisation path | Derived |
+| `precedent_strength` | STRONG — small fee (<£5k scale) but bears weight as client-adopted method evidence: USW applied our evidence architecture in their own bid and was shortlisted (Iain 26/10/07 framing) | Derived + Iain |
+| `precedent_caveats` | USW owns the bid; cite as evidence commission contributing to a shortlisted submission — not as funded-cluster delivery; same-scale sibling P87 True North shows same reuse pattern but was not shortlisted | Derived |
+| `positioning_notes` | Evidence-provider-to-consortium-bid product — the Places platform monetisation path; strongest signal is method transfer (portable enough for client self-application, validated externally) | Derived + Iain 26/10/07 |
 
 ### B4. Quality and review status
 
@@ -89,4 +89,4 @@
 | `last_reviewed` | 26/09/12 | — |
 | `reviewed_by` | Devin (draft); Iain pending | — |
 | `source_claims` | C-R4-002, C-R5-524..526 | 04_claims.csv |
-| `unresolved_issues` | AHRC outcome (external); evidence-pack reuse licensing | — |
+| `unresolved_issues` | Final CICP2 funding outcome (external); evidence-pack reuse licensing | — |
