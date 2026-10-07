@@ -21,7 +21,7 @@
 | `prime_contractor` | The Fifth Sector / Iain Bennett | contract docs |
 | `geography` | Kotor, Montenegro; Western Balkans regional; UK | register |
 | `sector_focus` | Cultural exchange / creative economy ministerial forum | register |
-| `lifecycle_status` | PHASE_COMPLETE_AWAITING_INSTRUCTION — ministerial phase delivered; follow-on expected | register |
+| `lifecycle_status` | IN_PROGRESS — register 26/10/07 | register |
 
 ### A2. Brief summary
 

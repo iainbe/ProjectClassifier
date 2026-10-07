@@ -130,7 +130,9 @@ Dry-run on today's data (70 projects), using the checks as written, for orientat
 7. Client reuse: card-only `METHOD_TRANSFER` retired in favour of the codebook's `DECISION_USE`, recorded as asserted until a source document is registered (e.g. for the University of South Wales AMGEN bid: their submission or AHRC feedback).
 8. AGENTS.md: the review-team rule (full lane set, all advisory, generality test, analysis before commit, separate revertible commits) is adopted, together with a standing rule that no test, gate or QA check may be weakened without the user's explicit permission. Edit made in AGENTS.md, uncommitted pending the commit decision.
 
-**Facts established (not yet written to the register)**
+**Executed 26/10/07 (register edits):** decisions 2, 3 and 4 and the three project facts are now in the register (31-field register, lifecycle aligned, Derby bid row retired, Lancashire / Lancaster Horizon / Creative Scotland recorded). Not yet done: Kirklees phase rows, client_accepted and early citation_status backfill, Lancaster re-key. See CHANGELOG session 26/10/07 (5).
+
+**Facts established (now written to the register)**
 - Lancashire Create Growth Programme bid: paid; direct contract with Lancashire County Council; PO 321786253/0, GBP 10,000 ex VAT; invoice 1221 GBP 12,000 incl VAT, balance 0.00. Register role SUBCONTRACTOR to become DIRECT.
 - Lancaster University Horizon bid (Virtual Agora): paid; direct; PO 500215141 (8 Oct 2025) GBP 4,158.33 ex VAT (workshop preparation 2,083.33; bid writing 2,075.00); invoice INV-1339 GBP 4,990.00 incl VAT paid by BACS 23 Oct 2025; bid NOT_AWARDED. Note: the figure "fee <GBP 5k" held on another Lancaster row matches this invoice and may be misattached.
 - Creative Scotland salary benchmarking framework: awarded and signed (per Iain); Agreement CS/CA1019, 30 Sep-30 Oct 2026, GBP 11,750 ex VAT (confirmed by Iain; equals the agreement's maximum of GBP 14,100 incl VAT at 20%); direct; live, so IN_PROGRESS and not eligible as delivered evidence until complete.

@@ -6,7 +6,7 @@ Schema-drift check is built in: verifies register header matches expected fields
 import csv, re, os, sys
 
 EXPECTED_TAIL = ['contracting_role','prime_contractor','relationship_evidence',
-                 'review_status','codebook_version','review_batch']
+                 'review_status','codebook_version','review_batch','citation_status','client_accepted']
 CARD_DIR = 'project_index_cards'
 CARD_FIELDS = ['precedent_strength','evidence_strength','contract_value',
                'commercial_reuse','headline_finding','spillover_types_identified',
@@ -35,11 +35,11 @@ def main():
         cf = {f: card_field(card_file, f) for f in CARD_FIELDS} if has_card else {}
         spill = cf.get('spillover_types_identified','')
         spill = ';'.join(re.findall(r'(KNOWLEDGE|PRODUCT|NETWORK|OPTION)', spill)) if spill else ''
-        lifecycle = cf.get('lifecycle_status','').split('—')[0].strip()[:24] or row['lifecycle_status']
+        lifecycle = row['lifecycle_status']  # register is authoritative (Iain decision 1, 26/10/07)
         rows_out.append({
             'project_id': pid, 'project_name': row['canonical_name'], 'client': row['client'],
             'geography': row['geography'], 'date_start': row['date_start'], 'date_end': row['date_end'],
-            'lifecycle_status': lifecycle, 'contracting_role': row['contracting_role'],
+            'lifecycle_status': lifecycle, 'citation_status': row['citation_status'], 'client_accepted': row['client_accepted'], 'contracting_role': row['contracting_role'],
             'prime_contractor': row['prime_contractor'], 'contract_value': cf.get('contract_value','')[:40],
             'card_status': cf.get('card_status','') or ('NO_CARD' if not has_card else ''),
             'precedent_strength': cf.get('precedent_strength','').split('—')[0].strip()[:12],

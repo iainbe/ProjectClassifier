@@ -16,10 +16,10 @@
 | `reference_permission` | NOT_ESTABLISHED | — |
 | `commission_date` | 26/09/18 | 01_projects.csv |
 | `completion_date` | ONGOING | 01_projects.csv |
-| `contract_value` | NOT_ESTABLISHED | — |
+| `contract_value` | GBP 11,750 ex VAT (Agreement CS/CA1019, 30/09/26 to 30/10/26) — Iain 26/10/07 | — |
 | `contracting_role` | PRIME — full submitted tender pack (TheFifthSector-branded) | SRC-R5-006..009; SRC-R5-013 |
 | `geography` | Scotland / national | 01_projects.csv |
-| `lifecycle_status` | PREFERRED_BIDDER | 01_projects.csv |
+| `lifecycle_status` | IN_PROGRESS — register 26/10/07 | 01_projects.csv |
 
 ### A2. Brief summary
 

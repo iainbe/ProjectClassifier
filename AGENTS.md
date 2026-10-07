@@ -16,7 +16,7 @@ Before assigning a claim or source to a project:
 
 These geographies have multiple distinct projects that must not be conflated:
 
-- **Derby**: P35-DERBYMAP (2021 Masterplan), P23-DERBY (2022 Screen Agency), P36-DERBYCSR (2026 bid, unsuccessful)
+- **Derby**: P35-DERBYMAP (2021 Masterplan), P23-DERBY (2022 Screen Agency), T05-DERBY (2026 Culture Strategic Review bid, unsuccessful; tender record only, project row retired 26/10/07)
 - **Liverpool**: P08-LIVDCI, P15-LIVMUS, P19-LCRIMM, P22-LCRFILM (2021 interim evaluation), P33-LCRMUS, P88-LCRPF24 (2024-25 final evaluation), P89-LIVMUSLAB (2025-26 Music Lab, Liverpool City Council)
 - **Kirklees**: P10-KIRK (2022-2026 cycles), P12-KIRK15 (2015)
 - **South Yorkshire**: P20-SYMCA21, P24-SYMCACGP
@@ -89,10 +89,10 @@ For work done by Iain as BOP Associate Director:
 
 ### Unsuccessful bids
 
-- Set `lifecycle_status=NOT_AWARDED` at project level
+- Our own unsuccessful bids are tender-only (`08_tenders.csv`) and have no project row. For a paid bid-support commission that was delivered while the bid failed, `lifecycle_status` describes the commission itself and `programme_status=NOT_AWARDED` records the bid outcome (Iain 26/10/07). Where a project row still carries `lifecycle_status=NOT_AWARDED`, the rules below apply to it as well
 - Set `option_state=EXPIRED` on ALL DESIGN and OPTION claims for that project (not just OPTION effect_family)
 - Do not treat unsuccessful bids as live strategic options
-- Check: any DESIGN claim where `project_id` has `lifecycle_status=NOT_AWARDED` must have `option_state=EXPIRED`
+- Check: any DESIGN claim where `project_id` has `lifecycle_status=NOT_AWARDED` or `programme_status=NOT_AWARDED` must have `option_state=EXPIRED`
 
 ## Forecast vs realised outcome rule
 
@@ -214,7 +214,7 @@ Before completing any QA batch, run ALL of these checks:
 4. **OPTION claims without option_state**: all claims with `effect_family=OPTION` must have `option_state`
 5. **Empty effect_family**: no claims with empty `effect_family`
 6. **Empty fifth_sector_role**: no claims with empty `fifth_sector_role`
-7. **DESIGN claims for unsuccessful bids**: if `project_id` has `lifecycle_status=NOT_AWARDED`, `option_state` must be `EXPIRED`
+7. **DESIGN claims for unsuccessful bids**: if `project_id` has `lifecycle_status=NOT_AWARDED` or `programme_status=NOT_AWARDED`, `option_state` must be `EXPIRED`
 8. **EFFECT claims without attribution_strength**: all EFFECT claims must have `attribution_strength`
 9. **Claims with £ figures but empty value_basis**: all claims with `£[\d.]+` in proposition must have `value_basis`
 10. **Sector baselines mislabelled as METHOD_OUTPUT**: scan METHOD_OUTPUT claims for baseline patterns (GVA, employment, turnover, LQ, company count) and verify they are genuine method outputs

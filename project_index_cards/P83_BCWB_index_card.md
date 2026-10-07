@@ -21,7 +21,7 @@
 | `prime_contractor` | The Fifth Sector | register |
 | `geography` | Montenegro; North Macedonia; Albania; Western Balkans regional | register |
 | `sector_focus` | Creative economy capacity building — council/institution design | register |
-| `lifecycle_status` | PHASE_COMPLETE_AWAITING_INSTRUCTION — design phase delivered; implementation transition incomplete (honest claim C-G2-148) | register + claims |
+| `lifecycle_status` | IN_PROGRESS — register 26/10/07 | register + claims |
 
 ### A2. Brief summary
 

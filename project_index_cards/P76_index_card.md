@@ -16,10 +16,10 @@
 | `reference_permission` | NOT_ESTABLISHED | — |
 | `commission_date` | 25/07 | 01_projects.csv |
 | `completion_date` | 25/08 | 01_projects.csv |
-| `contract_value` | £4,158.33+VAT (PO 5002151418) | SRC-R5-014 |
-| `contracting_role` | LEAD_CONSULTANT — paid bid development (PO 5002151418: workshop £2,083.33 + bid writing £2,075) | SRC-R5-014 |
+| `contract_value` | GBP 4,158.33 ex VAT (PO 500215141; INV-1339 GBP 4,990.00 incl VAT paid 23/10/25) | SRC-R5-014 |
+| `contracting_role` | DIRECT — PO from Lancaster University | SRC-R5-014 |
 | `geography` | Lancaster | 01_projects.csv |
-| `lifecycle_status` | NOT_AWARDED | 01_projects.csv |
+| `lifecycle_status` | COMPLETED (programme NOT_AWARDED) — register 26/10/07 | 01_projects.csv |
 
 ### A2. Brief summary
 
