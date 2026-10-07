@@ -242,7 +242,7 @@ At each milestone mention: append a Milestone section to the PM record. Ask the 
 Before ANY CSV edit: verify field count AND positional semantics against the header. Right column count ≠ right values — check 2-3 existing rows first. (Pass 4 repair lesson.)
 
 ### Stale-artefact rule
-After card or register changes: regenerate `project_index.csv`.
+After card or register changes: regenerate `project_index.csv`. After any change to the register, claims, methods or permission file, also run `python3 tools/eligibility_report.py` to regenerate `eligibility_report.csv` and `eligibility_report.md`.
 
 ### Repo sync
 Canonical = this Drive folder. `ProjectClassifier/` repo is the versioned mirror — sync after register-changing sessions, commit with the trigger named, and **push to `origin/main` (github.com/iainbe/ProjectClassifier) at the end of every register-changing session** so the remote mirror stays current (Iain instruction 26/10/07 — replaces the earlier push-only-when-asked rule).

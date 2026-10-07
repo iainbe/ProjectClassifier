@@ -544,3 +544,12 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - `main` had four commits not on the branch: tender T23-TVBTV registered (TVCA Business Tees Valley Support Spine Framework), its full-team go/no-go review, company accounts archived with ratios computed, and credit signals checked. They touched `02_sources.csv`, `08_tenders.csv`, `10_review_history.csv`, `CHANGELOG.md`, `tier2_qa_review.md` and added `company_accounts/`
 - Four conflicts, resolved without rewriting history (a merge commit): `02_sources.csv` took `main`'s file (which only converted CRLF to LF and added source SRC-R5-173) and re-applied this branch's seven row changes (SRC-R3-04 to -07, SRC-G2-030, SRC-G2-074, SRC-R5-001); `10_review_history.csv`, `CHANGELOG.md` and `tier2_qa_review.md` are append-only logs, so both sides' entries are kept (main's first, then this branch's)
 - Checks after the merge: no conflict markers, unique source and review IDs, source and claim project links valid, tender T23 present, review history 356 rows, `project_index.csv` regenerated. `02_sources.csv` is now LF-ended like `main`
+
+## Session 26/10/07 (10): Eligibility report (first build step of the staged plan)
+
+**Trigger:** Iain: "whichever makes most sense - you have a plan, right?"
+
+- **New tool:** `tools/eligibility_report.py` (read-only) writes `eligibility_report.csv` and `eligibility_report.md`: five checks per project (delivered and accepted; citable; lapsed option; method current; role wording) as PASS / FAIL / UNKNOWN, evidence kinds shown side by side and never ranked, referee permission shown but not a check, and a ranked list of the missing facts that block the most completed projects. Unrecorded facts are UNKNOWN, never PASS; no test weakened
+- **First run (69 projects, 60 completed):** delivered/accepted PASS 0, FAIL 9, UNKNOWN 60 (client acceptance not recorded); citable PASS 55, FAIL 4, UNKNOWN 10; lapsed option PASS 69; method current PASS 34, UNKNOWN 35 (no method rows registered); role wording PASS 44, UNKNOWN 25. No project is fully determinable yet
+- **AGENTS.md:** stale-artefact rule now also requires running the eligibility report after register, claim, method or permission changes
+- **Open question for Iain:** a project with no method rows is UNKNOWN on "method current" (27 completed projects). Either method rows are expected for every project, or "no method used" may count as not applicable; left UNKNOWN until Iain decides
