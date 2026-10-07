@@ -24,7 +24,7 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `brief_summary` | Evaluation-approach design for UKRI/AHRC's £61m Creative Industries Clusters Programme (2018-23; £55m core to nine CRDPs — the £80m press figure included co-investment) — the national programme whose successor CICP2 (£50m initial DCMS) is what P75-LANC and P85-AMGEN bid into. Mixed-methods design combining contribution analysis, CBA, DiD and sector/workforce mapping. Iain contributed the sector/workforce mapping and methodology design as BOP subcontractor. | C-G2-024 + UKRI final eval report (web-verified 26/09/12) |
+| `brief_summary` | Evaluation-approach design for UKRI/AHRC's £61m Creative Industries Clusters Programme (2018-23; £55m core to nine CRDPs — the £80m press figure included co-investment) — the national programme whose successor CICP2 (£50m initial DCMS) is what the True North bid (P87-TRUENORTH) and P85-AMGEN bid into. Mixed-methods design combining contribution analysis, CBA, DiD and sector/workforce mapping. Iain contributed the sector/workforce mapping and methodology design as BOP subcontractor. | C-G2-024 + UKRI final eval report (web-verified 26/09/12) |
 | `client_objective` | A defensible evaluation framework for the national CICP programme | source |
 
 ### A3. Key findings / significance
@@ -32,7 +32,7 @@
 | Field | Value | Source |
 |---|---|---|
 | `headline_finding` | Evaluation architecture for the national creative-clusters programme — contribution analysis + CBA + DiD | C-G2-024 |
-| `positioning` | Insider knowledge of how CICP bids will be evaluated — directly relevant to P75/P85 AHRC work and any cluster-evaluation tender | Derived |
+| `positioning` | Insider knowledge of how CICP bids will be evaluated — directly relevant to P87/P85 AHRC work and any cluster-evaluation tender | Derived |
 
 ### A4. Permitted use
 
@@ -52,7 +52,7 @@
 | `precedent_strength` | MODERATE — subcontractor design contribution; strong method credential, weak client-facing ownership | Derived |
 | `precedent_caveats` | BOP/Frontier were the named primes — must be cited as contribution | rules |
 | `tender_relevance_tags` | UKRI-AHRC, evaluation-design, contribution-analysis, CBA, DiD, CICP, national-programme | Derived |
-| `comparable_tenders` | P75-LANC, P85-AMGEN (bids into the programme this evaluated) | register |
+| `comparable_tenders` | P87-TRUENORTH, P85-AMGEN (bids into the programme this evaluated) | register |
 | `card_status` | DRAFT — pending Iain walkthrough | 26/09/12 |
 | `unresolved_issues` | (1) whether evaluation-delivery phases continued beyond 2020 design; (2) date_end UNKNOWN | register |
 

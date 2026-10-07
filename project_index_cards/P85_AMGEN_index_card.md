@@ -69,7 +69,7 @@
 |---|---|---|
 | `repeatability` | HIGH — Places-evidence-as-a-service for consortium bids | Derived |
 | `data_dependencies` | Places platform; Welsh sector data | Derived |
-| `reuse_examples` | Sibling to P75-LANC (same method, different cluster); P87 True North related arc | Derived |
+| `reuse_examples` | Sibling to the True North bid support (P87-TRUENORTH: same method, different cluster, same size at GBP 8,333 ex VAT); preceded in Lancaster by the December 2025 workshop and summary report (P75-LANC) | Derived |
 
 ### B3. Tender relevance
 

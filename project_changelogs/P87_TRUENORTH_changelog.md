@@ -17,3 +17,6 @@
 - **2 evidence links**: E-R5-018, E-R5-019
 - **Card updated** with AHRC assessment timeline and interview details
 - **26/10/07 — OUTCOME**: lifecycle_status LIVE_BID → NOT_AWARDED. Iain-confirmed: not shortlisted for CICP2 — full application APP114872 did not progress past panel assessment. Paid bid-support engagement (workshop + Foresight proposal + LoC + match-funding analysis) stands as delivered work; bid outcome is external.
+
+## 26/10/07 — Lancaster re-key
+- Re-keyed (Iain 26/10/07): this ID is the True North CICP2 bid support, delivered June to 20 August 2026, GBP 8,333 + VAT (PO 500222361, order total GBP 9,999.00), lifecycle LIVE_BID/NOT_AWARDED -> COMPLETED with programme_status NOT_AWARDED (client application not shortlisted). The GBP 1,499.70 workshop payment (INV-1357) belongs to P75-LANC and is no longer attributed here. SRC-G2-074 (True North application) moved here. Claims: C-R4-002 set EXPIRED, C-R4-001 effect_family set NOT_APPLICABLE. Card rewritten. Changelog entries above cite claims C-R4-003/004 and evidence E-R5-018/019 that are not in the registers (VAL-S261007-17).

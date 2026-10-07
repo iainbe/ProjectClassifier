@@ -77,7 +77,7 @@
 | `data_dependencies` | Cultural surveys, Creative Wakefield data, council priorities/finances | claims |
 | `access_requirements` | Council cooperation; corporate priorities access | — |
 | `effort_estimate` | ~5 months (Oct 22–Mar 23) | dates |
-| `reuse_examples` | Pattern repeated: business case → funded programme → evaluation = the Wakefield three-commission sequence (P64→P69); also the shape of P85/P75 evidence-for-bid work | Derived |
+| `reuse_examples` | Pattern repeated: business case → funded programme → evaluation = the Wakefield three-commission sequence (P64→P69); also the shape of P85/P87 evidence-for-bid work | Derived |
 
 ### B3. Tender relevance
 

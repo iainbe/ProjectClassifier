@@ -500,3 +500,16 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **QA run:** unique IDs, foreign keys, empty effect_family/role, EFFECT attribution, GBP value_basis: pass except pre-existing items on the Lancaster True North bid support row (C-R4-001 empty effect_family; C-R4-002 option without state), left for the Lancaster re-key
 - **Validation actions added:** VAL-S261007-08 to -15. No test, gate or check was weakened
 - **Residual:** Lancaster re-key (True North / workshop / fee mix-up); Kirklees phase rows; backfill of client_accepted and the ten earliest citation_status values; decision 9 (permission requests) paused at Iain's request
+
+## Session 26/10/07 (6): Lancaster re-key
+
+**Trigger:** Iain: "Go ahead with the Lancaster re-key" (after settling that the December 2025 summary report belongs to the workshop work)
+
+- **Outcome:** IDs now follow names. **P75-LANC** = Lancaster AHRC CIC workshop and Nature-Culture Tech Creative Cluster summary report (v2), December 2025 (25/12), GBP 1,499.70 (INV-1357 dated 09/02/26, paid late by BACS 08/05/26), DIRECT, DELIVERED_WORK, folder `Archive projects/2025 Projects/2025 Lancaster AHRC CIC`. **P87-TRUENORTH** = True North CICP2 bid support, 26/06 to 26/08/20, GBP 8,333 + VAT per Iain (PO 500222361 dated 25/06/26, order total GBP 9,999.00), DIRECT, COMPLETED with programme_status NOT_AWARDED (client application not shortlisted), DELIVERED_WORK
+- **Moved:** source SRC-G2-074 (True North application) P75 -> P87; source SRC-R5-001 (workshop remittance) P87 -> P75. Claim C-G2-270 stays with the workshop (its only evidence link is the True North application, now on P87)
+- **QA fixes inside the re-key:** C-R4-002 (interview option) set EXPIRED; C-R4-001 empty effect_family set NOT_APPLICABLE. After this the register has no OPTION-without-state and no empty effect_family
+- **Text corrected:** permission row PR-06 wording and notes (accuracy only; redesign still paused); bid record T01 (True North now P87); cards for P16, P64, P81, P85; case-study decision doc correction note; both Lancaster cards rewritten; both changelogs
+- **Register effect:** lifecycle now COMPLETED 60, IN_PROGRESS 9; no lifecycle NOT_AWARDED rows remain
+- **Retracted:** the VAL-S261007-10 suspicion that the "<GBP 5k" fee was the Horizon invoice; it is the workshop fee. Marked RESOLVED
+- **Added:** VAL-S261007-16 (PO total GBP 9,999.00 vs GBP 8,333 + VAT), -17 (changelog cites claims C-R4-003/004 and evidence E-R5-018/019 that do not exist), -18 (workshop date and VAT of INV-1357), -19 (summary report not registered as a canonical source)
+- **Residual:** items above; Kirklees phase rows; client_accepted and early citation_status backfill; decision 9 (permission requests) paused; the 254 evidence rows pointing at absent claims (pre-existing)
