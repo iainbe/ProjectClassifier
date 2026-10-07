@@ -191,6 +191,19 @@ Before writing positioning conclusions, CAN questions or submission content for 
 4. **Record** the review in `tier2_qa_review.md` and `10_review_history.csv`; material findings go into the tender's `notes` field.
 5. Team source of truth: `Active projects/Skills prompts/foresight-agent-files-*/skills/` — re-sync `.devin/skills/` if those source files change.
 
+## Review-team protocol for method, schema and taxonomy changes (26/10/07)
+
+Any change to the ontology, claim taxonomy, register schema, selection or weighting method, or to this file is reviewed by the same lane team before adoption — not only tenders.
+
+1. **Run the full set**: `sark` / `load-the-team`, `blindspot`, `deepthink`, `sheldon`, `wishful`, `thad`, `shaz`, `skin`, `fok`; add `grey` where buyer or competitor intelligence is involved. If a lane is skipped, the review record names it and says why. A review that silently runs a subset is incomplete.
+2. **All lanes are ADVISORY.** No lane may block or stop work, including `thad`. Each returns FIX-NEEDED items (diagnosis, concrete fix, owner, effort, evidence that it is fixed) and, if useful, a readiness label (READY / READY-WITH-FIXES / NEEDS-MORE-WORK). The user decides.
+3. **Test for generality**: run against all available tenders and projects, and against at least two hypothetical future cases of a different shape. A design fitted to one worked example or one tender is not reviewed.
+4. **Analysis before commit**: present the combined analysis to the user before committing the change. Each fix item is a separate, revertible commit.
+5. **Record** the review in `tier2_qa_review.md` and `10_review_history.csv`.
+6. **Test strength (standing rule, Iain 26/10/07)**: no existing test, gate, check or QA item may be weakened, relaxed, narrowed, made "not applicable" or time-boxed without the user's explicit permission. A lane, agent or proposal that suggests it must present it as a separate decision for the user; the default is that the test stays as strong as it is.
+
+The tender review protocol above also applies its lanes in advisory mode.
+
 ## QA verification checklist
 
 Before completing any QA batch, run ALL of these checks:

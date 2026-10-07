@@ -467,3 +467,23 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **P89-LIVMUSLAB** registered: Liverpool City Council, PRIME, 25/10-26/02, original GBP 9,999 (POs 3500530818 + 3500530819) extended with GBP 1,500 + VAT (PO 3500535803). C-G2-271 moved from P75-LANC. VAL-S261007-05..07 added
 - AGENTS.md Liverpool multi-project list extended with P22 (2021), P88, P89. `project_index.csv` regenerated
 - Observed, not fixed: `client_type` mixes upper and lower case values (e.g. LOCAL_AUTHORITY / local_authority); `10_review_history.csv` has ragged rows
+
+## Session 26/10/07 (4): Ontology v2 review, decisions 1-8, AGENTS.md rules, Drive undo table
+
+**Trigger:** Iain: "use the Agents to determine options for best approach to ... ontology and weighting for selection of case studies and method statements"; later "walk me through the outstanding decisions one by one"
+
+- **Review:** option analysis from `case_study_selection_decision.md` (A-D), then a draft `ontology_v2_DRAFT.md` (not adopted). Lanes run: THAD (advisory), generalisation dry-run across tenders, consistency audit, blindspot, deepthink, sheldon, wishful, shaz, skin, fok. Not run as agents: sark/load-the-team (lane selection done by the session) and grey (no buyer intelligence). THAD, generalisation and consistency ran on revision 1; the rest on revision 2. All advisory. Counts corrected after review: 70 projects, 27 empty `contracting_role`, 60 `sector_activity` values, 41 `method_family` values
+- **Decisions taken (Iain):** (1) direction approved: register is truth, existing codebook claim axes, a case study is a use of a project against a tender requirement; (2) staged build plus a minimal use log, new register columns `citation_status` and `client_accepted`, requirements stay free text until the structure has been retyped three times; (3) lifecycle aligned to codebook v1.3 plus BID_PENDING, one name per stage, unclosed work held at IN_PROGRESS until client acceptance; (4) existing rule applied to bids held as projects; (5) evaluator-reported effects a separate sub-class, not ranked below delivered outputs; (6) evidence kinds are parallel, not a ladder; (7) client reuse coded DECISION_USE, asserted until sourced; (8) AGENTS.md review-team rule and standing test-strength rule adopted
+- **AGENTS.md:** new section "Review-team protocol for method, schema and taxonomy changes": full lane set, advisory only, generality test, analysis before commit, separate revertible commits, and the standing rule that no test, gate or QA check is weakened without explicit permission
+- **Facts established, not yet written to the register:** Lancashire Create Growth Programme bid: paid, direct with Lancashire County Council, GBP 10,000 ex VAT (PO 321786253/0, invoice 1221); Lancaster University Horizon bid (Virtual Agora): paid, direct, GBP 4,158.33 ex VAT (PO 500215141; invoice INV-1339 GBP 4,990.00 paid 23/10/25), not awarded; Creative Scotland salary benchmarking framework: awarded, GBP 11,750 ex VAT (agreement CS/CA1019, 30/09/26 to 30/10/26), live. No register row was changed this session step
+- **Drive undo table** (changes made this day; to reverse, set the parent and title back):
+
+| Folder (current name) | Drive folder ID | Previous name | Previous parent (name, ID) |
+|---|---|---|---|
+| 2025 Liverpool Musiclab | 1mbVTIDhP6RHTdddJxPYSqONW4CCnrfXd | unchanged | "2025 Projects" in the Google project folders tree, 1_6HJHqZ0ni3K07nmd3VlWJKiyEy7Qrf0 (now in Archive 2025 Projects, 1xTDlk_UIuY3FNNOzU9vwkuqVDaekxWij) |
+| 2021 Liverpool Production Fund interim evaluation | 1RQzYlGCNN3R-QTJWsUkSHniajkY_vxjP | 2020 Liverpool Film Fund evaluation | "2020 Projects", 1DUlfL68Ue2sgFrcOYqSEQ0Ht5XyTGmth (now in "2021 Projects", 1roMvXyu1M5gZVFBcoE71ktfjUuAJCaZp) |
+| 2024 Liverpool Production Fund (the fuller working folder) | 1pT0A8-ZJL11wd_kEId1o43_KLUDcjMcM | unchanged | "2025 Projects", 1xTDlk_UIuY3FNNOzU9vwkuqVDaekxWij (now in "2024 Projects", 1_U1XT3RGifBW_CPDzdPkn26zDPWSIZaO) |
+| ZZ superseded duplicate - 2024 Liverpool Production Fund (subset, safe to delete) | 1wGKdcSQ02_pA3dO16fvKqR7fqAgJdVrF | 2024 Liverpool Production Fund | unchanged ("2024 Projects", 1_U1XT3RGifBW_CPDzdPkn26zDPWSIZaO) |
+
+  The first three moves and the rename are described in the 26/10/07 (2) and (3) entries above. Nothing was deleted from Drive.
+- **Residual:** register edits from decisions 3 and 4 (lifecycle mapping, the Derby bid to tender-only, the new columns) and the three project fact updates are not yet made; decision 9 (permission requests) is open and paused at Iain's request; the earlier Lancaster fee mix-up question stays open
