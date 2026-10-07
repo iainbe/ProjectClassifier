@@ -37,3 +37,10 @@ Source: `OneDrive-TheFifthSector/Documents - The Fifth Sector/{year} ... Account
 **Watch item — turnover ratio.** The FVRA also compares annual contract value to annual turnover. With turnover ~£200k, a lot whose annual value approaches or exceeds £100-200k will flag amber/red on proportionality even though margins and liquidity are green. This reinforces the consortium-partner or Lot-7 positioning on T23-TVBTV rather than a large sole-supplier delivery lot.
 
 **Other declarations likely needed:** audit exemption (no external audit opinion — declare as such); Creditsafe score is external, not derivable from accounts (ITT cites <30 as fail support); insurance certificates separate (PL/EL/PI levels vary by tender).
+
+## External credit signals (checked 26/10/07)
+
+- Company no. **07539809**, incorporated 23/02/2011, SIC 70229, registered Edward Pavilion, Albert Dock, Liverpool L3 4AF
+- CompanyRank.ai health score **80/100** (75th percentile among SIC peers); DataGardener **"low risk"**
+- Accounts filed to 31/03/2026 (filed Aug 2026); confirmation statement current; no CCJs or insolvency flags on aggregators
+- **Creditsafe's own 0-100 score not yet captured** — free lookup at creditsafe.com (manual form); TVCA threshold <30. Aggregate signals suggest a fail is unlikely; verify before T23 submission and record the number here
