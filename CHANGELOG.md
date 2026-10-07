@@ -458,3 +458,12 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **G Drive:** "2020 Liverpool Film Fund evaluation" renamed "2021 Liverpool Production Fund interim evaluation" and moved to 2021 Projects; the fuller "2024 Liverpool Production Fund" moved from 2025 Projects to 2024 Projects; the subset duplicate in 2024 Projects (verified: every file also in the fuller folder, matching names and sizes) renamed "ZZ superseded duplicate ... safe to delete". Nothing deleted. Also moved "2025 Liverpool Musiclab" into 2025 Projects (project not yet registered)
 - P88 fields not evidenced (contracting_role, contract value, client acceptance, exact dates) left blank, not inferred; VAL-S261007-01..04 added. `project_index.csv` regenerated
 - Residual: P22 card still mixes interim and final figures and P88 has no card or claims; per-project changelogs not yet written; Music Lab project (LCC, prime, 25/10-26/02, POs 3500530818 + 3500530819 = GBP 9,999 plus 3500535803 GBP 1,500 + VAT) not yet registered; AGENTS.md Liverpool list not yet updated
+
+## Session 26/10/07 (3): Production Fund split completed; Music Lab registered
+
+**Trigger:** Iain: P22 was a competed contract in its own right, P88 separately contracted in 2024; Music Lab details supplied; "proceed"
+
+- Contracting facts recorded on P22 and P88. P22 card rewritten interim-only; P88 and P89 cards created (PROVISIONAL, no claims). Per-project changelogs written for P22, P88, P89
+- **P89-LIVMUSLAB** registered: Liverpool City Council, PRIME, 25/10-26/02, original GBP 9,999 (POs 3500530818 + 3500530819) extended with GBP 1,500 + VAT (PO 3500535803). C-G2-271 moved from P75-LANC. VAL-S261007-05..07 added
+- AGENTS.md Liverpool multi-project list extended with P22 (2021), P88, P89. `project_index.csv` regenerated
+- Observed, not fixed: `client_type` mixes upper and lower case values (e.g. LOCAL_AUTHORITY / local_authority); `10_review_history.csv` has ragged rows

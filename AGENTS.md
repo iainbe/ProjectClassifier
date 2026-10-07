@@ -17,7 +17,7 @@ Before assigning a claim or source to a project:
 These geographies have multiple distinct projects that must not be conflated:
 
 - **Derby**: P35-DERBYMAP (2021 Masterplan), P23-DERBY (2022 Screen Agency), P36-DERBYCSR (2026 bid, unsuccessful)
-- **Liverpool**: P08-LIVDCI, P15-LIVMUS, P19-LCRIMM, P22-LCRFILM, P33-LCRMUS
+- **Liverpool**: P08-LIVDCI, P15-LIVMUS, P19-LCRIMM, P22-LCRFILM (2021 interim evaluation), P33-LCRMUS, P88-LCRPF24 (2024-25 final evaluation), P89-LIVMUSLAB (2025-26 Music Lab, Liverpool City Council)
 - **Kirklees**: P10-KIRK (2022-2026 cycles), P12-KIRK15 (2015)
 - **South Yorkshire**: P20-SYMCA21, P24-SYMCACGP
 - **Wakefield**: P27-WAKECDF, P31-PRODPARK
