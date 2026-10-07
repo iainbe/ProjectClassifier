@@ -426,3 +426,10 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **Catch-up sweep run** (SWEEP-261007-2036): 25,304 files; 19 unregistered project folders; 54 possible tenders; 296 unregistered sources; 115 updated sources; 32 tender files; large DRIFT count (382) is baseline noise from the stale Sep-12 state and the drift-root switch — expected to quieten from the next run.
 - **Headline findings**: new live proposal folders (DCMS AI Adoption, Futurecity, Oxford Economics, V&A, WY TRADS, Creative Scotland Frameworks of Impact); Liverpool Digital has formal ITT + drafted response (T15 needs updating); Beatles Report Pack delivered 26/10/07 (~350 new files, P78); P87 True North, WB6, BCWB, Kirklees folders moved to Archive (outcome/status check needed); Queen's Hall and LCR Film Impact in "2026 Proposals lost" (T02 outcome needs recording).
 - **Docs updated**: README_sweep.md (paths, remote trigger, loud failures, heartbeat), JON_SWEEP_GUIDE.md (toolkit path + remote trigger), AGENTS.md session-start rule (SWEEP_FAILED + LAST_RUN_OK checks).
+
+### Addendum: T21-CSFI registered + brief analysed (26/10/07)
+
+- **T21-CSFI registered**: Creative Scotland "Research Examining Frameworks of Impact in the Creative Economy" — deadline noon 26/10/28, Q&A closes 26/10/16, £35-45k ex VAT, PQR 80:20 (understanding 30 / method 25 / PM 10 / team 15), 4x900-word submissions, sole supplier, contract to 30/04/27.
+- **SRC-R5-171**: ITT brief registered (tender-only source, empty project_id per rule); extracted to `extracted_text/SRC-R5-171_v1_full.txt` (textutil, full read).
+- **Intel registered (Iain 26/10/07)**: The Audience Agency in liquidation — institutional memory with Patrick Towell; TFCC published National Cultural Framework for LGA/CLOA 26/09/17 (governance/system model, not measurement) — likely bidder.
+- **Positioning analysis delivered**: measurement-architecture framing (baseline vs contribution vs option) as differentiator; partner route recommended — Scottish wellbeing-policy specialist + Patrick Towell (audience data); Fleming framework to be cited and differentiated in review strand.
