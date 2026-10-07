@@ -513,3 +513,10 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **Retracted:** the VAL-S261007-10 suspicion that the "<GBP 5k" fee was the Horizon invoice; it is the workshop fee. Marked RESOLVED
 - **Added:** VAL-S261007-16 (PO total GBP 9,999.00 vs GBP 8,333 + VAT), -17 (changelog cites claims C-R4-003/004 and evidence E-R5-018/019 that do not exist), -18 (workshop date and VAT of INV-1357), -19 (summary report not registered as a canonical source)
 - **Residual:** items above; Kirklees phase rows; client_accepted and early citation_status backfill; decision 9 (permission requests) paused; the 254 evidence rows pointing at absent claims (pre-existing)
+
+## Session 26/10/07 (7): True North value confirmed; changelog references corrected
+
+**Trigger:** Iain: "The PO total is VAT-inclusive, £9,999" and "record the VAT-inclusive PO total and fix the changelog references"
+
+- **True North bid support** (P87-TRUENORTH): value recorded as GBP 9,999 including VAT (PO 500222361), about GBP 8,333 ex VAT (exactly 8,332.50 at 20%; GBP 8,333 + VAT is the same fee rounded). Register notes, relationship evidence and card updated. VAL-S261007-16 resolved
+- **Changelog references fixed:** the True North changelog cited claims C-R4-003 and C-R4-004 and evidence E-R5-018 and E-R5-019, which are not in the registers. Corrected to C-R4-001 and C-R4-002 and E-R5-602 and E-R5-603, matched by content (assessment timeline; interview claim; links from SRC-R5-161); original wording kept in brackets. The match is by content, not proven. VAL-S261007-17 resolved
