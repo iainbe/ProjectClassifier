@@ -23,10 +23,8 @@
 ## How to test it
 
 ```bash
-# Full path on Iain's machine (yours will differ — find your own
-# Google Drive mount under ~/Library/CloudStorage/):
-cd "/Users/iainbe/Library/CloudStorage/GoogleDrive-iain@thefifthsector.co.uk/My Drive/Website 2026/spillover-toolkit"
-python3 tools/drive_sweep.py        # run a sweep now
+cd "/Users/iainbe/Library/CloudStorage/GoogleDrive-iain@thefifthsector.co.uk/My Drive/Website 2026/ProjectClassifier"
+bash tools/run_sweep.sh           # run a sweep now (via the loud-failure wrapper)
 open sweep_reports/SWEEP_LATEST.md  # read the report
 ```
 
@@ -34,7 +32,31 @@ open sweep_reports/SWEEP_LATEST.md  # read the report
 
 ## Schedule
 
-Installed as a launchd job — runs weekday mornings at 09:00 (`com.thefifthsector.toolkit-sweep`). To change frequency or disable: `~/Library/LaunchAgents/com.thefifthsector.toolkit-sweep.plist` (unload with `launchctl unload`).
+Installed as two launchd jobs — `com.thefifthsector.toolkit-sweep` (weekday 09:00 sweep) and `com.thefifthsector.toolkit-sweep-trigger` (300s remote-trigger poll). Source plists live in `tools/`; copies are installed at `~/Library/LaunchAgents/`. To change: edit `tools/` copy, re-copy, `launchctl bootout gui/$UID <label>` then `launchctl bootstrap gui/$UID <plist>`.
+
+**REQUIRED one-time step — disk access:** launchd children have no TCC permission for `~/Library/CloudStorage`, so both jobs exec `~/bin/toolkit-sweep-launcher` (compiled from `tools/sweep_launcher.c`, deliberately outside CloudStorage). Grant it Full Disk Access once: System Settings → Privacy & Security → Full Disk Access → + → Cmd+Shift+G → `~/bin/toolkit-sweep-launcher`. If macOS shows an "would like to access files" prompt attributed to toolkit-sweep-launcher instead, approving that also works. Until granted, runs fail at bash-open — check `sweep_reports/launchd.log` / `trigger.log` and `LAST_RUN_OK` staleness.
+
+To rebuild the launcher after changing `sweep_launcher.c`:
+```bash
+clang -o ~/bin/toolkit-sweep-launcher tools/sweep_launcher.c
+```
+
+## Remote trigger (any device)
+
+A second launchd job (`com.thefifthsector.toolkit-sweep-trigger`) polls `Website 2026/sweep_requests/` every 5 minutes via `tools/check_sweep_trigger.sh`. Because that folder lives in Google Drive, **dropping any file into it from any signed-in device (web, phone, another Mac) fires a sweep on Iain's machine** within ~5 minutes of Drive syncing it. Trigger files are consumed — the wrapper deletes them after the run.
+
+To trigger from a phone or the web: Drive app → `Website 2026/sweep_requests/` → upload any small file or create a Google Doc there.
+
+Note: launchd `QueueDirectories` does not fire reliably on Google Drive File Provider mounts, which is why the trigger uses a polling job instead. The main plist keeps `QueueDirectories` too — if it ever does fire, that's a bonus early run, not the mechanism to rely on.
+
+## Loud failures and heartbeat
+
+`tools/run_sweep.sh` wraps the Python script:
+
+- **On success:** writes `sweep_reports/LAST_RUN_OK` (timestamp) and clears `SWEEP_FAILED.md`.
+- **On failure (non-zero exit):** writes `sweep_reports/SWEEP_FAILED.md` with the log tail, prepends a failure banner to `SWEEP_LATEST.md` (last good report preserved below it), and pops a macOS notification.
+- **If the job can't launch at all** (plist path wrong, agent unloaded): nothing runs, so nothing writes. Detect this by heartbeat staleness — if `LAST_RUN_OK` is missing or older than ~3 weekdays, the sweep is dead. The session-start rule in AGENTS.md checks this.
+- Launchd-level errors (script missing, permissions) go to `sweep_reports/launchd.log`; script errors go to `sweep_reports/sweep.log`.
 
 ## Tuning — the "matrix"
 

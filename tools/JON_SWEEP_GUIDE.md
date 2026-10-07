@@ -1,6 +1,6 @@
 # The Drive Sweep — guide + test for Jon
 
-**Your access:** `drive.google.com` signed in as **jon@thefifthsector.co.uk** → shared items → `Website 2026/spillover-toolkit`. Web Drive is the canonical route — never filesystem paths (they only exist on Iain's machine).
+**Your access:** `drive.google.com` signed in as **jon@thefifthsector.co.uk** → shared items → `Website 2026/ProjectClassifier`. Web Drive is the canonical route — never filesystem paths (they only exist on Iain's machine).
 
 **For Places:** pull toolkit material via **share link / file ID** (right-click → Share → copy link; the ID is stable across machines and accounts). Store that, not paths.
 
@@ -10,7 +10,7 @@
 
 A script that scans Fifth Sector's Drive areas — `Active projects`, `Active proposals`, `Archive projects`, `Archive proposals`, and the toolkit itself — compares every file to its last snapshot, and reports anything new, changed, or missing versus the project registers. It exists because the registers were rebuilt retroactively and gaps kept appearing; the sweep makes drift visible as it happens instead of years later.
 
-**It runs on Iain's machine** (weekday 09:00, scheduled) — you don't run it. You read its output and judge whether it's catching the right things.
+**It runs on Iain's machine** (weekday 09:00, scheduled) — you don't run it directly, but you **can trigger it remotely**: drop any file into `Website 2026/sweep_requests/` in Drive and a sweep fires within ~5 minutes of sync. Trigger files are deleted after the run — they're consumed, not kept. You read its output and judge whether it's catching the right things.
 
 ## What it reports
 

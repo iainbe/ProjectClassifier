@@ -13,6 +13,7 @@ IGNORE = [re.compile(p) for p in CFG['ignore_patterns']]
 TENDER_RE = re.compile('|'.join(CFG['tender_patterns']), re.I)
 STATE_PATH = os.path.join(TK, CFG['state_file'])
 REPORT_DIR = os.path.join(TK, CFG['report_dir'])
+DRIFT_ROOTS = tuple(w['path'].rstrip('/') + '/' for w in CFG['watch_roots'] if w.get('severity') == 'DRIFT')
 
 def ignored(rel):
     return any(p.search(os.path.basename(rel)) or p.search(rel) for p in IGNORE)
@@ -66,7 +67,7 @@ def scan():
 
 def classify(rel, proj_folders, src_names, non_proj, tender_folders):
     # toolkit-internal changes
-    if rel.startswith('Website 2026/spillover-toolkit/'):
+    if rel.startswith(DRIFT_ROOTS):
         return ('DRIFT', 'register/toolkit file changed outside a session')
     # inside a registered project folder?
     for pf, pid in proj_folders.items():

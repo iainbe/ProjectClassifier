@@ -224,7 +224,7 @@ Plus per-project `project_changelogs/` entries for any project whose data/card c
 A session is NOT complete until these are written. This is not optional and does not require a user reminder.
 
 ### Session-start rule
-At the start of any toolkit session: check `sweep_reports/SWEEP_LATEST.md` for new Drive findings (unregistered projects, possible tenders, unregistered sources, register drift) and surface anything needing attention before other work.
+At the start of any toolkit session: check `sweep_reports/SWEEP_LATEST.md` for new Drive findings (unregistered projects, possible tenders, unregistered sources, register drift) and surface anything needing attention before other work. Also check sweep health: `sweep_reports/SWEEP_FAILED.md` present = last run failed; `sweep_reports/LAST_RUN_OK` missing or older than ~3 weekdays = the scheduled sweep is dead — treat either as needing attention before other work.
 
 ### Enforcement: pre-commit hook
 `tools/check_session_closure.sh` is installed as the repo's pre-commit hook — commits that change toolkit files without staging all three audit artefacts (CHANGELOG.md, tier2_qa_review.md, 10_review_history.csv) are blocked. Bypass only in emergency: `git commit --no-verify`. Reinstall after clone: `cp tools/check_session_closure.sh .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit`

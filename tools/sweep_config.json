@@ -23,7 +23,7 @@
       "reason": "late-arriving archive material"
     },
     {
-      "path": "Website 2026/spillover-toolkit",
+      "path": "Website 2026/ProjectClassifier",
       "severity": "DRIFT",
       "reason": "register edits outside governed sessions"
     }
@@ -35,7 +35,9 @@
     "\\.bak$",
     "^\\.git",
     "Icon\\r",
-    "\\.icloud$"
+    "\\.icloud$",
+    "^sweep_reports$",
+    "^sweep_state\\.json$"
   ],
   "icloud_suffix": ".icloud",
   "tender_patterns": [
