@@ -772,3 +772,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13p (26/10/08): evaluator role consistency
 
 - P43 and P51 `fifth_sector_role` changed from EVALUATOR to EVALUATOR;LEAD_CONSULTANT on Iain's instruction, matching P88-LCRPF24. Provenance recorded. Manchester Place Partnership (P54) confirmed as the only Manchester bid; no separate Creative People and Places project.
+
+## Session 13q (26/10/08): P54 bid outcome
+
+- P54 Manchester Place Partnership `programme_status`=NOT_AWARDED on Iain's statement; lifecycle_status stays COMPLETED. Its four DESIGN claims (C-G2-228 to 231) set to `option_state`=EXPIRED, per the unsuccessful-bid rule. Stage reached, notification type and buyer scores still to record.
