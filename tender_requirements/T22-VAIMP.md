@@ -43,3 +43,25 @@ scoring_wording: "Team, including: Relevant research and evaluation experience a
 people_source: 15_people.csv and 16_involvement.csv (ontology decision 14); availability for this tender is recorded here when known, not in the register
 availability: not recorded
 subcontractors: a single composite PQQ response may cover named sub-consultants (Clarification Q3)
+
+## item: brief
+label: What the V&A is asking the study to answer (brief, September 2026)
+source: 02 Brief (read in full by Devin 26/10/08)
+purpose_quote: "to build a clear, evidence-based understanding of how the V&A supports the UK's creative industries and where that support makes the greatest difference"
+key_questions: seven: (1) how the V&A supports the creative industries; (2) how practitioners engage with the collection in person and online and how that adds value; (3) where and how it demonstrably influences creative careers, practices or business trajectories over time; (4) impact on the wider creative ecosystem beyond those it directly engages; (5) which support has the strongest and weakest impact and for whom; (6) what the V&A contributes that is distinctive or unlikely to happen without it; (7) where effort is invested with limited or unclear impact
+outputs: impact study (quantitative and qualitative, robust headline economic measures where evidence allows, longitudinal insight); case studies of "a material difference to creative careers, practices or businesses over time"; evidence-backed impact narrative; gaps and low-impact activity; prioritised recommendations for focus, redesign or reduction; interim findings presentation (April 2027), final report, executive summary and presentation (end May 2027)
+method_signals: distinguish activity, outputs and impact; combine quantitative and qualitative; informed by the Green Book and the Cultural Heritage Capital Framework (Clarification Q6: guiding, not applied in full); approaches inspired by the IIPP analysis of the BBC (public institutions as ecosystem builders, spillovers and shifts in behaviour or practice)
+who_they_want: "not a standard, single discipline evaluation": a blend of economic or impact evaluation, social or behavioural research, and creative or participatory methods including storytelling; in-person attendance at London sites; weekly check-ins and show-and-tells
+v_and_a_provides: programme manager, as-is picture, a researcher to collect data (Clarification Q7-Q10), internal expertise, introductions to creatives
+scope_limits: UK creative industries; people over 16 with professional or academic involvement; all six sites including V&A Dundee and the V&A Wedgwood Collection; impact model out of scope ("a first step towards")
+reading_for_case_studies: the brief's questions 3 and 4 and the case-study output point at long-run, ecosystem and career-level effects. Most of our candidates evidence programme delivery or evaluator-reported effects, not long-run effects on creative careers; the Beatles study is a modelled annual baseline with no effect claims. State comparability honestly and do not stretch claims beyond their evidence class
+
+## item: qualification
+label: Pre-qualification questionnaire and compliance (PQQ VA/CON/F26/33)
+source: 03 PQQ (read in full by Devin 26/10/08)
+financial_standing: current ratio 1 or higher in latest accounts, or a parent guarantee, or a statement of good standing
+insurance_required: employer's liability GBP 5m; public liability GBP 5m; professional indemnity GBP 1m
+insurance_held: PI GBP 5m, PL GBP 5m, EL GBP 10m with Hiscox to 05/04/27 (company_insurance/insurance_summary.md): meets all three. Policy expires before the end May 2027 deliverables, so renewal must be completed without a gap; certificates show an out-of-date address (Iain to write to Hiscox)
+bidding_model: Part 1B; a lead bidder with sub-consultants answers 1.14(a); a single composite response covers all (Clarification Q3); changes to the group must be notified immediately
+declarations: exclusion grounds under the Procurement Act 2023 (Parts 2.1 to 2.5); willingness to sign a data sharing or processing agreement and to allow DBS checks and vetting (3.3); modern slavery, net zero and carbon reporting answers (3.5, 3.6)
+reference_risk: PQQ third-party checks reserve the right to "request customer details to verify examples provided and take up a reference on any of the information you provide to us" at any stage. A named referee could therefore be contacted before shortlisting. Iain's rule stands (named in the tender, formally asked once shortlisted); the risk is only that a contact is called without warning, so a brief heads-up to each chosen contact is worth considering. Advice, not a gate

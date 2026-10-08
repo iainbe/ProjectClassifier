@@ -638,3 +638,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - New `15_people.csv` (4 people) and `16_involvement.csv` (5 rows, all from documents), plus read-only `tools/people_view.py`. No contact details or CVs held. `named_in_bids_ok` is UNKNOWN for everyone except Iain.
 - `tender_requirements/T22-VAIMP.md` updated with verbatim ITT and Clarification wording (case-study item, new team item, formatting rule, scoring key, process dates). The brief (document 02) and PQQ not yet read.
 - Wording note: Clarification Q12 says an anonymised case study is acceptable only if the organisation and referee can be disclosed on request; it does not say referee details may wait until shortlisting, while the ITT asks for a contact for each case study in the tender.
+
+## Session 12o (26/10/08): V&A brief and PQQ read
+
+- Read the brief and PQQ in full and added `brief` and `qualification` items to `tender_requirements/T22-VAIMP.md`. Findings: the PQQ reserves the right to take up references on submitted examples at any stage (risk to the referee-after-shortlist approach, advice only); our insurance meets the PQQ minimums but expires 05/04/27 before the May 2027 deliverables and certificates show an old address; the brief's case-study output asks for long-run effects on creative careers and the ecosystem, which most candidates do not evidence. Added to the T22 notes.
