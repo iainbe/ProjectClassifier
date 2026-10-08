@@ -72,7 +72,7 @@ Lots 3 and 5 remain usable only as subcontracted contributions inside someone el
 
 **Curated Place — upgraded on evidence.** Earlier read as "sector credibility only" was wrong: they run the Cultural Business Development Programme for Creative Scotland — live, national, 12-week cohort delivery (Aberdeen/Edinburgh/Glasgow anchors, up to 15 per cohort) covering value propositions, business planning and entrepreneurial approaches, delivered through an expert-faculty consortium model. The earlier Creative Producer programme (CS + Stavanger Kommune, 18-country network) reported £3m+ raised by participants' projects. Programme lead: Alison Brodie. Iain was a subcontractor on this work (uncaptured register evidence — flag for a project record). Curated Place supplies the Lot 4 product shape we lack; their gap is Tees Valley anchoring, which is what Teesside/regional partners supply. Also a strong Lot 7 bench member.
 
-**Consortium shape emerging**: Curated Place (programme engine) + TFS (evidence architecture, matching/QA, prior TVCA client) + Teesside-side anchor (IZ machinery, estate, locality). Generator/NES contacts double as the hedge if a TFS-primed consortium doesn't form.
+**Consortium shape emerging**: Curated Place (programme engine) + The Fifth Sector (evidence architecture, matching/QA, prior TVCA client) + Teesside-side anchor (IZ machinery, estate, locality). Generator/NES contacts double as the hedge if a The Fifth Sector-primed consortium doesn't form.
 
 ## Fallback
 

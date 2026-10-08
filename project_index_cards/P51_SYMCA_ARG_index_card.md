@@ -25,7 +25,7 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `brief_summary` | Evaluation of South Yorkshire's COVID-19 Additional Restrictions Grant for Culture, Arts and Heritage — an emergency grant programme run FY20/21–21/22 and administered by SYMCA with its four constituent local authorities. TFS evaluated fund allocation, decision approaches, demand, and contribution to local place priorities; produced the evaluation report, an impact framework, and per-authority analysis, plus a revised final-report proposal (Sept 2023) acknowledging the limits of evaluating a small emergency scheme delivered at pace. | archive + revised report proposal |
+| `brief_summary` | Evaluation of South Yorkshire's COVID-19 Additional Restrictions Grant for Culture, Arts and Heritage — an emergency grant programme run FY20/21–21/22 and administered by SYMCA with its four constituent local authorities. The Fifth Sector evaluated fund allocation, decision approaches, demand, and contribution to local place priorities; produced the evaluation report, an impact framework, and per-authority analysis, plus a revised final-report proposal (Sept 2023) acknowledging the limits of evaluating a small emergency scheme delivered at pace. | archive + revised report proposal |
 | `key_deliverables` | ARG evaluation report; impact framework; per-authority data analysis (Companies House analysis); revised report proposal | SRC-G2-044/045 + archive |
 | `client_objective` | Assess what the emergency culture grants achieved and inform future funding design | ITT spec |
 
@@ -53,7 +53,7 @@
 | `method_innovation` | Evaluation of emergency/devolved grant delivery — natural-experiment framing; closest register analogue to V&A's "impact of an institution/funder on the sector" ask | Derived |
 | `spillover_types_identified` | METHOD — evaluation approach under data-poor emergency conditions | Derived |
 | `precedent_strength` | MODERATE-STRONG for T22 — sector-specific cultural funding evaluation, direct competed contract, documented win scores; weak on recency and scale | Derived |
-| `precedent_caveats` | Client acceptance unrecorded; contract value unextracted; evaluator role — describe programme effects as evaluated, not caused by TFS | rules |
+| `precedent_caveats` | Client acceptance unrecorded; contract value unextracted; evaluator role — describe programme effects as evaluated, not caused by The Fifth Sector | rules |
 | `tender_relevance_tags` | T22-VAIMP fifth-slot candidate; cultural-funding-evaluation; grant-programme-impact | Derived |
 | `comparable_tenders` | P88-LCRPF24 (fund final evaluation); P10-KIRK (cultural mapping); P27-WAKECDF (cultural development fund eval) | register |
 | `card_status` | PROVISIONAL — pending Iain walkthrough | 26/10/08 |

@@ -33,15 +33,15 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `headline_finding` | National cohort-based cultural business development programme delivered for Creative Scotland by Curated Place, with TFS inside the expert faculty | register |
-| `key_findings` | (1) Round 1 cohorts ran Sept–Dec 2025 across three city anchors; (2) TFS confirmed for 6 further sessions in 2026 — two batches of 3 workshops; (3) earlier Creative Producer programme edition (CS + Stavanger Kommune 2023) ran an 18-country network, participants' projects reported raising £3m+ | programme materials |
+| `headline_finding` | National cohort-based cultural business development programme delivered for Creative Scotland by Curated Place, with The Fifth Sector inside the expert faculty | register |
+| `key_findings` | (1) Round 1 cohorts ran Sept–Dec 2025 across three city anchors; (2) The Fifth Sector confirmed for 6 further sessions in 2026 — two batches of 3 workshops; (3) earlier Creative Producer programme edition (CS + Stavanger Kommune 2023) ran an 18-country network, participants' projects reported raising £3m+ | programme materials |
 | `client_decision_use` | Programme continues — Round 2 recruitment open (applications closed 10/11/26 for Jan 2026 start per current call) | programme site |
 
 ### A4. Permitted use
 
 | Field | Value | Source |
 |---|---|---|
-| `citation_status` | LIVE_WORK — 2025 sessions delivered and 2026 sessions booked; cite as current subcontracted delivery inside Curated Place's programme, never as a TFS-run programme | rules + Iain 26/10/08 |
+| `citation_status` | LIVE_WORK — 2025 sessions delivered and 2026 sessions booked; cite as current subcontracted delivery inside Curated Place's programme, never as a The Fifth Sector-run programme | rules + Iain 26/10/08 |
 | `reference_permission` | NOT_ESTABLISHED — Curated Place not yet asked as referee | — |
 | `permitted_wording` | "Contributed expert session design and delivery to Curated Place's Cultural Business Development Programme for Creative Scotland — national cohort programme for cultural organisations" — must name the subcontract structure | Derived |
 
@@ -50,7 +50,7 @@
 | Field | Value | Source |
 |---|---|---|
 | `methods_used` | Business development curriculum content (MVP — mission/vision/purpose); toolkit-based participant support | archive |
-| `method_innovation` | Demonstrates TFS can deliver inside a cohort-based creative-sector business development programme — the exact product shape T23-TVBTV Lot 4 procures; also CS-adjacent delivery evidence for T21 | Derived |
+| `method_innovation` | Demonstrates The Fifth Sector can deliver inside a cohort-based creative-sector business development programme — the exact product shape T23-TVBTV Lot 4 procures; also CS-adjacent delivery evidence for T21 | Derived |
 | `spillover_types_identified` | NETWORK — working relationship with Curated Place is now a live T23 partnership route; KNOWLEDGE — programme method exposure | Derived |
 | `option_state` | N/A — delivered contribution; the T23 consortium option it opens is PROPOSED | rules |
 | `precedent_strength` | MODERATE — subcontracted contribution inside someone else's national programme; useful as delivery-form evidence, weak on scale/ownership | Derived |

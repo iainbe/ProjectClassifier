@@ -9,11 +9,11 @@
 | `project_id` | P90-CBDP | |
 | `project_name` | Creative Scotland Cultural Business Development Programme (Curated Place faculty) | |
 | `client` | Curated Place | Funder: Creative Scotland |
-| `contracting_party` | Curated Place | TFS contracted to CP, not CS directly — confirm |
+| `contracting_party` | Curated Place | The Fifth Sector contracted to CP, not CS directly — confirm |
 | `contracting_role` | SUBCONTRACTOR | Expert-faculty contribution |
 | `prime_contractor` | Curated Place | |
 | `other_partners` | Faculty of industry experts across Scotland/UK/international — names TBC | Programme intentionally international (incl. North East England, Nordic Region) |
-| `contract_value` | TBC | Programme-level value not disclosed; TFS fee below |
+| `contract_value` | TBC | Programme-level value not disclosed; The Fifth Sector fee below |
 | `fifth_sector_fee` | £500 | Iain 26/10/08 |
 | `commission_date` | 25/10 | Bio doc supplied to CP 2510; prep materials 25/10/05 |
 | `delivery_dates` | Oct–Nov 2025 delivered (sessions 17–20/11); 6 further sessions in 2026 — two batches of 3 workshops | Iain 26/10/08 |
@@ -26,14 +26,14 @@
 | `fifth_sector_contributors` | Iain Bennett — session design/delivery incl. MVP workshop | |
 | `partner_contributors` | Curated Place tutor team (Andy Brydon, Alison Brodie named publicly); other faculty experts unnamed | |
 | `client_contact` | Alison Brodie (Creative Producer, Curated Place) — TBC | |
-| `authorship_credit` | TBC — how TFS sessions credited within programme | |
+| `authorship_credit` | TBC — how The Fifth Sector sessions credited within programme | |
 
 ## 3. Permissions
 
 | Field | Value | Notes |
 |---|---|---|
 | `reference_permission` | NOT_ESTABLISHED | Warm relationship — prior bid collaboration with CP (CS Culture Collective evaluation, 26/08, not awarded). Ask alongside T23 consortium conversation |
-| `name_in_public` | NOT_ESTABLISHED | Programme is public; TFS contribution wording needs CP sign-off |
+| `name_in_public` | NOT_ESTABLISHED | Programme is public; The Fifth Sector contribution wording needs CP sign-off |
 | `confidentiality_terms` | TBC | |
 | `data_rights` | TBC — CP owns programme | |
 | `permission_record` | — | |
@@ -56,4 +56,4 @@
 | Field | Value | Notes |
 |---|---|---|
 | `acceptance_date` | — | 2025 sessions delivered; 6 sessions scheduled 2026 |
-| `client_decision_use` | Programme continues — Round 2 (Jan 2026) commissioned, TFS sessions booked | Iain 26/10/08 |
+| `client_decision_use` | Programme continues — Round 2 (Jan 2026) commissioned, The Fifth Sector sessions booked | Iain 26/10/08 |

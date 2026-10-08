@@ -190,7 +190,7 @@ The framework should distinguish near-term action from hypotheses needing resear
 
 ### "Will I have to keep paying you to use the results?"
 
-The contract should specify editable deliverables and appropriate reuse rights for LCRCA. Separate TFS background platform IP from commissioned outputs and provider restrictions. Any continued hosting, subscriptions, new data or refresh service should be transparent, optional where the contract permits, and separately priced.
+The contract should specify editable deliverables and appropriate reuse rights for LCRCA. Separate The Fifth Sector background platform IP from commissioned outputs and provider restrictions. Any continued hosting, subscriptions, new data or refresh service should be transparent, optional where the contract permits, and separately priced.
 
 No platform access licence, continuing fee or indefinite free support is agreed in the reviewed material.
 
@@ -252,12 +252,12 @@ These are reported contract assumptions and a proposed route, not verified permi
 
 - Identify the actual licence holder, distinguishing Liverpool City Council from LCRCA.
 - Obtain authority and provider approval for contractor/seat/API use, named project scope, processing, retention, exports and derived outputs.
-- Confirm permitted classifications, record accounting, charges and whether project records can lawfully sit outside TFS's allowance.
+- Confirm permitted classifications, record accounting, charges and whether project records can lawfully sit outside The Fifth Sector's allowance.
 - Confirm the fields and reuse rights for the promised client ecosystem database; dashboard access does not automatically permit a transferable database.
 - Agree security and any required data-processing terms. Such an agreement does not by itself extend the provider licence.
 - Use approved project-specific credentials and controlled access; do not treat a shared API key as permission.
 
-If this route is unavailable, price a permitted provider route or narrow the agreed product. Do not assume zero incremental fees or buy wider data at TFS's expense to rescue an underpriced offer.
+If this route is unavailable, price a permitted provider route or narrow the agreed product. Do not assume zero incremental fees or buy wider data at The Fifth Sector's expense to rescue an underpriced offer.
 
 ### The broader sector scope changes the method, not just configuration
 
@@ -435,7 +435,7 @@ All 13 local agent definitions were considered. Blindspot and Deepthink were als
 - Confirm whether any amendments were actually sent to Pete, and recover the September notes. The supplied 1 October document is an internal transcript, not an external response.
 - Obtain the approved licence/seat/API/derivative-output route and a sector inclusion/exclusion schedule.
 - Prepare one-page initial/full/service deliverables and a bottom-up effort/cost sheet.
-- List what LCRCA supplies, what TFS can demonstrate, what requires permission and what needs a priced partner.
+- List what LCRCA supplies, what The Fifth Sector can demonstrate, what requires permission and what needs a priced partner.
 - Agree our scope and margin boundary internally; rehearse a calm answer to "you promised this already".
 - Record any agreement accurately, with owner, deadline, procurement condition and unresolved evidence.
 

@@ -184,7 +184,7 @@ Bring: actual affordable scoping capacity and a proposed cost structure. Do not 
 
 ### "Who owns the IP, clients and resulting product?"
 
-Answer: distinguish TFS background platform IP, provider data and methods, new study outputs, and each partner's pre-existing models. Agree licences, publication, attribution, client relationship and reuse before joint delivery.
+Answer: distinguish The Fifth Sector background platform IP, provider data and methods, new study outputs, and each partner's pre-existing models. Agree licences, publication, attribution, client relationship and reuse before joint delivery.
 
 Bring: existing agreements and exclusions. A future joint approach or shared study does not create a partnership, distribution agreement or licence by itself.
 
@@ -319,7 +319,7 @@ Visual: one labelled evidence chain, using a verified current example if availab
 ### New slide 4. What Oxford Economics already brings, and the potential fit
 
 - OE: regional economic evidence, modelling and client-facing analytical expertise.
-- TFS: proposed finer-grained creative activity and reviewable evidence workflow.
+- The Fifth Sector: proposed finer-grained creative activity and reviewable evidence workflow.
 - Potential shared offer: a defensible creative-economy evidence brief.
 - First question: does this improve an actual task beyond the existing approach?
 
@@ -363,7 +363,7 @@ Say: "The known limits are part of the study contract and external-use gates." A
 
 ### New slide 9. Scope, resources and commercial route
 
-- TFS: supply the agreed evidence, implementation description and delivery capacity.
+- The Fifth Sector: supply the agreed evidence, implementation description and delivery capacity.
 - OE: scope the relevant methodological contribution and associated effort/fee.
 - The Data City or other providers: permissions and technical input where agreed.
 - After design: decide commissioned study, joint funding proposal or client pilot.

@@ -25,7 +25,7 @@
 # - CAN is a public channel: no question should mention the NCDO, the consortium,
 #   or our measurement architecture. Alignment questions go to Patrick, not CS.
 # - Q9 matters because the trio are all small ventures; if each consortium member
-#   needs £10m PL the subcontractor structure under TFS cover is the safer shape.
+#   needs £10m PL the subcontractor structure under The Fifth Sector cover is the safer shape.
 # - Q3 held pending Towell call (see question for decision rule). The other seven
 #   plus Q9 can go in early week regardless — answers circulate to all tenderers.
 # - Q1 and Q5 are design-critical: unit of analysis (portfolio vs national economy)

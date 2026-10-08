@@ -48,7 +48,7 @@ All roles are "Places data architecture and co-author" (Iain 26/10/08) — see `
 
 `Archive proposals/Bennett and What and Why/` (OneDrive) holds joint bids predating the current platform work — evidence the partnership is long-running, not assembled for tenders.
 
-IMPORTANT ATTRIBUTION (Iain 26/10/08): the British Museum and UEA bids were **What & Why-led — Jon Bains and Lindsay Butcher leading, Iain as associate**. The Fifth Sector was not the bidder; do not cite them as TFS bids or TFS-led work. They evidence Bains' agency/consultancy track record and the Bennett–Bains working relationship.
+IMPORTANT ATTRIBUTION (Iain 26/10/08): the British Museum and UEA bids were **What & Why-led — Jon Bains and Lindsay Butcher leading, Iain as associate**. The Fifth Sector was not the bidder; do not cite them as The Fifth Sector bids or The Fifth Sector-led work. They evidence Bains' agency/consultancy track record and the Bennett–Bains working relationship.
 
 | Bid | Year | Register | Material |
 |---|---|---|---|

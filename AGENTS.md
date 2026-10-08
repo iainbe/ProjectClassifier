@@ -35,7 +35,7 @@ When reviewing claims:
 
 ## Naming convention (26/10/08, Iain)
 
-The company is written **"The Fifth Sector"** or "The Fifth Sector Limited" in all prose — never "TFS". TFS may appear only in internal shorthand where the register field demands it (e.g. filenames); outgoing text always uses the full name.
+The company is written **"The Fifth Sector"** or "The Fifth Sector Limited" — NEVER "TFS", anywhere. The ban applies to all registers, notes fields, changelogs, cards and internal docs, not just outgoing prose. Verbatim source-material references (e.g. an existing filename like `TFS_logo`) are the only exception, and those stay verbatim inside quotes.
 
 ## Canonical person records (26/10/08)
 

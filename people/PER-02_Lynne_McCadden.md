@@ -49,7 +49,7 @@ Bid-written evidence: the 2026 WB Skills bio says "many projects with The Fifth 
 - **Creative skills evaluation specialist** — supply-side skills analysis across a dozen places; the closest thing to a named specialism in the associate bench
 - **Programme management** — ran WY Create for a year, not just analysis
 - **Broadcast/media networks** — BBC/ITV background, international conference profile; useful where tenders want sector credibility or interview capability
-- **Continuity evidence** — named team member on bids from at least 2018 (BOP biog Jan 2019 implies pre-TFS BOP association through Iain) through 2026; "5+ years with The Fifth Sector" is supported
+- **Continuity evidence** — named team member on bids from at least 2018 (BOP biog Jan 2019 implies pre-The Fifth Sector BOP association through Iain) through 2026; "5+ years with The Fifth Sector" is supported
 
 ## Open fields
 

@@ -16,7 +16,7 @@
 | `reference_permission` | NOT_ESTABLISHED | — |
 | `commission_date` | 18 | 01_projects.csv |
 | `completion_date` | 18 | 01_projects.csv |
-| `contract_value` | Subcontract via CBN (prime contract £46,200); TFS share not stated | LCR LEP consultancy contract |
+| `contract_value` | Subcontract via CBN (prime contract £46,200); The Fifth Sector share not stated | LCR LEP consultancy contract |
 | `contracting_role` | PRIME | 01_projects.csv |
 | `geography` | Liverpool City Region | 01_projects.csv |
 | `lifecycle_status` | COMPLETED | 01_projects.csv |

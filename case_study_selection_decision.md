@@ -58,8 +58,8 @@ Cross-cutting tender lens (not a domain): contribution-framed vs descriptive bri
 - Method not superseded in an answer-changing way
 
 **Stage 1 — intrinsic tier** (standing; populated lazily, gate-passers only — ~20 projects):
-- FLAGSHIP: delivered <=3yr, TFS prime+lead, measured change/spillovers, current method
-- STRONG: TFS-led, solid evidence, current method
+- FLAGSHIP: delivered <=3yr, The Fifth Sector prime+lead, measured change/spillovers, current method
+- STRONG: The Fifth Sector-led, solid evidence, current method
 - SUPPORTING: older, narrower, associate-led (worded as personal track record), or descriptive
 - LEGACY: superseded method or weak attribution evidence
 - Excluded: NOT_AWARDED projects (expired options are not delivery evidence)
