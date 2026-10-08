@@ -37,6 +37,6 @@ These match the subject but hold none of the wanted evidence kinds in the claims
 - LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24), Liverpool City Region Combined, COMPLETED: holds no claims coded
 - SYMCA Create Growth Programme Final Report (P24-SYMCACGP), South Yorkshire Mayoral Combin, COMPLETED: holds design 1, context 3
 
-## Referee asks this tender needs
+## Referees
 
-The requirement asks for a named, willing referee for each case study. Referee permission is NOT_ESTABLISHED for every candidate unless shown above. Each ask is a separate plain-language message that Iain approves before it is sent.
+Referees are normally cited by name in the tender and only asked once the bidder is shortlisted (Iain, 26/10/08). Referee permission is therefore not needed to build or submit the case-study sheet, and the referee column above is for later. The brief asks for a contact for each case study "that is willing to give a reference", so the contact named for each should be someone likely to agree.

@@ -63,8 +63,8 @@ def main():
         held = ', '.join('%s %s' % (k.replace('_', ' '), e[k]) for k in ['delivered_output', 'effect_reported', 'effect_as_evaluator', 'documented_use', 'design', 'context'] if int(e[k]) > 0) or 'no claims coded'
         L.append('- %s (%s), %s, %s: holds %s' % (e['project_name'], pid, e['client'][:30], e['lifecycle_status'], held))
     if not near: L.append('- none')
-    L += ['', '## Referee asks this tender needs', '',
-          'The requirement asks for a named, willing referee for each case study. Referee permission is NOT_ESTABLISHED for every candidate unless shown above. Each ask is a separate plain-language message that Iain approves before it is sent.']
+    L += ['', '## Referees', '',
+          'Referees are normally cited by name in the tender and only asked once the bidder is shortlisted (Iain, 26/10/08). Referee permission is therefore not needed to build or submit the case-study sheet, and the referee column above is for later. The brief asks for a contact for each case study "that is willing to give a reference", so the contact named for each should be someone likely to agree.']
     os.makedirs('selection_views', exist_ok=True)
     open('selection_views/%s.md' % a.tender, 'w', encoding='utf-8').write('\n'.join(L) + '\n')
     print('selection_views/%s.md written: %d candidates' % (a.tender, len(cands)))

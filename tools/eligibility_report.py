@@ -12,8 +12,8 @@ Checks (ontology_v2_DRAFT.md section 4, decisions 2-6):
                      every DESIGN and OPTION claim must be EXPIRED
   E4 Method current  has method rows and none SUPERSEDED (UNKNOWN when there are no rows)
   E5 Role wording    contracting_role set, and prime_contractor set when the role is not PRIME/DIRECT
-Referee permission is NOT a check: it is the final submission stage (derived from
-11_permission_requests.csv). Evidence kinds are parallel and never ranked against each other.
+Referee permission is NOT a check: referees are cited in the tender and asked only once
+shortlisted (Iain 26/10/08); the state is derived from 11_permission_requests.csv. Evidence kinds are parallel and never ranked against each other.
 
 Outputs: eligibility_report.csv and eligibility_report.md (derived; regenerate after any
 change to the register, claims, methods or permission file).
