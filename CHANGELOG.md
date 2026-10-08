@@ -814,3 +814,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13z (26/10/08): spot-check of 17 flagged claims
 
 - Compared the 17 claims in VAL-S261008-17 against their cited extracts (`claims_spotcheck_RECORD.csv`): 11 verified (format, derived or rounded; C-G2-332 862 is the actual count, 860 the report's rounding, per Iain), 1 query on classification (C-G2-096, a UK-wide estimate typed EFFECT on P46), 3 not found in cited extracts (C-G2-333, 384, 407), 1 partial (C-G2-461: source is a DRAFT), 1 wrong source on the evidence link fixed (E-G2-242 now cites SRC-R2-02, where the C-G2-337 figures appear verbatim). No claim text changed; corrections wait for Iain. VAL-S261008-17 marked PARTIAL.
+
+## Session 13aa (26/10/08): spot-check decisions
+
+- C-G2-096 reclassified EFFECT to CONTEXT (effect_family NOT_APPLICABLE), a UK-wide estimate quoted in the Tees Valley baseline. C-G2-461 "finalised" confirmed by Iain. C-G2-333, 384 and 407 left as is on Iain's instruction. VAL-S261008-17 RESOLVED.

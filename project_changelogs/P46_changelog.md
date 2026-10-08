@@ -11,3 +11,7 @@
 ## 26/10/08 — Contracting role recorded
 
 - `contracting_role`=PRIME, `prime_contractor`=The Fifth Sector on Iain's statement (all The Fifth Sector as prime). Contract not checked.
+
+## 26/10/08 — Claim reclassified
+
+- C-G2-096 (Oxford Economics UK-wide multiplier) changed from EFFECT to CONTEXT on Iain's decision.
