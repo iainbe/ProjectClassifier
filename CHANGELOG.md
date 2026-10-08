@@ -737,3 +737,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13i (26/10/08): one-pass question sheet
 
 - New read-only `tools/question_sheet.py` and its output `iain_question_sheet.md`: everything only Iain can supply, in one table with one answer per client where possible (59 completed projects across 50 clients for acceptance, 9 citation statuses, 20 contracting roles, 31 open validation actions, 3 statement approvals). Answers are entered into the registers by Devin with the basis written to `14_fact_provenance.csv`; nothing is guessed.
+
+## Session 13j (26/10/08): ontology draft revision 3
+
+- `ontology_v2_DRAFT.md` brought up to date with decisions 1 to 15 and the work built since: entities table (requirements as per-tender files, method statements, people, provenance), taxonomy section (corrections done, evidence kinds not a ladder, current counts), E4 wording (UNKNOWN never N/A, plus the additive statement rule), method and team section, generality results (the dashboard-build case fails; only five of 23 tenders have usable wording), register-fix list with status and current check counts, the closed and still-open lists, and a new section 15 listing the adoption changes (none weakens a test; check 6 would be strengthened). Still a draft; adoption needs a final lane review and Iain's approval.
