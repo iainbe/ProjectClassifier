@@ -912,3 +912,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13at (26/10/08): ON_HOLD, step 5 of 5: stale items
 
 - Ontology draft: lifecycle paragraph updated (59 of 70 COMPLETED; ON_HOLD added; the two contradicting mappings for PHASE_COMPLETE_AWAITING_INSTRUCTION settled as IN_PROGRESS with the value kept in `programme_status`). Drive merge brief: P31 line now says the repo agrees and what to keep. Sweep guides: `check_lifecycle.py` run at session start. The P31 and CELL index cards were corrected in steps 2 and 3. Review lane fixes all done except the optional ones the lanes raised about the Drive register's other ON_HOLD rows, which the merge agent checks.
+
+## Session 13au (26/10/08): CELL acceptance, role and client
+
+- P79-CELL: client accepted Y; direct commission from London Legacy Development Corporation (Iain). `contracting_role`=DIRECT, `prime_contractor`=The Fifth Sector; `client` changed from "CELL" (the project, Creative Experience Lab London) to the Corporation, with CELL kept as the name and the lab as an alias. Provenance and card written; no contract read. Every completed project now has acceptance, citation status and a contracting role.

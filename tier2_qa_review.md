@@ -854,3 +854,4 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/08 | CELL delivered (step 3) | Lifecycle COMPLETED with provenance; prepayment noted without treating it as a deliverable; acceptance left UNKNOWN, not assumed | Residual: CELL client acceptance; prepayment document not read |
 | 26/10/08 | ON_HOLD reporting (step 4) | Three derived outputs gain a held-project list or legend; no check changed; tests pass | none |
 | 26/10/08 | ON_HOLD stale items (step 5) | Ontology, merge brief and sweep guides aligned; contradiction on PHASE_COMPLETE_AWAITING_INSTRUCTION removed; no check changed | Residual: Drive register ON_HOLD rows to verify at merge |
+| 26/10/08 | CELL acceptance, role, client | Four facts set with provenance (statements); client field corrected from project name to commissioning body; E1 now determinable | Residual: client_type CULTURAL_ORG may need review; contract not read |

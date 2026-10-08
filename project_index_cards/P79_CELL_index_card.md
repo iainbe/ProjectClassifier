@@ -17,6 +17,7 @@
 | `commission_date` | 25/01 | register |
 | `contract_value` | NOT_DISCLOSED | — |
 | `geography` | East London | register |
+| `contracting_role` | DIRECT, direct commission from London Legacy Development Corporation (Iain 26/10/08); client accepted Y |
 | `lifecycle_status` | COMPLETED (business case delivered; Iain 26/10/08). A GBP 5,000 inc VAT prepayment is held for a further piece of work not yet specified | Iain |
 | `folder` | `Active projects/2026 CELL` | register |
 

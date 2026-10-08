@@ -10,24 +10,22 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | MS-02 Evaluation of a funded programme, with interim-to-final comparison | Iain: approve or correct the card below (P88-LCRPF24 contracting arrangement now recorded) | |
 | MS-03 Evaluation approach design (theory-of-change baseline and contribution analysis) | Iain: check our own subcontract or NDA for a confidentiality or publicity clause (internal check, PR-07); no contact with BOP | |
 
-## 2. Did the client accept the final output? (one answer per client; 1 completed projects, 1 clients)
+## 2. Did the client accept the final output? (one answer per client; 0 completed projects, 0 clients)
 
 Projects on hold (ON_HOLD) are not asked about: they are not complete.
 
 | Client | Completed projects | Accepted? Y / N / don't know |
 |---|---|---|
-| CELL | CELL (P79-CELL) | |
 
 ## 3. May we say we delivered this? (citation status not recorded; 0 completed projects)
 
 | Project | Default if you say "yes, delivered" | Answer |
 |---|---|---|
 
-## 4. Who held the contract, and what was our part? (contracting role empty; 1 completed projects)
+## 4. Who held the contract, and what was our part? (contracting role empty; 0 completed projects)
 
 | Project | Client | Role: PRIME / DIRECT / SUBCONTRACTOR / ASSOCIATE / ADVISORY (prime if not us) |
 |---|---|---|
-| CELL (P79-CELL) | CELL | |
 
 ## 5. Open validation actions owned by you (23)
 
