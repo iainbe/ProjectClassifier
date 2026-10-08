@@ -23,3 +23,7 @@
 ## 26/10/08 — Contracting role recorded
 
 - `contracting_role`=DIRECT, `prime_contractor`=The Fifth Sector: direct commission from Liverpool City Council on behalf of LCRCA (Iain). No contract or PO exists. MS-02 text updated.
+
+## 26/10/08 — Client wording corrected
+
+- Iain: LCRCA is the client; Liverpool City Council led procurement. Register client unchanged; relationship_evidence, provenance, VAL-S261007-01 and MS-02 text aligned.

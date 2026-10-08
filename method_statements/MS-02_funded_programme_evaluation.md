@@ -10,7 +10,7 @@ status: DRAFT
 evidence_class: DELIVERED (reports delivered; programme figures are client-supplied data)
 applications: M-G2-016;M-S261008-02;M-G2-021;M-G2-006
 claims: C-G2-037;C-G2-038;C-G2-039;C-G2-040;C-G2-041;C-S261008-001;C-S261008-002;C-S261008-003;C-S261008-005
-our_role: Evaluator. LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) is a direct contract. The LCR Production Fund Final Evaluation (P88-LCRPF24) was a direct commission from Liverpool City Council on behalf of LCRCA (Iain 26/10/08; no contract or PO exists). Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) and Creativeworks London KE Hub Evaluation (P13-CWL, BOP associate work) are other evaluations; state each arrangement from the register
+our_role: Evaluator. LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) is a direct contract. The LCR Production Fund Final Evaluation (P88-LCRPF24) was a direct commission; the client was LCRCA and Liverpool City Council led procurement (Iain 26/10/08; no contract or PO exists). Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) and Creativeworks London KE Hub Evaluation (P13-CWL, BOP associate work) are other evaluations; state each arrangement from the register
 disclosure_status: NOT_CLEARED
 disclosure_reason: programme figures are client-supplied data (Liverpool Film Office, Wakefield Council) and must be cited as client data; no figures may appear in reusable text
 reuse_restriction: P13-CWL is associate work for BOP Consulting; do not describe it as Fifth Sector's own programme

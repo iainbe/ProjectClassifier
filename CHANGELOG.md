@@ -793,3 +793,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13u (26/10/08): P88-LCRPF24 contracting role
 
 - P88-LCRPF24 set to DIRECT, prime The Fifth Sector: direct commission from Liverpool City Council on behalf of LCRCA (Iain); no contract or PO exists. VAL-S261007-01 marked partial (contract value and client-of-record wording still open). MS-02 text updated; it stays DRAFT and only Iain moves it to CURRENT. All completed projects now have a contracting role.
+
+## Session 13v (26/10/08): P88-LCRPF24 client wording
+
+- Iain: the Combined Authority is the client of the Production Fund final evaluation; Liverpool City Council led procurement. Register client unchanged; evidence wording, provenance, VAL-S261007-01 and MS-02 text corrected to match (earlier wording said commissioned by the Council on behalf of LCRCA).
