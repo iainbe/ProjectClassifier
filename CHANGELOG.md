@@ -568,3 +568,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **Changed:** `tools/selection_view.py`, `tools/eligibility_report.py` (docstring) and the regenerated `selection_views/T22-VAIMP.md` now say referees are cited by name in the tender and asked only once shortlisted (Iain, 26/10/08). No check was changed or weakened.
 - **Review lanes run on T22-VAIMP** (blindspot, deepthink, sheldon, wishful, thad, grey, shaz, skin, fok; all advisory, none blocked). Convergent findings: no candidate is clearly an institution-impact study; Beatles Visitor Impact Study and LCR Production Fund Final Evaluation 2024-25 have no coded claims; client acceptance and several contracting roles unknown; CICP Impact and Delivery Evaluation is subcontractor work, not TFS-owned; the view's keyword filter searches names only and missed Theatre Royal Plymouth Engagement and Wakefield Our Year 2024 BCJ.
 - **Not done:** no case-study sheet, shortlist or positioning written; T22 `notes` field and `ontology_v2_DRAFT.md` section 7 not yet updated; awaiting Iain's answers.
+
+## Session 12b (26/10/08): University of Liverpool Heritage CPD final report
+
+- **Finding:** the final report was already in the register as SRC-G2-062 but mislabelled as a research summary presentation, which led the Sheldon lane to report "proposal only". Corrected the row, re-extracted the full text from Drive (G Drive id 1ury6wz6PsYFxUNe6qYcSh-UScbEhHKR3), reworded C-G2-246 and E-G2-151, updated the P63 card.
+- **Not changed:** `client_accepted` (UNKNOWN) and `citation_status`. Drafts, workshop deck and inception note remain unregistered. Added VAL-S261008-01 (acceptance and take-up) and -02 (OneDrive check).
