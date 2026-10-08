@@ -724,3 +724,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - 46 rows of `02_sources.csv` had text in `derived_location` and every later field displaced: 27 rows by one column (a blank inserted before the original path) and 18 by two (two blanks missing before it), plus SRC-G2-022 (the second pattern with two stray duplicates, cleared) and the three sweep-written rows SRC-R5-016, -017 and -018 (notes and review fields re-aligned). By script, each row asserted against its exact pattern before editing; afterwards every `derived_location` is a path or empty, no `additional_project_ids` holds text, and all 28 fields line up with the header. Record of every row and its old value: `sources_repair_RECORD.csv`.
 - SRC-R5-016's register row names an extract file that is not in the repo (VAL-S261008-16). The 46-row drift had hidden extracts from any tool that follows `derived_location`.
+
+## Session 13g (26/10/08): figure screen
+
+- New read-only `tools/figure_check.py` and its output `figure_check_report.md`: for every claim, each number in the proposition is looked for in the extracts of the sources its evidence links cite. After the sources repair, 284 of 312 claims with figures have every figure found in a cited extract, 26 have an unmatched figure and 2 cite a source without an extract. It ranks spot checks (AGENTS.md priority: high-risk numerical claims); it does not verify anything. The 17 claims worth checking first are VAL-S261008-17; several unmatched items are dates, unit conversions or derived ratios.
