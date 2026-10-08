@@ -1,0 +1,6 @@
+involvement_id,person_id,project_id,role_on_project,period,basis,source_or_note,recorded_by,recorded_at
+INV-0001,PER-01,P88-LCRPF24,Report author (The Fifth Sector),2024-25,DOCUMENT,SRC-G2-030 cover: Prepared by Iain Bennett and Lynne McCadden,Devin,26/10/08
+INV-0002,PER-02,P88-LCRPF24,Report author (The Fifth Sector),2024-25,DOCUMENT,SRC-G2-030 cover: Prepared by Iain Bennett and Lynne McCadden,Devin,26/10/08
+INV-0003,PER-01,P63,Presenter at consultation workshop (The Fifth Sector),23/05/22,DOCUMENT,"SRC-G2-089 slide 2 lists Iain Bennett, Lynne McCadden and Sara Sartorius",Devin,26/10/08
+INV-0004,PER-02,P63,Presenter at consultation workshop (The Fifth Sector),23/05/22,DOCUMENT,SRC-G2-089 slide 2,Devin,26/10/08
+INV-0005,PER-03,P63,Presenter at consultation workshop (The Fifth Sector),23/05/22,DOCUMENT,SRC-G2-089 slide 2,Devin,26/10/08

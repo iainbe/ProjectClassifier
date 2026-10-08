@@ -632,3 +632,9 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 12m (26/10/08): where requirements live (ontology decision 13, option B)
 
 - New folder `tender_requirements/` with `T22-VAIMP.md` (frozen contract and the case-study item, operator reading, Iain to correct). `tools/selection_view.py --requirements T22-VAIMP` reads it; the regenerated T22 view lists the same 11 candidates as before, in both orders. T22 row of `08_tenders.csv`: `requirement_map_location` set and the review-lane findings added to `notes` (tender review protocol item 4). Ontology draft updated.
+
+## Session 12n (26/10/08): people register (ontology decision 14, option B) and verbatim T22 wording
+
+- New `15_people.csv` (4 people) and `16_involvement.csv` (5 rows, all from documents), plus read-only `tools/people_view.py`. No contact details or CVs held. `named_in_bids_ok` is UNKNOWN for everyone except Iain.
+- `tender_requirements/T22-VAIMP.md` updated with verbatim ITT and Clarification wording (case-study item, new team item, formatting rule, scoring key, process dates). The brief (document 02) and PQQ not yet read.
+- Wording note: Clarification Q12 says an anonymised case study is acceptable only if the organisation and referee can be disclosed on request; it does not say referee details may wait until shortlisting, while the ITT asks for a contact for each case study in the tender.
