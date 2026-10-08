@@ -867,3 +867,9 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13aj (26/10/08): Drive and repo have diverged; no sync run
 
 - Checked whether the repo could be synced to Drive. It cannot be done safely: the connector cannot overwrite file contents, and the Drive 01_projects.csv (edited 02:40 today by another process) holds five projects the repo lacks (P91 to P96 except P94), a payment-status column in place of client_accepted, corrected P51 details and P31-PRODPARK ON_HOLD. The repo holds this session's work the Drive lacks. A merge is required before any copy either way. Recorded on VAL-S261008-13.
+
+## Session 13ak (26/10/08): ontology final pass and sweep instructions
+
+- Ontology draft revision 4: every count and status re-run against the registers (595 claims; E1 28 pass / 10 fail / 32 unknown; contracting role and citation status recorded on all completed projects; client acceptance unknown on 32). New sections 16 (what works, what does not) and 17 (two copies of the registers). The final pass found one defect the earlier checks missed: 20 claims name methods M-R3-022 and M-R3-023 that have no row (new VAL-S261008-18, open).
+- Sweep instructions (`tools/README_sweep.md`, `tools/JON_SWEEP_GUIDE.md`): added "Final-version rules": a sweep writes only reports; never save a whole register from an older copy; compare the Drive and repo copies at session start; how a finding becomes a register change under the final ontology; new files covered by DRIFT; guard and comparison checks listed as not built.
+- `drive_merge_BRIEF.md` written for the agent taking the Drive merge. No file on Drive was changed.

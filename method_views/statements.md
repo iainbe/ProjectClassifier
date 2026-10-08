@@ -28,12 +28,12 @@ Claims behind it (wording and figures withheld: disclosure not cleared):
 ## MS-02 Evaluation of a funded programme, with interim-to-final comparison
 
 - Family: EVALUATION. Evidence class: DELIVERED (reports delivered; programme figures are client-supplied data). Status: DRAFT.
-- Our role: Evaluator. LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) is a direct contract. The contracting arrangement for the LCR Production Fund Final Evaluation (P88-LCRPF24) is not yet evidenced (VAL-S261007-01) and that application is pending. Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) and Creativeworks London KE Hub Evaluation (P13-CWL, BOP associate work) are other evaluations; state each arrangement from the register
+- Our role: Evaluator. LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) is a direct contract. The LCR Production Fund Final Evaluation (P88-LCRPF24) was a direct commission; the client was LCRCA and Liverpool City Council led procurement (Iain 26/10/08; invoiced to Liverpool City Council under PO 3500515342). Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) and Creativeworks London KE Hub Evaluation (P13-CWL, BOP associate work) are other evaluations; state each arrangement from the register
 
 | Application | Project | Contracting | Citation | Method status |
 |---|---|---|---|---|
 | M-G2-016 | LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) | DIRECT | DELIVERED_WORK | APPLIED |
-| M-S261008-02 | LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24) | not recorded | DELIVERED_WORK | APPLIED |
+| M-S261008-02 | LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24) | DIRECT | DELIVERED_WORK | APPLIED |
 | M-G2-021 | Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) | DIRECT | DELIVERED_WORK | APPLIED |
 | M-G2-006 | Creativeworks London KE Hub Evaluation (P13-CWL) | ASSOCIATE to BOP Consulting | DELIVERED_WORK | APPLIED |
 
@@ -51,17 +51,13 @@ Claims behind it (wording and figures withheld: disclosure not cleared):
 
 **Lift into a bid: BLOCKED**
 
-- BLOCKER: Cannot be lifted into a bid yet: disclosure is "NOT_CLEARED". Iain: find the contract or PO for P88-LCRPF24 in both archives (VAL-S261007-01); approve or correct the card below Owner: Iain.
-- CAUTION: Contracting role not recorded for LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24): the statement cannot state our arrangement. Owner: Iain.
+- BLOCKER: Cannot be lifted into a bid yet: disclosure is "NOT_CLEARED". Iain: approve or correct the card below (P88-LCRPF24 contracting arrangement now recorded) Owner: Iain.
 - CAUTION: Draft: not approved by Iain yet. Owner: Iain.
 - INFO: Claim C-S261008-001 has not been spot-checked (review status PENDING).
 - INFO: Claim C-S261008-002 has not been spot-checked (review status PENDING).
 - INFO: Claim C-S261008-003 has not been spot-checked (review status PENDING).
 - INFO: Claim C-S261008-005 has not been spot-checked (review status PENDING).
 - INFO: Client acceptance not recorded as yes for Creativeworks London KE Hub Evaluation.
-- INFO: Client acceptance not recorded as yes for LCR Film and TV Production Fund Interim Evaluation.
-- INFO: Client acceptance not recorded as yes for LCR Production Fund Final Evaluation (2024-25).
-- INFO: Client acceptance not recorded as yes for Wakefield Cultural Development Fund Evaluation.
 
 ## MS-03 Evaluation approach design (theory-of-change baseline and contribution analysis)
 
