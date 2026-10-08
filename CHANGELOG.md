@@ -705,3 +705,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13b (26/10/08): COSTAR design claims expired
 
 - C-G2-440, 443, 446 and 447 (CoSTAR bid, P06-COSTAR, recovered in the restoration) set to `option_state=EXPIRED`, as AGENTS.md requires for DESIGN and OPTION claims on a project whose bid was not awarded (`programme_status=NOT_AWARDED`). Check E3 for P06-COSTAR returns to PASS. Notes on each claim record the change.
+
+## Session 13c (26/10/08): CONTEXTUAL effect family removed from pure context claims
+
+- `CONTEXTUAL` is not a codebook value; the codebook says a pure CONTEXT claim takes `NOT_APPLICABLE` with the reason in notes. 200 claims with claim_type CONTEXT were changed by script (each note records the change; old values in `claims_contextual_RECORD.csv`). Five claims that are not pure context (one DESIGN, four METHOD_OUTPUT) keep CONTEXTUAL for Iain to decide (VAL-S261008-15). QA check 5 (empty effect_family) is unaffected; effect_family is now valid on 585 of 590 claims. No eligibility result changed.
