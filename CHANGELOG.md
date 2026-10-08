@@ -854,3 +854,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13ag (26/10/08): codebook rule and VAL-S261008-11 update
 
 - Codebook additions: empty means not recorded; gates treat empty publication_status and commercial_reuse as INTERNAL_ONLY; existing INTERNAL_ONLY, NONE_FOUND_IN_REVIEW and MEDIUM values are script defaults, not review outcomes. VAL-S261008-11 updated (stale counts replaced) and marked PARTIAL: 26 held cells await Iain.
+
+## Session 13ah (26/10/08): validation actions on the claims deletion
+
+- VAL-S261008-13: traced the deletion to commit eb2674d (251 rows removed, none added; scripts do not write the claims file). Found that the Drive canonical 04_claims.csv (239,822 bytes) still matches the pre-restore repo copy, so a Drive to mirror sync could overwrite the restored claims. Needs Iain.
+- VAL-S261008-14: the five C-R5-524 to 528 claims did exist and were deleted by the same commit; they are recoverable from git but carry old-shape values, so restoration is proposed, not done.
