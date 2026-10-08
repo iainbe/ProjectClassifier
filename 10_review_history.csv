@@ -412,3 +412,4 @@ RH-26-10-08-REG3,01_projects.csv,REGISTER,P92-P96 registered + P03/P58/P70 contr
 RH-26-10-08-FIX3,01_projects.csv,UPDATE,P94 removed; P95 completed/single-invoice; P96 subcontractor via CBN,01_projects.csv;project_index.csv,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,RH-26-10-08-REG3
 RH-26-10-08-BF3,01_projects.csv,BACKFILL,P21/P57/P89/P35/P05/P14 contract evidence,01_projects.csv,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,RH-26-10-08-BF2
 RH-26-10-08-NAME,AGENTS.md,RULE,TFS ban extended to all internal fields; 78 instances replaced,repo-wide,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,
+RH-26-10-08-PAID,01_projects.csv,BACKFILL,60 COMPLETED rows set PAID_IN_FULL (Iain blanket confirm),01_projects.csv,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,
