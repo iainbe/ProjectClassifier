@@ -103,3 +103,7 @@ SRC-R2-06 (`190730 final.docx`) is a client-authored document (Pritpal Bhurji), 
 - **Claims repair:** 74 claim fields realigned across P04-P09 incl. P05 SUBCONTRACTOR→BOP_ASSOCIATE; proposition text updated.
 - **Card corrections:** precedent reframed as "delivered under BOP associate arrangement" — claimable as company experience delivered under BOP contract, not sole delivery.
 - **Status:** Index card REVIEWED.
+
+## 26/10/08 — Contracting structure flagged
+
+- Folder contract is Curator Technologies–BOP Consulting — likely BOP-associate work; contracting_role pending Iain confirmation.

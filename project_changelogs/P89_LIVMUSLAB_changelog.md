@@ -5,3 +5,7 @@
 - Folder moved from a separate Drive tree into Archive projects/2025 Projects/2025 Liverpool Musiclab
 - C-G2-271 (MusicFutures roundtable) moved here from P75-LANC
 - Open: sources and claims (VAL-S261007-05), client acceptance (-06), Phase 1 fee (-07)
+
+## 26/10/08 — Invoice evidence
+
+- INV-1343 £6,999+VAT + INV-1345 £3,000+VAT = £9,999 net invoiced.
