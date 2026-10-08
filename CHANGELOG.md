@@ -888,3 +888,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Iain: Y for every client on the acceptance list except Production Park. `client_accepted` set to Y on 31 completed projects (basis IAIN_STATEMENT, bulk; no written record checked; provenance and per-project changelog entries written). All 59 completed projects now carry Y.
 - Production Park GVA Study (P31): on hold, not complete (Iain). `lifecycle_status` COMPLETED to IN_PROGRESS with a note, since ON_HOLD is not in the lifecycle vocabulary; it drops out of the delivered check. Adding ON_HOLD is a taxonomy change for a lane review.
 - Eligibility now: E1 delivered 59 pass / 11 fail / 0 unknown. The E1 pass count rests on Iain's statements; the eligibility report shows the basis.
+
+## Session 13ao (26/10/08): review of adding ON_HOLD (analysis only)
+
+- Six-lane review of adding ON_HOLD to the lifecycle values, recorded in `onhold_REVIEW.md` (sark, wishful, skin and grey skipped, reasons given). No vocabulary or data change yet. Recommended: add it with a definition that separates it from phases, programme status and cancellation; a notes convention for reason, since-date and resume date; an additive vocabulary check and tests; E1 untouched. Awaiting Iain's five answers.
