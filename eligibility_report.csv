@@ -33,7 +33,7 @@ P31-PRODPARK,Production Park GVA Study,Production Park / Wakefield Council,COMPL
 P32-SURREY,Surrey+ Creative Corridor Strategic Framework,Surrey County Council / Surrey+ partnership,COMPLETED,UNKNOWN,PASS,PASS,PASS,PASS,0,0,0,0,1,2,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
 P33-LCRMUS,LCR Music Economy Mapping,Liverpool City Region,COMPLETED,PASS,PASS,PASS,PASS,PASS,1,0,0,0,2,2,0,IAIN_STATEMENT,no basis recorded,no basis recorded,,NOT_ESTABLISHED,YES
 P34-SOLENTHANTS,Solent and Hampshire CA CI Mapping,Solent and Hampshire Combined Authority,COMPLETED,UNKNOWN,PASS,PASS,PASS,PASS,0,0,0,0,0,3,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
-P35-DERBYMAP,Derby Cultural Masterplan Compact and Manifesto,Derby City Council,COMPLETED,PASS,PASS,PASS,UNKNOWN,PASS,0,0,0,0,0,1,0,IAIN_STATEMENT,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
+P35-DERBYMAP,Derby Cultural Masterplan Compact and Manifesto,Derby City Council,COMPLETED,PASS,PASS,PASS,UNKNOWN,PASS,1,0,0,0,0,1,0,IAIN_STATEMENT,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
 P37,Proving Services Suffolk (FHRG),Suffolk County Council,COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,PASS,3,0,0,0,2,1,0,,no basis recorded,IAIN_STATEMENT,,NOT_ESTABLISHED,NO
 P43,BAC + LIVR Project Evaluation,Battersea Arts Centre/LIVR,COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,PASS,2,0,2,0,1,1,0,,no basis recorded,IAIN_STATEMENT,,NOT_ESTABLISHED,NO
 P45,Lancashire Digital Strategy,Lancashire County Council,COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,PASS,0,0,0,0,6,1,0,,no basis recorded,IAIN_STATEMENT,,NOT_ESTABLISHED,NO
@@ -63,8 +63,8 @@ P81-WB6,WB6 Creative Economy Pulse,British Council,IN_PROGRESS,FAIL,FAIL,PASS,UN
 P82-KOTOR,British Council Kotor Exchange Pilot (FCDO-funded),British Council,IN_PROGRESS,FAIL,PASS,PASS,UNKNOWN,PASS,1,4,0,0,1,1,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
 P83-BCWB,British Council Creative Economy Council Development (MNE NM + WB),British Council,IN_PROGRESS,FAIL,PASS,PASS,UNKNOWN,PASS,6,5,0,0,3,5,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
 P84,Herefordshire Culture Strategy,Herefordshire Cultural Partnership,COMPLETED,PASS,PASS,PASS,UNKNOWN,PASS,2,0,0,0,3,4,0,IAIN_STATEMENT,no basis recorded,IAIN_STATEMENT,,NOT_ESTABLISHED,NO
-P85-AMGEN,AMGEN AHRC Creative Industries Cluster Programme Bid (University of South Wales),University of South Wales (bid lead),COMPLETED,PASS,PASS,PASS,UNKNOWN,PASS,0,0,0,0,0,0,0,IAIN_STATEMENT,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
-P86-CSSAL,Creative Scotland Salary Benchmarking Framework,Creative Scotland,IN_PROGRESS,FAIL,FAIL,PASS,UNKNOWN,PASS,0,0,0,0,0,0,0,,,IAIN_STATEMENT,,NOT_ESTABLISHED,NO
+P85-AMGEN,AMGEN AHRC Creative Industries Cluster Programme Bid (University of South Wales),University of South Wales (bid lead),COMPLETED,PASS,PASS,PASS,UNKNOWN,PASS,2,0,0,0,0,1,0,IAIN_STATEMENT,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
+P86-CSSAL,Creative Scotland Salary Benchmarking Framework,Creative Scotland,IN_PROGRESS,FAIL,FAIL,PASS,UNKNOWN,PASS,0,0,0,0,1,0,0,,,IAIN_STATEMENT,,NOT_ESTABLISHED,NO
 P87-TRUENORTH,True North CICP2 bid support (Lancaster),Lancaster University,COMPLETED,PASS,PASS,PASS,UNKNOWN,PASS,0,0,0,0,1,1,0,IAIN_STATEMENT,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
 P88-LCRPF24,LCR Production Fund Final Evaluation (2024-25),Liverpool City Region Combined Authority,COMPLETED,PASS,PASS,PASS,PASS,PASS,7,0,5,0,2,3,0,IAIN_STATEMENT,no basis recorded,IAIN_STATEMENT,linked statement MS-02 is DRAFT,NOT_ESTABLISHED,YES
 P89-LIVMUSLAB,Liverpool Music Lab Feasibility Study,Liverpool City Council,COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,PASS,0,0,0,0,0,1,0,,no basis recorded,DOCUMENT,,NOT_ESTABLISHED,NO

@@ -859,3 +859,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - VAL-S261008-13: traced the deletion to commit eb2674d (251 rows removed, none added; scripts do not write the claims file). Found that the Drive canonical 04_claims.csv (239,822 bytes) still matches the pre-restore repo copy, so a Drive to mirror sync could overwrite the restored claims. Needs Iain.
 - VAL-S261008-14: the five C-R5-524 to 528 claims did exist and were deleted by the same commit; they are recoverable from git but carry old-shape values, so restoration is proposed, not done.
+
+## Session 13ai (26/10/08): five deleted claims restored
+
+- Restored C-R5-524 to 528 (deleted by commit eb2674d) from its parent, with their 7 evidence links already in place. Normalised on the way in, recorded in `claims_restore2_RECORD.csv`: effect_family set to a valid value (the old value was the claim type), commercial_reuse UNRESTRICTED_INTERNAL cleared (not a codebook value), C-R5-527 option_state UNKNOWN (bid pending) with its BIDDER role kept as recorded for review. Claims now 595; unique IDs; evidence links all resolve; QA item 14 still shows only the 26 held cells. VAL-S261008-14 resolved.
