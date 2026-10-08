@@ -24,6 +24,14 @@ Completed projects: 60. Fully determinable (no UNKNOWN): 0. All five PASS: 0.
 | Citation status not recorded | 9 |
 | Open design/option claims on a lapsed bid | 0 |
 
+## Basis of PASS results (from 14_fact_provenance.csv)
+
+| Check | PASS with a recorded basis | PASS with no basis recorded |
+|---|---|---|
+| E1_delivered | 1 | 0 |
+| E2_citable | 0 | 55 |
+| E5_role_wording | 5 | 39 |
+
 ## Client acceptance, grouped by client (one answer per client may clear several projects)
 
 | Client | Completed projects with acceptance unrecorded |

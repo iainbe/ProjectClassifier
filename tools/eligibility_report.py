@@ -15,6 +15,11 @@ Checks (ontology_v2_DRAFT.md section 4, decisions 2-6):
 Referee permission is NOT a check: referees are cited in the tender and asked only once
 shortlisted (Iain 26/10/08); the state is derived from 11_permission_requests.csv. Evidence kinds are parallel and never ranked against each other.
 
+Provenance (Iain decision 12, 26/10/08): 14_fact_provenance.csv records the basis of backfilled gating facts
+(DOCUMENT, WRITTEN_CLIENT, VERBAL_CLIENT, IAIN_STATEMENT, INFERRED). The report shows the basis beside the E1, E2
+and E5 results and counts results with no basis recorded. Basis is displayed only: it never changes a PASS, FAIL
+or UNKNOWN.
+
 Outputs: eligibility_report.csv and eligibility_report.md (derived; regenerate after any
 change to the register, claims, methods or permission file).
 """
@@ -38,6 +43,10 @@ def main():
             if 'NAMED_REFEREE' in r['permission_scope'] and r['status'] == 'ESTABLISHED':
                 est.update(x.strip() for x in r['project_ids'].split(';') if x.strip())
 
+    prov = {}
+    if os.path.exists('14_fact_provenance.csv'):
+        for r in rows('14_fact_provenance.csv'):
+            prov[(r['project_id'], r['field'])] = r['basis']   # later rows win
     out = []
     for p in P:
         pid = p['project_id']; cl = claims.get(pid, []); life = p['lifecycle_status']
@@ -81,6 +90,9 @@ def main():
             'delivered_output': k['delivered_output'], 'effect_reported': k['effect_reported'],
             'effect_as_evaluator': k['effect_as_evaluator'], 'documented_use': k['documented_use'],
             'design': k['design'], 'context': k['context'], 'corroborated_claims': corroborated,
+            'E1_basis': prov.get((pid, 'client_accepted'), '') or ('no basis recorded' if e1 == 'PASS' else ''),
+            'E2_basis': prov.get((pid, 'citation_status'), '') or ('no basis recorded' if e2 == 'PASS' else ''),
+            'E5_basis': prov.get((pid, 'contracting_role'), '') or ('no basis recorded' if e5 == 'PASS' else ''),
             'referee_permission': 'ESTABLISHED' if pid in est else 'NOT_ESTABLISHED',
             'fully_determinable': 'YES' if 'UNKNOWN' not in (e1, e2, e3, e4, e5) else 'NO',
         })
@@ -106,6 +118,11 @@ def main():
               'E5_role_wording': 'Contracting role or prime contractor missing'}
     for c in sorted(checks, key=lambda c: -len(unk[c])):
         L.append('| %s | %d |' % (labels[c], len(unk[c])))
+    L += ['', '## Basis of PASS results (from 14_fact_provenance.csv)', '', '| Check | PASS with a recorded basis | PASS with no basis recorded |', '|---|---|---|']
+    for c, b in [('E1_delivered', 'E1_basis'), ('E2_citable', 'E2_basis'), ('E5_role_wording', 'E5_basis')]:
+        passed = [o for o in out if o[c] == 'PASS']
+        none = sum(1 for o in passed if o[b] == 'no basis recorded')
+        L.append('| %s | %d | %d |' % (c, len(passed) - none, none))
     byclient = collections.Counter(o['client'] for o in unk['E1_delivered'])
     L += ['', '## Client acceptance, grouped by client (one answer per client may clear several projects)', '',
           '| Client | Completed projects with acceptance unrecorded |', '|---|---|']

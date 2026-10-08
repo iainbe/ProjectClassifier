@@ -1,0 +1,13 @@
+fact_id,project_id,field,value,basis,source_or_note,recorded_by,recorded_at,supersedes_fact_id,notes
+FP-0001,P78-BEATLES,client_accepted,Y,VERBAL_CLIENT,Iain reports verbal acceptance from the client; no written record held,Iain,26/10/08,,First worked case. Shown beside the E1 result in selection views
+FP-0002,P78-BEATLES,date_end,26/10/08,IAIN_STATEMENT,Delivered 08 Oct after midnight; corrected from 26/10/07,Iain,26/10/08,,
+FP-0003,P25-LANCGP,contracting_role,DIRECT,DOCUMENT,"Lancashire County Council PO 321786253/0 (GBP 10,000 ex VAT); invoice 1221",Iain,26/10/07,,Role changed from SUBCONTRACTOR to DIRECT
+FP-0004,P75-LANC,contracting_role,DIRECT,DOCUMENT,"SRC-R5-001; INV-1357 and Lancaster remittance advice (GBP 1,499.70)",Iain,26/10/07,,"Workshop and summary report, Dec 2025"
+FP-0005,P76,contracting_role,DIRECT,DOCUMENT,"SRC-R5-014: Lancaster PO and INV-1339 (GBP 4,990 incl VAT, paid by BACS)",Iain,26/10/07,,
+FP-0006,P76,programme_status,NOT_AWARDED,IAIN_STATEMENT,Horizon bid not awarded (Iain),Iain,26/10/07,,
+FP-0007,P87-TRUENORTH,lifecycle_status,COMPLETED,IAIN_STATEMENT,"True North bid support delivered, ended 20 Aug 2026, GBP 8,333 + VAT; client application not shortlisted (Iain)",Iain,26/10/07,,"PO total GBP 9,999 incl VAT recorded separately (VAL-S261007-16)"
+FP-0008,P87-TRUENORTH,programme_status,NOT_AWARDED,IAIN_STATEMENT,Client CICP2 submission did not qualify for the shortlist (Iain),Iain,26/10/07,,
+FP-0009,P89-LIVMUSLAB,contracting_role,PRIME,DOCUMENT,"Liverpool City Council POs 3500530818, 3500530819 and 3500535803 (extension)",Iain,26/10/07,,"Iain: I was prime, checked against PO"
+FP-0010,P86-CSSAL,contracting_role,PRIME,IAIN_STATEMENT,"Awarded and contract signed (Agreement CS/CA1019, GBP 11,750 ex VAT per Iain); agreement not read by Devin",Iain,26/10/07,,Upgrade to DOCUMENT once the agreement is registered
+FP-0011,P07-CC,programme_status,NOT_AWARDED,IAIN_STATEMENT,Not awarded; follows the P06 model (Iain),Iain,26/10/07,,Contract value unknown
+FP-0012,P88-LCRPF24,client,Liverpool City Region Combined Authority,INFERRED,Client inferred from file names and the LCR Combined Authority template; not evidenced (VAL-S261007-01),Devin,26/10/07,,Confirm from contract or PO

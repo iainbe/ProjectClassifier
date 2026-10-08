@@ -608,3 +608,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 12i (26/10/08): P78 date, acceptance and citation
 
 - P78 date_end corrected to 26/10/08; client_accepted set to Y (verbal, per Iain; no written record, recorded in notes); PR-36 closed; VAL-S261008-07 resolved. This clears E1 for the Beatles Visitor Impact Study. Verbal acceptance is a weaker record than written, so the basis is stated beside the value.
+
+## Session 12j (26/10/08): provenance of backfilled facts (ontology decision 12, option B)
+
+- New `14_fact_provenance.csv` (append-only; basis DOCUMENT / WRITTEN_CLIENT / VERBAL_CLIENT / IAIN_STATEMENT / INFERRED) seeded with 12 facts settled this week, each value checked against the register. `tools/eligibility_report.py` and `tools/selection_view.py` now show the basis beside E1, E2 and E5 PASS results and the report counts PASS results with no basis recorded (E1 0, E2 55, E5 39). Display only: no result or check changed. Ontology draft updated. AGENTS.md not changed (draft not adopted): the stale-artefact rule should list the new file on adoption.

@@ -91,6 +91,7 @@ Method: same pipeline with Method subjects (`03_methods.csv`; `method_family` ro
 | permission state | `11_permission_requests.csv` | `reference_permission` on projects/cards |
 | claim classification | `04_claims.csv` | card findings |
 | buyer rules | `12_requirements.csv` | — |
+| basis of a backfilled gating fact | `14_fact_provenance.csv` | basis shown in eligibility report and selection views |
 
 `regenerate_index.py` (lines 13, 38 read lifecycle and contract value from cards) is changed to read the register. Stale-artefact rule extended: regenerate the selection view after any change to the register, claims, methods, requirements or permissions.
 
@@ -134,6 +135,8 @@ Dry-run on today's data (70 projects), using the checks as written, for orientat
 **Taken 26/10/08 (B):** decision 10: evidence kind filters candidates and never ranks them. Section 5 rewritten. Decision 10b taken (option C): default unordered, proposed order available as a trial switch. Background: whether and how role, recency and geography order the survivors (lane advice: role is already limited through the claim's attribution wording and recency overlaps the method-current check, so ranking on them risks double counting).
 
 **Taken 26/10/08 (C):** decision 11: case-study wording is capped at the evidence class of the claim it cites. An effect reported as evaluator is worded "the evaluation found"; a modelled estimate is worded "modelled estimate" with its boundary, price basis and status; a forecast or proposal is never worded as achieved; contribution claims name the contracting structure. First worked cases: C-S261008-018 (Beatles modelled GVA) and the P88 forecast claims.
+
+**Taken 26/10/08 (D):** decision 12: provenance of backfilled gating facts goes in an append-only `14_fact_provenance.csv` (project, field, value, basis, source or note, recorded by, date). Basis list: DOCUMENT, WRITTEN_CLIENT, VERBAL_CLIENT, IAIN_STATEMENT, INFERRED. The register stays flat. Basis is shown beside E1, E2 and E5 results and never changes a PASS, FAIL or UNKNOWN. Seeded with 12 facts settled this week; the older backfill carries no basis and is reported as "no basis recorded" (E2: 55 of 55 PASS; E5: 39 of 44 PASS). The candidates-considered log remains open.
 
 **Executed 26/10/07 (register edits):** decisions 2, 3 and 4 and the three project facts are now in the register (31-field register, lifecycle aligned, Derby bid row retired, Lancashire / Lancaster Horizon / Creative Scotland recorded). Lancaster re-key done 26/10/07 (session 6). Not yet done: Kirklees phase rows, client_accepted and early citation_status backfill. See CHANGELOG session 26/10/07 (5).
 

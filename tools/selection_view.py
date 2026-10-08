@@ -8,7 +8,7 @@ Takes the eligibility report (run tools/eligibility_report.py first) and keeps t
 subject text matches --keywords and that hold at least one of the evidence kinds the buyer wants.
 Candidates are listed in alphabetical order. Nothing is ranked across kinds or scored (Iain
 decisions 5 and 6). The keywords and kinds are the operator's reading of the buyer's ask and must be
-checked by Iain. Unrecorded facts are UNKNOWN, never PASS. Referee permission is the final
+checked by Iain. Unrecorded facts are UNKNOWN, never PASS. The basis of a PASS (document, verbal client, Iain statement, inferred) is shown in brackets from 14_fact_provenance.csv; it never changes the result. Referee permission is the final
 submission stage and is shown, not used to exclude.
 
 Ordering (Iain decision 10b, 26/10/08, option C): the default is alphabetical, no ranking. Evidence kind is a
@@ -73,9 +73,10 @@ def main():
     for _, pid in cands:
         e = elig[pid]
         held = ', '.join('%s %s' % (k.replace('_', ' '), e[k]) for k in ['delivered_output', 'effect_reported', 'effect_as_evaluator', 'documented_use', 'design', 'context'] if int(e[k]) > 0)
+        bs = lambda c, b: e[c] + (' (' + e[b].replace('_', ' ').lower() + ')' if e[c] == 'PASS' and e[b] else '')
         L.append('| %s (%s) | %s | %s | %s | %s | %s | %s | %s | %s | %s |' % (
-            e['project_name'], pid, e['client'][:34], e['lifecycle_status'], e['E1_delivered'], e['E2_citable'], e['E3_lapsed_option'],
-            e['E4_method_current'], e['E5_role_wording'], e['referee_permission'].replace('_', ' ').lower(), held) + (' %s |' % reasons[pid] if reasons else ''))
+            e['project_name'], pid, e['client'][:34], e['lifecycle_status'], bs('E1_delivered', 'E1_basis'), bs('E2_citable', 'E2_basis'), e['E3_lapsed_option'],
+            e['E4_method_current'], bs('E5_role_wording', 'E5_basis'), e['referee_permission'].replace('_', ' ').lower(), held) + (' %s |' % reasons[pid] if reasons else ''))
     L += ['', '## Facts needed before each candidate can be used (UNKNOWN or FAIL)', '']
     for _, pid in cands:
         e = elig[pid]
