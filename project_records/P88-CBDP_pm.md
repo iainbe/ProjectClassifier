@@ -14,9 +14,9 @@
 | `prime_contractor` | Curated Place | |
 | `other_partners` | Faculty of industry experts across Scotland/UK/international — names TBC | Programme intentionally international (incl. North East England, Nordic Region) |
 | `contract_value` | TBC | Programme-level value not disclosed; TFS fee below |
-| `fifth_sector_fee` | TBC — ask Iain | |
+| `fifth_sector_fee` | £500 | Iain 26/10/08 |
 | `commission_date` | 25/10 | Bio doc supplied to CP 2510; prep materials 25/10/05 |
-| `delivery_dates` | Oct–Nov 2025 confirmed (sessions 17–20/11); Round 2 Jan 2026 TBC | |
+| `delivery_dates` | Oct–Nov 2025 delivered (sessions 17–20/11); 6 further sessions in 2026 — two batches of 3 workshops | Iain 26/10/08 |
 
 ## 2. People
 
@@ -32,7 +32,7 @@
 
 | Field | Value | Notes |
 |---|---|---|
-| `reference_permission` | NOT_ESTABLISHED | Ask Curated Place — natural alongside any T23 consortium conversation |
+| `reference_permission` | NOT_ESTABLISHED | Warm relationship — prior bid collaboration with CP (CS Culture Collective evaluation, 26/08, not awarded). Ask alongside T23 consortium conversation |
 | `name_in_public` | NOT_ESTABLISHED | Programme is public; TFS contribution wording needs CP sign-off |
 | `confidentiality_terms` | TBC | |
 | `data_rights` | TBC — CP owns programme | |
@@ -49,11 +49,11 @@
 
 | Date | Entry |
 |---|---|
-| 26/10/08 | Registered from archive + programme web evidence. Open: edition coverage (CBDP 2025 vs Creative Producer 2023), fee, Round 2 involvement, referee ask. Relevance: T23 Lot 4 consortium evidence + Lot 7 bench (Curated Place), T21 CS-delivery familiarity. |
+| 26/10/08 | Registered from archive + programme web evidence. Iain confirmed: CBDP 2025 edition only (not Creative Producer 2023); fee £500; 6 further sessions booked 2026 (two batches of 3 workshops) — status IN_PROGRESS not COMPLETED; prior CP bid collaboration (CS Culture Collective evaluation, 26/08). Relevance: T23 Lot 4 consortium evidence + Lot 7 bench (Curated Place), T21 CS-delivery familiarity. |
 
-## 6. Completion — retrospective
+## 6. Completion — not yet (project live into 2026)
 
 | Field | Value | Notes |
 |---|---|---|
-| `acceptance_date` | ~25/11–25/12 | Round 1 cohort concluded; formal acceptance evidence not filed |
-| `client_decision_use` | Programme continues — Round 2 (Jan 2026) commissioned | Curated Place/CS call live |
+| `acceptance_date` | — | 2025 sessions delivered; 6 sessions scheduled 2026 |
+| `client_decision_use` | Programme continues — Round 2 (Jan 2026) commissioned, TFS sessions booked | Iain 26/10/08 |
