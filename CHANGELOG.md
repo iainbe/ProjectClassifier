@@ -896,3 +896,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13ap (26/10/08): ON_HOLD vocabulary, step 1 of 5
 
 - Iain answered the five review points (boundary yes: P82/P83 stay IN_PROGRESS; P31 paused by the client, 2025, resume unknown; no other holds; do not cite paused work as delivered; notes convention approved). Step 1 (vocabulary and checks only, no data): ON_HOLD defined in `codebook_v1.4_additions.md` with its boundaries; new `tools/check_lifecycle.py` (vocabulary, hold note, never cited as delivered, six-month review prompt) and `tests/test_lifecycle_vocab.py`; QA checklist item 15 in AGENTS.md. E1 untouched. On current data: 0 violations.
+
+## Session 13aq (26/10/08): ON_HOLD, step 2 of 5: Production Park
+
+- P31-PRODPARK set to ON_HOLD (paused by the client, since 2025, resume unknown; Iain) with the hold note, replacing the IN_PROGRESS workaround. `citation_status` DELIVERED_WORK to LIVE_WORK on Iain's instruction not to cite paused work as delivered; E2 now fails for it with the rule unchanged. Index card and index regenerated. Check: 0 violations, 1 review prompt (hold date older than six months; prompt only).

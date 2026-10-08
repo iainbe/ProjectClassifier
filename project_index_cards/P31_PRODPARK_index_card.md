@@ -15,12 +15,12 @@
 | `client` | Production Park / Wakefield Council | 01_projects.csv |
 | `reference_permission` | NOT_ESTABLISHED | — |
 | `commission_date` | 24 | 01_projects.csv |
-| `completion_date` | 24/07 | 01_projects.csv |
+| `completion_date` | not complete: work paused (last recorded end date 24/07) | 01_projects.csv |
 | `contract_value` | NOT_ESTABLISHED | — |
 | `contracting_role` | PRIME | 01_projects.csv |
 | `prime_contractor` | The Fifth Sector | 01_projects.csv |
 | `geography` | West Yorkshire / Wakefield | 01_projects.csv |
-| `lifecycle_status` | COMPLETED | 01_projects.csv |
+| `lifecycle_status` | ON_HOLD (paused by the client, since 25, resume unknown; Iain 26/10/08) | 01_projects.csv |
 
 ### A2. Brief summary
 
@@ -45,7 +45,7 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `citation_status` | DELIVERED_WORK | — |
+| `citation_status` | LIVE_WORK (paused work is not cited as delivered; Iain 26/10/08) | 14_fact_provenance.csv |
 | `reference_permission` | NOT_ESTABLISHED | — |
 | `reference_status` | NOT_CLEARED | — |
 
