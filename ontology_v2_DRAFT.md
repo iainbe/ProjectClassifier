@@ -20,7 +20,7 @@
 | Source / Claim / Method | as now | `02`, `04`, `03` | `SRC-…`, `C-…`, `M-…` |
 | Opportunity | A tender, bid or direct approach | `08_tenders.csv` | existing `T##-NAME` (e.g. `T01-BCAT`) |
 | **Requirement** (new) | One thing a buyer asks for, with its scoring rule | `12_requirements.csv` | `<tender id>#<n>` (e.g. `T22-VA#1`) |
-| **Use** (new) | Append-only log of which subject served which requirement | `13_uses.csv` | `U-…` |
+| **Selection** (new) | Append-only log of the candidates considered for a requirement item, which were chosen and why not | `13_selections.csv` | `SEL-…` |
 | Referee record | Permission state and contact | `11_permission_requests.csv` — **single source of truth** | `PR-…` |
 
 A **subject** of a Use is one of: PROJECT, METHOD, PERSON (team member/CV), AUTHORED (new content written for this tender, e.g. a fresh theory of change). A case study is a Use of a Project; a method statement is a Use of a Method (or AUTHORED); a team section is a Use of PERSON subjects. These are uses, not entities.
@@ -110,7 +110,7 @@ Requirement records back-filled for T01, T13, T21, T22, T05 (and inferred for T0
 5. Recode CONTEXTUAL (107); fix one empty `effect_family`; fix the label in the decision doc; code DECISION_USE; retire METHOD_TRANSFER.
 6. Resolve dangling references (40 claim IDs on 16 cards; 254 evidence-link rows pointing at 249 absent claims).
 7. Roll up `sector_activity` (60 values) and `method_family` (41) to about 10 each; normalise `client_type` (15 variants differ by case); add SUPERSEDED; repair `08_tenders.csv` T04 drift.
-8. Create `12_requirements.csv`, `13_uses.csv`; back-fill requirements.
+8. Requirements are per-tender files (decision 13) and the selection log is `13_selections.csv` (decision 15); create `12_requirements.csv` only if three tenders share a shape; back-fill requirement files for T21 and T23.
 
 Dry-run on today's data (70 projects), using the checks as written, for orientation only: E1 0 pass / 9 fail / 61 unknown (no `client_accepted`); E2 50 / 5 / 15; E3 21 / 6 / 43; E4 34 / 0 / 36 (becoming N/A); E5 40 / 0 / 30. The method cannot yet select anything usable: items 1–4 above come first.
 
