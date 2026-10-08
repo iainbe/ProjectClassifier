@@ -656,3 +656,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 12r (26/10/08): method selection, step 1 (draft only)
 
 - Iain chose option B for method selection. Added `method_family_rollup_DRAFT.csv`: a proposed mapping of the 42 `method_family` labels to eight rolled-up families (all 52 method rows covered; six boundary labels flagged for Iain). Nothing in `03_methods.csv` or the codebook has changed. The full lane review of the package (rollup, SUPERSEDED status, method view) and Iain's approval come before any change is applied; each applied item will be its own commit.
+
+## Session 12s (26/10/08): method rows repaired (method package item 1)
+
+- Repaired the one-column shift on 19 rows of `03_methods.csv` (M-G2-010 to M-G2-028) by script: empty `outputs` inserted, remaining fields moved right. Before applying, each row was asserted to match the exact shifted pattern; after, every row passes a semantic check (source IDs, claim IDs, review status, date). Diff shows only those 19 rows. All method source IDs now resolve in `02_sources.csv`. The method package was lane-reviewed (eight lanes, none blocking); this is item 1 of the agreed order, its own commit.
+- The foreign-key check found 20 claim IDs on method rows that do not exist in `04_claims.csv` (pre-existing; VAL-S261008-09).
