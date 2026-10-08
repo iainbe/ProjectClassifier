@@ -834,3 +834,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13ae (26/10/08): legacy claims columns, record and tool (Option B, step 1)
 
 - Iain approved Option B (clear 387 exact-duplicate cells to empty), the codebook rule, the new column check and holding the 26 non-duplicates. Step 1: `tools/clear_legacy_columns.py`, `claims_legacy_clear_RECORD.csv` (387 rows: claim, column, old value, claim type, batch, base commit a5e9800) and `claims_legacy_held_LIST.csv` (26 held cells: 21 pre-retype claim types, 5 older role strings). Restore test: clearing then restoring from the record reproduces 04_claims.csv byte for byte. No claims data changed in this commit.
+
+## Session 13ae-publication_status (26/10/08): 301 displaced values cleared in publication_status
+
+- Cleared 301 exact-duplicate values in `publication_status` to empty (rows listed in claims_legacy_clear_RECORD.csv; restore from that file or revert this commit). Only this column changed (verified cell by cell). Empty means not recorded.

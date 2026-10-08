@@ -836,3 +836,4 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/08 | Legacy columns review (analysis only) | Nine lanes run, all advisory; counts re-measured by three lanes; no test weakened; no data changed | Residual: Iain decision on Option B; batch-code writer untraced |
 | 26/10/08 | Spot-check of C-G2-333, 384, 407 | Checked against finalised folders; 333 derived, 384 spoken, 407 link corrected; my earlier "not found" was a search error on short lines and spoken numbers | none |
 | 26/10/08 | Legacy columns step 1 | Record and held list written before any clear; restore test byte-identical; header-name keyed tool; no data change | Residual: three clear commits, check tool, codebook rule follow |
+| 26/10/08 | Legacy columns: publication_status | 301 cells cleared, only that column changed, record rows equal cells cleared | held cells and check tool follow |
