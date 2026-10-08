@@ -818,3 +818,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13aa (26/10/08): spot-check decisions
 
 - C-G2-096 reclassified EFFECT to CONTEXT (effect_family NOT_APPLICABLE), a UK-wide estimate quoted in the Tees Valley baseline. C-G2-461 "finalised" confirmed by Iain. C-G2-333, 384 and 407 left as is on Iain's instruction. VAL-S261008-17 RESOLVED.
+
+## Session 13ab (26/10/08): 2016 Beatles Heritage report re-extracted
+
+- Iain supplied the PDF of the Beatles Heritage in Liverpool report (IPM / EIUA / ICC for Liverpool City Council). Extracted all 48 pages to `extracted_text/SRC-R5-016_v1_full.txt` (pages 46 to 48 blank); SRC-R5-016 now points at it with quality COMPLETE. VAL-S261008-16 resolved. Cover date reads November 2015 while the register says 25/11 and the title says 2016 baseline: date still to check.
