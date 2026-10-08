@@ -409,3 +409,4 @@ RH-26-10-08-P88D,P88-LCRPF24,UPDATE,Procurement lead confirmed,"LCC procurement 
 RH-26-10-08-PR05,PR-05,UPDATE,LCR referee named,"Sarah Lovell (LCR CA) added to PR-05; P88 added to scope; card stale rows fixed",11_permission_requests.csv;P88 card,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,SWEEP-261007
 RH-26-10-08-BF2,01_projects.csv,BACKFILL,20-project contract/fee sweep + P31 lifecycle to IN_PROGRESS,01_projects.csv,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,SWEEP-261007
 RH-26-10-08-REG3,01_projects.csv,REGISTER,P92-P96 registered + P03/P58/P70 contract patches,01_projects.csv;project_index.csv,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,SWEEP-261007
+RH-26-10-08-FIX3,01_projects.csv,UPDATE,P94 removed; P95 completed/single-invoice; P96 subcontractor via CBN,01_projects.csv;project_index.csv,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,RH-26-10-08-REG3

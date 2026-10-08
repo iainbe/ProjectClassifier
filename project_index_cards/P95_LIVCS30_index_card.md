@@ -16,7 +16,7 @@
 | `reference_permission` | NOT_ESTABLISHED | — |
 | `commission_date` | 20/01 | 01_projects.csv |
 | `completion_date` | 20/07 | 01_projects.csv |
-| `contract_value` | NOT_ESTABLISHED (PO 2001588590 £4,800 — may be partial) | LCC Supply of Services contract + PO |
+| `contract_value` | £4,800 (PO 2001588590 — only invoice, Iain-confirmed 26/10/08) | LCC Supply of Services contract + PO |
 | `contracting_role` | PRIME | 01_projects.csv |
 | `geography` | Liverpool | 01_projects.csv |
 | `lifecycle_status` | COMPLETED | 01_projects.csv |
@@ -39,4 +39,4 @@
 | Field | Value | Source |
 |---|---|---|
 | `card_status` | PROVISIONAL | 26/10/08 |
-| `unresolved_issues` | Total contract value unconfirmed — £4,800 PO likely one of several | — |
+| `unresolved_issues` | None — Iain confirms single invoice, work complete | — |
