@@ -7,7 +7,7 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | Statement | Needs from you | Approve? |
 |---|---|---|
 | MS-01 Modelled annual visitor-economy contribution (attribution bridge) | Iain: confirm this statement can be set to CLEARED (it holds no figures or provider data), and approve or correct the card below | |
-| MS-02 Evaluation of a funded programme, with interim-to-final comparison | Iain: find the contract or PO for P88-LCRPF24 in both archives (VAL-S261007-01); approve or correct the card below | |
+| MS-02 Evaluation of a funded programme, with interim-to-final comparison | Iain: approve or correct the card below (P88-LCRPF24 contracting arrangement now recorded) | |
 | MS-03 Evaluation approach design (theory-of-change baseline and contribution analysis) | Iain: check our own subcontract or NDA for a confidentiality or publicity clause (internal check, PR-07); no contact with BOP | |
 
 ## 2. Did the client accept the final output? (one answer per client; 32 completed projects, 32 clients)
@@ -61,11 +61,10 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | Liverpool City Region Digital & Creative Industries Cluster  (P08-LIVDCI) | DELIVERED_WORK | |
 | Creative Digital Economy Catapult challenges paper (P09-CDEC) | DELIVERED_WORK | |
 
-## 4. Who held the contract, and what was our part? (contracting role empty; 1 completed projects)
+## 4. Who held the contract, and what was our part? (contracting role empty; 0 completed projects)
 
 | Project | Client | Role: PRIME / DIRECT / SUBCONTRACTOR / ASSOCIATE / ADVISORY (prime if not us) |
 |---|---|---|
-| LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24) | Liverpool City Region Combined Auth | |
 
 ## 5. Open validation actions owned by you (31)
 

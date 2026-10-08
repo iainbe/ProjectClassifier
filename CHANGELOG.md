@@ -789,3 +789,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13t (26/10/08): remaining contracting roles
 
 - P43, P45, P46, P54, P63, P84: PRIME, The Fifth Sector (Iain). P50 UKRI Liverpool Visit: DIRECT, direct commission from AHRC, prime The Fifth Sector (client field left as UKRI, noted). Contracts not checked. Only P88-LCRPF24 completed-project contracting role remains empty (no contract found; how it was commissioned unknown).
+
+## Session 13u (26/10/08): P88-LCRPF24 contracting role
+
+- P88-LCRPF24 set to DIRECT, prime The Fifth Sector: direct commission from Liverpool City Council on behalf of LCRCA (Iain); no contract or PO exists. VAL-S261007-01 marked partial (contract value and client-of-record wording still open). MS-02 text updated; it stays DRAFT and only Iain moves it to CURRENT. All completed projects now have a contracting role.

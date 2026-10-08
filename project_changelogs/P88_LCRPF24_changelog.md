@@ -19,3 +19,7 @@
 ## 26/10/08 — Contract evidence
 
 - No PO or contract found in Google Drive; Iain: if none is found there was none. Recorded in relationship_evidence and provenance; contracting_role still empty pending how the work was commissioned.
+
+## 26/10/08 — Contracting role recorded
+
+- `contracting_role`=DIRECT, `prime_contractor`=The Fifth Sector: direct commission from Liverpool City Council on behalf of LCRCA (Iain). No contract or PO exists. MS-02 text updated.
