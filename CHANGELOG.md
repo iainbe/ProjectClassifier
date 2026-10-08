@@ -842,3 +842,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13ae-commercial_reuse (26/10/08): 54 displaced values cleared in commercial_reuse
 
 - Cleared 54 exact-duplicate values in `commercial_reuse` to empty (rows listed in claims_legacy_clear_RECORD.csv; restore from that file or revert this commit). Only this column changed (verified cell by cell). Empty means not recorded.
+
+## Session 13ae-reviewer_confidence (26/10/08): 32 displaced values cleared in reviewer_confidence
+
+- Cleared 32 exact-duplicate values in `reviewer_confidence` to empty (rows listed in claims_legacy_clear_RECORD.csv; restore from that file or revert this commit). Only this column changed (verified cell by cell). Empty means not recorded.
