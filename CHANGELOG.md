@@ -733,3 +733,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - Format checks (dates, version labels) over every register found the same displaced-column pattern again: 54 evidence-link rows (reviewer and review date held text, the extract path sat in `notes`, family, version and batch were one to three columns early), 67 measurement rows (`probability_basis` held the codebook version, `codebook_version` the batch), one tender row (T04-LCRFILM: a split claim list and a missing cell) and one validation row (VAL-G2-001: missing `source_id`). Each fixed by script against its exact pattern; old values in `evidence_repair_RECORD.csv`, `measurements_repair_RECORD.csv` and `register_misc_repair_RECORD.csv`. After repair every date and version cell in these registers passes its format check and every row has the header's width.
 - Reviewer and review date are blank on the 54 evidence rows (the old layout held notes in those cells, not people or dates). Nothing was invented.
+
+## Session 13i (26/10/08): one-pass question sheet
+
+- New read-only `tools/question_sheet.py` and its output `iain_question_sheet.md`: everything only Iain can supply, in one table with one answer per client where possible (59 completed projects across 50 clients for acceptance, 9 citation statuses, 20 contracting roles, 31 open validation actions, 3 statement approvals). Answers are entered into the registers by Devin with the basis written to `14_fact_provenance.csv`; nothing is guessed.
