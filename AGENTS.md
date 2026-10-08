@@ -247,6 +247,8 @@ After card or register changes: regenerate `project_index.csv`. After any change
 ### Repo sync
 Canonical = this Drive folder. `ProjectClassifier/` repo is the versioned mirror — sync after register-changing sessions, commit with the trigger named, and **push to `origin/main` (github.com/iainbe/ProjectClassifier) at the end of every register-changing session** so the remote mirror stays current (Iain instruction 26/10/07 — replaces the earlier push-only-when-asked rule).
 
+**Proposal docs mirror (26/10/08):** working `.md` documents under `Active proposals/` sit outside the repo. Mirror them into `proposal_docs/` (same folder structure) whenever they are created or changed, in the same commit as the session's register changes. Only `.md` files — ITT packs, PDFs and spreadsheets stay Drive-only.
+
 ### Date format convention
 All dates use `YY/MM/DD` (e.g., 26/09/12). Month-precision: `YY/MM`. Year-only in date fields: `YY`. Timestamps: `YY/MM/DDThh:mm:ss`. Applies to all registers, cards, changelogs, records and fields. EXCEPTION: `extracted_text/` source files remain verbatim — never normalise dates inside source evidence. `tools/normalise_dates.py` implements the conversion rules.
 

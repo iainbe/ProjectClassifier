@@ -647,3 +647,4 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - Current ratio computed and checked against the 2025/26 accounts PDF: 1.25 (FY25/26), 1.29, 1.44. Meets V&A PQQ 3.1.1 without a guarantor or statement. Added to `company_accounts/accounts_summary.md` and the T22 requirements file.
 - **Cross-tender next-steps doc (26/10/08)**: `261008 Next steps - priority order.md` in Active proposals — ordered across T22 (referees critical path), Towell call, T21 CAN, T23 partner/bench/CAN, compliance items.
+- **proposal_docs/ mirror created (26/10/08)**: all 23 .md working docs from Active proposals now versioned in the repo under the same folder structure. AGENTS.md updated — mirror is standing practice for new/changed proposal docs; ITT packs and binaries stay Drive-only.
