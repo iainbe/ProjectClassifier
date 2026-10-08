@@ -756,3 +756,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Iain: Greater Birmingham & Solihull LEP, West Midlands Combined Authority and West Midlands Growth Company work was BOP-led; all other clients in the group were The Fifth Sector. P04-GBSLEP and P05-WMCA already recorded BOP as prime. P47 (WMGC Pitch Books) set to `contracting_role`=ASSOCIATE, `prime_contractor`=BOP Consulting. P57 (Rushmoor) and P61 (Leicester) set to PRIME with The Fifth Sector as prime. Basis IAIN_STATEMENT in `14_fact_provenance.csv`; no contract checked.
 - P47 `fifth_sector_role` is still LEAD_CONSULTANT, which does not fit BOP associate work; left unchanged pending Iain's answer on the actual role.
 - Manchester: Google Drive checked (OneDrive not reachable from this session). Manchester Cultural Consortium and Cultural Leaders Group confirmed as one 2021 commission (proposal 10 Feb, World Cafe 30-31 Mar, final report, steering group of the Cultural Leaders Group and Manchester City Council); not yet registered, awaiting client, role and fee. No Manchester Creative People and Places bid found in Drive.
+
+## Session 13n (26/10/08): southern projects and P47 role
+
+- P52 (Somerset), P58 (Plymouth National Marine Park), P62 (Theatre Royal Plymouth) set to PRIME with The Fifth Sector as prime on Iain's statement (other southern projects all The Fifth Sector); contract not checked. P37 (Suffolk) not in the group, left empty.
+- P47 `fifth_sector_role` LEAD_CONSULTANT confirmed by Iain as his role while BOP Associate Director; BOP remains prime, so it does not imply Fifth Sector direct delivery. Provenance recorded.

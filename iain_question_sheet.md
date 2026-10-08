@@ -61,7 +61,7 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | Liverpool City Region Digital & Creative Industries Cluster  (P08-LIVDCI) | DELIVERED_WORK | |
 | Creative Digital Economy Catapult challenges paper (P09-CDEC) | DELIVERED_WORK | |
 
-## 4. Who held the contract, and what was our part? (contracting role empty; 17 completed projects)
+## 4. Who held the contract, and what was our part? (contracting role empty; 14 completed projects)
 
 | Project | Client | Role: PRIME / DIRECT / SUBCONTRACTOR / ASSOCIATE / ADVISORY (prime if not us) |
 |---|---|---|
@@ -72,10 +72,7 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | Wakefield Creative Skills Development (P48) | Creative Wakefield | |
 | UKRI Liverpool Visit and CoSTAR Engagement (P50) | UKRI | |
 | SYMCA ARG Evaluation (P51) | South Yorkshire Mayoral Combined Au | |
-| Somerset Cultural Strategy (P52) | Somerset Council | |
 | Manchester Place Partnership (P54) | Manchester City Council | |
-| Plymouth National Marine Park (P58) | Plymouth City Council | |
-| Theatre Royal Plymouth Engagement (P62) | Theatre Royal Plymouth | |
 | University of Liverpool Heritage CPD (P63) | University of Liverpool | |
 | Wakefield Our Year 2024 Business Case Justification (BC (P64-BCJ) | Wakefield Council | |
 | Wakefield Our Year 24 Evaluation (P69-OURYEAR) | Wakefield Council | |
