@@ -81,18 +81,3 @@ Claims behind it (wording and figures withheld: disclosure not cleared):
 - CAUTION: Method row M-G2-010 is PROPOSED, not applied.
 - INFO: Client acceptance not recorded as yes for CICP Impact and Delivery Evaluation.
 
-## Coverage of T22-VAIMP questions by method statements
-
-| Question | Route | Statement status | Evidence class | Note |
-|---|---|---|---|---|
-| q1 | MISSING |  |  | How the V&A supports the creative industries: no statement describes mapping a support offer |
-| q2 | MISSING |  |  | How practitioners engage with the collection in person and online: no survey, interview or participatory-research statement |
-| q3 | MISSING |  |  | Influence on careers, practices or businesses over time: no longitudinal method; candidates evidence delivery or evaluator-reported effects |
-| q4 | PARTIAL MS-02 | DRAFT | DELIVERED (reports delivered; programme  | Wider ecosystem: monitoring data and stakeholder testimony only |
-| q5 | PARTIAL MS-02 | DRAFT | DELIVERED (reports delivered; programme  | Strongest and weakest impact, and for whom: concentration test only, no segmentation method |
-| q6 | PARTIAL MS-03 | DRAFT | DESIGN_ONLY (approach document; not impl | Distinctive contribution: contribution analysis exists as design only; MS-01 makes no counterfactual claim |
-| q7 | PARTIAL MS-02 | DRAFT | DELIVERED (reports delivered; programme  | Low-impact effort: for a funded programme only |
-| criterion_beyond_traditional_metrics | PARTIAL MS-03 | DRAFT | DESIGN_ONLY (approach document; not impl | Only a design-only contribution; do not lead with it |
-
-3 of 8 questions have no statement. MISSING means no statement and no registered method, not that the firm lacks the capability.
-

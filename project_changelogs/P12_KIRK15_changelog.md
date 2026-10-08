@@ -11,3 +11,7 @@
 ## 26/10/08 — client acceptance recorded
 
 - client_accepted set to Y on Iain's bulk statement (group answer); basis IAIN_STATEMENT in `14_fact_provenance.csv`. No written record checked.
+
+## 26/10/08 — Method links fixed
+
+- Claims C-G2-504 to 523 no longer name the unregistered methods M-R3-022 and M-R3-023; see claims_method_links_RECORD.csv.
