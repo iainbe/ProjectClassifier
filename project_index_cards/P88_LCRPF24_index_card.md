@@ -26,6 +26,7 @@
 | Field | Value | Source |
 |---|---|---|
 | `brief_summary` | Final evaluation of the Liverpool City Region Production Fund covering 2020-2024, prepared by Iain Bennett and Lynne McCadden of The Fifth Sector. Compares with the 2021 interim (P22): spend leverage £6.76:£1 to £8.69:£1, indirect FTE 455 to 859, recoupment 18% to 41% against a 30% target. | SRC-G2-030 |
+| `contract_value` | £9,999 + VAT (£11,998.80) — Invoice INV-1322 to Liverpool City Council, PO 3500515342, issued 31/03/25, paid in full | Invoice INV-1322 (project folder) |
 | `key_deliverables` | Final evaluation report (draft 241223; final 25/06/09) | folder |
 
 ### A3. Key findings
@@ -50,4 +51,4 @@
 | `spillover_types_identified` | KNOWLEDGE; NETWORK; PRODUCT (as P22, to be coded from SRC-G2-030) | Derived |
 | `precedent_strength` | STRONG — realised outcomes; confirms or corrects the 2021 interim forecasts | Derived |
 | `precedent_caveats` | Evaluator role — programme effect is not Fifth Sector delivery; method is the client's agreed model | rules |
-| `card_status` | PROVISIONAL — claims coded 26/10/08; role, contract value and acceptance outstanding | 26/10/07 |
+| `card_status` | PROVISIONAL — claims coded 26/10/08; contract value and paid-in-full confirmed 26/10/08 (INV-1322); formal acceptance record outstanding | 26/10/08 |
