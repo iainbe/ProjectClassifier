@@ -29,7 +29,7 @@ Ancillary PI extras incl. criminal proceedings costs £250k, personal data claim
 
 | Tender | Requirement | Held | Gap |
 |---|---|---|---|
-| T21-CSFI Creative Scotland | PL £10m / EL £5m / PI £2m | PL £5m / EL £10m / PI £5m | **PL £5m short — uplift or consortium-lead cover needed (CAN Q9 asks whether lead cover suffices)** |
+| T21-CSFI Creative Scotland | PL £10m / EL £5m / PI £2m | PL £5m / EL £10m / PI £5m | **Not a blocker — precedent (Iain 26/10/07): CS previously accepted a contract amendment to reflect existing cover levels. Flag current levels in the proposal submission so the amendment can be requested at award.** |
 | T22-VAIMP V&A | PL £5m / EL £5m / PI £1m | PL £5m / EL £10m / PI £5m | None |
 | T23-TVBTV TVCA | PI £1m lots 1-6, PI £2m lot 7 | PI £5m | None |
 
