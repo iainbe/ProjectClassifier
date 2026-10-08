@@ -27,3 +27,7 @@
 ## 26/10/08 — Client wording corrected
 
 - Iain: LCRCA is the client; Liverpool City Council led procurement. Register client unchanged; relationship_evidence, provenance, VAL-S261007-01 and MS-02 text aligned.
+
+## 26/10/08 — Purchase order found
+
+- Invoice INV-1322 (31/03/25) to Liverpool City Council, PO 3500515342, 9,999.00 ex VAT, paid. Earlier note that no PO existed is superseded. File not stored (bank details).

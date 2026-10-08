@@ -1,6 +1,6 @@
 # MS-02 Evaluation of a funded programme, with interim-to-final comparison
 
-DRAFT. Contracting arrangement for the final evaluation now recorded (direct commission, no contract); only Iain moves it to CURRENT.
+DRAFT. Contracting arrangement for the final evaluation now recorded (direct commission under a purchase order); only Iain moves it to CURRENT.
 
 ---
 statement_id: MS-02
@@ -10,7 +10,7 @@ status: DRAFT
 evidence_class: DELIVERED (reports delivered; programme figures are client-supplied data)
 applications: M-G2-016;M-S261008-02;M-G2-021;M-G2-006
 claims: C-G2-037;C-G2-038;C-G2-039;C-G2-040;C-G2-041;C-S261008-001;C-S261008-002;C-S261008-003;C-S261008-005
-our_role: Evaluator. LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) is a direct contract. The LCR Production Fund Final Evaluation (P88-LCRPF24) was a direct commission; the client was LCRCA and Liverpool City Council led procurement (Iain 26/10/08; no contract or PO exists). Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) and Creativeworks London KE Hub Evaluation (P13-CWL, BOP associate work) are other evaluations; state each arrangement from the register
+our_role: Evaluator. LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) is a direct contract. The LCR Production Fund Final Evaluation (P88-LCRPF24) was a direct commission; the client was LCRCA and Liverpool City Council led procurement (Iain 26/10/08; invoiced to Liverpool City Council under PO 3500515342). Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) and Creativeworks London KE Hub Evaluation (P13-CWL, BOP associate work) are other evaluations; state each arrangement from the register
 disclosure_status: NOT_CLEARED
 disclosure_reason: programme figures are client-supplied data (Liverpool Film Office, Wakefield Council) and must be cited as client data; no figures may appear in reusable text
 reuse_restriction: P13-CWL is associate work for BOP Consulting; do not describe it as Fifth Sector's own programme
@@ -25,7 +25,7 @@ next_action: Iain: approve or correct the card below (P88-LCRPF24 contracting ar
 
 - **Safe to say:** "We evaluated the programme using the client's own monitoring data and reported what the evaluation found. The programme's effects are the programme's; our contribution was the evaluation."
 - **Never say:** that we caused the programme's effects; that modelled indirect jobs are counted jobs; that a forecast was achieved without a later source; that interim and final ratios show growth when their bases differ.
-- **Needs your yes on:** the wording above and the role for the final evaluation (direct commission, no contract).
+- **Needs your yes on:** the wording above and the role for the final evaluation (direct commission under a purchase order).
 - **Approve for use? Y / N:** ______
 
 ## Bid-ready paragraph (generic; fill the [slots])

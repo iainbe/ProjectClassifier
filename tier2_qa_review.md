@@ -826,3 +826,4 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/08 | Remaining contracting roles | 7 projects set on Iain's statement with provenance; contracts unchecked | Residual: P88-LCRPF24 empty; P50 client field says UKRI, commissioned by AHRC |
 | 26/10/08 | P88-LCRPF24 contracting role | DIRECT on Iain's statement; VAL-S261007-01 partial; MS-02 wording updated, status unchanged | Residual: client field says LCRCA while Liverpool City Council commissioned; contract value unknown |
 | 26/10/08 | P88-LCRPF24 client wording | Corrected to LCRCA client, Liverpool City Council led procurement; no register client change | Residual: contract value unknown |
+| 26/10/08 | P88-LCRPF24 purchase order | Invoice read; PO 3500515342 and 9,999.00 ex VAT recorded with DOCUMENT basis; earlier "no PO" statement corrected | Residual: total fee unknown if invoice was partial |

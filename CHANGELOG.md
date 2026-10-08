@@ -797,3 +797,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13v (26/10/08): P88-LCRPF24 client wording
 
 - Iain: the Combined Authority is the client of the Production Fund final evaluation; Liverpool City Council led procurement. Register client unchanged; evidence wording, provenance, VAL-S261007-01 and MS-02 text corrected to match (earlier wording said commissioned by the Council on behalf of LCRCA).
+
+## Session 13w (26/10/08): P88-LCRPF24 purchase order
+
+- Iain supplied invoice INV-1322 (31/03/25) from The Fifth Sector to Liverpool City Council, PO 3500515342, 9,999.00 ex VAT, paid in full. A PO therefore exists; the earlier "none exists" wording is superseded in the register, provenance, VAL-S261007-01, MS-02 and the card. Value is this invoice only. Invoice not stored in the repo because it carries bank details.
