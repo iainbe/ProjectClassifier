@@ -13,3 +13,7 @@
 ## 26/10/08 — Workshop deck registered
 
 - Registered `230522 UoL_Heritage_CPD_workshops.pptx` as SRC-G2-089 (SUPPORTING) and extracted its 26 slides to `extracted_text/P63-uol-heritage-workshops-deck_v1.txt`. It evidences that consultation was planned and what was asked; it records no attendance, responses or outcomes. Slide 24's "Plymouth context" is reused template text, not a Plymouth project. Drafts and inception note still unregistered.
+
+## 26/10/08 — Inception note registered
+
+- Registered `230418 Heritage CPD inception.docx` as SRC-G2-090 (SUPPORTING, PARTIAL_EXTRACT) and extracted it. It names three University of Liverpool attendees and the client-stated deliverable (the next step toward a Heritage Institute, not a business case). The extract has no section 1 or 5 and an empty engagement-plan section, so something was not captured. The draft reports are deliberately not registered (Iain: keep inception note only).
