@@ -1,0 +1,18 @@
+claim_id,verdict,note,follow_up
+C-G2-332,MISMATCH,"Source SRC-R2-02 states 2,035 individuals and 860 FTE; claim says 862 FTE. 1,855 and 180 also match. Proposed: correct to 860 FTE",Iain decision
+C-G2-333,NOT_FOUND,49% not stated in SRC-R2-02; may be derived from tier counts. Keep unverified; do not cite the percentage,Iain decision
+C-G2-335,VERIFIED_FORMAT,350K and 450K present in SRC-R2-01 as full figures,none
+C-G2-337,LINK_FIXED,"Figures are verbatim in SRC-R2-02 (NES Creative Industries Report), not SRC-R2-01 (Pinning Stones). Evidence link E-G2-242 changed to SRC-R2-02",done
+C-G2-343,VERIFIED_FORMAT,"234.0 million, 1,006 and 2,649 present in SRC-R2-02",none
+C-G2-010,VERIFIED_DERIVED,"Source table holds 100,979,000 and 63,935,000; 63% is 0.6332 in the table",none
+C-G2-518,VERIFIED_DERIVED,"As C-G2-010; percentages held as proportions (0.633, 0.0816 and similar) and values in whole pounds",none
+C-G2-522,VERIFIED_FORMAT,IT/software 0.0674 in the VAT sheet = 6.7%,none
+C-G2-521,VERIFIED_FORMAT,Series values present in SRC-G2-001; year pairs account for the screen miss,none
+C-G2-102,VERIFIED_FORMAT,"168, 233, 850 present in SRC-G2-067",none
+C-G2-092,VERIFIED_DERIVED,"Source: total project cost 34,371,864 and TVCA 20,000,000 (other funding 14,371,864; 34.37/20 = 1.72). Derived figures consistent",none
+C-G2-096,VERIFIED_NOTE,"Source quotes Oxford Economics: 10 jobs to 7 more, 1 pound to 0.5 pound. This is a UK-wide estimate; the source says it is not broken down regionally. The claim is typed EFFECT on P46, which looks wrong for a national estimate",Iain decision: reclassify as CONTEXT?
+C-G2-100,VERIFIED_FORMAT,3.0 present in SRC-G2-036,none
+C-G2-379,VERIFIED_FORMAT,300 present in SRC-R2-02,none
+C-G2-384,NOT_FOUND,8-10 businesses and 50-50 balance not found in SRC-R2-03 transcript extract,Iain decision
+C-G2-407,NOT_FOUND,"Phase 3, 18 months not found in SRC-R3-01 or in SRC-R3-02, R3-03, R2-03 extracts. Unverified; do not cite",Iain decision
+C-G2-461,PARTIAL,"Source SRC-R2-10 is headed DRAFT, April 2012; the claim says finalised 12/04. Date matches, finalised is not supported",Iain decision

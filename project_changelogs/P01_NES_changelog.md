@@ -149,3 +149,7 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 ## 26/10/08 — Citation status and contracting role
 
 - `citation_status`=DELIVERED_WORK; contracting role PRIME, prime The Fifth Sector on Iain's statement (tendered). Contract not checked. Earlier values kept in `14_fact_provenance.csv`.
+
+## 26/10/08 — Evidence link corrected
+
+- E-G2-242 (claim C-G2-337) now cites SRC-R2-02, where the Aberdeen and Edinburgh per-head figures appear verbatim; spot-check recorded in claims_spotcheck_RECORD.csv.

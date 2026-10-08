@@ -810,3 +810,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13y (26/10/08): validation actions triage
 
 - Three actions checked against the registers and resolved: VAL-S261008-09 (no method row names a missing claim), VAL-S261007-13 (no DESIGN or OPTION claim on a NOT_AWARDED project lacks EXPIRED), VAL-S261007-09 (no completed project has UNKNOWN citation status). 28 remain open for Iain.
+
+## Session 13z (26/10/08): spot-check of 17 flagged claims
+
+- Compared the 17 claims in VAL-S261008-17 against their cited extracts (`claims_spotcheck_RECORD.csv`): 10 verified (format, derived or rounded), 1 query on classification (C-G2-096, a UK-wide estimate typed EFFECT on P46), 1 mismatch (C-G2-332: source says 860 FTE, claim 862), 3 not found in cited extracts (C-G2-333, 384, 407), 1 partial (C-G2-461: source is a DRAFT), 1 wrong source on the evidence link fixed (E-G2-242 now cites SRC-R2-02, where the C-G2-337 figures appear verbatim). No claim text changed; corrections wait for Iain. VAL-S261008-17 marked PARTIAL.

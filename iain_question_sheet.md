@@ -57,7 +57,7 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | Project | Client | Role: PRIME / DIRECT / SUBCONTRACTOR / ASSOCIATE / ADVISORY (prime if not us) |
 |---|---|---|
 
-## 5. Open validation actions owned by you (28)
+## 5. Open validation actions owned by you (27)
 
 | ID | Question | Effort |
 |---|---|---|
@@ -88,4 +88,3 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | VAL-S261008-14 | Seven evidence rows point at claims C-R5-524 to C-R5-528, which were never registered. Register those claims or retire the links? | 30min |
 | VAL-S261008-15 | Five claims still carry the undefined effect_family CONTEXTUAL because they are not pure context (one DESIGN on P79-CELL; four METHOD_OUTPUT on P01-NES and P05-WMCA). Whi | 20min |
 | VAL-S261008-16 | SRC-R5-016 (the 2016 Beatles Legacy report) names extracted_text/SRC-R5-016_v1_partial.txt but that file is not in the repo. Find it (Drive, mirror) or re-extract the rep | 30min |
-| VAL-S261008-17 | Spot-check priority: in these claims at least one figure was not found in the extract of the source the claim cites. Many will be derived, rounded or unit-converted (for  | 2h |
