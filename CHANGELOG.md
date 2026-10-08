@@ -652,3 +652,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 12q (26/10/08): candidates-considered log (ontology decision 15, option B)
 
 - New append-only `13_selections.csv` (header only: no selection has been made yet) and `tools/record_selection.py` (dry run unless `--write`; one row per candidate with default and proposed positions, chosen, reason code; OUTCOME rows for buyer scores). `tools/selection_view.py` candidate logic moved into a `build()` function so both tools share it; regenerated T22 views are byte-identical to before. Ontology draft section 9 rewritten (replaces the planned `13_uses.csv`). Branch restarted from the merged main as the previous pull request was merged.
+
+## Session 12r (26/10/08): method selection, step 1 (draft only)
+
+- Iain chose option B for method selection. Added `method_family_rollup_DRAFT.csv`: a proposed mapping of the 42 `method_family` labels to eight rolled-up families (all 52 method rows covered; six boundary labels flagged for Iain). Nothing in `03_methods.csv` or the codebook has changed. The full lane review of the package (rollup, SUPERSEDED status, method view) and Iain's approval come before any change is applied; each applied item will be its own commit.

@@ -1,0 +1,42 @@
+old_family,rolled_up_family,methods_using_it,borderline_note
+creative_economy_mapping,SECTOR_BASELINE_MAPPING,5,
+creative_industries_mapping,SECTOR_BASELINE_MAPPING,5,
+cluster_mapping,SECTOR_BASELINE_MAPPING,1,
+immersive_tech_sector_mapping,SECTOR_BASELINE_MAPPING,2,
+music_economy_mapping,SECTOR_BASELINE_MAPPING,1,
+music_sector_mapping,SECTOR_BASELINE_MAPPING,1,
+scaleup_mapping,SECTOR_BASELINE_MAPPING,1,
+voluntary_arts_mapping,SECTOR_BASELINE_MAPPING,1,
+cultural_participation_mapping,SECTOR_BASELINE_MAPPING,1,
+gva_data_analysis,SECTOR_BASELINE_MAPPING,1,data table only; could be a sub-step of mapping
+skills_dashboard_analysis,SECTOR_BASELINE_MAPPING,1,
+graduate_destination_analysis,SECTOR_BASELINE_MAPPING,1,
+company_data_analysis,SECTOR_BASELINE_MAPPING,1,
+funding_landscape_analysis,SECTOR_BASELINE_MAPPING,1,descriptive baseline or STRATEGY input
+ecosystem_mapping,ECOSYSTEM_AND_NETWORK_ANALYSIS,1,
+social_network_analysis,ECOSYSTEM_AND_NETWORK_ANALYSIS,1,
+intermediary_analysis,ECOSYSTEM_AND_NETWORK_ANALYSIS,1,
+convergence_analysis,ECOSYSTEM_AND_NETWORK_ANALYSIS,1,could be SECTOR_BASELINE_MAPPING or ECOSYSTEM
+cluster_case_study_analysis,ECOSYSTEM_AND_NETWORK_ANALYSIS,1,
+case_study_research,ECOSYSTEM_AND_NETWORK_ANALYSIS,1,qualitative evidence; could be its own family
+economic_impact_assessment,ECONOMIC_ASSESSMENT,1,
+economic_rationale_analysis,ECONOMIC_ASSESSMENT,1,could be STRATEGY (case for intervention)
+cultural_development_fund_evaluation,EVALUATION,1,
+film_fund_evaluation,EVALUATION,1,
+ke_hub_evaluation,EVALUATION,1,
+evaluation_design,EVALUATION,1,
+creative_industries_strategy,STRATEGY_AND_OPTIONS,1,
+creative_corridor_strategy,STRATEGY_AND_OPTIONS,1,
+culture_strategy_review,STRATEGY_AND_OPTIONS,1,
+options_assessment,STRATEGY_AND_OPTIONS,2,
+options_analysis,STRATEGY_AND_OPTIONS,1,
+challenges_analysis,STRATEGY_AND_OPTIONS,1,
+investment_sequence_design,STRATEGY_AND_OPTIONS,1,
+cci_positioning_audit,STRATEGY_AND_OPTIONS,1,could be STRATEGY or SECTOR_BASELINE
+feasibility_study,FEASIBILITY,1,
+bid_development,BID_AND_PROPOSAL_SUPPORT,2,
+bid_support,BID_AND_PROPOSAL_SUPPORT,1,
+proposal_design,BID_AND_PROPOSAL_SUPPORT,1,
+inception_design,BID_AND_PROPOSAL_SUPPORT,1,
+workshop_facilitation,FACILITATION_AND_QUALITY,1,
+structured_audit_workflow,FACILITATION_AND_QUALITY,1,
