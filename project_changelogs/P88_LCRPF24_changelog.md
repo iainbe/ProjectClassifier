@@ -14,3 +14,4 @@
 ## 26/10/08 — contract value confirmed
 
 - Invoice INV-1322 found (Downloads → project folder): "Liverpool Film Fund Evaluation" £9,999+VAT (£11,998.80), billed to Liverpool City Council, PO 3500515342, issued 31/03/25, paid in full. client_accepted → PAID_IN_FULL. Open: invoice bill-to (LCC) vs report client (LCR CA) distinction.
+- LCC/LCRCA distinction RESOLVED (Iain 26/10/08): Liverpool City Council was procurement lead; commissioning client is LCR Combined Authority.
