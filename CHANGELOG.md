@@ -628,3 +628,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 12l (26/10/08): P88-CBDP renumbered to P90-CBDP
 
 - Iain: P88-LCRPF24 keeps the number 88. The Creative Scotland Cultural Business Development Programme subcontract is now P90-CBDP: register row, card, per-project changelog and PM record renamed and edited; derived files regenerated. Earlier log entries (CHANGELOG, QA review, review history) that say P88-CBDP are left as written, because they are the audit trail. VAL-S261008-08 resolved. Any outside file, Drive folder name or sweep note that says P88-CBDP needs the same change.
+
+## Session 12m (26/10/08): where requirements live (ontology decision 13, option B)
+
+- New folder `tender_requirements/` with `T22-VAIMP.md` (frozen contract and the case-study item, operator reading, Iain to correct). `tools/selection_view.py --requirements T22-VAIMP` reads it; the regenerated T22 view lists the same 11 candidates as before, in both orders. T22 row of `08_tenders.csv`: `requirement_map_location` set and the review-lane findings added to `notes` (tender review protocol item 4). Ontology draft updated.

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Selection view: read-only candidate list for one tender requirement. Run from the toolkit root.
 
+    python3 tools/selection_view.py --requirements T22-VAIMP            (reads tender_requirements/T22-VAIMP.md)
     python3 tools/selection_view.py --tender T22-VAIMP --label "Case studies of comparable work" \
         --keywords "evaluat|impact|visitor|heritage" --kinds delivered_output,effect_reported,effect_as_evaluator
 
@@ -27,11 +28,27 @@ def rows(p):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('--tender', required=True); ap.add_argument('--label', required=True)
-    ap.add_argument('--keywords', required=True); ap.add_argument('--kinds', required=True)
+    ap.add_argument('--tender'); ap.add_argument('--label')
+    ap.add_argument('--keywords'); ap.add_argument('--kinds')
+    ap.add_argument('--requirements', help='tender id; reads tender_requirements/<id>.md (Iain decision 13, 26/10/08)')
+    ap.add_argument('--item', default='case-studies', help='item heading in the requirements file')
     ap.add_argument('--order', choices=['alpha', 'proposed'], default='alpha')
     ap.add_argument('--geography', default='')
     a = ap.parse_args()
+    req_note = ''
+    if a.requirements:
+        item = {}; head = {}; cur = None
+        for line in open('tender_requirements/%s.md' % a.requirements, encoding='utf-8'):
+            line = line.rstrip('\n')
+            if line.startswith('## item:'): cur = line.split(':', 1)[1].strip(); item[cur] = {}; continue
+            m = re.match(r'^([a-z_]+): (.*)$', line)
+            if m: (item[cur] if cur else head)[m.group(1)] = m.group(2)
+        it = item[a.item]
+        a.tender = a.tender or head['tender_id']; a.label = a.label or it['label']
+        a.keywords = a.keywords or it['keywords']; a.kinds = a.kinds or it['kinds']
+        req_note = 'Requirements read from `tender_requirements/%s.md` (item `%s`, frozen %s, %s).' % (a.requirements, a.item, head.get('frozen_on', '?'), head.get('status', ''))
+    if not (a.tender and a.label and a.keywords and a.kinds):
+        ap.error('give --requirements, or all of --tender --label --keywords --kinds')
     kinds = [k.strip() for k in a.kinds.split(',')]; rx = re.compile(a.keywords, re.I)
     elig = {r['project_id']: r for r in rows('eligibility_report.csv')}
     reg = {r['project_id']: r for r in rows('01_projects.csv')}
@@ -64,7 +81,7 @@ def main():
                 ('; geography ' + ('matches' if geo == 0 else 'differs')) if a.geography else '')
             return (-nk, rolerank.get(role, 3), -datekey(p.get('date_end', '')), geo, item[0])
         cands.sort(key=key)
-    L = ['# Candidate view: %s - %s' % (a.tender, a.label), '',
+    L = ['# Candidate view: %s - %s' % (a.tender, a.label), ''] + ([req_note, ''] if req_note else []) + [
          'Derived, read-only. **Not a recommendation and not ranked.** Subject keywords: `%s`. Evidence kinds wanted: %s.' % (a.keywords, ', '.join(kinds)),
          'These are the operator\'s reading of the buyer\'s ask; Iain to correct. Candidates are in alphabetical order; kinds are never ranked against each other.', '',
          '%d candidates.' % len(cands), '',

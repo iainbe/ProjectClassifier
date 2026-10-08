@@ -1,5 +1,7 @@
 # Candidate view: T22-VAIMP - Case studies of comparable work (impact study of an institution on UK creative industries)
 
+Requirements read from `tender_requirements/T22-VAIMP.md` (item `case-studies`, frozen 26/10/08, operator reading, not yet corrected by Iain).
+
 Derived, read-only. **Not a recommendation and not ranked.** Subject keywords: `evaluat|impact|visitor|heritage|museum|attraction|spillover`. Evidence kinds wanted: delivered_output, effect_reported, effect_as_evaluator.
 These are the operator's reading of the buyer's ask; Iain to correct. Candidates are in alphabetical order; kinds are never ranked against each other.
 
