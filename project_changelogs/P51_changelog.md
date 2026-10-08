@@ -11,3 +11,7 @@
 ## 26/10/08 — Role updated
 
 - `fifth_sector_role` EVALUATOR to EVALUATOR;LEAD_CONSULTANT on Iain's instruction, for consistency with P88-LCRPF24.
+
+## 26/10/08 — Contracting role recorded
+
+- `contracting_role`=DIRECT, `prime_contractor`=The Fifth Sector on Iain's confirmation. Drive card cites tender DN619939, contract C0764, award letter 24/08/22; repo card to be aligned on regeneration.

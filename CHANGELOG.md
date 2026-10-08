@@ -781,3 +781,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - Searched Google Drive for a PO or contract for the LCR Production Fund Final Evaluation (P88-LCRPF24); none found. Iain: no PO or contract found means there was none. Recorded in relationship_evidence and provenance; OneDrive still unchecked and contracting_role still empty.
 - Noted: the Drive copy of the P51 card (modified 26/10/08) records DIRECT, competed tender DN619939, contract C0764, award letter 24/08/22; the repo copy says NOT_ESTABLISHED. Not applied; awaiting Iain's confirmation.
+
+## Session 13s (26/10/08): P51 contracting role
+
+- P51 (South Yorkshire Additional Restrictions Grant Evaluation) set to DIRECT, prime The Fifth Sector, on Iain's confirmation. Card line updated. Tender and contract references come from the Drive copy of the card; the award letter itself has not been seen by this session. Seven contracting roles remain empty.

@@ -822,3 +822,4 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/08 | Evaluator role consistency | P43, P51 role widened to match P88-LCRPF24 on Iain's instruction; old value in provenance | Residual: 9 contracting roles still empty; P54 outcome to confirm |
 | 26/10/08 | P54 not awarded | programme_status set; 4 DESIGN claims expired (QA check 7 satisfied for P54); no test weakened | Residual: stage reached, notification type, any scores unrecorded |
 | 26/10/08 | P88 contract evidence | Drive searched, none found; Iain statement recorded; no check weakened (E-checks still read contracting_role empty as UNKNOWN) | Residual: how P88 was commissioned; P51 Drive/repo card drift |
+| 26/10/08 | P51 contracting role | DIRECT on Iain's confirmation, references from Drive card unverified against award letter | Residual: 7 contracting roles empty (P43, P45, P46, P50, P54, P63, P84); P88 role empty |

@@ -17,7 +17,7 @@
 | `commission_date` | 22/01 | 01_projects.csv |
 | `completion_date` | 22/12 | 01_projects.csv |
 | `contract_value` | NOT_ESTABLISHED | — |
-| `contracting_role` | NOT_ESTABLISHED — register silent | 01_projects.csv |
+| `contracting_role` | DIRECT — held by The Fifth Sector (Iain 26/10/08); Drive card cites tender DN619939, contract C0764, award letter 24/08/22 | 01_projects.csv |
 | `geography` | South Yorkshire (Barnsley, Doncaster, Rotherham, Sheffield) | 01_projects.csv |
 | `sector_focus` | Arts Revenue Grant (ARG) evaluation | 01_projects.csv |
 | `lifecycle_status` | COMPLETED | 01_projects.csv |
