@@ -7,3 +7,5 @@
 ## 26/10/08 — BOP associate evidence
 
 - BOP Sub-Contractor Agreements (DCAT BEI-WP7) on file — consistent with ASSOCIATE attribution; fee unreadable (scanned).
+## 26/10/08 — Client acceptance recorded
+- `client_accepted`=Y on Iain's statement (bulk answer to the acceptance list); no written record checked.

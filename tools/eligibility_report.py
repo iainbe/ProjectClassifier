@@ -160,6 +160,9 @@ def main():
     for c in checks:
         fails = [o for o in done if o[c] == 'FAIL']
         if fails: L += ['- %s: %s' % (c, '; '.join('%s (%s)' % (o['project_name'], o['project_id']) for o in fails))]
+    held = [o for o in out if o['lifecycle_status'] == 'ON_HOLD']
+    L += ['', '## Projects on hold (paused, not delivered; not cited as delivered; not asked about client acceptance)', '']
+    L += ['- %s (%s)' % (o['project_name'], o['project_id']) for o in held] or ['- none']
     L += ['', 'Evidence kinds are shown side by side in `eligibility_report.csv` and are never ranked against each other.',
           'Referee permission is the final submission stage and is not a check here.']
     open('eligibility_report.md', 'w', encoding='utf-8').write('\n'.join(L) + '\n')

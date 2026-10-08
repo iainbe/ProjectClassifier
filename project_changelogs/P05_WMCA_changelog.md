@@ -113,3 +113,5 @@ SRC-R2-06 (`190730 final.docx`) is a client-authored document (Pritpal Bhurji), 
 - `citation_status`=DELIVERED_WORK; contracting role ASSOCIATE, prime BOP Consulting on Iain's statement (BOP associate). Contract not checked. Earlier values kept in `14_fact_provenance.csv`.
 ## 26/10/08 — Contracting structure flagged
 - Folder contract is Curator Technologies–BOP Consulting — likely BOP-associate work; contracting_role pending Iain confirmation.
+## 26/10/08 — Client acceptance recorded
+- `client_accepted`=Y on Iain's statement (bulk answer to the acceptance list); no written record checked.

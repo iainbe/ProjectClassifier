@@ -9,3 +9,5 @@
 ## 26/10/08 — Invoice evidence
 
 - INV-1343 £6,999+VAT + INV-1345 £3,000+VAT = £9,999 net invoiced.
+## 26/10/08 — Client acceptance recorded
+- `client_accepted`=Y on Iain's statement (bulk answer to the acceptance list); no written record checked.

@@ -105,3 +105,7 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 ## 26/10/08 — Citation status and contracting role
 
 - `citation_status`=DELIVERED_WORK; contracting role PRIME, prime The Fifth Sector on Iain's statement (tendered). Contract not checked. Earlier values kept in `14_fact_provenance.csv`.
+
+## 26/10/08 — Client acceptance recorded
+
+- `client_accepted`=Y on Iain's statement (bulk answer to the acceptance list); no written record checked.

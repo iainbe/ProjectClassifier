@@ -10,3 +10,11 @@
 ## 26/10/08 — claims restored
 
 - 8 claims restored to `04_claims.csv` (they were deleted in commit eb2674d on 26/09/16; recovered from commit 4a92a71). See `claims_restore_RECORD.csv`. Counts of coded claims, and so evidence-kind counts for this project, rise accordingly.
+
+## 26/10/08 — Marked delivered
+
+- `lifecycle_status` IN_PROGRESS to COMPLETED (Iain: the business case work is delivered). A GBP 5,000 inc VAT prepayment has been received for a further piece of work the client has not yet specified; recorded in notes and provenance, not as a deliverable. Client acceptance still UNKNOWN.
+
+## 26/10/08 — Acceptance, contracting role and client
+
+- Iain: client accepted (Y); direct commission from London Legacy Development Corporation. `contracting_role`=DIRECT, `prime_contractor`=The Fifth Sector, `client` set to the Corporation (CELL is the project, Creative Experience Lab London, now an alias). No contract read.

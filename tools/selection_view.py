@@ -106,6 +106,8 @@ def main():
         L.append('| %s (%s) | %s | %s | %s | %s | %s | %s | %s | %s | %s |' % (
             e['project_name'], pid, e['client'][:34], e['lifecycle_status'], bs('E1_delivered', 'E1_basis'), bs('E2_citable', 'E2_basis'), e['E3_lapsed_option'],
             e['E4_method_current'], bs('E5_role_wording', 'E5_basis'), e['referee_permission'].replace('_', ' ').lower(), held) + (' %s |' % reasons[pid] if reasons else ''))
+    if any(elig[pid]['lifecycle_status'] == 'ON_HOLD' for _, pid in cands):
+        L += ['', 'Lifecycle ON_HOLD means paused, not delivered: it is not cited as delivered work and cannot pass the delivered check.']
     L += ['', '## Facts needed before each candidate can be used (UNKNOWN or FAIL)', '']
     for _, pid in cands:
         e = elig[pid]

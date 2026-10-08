@@ -12,3 +12,7 @@
 ## 26/10/08 — Role confirmed
 
 - Iain: `fifth_sector_role` LEAD_CONSULTANT was his role as BOP Associate Director; BOP remained prime. Kept as recorded, with provenance.
+
+## 26/10/08 — Client acceptance recorded
+
+- `client_accepted`=Y on Iain's statement (bulk answer to the acceptance list); no written record checked.

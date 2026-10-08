@@ -13,3 +13,5 @@
 - `contracting_role`=SUBCONTRACTOR, `prime_contractor`=University of Plymouth on Iain's statement (Plymouth National Marine Park: Fifth Sector as contractor to Plymouth University (correction of earlier PRIME)). Contract not checked.
 ## 26/10/08 — TAA subcontract recorded
 - TAA associate supplier contract P4174 (01/06/21, £600/day) for TAAS Immersive Market Mapping — second engagement channel on Plymouth NMP alongside UoPEL subcontract (Iain confirms TAA work was for NMP).
+## 26/10/08 — Client acceptance recorded
+- `client_accepted`=Y on Iain's statement (bulk answer to the acceptance list); no written record checked.

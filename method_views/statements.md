@@ -28,12 +28,12 @@ Claims behind it (wording and figures withheld: disclosure not cleared):
 ## MS-02 Evaluation of a funded programme, with interim-to-final comparison
 
 - Family: EVALUATION. Evidence class: DELIVERED (reports delivered; programme figures are client-supplied data). Status: DRAFT.
-- Our role: Evaluator. LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) is a direct contract. The contracting arrangement for the LCR Production Fund Final Evaluation (P88-LCRPF24) is not yet evidenced (VAL-S261007-01) and that application is pending. Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) and Creativeworks London KE Hub Evaluation (P13-CWL, BOP associate work) are other evaluations; state each arrangement from the register
+- Our role: Evaluator. LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) is a direct contract. The LCR Production Fund Final Evaluation (P88-LCRPF24) was a direct commission; the client was LCRCA and Liverpool City Council led procurement (Iain 26/10/08; invoiced to Liverpool City Council under PO 3500515342). Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) and Creativeworks London KE Hub Evaluation (P13-CWL, BOP associate work) are other evaluations; state each arrangement from the register
 
 | Application | Project | Contracting | Citation | Method status |
 |---|---|---|---|---|
 | M-G2-016 | LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) | DIRECT | DELIVERED_WORK | APPLIED |
-| M-S261008-02 | LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24) | not recorded | DELIVERED_WORK | APPLIED |
+| M-S261008-02 | LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24) | DIRECT | DELIVERED_WORK | APPLIED |
 | M-G2-021 | Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) | DIRECT | DELIVERED_WORK | APPLIED |
 | M-G2-006 | Creativeworks London KE Hub Evaluation (P13-CWL) | ASSOCIATE to BOP Consulting | DELIVERED_WORK | APPLIED |
 
@@ -51,17 +51,12 @@ Claims behind it (wording and figures withheld: disclosure not cleared):
 
 **Lift into a bid: BLOCKED**
 
-- BLOCKER: Cannot be lifted into a bid yet: disclosure is "NOT_CLEARED". Iain: find the contract or PO for P88-LCRPF24 in both archives (VAL-S261007-01); approve or correct the card below Owner: Iain.
-- CAUTION: Contracting role not recorded for LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24): the statement cannot state our arrangement. Owner: Iain.
+- BLOCKER: Cannot be lifted into a bid yet: disclosure is "NOT_CLEARED". Iain: approve or correct the card below (P88-LCRPF24 contracting arrangement now recorded) Owner: Iain.
 - CAUTION: Draft: not approved by Iain yet. Owner: Iain.
 - INFO: Claim C-S261008-001 has not been spot-checked (review status PENDING).
 - INFO: Claim C-S261008-002 has not been spot-checked (review status PENDING).
 - INFO: Claim C-S261008-003 has not been spot-checked (review status PENDING).
 - INFO: Claim C-S261008-005 has not been spot-checked (review status PENDING).
-- INFO: Client acceptance not recorded as yes for Creativeworks London KE Hub Evaluation.
-- INFO: Client acceptance not recorded as yes for LCR Film and TV Production Fund Interim Evaluation.
-- INFO: Client acceptance not recorded as yes for LCR Production Fund Final Evaluation (2024-25).
-- INFO: Client acceptance not recorded as yes for Wakefield Cultural Development Fund Evaluation.
 
 ## MS-03 Evaluation approach design (theory-of-change baseline and contribution analysis)
 
@@ -83,20 +78,4 @@ Claims behind it (wording and figures withheld: disclosure not cleared):
 - CAUTION: Design only: say "contributed to the design of", never "delivered".
 - CAUTION: Draft: not approved by Iain yet. Owner: Iain.
 - CAUTION: Method row M-G2-010 is PROPOSED, not applied.
-- INFO: Client acceptance not recorded as yes for CICP Impact and Delivery Evaluation.
-
-## Coverage of T22-VAIMP questions by method statements
-
-| Question | Route | Statement status | Evidence class | Note |
-|---|---|---|---|---|
-| q1 | MISSING |  |  | How the V&A supports the creative industries: no statement describes mapping a support offer |
-| q2 | MISSING |  |  | How practitioners engage with the collection in person and online: no survey, interview or participatory-research statement |
-| q3 | MISSING |  |  | Influence on careers, practices or businesses over time: no longitudinal method; candidates evidence delivery or evaluator-reported effects |
-| q4 | PARTIAL MS-02 | DRAFT | DELIVERED (reports delivered; programme  | Wider ecosystem: monitoring data and stakeholder testimony only |
-| q5 | PARTIAL MS-02 | DRAFT | DELIVERED (reports delivered; programme  | Strongest and weakest impact, and for whom: concentration test only, no segmentation method |
-| q6 | PARTIAL MS-03 | DRAFT | DESIGN_ONLY (approach document; not impl | Distinctive contribution: contribution analysis exists as design only; MS-01 makes no counterfactual claim |
-| q7 | PARTIAL MS-02 | DRAFT | DELIVERED (reports delivered; programme  | Low-impact effort: for a funded programme only |
-| criterion_beyond_traditional_metrics | PARTIAL MS-03 | DRAFT | DESIGN_ONLY (approach document; not impl | Only a design-only contribution; do not lead with it |
-
-3 of 8 questions have no statement. MISSING means no statement and no registered method, not that the firm lacks the capability.
 
