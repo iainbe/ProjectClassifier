@@ -900,3 +900,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13aq (26/10/08): ON_HOLD, step 2 of 5: Production Park
 
 - P31-PRODPARK set to ON_HOLD (paused by the client, since 2025, resume unknown; Iain) with the hold note, replacing the IN_PROGRESS workaround. `citation_status` DELIVERED_WORK to LIVE_WORK on Iain's instruction not to cite paused work as delivered; E2 now fails for it with the rule unchanged. Index card and index regenerated. Check: 0 violations, 1 review prompt (hold date older than six months; prompt only).
+
+## Session 13ar (26/10/08): ON_HOLD, step 3 of 5: CELL delivered
+
+- P79-CELL marked COMPLETED on Iain's instruction (delivered). The client's GBP 5,000 inc VAT prepayment for a further, unspecified piece of work is recorded in notes and provenance, not as a deliverable. Client acceptance remains UNKNOWN, so E1 shows UNKNOWN for it and the question sheet asks.
