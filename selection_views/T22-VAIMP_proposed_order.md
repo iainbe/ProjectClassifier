@@ -9,12 +9,12 @@ These are the operator's reading of the buyer's ask; Iain to correct. Candidates
 
 | Project | Client | Lifecycle | Delivered / accepted | Citable | Lapsed option | Method current | Role wording | Referee | Evidence kinds held (claims) | Placed because |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) | Wakefield Council | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 1, effect as evaluator 4, context 2 | 2 of 3 wanted kinds; role DIRECT; ended 25/09 |
-| LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) | Liverpool City Region Combined Aut | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 3, effect as evaluator 1, design 1 | 2 of 3 wanted kinds; role DIRECT; ended 21/02 |
+| Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) | Wakefield Council | COMPLETED | PASS (iain statement) | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 1, effect as evaluator 4, context 2 | 2 of 3 wanted kinds; role DIRECT; ended 25/09 |
+| LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) | Liverpool City Region Combined Aut | COMPLETED | PASS (iain statement) | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 3, effect as evaluator 1, design 1 | 2 of 3 wanted kinds; role DIRECT; ended 21/02 |
 | Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026) (P10-KIRK) | Kirklees Council / West Yorkshire  | IN_PROGRESS | FAIL | UNKNOWN | PASS | PASS | PASS (no basis recorded) | not established | delivered output 4, effect reported 2, design 2, context 11 | 2 of 3 wanted kinds; role PRIME; ended UNKNOWN |
-| LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24) | Liverpool City Region Combined Aut | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | PASS | UNKNOWN | not established | delivered output 7, effect as evaluator 5, design 2, context 3 | 2 of 3 wanted kinds; role not recorded; ended 25/06 |
-| Wakefield Our Year 24 Evaluation (P69-OURYEAR) | Wakefield Council | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | UNKNOWN | UNKNOWN | not established | delivered output 10, effect reported 10, design 4, context 6 | 2 of 3 wanted kinds; role not recorded; ended 24/12 |
-| SYMCA ARG Evaluation (P51) | South Yorkshire Mayoral Combined A | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | UNKNOWN | UNKNOWN | not established | delivered output 1, effect as evaluator 6, context 2 | 2 of 3 wanted kinds; role not recorded; ended 22/12 |
+| LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24) | Liverpool City Region Combined Aut | COMPLETED | PASS (iain statement) | PASS (no basis recorded) | PASS | PASS | UNKNOWN | not established | delivered output 7, effect as evaluator 5, design 2, context 3 | 2 of 3 wanted kinds; role not recorded; ended 25/06 |
+| Wakefield Our Year 24 Evaluation (P69-OURYEAR) | Wakefield Council | COMPLETED | PASS (iain statement) | PASS (no basis recorded) | PASS | UNKNOWN | UNKNOWN | not established | delivered output 10, effect reported 10, design 4, context 6 | 2 of 3 wanted kinds; role not recorded; ended 24/12 |
+| SYMCA ARG Evaluation (P51) | South Yorkshire Mayoral Combined A | COMPLETED | PASS (iain statement) | PASS (no basis recorded) | PASS | UNKNOWN | UNKNOWN | not established | delivered output 1, effect as evaluator 6, context 2 | 2 of 3 wanted kinds; role not recorded; ended 22/12 |
 | BAC + LIVR Project Evaluation (P43) | Battersea Arts Centre/LIVR | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | UNKNOWN | UNKNOWN | not established | delivered output 2, effect as evaluator 2, design 1, context 1 | 2 of 3 wanted kinds; role not recorded; ended 21/08 |
 | Beatles Visitor Impact Study (P78-BEATLES) | Beatles Legacy Group (unconstitute | COMPLETED | PASS (verbal client) | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 3, design 3, context 10 | 1 of 3 wanted kinds; role DIRECT; ended 26/10/08 |
 | CICP Impact and Delivery Evaluation (P16-CICP) | UKRI / AHRC | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 1 | 1 of 3 wanted kinds; role SUBCONTRACTOR; ended UNKNOWN |
@@ -23,12 +23,12 @@ These are the operator's reading of the buyer's ask; Iain to correct. Candidates
 
 ## Facts needed before each candidate can be used (UNKNOWN or FAIL)
 
-- Wakefield Cultural Development Fund Evaluation (P27-WAKECDF): client acceptance
-- LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM): client acceptance
+- Wakefield Cultural Development Fund Evaluation (P27-WAKECDF): none
+- LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM): none
 - Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026) (P10-KIRK): client acceptance (FAIL); citation status
-- LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24): client acceptance; contracting role / prime contractor
-- Wakefield Our Year 24 Evaluation (P69-OURYEAR): client acceptance; method rows; contracting role / prime contractor
-- SYMCA ARG Evaluation (P51): client acceptance; method rows; contracting role / prime contractor
+- LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24): contracting role / prime contractor
+- Wakefield Our Year 24 Evaluation (P69-OURYEAR): method rows; contracting role / prime contractor
+- SYMCA ARG Evaluation (P51): method rows; contracting role / prime contractor
 - BAC + LIVR Project Evaluation (P43): client acceptance; method rows; contracting role / prime contractor
 - Beatles Visitor Impact Study (P78-BEATLES): none
 - CICP Impact and Delivery Evaluation (P16-CICP): client acceptance

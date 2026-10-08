@@ -14,12 +14,12 @@ These are the operator's reading of the buyer's ask; Iain to correct. Candidates
 | CICP Impact and Delivery Evaluation (P16-CICP) | UKRI / AHRC | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 1 |
 | Creativeworks London KE Hub Evaluation (P13-CWL) | AHRC / Creativeworks London | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | effect as evaluator 1, context 3 |
 | Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026) (P10-KIRK) | Kirklees Council / West Yorkshire  | IN_PROGRESS | FAIL | UNKNOWN | PASS | PASS | PASS (no basis recorded) | not established | delivered output 4, effect reported 2, design 2, context 11 |
-| LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) | Liverpool City Region Combined Aut | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 3, effect as evaluator 1, design 1 |
-| LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24) | Liverpool City Region Combined Aut | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | PASS | UNKNOWN | not established | delivered output 7, effect as evaluator 5, design 2, context 3 |
-| SYMCA ARG Evaluation (P51) | South Yorkshire Mayoral Combined A | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | UNKNOWN | UNKNOWN | not established | delivered output 1, effect as evaluator 6, context 2 |
+| LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) | Liverpool City Region Combined Aut | COMPLETED | PASS (iain statement) | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 3, effect as evaluator 1, design 1 |
+| LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24) | Liverpool City Region Combined Aut | COMPLETED | PASS (iain statement) | PASS (no basis recorded) | PASS | PASS | UNKNOWN | not established | delivered output 7, effect as evaluator 5, design 2, context 3 |
+| SYMCA ARG Evaluation (P51) | South Yorkshire Mayoral Combined A | COMPLETED | PASS (iain statement) | PASS (no basis recorded) | PASS | UNKNOWN | UNKNOWN | not established | delivered output 1, effect as evaluator 6, context 2 |
 | University of Liverpool Heritage CPD (P63) | University of Liverpool | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | UNKNOWN | UNKNOWN | not established | delivered output 1, design 2, context 1 |
-| Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) | Wakefield Council | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 1, effect as evaluator 4, context 2 |
-| Wakefield Our Year 24 Evaluation (P69-OURYEAR) | Wakefield Council | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | UNKNOWN | UNKNOWN | not established | delivered output 10, effect reported 10, design 4, context 6 |
+| Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) | Wakefield Council | COMPLETED | PASS (iain statement) | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 1, effect as evaluator 4, context 2 |
+| Wakefield Our Year 24 Evaluation (P69-OURYEAR) | Wakefield Council | COMPLETED | PASS (iain statement) | PASS (no basis recorded) | PASS | UNKNOWN | UNKNOWN | not established | delivered output 10, effect reported 10, design 4, context 6 |
 
 ## Facts needed before each candidate can be used (UNKNOWN or FAIL)
 
@@ -28,12 +28,12 @@ These are the operator's reading of the buyer's ask; Iain to correct. Candidates
 - CICP Impact and Delivery Evaluation (P16-CICP): client acceptance
 - Creativeworks London KE Hub Evaluation (P13-CWL): client acceptance
 - Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026) (P10-KIRK): client acceptance (FAIL); citation status
-- LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM): client acceptance
-- LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24): client acceptance; contracting role / prime contractor
-- SYMCA ARG Evaluation (P51): client acceptance; method rows; contracting role / prime contractor
+- LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM): none
+- LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24): contracting role / prime contractor
+- SYMCA ARG Evaluation (P51): method rows; contracting role / prime contractor
 - University of Liverpool Heritage CPD (P63): client acceptance; method rows; contracting role / prime contractor
-- Wakefield Cultural Development Fund Evaluation (P27-WAKECDF): client acceptance
-- Wakefield Our Year 24 Evaluation (P69-OURYEAR): client acceptance; method rows; contracting role / prime contractor
+- Wakefield Cultural Development Fund Evaluation (P27-WAKECDF): none
+- Wakefield Our Year 24 Evaluation (P69-OURYEAR): method rows; contracting role / prime contractor
 
 ## Subject matches with NO claims of the wanted kinds registered (not in the table above)
 

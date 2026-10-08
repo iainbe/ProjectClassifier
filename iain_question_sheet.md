@@ -10,15 +10,10 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | MS-02 Evaluation of a funded programme, with interim-to-final comparison | Iain: find the contract or PO for P88-LCRPF24 in both archives (VAL-S261007-01); approve or correct the card below | |
 | MS-03 Evaluation approach design (theory-of-change baseline and contribution analysis) | Iain: check our own subcontract or NDA for a confidentiality or publicity clause (internal check, PR-07); no contact with BOP | |
 
-## 2. Did the client accept the final output? (one answer per client; 59 completed projects, 50 clients)
+## 2. Did the client accept the final output? (one answer per client; 45 completed projects, 45 clients)
 
 | Client | Completed projects | Accepted? Y / N / don't know |
 |---|---|---|
-| Wakefield Council | Wakefield Cultural Development Fund Eval (P27-WAKECDF); Wakefield Our Year 2024 Business Case Ju (P64-BCJ); Wakefield Our Year 24 Evaluation (P69-OURYEAR); Wakefield CCI Skills Needs Assessment (P70) | |
-| South Yorkshire Mayoral Combined Authority | SYMCA Cultural and Creative Industries R (P20-SYMCA21); SYMCA Create Growth Programme Final Repo (P24-SYMCACGP); SYMCA ARG Evaluation (P51) | |
-| Lancaster University | Lancaster AHRC CIC workshop and summary  (P75-LANC); Lancaster Uni Horizon Bid (Virtual Agora (P76); True North CICP2 bid support (Lancaster) (P87-TRUENORTH) | |
-| Liverpool City Region | Liverpool City Region Digital & Creative (P08-LIVDCI); LCR Music Economy Mapping (P33-LCRMUS) | |
-| Liverpool City Region Combined Authority | LCR Film and TV Production Fund Interim  (P22-LCRFILM); LCR Production Fund Final Evaluation (20 (P88-LCRPF24) | |
 | Aberdeen City Council / Aberdeenshire Council | North East Scotland Creative Industries  (P01-NES) | |
 | Manchester Metropolitan University (on behalf of GM partners | From Good to Great (Innovate GM / Innova (P02-FGTG) | |
 | MediaCity / Innovate UK | MITIH Createch Ecosystem (MediaCity ITIH (P03-MITIH) | |

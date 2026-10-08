@@ -11,3 +11,7 @@
 - Mix: 7 METHOD_OUTPUT (programme data, comparison, comparative analysis, spend breakdown), 5 EFFECT as evaluator with rival explanations (LFO transformation, crew base, facilities, regional spread, one unnamed producer testimony), 3 CONTEXT (long-run trends, awards, extension), 2 DESIGN (55% recoupment forecast with option_state UNKNOWN; indigenous grant scenarios PROPOSED).
 - Report-internal inconsistencies recorded in claim notes, not resolved: production FTE rows sum to 858 against a stated 859; £2.82m / 859 is £3,283 not £3,284; Halton 1 vs 6 filming days in 2019; Knowsley facilities 12 vs 10; 19 award wins not reconcilable to listed awards; stated £8 target vs interim 3:1 and 5:1; interim to final ratio not like-for-like (interim £6.73M on £1.78M is 3.8:1); one production holds 36.7% of spend and the other nine give 6.54:1; recommendation (10%) vs conclusion (30% optimal).
 - Not coded as DECISION_USE: the July 2024 extension approval predates the June 2025 report (VAL-S261008-04). Forecast 55% recoupment awaits confirmation (VAL-S261008-03). P22 claims C-G2-037/038 quote final figures (VAL-S261008-05, not changed).
+
+## 26/10/08 — client acceptance recorded
+
+- client_accepted set to Y on Iain's bulk statement (clients with several projects); basis IAIN_STATEMENT in `14_fact_provenance.csv`. No written record checked.
