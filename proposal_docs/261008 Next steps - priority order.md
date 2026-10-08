@@ -20,7 +20,7 @@ Three live submissions inside 11 days: **V&A Impact Study 19/10**, **Creative Sc
   | Market-shaping layer (catalysing, de-risking, co-creation) | Evaluation of funds that de-risk creative activity: SYMCA emergency grants to culture/arts/heritage organisations, LCR Production Fund investment; the CICP evaluation design used contribution analysis to isolate what a national programme added |
   | Additionality ("unlikely to happen without it") | Our claim-level discipline on attribution: every effect claim carries an attribution strength rating and rival explanations field; contribution analysis experience from CICP |
 
-  The honest gap: IIPP's prototype also weights societal and participatory value (voice, inclusion, democratic discourse). Our evidence base is strongest on economic and ecosystem layers; the participatory/storytelling methods the brief asks for are where the team skeleton needs a qualitative or participatory partner.
+  The participatory layer is covered too: Jon Bains ran Lateral (experiential design and marketing agency) for over a decade and now runs What & Why (whatandwhy.co.uk), which does audience insight, empathy-led research, engagement programmes and workshops. He is the candidate for the creative and participatory methods strand the brief demands. Remaining check: his availability and consent to be named (recorded as PER-03, approach pending).
 - **PQQ** — Procurement Act 2023 exclusion declarations. Current ratio 1.25 meets the financial standing test on our own.
 - **Decision point ~14/10:** name Patrick Towell/MyCake/Etic Lab as associates only if consortium status is confirmed; otherwise bid as TFS prime with named associates. In-person pitches 2–3/11 at South Kensington.
 
