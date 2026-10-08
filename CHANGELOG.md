@@ -822,3 +822,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13ab (26/10/08): 2016 Beatles Heritage report re-extracted
 
 - Iain supplied the PDF of the Beatles Heritage in Liverpool report (IPM / EIUA / ICC for Liverpool City Council). Extracted all 48 pages to `extracted_text/SRC-R5-016_v1_full.txt` (pages 46 to 48 blank); SRC-R5-016 now points at it with quality COMPLETE. VAL-S261008-16 resolved. Cover date reads November 2015 while the register says 25/11 and the title says 2016 baseline: date still to check.
+
+## Session 13ac (26/10/08): review of the legacy-columns proposal
+
+- Full lane review (sark, blindspot, deepthink, sheldon, wishful, thad, shaz, skin, fok; grey skipped, no buyer intelligence) of VAL-S261008-11, recorded in `legacy_columns_REVIEW.md`. No data changed. Recommendation: clear 387 exact duplicates to empty, one commit per column, with a record file, a restore test and a new additive column check; hold 26 non-duplicate cells for Iain. Awaiting Iain's decision.

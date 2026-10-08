@@ -833,3 +833,4 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/08 | Spot-check correction | C-G2-332 862 confirmed by Iain as the actual count (860 is the report's rounding); record and VAL text corrected | none |
 | 26/10/08 | Spot-check decisions | C-G2-096 reclassified to CONTEXT; others left as instructed; VAL-17 resolved | C-G2-333, 384, 407 stay unverified |
 | 26/10/08 | SRC-R5-016 re-extraction | Full 48-page extract from supplied PDF; blank pages noted; extraction quality COMPLETE after the full-read rule met | Residual: source date (cover Nov 2015 vs register 25/11) |
+| 26/10/08 | Legacy columns review (analysis only) | Nine lanes run, all advisory; counts re-measured by three lanes; no test weakened; no data changed | Residual: Iain decision on Option B; batch-code writer untraced |
