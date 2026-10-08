@@ -45,3 +45,7 @@ Full list for `lifecycle_status`: PROPOSED / COMMISSIONED / IN_PROGRESS / COMPLE
 - It is not CANCELLED: cancelled work will not resume. If a hold is judged permanent, Iain changes it to CANCELLED.
 - A paused project fails the delivered check (E1 needs COMPLETED), is not cited as delivered (`citation_status` LIVE_WORK, never DELIVERED_WORK or PUBLIC_REPORT), and is not asked about client acceptance.
 - Every hold carries in `notes`: `ON HOLD: <reason>; since <YY or YY/MM or YY/MM/DD or unknown>; resume by <date or unknown>`. `tools/check_lifecycle.py` (QA item 15) fails an ON_HOLD row without it and prompts, without changing anything, when a hold is more than six months old or has no since date. Only Iain sets or clears ON_HOLD, recorded in `14_fact_provenance.csv`.
+
+## Projects: payment_status column added (26/10/08, merge resolution)
+
+`01_projects.csv` column 32 `payment_status` holds payment evidence separately from `client_accepted` (Y/N/UNKNOWN — acceptance is a different fact, per the sweep-guide rule). Values: PAID_IN_FULL / PART_PAID / blank (not recorded). Iain 26/10/08: no outstanding invoices — every completed project is PAID_IN_FULL; P31-PRODPARK is PART_PAID. An invoice on file evidences billing, not payment; PAID_IN_FULL rows rest on Iain's statement. Payment implies neither formal acceptance nor permission to cite; `client_accepted` and `reference_permission` are unchanged by it.
