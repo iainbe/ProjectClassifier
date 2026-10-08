@@ -593,3 +593,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 12f (26/10/08): ontology decision 10
 
 - Iain: evidence kind is a filter, not a rank. `ontology_v2_DRAFT.md` section 5 rewritten and ledger item added. Ordering of survivors by role, recency and geography left open (10b). No register or tool change; the T22 view already behaves this way.
+
+## Session 12g (26/10/08): ontology decision 10b (option C)
+
+- `tools/selection_view.py` gained `--order proposed` (and optional `--geography`): writes `selection_views/<tender>_proposed_order.md` with kinds held, then contracting role, then most recent end date, then geography, and a plain-words 'Placed because' column. No score. Default view unchanged (alphabetical). Draft section 5 updated.
+- T22 view regenerated: now 10 candidates because the LCR Production Fund Final Evaluation (P88) has coded claims.

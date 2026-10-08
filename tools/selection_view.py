@@ -10,6 +10,13 @@ Candidates are listed in alphabetical order. Nothing is ranked across kinds or s
 decisions 5 and 6). The keywords and kinds are the operator's reading of the buyer's ask and must be
 checked by Iain. Unrecorded facts are UNKNOWN, never PASS. Referee permission is the final
 submission stage and is shown, not used to exclude.
+
+Ordering (Iain decision 10b, 26/10/08, option C): the default is alphabetical, no ranking. Evidence kind is a
+filter only. `--order proposed` additionally shows the PROPOSED order for comparison with your own choices:
+number of wanted kinds held, then contracting role (PRIME/DIRECT, then SUBCONTRACTOR, then ASSOCIATE/ADVISORY,
+then not recorded), then most recent end date, then geography if --geography is given. Each placement
+is explained in words in a 'Placed because' column; there is no score. The proposed order is a trial, not a
+rule: it is written to selection_views/<tender>_proposed_order.md and never replaces the default view.
 Output: selection_views/<tender>.md (derived; regenerate after register changes).
 """
 import argparse, csv, os, re
@@ -22,6 +29,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--tender', required=True); ap.add_argument('--label', required=True)
     ap.add_argument('--keywords', required=True); ap.add_argument('--kinds', required=True)
+    ap.add_argument('--order', choices=['alpha', 'proposed'], default='alpha')
+    ap.add_argument('--geography', default='')
     a = ap.parse_args()
     kinds = [k.strip() for k in a.kinds.split(',')]; rx = re.compile(a.keywords, re.I)
     elig = {r['project_id']: r for r in rows('eligibility_report.csv')}
@@ -39,18 +48,34 @@ def main():
             else:
                 near.append((p['canonical_name'].lower(), pid))
     cands.sort(); near.sort()
+    reasons = {}
+    if a.order == 'proposed':
+        def datekey(v):
+            m = re.match(r'^(\d\d)(?:/(\d\d))?(?:/(\d\d?))?$', v or '')
+            return (int(m.group(1)) * 10000 + int(m.group(2) or 0) * 100 + int(m.group(3) or 0)) if m else 0
+        rolerank = {'PRIME': 0, 'DIRECT': 0, 'SUBCONTRACTOR': 1, 'ASSOCIATE': 2, 'BOP_ASSOCIATE': 2, 'ADVISORY': 2}
+        def key(item):
+            pid = item[1]; e = elig[pid]; p = reg[pid]
+            nk = sum(1 for k in kinds if int(e[k]) > 0)
+            role = p.get('contracting_role', '')
+            geo = 0 if (a.geography and a.geography.lower() in p.get('geography', '').lower()) else 1
+            reasons[pid] = '%d of %d wanted kinds; role %s; ended %s%s' % (
+                nk, len(kinds), role or 'not recorded', p.get('date_end') or 'not recorded',
+                ('; geography ' + ('matches' if geo == 0 else 'differs')) if a.geography else '')
+            return (-nk, rolerank.get(role, 3), -datekey(p.get('date_end', '')), geo, item[0])
+        cands.sort(key=key)
     L = ['# Candidate view: %s - %s' % (a.tender, a.label), '',
          'Derived, read-only. **Not a recommendation and not ranked.** Subject keywords: `%s`. Evidence kinds wanted: %s.' % (a.keywords, ', '.join(kinds)),
          'These are the operator\'s reading of the buyer\'s ask; Iain to correct. Candidates are in alphabetical order; kinds are never ranked against each other.', '',
          '%d candidates.' % len(cands), '',
-         '| Project | Client | Lifecycle | Delivered / accepted | Citable | Lapsed option | Method current | Role wording | Referee | Evidence kinds held (claims) |',
-         '|---|---|---|---|---|---|---|---|---|---|']
+         '| Project | Client | Lifecycle | Delivered / accepted | Citable | Lapsed option | Method current | Role wording | Referee | Evidence kinds held (claims) |' + (' Placed because |' if reasons else ''),
+         '|---|---|---|---|---|---|---|---|---|---|' + ('---|' if reasons else '')]
     for _, pid in cands:
         e = elig[pid]
         held = ', '.join('%s %s' % (k.replace('_', ' '), e[k]) for k in ['delivered_output', 'effect_reported', 'effect_as_evaluator', 'documented_use', 'design', 'context'] if int(e[k]) > 0)
         L.append('| %s (%s) | %s | %s | %s | %s | %s | %s | %s | %s | %s |' % (
             e['project_name'], pid, e['client'][:34], e['lifecycle_status'], e['E1_delivered'], e['E2_citable'], e['E3_lapsed_option'],
-            e['E4_method_current'], e['E5_role_wording'], e['referee_permission'].replace('_', ' ').lower(), held))
+            e['E4_method_current'], e['E5_role_wording'], e['referee_permission'].replace('_', ' ').lower(), held) + (' %s |' % reasons[pid] if reasons else ''))
     L += ['', '## Facts needed before each candidate can be used (UNKNOWN or FAIL)', '']
     for _, pid in cands:
         e = elig[pid]
@@ -66,8 +91,9 @@ def main():
     L += ['', '## Referees', '',
           'Referees are normally cited by name in the tender and only asked once the bidder is shortlisted (Iain, 26/10/08). Referee permission is therefore not needed to build or submit the case-study sheet, and the referee column above is for later. The brief asks for a contact for each case study "that is willing to give a reference", so the contact named for each should be someone likely to agree.']
     os.makedirs('selection_views', exist_ok=True)
-    open('selection_views/%s.md' % a.tender, 'w', encoding='utf-8').write('\n'.join(L) + '\n')
-    print('selection_views/%s.md written: %d candidates' % (a.tender, len(cands)))
+    out = 'selection_views/%s%s.md' % (a.tender, '_proposed_order' if reasons else '')
+    open(out, 'w', encoding='utf-8').write('\n'.join(L) + '\n')
+    print('%s written: %d candidates' % (out, len(cands)))
 
 if __name__ == '__main__':
     main()

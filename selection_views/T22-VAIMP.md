@@ -3,7 +3,7 @@
 Derived, read-only. **Not a recommendation and not ranked.** Subject keywords: `evaluat|impact|visitor|heritage|museum|attraction|spillover`. Evidence kinds wanted: delivered_output, effect_reported, effect_as_evaluator.
 These are the operator's reading of the buyer's ask; Iain to correct. Candidates are in alphabetical order; kinds are never ranked against each other.
 
-9 candidates.
+10 candidates.
 
 | Project | Client | Lifecycle | Delivered / accepted | Citable | Lapsed option | Method current | Role wording | Referee | Evidence kinds held (claims) |
 |---|---|---|---|---|---|---|---|---|---|
@@ -12,6 +12,7 @@ These are the operator's reading of the buyer's ask; Iain to correct. Candidates
 | Creativeworks London KE Hub Evaluation (P13-CWL) | AHRC / Creativeworks London | COMPLETED | UNKNOWN | PASS | PASS | PASS | PASS | not established | effect as evaluator 1, context 3 |
 | Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026) (P10-KIRK) | Kirklees Council / West Yorkshire  | IN_PROGRESS | FAIL | UNKNOWN | PASS | PASS | PASS | not established | delivered output 2, design 1, context 4 |
 | LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) | Liverpool City Region Combined Aut | COMPLETED | UNKNOWN | PASS | PASS | PASS | PASS | not established | delivered output 3, effect as evaluator 1, design 1 |
+| LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24) | Liverpool City Region Combined Aut | COMPLETED | UNKNOWN | PASS | PASS | UNKNOWN | UNKNOWN | not established | delivered output 7, effect as evaluator 5, design 2, context 3 |
 | SYMCA ARG Evaluation (P51) | South Yorkshire Mayoral Combined A | COMPLETED | UNKNOWN | PASS | PASS | UNKNOWN | UNKNOWN | not established | delivered output 1, effect as evaluator 6, context 2 |
 | University of Liverpool Heritage CPD (P63) | University of Liverpool | COMPLETED | UNKNOWN | PASS | PASS | UNKNOWN | UNKNOWN | not established | delivered output 1, design 2, context 1 |
 | Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) | Wakefield Council | COMPLETED | UNKNOWN | PASS | PASS | PASS | PASS | not established | delivered output 1, effect as evaluator 4, context 2 |
@@ -24,6 +25,7 @@ These are the operator's reading of the buyer's ask; Iain to correct. Candidates
 - Creativeworks London KE Hub Evaluation (P13-CWL): client acceptance
 - Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026) (P10-KIRK): client acceptance (FAIL); citation status
 - LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM): client acceptance
+- LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24): client acceptance; method rows; contracting role / prime contractor
 - SYMCA ARG Evaluation (P51): client acceptance; method rows; contracting role / prime contractor
 - University of Liverpool Heritage CPD (P63): client acceptance; method rows; contracting role / prime contractor
 - Wakefield Cultural Development Fund Evaluation (P27-WAKECDF): client acceptance
@@ -34,7 +36,6 @@ These are the operator's reading of the buyer's ask; Iain to correct. Candidates
 These match the subject but hold none of the wanted evidence kinds in the claims register, so the table above cannot show them. This does not mean they lack the evidence: the claims may simply not be coded yet.
 
 - Beatles Visitor Impact Study (P78-BEATLES), Beatles Legacy Group (unconsti, COMPLETED: holds no claims coded
-- LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24), Liverpool City Region Combined, COMPLETED: holds no claims coded
 - SYMCA Create Growth Programme Final Report (P24-SYMCACGP), South Yorkshire Mayoral Combin, COMPLETED: holds design 1, context 3
 
 ## Referees
