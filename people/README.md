@@ -38,10 +38,10 @@ Canonical person records cite these stores. Paths relative to
 ## Bid/project folders surfaced by this sweep — REGISTERED 26/10/08
 
 - **P91-WBSKILLS / T28-BCWB** — British Council Western Balkans Creative Skills. WON, delivering 2026. Team: Bennett lead consultant, McCadden methodology consultant, Unscrambled.world taxonomy. McCadden timesheets Jan–Mar 26 on file.
-- **T24-BM** — 2025 British Museum branding. What & Why-led (Bains + Lindsay Butcher), Iain associate — NOT a Fifth Sector bid. Full submitted pack held; outcome unknown.
-- **T25-UEA** — UEA Creative Services Framework PURCON 2049. What & Why-led, Iain associate. Buyer pack held; submission unconfirmed.
+- **T24-BM** — 2025 British Museum branding. What & Why-led (Bains + Lindsay Butcher), Iain associate — NOT a Fifth Sector bid. UNSUCCESSFUL (Iain 26/10/08).
+- **T25-UEA** — UEA Creative Services Framework PURCON 2049. What & Why-led, Iain associate. UNSUCCESSFUL (Iain 26/10/08).
 - **T26-TVCAPV** — 2023 TVCA Production Village. The Fifth Sector bid, unsuccessful (lost proposals folder); team CVs exist.
 - **T27-TVACF** — 2024 TVCA Creative Freelance. The Fifth Sector bid, unsuccessful; McCadden named team member.
-- **T29-OPPOSITION** — 2017 Opposition/BOPosition. Oldest Bennett–Bains/W&W artefact; buyer and outcome unknown.
+- **2017 Opposition/BOPosition** — oldest Bennett–Bains/W&W artefact; too thin to register (removed as T29, retained as relationship evidence in PER-03 record).
 
 PER-05 Lindsay Butcher added — What & Why co-lead with Bains on T24/T25.

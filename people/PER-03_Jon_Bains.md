@@ -52,9 +52,8 @@ IMPORTANT ATTRIBUTION (Iain 26/10/08): the British Museum and UEA bids were **Wh
 
 | Bid | Year | Register | Material |
 |---|---|---|---|
-| "Opposition" / "BOPosition" | 2017 | T29-OPPOSITION | 170329 Opposition.pdf / BOPosition.pdf |
-| UEA Creative Services Framework PURCON 2049 | — | T25-UEA | Full buyer pack; W&W-led (Bains + Butcher), Iain associate |
-| British Museum branding | 2025 | T24-BM | Full submitted pack; W&W-led (Bains + Butcher), Iain associate |
+| UEA Creative Services Framework PURCON 2049 | — | T25-UEA (unsuccessful) | Full buyer pack; W&W-led (Bains + Butcher), Iain associate |
+| British Museum branding | 2025 | T24-BM (unsuccessful) | Full submitted pack; W&W-led (Bains + Butcher), Iain associate |
 | P79-CELL working session | 2026 | — | "Bains and Bennett down the rabbit hole" otter transcript in CELL project management folder |
 
 ## Tender-relevant angles
