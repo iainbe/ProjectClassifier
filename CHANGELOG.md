@@ -850,3 +850,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13af (26/10/08): claims column check and QA item 14
 
 - Added `tools/check_claims_columns.py` (read-only, keyed by header name, table of allowed values per column, cross-field copy test, self-test with a seeded bad row) and QA checklist item 14 in AGENTS.md (Iain approved). On the pre-clear data it reports 413 violations; now 26, exactly the held cells. Not yet in the pre-commit hook: it would block every commit until Iain rules on the 26.
+
+## Session 13ag (26/10/08): codebook rule and VAL-S261008-11 update
+
+- Codebook additions: empty means not recorded; gates treat empty publication_status and commercial_reuse as INTERNAL_ONLY; existing INTERNAL_ONLY, NONE_FOUND_IN_REVIEW and MEDIUM values are script defaults, not review outcomes. VAL-S261008-11 updated (stale counts replaced) and marked PARTIAL: 26 held cells await Iain.

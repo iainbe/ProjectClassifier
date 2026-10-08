@@ -57,7 +57,7 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | Project | Client | Role: PRIME / DIRECT / SUBCONTRACTOR / ASSOCIATE / ADVISORY (prime if not us) |
 |---|---|---|
 
-## 5. Open validation actions owned by you (27)
+## 5. Open validation actions owned by you (25)
 
 | ID | Question | Effort |
 |---|---|---|
@@ -82,9 +82,7 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | VAL-S261008-03 | Was the projected 55% recoupment (£1,539,898) by end 2025 achieved? | 20min |
 | VAL-S261008-04 | Did the Combined Authority Gateway Review use this evaluation, and did it inform the continuation decision? | 20min |
 | VAL-S261008-10 | After the claims repair these seven claims (LCR Film and TV Production Fund Interim Evaluation P22-LCRFILM and Wakefield Cultural Development Fund Evaluation P27-WAKECDF) | 20min |
-| VAL-S261008-11 | Four claim columns still hold legacy copies of other fields on many rows (contrary_evidence holds role codes on 66, reviewer_confidence holds a claim type on 53, commerci | 45min |
 | VAL-S261008-12 | Claim C-R3-031 names method M-R3-019 but that method row does not list the claim in its claim_ids (one-way link). Add the claim to the method row, or correct the claim? | 10min |
 | VAL-S261008-13 | How did commit eb2674d (26/09/16, a Devin sweep) delete 244 claims and keep the evidence for them? Check the sweep write process so it cannot overwrite the claims file ag | 45min |
 | VAL-S261008-14 | Seven evidence rows point at claims C-R5-524 to C-R5-528, which were never registered. Register those claims or retire the links? | 30min |
 | VAL-S261008-15 | Five claims still carry the undefined effect_family CONTEXTUAL because they are not pure context (one DESIGN on P79-CELL; four METHOD_OUTPUT on P01-NES and P05-WMCA). Whi | 20min |
-| VAL-S261008-16 | SRC-R5-016 (the 2016 Beatles Legacy report) names extracted_text/SRC-R5-016_v1_partial.txt but that file is not in the repo. Find it (Drive, mirror) or re-extract the rep | 30min |

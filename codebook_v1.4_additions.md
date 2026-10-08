@@ -25,3 +25,11 @@ CURRENT, DRAFT or SUPERSEDED, held in the statement file header. Only Iain sets 
 ## 4. Rules carried over
 
 Wording is capped at the evidence class of the claims behind a statement. Contribution claims name the contracting structure. BOP Consulting and other competitors are never asked for permission (PR-07). Statements are written when a requirement needs them, not for every method.
+
+## Governed claims columns: empty means not recorded (26/10/08, Iain)
+
+- `publication_status`, `commercial_reuse`, `reviewer_confidence` and `contrary_evidence` hold only the codebook values in section 10 and the evidence-summary line (confidence HIGH / MEDIUM / LOW / NOT_ASSESSED; contrary evidence PRESENT / NONE_FOUND_IN_REVIEW / NOT_ASSESSED), or are empty.
+- Empty means **not recorded**. It never means unrestricted or cleared: any gate, script or reader must treat an empty `publication_status` or `commercial_reuse` as INTERNAL_ONLY (the most restrictive state).
+- The values INTERNAL_ONLY, NONE_FOUND_IN_REVIEW and MEDIUM already present on many rows were written by bulk scripts as defaults. They are not review outcomes and must not be read as evidence that a review took place.
+- A governed column must never hold a copy of another field (a batch code, method ID, claim type or role list). `tools/check_claims_columns.py` (QA checklist item 14) enforces this.
+- Provenance of the 26 Oct 2026 clearing (387 cells): `claims_legacy_clear_RECORD.csv`; 26 cells held for Iain: `claims_legacy_held_LIST.csv`.
