@@ -826,3 +826,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13ac (26/10/08): review of the legacy-columns proposal
 
 - Full lane review (sark, blindspot, deepthink, sheldon, wishful, thad, shaz, skin, fok; grey skipped, no buyer intelligence) of VAL-S261008-11, recorded in `legacy_columns_REVIEW.md`. No data changed. Recommendation: clear 387 exact duplicates to empty, one commit per column, with a record file, a restore test and a new additive column check; hold 26 non-duplicate cells for Iain. Awaiting Iain's decision.
+
+## Session 13ad (26/10/08): the three unverified spot-check claims
+
+- Iain: the other three claims come from finalised documents, check the folders. Checked: C-G2-333 (49%) is derived, (3,280 + 1,855) / 10,490 = 48.95%; C-G2-384 (8 to 10 businesses, 50-50 balance) is spoken in words in the SRC-R2-03 transcript; C-G2-407 (Phase 3, 18 months) is in SRC-R3-02, not SRC-R3-01, so evidence link E-G2-313 now cites SRC-R3-02. All three verified; no claim wording changed. Earlier "left as is" note superseded.
