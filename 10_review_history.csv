@@ -408,3 +408,4 @@ RH-26-10-08-P88C,P88-LCRPF24,UPDATE,Contract value confirmed,"INV-1322 GBP9,999+
 RH-26-10-08-P88D,P88-LCRPF24,UPDATE,Procurement lead confirmed,"LCC procurement lead, LCR CA commissioning client (Iain) — INV-1322 attribution clean",01_projects.csv,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,SWEEP-261007
 RH-26-10-08-PR05,PR-05,UPDATE,LCR referee named,"Sarah Lovell (LCR CA) added to PR-05; P88 added to scope; card stale rows fixed",11_permission_requests.csv;P88 card,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,SWEEP-261007
 RH-26-10-08-BF2,01_projects.csv,BACKFILL,20-project contract/fee sweep + P31 lifecycle to IN_PROGRESS,01_projects.csv,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,SWEEP-261007
+RH-26-10-08-REG3,01_projects.csv,REGISTER,P92-P96 registered + P03/P58/P70 contract patches,01_projects.csv;project_index.csv,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,SWEEP-261007

@@ -109,3 +109,7 @@ This makes MITIH a useful R2 test case for distinguishing `claim_type=OBSERVATIO
 - **Contract value:** £25,000 (Iain). Gated investment sequence: NOT exercised.
 - **Register repair:** row realigned (contracting_role=PRIME, prime_contractor=The Fifth Sector).
 - **Status:** Index card REVIEWED; APPROVED_NAMED for tender citation.
+
+## 26/10/08 — Contract evidence added
+
+- HOST (The Landing at MediaCityUK Ltd) Contract for Services 24/02/25: £25,000 phased by phase. Register notes updated.
