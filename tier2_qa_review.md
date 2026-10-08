@@ -828,3 +828,4 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/08 | P88-LCRPF24 client wording | Corrected to LCRCA client, Liverpool City Council led procurement; no register client change | Residual: contract value unknown |
 | 26/10/08 | P88-LCRPF24 purchase order | Invoice read; PO 3500515342 and 9,999.00 ex VAT recorded with DOCUMENT basis; earlier "no PO" statement corrected | Residual: total fee unknown if invoice was partial |
 | 26/10/08 | Citation status P01-P09, contracting roles | 9 citation statuses set; 7 contracting values changed on Iain's statement, old values in provenance; BOP labels unified to ASSOCIATE | Residual: citation status for other projects still checked by sweep; contracts unchecked |
+| 26/10/08 | Validation actions triage | 3 actions resolved by re-running the checks they describe; others left open for Iain; no check weakened | Residual: 28 open actions |

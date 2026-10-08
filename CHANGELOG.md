@@ -806,3 +806,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - All nine set to `citation_status`=DELIVERED_WORK on Iain's statement (a fact about work done, not permission to name clients).
 - Contracting roles on Iain's statement: P04-GBSLEP and P05-WMCA ASSOCIATE to BOP Consulting (previously SUBCONTRACTOR and BOP_ASSOCIATE; same meaning, now one label); P03-MITIH and P06-COSTAR DIRECT; P01, P02, P07, P08, P09 PRIME. P06, P07, P09 were previously ADVISORY (Iain 26/09/12) and P03 PRIME; old values are in provenance. P07 and P09 now read as prime commissions, not advisory to a consortium.
+
+## Session 13y (26/10/08): validation actions triage
+
+- Three actions checked against the registers and resolved: VAL-S261008-09 (no method row names a missing claim), VAL-S261007-13 (no DESIGN or OPTION claim on a NOT_AWARDED project lacks EXPIRED), VAL-S261007-09 (no completed project has UNKNOWN citation status). 28 remain open for Iain.

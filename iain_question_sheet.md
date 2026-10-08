@@ -57,7 +57,7 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | Project | Client | Role: PRIME / DIRECT / SUBCONTRACTOR / ASSOCIATE / ADVISORY (prime if not us) |
 |---|---|---|
 
-## 5. Open validation actions owned by you (31)
+## 5. Open validation actions owned by you (28)
 
 | ID | Question | Effort |
 |---|---|---|
@@ -68,10 +68,8 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | VAL-S261007-06 | P89-LIVMUSLAB: client acceptance of the Music Lab feasibility deliverables not recorded | 30min |
 | VAL-S261007-07 | P89-LIVMUSLAB: was Phase 1 (Oct-Nov 2025 SOC and feasibility) paid separately? | 30min |
 | VAL-S261007-08 | client_accepted is UNKNOWN for every project: record client acceptance (date, evidence) for each completed project | 30min |
-| VAL-S261007-09 | citation_status is UNKNOWN for the ten earliest projects (North East Scotland mapping, From Good to Great, MITIH, GBSLEP, WMCA, CoSTAR bid support, Creative City SIPF, Li | 30min |
 | VAL-S261007-11 | Kirklees mapping (three cycles) is held as one IN_PROGRESS row although the 2022 and 2024 cycles are delivered | 30min |
 | VAL-S261007-12 | Creative Scotland agreement CS/CA1019: signed copy not verified from file text; both Drive copies show blank signature blocks in extracted text | 30min |
-| VAL-S261007-13 | Two bids-as-commissions have empty option_state or prior NOT_AWARDED coverage: confirm all DESIGN and OPTION claims on projects with programme_status NOT_AWARDED are EXPI | 30min |
 | VAL-S261007-14 | Claim C-R3-037 (Derby bid, claim_type BID_SUPPORT_DELIVERED) describes our own submitted bid, not delivered bid support; both Derby claims now have no project_id | 30min |
 | VAL-S261007-15 | British Council Kotor Exchange Pilot and Creative Economy Council Development carry programme_status PHASE_COMPLETE_AWAITING_INSTRUCTION, a copy of the old lifecycle valu | 30min |
 | VAL-S261007-18 | Workshop (P75-LANC): exact workshop date and VAT treatment of INV-1357 (GBP 1,499.70, invoice dated 09/02/26, paid 08/05/26) not recorded | 20min |
@@ -83,7 +81,6 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | VAL-S261008-02 | Two-archive check for Heritage CPD: search OneDrive-TheFifthSector for the final report and the 23/05/22 workshop deck and 23/04/18 inception note, then register the draf | 30min |
 | VAL-S261008-03 | Was the projected 55% recoupment (£1,539,898) by end 2025 achieved? | 20min |
 | VAL-S261008-04 | Did the Combined Authority Gateway Review use this evaluation, and did it inform the continuation decision? | 20min |
-| VAL-S261008-09 | 20 claim IDs named on method rows do not exist in 04_claims.csv (for example C-G2-347 to 350, C-G2-375, C-G2-380 on M-G2-029 and similar rows): find or retire these links | 45min |
 | VAL-S261008-10 | After the claims repair these seven claims (LCR Film and TV Production Fund Interim Evaluation P22-LCRFILM and Wakefield Cultural Development Fund Evaluation P27-WAKECDF) | 20min |
 | VAL-S261008-11 | Four claim columns still hold legacy copies of other fields on many rows (contrary_evidence holds role codes on 66, reviewer_confidence holds a claim type on 53, commerci | 45min |
 | VAL-S261008-12 | Claim C-R3-031 names method M-R3-019 but that method row does not list the claim in its claim_ids (one-way link). Add the claim to the method row, or correct the claim? | 10min |
