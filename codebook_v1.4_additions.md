@@ -33,3 +33,15 @@ Wording is capped at the evidence class of the claims behind a statement. Contri
 - The values INTERNAL_ONLY, NONE_FOUND_IN_REVIEW and MEDIUM already present on many rows were written by bulk scripts as defaults. They are not review outcomes and must not be read as evidence that a review took place.
 - A governed column must never hold a copy of another field (a batch code, method ID, claim type or role list). `tools/check_claims_columns.py` (QA checklist item 14) enforces this.
 - Provenance of the 26 Oct 2026 clearing (387 cells): `claims_legacy_clear_RECORD.csv`; 26 cells held for Iain: `claims_legacy_held_LIST.csv`.
+
+## Project lifecycle: ON_HOLD added (26/10/08, Iain)
+
+Full list for `lifecycle_status`: PROPOSED / COMMISSIONED / IN_PROGRESS / COMPLETED / CANCELLED / UNKNOWN, plus BID_PENDING (ontology draft section 4) and **ON_HOLD**.
+
+**ON_HOLD** means a commissioned project whose work is paused and not finished, by the client, by Fifth Sector or by agreement, and not cancelled. Boundaries:
+- It describes the commission only. `programme_status` (the bid or programme outcome) is independent: a bid-support commission can be ON_HOLD while `programme_status` is PROPOSED or NOT_AWARDED.
+- A phase that is complete while the client has not given the next instruction is not a hold: it stays IN_PROGRESS (or COMPLETED if the delivered phase is the commission), with `programme_status` PHASE_COMPLETE_AWAITING_INSTRUCTION where already used (P82-KOTOR, P83-BCWB; Iain 26/10/08).
+- It applies to a project row or a phase row (`parent_project_id`, `phase_name`), never to a parent aggregate; a parent is COMPLETED only when all its phases are.
+- It is not CANCELLED: cancelled work will not resume. If a hold is judged permanent, Iain changes it to CANCELLED.
+- A paused project fails the delivered check (E1 needs COMPLETED), is not cited as delivered (`citation_status` LIVE_WORK, never DELIVERED_WORK or PUBLIC_REPORT), and is not asked about client acceptance.
+- Every hold carries in `notes`: `ON HOLD: <reason>; since <YY or YY/MM or YY/MM/DD or unknown>; resume by <date or unknown>`. `tools/check_lifecycle.py` (QA item 15) fails an ON_HOLD row without it and prompts, without changing anything, when a hold is more than six months old or has no since date. Only Iain sets or clears ON_HOLD, recorded in `14_fact_provenance.csv`.

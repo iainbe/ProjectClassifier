@@ -892,3 +892,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13ao (26/10/08): review of adding ON_HOLD (analysis only)
 
 - Six-lane review of adding ON_HOLD to the lifecycle values, recorded in `onhold_REVIEW.md` (sark, wishful, skin and grey skipped, reasons given). No vocabulary or data change yet. Recommended: add it with a definition that separates it from phases, programme status and cancellation; a notes convention for reason, since-date and resume date; an additive vocabulary check and tests; E1 untouched. Awaiting Iain's five answers.
+
+## Session 13ap (26/10/08): ON_HOLD vocabulary, step 1 of 5
+
+- Iain answered the five review points (boundary yes: P82/P83 stay IN_PROGRESS; P31 paused by the client, 2025, resume unknown; no other holds; do not cite paused work as delivered; notes convention approved). Step 1 (vocabulary and checks only, no data): ON_HOLD defined in `codebook_v1.4_additions.md` with its boundaries; new `tools/check_lifecycle.py` (vocabulary, hold note, never cited as delivered, six-month review prompt) and `tests/test_lifecycle_vocab.py`; QA checklist item 15 in AGENTS.md. E1 untouched. On current data: 0 violations.
