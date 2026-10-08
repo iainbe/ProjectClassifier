@@ -1,5 +1,5 @@
 claim_id,verdict,note,follow_up
-C-G2-332,MISMATCH,"Source SRC-R2-02 states 2,035 individuals and 860 FTE; claim says 862 FTE. 1,855 and 180 also match. Proposed: correct to 860 FTE",Iain decision
+C-G2-332,VERIFIED_ROUNDED,"Source SRC-R2-02 states 860 FTE (rounded); Iain 26/10/08: 862 was the actual count, 860 the rounded figure. Claim stays at 862; cite 860 only if quoting the report",none
 C-G2-333,NOT_FOUND,49% not stated in SRC-R2-02; may be derived from tier counts. Keep unverified; do not cite the percentage,Iain decision
 C-G2-335,VERIFIED_FORMAT,350K and 450K present in SRC-R2-01 as full figures,none
 C-G2-337,LINK_FIXED,"Figures are verbatim in SRC-R2-02 (NES Creative Industries Report), not SRC-R2-01 (Pinning Stones). Evidence link E-G2-242 changed to SRC-R2-02",done
