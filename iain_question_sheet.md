@@ -12,6 +12,8 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 
 ## 2. Did the client accept the final output? (one answer per client; 1 completed projects, 1 clients)
 
+Projects on hold (ON_HOLD) are not asked about: they are not complete.
+
 | Client | Completed projects | Accepted? Y / N / don't know |
 |---|---|---|
 | CELL | CELL (P79-CELL) | |

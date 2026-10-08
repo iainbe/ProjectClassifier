@@ -49,5 +49,9 @@ Completed projects: 60. Fully determinable (no UNKNOWN): 35. All five PASS: 34.
 ## Failing checks on completed projects
 
 
+## Projects on hold (paused, not delivered; not cited as delivered; not asked about client acceptance)
+
+- Production Park GVA Study (P31-PRODPARK)
+
 Evidence kinds are shown side by side in `eligibility_report.csv` and are never ranked against each other.
 Referee permission is the final submission stage and is not a check here.

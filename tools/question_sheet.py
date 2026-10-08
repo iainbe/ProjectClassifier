@@ -25,7 +25,7 @@ def main():
     byc = collections.defaultdict(list)
     for p in done:
         if p.get('client_accepted') in ('', 'UNKNOWN'): byc[p['client']].append(p)
-    L += ['', '## 2. Did the client accept the final output? (one answer per client; %d completed projects, %d clients)' % (sum(len(v) for v in byc.values()), len(byc)), '', '| Client | Completed projects | Accepted? Y / N / don\'t know |', '|---|---|---|']
+    L += ['', '## 2. Did the client accept the final output? (one answer per client; %d completed projects, %d clients)' % (sum(len(v) for v in byc.values()), len(byc)), '', 'Projects on hold (ON_HOLD) are not asked about: they are not complete.', '', '| Client | Completed projects | Accepted? Y / N / don\'t know |', '|---|---|---|']
     for c, ps in sorted(byc.items(), key=lambda x: -len(x[1])):
         L.append('| %s | %s | |' % (c[:60], '; '.join('%s (%s)' % (p['canonical_name'][:40], p['project_id']) for p in ps[:4]) + (' +%d more' % (len(ps) - 4) if len(ps) > 4 else '')))
     # 3 citation status unknown

@@ -852,3 +852,4 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/08 | ON_HOLD vocabulary (step 1) | Additive: value defined, check and tests added, QA item 15; E1 not touched; 0 violations on current data | Residual: P31 data, CELL, reporting and stale items follow as separate commits |
 | 26/10/08 | ON_HOLD, Production Park (step 2) | Lifecycle and citation status set with provenance; card corrected; E1 FAIL, E2 FAIL as intended; no rule changed | Residual: month and resume date unknown (review prompt stays) |
 | 26/10/08 | CELL delivered (step 3) | Lifecycle COMPLETED with provenance; prepayment noted without treating it as a deliverable; acceptance left UNKNOWN, not assumed | Residual: CELL client acceptance; prepayment document not read |
+| 26/10/08 | ON_HOLD reporting (step 4) | Three derived outputs gain a held-project list or legend; no check changed; tests pass | none |

@@ -904,3 +904,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13ar (26/10/08): ON_HOLD, step 3 of 5: CELL delivered
 
 - P79-CELL marked COMPLETED on Iain's instruction (delivered). The client's GBP 5,000 inc VAT prepayment for a further, unspecified piece of work is recorded in notes and provenance, not as a deliverable. Client acceptance remains UNKNOWN, so E1 shows UNKNOWN for it and the question sheet asks.
+
+## Session 13as (26/10/08): ON_HOLD, step 4 of 5: reporting
+
+- Additive wording in three derived outputs: the eligibility report lists projects on hold (paused, not delivered, not asked about acceptance); the selection view prints a legend when a candidate is ON_HOLD; the question sheet says held projects are not asked about acceptance. No check or rule changed; unit tests pass.
