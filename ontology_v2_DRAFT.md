@@ -79,9 +79,9 @@ Runs only when the requirement has `referee_required=Y` or states a disclosure c
 
 Method: same pipeline with Method subjects (`03_methods.csv`; `method_family` rolled up to about 10; E4 applies; evidence from the claims the method produced via `method_ids` on claims — join coverage to be audited). Team: PERSON subjects use the people register (`15_people.csv`, `16_involvement.csv`, decision 14).
 
-## 9. Use log
+## 9. Selection log (candidates considered)
 
-`13_uses.csv`: tender, requirement, subject type and id, wording used, referee outcome, `score_received`, `score_scale`, outcome. Append-only. Scores do not feed ordering until 15–20 comparable scored uses exist; they are an audit trail. Unused strong candidates are logged with the reason.
+`13_selections.csv`, append-only (Iain decision 15, 26/10/08; replaces the separate `13_uses.csv` use log). Written by `tools/record_selection.py` after Iain chooses: one row per candidate shown on a tender item, with its position in the default (alphabetical) order and in the proposed order, chosen Y or N, a reason code for each candidate not chosen (WEAKER_FIT, EVIDENCE_GAP, ROLE_WORDING, RESTRICTED_OR_CONSENT, REFEREE_UNLIKELY, PAGE_LIMIT, OTHER; NOT_RECORDED when none is given, never defaulted), and for chosen items the wording used and the referee outcome. A chosen project that was not in the view is recorded as OUTSIDE_VIEW. Buyer scores and outcomes are appended later as OUTCOME rows. Scores do not feed ordering until 15 to 20 comparable scored uses exist; the log is an audit trail and the test data for the trial ordering (would the proposed order have picked what Iain picked?). The tool writes nothing without `--write`.
 
 ## 10. Fact authority and maintenance
 
@@ -95,7 +95,7 @@ Method: same pipeline with Method subjects (`03_methods.csv`; `method_family` ro
 
 `regenerate_index.py` (lines 13, 38 read lifecycle and contract value from cards) is changed to read the register. Stale-artefact rule extended: regenerate the selection view after any change to the register, claims, methods, requirements or permissions.
 
-**New QA checklist items** (added to AGENTS.md on adoption): uses→projects/methods and uses→requirements foreign keys valid; no stored tier or score column anywhere; CONTEXTUAL count = 0; dangling claim/evidence references = 0; every UNKNOWN check listed on a fix list; tender IDs in requirements match `08_tenders.csv`. Every fix is a separate commit that satisfies the session-closure hook.
+**New QA checklist items** (added to AGENTS.md on adoption): selections→projects and selections→tenders foreign keys valid; every non-chosen candidate has a reason code or NOT_RECORDED; no stored tier or score column anywhere; CONTEXTUAL count = 0; dangling claim/evidence references = 0; every UNKNOWN check listed on a fix list; tender IDs in requirements match `08_tenders.csv`. Every fix is a separate commit that satisfies the session-closure hook.
 
 ## 11. Generality tests (recorded results to be added)
 
@@ -141,6 +141,8 @@ Dry-run on today's data (70 projects), using the checks as written, for orientat
 **Taken 26/10/08 (E):** decision 13, where requirements live: one file per tender in `tender_requirements/<tender>.md` (frozen turn contract plus one block per requested item: wording source, evidence kinds wanted, keywords, count, citation, referee and anonymisation rules, who read it and when), linked from the existing `requirement_map_location` field of `08_tenders.csv`. `selection_view.py --requirements <tender>` reads it, so a view can be regenerated exactly. Not a register: convert to a flat `12_requirements.csv` only if three tenders end up with the same shape (decision 2). First file: T22-VAIMP, from the 08_tenders row; verbatim ITT wording still to add. Candidates for the second and third files: T21-CSFI, T23-TVBTV.
 
 **Taken 26/10/08 (F):** decision 14, people register: two small tables, `15_people.csv` (name, organisation, status, skills tags, bio location, `named_in_bids_ok` Y/N/UNKNOWN) and `16_involvement.csv` (person, project, role on the project, period, basis, source). No contact details or CVs in the repo. Tender-specific availability lives in the tender's requirements file. `tools/people_view.py` joins them to the project register so a team section states role and contracting arrangement. Seeded only from sources: Iain Bennett, Lynne McCadden and Sara Sartorius (five involvement rows from report covers and a deck) and Towell as an external partner with nothing credited. The view shows the contracting role as not recorded for both credited projects, which is the gap to fill before a team section is written.
+
+**Taken 26/10/08 (G):** decision 15, candidates-considered log: `13_selections.csv` and `tools/record_selection.py` as described in section 9. Nothing recorded yet: no selection has been made for T22-VAIMP. The tool was tested on a scratch copy (dry run, write, outcome and error paths).
 
 **Executed 26/10/07 (register edits):** decisions 2, 3 and 4 and the three project facts are now in the register (31-field register, lifecycle aligned, Derby bid row retired, Lancashire / Lancaster Horizon / Creative Scotland recorded). Lancaster re-key done 26/10/07 (session 6). Not yet done: Kirklees phase rows, client_accepted and early citation_status backfill. See CHANGELOG session 26/10/07 (5).
 
