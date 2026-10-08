@@ -665,3 +665,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 12t (26/10/08): two method rows registered (method package item 2)
 
 - Registered M-S261008-01 (Beatles attribution bridge, P78-BEATLES) and M-S261008-02 (Production Fund final evaluation, P88-LCRPF24) in `03_methods.csv`; their claim and source IDs were checked to exist. The draft file was removed. P88's contracting role is still not evidenced (VAL-S261007-01), noted on the row; the method view flags statements built on it.
+
+## Session 12u (26/10/08): method statements revised after lane review (method package item 7a)
+
+- Rewrote MS-01 to MS-03 with the lane fixes: approval card at the top, generic bid-ready paragraph, no figures, tender-specific "fit and gaps" removed, neutral wording, evidence class, disclosure status, next action. MS-02 now lists all nine claims, says the final evaluation's contracting arrangement is not evidenced, and step 5 reads "state where the bases differ". MS-03 is marked design-only and usable only as a design contribution.
+- **Correction (Iain):** BOP Consulting is a competitor and is never asked for permission (PR-07 already said so). The lane suggestion to obtain BOP's written agreement is not adopted; MS-03 relies on accurate attribution capped at "contributed to" and an internal check of our own subcontract or NDA. All statements stay DRAFT; only Iain sets CURRENT.

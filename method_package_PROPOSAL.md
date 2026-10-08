@@ -26,3 +26,7 @@ Every tender with usable wording: T01-BCAT, T13, T21-CSFI, T22-VAIMP, T05-DERBY,
 - Only three statements exist; the other 49 method rows have none.
 - The rollup groups 23 of 52 methods into one family (sector baseline mapping), which may be too coarse.
 - Statements are drafted by Devin from registered documents; none has been reviewed by Iain.
+
+## Correction 26/10/08 (Iain)
+
+BOP Consulting is a competitor and is never asked for permission; PR-07 already says so (Iain 26/09/12). The lane suggestion to obtain BOP's written agreement for MS-03 is not adopted. MS-03 relies on accurate attribution capped at "contributed to", plus an internal check of our own subcontract or NDA for a confidentiality or publicity clause.
