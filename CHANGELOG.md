@@ -761,3 +761,10 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - P52 (Somerset), P58 (Plymouth National Marine Park), P62 (Theatre Royal Plymouth) set to PRIME with The Fifth Sector as prime on Iain's statement (other southern projects all The Fifth Sector); contract not checked. P37 (Suffolk) not in the group, left empty.
 - P47 `fifth_sector_role` LEAD_CONSULTANT confirmed by Iain as his role while BOP Associate Director; BOP remains prime, so it does not imply Fifth Sector direct delivery. Provenance recorded.
+
+## Session 13o (26/10/08): Suffolk, Plymouth and Wakefield contracting roles
+
+- P37 Suffolk: PRIME, The Fifth Sector (Iain: "Fifth Sector, as a contractor"; read as direct contractor to the client, to confirm).
+- P58 Plymouth National Marine Park: corrected from PRIME to SUBCONTRACTOR, prime University of Plymouth (Iain).
+- P48 Wakefield Creative Skills (Creative Wakefield): ASSOCIATE, prime BOP Consulting. P64-BCJ, P69-OURYEAR, P70: PRIME, The Fifth Sector.
+- Liverpool Music City 2019 (Associate at BOP) not matched to a single register row; P15-LIVMUS (2017-18) and P19-LCRIMM (2019) already BOP-prime. Left unchanged pending Iain's pointer.
