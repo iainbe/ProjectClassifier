@@ -603,3 +603,4 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - Registered SRC-G2-091/092, coded 10 claims, 10 evidence links, 9 measurements (C-S261008-018 to -027). Added PR-36 (INTERNAL_CHECK on publication clearance), VAL-S261008-06 and -07. P78 card updated. Ontology draft: decision 11, wording capped at the claim's own evidence class (Iain).
 - Self-review: removed a stray sentence from a claim note; original-study originator corrected from the P78 card. Recalculated the headline (211.3 x 0.8 x 0.8 x 0.380 x 1.30 = 66.8, stated 66.9) and the operator percentages (match).
+- **Session 12h addition:** Iain confirmed the 08 Oct study (SRC-G2-091) as the delivered version; SRC-G2-092 marked as the earlier edition; VAL-S261008-06 resolved. P78 delivery date (26/10/07 in the register) to re-check.
