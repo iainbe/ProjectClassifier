@@ -254,7 +254,9 @@ Before ANY CSV edit: verify field count AND positional semantics against the hea
 After card or register changes: regenerate `project_index.csv`. After any change to the register, claims, methods or permission file, also run `python3 tools/eligibility_report.py` to regenerate `eligibility_report.csv` and `eligibility_report.md`.
 
 ### Repo sync
-Canonical = this Drive folder. `ProjectClassifier/` repo is the versioned mirror — sync after register-changing sessions, commit with the trigger named, and **push to `origin/main` (github.com/iainbe/ProjectClassifier) at the end of every register-changing session** so the remote mirror stays current (Iain instruction 26/10/07 — replaces the earlier push-only-when-asked rule).
+Canonical = this Drive folder. `ProjectClassifier/` is BOTH the canonical Drive folder AND the git working tree — a commit in this folder updates Drive automatically; GitHub (`iainbe/ProjectClassifier`) is the versioned remote mirror. External agents working via GitHub branches land in this folder on merge — there is no separate "repo copy" to hand-copy into. Sync after register-changing sessions, commit with the trigger named, and **push to `origin/main` (github.com/iainbe/ProjectClassifier) at the end of every register-changing session** so the remote mirror stays current (Iain instruction 26/10/07 — replaces the earlier push-only-when-asked rule).
+
+**Sync-guard rule (MANDATORY):** before copying any file over a register or toolkit file (`cp`, manual copy, checkout overwrite), run `python3 tools/sync_guard.py SOURCE TARGET`. It refuses if the copy would drop >5 rows, drop any IDs present in the target, mismatch the header, or overwrite a newer file. Overrides require `--force "reason"` and are logged to `sync_guard_log.csv`. Never bypass a refusal silently.
 
 **Proposal docs mirror (26/10/08):** working `.md` documents under `Active proposals/` sit outside the repo. Mirror them into `proposal_docs/` (same folder structure) whenever they are created or changed, in the same commit as the session's register changes. Only `.md` files — ITT packs, PDFs and spreadsheets stay Drive-only.
 
