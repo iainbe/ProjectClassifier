@@ -12,11 +12,11 @@
 |---|---|---|
 | `project_id` | P88-LCRPF24 | 01_projects.csv |
 | `project_name` | LCR Production Fund Final Evaluation (2024-25) | 01_projects.csv |
-| `client` | Liverpool City Region Combined Authority (from file names; to confirm) | register |
-| `reference_permission` | NOT_ESTABLISHED | — |
+| `client` | Liverpool City Region Combined Authority (commissioning client; Liverpool City Council was procurement lead — Iain 26/10/08) | register + Iain |
+| `reference_permission` | NOT_ESTABLISHED — referee identified: Sarah Lovell, LCR CA (commissioning client); ask drafted as PR-05 | PR-05 |
 | `commission_date` | 24 (year only; interview transcripts Aug 2024) | folder |
 | `completion_date` | 25/06/09 | SRC-G2-030 |
-| `contract_value` | NOT_ESTABLISHED | VAL-S261007-01 |
+| `contract_value` | £9,999 + VAT (£11,998.80) — INV-1322, PO 3500515342, 31/03/25, paid in full | Invoice INV-1322 |
 | `contracting_role` | NOT_ESTABLISHED — separately contracted in 2024 | Iain 26/10/07 |
 | `geography` | Liverpool City Region | register |
 | `lifecycle_status` | COMPLETED | register |
@@ -42,7 +42,7 @@
 | Field | Value | Source |
 |---|---|---|
 | `citation_status` | DELIVERED_WORK (publication status unconfirmed) | register |
-| `reference_permission` | NOT_ESTABLISHED | — |
+| `reference_permission` | NOT_ESTABLISHED — referee identified: Sarah Lovell, LCR CA (commissioning client); ask drafted as PR-05 | PR-05 |
 
 ## B. Inward-facing side
 
