@@ -467,3 +467,4 @@ RH-26-10-08-P31,P31-PRODPARK,UPDATE,ON_HOLD + PART_PAID — sole exception to pa
 RH-26-10-08-NSD,next-steps doc,UPDATE,case-study evidence bullet added,proposal_docs/,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,
 RH-26-10-08-MRG,repo,MERGE,"claude/dazzling-hamilton merged into main — claims restored, register field-merged",all,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,
 RH-26-10-08-GUARD,tools,ADD,sync_guard.py built + AGENTS.md sync model corrected,tools/sync_guard.py,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,RH-26-10-08-MRG
+RH-26-10-08-CLEAN,audit,FIX,dedupe union-merge dupes; naming resweep; branch deleted; over-broad dedup redone restricted to content lines,"CHANGELOG.md,tier2_qa_review.md",PASS,26/10/08,,,Devin,26/10/08,,v1.5,,RH-26-10-08-GUARD

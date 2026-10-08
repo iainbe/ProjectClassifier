@@ -134,6 +134,7 @@ The previous Tier 2 pass applied Lens A and Lens B as **batch labels**, not as p
 
 **CRITICAL: 1 claim mislabels context as METHOD_OUTPUT**
 
+|---|---|---|---|---|
 | C-G2-053 | METHOD_OUTPUT/DIRECT | Wakefield CCI growth presented as method output | Line 96: "correlates with" — context, not method output or Fifth Sector effect | → CONTEXT |
 
 **CRITICAL: 5 claims misattribute programme effects to Fifth Sector**
@@ -141,6 +142,7 @@ The previous Tier 2 pass applied Lens A and Lens B as **batch labels**, not as p
 Fifth Sector was the **evaluator** of these programmes, not the deliverer. The programme effects are real but Fifth Sector's contribution was the evaluation, not the programme delivery.
 
 | Claim | Current | Programme | Fifth Sector role | Fix |
+|---|---|---|---|---|
 | C-G2-040 | EFFECT/KNOWLEDGE | LCR Film Fund | Evaluator | Retain EFFECT; set fifth_sector_role=EVALUATOR, fifth_sector_contribution=EVALUATION |
 | C-G2-054 | EFFECT/NETWORK | CDF / Creative Wakefield | Evaluator | Retain EFFECT; set fifth_sector_role=EVALUATOR, fifth_sector_contribution=EVALUATION |
 | C-G2-055 | EFFECT/PRODUCT | CDF / XPLOR | Evaluator | Retain EFFECT; set fifth_sector_role=EVALUATOR, fifth_sector_contribution=EVALUATION |
@@ -209,6 +211,7 @@ The codebook states: "A mapping report estimating regional GVA is CONTEXT with a
 The following claims describe sector characteristics (GVA, employment, company counts, turnover, LQs) that were measured by the mapping/strategy work but are not themselves method outputs. They are contextual baselines against which spillover effects might later be assessed.
 
 | Claim | Project | Proposition (short) | Source evidence |
+|---|---|---|---|
 | C-G2-001 | P11-ELFC | £1.4bn GVA, 36200 jobs | Line 54, 409: sector baseline |
 | C-G2-002 | P11-ELFC | 57% GVA growth, 43% employment growth | Line 55, 426-429: sector baseline; 22% London employment unverified |
 | C-G2-007 | P11-ELFC | Hackney LQ 9.46 | Line 449: sector characteristic |
@@ -261,6 +264,7 @@ The same baseline-as-METHOD_OUTPUT pattern was found in 11 R3 pilot claims. Thes
 ## Updated total
 
 | Pass | Category | Count |
+|---|---|---|
 | 1 | Sector characteristic as EFFECT | 4 |
 | 1 | Context as METHOD_OUTPUT | 1 |
 | 1 | Programme effect as METHOD_OUTPUT | 1 |
@@ -444,6 +448,7 @@ All 65 projects now have at least one evidence link from claims to their canonic
 
 ### QA verification — ALL CHECKS PASS
 
+|---|-------|--------|
 | 7 | DESIGN claims for unsuccessful bids without EXPIRED | PASS (fixed 3 claims) |
 | 10 | Sector baselines mislabelled as METHOD_OUTPUT | PASS (fixed 2 claims; 1 false positive confirmed) |
 | 11 | Claims without evidence links | PASS (109 links added) |
@@ -469,6 +474,7 @@ All 65 projects now have at least one evidence link from claims to their canonic
 
 All Tier 2 QA checks pass after full-read reconciliation. 109 evidence links added. 59 source records updated. 16 validation actions added. 5 claim fixes applied. 3 problematic sources flagged. AGENTS.md rules remain authoritative.
 
+---
 
 # Pass 4: Index card QA + register schema repair (26/09/12)
 
@@ -526,6 +532,7 @@ P04-P09 all REVIEWED with Iain consistency confirmation recorded. P01-P03, P10 r
 
 Schema-drift check is now a required QA step: before any CSV field update, verify row structure against header (field count AND positional semantics). The earlier "check headers" rule was insufficient — rows can have the right count with values in wrong columns.
 
+---
 
 # Pass 5: Index layer + permissions (26/09/12)
 
@@ -544,6 +551,7 @@ All pilot projects approved APPROVED_NAMED for tender submissions (TENDER_ONLY �
 ## Contract values recorded
 P02 £25k; P03 £25k; P10 £10k×3 cycles (£30k total); P01+P04 NOT_DISCLOSED; others NOT_ESTABLISHED.
 
+---
 
 # Pass 6: Live-work templates review (26/09/12)
 
@@ -564,6 +572,7 @@ P02 £25k; P03 £25k; P10 £10k×3 cycles (£30k total); P01+P04 NOT_DISCLOSED; 
 - Register-row rule defined in template, workflow, AGENTS.md
 - PM milestone section converted to self-contained checklist (event-triggered + standing monthly prompts)
 
+---
 
 # Pass 7: Date normalisation + tenders schema repair (26/09/12)
 
@@ -576,6 +585,7 @@ P02 £25k; P03 £25k; P10 £10k×3 cycles (£30k total); P01+P04 NOT_DISCLOSED; 
 ## Schema drift found #3: 08_tenders.csv
 T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shifting last 4 values +1 → review_batch values landed in overflow. Repaired: realigned all 3 rows. Pre-existing quirk noted: T04 as_at_date=AS_AT (literal value, outside repair scope).
 
+---
 
 # Pass 8: Drive sweep agent (26/09/12)
 
@@ -586,6 +596,7 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - launchd: weekday 09:00 sweeps; logs to sweep_reports/sweep.log
 
 
+---
 
 # Pass 9: Sweep docs + protocol draft (26/09/12)
 
@@ -593,6 +604,7 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - naming_and_transition_protocol.md drafted pending Iain/Jon approval — recommends MOVE (not duplicate) for bid→project; flags existing naming violations (e.g. '2026 Maritime Belfast ' trailing space)
 
 
+---
 
 # Pass 10: Proposal triage registration (26/09/12)
 
@@ -602,6 +614,7 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Loose root files pending Iain filing decision: Rachel Granger DMU x3, City and Guilds docx
 
 
+---
 
 # Pass 11: Agents re-review + automation (26/09/12)
 
@@ -615,12 +628,14 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Caveat: enforces the audit trio at commit time; behavioural rule (AGENTS.md) still governs in-session updates
 
 
+---
 
 # Pass 12: Jon access clarification (26/09/12)
 
 - Jon's access is web-Drive only (jon@thefifthsector.co.uk) — README_sweep's run instructions assumed local mount; corrected via JON_ACCESS.md (web route canonical; share links/file IDs for Places; scripts are Iain-side)
 
 
+---
 
 # Pass 13: Jon doc merge + tenders matching (26/09/12)
 
@@ -628,6 +643,7 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Gap found while writing: sweep didn't match proposals folders to 08_tenders — T01's own folder flagged UNREGISTERED_PROJECT?. Fixed: tenders 'Drive folder:' notes added (T01, T02; T06-T12 already had them); TENDER_FILE category added
 
 
+---
 
 # Pass 14: Batch B cards (26/09/12)
 
@@ -637,6 +653,7 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - 57→51 projects remain without cards
 
 
+---
 
 # Pass 15: P82 date correction reverted (26/09/12)
 
@@ -645,18 +662,21 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Method note: year inference from folder years fails when events recur — user confirmation beats inference
 
 
+---
 
 # Pass 16: P82 phase boundary resolved (26/09/12)
 
 - Iain confirmed single CEC programme arc (Kotor ministerial → council development → Herceg Novi follow-on); P82/P83 remain distinct register rows, cross-linked
 
 
+---
 
 # Pass 17: Batch B2 cards (26/09/12)
 
 - 6 cards; flags: P79 DELIVERED vs notes "work in progress"; P75 outcome pending; P78 in-progress citable only as commissioned
 
 
+---
 
 # Pass 18: Card review fixes (26/09/12)
 
@@ -666,6 +686,7 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Review blindspot logged: docx paragraph-only scanning misses tables — extraction must always include tables
 
 
+---
 
 # Pass 19: Challenges 4-9 (26/09/12)
 
@@ -673,6 +694,7 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Two review false positives (P81 phases, P33 £75m) traced to same blindspot: table data invisible to paragraph/grep checks
 
 
+---
 
 # Pass 20: Citation model (26/09/12)
 
@@ -680,6 +702,7 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - P79 lifecycle inconsistency resolved (reporting complete; Showcase-reuse phase pending client agreement)
 
 
+---
 
 # Pass 21: Verdict reversal — P75 remittance real (26/09/12)
 
@@ -687,6 +710,7 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - New rule: fabrication verdicts require cross-checking BOTH archives — G Drive live folders are not complete pre-migration
 
 
+---
 
 # Pass 22: Extraction sweep (26/09/12)
 
@@ -839,4 +863,4 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/08 | Next-steps doc | Evidence-status bullet added to case-study section | Residual: none |
 | 26/10/08 | Branch merge | Parallel-agent repair branch merged into main; 01_projects.csv field-merged (notes unioned, PAID_IN_FULL wins over Y, branch contracting roles kept); P51 kept our corrected name/sector (ARG = Additional Restrictions Grant — branch still said Arts Revenue Grant); P54 = our engagement COMPLETED/PAID + programme NOT_AWARDED (both true — contract+PO on file, the ACE bid failed) | Residual: 04_claims.csv 596 rows — spot-check restored claims C-R5-524..528 fields vs codebook; P31 citation LIVE_WORK is nearest-fit for stalled work; branch vs ours role vocab differs (DIRECT vs PRIME) — harmonise on codebook pass |
 | 26/10/08 | Sync guard | tools/sync_guard.py tested on all three paths (safe/refuse/force); AGENTS.md now states the folder is the working tree — the "copy Drive to repo" model that caused the deletion was wrong | Residual: guard covers file-copy operations only; git-level protection (pre-commit refusing mass row deletion) worth considering next |
-| 26/10/08 | Post-merge cleanup | Deduped union-merge artefacts; TFS cleared from second-merge stragglers; agent branch deleted | Residual: none |
+| 26/10/08 | Post-merge cleanup | Deduped union-merge artefacts; naming cleared from second-merge stragglers; agent branch deleted; over-broad dedup caught and redone (structural lines restored from 1536301) | Residual: none |
