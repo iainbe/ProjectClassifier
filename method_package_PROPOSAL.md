@@ -6,8 +6,8 @@ Status: proposal only. Nothing below is applied to `03_methods.csv`, the codeboo
 
 1. **Repair 19 shifted method rows** (M-G2-010 to M-G2-028). Each row has its fields shifted one column from `outputs` onward (the `outputs` value sits in `source_ids`, the notes in `source_ids`... and so on). All 19 match one exact pattern, so the fix is mechanical: insert an empty `outputs` and shift the rest right. Preview: `method_repair_PREVIEW.csv`. Data fix, no schema change. Not a weakening of any test.
 2. **Register two missing method rows**: M-S261008-01 (Beatles attribution bridge, P78-BEATLES) and M-S261008-02 (Production Fund final evaluation, P88-LCRPF24). Draft: `method_new_rows_DRAFT.csv`.
-3. **Fix references**: claim method link `M-G2-009` points to no method row; four methods are never referenced by any claim.
-4. **Rolled-up family**: add `method_family_rollup` (eight families) beside the 42 existing labels via the mapping in `method_family_rollup_DRAFT.csv`; old labels stay. Taxonomy change.
+3. **Fix references** (DONE 26/10/08): claims C-G2-022 and C-G2-023 pointed to `M-G2-009`, which has no row; repointed to `M-G2-008`, whose own claim list already includes them. The new Beatles and Production Fund claims now name their method rows. Remaining: 20 method links to absent claims (VAL-S261008-09) and one one-way link (VAL-S261008-12).
+4. **Rolled-up family**: add `method_family_rollup` (eight families) beside the 41 existing labels via the mapping in `method_family_rollup_DRAFT.csv`; old labels stay. Taxonomy change.
 5. **Statement layer (schema change)**: add `statement_id` to `03_methods.csv`; statements live in `method_statements/MS-nn_*.md` with CURRENT / DRAFT / SUPERSEDED status. Codebook v1.4 gains `SUPERSEDED` as a `method_status` value.
 6. **E4 "method current" extended, not weakened**: still UNKNOWN when a project has no method rows and FAIL when a method row is SUPERSEDED; additionally FAIL when a linked statement is SUPERSEDED, and a flag when the only linked statement is DRAFT.
 7. **Adopt MS-01 to MS-03** after Iain's review, link their method rows, run `tools/method_view.py`.
