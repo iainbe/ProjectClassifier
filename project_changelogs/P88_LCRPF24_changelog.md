@@ -15,3 +15,7 @@
 ## 26/10/08 — client acceptance recorded
 
 - client_accepted set to Y on Iain's bulk statement (clients with several projects); basis IAIN_STATEMENT in `14_fact_provenance.csv`. No written record checked.
+
+## 26/10/08 — Contract evidence
+
+- No PO or contract found in Google Drive; Iain: if none is found there was none. Recorded in relationship_evidence and provenance; contracting_role still empty pending how the work was commissioned.

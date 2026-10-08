@@ -776,3 +776,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13q (26/10/08): P54 bid outcome
 
 - P54 Manchester Place Partnership `programme_status`=NOT_AWARDED on Iain's statement; lifecycle_status stays COMPLETED. Its four DESIGN claims (C-G2-228 to 231) set to `option_state`=EXPIRED, per the unsuccessful-bid rule. Stage reached, notification type and buyer scores still to record.
+
+## Session 13r (26/10/08): P88-LCRPF24 contract evidence
+
+- Searched Google Drive for a PO or contract for the LCR Production Fund Final Evaluation (P88-LCRPF24); none found. Iain: no PO or contract found means there was none. Recorded in relationship_evidence and provenance; OneDrive still unchecked and contracting_role still empty.
+- Noted: the Drive copy of the P51 card (modified 26/10/08) records DIRECT, competed tender DN619939, contract C0764, award letter 24/08/22; the repo copy says NOT_ESTABLISHED. Not applied; awaiting Iain's confirmation.
