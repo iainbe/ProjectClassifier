@@ -43,7 +43,7 @@
 | Wakefield Our Year | P64 + P69 (two rows — possible duplicate, see §7) | FLAG |
 | AMGEN AHRC bid (USW) | P85-AMGEN — DIRECT_PROPOSAL to USW (Iain 26/09/12) | REGISTERED — PRIME, stronger precedent |
 | Creative Scotland salaries | P86-CSSAL | REGISTERED — award status needs confirming |
-| True North AHRC bid | P75-LANC | VERIFIED |
+| True North AHRC bid | P87-TRUENORTH (cited as P75-LANC when submitted; re-keyed 26/10/07) | VERIFIED |
 
 ## 4. Clarifications intel (published answers, all bidders see)
 

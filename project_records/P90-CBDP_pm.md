@@ -1,4 +1,4 @@
-# Project Management Record — P88-CBDP
+# Project Management Record — P90-CBDP
 
 **Purpose:** register extension record for subcontracted delivery inside Curated Place's Creative Scotland CBDP. Created retrospectively 26/10/08 from archive evidence; open fields flagged for Iain.
 
@@ -6,7 +6,7 @@
 
 | Field | Value | Notes |
 |---|---|---|
-| `project_id` | P88-CBDP | |
+| `project_id` | P90-CBDP | |
 | `project_name` | Creative Scotland Cultural Business Development Programme (Curated Place faculty) | |
 | `client` | Curated Place | Funder: Creative Scotland |
 | `contracting_party` | Curated Place | TFS contracted to CP, not CS directly — confirm |

@@ -453,6 +453,165 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **T23-TVBTV full team review (26/10/07)**: routes ranked — evidence-partner inside delivery consortium (strongest, via P46/P68 credibility, Teesside Uni mandated in spec); Lot 7 prime second (orchestration fits); Lot 4 prime weakest (4yr sole-supplier delivery). New facts: 2yr+2yr contract, unit rate card (workshops/coaching/cohorts), FVRA pass/fail gate. Register updated; decision pending Iain.
 - **Company accounts added (26/10/07)**: `company_accounts/` — three filed years (FY23/24, FY24/25, FY25/26) copied from OneDrive + `accounts_summary.md` with key figures and FVRA-style ratios. Reading: operating margin 20-36%, acid ratio 1.22-1.44, net cash throughout — all three TVCA focus metrics green. Watch item: turnover ratio — annual contract values >~£100k will flag proportionality at ~£200k turnover, reinforcing partner/Lot-7 positioning on T23.
 - **Credit signals checked (26/10/07)**: external aggregators read The Fifth Sector Ltd (07539809) as low risk — CompanyRank 80/100 (75th pct SIC peers), DataGardener "low risk", filings current, no CCJs. Creditsafe's own score still needs the manual free lookup; logged to accounts_summary.md.
+
+## Session 26/10/07 (2): Liverpool Production Fund split into 2021 and 2024 projects
+
+**Trigger:** Iain: "there should be two project folders, one for 2021 and one for 2024 - reallocate files and folders and update registry"
+
+- **P22-LCRFILM** is now the 2021 interim evaluation only; **P88-LCRPF24** (new, PROVISIONAL) is the 2024-25 final evaluation. They differ in year, deliverable and evidence base (project-differentiation rule). `SRC-G2-030` (250609 final report) moved from P22 to P88 and its path updated; claims C-G2-037..041 stay on P22 and keep their evidence links to SRC-G2-030 as the interim-vs-final comparison
+- **G Drive:** "2020 Liverpool Film Fund evaluation" renamed "2021 Liverpool Production Fund interim evaluation" and moved to 2021 Projects; the fuller "2024 Liverpool Production Fund" moved from 2025 Projects to 2024 Projects; the subset duplicate in 2024 Projects (verified: every file also in the fuller folder, matching names and sizes) renamed "ZZ superseded duplicate ... safe to delete". Nothing deleted. Also moved "2025 Liverpool Musiclab" into 2025 Projects (project not yet registered)
+- P88 fields not evidenced (contracting_role, contract value, client acceptance, exact dates) left blank, not inferred; VAL-S261007-01..04 added. `project_index.csv` regenerated
+- Residual: P22 card still mixes interim and final figures and P88 has no card or claims; per-project changelogs not yet written; Music Lab project (LCC, prime, 25/10-26/02, POs 3500530818 + 3500530819 = GBP 9,999 plus 3500535803 GBP 1,500 + VAT) not yet registered; AGENTS.md Liverpool list not yet updated
+
+## Session 26/10/07 (3): Production Fund split completed; Music Lab registered
+
+**Trigger:** Iain: P22 was a competed contract in its own right, P88 separately contracted in 2024; Music Lab details supplied; "proceed"
+
+- Contracting facts recorded on P22 and P88. P22 card rewritten interim-only; P88 and P89 cards created (PROVISIONAL, no claims). Per-project changelogs written for P22, P88, P89
+- **P89-LIVMUSLAB** registered: Liverpool City Council, PRIME, 25/10-26/02, original GBP 9,999 (POs 3500530818 + 3500530819) extended with GBP 1,500 + VAT (PO 3500535803). C-G2-271 moved from P75-LANC. VAL-S261007-05..07 added
+- AGENTS.md Liverpool multi-project list extended with P22 (2021), P88, P89. `project_index.csv` regenerated
+- Observed, not fixed: `client_type` mixes upper and lower case values (e.g. LOCAL_AUTHORITY / local_authority); `10_review_history.csv` has ragged rows
+
+## Session 26/10/07 (4): Ontology v2 review, decisions 1-8, AGENTS.md rules, Drive undo table
+
+**Trigger:** Iain: "use the Agents to determine options for best approach to ... ontology and weighting for selection of case studies and method statements"; later "walk me through the outstanding decisions one by one"
+
+- **Review:** option analysis from `case_study_selection_decision.md` (A-D), then a draft `ontology_v2_DRAFT.md` (not adopted). Lanes run: THAD (advisory), generalisation dry-run across tenders, consistency audit, blindspot, deepthink, sheldon, wishful, shaz, skin, fok. Not run as agents: sark/load-the-team (lane selection done by the session) and grey (no buyer intelligence). THAD, generalisation and consistency ran on revision 1; the rest on revision 2. All advisory. Counts corrected after review: 70 projects, 27 empty `contracting_role`, 60 `sector_activity` values, 41 `method_family` values
+- **Decisions taken (Iain):** (1) direction approved: register is truth, existing codebook claim axes, a case study is a use of a project against a tender requirement; (2) staged build plus a minimal use log, new register columns `citation_status` and `client_accepted`, requirements stay free text until the structure has been retyped three times; (3) lifecycle aligned to codebook v1.3 plus BID_PENDING, one name per stage, unclosed work held at IN_PROGRESS until client acceptance; (4) existing rule applied to bids held as projects; (5) evaluator-reported effects a separate sub-class, not ranked below delivered outputs; (6) evidence kinds are parallel, not a ladder; (7) client reuse coded DECISION_USE, asserted until sourced; (8) AGENTS.md review-team rule and standing test-strength rule adopted
+- **AGENTS.md:** new section "Review-team protocol for method, schema and taxonomy changes": full lane set, advisory only, generality test, analysis before commit, separate revertible commits, and the standing rule that no test, gate or QA check is weakened without explicit permission
+- **Facts established, not yet written to the register:** Lancashire Create Growth Programme bid: paid, direct with Lancashire County Council, GBP 10,000 ex VAT (PO 321786253/0, invoice 1221); Lancaster University Horizon bid (Virtual Agora): paid, direct, GBP 4,158.33 ex VAT (PO 500215141; invoice INV-1339 GBP 4,990.00 paid 23/10/25), not awarded; Creative Scotland salary benchmarking framework: awarded, GBP 11,750 ex VAT (agreement CS/CA1019, 30/09/26 to 30/10/26), live. No register row was changed this session step
+- **Drive undo table** (changes made this day; to reverse, set the parent and title back):
+
+| Folder (current name) | Drive folder ID | Previous name | Previous parent (name, ID) |
+|---|---|---|---|
+| 2025 Liverpool Musiclab | 1mbVTIDhP6RHTdddJxPYSqONW4CCnrfXd | unchanged | "2025 Projects" in the Google project folders tree, 1_6HJHqZ0ni3K07nmd3VlWJKiyEy7Qrf0 (now in Archive 2025 Projects, 1xTDlk_UIuY3FNNOzU9vwkuqVDaekxWij) |
+| 2021 Liverpool Production Fund interim evaluation | 1RQzYlGCNN3R-QTJWsUkSHniajkY_vxjP | 2020 Liverpool Film Fund evaluation | "2020 Projects", 1DUlfL68Ue2sgFrcOYqSEQ0Ht5XyTGmth (now in "2021 Projects", 1roMvXyu1M5gZVFBcoE71ktfjUuAJCaZp) |
+| 2024 Liverpool Production Fund (the fuller working folder) | 1pT0A8-ZJL11wd_kEId1o43_KLUDcjMcM | unchanged | "2025 Projects", 1xTDlk_UIuY3FNNOzU9vwkuqVDaekxWij (now in "2024 Projects", 1_U1XT3RGifBW_CPDzdPkn26zDPWSIZaO) |
+| ZZ superseded duplicate - 2024 Liverpool Production Fund (subset, safe to delete) | 1wGKdcSQ02_pA3dO16fvKqR7fqAgJdVrF | 2024 Liverpool Production Fund | unchanged ("2024 Projects", 1_U1XT3RGifBW_CPDzdPkn26zDPWSIZaO) |
+
+  The first three moves and the rename are described in the 26/10/07 (2) and (3) entries above. Nothing was deleted from Drive.
+- **Residual:** register edits from decisions 3 and 4 (lifecycle mapping, the Derby bid to tender-only, the new columns) and the three project fact updates are not yet made; decision 9 (permission requests) is open and paused at Iain's request; the earlier Lancaster fee mix-up question stays open
+
+## Session 26/10/07 (5): Register edits for decisions 2, 3 and 4
+
+**Trigger:** Iain: "Make the register edits for decisions already taken"
+
+- **New register columns** (appended at the end after a header check; register now 31 fields): `citation_status` (from the project cards, keyword only; UNKNOWN where the card lacks it: the ten earliest projects, whose cards in this repo mirror have no field although CHANGELOG 26/09/16 says it was added, so possible Drive/repo drift, VAL-S261007-09) and `client_accepted` (UNKNOWN for all projects, not inferred, VAL-S261007-08)
+- **Lifecycle (decision 3):** ACTIVE/ONGOING/IN_PROGRESS and the unclosed states (COMPLETE_NOT_CLOSED, REPORTING_COMPLETE, PHASE_COMPLETE_AWAITING_INSTRUCTION) mapped to IN_PROGRESS for WYCA WY Create, Southampton Forward Strategic Review, Kirklees Creative Industries Mapping, City St George's SCCI, CELL, British Council Kotor Exchange Pilot, British Council Creative Economy Council Development. Result: COMPLETED 59, IN_PROGRESS 9, NOT_AWARDED 1 (the Lancaster True North bid support row, awaiting the Lancaster re-key). Kirklees phase rows not created (VAL-S261007-11)
+- **Bids as projects (decision 4):** Derby Culture Strategic Review bid removed from the project register (own bid, tender-only; tender T05-DERBY); its 4 sources and 2 claims kept with project_id cleared; card and changelog moved to `retired/`. Creative Scotland salary benchmarking framework: IN_PROGRESS, 26/09/30 to 26/10/30, GBP 11,750 ex VAT. Lancashire Create Growth Programme bid: role DIRECT, GBP 10,000 ex VAT. Lancaster University Horizon bid: COMPLETED with programme outcome NOT_AWARDED, DIRECT, GBP 4,158.33 ex VAT. CoSTAR bid support and Creative City SIPF application follow the same model (Creative City lifecycle NOT_AWARDED -> COMPLETED with programme NOT_AWARDED)
+- **AGENTS.md (strengthening only):** QA check 7 and the Unsuccessful bids rule extended to `programme_status=NOT_AWARDED`, so moving bid-support rows to COMPLETED does not drop them out of the check; Derby list now points to T05-DERBY. Applying the extended check set one CoSTAR design claim (C-R3-021) to EXPIRED
+- **Tooling:** `tools/regenerate_index.py` now takes lifecycle from the register (register is authoritative) and emits `citation_status` and `client_accepted`; `project_index.csv` regenerated (69 rows)
+- **QA run:** unique IDs, foreign keys, empty effect_family/role, EFFECT attribution, GBP value_basis: pass except pre-existing items on the Lancaster True North bid support row (C-R4-001 empty effect_family; C-R4-002 option without state), left for the Lancaster re-key
+- **Validation actions added:** VAL-S261007-08 to -15. No test, gate or check was weakened
+- **Residual:** Lancaster re-key (True North / workshop / fee mix-up); Kirklees phase rows; backfill of client_accepted and the ten earliest citation_status values; decision 9 (permission requests) paused at Iain's request
+
+## Session 26/10/07 (6): Lancaster re-key
+
+**Trigger:** Iain: "Go ahead with the Lancaster re-key" (after settling that the December 2025 summary report belongs to the workshop work)
+
+- **Outcome:** IDs now follow names. **P75-LANC** = Lancaster AHRC CIC workshop and Nature-Culture Tech Creative Cluster summary report (v2), December 2025 (25/12), GBP 1,499.70 (INV-1357 dated 09/02/26, paid late by BACS 08/05/26), DIRECT, DELIVERED_WORK, folder `Archive projects/2025 Projects/2025 Lancaster AHRC CIC`. **P87-TRUENORTH** = True North CICP2 bid support, 26/06 to 26/08/20, GBP 8,333 + VAT per Iain (PO 500222361 dated 25/06/26, order total GBP 9,999.00), DIRECT, COMPLETED with programme_status NOT_AWARDED (client application not shortlisted), DELIVERED_WORK
+- **Moved:** source SRC-G2-074 (True North application) P75 -> P87; source SRC-R5-001 (workshop remittance) P87 -> P75. Claim C-G2-270 stays with the workshop (its only evidence link is the True North application, now on P87)
+- **QA fixes inside the re-key:** C-R4-002 (interview option) set EXPIRED; C-R4-001 empty effect_family set NOT_APPLICABLE. After this the register has no OPTION-without-state and no empty effect_family
+- **Text corrected:** permission row PR-06 wording and notes (accuracy only; redesign still paused); bid record T01 (True North now P87); cards for P16, P64, P81, P85; case-study decision doc correction note; both Lancaster cards rewritten; both changelogs
+- **Register effect:** lifecycle now COMPLETED 60, IN_PROGRESS 9; no lifecycle NOT_AWARDED rows remain
+- **Retracted:** the VAL-S261007-10 suspicion that the "<GBP 5k" fee was the Horizon invoice; it is the workshop fee. Marked RESOLVED
+- **Added:** VAL-S261007-16 (PO total GBP 9,999.00 vs GBP 8,333 + VAT), -17 (changelog cites claims C-R4-003/004 and evidence E-R5-018/019 that do not exist), -18 (workshop date and VAT of INV-1357), -19 (summary report not registered as a canonical source)
+- **Residual:** items above; Kirklees phase rows; client_accepted and early citation_status backfill; decision 9 (permission requests) paused; the 254 evidence rows pointing at absent claims (pre-existing)
+
+## Session 26/10/07 (7): True North value confirmed; changelog references corrected
+
+**Trigger:** Iain: "The PO total is VAT-inclusive, £9,999" and "record the VAT-inclusive PO total and fix the changelog references"
+
+- **True North bid support** (P87-TRUENORTH): value recorded as GBP 9,999 including VAT (PO 500222361), about GBP 8,333 ex VAT (exactly 8,332.50 at 20%; GBP 8,333 + VAT is the same fee rounded). Register notes, relationship evidence and card updated. VAL-S261007-16 resolved
+- **Changelog references fixed:** the True North changelog cited claims C-R4-003 and C-R4-004 and evidence E-R5-018 and E-R5-019, which are not in the registers. Corrected to C-R4-001 and C-R4-002 and E-R5-602 and E-R5-603, matched by content (assessment timeline; interview claim; links from SRC-R5-161); original wording kept in brackets. The match is by content, not proven. VAL-S261007-17 resolved
+
+## Session 26/10/07 (8): Permission requests decision (decision 9)
+
+**Trigger:** Iain: "Continue with the permission requests decision", answered question by question
+
+- **Rule (Iain):** citing delivered work in a tender needs no client permission unless a contract clause, NDA or client instruction restricts citation. Written into AGENTS.md citation rules, with the three things that still need permission: naming a client as a referee, reproducing client-identifying content on the website, and reusing client data
+- **One place (decision 9a):** `reference_permission` is recorded only in `11_permission_requests.csv` (ESTABLISHED on a NAMED_REFEREE request). `tools/regenerate_index.py` now derives it and `project_index.csv` has a `reference_permission` column. Cards still carry a legacy line (all NOT_ESTABLISHED except one non-canonical value); the index is authoritative
+- **The 35 requests (decision 9b):** 27 closed as NOT_REQUIRED (no restriction marker recorded; rows and reasons kept; reopen if one is found); 3 turned into INTERNAL_CHECK notes (University of Plymouth subcontractor wording; BOP Consulting / Frontier Economics contribution cap; Beatles Visitor Impact Study client identity); 5 client asks kept and rewritten in plain language with one question each (Wakefield Council, Liverpool City Council for the LCR music economy mapping, LCR Combined Authority, British Council contract clause, CELL client data reuse). Project IDs in the file normalised to register IDs; original text kept in notes where it carried extra detail
+- **Owner and reminder (decision 9c):** the 5 live asks carry owner Iain and a reminder after five working days. Nothing has been sent; each message needs Iain's approval
+- **Columns added to the permission file:** `owner`, `reminder_after_working_days` (appended at the end; 13 fields). New statuses: NOT_REQUIRED, INTERNAL_CHECK
+- **Validation actions added:** VAL-S261007-20 (CELL data reuse, hard stop 29 Oct 2026), -21 (confirm the LCR music mapping commissioner), -22 (spot-check closed requests for restriction markers)
+- **No test weakened:** the referee gate is unchanged (default NOT_ESTABLISHED); only requests that were never needed under the stated rule were closed, with the reason recorded
+
+## Session 26/10/07 (9): Merged main into the branch (PR conflict)
+
+**Trigger:** the pull request for this branch ([iainbe/ProjectClassifier#2](https://github.com/iainbe/ProjectClassifier/pull/2)) reported a merge conflict with `main`
+
+- `main` had four commits not on the branch: tender T23-TVBTV registered (TVCA Business Tees Valley Support Spine Framework), its full-team go/no-go review, company accounts archived with ratios computed, and credit signals checked. They touched `02_sources.csv`, `08_tenders.csv`, `10_review_history.csv`, `CHANGELOG.md`, `tier2_qa_review.md` and added `company_accounts/`
+- Four conflicts, resolved without rewriting history (a merge commit): `02_sources.csv` took `main`'s file (which only converted CRLF to LF and added source SRC-R5-173) and re-applied this branch's seven row changes (SRC-R3-04 to -07, SRC-G2-030, SRC-G2-074, SRC-R5-001); `10_review_history.csv`, `CHANGELOG.md` and `tier2_qa_review.md` are append-only logs, so both sides' entries are kept (main's first, then this branch's)
+- Checks after the merge: no conflict markers, unique source and review IDs, source and claim project links valid, tender T23 present, review history 356 rows, `project_index.csv` regenerated. `02_sources.csv` is now LF-ended like `main`
+
+## Session 26/10/07 (10): Eligibility report (first build step of the staged plan)
+
+**Trigger:** Iain: "whichever makes most sense - you have a plan, right?"
+
+- **New tool:** `tools/eligibility_report.py` (read-only) writes `eligibility_report.csv` and `eligibility_report.md`: five checks per project (delivered and accepted; citable; lapsed option; method current; role wording) as PASS / FAIL / UNKNOWN, evidence kinds shown side by side and never ranked, referee permission shown but not a check, and a ranked list of the missing facts that block the most completed projects. Unrecorded facts are UNKNOWN, never PASS; no test weakened
+- **First run (69 projects, 60 completed):** delivered/accepted PASS 0, FAIL 9, UNKNOWN 60 (client acceptance not recorded); citable PASS 55, FAIL 4, UNKNOWN 10; lapsed option PASS 69; method current PASS 34, UNKNOWN 35 (no method rows registered); role wording PASS 44, UNKNOWN 25. No project is fully determinable yet
+- **AGENTS.md:** stale-artefact rule now also requires running the eligibility report after register, claim, method or permission changes
+- **Open question for Iain:** a project with no method rows is UNKNOWN on "method current" (27 completed projects). Either method rows are expected for every project, or "no method used" may count as not applicable; left UNKNOWN until Iain decides
+
+## Session 26/10/07 (11): Candidate view for the V&A tender (T22-VAIMP)
+
+**Trigger:** Iain: "Yes, run it for the V&A tender"
+
+- **New tool:** `tools/selection_view.py` (read-only) builds a candidate list for one tender requirement from the eligibility report: subject keywords plus the evidence kinds the buyer wants; alphabetical, never ranked across kinds, UNKNOWN never a pass; also lists subject matches that hold none of the wanted kinds so nothing is silently dropped (first version omitted them; fixed in this session)
+- **Output:** `selection_views/T22-VAIMP.md`. Reading of the buyer's ask (to be corrected by Iain): evaluation or impact of an institution or programme on creative industries; kinds wanted: delivered output, reported effect, effect as evaluator. Result: 9 candidates (BAC + LIVR Project Evaluation; CICP Impact and Delivery Evaluation; Creativeworks London KE Hub Evaluation; Kirklees Creative Industries Mapping (in progress); LCR Film and TV Production Fund Interim Evaluation; SYMCA ARG Evaluation; University of Liverpool Heritage CPD; Wakefield Cultural Development Fund Evaluation; Wakefield Our Year 24 Evaluation) and 3 subject matches with no coded claims (Beatles Visitor Impact Study; LCR Production Fund Final Evaluation 2024-25; SYMCA Create Growth Programme Final Report)
+- **Not done:** no recommendation, shortlist or positioning conclusion was written. The tender review protocol (full advisory lane team) is still required before any positioning, case-study sheet or submission content for T22
+- **Finding:** the view is limited by claim coding: the two projects the tender record calls its strongest precedents have no claims of the wanted kinds registered
+
+## Session 12 (26/10/08): T22-VAIMP referee wording and review lanes
+
+- **Changed:** `tools/selection_view.py`, `tools/eligibility_report.py` (docstring) and the regenerated `selection_views/T22-VAIMP.md` now say referees are cited by name in the tender and asked only once shortlisted (Iain, 26/10/08). No check was changed or weakened.
+- **Review lanes run on T22-VAIMP** (blindspot, deepthink, sheldon, wishful, thad, grey, shaz, skin, fok; all advisory, none blocked). Convergent findings: no candidate is clearly an institution-impact study; Beatles Visitor Impact Study and LCR Production Fund Final Evaluation 2024-25 have no coded claims; client acceptance and several contracting roles unknown; CICP Impact and Delivery Evaluation is subcontractor work, not TFS-owned; the view's keyword filter searches names only and missed Theatre Royal Plymouth Engagement and Wakefield Our Year 2024 BCJ.
+- **Not done:** no case-study sheet, shortlist or positioning written; T22 `notes` field and `ontology_v2_DRAFT.md` section 7 not yet updated; awaiting Iain's answers.
+
+## Session 12b (26/10/08): University of Liverpool Heritage CPD final report
+
+- **Finding:** the final report was already in the register as SRC-G2-062 but mislabelled as a research summary presentation, which led the Sheldon lane to report "proposal only". Corrected the row, re-extracted the full text from Drive (G Drive id 1ury6wz6PsYFxUNe6qYcSh-UScbEhHKR3), reworded C-G2-246 and E-G2-151, updated the P63 card.
+- **Not changed:** `client_accepted` (UNKNOWN) and `citation_status`. Drafts, workshop deck and inception note remain unregistered. Added VAL-S261008-01 (acceptance and take-up) and -02 (OneDrive check).
+- **Session 12b addition:** registered the P63 workshop deck as SRC-G2-089 and extracted it; no claims coded (no outcomes recorded in it). Drafts and inception note left unregistered.
+- **Session 12b addition 2:** registered the P63 inception note as SRC-G2-090 and extracted it; the 22/09 and October draft reports are deliberately left unregistered (Iain instruction). No claims coded.
+
+## Session 12c (26/10/08): Production Fund Final Evaluation claims (P88-LCRPF24)
+
+- **Added:** 17 claims, 17 evidence links, 13 measurements from SRC-G2-030 (IDs C-S261008-001 to -017, E-S261008-, MEAS-S261008-; new prefix chosen because the P78 card cites C-G2-280 to 283, which are not in the register). Resolved VAL-S261007-03. Added VAL-S261008-03 to -05.
+- **QA on the new rows:** field counts, unique IDs, foreign keys, £ claims have value_basis, EFFECT claims have attribution_strength, no empty role or effect_family. Self-review caught and fixed three errors before commit: a £ claim with no value_basis, context claims using undefined CONTEXTUAL (changed to NOT_APPLICABLE per codebook), and a causal verb in a CONTEXT proposition.
+- **Not changed:** P22 claims C-G2-037/038 still quote final-period figures (VAL-S261008-05); client, contract and acceptance for P88 still provisional.
+
+## Session 12d (26/10/08): P22 claims trimmed to interim figures
+
+- C-G2-037 and C-G2-038 reworded to the 2021 interim position only (Iain instruction); final-period figures remain on P88 claims. E-G2-534/535 relinked as corroboration. VAL-S261008-05 resolved. No claim added or removed.
+
+## Session 12e (26/10/08): referee timing propagated
+
+- `ontology_v2_DRAFT.md` section 7 and decision ledger updated for the referee-timing correction; header and reversal text no longer say the draft is uncommitted. PR-03, PR-04 and PR-05 notes record that the asks are held until shortlist. Nothing sent to any client.
+
+## Session 12f (26/10/08): ontology decision 10
+
+- Iain: evidence kind is a filter, not a rank. `ontology_v2_DRAFT.md` section 5 rewritten and ledger item added. Ordering of survivors by role, recency and geography left open (10b). No register or tool change; the T22 view already behaves this way.
+
+## Session 12g (26/10/08): ontology decision 10b (option C)
+
+- `tools/selection_view.py` gained `--order proposed` (and optional `--geography`): writes `selection_views/<tender>_proposed_order.md` with kinds held, then contracting role, then most recent end date, then geography, and a plain-words 'Placed because' column. No score. Default view unchanged (alphabetical). Draft section 5 updated.
+- T22 view regenerated: now 10 candidates because the LCR Production Fund Final Evaluation (P88) has coded claims.
+
+## Session 12h (26/10/08): Beatles study registered and coded; ontology decision 11
+
+- Registered SRC-G2-091/092, coded 10 claims, 10 evidence links, 9 measurements (C-S261008-018 to -027). Added PR-36 (INTERNAL_CHECK on publication clearance), VAL-S261008-06 and -07. P78 card updated. Ontology draft: decision 11, wording capped at the claim's own evidence class (Iain).
+- Self-review: removed a stray sentence from a claim note; original-study originator corrected from the P78 card. Recalculated the headline (211.3 x 0.8 x 0.8 x 0.380 x 1.30 = 66.8, stated 66.9) and the operator percentages (match).
+- **Session 12h addition:** Iain confirmed the 08 Oct study (SRC-G2-091) as the delivered version; SRC-G2-092 marked as the earlier edition; VAL-S261008-06 resolved. P78 delivery date (26/10/07 in the register) to re-check.
+
+## Session 12i (26/10/08): P78 date, acceptance and citation
+
+- P78 date_end corrected to 26/10/08; client_accepted set to Y (verbal, per Iain; no written record, recorded in notes); PR-36 closed; VAL-S261008-07 resolved. This clears E1 for the Beatles Visitor Impact Study. Verbal acceptance is a weaker record than written, so the basis is stated beside the value.
+
+## Session 12j (26/10/08): provenance of backfilled facts (ontology decision 12, option B)
+
+- New `14_fact_provenance.csv` (append-only; basis DOCUMENT / WRITTEN_CLIENT / VERBAL_CLIENT / IAIN_STATEMENT / INFERRED) seeded with 12 facts settled this week, each value checked against the register. `tools/eligibility_report.py` and `tools/selection_view.py` now show the basis beside E1, E2 and E5 PASS results and the report counts PASS results with no basis recorded (E1 0, E2 55, E5 39). Display only: no result or check changed. Ontology draft updated. AGENTS.md not changed (draft not adopted): the stale-artefact rule should list the new file on adoption.
 - **Insurance registered (26/10/07)**: `company_insurance/` — Hiscox 2026 pack (PI £5m / PL £5m / EL £10m, period 06/04/26–05/04/27, £669.09/yr). Current-issue certificates kept (post-address-change versions); deduped OneDrive conflict copies. insurance_summary.md maps cover vs live tenders: **PL £5m vs CS requirement £10m is the only gap** (CAN Q9 covers whether lead cover suffices). Renewal due before 06/04/2027 — all three live contracts outlast the policy. Certificate address out of date — Iain writing to Hiscox for reissue.
 - **CS insurance precedent logged (26/10/07)**: PL £10m requirement vs £5m held is not a blocker — CS previously accepted contract amendment to match existing cover. Action moves to submission-time: note current levels in the proposal so amendment can be requested at award. insurance_summary.md + T21 row updated.
 - **T23 lot decision documented (26/10/08)**: `261008 T23 lot decision.md` in tender folder — seven-lot scan narrowed to Lot 4 (consortium route) + Lot 7 (prime route); actions and fallback recorded. Decision still open pending Iain.
@@ -460,4 +619,31 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **T23 noticeboard claim corrected (26/10/08)**: Supplier Noticeboard location in earlier register note overstated — press-only reference, not in ITT or visible on Delta. Note now records verification routes (Delta helpdesk / clarification Q) and marks it non-critical-path.
 - **P88-CBDP registered (26/10/08)**: subcontracted delivery inside Curated Place's Creative Scotland Cultural Business Development Programme — MVP workshop + session materials for Nov 2025 cohort, archive folder verified in both Drive and OneDrive. SUBCONTRACTOR to Curated Place (CS-supported programme). Open: fee, edition coverage, Round 2 involvement, referee permission. Strategic relevance: T23 Lot 4 consortium + Lot 7 bench, T21 CS delivery familiarity.
 - **P88-CBDP details confirmed (26/10/08)**: Iain — CBDP 2025 only; fee £500; 6 further sessions in 2026 so lifecycle IN_PROGRESS, citation LIVE_WORK; prior CP bid collaboration noted (CS Culture Collective, 26/08).
+
+## Session 12k (26/10/08): merge of main into the PR branch
+
+- Main gained P88-CBDP (Creative Scotland Cultural Business Development Programme, Curated Place subcontract), T23 notes and an insurance pack. Merged into the branch: `01_projects.csv` merged by project and field (no field-level conflicts; P88-CBDP added with the two new columns citation_status and client_accepted blank, so it reads UNKNOWN on E1 and E2), append-only logs unioned, derived files regenerated.
+- **Number clash:** P88-CBDP and P88-LCRPF24 now share the number 88. Full IDs are distinct so no join breaks; the choice is left to Iain (VAL-S261008-08). Not renumbered.
+
+## Session 12l (26/10/08): P88-CBDP renumbered to P90-CBDP
+
+- Iain: P88-LCRPF24 keeps the number 88. The Creative Scotland Cultural Business Development Programme subcontract is now P90-CBDP: register row, card, per-project changelog and PM record renamed and edited; derived files regenerated. Earlier log entries (CHANGELOG, QA review, review history) that say P88-CBDP are left as written, because they are the audit trail. VAL-S261008-08 resolved. Any outside file, Drive folder name or sweep note that says P88-CBDP needs the same change.
+
+## Session 12m (26/10/08): where requirements live (ontology decision 13, option B)
+
+- New folder `tender_requirements/` with `T22-VAIMP.md` (frozen contract and the case-study item, operator reading, Iain to correct). `tools/selection_view.py --requirements T22-VAIMP` reads it; the regenerated T22 view lists the same 11 candidates as before, in both orders. T22 row of `08_tenders.csv`: `requirement_map_location` set and the review-lane findings added to `notes` (tender review protocol item 4). Ontology draft updated.
+
+## Session 12n (26/10/08): people register (ontology decision 14, option B) and verbatim T22 wording
+
+- New `15_people.csv` (4 people) and `16_involvement.csv` (5 rows, all from documents), plus read-only `tools/people_view.py`. No contact details or CVs held. `named_in_bids_ok` is UNKNOWN for everyone except Iain.
+- `tender_requirements/T22-VAIMP.md` updated with verbatim ITT and Clarification wording (case-study item, new team item, formatting rule, scoring key, process dates). The brief (document 02) and PQQ not yet read.
+- Wording note: Clarification Q12 says an anonymised case study is acceptable only if the organisation and referee can be disclosed on request; it does not say referee details may wait until shortlisting, while the ITT asks for a contact for each case study in the tender.
+
+## Session 12o (26/10/08): V&A brief and PQQ read
+
+- Read the brief and PQQ in full and added `brief` and `qualification` items to `tender_requirements/T22-VAIMP.md`. Findings: the PQQ reserves the right to take up references on submitted examples at any stage (risk to the referee-after-shortlist approach, advice only); our insurance meets the PQQ minimums but expires 05/04/27 before the May 2027 deliverables and certificates show an old address; the brief's case-study output asks for long-run effects on creative careers and the ecosystem, which most candidates do not evidence. Added to the T22 notes.
+
+## Session 12p (26/10/08): current ratio for the V&A PQQ
+
+- Current ratio computed and checked against the 2025/26 accounts PDF: 1.25 (FY25/26), 1.29, 1.44. Meets V&A PQQ 3.1.1 without a guarantor or statement. Added to `company_accounts/accounts_summary.md` and the T22 requirements file.
 - **Cross-tender next-steps doc (26/10/08)**: `261008 Next steps - priority order.md` in Active proposals — ordered across T22 (referees critical path), Towell call, T21 CAN, T23 partner/bench/CAN, compliance items.

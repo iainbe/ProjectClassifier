@@ -16,8 +16,8 @@
 | `reference_permission` | NOT_ESTABLISHED | — |
 | `commission_date` | 22 | 01_projects.csv |
 | `completion_date` | 22/09 | 01_projects.csv |
-| `contract_value` | NOT_ESTABLISHED | — |
-| `contracting_role` | SUBCONTRACTOR — data contributor; applicant is Lancashire LEP/County Council | SRC-G2-020 |
+| `contract_value` | GBP 10,000 ex VAT (PO 321786253/0; invoice 1221) — Iain 26/10/07 | — |
+| `contracting_role` | DIRECT — PO from Lancashire County Council | SRC-G2-020 |
 | `geography` | Lancashire | 01_projects.csv |
 | `lifecycle_status` | COMPLETED | 01_projects.csv |
 

@@ -19,7 +19,7 @@
 | `contract_value` | ≤£25,000 incl. expenses+VAT (~40 days) | C-G2-300 |
 | `contracting_role` | LEAD_CONSULTANT — contracting role NOT_ESTABLISHED | 01_projects.csv |
 | `geography` | Southampton | 01_projects.csv |
-| `lifecycle_status` | ACTIVE | 01_projects.csv |
+| `lifecycle_status` | IN_PROGRESS — register 26/10/07 | 01_projects.csv |
 
 ### A2. Brief summary
 

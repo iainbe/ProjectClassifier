@@ -19,7 +19,7 @@
 | `contract_value` | NOT_ESTABLISHED | — |
 | `contracting_role` | LEAD_CONSULTANT — contracting role NOT_ESTABLISHED | 01_projects.csv |
 | `geography` | London | 01_projects.csv |
-| `lifecycle_status` | COMPLETE_NOT_CLOSED | 01_projects.csv |
+| `lifecycle_status` | IN_PROGRESS — register 26/10/07 | 01_projects.csv |
 
 ### A2. Brief summary
 

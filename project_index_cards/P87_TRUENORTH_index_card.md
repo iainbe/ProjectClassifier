@@ -1,6 +1,6 @@
-# P87-TRUENORTH — Project Index Card (PROVISIONAL)
+# P87-TRUENORTH — Project Index Card (PROVISIONAL — re-keyed 26/10/07)
 
-**Card status:** PROVISIONAL — drafted 26/09/12 from reviewed register records; awaiting Iain walkthrough.
+**Card status:** PROVISIONAL — rewritten 26/10/07 after the Lancaster re-key; awaiting Iain walkthrough.
 
 ---
 
@@ -13,80 +13,51 @@
 | `project_id` | P87-TRUENORTH | 01_projects.csv |
 | `project_name` | True North CICP2 bid support (Lancaster) | 01_projects.csv |
 | `client` | Lancaster University | 01_projects.csv |
-| `reference_permission` | NOT_ESTABLISHED | — |
-| `commission_date` | 26/06 | 01_projects.csv |
-| `completion_date` |  | 01_projects.csv |
-| `contract_value` | £1,499.70 (INV-1357, paid) | SRC-R5-001 |
-| `contracting_role` | DIRECT — paid engagement (INV-1357, £1,499.70, paid 26/05/08) | SRC-R5-001 |
+| `reference_permission` | NOT_ESTABLISHED | PR-06 |
+| `commission_date` | 26/06 (PO dated 25/06/26) | SRC-R5 PO 500222361 |
+| `completion_date` | 26/08/20 | Iain 26/10/07 |
+| `contract_value` | GBP 9,999 incl VAT (PO 500222361, confirmed VAT-inclusive by Iain 26/10/07); about GBP 8,333 ex VAT (8,332.50 at 20%) | PO 500222361; Iain |
+| `contracting_role` | DIRECT - Lancaster University purchase order to The Fifth Sector Ltd | PO 500222361 |
 | `geography` | Lancaster | 01_projects.csv |
-| `lifecycle_status` | LIVE_BID | 01_projects.csv |
+| `lifecycle_status` | COMPLETED (programme outcome NOT_AWARDED) | register |
 
 ### A2. Brief summary
 
 | Field | Value | Source |
 |---|---|---|
-| `brief_summary` | Paid bid-support engagement for Lancaster's True North CICP2 bid (APP114872 "True North: Future Landscapes") — stakeholder workshop (INV-1357 £1,499.70) plus Foresight proposal, Letters of Commitment, match-funding and partner-status analysis. **AHRC full application submitted; panel assessment week of 14/09/26; outcome expected week of 28/09/26; interviews 21-22 Oct at Steamhouse Birmingham** (Year 1 Business Plan + one-minute video elevator pitch required). Separated from P75 (Places evidence) and P76 (Horizon) per Iain 26/09/12. | SRC-R5-001; SRC-R5-161; 01_projects.csv |
-| `key_deliverables` | Stakeholder workshop + Foresight proposal + Letters of Commitment + match-funding analysis | SRC-R5-001; folder docs |
+| `brief_summary` | Bid support for Lancaster University's AHRC CICP2 full application APP114872 "True North: Future Landscapes": specialist cluster mapping and evidence development support, Foresight proposal, letters of commitment, match-funding and partner-status analyses. Delivered June to 20 August 2026. The client's application did not progress past panel assessment (not shortlisted, Iain 26/10/07). | register; Iain |
+| `key_deliverables` | Cluster mapping and evidence support; Foresight proposal; letters of commitment; match-funding and partner-status analyses | register notes |
 | `client_objective` | Support True North CICP2 bid development | 01_projects.csv |
-| `scope_boundary` | Bid support: workshop, proposal, commitment letters, match funding | 01_projects.csv |
+| `scope_boundary` | Bid support only; Lancaster owns the bid and its outcome | rules |
 
-### A3. Key findings (client-facing)
+### A3. Key findings
 
 | Field | Value | Source |
 |---|---|---|
-| `headline_finding` | AHRC CICP2 full application submitted (APP114872); panel assessment week of 14/09; outcome expected week of 28/09; if shortlisted, interviews 21-22 Oct at Steamhouse Birmingham | SRC-R5-161 |
-| `key_findings` | (1) £1,499.70 workshop paid 26/05/08 (INV-1357); (2) Full application submitted — APP114872 "True North: Future Landscapes"; (3) Panel assessment week of 14/09/26; (4) Outcome expected week of 28/09/26; (5) Interviews 21-22 Oct — Year 1 Business Plan + video elevator pitch required; (6) Up to 8 representatives; BEYOND 2026 announcement for successful clusters | SRC-R5-001; SRC-R5-161 |
-| `quantified_results` | £1,499.70 paid | SRC-R5-001 |
-| `client_decision_use` | CICP2 bid pending — LIVE | Derived |
-| `evidence_strength` | MEDIUM — payment evidenced; bid incomplete | Derived |
+| `headline_finding` | Bid support delivered for Lancaster's CICP2 application (APP114872); the application was not shortlisted | C-R4-001; Iain |
+| `key_findings` | (1) Application APP114872 submitted; panel assessment week of 14/09/26; (2) not shortlisted, so no interview stage; (3) delivered at the same size as the University of South Wales AMGEN bid (about GBP 8,333 ex VAT, GBP 9,999-10,000 incl VAT) | SRC-R5-161; Iain |
+| `client_decision_use` | CICP2 application support | Derived |
+| `evidence_strength` | LOW - two claims only (context and an expired interview option) | 04_claims.csv |
 
 ### A4. Permitted use
 
 | Field | Value | Source |
 |---|---|---|
-| `citation_status` | LIVE_WORK — bid in progress | — |
-| `reference_permission` | NOT_ESTABLISHED | — |
-| `reference_status` | NOT_CLEARED | — |
+| `citation_status` | DELIVERED_WORK - bid support delivered; never cite as funded cluster work | Iain 26/10/07 |
+| `reference_permission` | NOT_ESTABLISHED | PR-06 |
+| `reference_status` | NOT_CLEARED | - |
 
 ---
 
 ## B. Inward-facing side
 
-### B1. Methodological significance
-
 | Field | Value | Source |
 |---|---|---|
-| `methods_used` | Bid support: stakeholder workshop, Foresight platform proposal, commitment/match-funding analysis | 03_methods.csv |
-| `method_innovation` | Match-funding and partner-status analysis as bid-support product | Derived |
-| `spillover_types_identified` | OPTION — CICP2 bid is live strategic option (state: LIVE/PENDING) | 04_claims.csv |
-| `option_analysis` | Live — outcome pending; do not treat as awarded | 04_claims.csv |
-| `causal_analysis` | DESCRIPTIVE | 04_claims.csv |
-| `measurement_approach` | Engagement documentation | Derived |
-
-### B2. Repeatability and transferability
-
-| Field | Value | Source |
-|---|---|---|
-| `repeatability` | HIGH — bid-support product repeatable | Derived |
-| `data_dependencies` | Remittance; proposal docs | Derived |
-| `reuse_examples` | Third Lancaster engagement (P75 Places evidence, P76 Horizon, P87 True North) — PR-06 bundle ask covers | Derived |
-
-### B3. Tender relevance
-
-| Field | Value | Source |
-|---|---|---|
-| `tender_relevance_tags` | cicp2, bid-support, foresight, lancaster, live | Derived |
-| `buyer_types` | Universities, research consortia | Derived |
-| `precedent_strength` | NOT_CLEARED — live bid; cite only if outcome known | Derived |
-| `precedent_caveats` | Live work — never cite as delivered outcome; remittance date anomaly noted (payment before invoice date) | Derived |
-| `positioning_notes` | If won: strong consortium-bid precedent. Track outcome. | Derived |
-
-### B4. Quality and review status
-
-| Field | Value | Source |
-|---|---|---|
-| `card_status` | PROVISIONAL | 26/09/12 |
-| `last_reviewed` | 26/09/12 | — |
-| `reviewed_by` | Devin (draft); Iain pending | — |
-| `source_claims` | none yet registered | 04_claims.csv |
-| `unresolved_issues` | Bid outcome (week of 28/09); interview prep (Business Plan + video pitch); full engagement value beyond workshop; remittance date anomaly; folder moved from Archive to Active | SRC-R5-161 |
+| `methods_used` | Cluster mapping and evidence development; Foresight proposal; commitment and match-funding analysis | register |
+| `spillover_types_identified` | OPTION - the interview option (C-R4-002) is EXPIRED; no realised spillover recorded | 04_claims.csv |
+| `option_analysis` | Interview option lapsed because the application was not shortlisted | C-R4-002 |
+| `precedent_strength` | MODERATE - delivered paid bid support at the same scale as AMGEN; programme outcome negative | Derived |
+| `precedent_caveats` | Cite as delivered bid support, not as funded work; the older note that the GBP 1,499.70 workshop payment belonged here was wrong (it belongs to P75-LANC) | rules |
+| `comparable_tenders` | P85-AMGEN (shortlisted); P75-LANC (earlier workshop) | register |
+| `card_status` | PROVISIONAL | 26/10/07 |
+| `unresolved_issues` | Exact fee invoices not read (PO total confirmed VAT-inclusive); only two claims registered | Derived |

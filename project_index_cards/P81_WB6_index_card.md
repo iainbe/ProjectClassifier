@@ -77,7 +77,7 @@
 | `data_dependencies` | LinkedIn skills data, ESCO taxonomy, national statistics offices (ARBK Kosovo, ASKdata Albania), Eurostat SBS where available, Serbian Games Association comparator | data notes |
 | `access_requirements` | BC relationship; country statistics offices; Lightcast/LinkedIn Economic Graph (Phase 2 negotiation) | client note |
 | `effort_estimate` | Phase 1: 6-8 weeks / £5k | client note |
-| `reuse_examples` | Directly comparable to P83 CEC programme (Practitioner Panel, VET framework) and P85/P75 AHRC evidence work (Places); feeds Places WB6 dataset | Derived |
+| `reuse_examples` | Directly comparable to P83 CEC programme (Practitioner Panel, VET framework) and P85/P87 AHRC evidence work (Places); feeds Places WB6 dataset | Derived |
 
 ### B3. Tender relevance
 

@@ -1,5 +1,7 @@
 # Case-study selection scheme — decision state
 
+> **Correction 26/10/07 (Lancaster re-key):** in this document P75-LANC ("delivery evidence") is the December 2025 Lancaster AHRC CIC workshop and summary report (GBP 1,499.70), and the True North bid support is P87-TRUENORTH (delivered June to August 2026, GBP 8,333 + VAT, client application not shortlisted). P87 was a delivered commission with a failed programme outcome, not a failed bid. This document is superseded in part by `ontology_v2_DRAFT.md`.
+
 **Status: PROPOSED, awaiting Iain's encoding decision. Nothing implemented.**
 **Date:** 26/10/07
 

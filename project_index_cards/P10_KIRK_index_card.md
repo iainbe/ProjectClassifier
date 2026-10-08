@@ -24,7 +24,7 @@
 | `prime_contractor` | The Fifth Sector | 01_projects.csv |
 | `geography` | Kirklees (Huddersfield, Dewsbury, Holmfirth, Cleckheaton etc.) | report |
 | `sector_focus` | Creative industries mapping + economic impact assessment | reports |
-| `lifecycle_status` | COMPLETED for 2022/2024 cycles; 2026 report submitted pending acceptance | 01_projects.csv + Iain confirmation |
+| `lifecycle_status` | IN_PROGRESS — register 26/10/07 | 01_projects.csv + Iain confirmation |
 
 ### A2. Brief summary
 

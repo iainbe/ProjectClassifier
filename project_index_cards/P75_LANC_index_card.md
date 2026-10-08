@@ -1,8 +1,8 @@
-# P75-LANC — Project Index Card (DRAFT — pending Iain review)
+# P75-LANC — Project Index Card (PROVISIONAL — re-keyed 26/10/07)
 
-**Project:** Lancaster University — Nature-Culture Tech Creative Cluster evidence commission
-**Status:** COMPLETED — summary report delivered 25/12; paid commission
-**Card created:** 26/09/12 (register-extension batch B2); reclassified 26/10/07
+**Project:** Lancaster AHRC CIC workshop and summary report (December 2025)
+**Status:** COMPLETED — exploratory stakeholder workshop and Nature-Culture Tech Creative Cluster summary report (v2) delivered December 2025; paid (late) in May 2026
+**Card rewritten:** 26/10/07 after the Lancaster re-key. The True North bid support that followed is P87-TRUENORTH
 
 ## A. Client-facing side
 
@@ -11,51 +11,50 @@
 | Field | Value | Source |
 |---|---|---|
 | `project_id` | P75-LANC | 01_projects.csv |
-| `project_name` | Nature-Culture Tech Creative Cluster — evidence commission | register |
+| `project_name` | Lancaster AHRC CIC workshop and summary report | 01_projects.csv |
 | `client` | Lancaster University | register |
-| `contracting_role` | PRIME — direct commission from Lancaster University | Iain 26/09/12 |
-| `commission_date` | 25/12 | register |
-| `contract_value` | <£5,000 — fee confirmed by Iain 26/10/07. Earlier £10k proposal figure and £1,499.70 remittance resolved elsewhere: £1,499.70 = P87-TRUENORTH workshop (INV-1357); £10k proposal belongs to the bid-side narrative, not this delivered report | Iain 26/10/07 |
+| `contracting_role` | DIRECT — Lancaster University paid The Fifth Sector Ltd directly | SRC-R5-001 |
+| `commission_date` | 25/12 | Iain 26/10/07 |
+| `completion_date` | 25/12 | Iain 26/10/07 |
+| `contract_value` | GBP 1,499.70 (INV-1357 dated 09/02/26, paid by BACS 08/05/26; late payment; VAT treatment not recorded) | SRC-R5-001 |
 | `geography` | Lancaster / North | register |
-| `sector_focus` | Nature-Culture-Tech creative cluster | report |
-| `lifecycle_status` | COMPLETED — delivered paid commission | Iain 26/10/07 |
-| `folder` | `Active projects/2026 Lancaster True North CICP2 bid` | register |
+| `sector_focus` | Nature-Culture-Tech creative cluster | register |
+| `lifecycle_status` | COMPLETED | register |
+| `folder` | `Archive projects/2025 Projects/2025 Lancaster AHRC CIC` | register |
 
 ### A2. Brief summary
 
 | Field | Value | Source |
 |---|---|---|
-| `brief_summary` | Places methodology evidence work for Lancaster University — Nature-Culture Tech Creative Cluster summary report v2, later used as evidence base inside the True North CICP2 application (P87-TRUENORTH). Delivered commission in its own right, distinct from the bid-support engagement. Includes MusicFutures Roundtable 2025 (placemaking through music ecosystems, Liverpool) as programme evidence. | register + C-G2-270-271 |
-| `key_deliverables` | Nature-Culture Tech Creative Cluster summary report v2 | SRC-G2-074 |
-| `client_objective` | Evidence base for Lancaster's creative cluster positioning; subsequently fed the CICP2 application | application |
+| `brief_summary` | Exploratory stakeholder workshop and Nature-Culture Tech Creative Cluster summary report (v2) for Lancaster University, December 2025, before the True North CICP2 bid support began. The later engagement is P87-TRUENORTH. | Iain 26/10/07 |
+| `key_deliverables` | Stakeholder workshop; Nature-Culture Tech Creative Cluster summary report v2 | C-G2-270 |
+| `client_objective` | Evidence base for Lancaster's creative cluster positioning ahead of the AHRC CICP2 application | register |
 
 ### A3. Key findings
 
 | Field | Value | Source |
 |---|---|---|
-| `headline_finding` | Nature-Culture Tech cluster evidence report delivered to Lancaster University; reused as evidence base in the True North CICP2 application | register |
-| `key_findings` | (1) Summary report v2 delivered and paid (<£5k); (2) MusicFutures Roundtable 2025 (placemaking/music ecosystems, Liverpool) included as programme evidence; (3) work reused downstream in P87-TRUENORTH application — application not shortlisted, commission itself complete and delivered | C-G2-270-271 + Iain 26/10/07 |
-| `client_decision_use` | Cluster positioning evidence; input to CICP2 application | application |
+| `headline_finding` | Workshop and cluster summary report delivered to Lancaster University, December 2025, ahead of its CICP2 application | C-G2-270 |
+| `key_findings` | (1) Summary report v2 prepared for the AHRC CIC programme (context claim only); (2) fee GBP 1,499.70; (3) the MusicFutures roundtable claim has moved to P89-LIVMUSLAB | C-G2-270 |
+| `client_decision_use` | Cluster positioning evidence; preceded the CICP2 application | register |
+| `evidence_strength` | LOW - one context claim; the report file is not yet registered as a canonical source | VAL-S261007-19 |
 
 ### A4. Permitted use
 
 | Field | Value | Source |
 |---|---|---|
-| `citation_status` | DELIVERED_WORK — completed paid commission, citable as delivered work | Iain 26/10/07 |
-| `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
-| `permitted_wording` | "Places evidence report delivered for Lancaster University's Nature-Culture Tech creative cluster; evidence reused in the university's AHRC CICP2 application" — cite as delivered commission, NOT as funded cluster work | Derived |
+| `citation_status` | DELIVERED_WORK - completed paid work | register |
+| `reference_permission` | NOT_ESTABLISHED - client not yet asked | 11_permission_requests.csv PR-06 |
+| `permitted_wording` | "Exploratory stakeholder workshop and cluster evidence summary report for Lancaster University's creative cluster work (December 2025)" - cite as delivered work, not as funded cluster work | Derived |
 
 ## B. Inward-facing side
 
 | Field | Value | Source |
 |---|---|---|
-| `methods_used` | Places evidence methodology (ecosystem mapping, cluster evidence base) | register |
-| `method_innovation` | Part of the P85-AMGEN pattern — Places as a reusable evidence product for university cluster bids; AMGEN's CICP2 shortlisting (26/10/07) validates the method even where a sibling bid did not progress | Derived |
-| `spillover_types_identified` | Evidence reuse — commissioned report carried into a national programme application | Derived |
-| `option_state` | The downstream CICP2 funding option (via P87) EXPIRED — application not shortlisted; the commission itself is delivered work | rules |
-| `precedent_strength` | MODERATE — small delivered commission; useful as current-method evidence, weak on scale | Derived |
-| `precedent_caveats` | Do not cite as funded cluster; Places is the product, the university owns any bid; fee is sub-£5k — position as method evidence, not headline engagement | rules |
-| `tender_relevance_tags` | AHRC-CICP2, Places, university-evidence, cluster-bid, evidence-commission | Derived |
-| `comparable_tenders` | P85-AMGEN (same pattern, shortlisted); P87-TRUENORTH (downstream bid, not shortlisted) | register |
-| `card_status` | DRAFT — pending Iain walkthrough | 26/09/12 |
-| `unresolved_issues` | (1) whether summary report v2 is registerable as canonical source; (2) reference_permission ask open | Derived |
+| `methods_used` | Places evidence methodology (cluster evidence base), stakeholder workshop | register |
+| `spillover_types_identified` | Evidence reuse - workshop and report fed the True North CICP2 application (Iain) | Derived |
+| `precedent_strength` | MODERATE - small delivered commission; useful as method evidence, weak on scale | Derived |
+| `precedent_caveats` | Do not cite as funded cluster work; fee sub-GBP 5k; the programme outcome belongs to P87-TRUENORTH | rules |
+| `comparable_tenders` | P85-AMGEN (same pattern, shortlisted); P87-TRUENORTH (the later bid support, not shortlisted) | register |
+| `card_status` | PROVISIONAL - pending Iain walkthrough | 26/10/07 |
+| `unresolved_issues` | (1) report not registered as a canonical source; (2) exact workshop date and VAT treatment of INV-1357 (VAL-S261007-18) | VAL-S261007-18/19 |

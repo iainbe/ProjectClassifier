@@ -141,3 +141,6 @@ Compare the 2026 report production process against the 2022 and 2024 cycles:
 - **Contract value:** £10,000 per cycle ×3 = £30,000 (Iain). 2026 cycle submitted pending acceptance.
 - **Register repair:** row realigned (contracting_role=PRIME, prime_contractor=The Fifth Sector).
 - **Status:** Index card REVIEWED; APPROVED_NAMED for tender citation.
+
+## 26/10/07 — register edits (decisions 3 and 4)
+- lifecycle ONGOING -> IN_PROGRESS. Phase rows for the delivered 2022 and 2024 cycles not yet created (VAL-S261007-11).

@@ -108,3 +108,6 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 - **Register repair:** contracting_role=ADVISORY, prime_contractor=NOT_APPLICABLE.
 - **Card corrections:** £75.6m clarified as national programme total (Manchester bid was for a share); Create Growth date discrepancy (2023-26 vs 2022-2025) preserved as source inconsistency.
 - **Status:** Index card REVIEWED.
+
+## 26/10/07 — register edits (decisions 3 and 4)
+- programme_status NOT_AWARDED recorded (bid not successful, Iain 26/09/09); lifecycle COMPLETED unchanged. Design claim C-R3-021 set to EXPIRED under extended QA check 7.

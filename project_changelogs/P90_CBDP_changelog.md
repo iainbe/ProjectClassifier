@@ -1,4 +1,4 @@
-# P88-CBDP changelog
+# P90-CBDP changelog
 
 ## 26/10/08 — record created
 
@@ -12,3 +12,7 @@
 - Fee: £500.
 - Lifecycle → IN_PROGRESS: 6 further sessions booked for 2026 (two batches of 3 workshops). citation_status → LIVE_WORK.
 - Prior relationship evidence: bid-level collaboration with Curated Place (CS Culture Collective evaluation partnership proposal, 26/08, not awarded).
+
+## 26/10/08 — renumbered
+
+- Renumbered from P88-CBDP to P90-CBDP (Iain): the number 88 belongs to P88-LCRPF24 (LCR Production Fund Final Evaluation). Earlier entries in the main logs that say P88-CBDP refer to this project.

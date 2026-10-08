@@ -26,7 +26,7 @@
 | Field | Value | Source |
 |---|---|---|
 | `brief_summary` | Heritage CPD scoping exercise for UoL — IDEAR methodology (Inception, Discovery, Engagement, Analysis, Realisation), module-based CPD offer design, market mapping and competitor benchmarking. | SRC-G2-061/062; 01_projects.csv |
-| `key_deliverables` | (1) CPD Scoping Proposal; (2) Research Summary Presentation | 02_sources.csv |
+| `key_deliverables` | (1) CPD Scoping Proposal; (2) Final report "University of Liverpool Heritage CPD research" (Nov 2023; SRC-G2-062, label corrected 26/10/08) | 02_sources.csv |
 | `client_objective` | Scope a Heritage CPD offer for UoL | 01_projects.csv |
 | `scope_boundary` | CPD scoping; market mapping; competitor benchmarking | SRC-G2-061 |
 
@@ -38,7 +38,7 @@
 | `key_findings` | (1) IDEAR five-phase scoping methodology; (2) module-based CPD offer proposed with market mapping + competitor benchmarking; (3) £19,755 incl VAT (27.25 days) — documented pricing | C-G2-243..246 |
 | `quantified_results` | £19,755 incl VAT; 27.25 days | C-G2-245 |
 | `client_decision_use` | Scoping exercise delivered; CPD programme launch NOT_ESTABLISHED | Derived |
-| `evidence_strength` | MEDIUM — proposal + research summary documented | Derived |
+| `evidence_strength` | MEDIUM — proposal and final report (16/11/23) documented; feasibility and strategy report with no measured outcomes; client acceptance and take-up of recommendations unconfirmed | Derived |
 
 ### A4. Permitted use
 

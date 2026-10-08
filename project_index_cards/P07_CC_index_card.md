@@ -18,12 +18,12 @@
 | `reference_permission` | NOT_ESTABLISHED | permission_status |
 | `commission_date` | ~20/08 (proposal 20/08/17) | file system metadata |
 | `completion_date` | 20/09/14 (inception note) | canonical version record |
-| `contract_value` | NOT_ESTABLISHED | 06_measurements.csv |
+| `contract_value` | NOT_ESTABLISHED — quoted GBP 7,200 + VAT (proposal 17/08/20); acceptance and payment not evidenced | 06_measurements.csv |
 | `contracting_role` | ADVISORY — bid support to MMU for SIPF application; not a consortium member | Iain confirmation |
 | `prime_contractor` | NOT_APPLICABLE — Fifth Sector as bid support provider | — |
 | `geography` | Greater Manchester city region | SRC-R2-08 |
 | `sector_focus` | Digital/creative initiative (Creative City+) — cross-sector creative, retail, eCommerce | SRC-R2-08 |
-| `lifecycle_status` | SHORTLISTED_NOT_AWARDED — SIPF application shortlisted; not awarded; project did not proceed (Iain confirmed 26/09/12) | 01_projects.csv + Iain confirmation |
+| `lifecycle_status` | COMPLETED (programme NOT_AWARDED) — register 26/10/07 | 01_projects.csv + Iain confirmation |
 
 ### A2. Brief summary
 

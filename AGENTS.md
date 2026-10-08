@@ -16,8 +16,8 @@ Before assigning a claim or source to a project:
 
 These geographies have multiple distinct projects that must not be conflated:
 
-- **Derby**: P35-DERBYMAP (2021 Masterplan), P23-DERBY (2022 Screen Agency), P36-DERBYCSR (2026 bid, unsuccessful)
-- **Liverpool**: P08-LIVDCI, P15-LIVMUS, P19-LCRIMM, P22-LCRFILM, P33-LCRMUS
+- **Derby**: P35-DERBYMAP (2021 Masterplan), P23-DERBY (2022 Screen Agency), T05-DERBY (2026 Culture Strategic Review bid, unsuccessful; tender record only, project row retired 26/10/07)
+- **Liverpool**: P08-LIVDCI, P15-LIVMUS, P19-LCRIMM, P22-LCRFILM (2021 interim evaluation), P33-LCRMUS, P88-LCRPF24 (2024-25 final evaluation), P89-LIVMUSLAB (2025-26 Music Lab, Liverpool City Council)
 - **Kirklees**: P10-KIRK (2022-2026 cycles), P12-KIRK15 (2015)
 - **South Yorkshire**: P20-SYMCA21, P24-SYMCACGP
 - **Wakefield**: P27-WAKECDF, P31-PRODPARK
@@ -89,10 +89,10 @@ For work done by Iain as BOP Associate Director:
 
 ### Unsuccessful bids
 
-- Set `lifecycle_status=NOT_AWARDED` at project level
+- Our own unsuccessful bids are tender-only (`08_tenders.csv`) and have no project row. For a paid bid-support commission that was delivered while the bid failed, `lifecycle_status` describes the commission itself and `programme_status=NOT_AWARDED` records the bid outcome (Iain 26/10/07). Where a project row still carries `lifecycle_status=NOT_AWARDED`, the rules below apply to it as well
 - Set `option_state=EXPIRED` on ALL DESIGN and OPTION claims for that project (not just OPTION effect_family)
 - Do not treat unsuccessful bids as live strategic options
-- Check: any DESIGN claim where `project_id` has `lifecycle_status=NOT_AWARDED` must have `option_state=EXPIRED`
+- Check: any DESIGN claim where `project_id` has `lifecycle_status=NOT_AWARDED` or `programme_status=NOT_AWARDED` must have `option_state=EXPIRED`
 
 ## Forecast vs realised outcome rule
 
@@ -149,6 +149,8 @@ Rules:
 - Client-supplied data (e.g. LFO Filming Activity Reports) is cited as client data incorporated into our evaluation, not as our measurement
 - Contribution claims (subcontractor/associate work) must name the contracting structure — never imply Fifth Sector ownership of a consortium or prime's deliverable
 - Figures and method labels must match the canonical document's own language; bid-level characterisations (e.g. "Green Book-compatible") are flagged as characterisations unless the document uses them
+- Citing delivered work in a tender needs no client permission unless a contract clause, NDA or client instruction restricts citation (Iain 26/10/07). Permission IS needed to name a client as a referee, to reproduce client-identifying content on the website, and to reuse client data
+- `reference_permission` is recorded only in `11_permission_requests.csv` (status ESTABLISHED on a NAMED_REFEREE request). Project records, cards and `project_index.csv` derive it from there. Request statuses: DRAFTED, SENT, ESTABLISHED, DECLINED, CAPPED, NOT_REQUIRED (no restriction marker recorded), INTERNAL_CHECK (a wording or identity check, not a client ask). Each live request has an owner and a reminder after five working days; nothing is sent without Iain's approval
 
 ## Extraction rules (26/09/12)
 
@@ -191,6 +193,19 @@ Before writing positioning conclusions, CAN questions or submission content for 
 4. **Record** the review in `tier2_qa_review.md` and `10_review_history.csv`; material findings go into the tender's `notes` field.
 5. Team source of truth: `Active projects/Skills prompts/foresight-agent-files-*/skills/` — re-sync `.devin/skills/` if those source files change.
 
+## Review-team protocol for method, schema and taxonomy changes (26/10/07)
+
+Any change to the ontology, claim taxonomy, register schema, selection or weighting method, or to this file is reviewed by the same lane team before adoption — not only tenders.
+
+1. **Run the full set**: `sark` / `load-the-team`, `blindspot`, `deepthink`, `sheldon`, `wishful`, `thad`, `shaz`, `skin`, `fok`; add `grey` where buyer or competitor intelligence is involved. If a lane is skipped, the review record names it and says why. A review that silently runs a subset is incomplete.
+2. **All lanes are ADVISORY.** No lane may block or stop work, including `thad`. Each returns FIX-NEEDED items (diagnosis, concrete fix, owner, effort, evidence that it is fixed) and, if useful, a readiness label (READY / READY-WITH-FIXES / NEEDS-MORE-WORK). The user decides.
+3. **Test for generality**: run against all available tenders and projects, and against at least two hypothetical future cases of a different shape. A design fitted to one worked example or one tender is not reviewed.
+4. **Analysis before commit**: present the combined analysis to the user before committing the change. Each fix item is a separate, revertible commit.
+5. **Record** the review in `tier2_qa_review.md` and `10_review_history.csv`.
+6. **Test strength (standing rule, Iain 26/10/07)**: no existing test, gate, check or QA item may be weakened, relaxed, narrowed, made "not applicable" or time-boxed without the user's explicit permission. A lane, agent or proposal that suggests it must present it as a separate decision for the user; the default is that the test stays as strong as it is.
+
+The tender review protocol above also applies its lanes in advisory mode.
+
 ## QA verification checklist
 
 Before completing any QA batch, run ALL of these checks:
@@ -201,7 +216,7 @@ Before completing any QA batch, run ALL of these checks:
 4. **OPTION claims without option_state**: all claims with `effect_family=OPTION` must have `option_state`
 5. **Empty effect_family**: no claims with empty `effect_family`
 6. **Empty fifth_sector_role**: no claims with empty `fifth_sector_role`
-7. **DESIGN claims for unsuccessful bids**: if `project_id` has `lifecycle_status=NOT_AWARDED`, `option_state` must be `EXPIRED`
+7. **DESIGN claims for unsuccessful bids**: if `project_id` has `lifecycle_status=NOT_AWARDED` or `programme_status=NOT_AWARDED`, `option_state` must be `EXPIRED`
 8. **EFFECT claims without attribution_strength**: all EFFECT claims must have `attribution_strength`
 9. **Claims with £ figures but empty value_basis**: all claims with `£[\d.]+` in proposition must have `value_basis`
 10. **Sector baselines mislabelled as METHOD_OUTPUT**: scan METHOD_OUTPUT claims for baseline patterns (GVA, employment, turnover, LQ, company count) and verify they are genuine method outputs
@@ -227,7 +242,7 @@ At each milestone mention: append a Milestone section to the PM record. Ask the 
 Before ANY CSV edit: verify field count AND positional semantics against the header. Right column count ≠ right values — check 2-3 existing rows first. (Pass 4 repair lesson.)
 
 ### Stale-artefact rule
-After card or register changes: regenerate `project_index.csv`.
+After card or register changes: regenerate `project_index.csv`. After any change to the register, claims, methods or permission file, also run `python3 tools/eligibility_report.py` to regenerate `eligibility_report.csv` and `eligibility_report.md`.
 
 ### Repo sync
 Canonical = this Drive folder. `ProjectClassifier/` repo is the versioned mirror — sync after register-changing sessions, commit with the trigger named, and **push to `origin/main` (github.com/iainbe/ProjectClassifier) at the end of every register-changing session** so the remote mirror stays current (Iain instruction 26/10/07 — replaces the earlier push-only-when-asked rule).
