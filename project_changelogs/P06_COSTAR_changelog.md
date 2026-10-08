@@ -115,3 +115,7 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 ## 26/10/08 — claims restored
 
 - 10 claims restored to `04_claims.csv` (they were deleted in commit eb2674d on 26/09/16; recovered from commit 4a92a71). See `claims_restore_RECORD.csv`. Counts of coded claims, and so evidence-kind counts for this project, rise accordingly.
+
+## 26/10/08 — design claims expired
+
+- C-G2-440, 443, 446, 447 set to option_state EXPIRED (bid not awarded; AGENTS.md rule). Check E3 now PASS.
