@@ -56,7 +56,7 @@ P70,Wakefield CCI Skills Needs Assessment,Wakefield Council,COMPLETED,UNKNOWN,PA
 P73,City St George's SCCI,City St George's University,IN_PROGRESS,FAIL,PASS,PASS,UNKNOWN,UNKNOWN,0,0,0,0,6,1,0,,no basis recorded,,NOT_ESTABLISHED,NO
 P75-LANC,Lancaster AHRC CIC workshop and summary report,Lancaster University,COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,PASS,0,0,0,0,0,1,0,,no basis recorded,DOCUMENT,NOT_ESTABLISHED,NO
 P76,Lancaster Uni Horizon Bid (Virtual Agora),Lancaster University,COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,PASS,0,0,0,0,8,0,0,,no basis recorded,DOCUMENT,NOT_ESTABLISHED,NO
-P78-BEATLES,Beatles Visitor Impact Study,Beatles Legacy Group (unconstituted) — funded via Liverpool BID,COMPLETED,PASS,PASS,PASS,UNKNOWN,PASS,3,0,0,0,1,6,0,VERBAL_CLIENT,no basis recorded,no basis recorded,NOT_ESTABLISHED,NO
+P78-BEATLES,Beatles Visitor Impact Study,Beatles Legacy Group (unconstituted) — funded via Liverpool BID,COMPLETED,PASS,PASS,PASS,PASS,PASS,3,0,0,0,1,6,0,VERBAL_CLIENT,no basis recorded,no basis recorded,NOT_ESTABLISHED,YES
 P79-CELL,CELL,CELL,IN_PROGRESS,FAIL,PASS,PASS,UNKNOWN,UNKNOWN,0,0,0,0,0,0,0,,no basis recorded,,NOT_ESTABLISHED,NO
 P80,Southampton Forward Strategic Review,Southampton Forward,IN_PROGRESS,FAIL,FAIL,PASS,UNKNOWN,UNKNOWN,0,0,0,0,0,0,0,,,,NOT_ESTABLISHED,NO
 P81-WB6,WB6 Creative Economy Pulse,British Council,IN_PROGRESS,FAIL,FAIL,PASS,UNKNOWN,UNKNOWN,0,0,0,0,0,0,0,,,,NOT_ESTABLISHED,NO
@@ -66,6 +66,6 @@ P84,Herefordshire Culture Strategy,Herefordshire Cultural Partnership,COMPLETED,
 P85-AMGEN,AMGEN AHRC Creative Industries Cluster Programme Bid (University of South Wales),University of South Wales (bid lead),COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,PASS,0,0,0,0,0,0,0,,no basis recorded,no basis recorded,NOT_ESTABLISHED,NO
 P86-CSSAL,Creative Scotland Salary Benchmarking Framework,Creative Scotland,IN_PROGRESS,FAIL,FAIL,PASS,UNKNOWN,PASS,0,0,0,0,0,0,0,,,IAIN_STATEMENT,NOT_ESTABLISHED,NO
 P87-TRUENORTH,True North CICP2 bid support (Lancaster),Lancaster University,COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,PASS,0,0,0,0,1,1,0,,no basis recorded,no basis recorded,NOT_ESTABLISHED,NO
-P88-LCRPF24,LCR Production Fund Final Evaluation (2024-25),Liverpool City Region Combined Authority,COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,UNKNOWN,7,0,5,0,2,3,0,,no basis recorded,,NOT_ESTABLISHED,NO
+P88-LCRPF24,LCR Production Fund Final Evaluation (2024-25),Liverpool City Region Combined Authority,COMPLETED,UNKNOWN,PASS,PASS,PASS,UNKNOWN,7,0,5,0,2,3,0,,no basis recorded,,NOT_ESTABLISHED,NO
 P89-LIVMUSLAB,Liverpool Music Lab Feasibility Study,Liverpool City Council,COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,PASS,0,0,0,0,0,1,0,,no basis recorded,DOCUMENT,NOT_ESTABLISHED,NO
 P90-CBDP,Creative Scotland Cultural Business Development Programme (Curated Place faculty),Curated Place,IN_PROGRESS,FAIL,UNKNOWN,PASS,UNKNOWN,PASS,0,0,0,0,0,0,0,,,no basis recorded,NOT_ESTABLISHED,NO

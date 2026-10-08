@@ -661,3 +661,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - Repaired the one-column shift on 19 rows of `03_methods.csv` (M-G2-010 to M-G2-028) by script: empty `outputs` inserted, remaining fields moved right. Before applying, each row was asserted to match the exact shifted pattern; after, every row passes a semantic check (source IDs, claim IDs, review status, date). Diff shows only those 19 rows. All method source IDs now resolve in `02_sources.csv`. The method package was lane-reviewed (eight lanes, none blocking); this is item 1 of the agreed order, its own commit.
 - The foreign-key check found 20 claim IDs on method rows that do not exist in `04_claims.csv` (pre-existing; VAL-S261008-09).
+
+## Session 12t (26/10/08): two method rows registered (method package item 2)
+
+- Registered M-S261008-01 (Beatles attribution bridge, P78-BEATLES) and M-S261008-02 (Production Fund final evaluation, P88-LCRPF24) in `03_methods.csv`; their claim and source IDs were checked to exist. The draft file was removed. P88's contracting role is still not evidenced (VAL-S261007-01), noted on the row; the method view flags statements built on it.
