@@ -7,3 +7,7 @@
 ## 26/10/08 — Bid outcome recorded
 
 - `programme_status`=NOT_AWARDED on Iain's statement (lifecycle_status stays COMPLETED: paid bid-support commission delivered, bid unsuccessful). C-G2-228..231 (DESIGN) set `option_state`=EXPIRED. Stage reached, notification type and any buyer scores not yet recorded.
+
+## 26/10/08 — Contracting role recorded
+
+- `contracting_role`=PRIME, `prime_contractor`=The Fifth Sector on Iain's statement (all The Fifth Sector as prime). Contract not checked.

@@ -785,3 +785,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13s (26/10/08): P51 contracting role
 
 - P51 (South Yorkshire Additional Restrictions Grant Evaluation) set to DIRECT, prime The Fifth Sector, on Iain's confirmation. Card line updated. Tender and contract references come from the Drive copy of the card; the award letter itself has not been seen by this session. Seven contracting roles remain empty.
+
+## Session 13t (26/10/08): remaining contracting roles
+
+- P43, P45, P46, P54, P63, P84: PRIME, The Fifth Sector (Iain). P50 UKRI Liverpool Visit: DIRECT, direct commission from AHRC, prime The Fifth Sector (client field left as UKRI, noted). Contracts not checked. Only P88-LCRPF24 completed-project contracting role remains empty (no contract found; how it was commissioned unknown).

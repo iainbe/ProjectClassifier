@@ -61,18 +61,10 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | Liverpool City Region Digital & Creative Industries Cluster  (P08-LIVDCI) | DELIVERED_WORK | |
 | Creative Digital Economy Catapult challenges paper (P09-CDEC) | DELIVERED_WORK | |
 
-## 4. Who held the contract, and what was our part? (contracting role empty; 9 completed projects)
+## 4. Who held the contract, and what was our part? (contracting role empty; 1 completed projects)
 
 | Project | Client | Role: PRIME / DIRECT / SUBCONTRACTOR / ASSOCIATE / ADVISORY (prime if not us) |
 |---|---|---|
-| BAC + LIVR Project Evaluation (P43) | Battersea Arts Centre/LIVR | |
-| Lancashire Digital Strategy (P45) | Lancashire County Council | |
-| Tees Valley Creative Economy Baseline (P46) | Tees Valley Combined Authority | |
-| UKRI Liverpool Visit and CoSTAR Engagement (P50) | UKRI | |
-| SYMCA ARG Evaluation (P51) | South Yorkshire Mayoral Combined Au | |
-| Manchester Place Partnership (P54) | Manchester City Council | |
-| University of Liverpool Heritage CPD (P63) | University of Liverpool | |
-| Herefordshire Culture Strategy (P84) | Herefordshire Cultural Partnership | |
 | LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24) | Liverpool City Region Combined Auth | |
 
 ## 5. Open validation actions owned by you (31)
