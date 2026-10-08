@@ -1,4 +1,4 @@
-# P88-CBDP — Project Index Card (DRAFT — pending Iain review)
+# P90-CBDP — Project Index Card (DRAFT — pending Iain review)
 
 **Project:** Creative Scotland Cultural Business Development Programme — subcontracted session delivery within Curated Place's expert faculty
 **Status:** IN_PROGRESS — Nov 2025 cohort sessions delivered; further 6 sessions booked for 2026 (two batches of 3 workshops)
@@ -10,7 +10,7 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `project_id` | P88-CBDP | 01_projects.csv |
+| `project_id` | P90-CBDP | 01_projects.csv |
 | `project_name` | Creative Scotland Cultural Business Development Programme (Curated Place faculty) | register |
 | `client` | Curated Place (prime contractor); funded by Creative Scotland | register + web |
 | `contracting_role` | SUBCONTRACTOR — The Fifth Sector contributed as an expert within Curated Place's faculty | Iain 26/10/08 |

@@ -624,3 +624,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - Main gained P88-CBDP (Creative Scotland Cultural Business Development Programme, Curated Place subcontract), T23 notes and an insurance pack. Merged into the branch: `01_projects.csv` merged by project and field (no field-level conflicts; P88-CBDP added with the two new columns citation_status and client_accepted blank, so it reads UNKNOWN on E1 and E2), append-only logs unioned, derived files regenerated.
 - **Number clash:** P88-CBDP and P88-LCRPF24 now share the number 88. Full IDs are distinct so no join breaks; the choice is left to Iain (VAL-S261008-08). Not renumbered.
+
+## Session 12l (26/10/08): P88-CBDP renumbered to P90-CBDP
+
+- Iain: P88-LCRPF24 keeps the number 88. The Creative Scotland Cultural Business Development Programme subcontract is now P90-CBDP: register row, card, per-project changelog and PM record renamed and edited; derived files regenerated. Earlier log entries (CHANGELOG, QA review, review history) that say P88-CBDP are left as written, because they are the audit trail. VAL-S261008-08 resolved. Any outside file, Drive folder name or sweep note that says P88-CBDP needs the same change.
