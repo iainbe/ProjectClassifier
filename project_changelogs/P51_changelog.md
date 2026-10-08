@@ -7,3 +7,7 @@
 ## 26/10/08 — client acceptance recorded
 
 - client_accepted set to Y on Iain's bulk statement (clients with several projects); basis IAIN_STATEMENT in `14_fact_provenance.csv`. No written record checked.
+
+## 26/10/08 — Role updated
+
+- `fifth_sector_role` EVALUATOR to EVALUATOR;LEAD_CONSULTANT on Iain's instruction, for consistency with P88-LCRPF24.

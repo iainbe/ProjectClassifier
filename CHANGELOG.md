@@ -768,3 +768,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - P58 Plymouth National Marine Park: corrected from PRIME to SUBCONTRACTOR, prime University of Plymouth (Iain).
 - P48 Wakefield Creative Skills (Creative Wakefield): ASSOCIATE, prime BOP Consulting. P64-BCJ, P69-OURYEAR, P70: PRIME, The Fifth Sector.
 - Liverpool Music City 2019 (Associate at BOP) not matched to a single register row; P15-LIVMUS (2017-18) and P19-LCRIMM (2019) already BOP-prime. Left unchanged pending Iain's pointer.
+
+## Session 13p (26/10/08): evaluator role consistency
+
+- P43 and P51 `fifth_sector_role` changed from EVALUATOR to EVALUATOR;LEAD_CONSULTANT on Iain's instruction, matching P88-LCRPF24. Provenance recorded. Manchester Place Partnership (P54) confirmed as the only Manchester bid; no separate Creative People and Places project.
