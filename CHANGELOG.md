@@ -589,3 +589,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 12e (26/10/08): referee timing propagated
 
 - `ontology_v2_DRAFT.md` section 7 and decision ledger updated for the referee-timing correction; header and reversal text no longer say the draft is uncommitted. PR-03, PR-04 and PR-05 notes record that the asks are held until shortlist. Nothing sent to any client.
+
+## Session 12f (26/10/08): ontology decision 10
+
+- Iain: evidence kind is a filter, not a rank. `ontology_v2_DRAFT.md` section 5 rewritten and ledger item added. Ordering of survivors by role, recency and geography left open (10b). No register or tool change; the T22 view already behaves this way.

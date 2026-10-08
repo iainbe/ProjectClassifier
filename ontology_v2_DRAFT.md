@@ -63,12 +63,9 @@ UNKNOWN is shown and listed for fixing; it is never treated as pass or fail. N/A
 
 ## 5. Matching and ordering (no weights)
 
-For each Requirement, candidates are the Projects (or Methods, People) whose checks are not FAIL. Strict order:
-1. Fit: question-type coverage, then domain label where the requirement states it, then client type/geography where stated.
-2. Highest evidence class.
-3. Role: PRIME, DIRECT, SUBCONTRACTOR, ASSOCIATE/ADVISORY (wording rule applies; never ranked as prime).
-4. Recency.
-Ties are shown. Where a requirement asks for more than one item, selection maximises coverage of its sub-elements before depth. Output shows the rule that placed each candidate and a ranked reserve per slot. For AUTHORED subjects the output is an **evidence-gap list**: what the register can support, what it cannot, and which projects could ground the new content.
+**Decision 10 (Iain, 26/10/08): evidence kind is a filter, not a rank.** The requirement names the kinds of evidence it wants (delivered output, effect reported, effect as evaluator, documented use, design, context). A project is a candidate only if its checks are not FAIL and it holds at least one wanted kind. Kinds are never ranked against each other, and the count of claims is not a measure of strength (it reflects coding effort).
+
+Candidates are then shown with fit, kind mix, role, recency and geography as visible columns. **How to order the survivors is not yet decided** (open 10b: whether role, recency and geography order them, and in what sequence; the proposal is kind match, role, recency, geography with each placement shown as a reason, not a score, tested against Iain's choices after 15 to 20 scored uses). Until decided, the view lists candidates alphabetically within groups. Geography counts only where the requirement states it. Where a requirement asks for more than one item, selection maximises coverage of its sub-elements before depth. For AUTHORED subjects the output is an **evidence-gap list**: what the register can support, what it cannot, and which projects could ground the new content.
 
 ## 6. Composition
 
@@ -133,6 +130,8 @@ Dry-run on today's data (70 projects), using the checks as written, for orientat
 9. Permission requests: citing delivered work needs no permission unless a restriction marker exists (written into AGENTS.md); referee permission recorded only in the permission file and derived elsewhere; 27 of 35 requests closed as not required, 3 turned into internal checks, 5 kept as plain-language asks with owner Iain and a reminder after five working days. Executed in session 8.
 
 **Taken 26/10/08 (A):** referee timing: referees are cited by name in the tender and asked only once shortlisted. Section 7 rewritten; the three drafted referee asks (PR-03, PR-04, PR-05) are held until shortlist. T22 review lanes raised a related risk (a named contact first hearing of it from the buyer); handled as advice on choosing a likely-to-agree contact, not as a gate.
+
+**Taken 26/10/08 (B):** decision 10: evidence kind filters candidates and never ranks them. Section 5 rewritten. Open 10b: whether and how role, recency and geography order the survivors (lane advice: role is already limited through the claim's attribution wording and recency overlaps the method-current check, so ranking on them risks double counting).
 
 **Executed 26/10/07 (register edits):** decisions 2, 3 and 4 and the three project facts are now in the register (31-field register, lifecycle aligned, Derby bid row retired, Lancashire / Lancaster Horizon / Creative Scotland recorded). Lancaster re-key done 26/10/07 (session 6). Not yet done: Kirklees phase rows, client_accepted and early citation_status backfill. See CHANGELOG session 26/10/07 (5).
 
