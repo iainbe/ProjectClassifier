@@ -103,3 +103,7 @@ SRC-R2-06 (`190730 final.docx`) is a client-authored document (Pritpal Bhurji), 
 - **Claims repair:** 74 claim fields realigned across P04-P09 incl. P05 SUBCONTRACTOR→BOP_ASSOCIATE; proposition text updated.
 - **Card corrections:** precedent reframed as "delivered under BOP associate arrangement" — claimable as company experience delivered under BOP contract, not sole delivery.
 - **Status:** Index card REVIEWED.
+
+## 26/10/08 — claims restored
+
+- 10 claims restored to `04_claims.csv` (they were deleted in commit eb2674d on 26/09/16; recovered from commit 4a92a71). See `claims_restore_RECORD.csv`. Counts of coded claims, and so evidence-kind counts for this project, rise accordingly.

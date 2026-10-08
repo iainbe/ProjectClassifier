@@ -34,3 +34,7 @@
 - lifecycle_status IN_PROGRESS → COMPLETED; report pack Beatles_Report_Pack_2026-10-07 delivered (Iain-confirmed)
 - citation_status LIVE_WORK → DELIVERED_WORK; reference_permission remains NOT_ESTABLISHED — required for T22-VAIMP case-study referee by 26/10/19
 - Card updated; Evidence Review caveats stand (scenario range not point estimate; Beatles-attributable spend share is an assumption)
+
+## 26/10/08 — claims restored
+
+- 6 claims restored to `04_claims.csv` (they were deleted in commit eb2674d on 26/09/16; recovered from commit 4a92a71). See `claims_restore_RECORD.csv`. Counts of coded claims, and so evidence-kind counts for this project, rise accordingly.

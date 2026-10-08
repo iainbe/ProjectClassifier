@@ -111,3 +111,7 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 
 ## 26/10/07 — register edits (decisions 3 and 4)
 - programme_status NOT_AWARDED recorded (bid not successful, Iain 26/09/09); lifecycle COMPLETED unchanged. Design claim C-R3-021 set to EXPIRED under extended QA check 7.
+
+## 26/10/08 — claims restored
+
+- 10 claims restored to `04_claims.csv` (they were deleted in commit eb2674d on 26/09/16; recovered from commit 4a92a71). See `claims_restore_RECORD.csv`. Counts of coded claims, and so evidence-kind counts for this project, rise accordingly.

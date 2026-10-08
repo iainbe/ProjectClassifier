@@ -94,3 +94,7 @@
 - **Register repair:** row realigned (contracting_role=SUBCONTRACTOR, prime_contractor=BOP Consulting); relationship_evidence updated to co-lead confirmation.
 - **Card corrections:** "first to map" attributed to BOP self-description; ~50,000 replaces rounded 50,000 (source gives 49,600/49,900/nearly 50,000); Crafts 11x clarified as Birmingham centre (LQ 6.2 for GBSLEP area); key_findings prefixed with BOP attribution.
 - **Status:** Index card REVIEWED.
+
+## 26/10/08 — claims restored
+
+- 16 claims restored to `04_claims.csv` (they were deleted in commit eb2674d on 26/09/16; recovered from commit 4a92a71). See `claims_restore_RECORD.csv`. Counts of coded claims, and so evidence-kind counts for this project, rise accordingly.

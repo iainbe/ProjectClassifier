@@ -109,3 +109,7 @@ This makes MITIH a useful R2 test case for distinguishing `claim_type=OBSERVATIO
 - **Contract value:** £25,000 (Iain). Gated investment sequence: NOT exercised.
 - **Register repair:** row realigned (contracting_role=PRIME, prime_contractor=The Fifth Sector).
 - **Status:** Index card REVIEWED; APPROVED_NAMED for tender citation.
+
+## 26/10/08 — claims restored
+
+- 17 claims restored to `04_claims.csv` (they were deleted in commit eb2674d on 26/09/16; recovered from commit 4a92a71). See `claims_restore_RECORD.csv`. Counts of coded claims, and so evidence-kind counts for this project, rise accordingly.

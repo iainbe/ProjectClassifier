@@ -1,16 +1,16 @@
 project_id,project_name,client,lifecycle_status,E1_delivered,E2_citable,E3_lapsed_option,E4_method_current,E5_role_wording,delivered_output,effect_reported,effect_as_evaluator,documented_use,design,context,corroborated_claims,E1_basis,E2_basis,E5_basis,E4_note,referee_permission,fully_determinable
-P01-NES,North East Scotland Creative Industries Mapping,Aberdeen City Council / Aberdeenshire Council,COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,0,0,0,0,2,2,0,,,no basis recorded,,NOT_ESTABLISHED,NO
-P02-FGTG,From Good to Great (Innovate GM / Innovate UK),Manchester Metropolitan University (on behalf of GM partners and universities),COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,2,1,0,0,1,0,0,,,no basis recorded,,NOT_ESTABLISHED,NO
-P03-MITIH,MITIH Createch Ecosystem (MediaCity ITIH),MediaCity / Innovate UK,COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,2,0,1,0,1,1,0,,,no basis recorded,,NOT_ESTABLISHED,NO
-P04-GBSLEP,GBSLEP Creative Economy Mapping,Greater Birmingham & Solihull LEP,COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,2,0,0,0,0,2,0,,,no basis recorded,,NOT_ESTABLISHED,NO
-P05-WMCA,WMCA Creative Business Scaleup,West Midlands Combined Authority,COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,2,0,0,0,0,0,0,,,no basis recorded,,NOT_ESTABLISHED,NO
-P06-COSTAR,CoSTAR bid support,CoSTAR consortium (GMCA SODA Factory International Magnopus AND FutureEverything),COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,1,0,0,0,1,0,0,,,no basis recorded,,NOT_ESTABLISHED,NO
-P07-CC,Creative City (SIPF application),Manchester Metropolitan University (MMU),COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,0,0,0,0,1,0,0,,,no basis recorded,,NOT_ESTABLISHED,NO
-P08-LIVDCI,Liverpool City Region Digital & Creative Industries Cluster Mapping,Liverpool City Region,COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,4,0,0,0,0,0,0,,,no basis recorded,,NOT_ESTABLISHED,NO
-P09-CDEC,Creative Digital Economy Catapult challenges paper,CDEC (became Digital Catapult),COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,0,0,0,0,1,1,0,,,no basis recorded,,NOT_ESTABLISHED,NO
-P10-KIRK,Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026),Kirklees Council / West Yorkshire Combined Authority,IN_PROGRESS,FAIL,UNKNOWN,PASS,PASS,PASS,2,0,0,0,1,4,0,,,no basis recorded,,NOT_ESTABLISHED,NO
-P11-ELFC,East London Fashion Cluster Growth Strategy,London College of Fashion / Greater London Authority,COMPLETED,UNKNOWN,PASS,PASS,PASS,PASS,0,0,0,0,4,4,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
-P12-KIRK15,Kirklees Creative Economy Analysis 2015,Kirklees Council,COMPLETED,UNKNOWN,PASS,PASS,PASS,PASS,0,0,0,0,0,2,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
+P01-NES,North East Scotland Creative Industries Mapping,Aberdeen City Council / Aberdeenshire Council,COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,14,6,0,0,15,25,0,,,no basis recorded,,NOT_ESTABLISHED,NO
+P02-FGTG,From Good to Great (Innovate GM / Innovate UK),Manchester Metropolitan University (on behalf of GM partners and universities),COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,3,13,0,0,15,4,0,,,no basis recorded,,NOT_ESTABLISHED,NO
+P03-MITIH,MITIH Createch Ecosystem (MediaCity ITIH),MediaCity / Innovate UK,COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,6,3,1,0,4,8,0,,,no basis recorded,,NOT_ESTABLISHED,NO
+P04-GBSLEP,GBSLEP Creative Economy Mapping,Greater Birmingham & Solihull LEP,COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,4,4,0,0,2,10,0,,,no basis recorded,,NOT_ESTABLISHED,NO
+P05-WMCA,WMCA Creative Business Scaleup,West Midlands Combined Authority,COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,7,0,0,0,0,5,0,,,no basis recorded,,NOT_ESTABLISHED,NO
+P06-COSTAR,CoSTAR bid support,CoSTAR consortium (GMCA SODA Factory International Magnopus AND FutureEverything),COMPLETED,UNKNOWN,UNKNOWN,FAIL,PASS,PASS,2,2,0,0,5,3,0,,,no basis recorded,,NOT_ESTABLISHED,NO
+P07-CC,Creative City (SIPF application),Manchester Metropolitan University (MMU),COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,1,0,0,0,4,0,0,,,no basis recorded,,NOT_ESTABLISHED,NO
+P08-LIVDCI,Liverpool City Region Digital & Creative Industries Cluster Mapping,Liverpool City Region,COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,7,0,0,0,3,8,0,,,no basis recorded,,NOT_ESTABLISHED,NO
+P09-CDEC,Creative Digital Economy Catapult challenges paper,CDEC (became Digital Catapult),COMPLETED,UNKNOWN,UNKNOWN,PASS,PASS,PASS,3,0,0,0,5,3,0,,,no basis recorded,,NOT_ESTABLISHED,NO
+P10-KIRK,Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026),Kirklees Council / West Yorkshire Combined Authority,IN_PROGRESS,FAIL,UNKNOWN,PASS,PASS,PASS,4,2,0,0,2,11,0,,,no basis recorded,,NOT_ESTABLISHED,NO
+P11-ELFC,East London Fashion Cluster Growth Strategy,London College of Fashion / Greater London Authority,COMPLETED,UNKNOWN,PASS,PASS,PASS,PASS,1,0,0,0,8,11,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
+P12-KIRK15,Kirklees Creative Economy Analysis 2015,Kirklees Council,COMPLETED,UNKNOWN,PASS,PASS,PASS,PASS,2,0,0,0,0,8,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
 P13-CWL,Creativeworks London KE Hub Evaluation,AHRC / Creativeworks London,COMPLETED,UNKNOWN,PASS,PASS,PASS,PASS,0,0,1,0,0,3,0,,no basis recorded,no basis recorded,linked statement MS-02 is DRAFT,NOT_ESTABLISHED,NO
 P14-DCAT,UK Immersive Technology Sector Mapping,Digital Catapult / Innovate UK,COMPLETED,UNKNOWN,PASS,PASS,PASS,PASS,0,0,0,0,2,2,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
 P15-LIVMUS,Liverpool City of Music Strategy,Culture Liverpool / Liverpool City Council,COMPLETED,UNKNOWN,PASS,PASS,PASS,PASS,0,0,0,0,2,3,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
@@ -56,13 +56,13 @@ P70,Wakefield CCI Skills Needs Assessment,Wakefield Council,COMPLETED,UNKNOWN,PA
 P73,City St George's SCCI,City St George's University,IN_PROGRESS,FAIL,PASS,PASS,UNKNOWN,UNKNOWN,0,0,0,0,6,1,0,,no basis recorded,,,NOT_ESTABLISHED,NO
 P75-LANC,Lancaster AHRC CIC workshop and summary report,Lancaster University,COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,PASS,0,0,0,0,0,1,0,,no basis recorded,DOCUMENT,,NOT_ESTABLISHED,NO
 P76,Lancaster Uni Horizon Bid (Virtual Agora),Lancaster University,COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,PASS,0,0,0,0,8,0,0,,no basis recorded,DOCUMENT,,NOT_ESTABLISHED,NO
-P78-BEATLES,Beatles Visitor Impact Study,Beatles Legacy Group (unconstituted) — funded via Liverpool BID,COMPLETED,PASS,PASS,PASS,PASS,PASS,3,0,0,0,1,6,0,VERBAL_CLIENT,no basis recorded,no basis recorded,linked statement MS-01 is DRAFT,NOT_ESTABLISHED,YES
-P79-CELL,CELL,CELL,IN_PROGRESS,FAIL,PASS,PASS,UNKNOWN,UNKNOWN,0,0,0,0,0,0,0,,no basis recorded,,,NOT_ESTABLISHED,NO
-P80,Southampton Forward Strategic Review,Southampton Forward,IN_PROGRESS,FAIL,FAIL,PASS,UNKNOWN,UNKNOWN,0,0,0,0,0,0,0,,,,,NOT_ESTABLISHED,NO
-P81-WB6,WB6 Creative Economy Pulse,British Council,IN_PROGRESS,FAIL,FAIL,PASS,UNKNOWN,UNKNOWN,0,0,0,0,0,0,0,,,,,NOT_ESTABLISHED,NO
-P82-KOTOR,British Council Kotor Exchange Pilot (FCDO-funded),British Council,IN_PROGRESS,FAIL,PASS,PASS,UNKNOWN,PASS,0,0,0,0,0,0,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
+P78-BEATLES,Beatles Visitor Impact Study,Beatles Legacy Group (unconstituted) — funded via Liverpool BID,COMPLETED,PASS,PASS,PASS,PASS,PASS,3,0,0,0,3,10,0,VERBAL_CLIENT,no basis recorded,no basis recorded,linked statement MS-01 is DRAFT,NOT_ESTABLISHED,YES
+P79-CELL,CELL,CELL,IN_PROGRESS,FAIL,PASS,PASS,UNKNOWN,UNKNOWN,3,0,0,0,3,2,0,,no basis recorded,,,NOT_ESTABLISHED,NO
+P80,Southampton Forward Strategic Review,Southampton Forward,IN_PROGRESS,FAIL,FAIL,PASS,UNKNOWN,UNKNOWN,0,0,0,0,3,5,0,,,,,NOT_ESTABLISHED,NO
+P81-WB6,WB6 Creative Economy Pulse,British Council,IN_PROGRESS,FAIL,FAIL,PASS,UNKNOWN,UNKNOWN,1,0,0,0,2,4,0,,,,,NOT_ESTABLISHED,NO
+P82-KOTOR,British Council Kotor Exchange Pilot (FCDO-funded),British Council,IN_PROGRESS,FAIL,PASS,PASS,UNKNOWN,PASS,1,4,0,0,1,1,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
 P83-BCWB,British Council Creative Economy Council Development (MNE NM + WB),British Council,IN_PROGRESS,FAIL,PASS,PASS,UNKNOWN,PASS,6,5,0,0,3,5,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
-P84,Herefordshire Culture Strategy,Herefordshire Cultural Partnership,COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,UNKNOWN,0,0,0,0,0,0,0,,no basis recorded,,,NOT_ESTABLISHED,NO
+P84,Herefordshire Culture Strategy,Herefordshire Cultural Partnership,COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,UNKNOWN,2,0,0,0,3,4,0,,no basis recorded,,,NOT_ESTABLISHED,NO
 P85-AMGEN,AMGEN AHRC Creative Industries Cluster Programme Bid (University of South Wales),University of South Wales (bid lead),COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,PASS,0,0,0,0,0,0,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
 P86-CSSAL,Creative Scotland Salary Benchmarking Framework,Creative Scotland,IN_PROGRESS,FAIL,FAIL,PASS,UNKNOWN,PASS,0,0,0,0,0,0,0,,,IAIN_STATEMENT,,NOT_ESTABLISHED,NO
 P87-TRUENORTH,True North CICP2 bid support (Lancaster),Lancaster University,COMPLETED,UNKNOWN,PASS,PASS,UNKNOWN,PASS,0,0,0,0,1,1,0,,no basis recorded,no basis recorded,,NOT_ESTABLISHED,NO
