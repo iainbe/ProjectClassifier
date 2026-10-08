@@ -30,3 +30,8 @@ Every tender with usable wording: T01-BCAT, T13, T21-CSFI, T22-VAIMP, T05-DERBY,
 ## Correction 26/10/08 (Iain)
 
 BOP Consulting is a competitor and is never asked for permission; PR-07 already says so (Iain 26/09/12). The lane suggestion to obtain BOP's written agreement for MS-03 is not adopted. MS-03 relies on accurate attribution capped at "contributed to", plus an internal check of our own subcontract or NDA for a confidentiality or publicity clause.
+
+## Update 26/10/08: rollup applied and requirement types tabulated (limited)
+
+- **Rollup applied** as an additive column `method_family_rollup` (ten families after splitting the sector-baseline family; the largest is 20% of methods). Mapping: `method_family_map.csv`. The two draft files for the rollup and the repair preview were removed once applied (history keeps them).
+- **Requirement types across tenders: the register cannot support a full tabulation.** Of 23 tender rows only five (T01-BCAT, T05-DERBY, T21-CSFI, T22-VAIMP, T23-TVBTV) carry usable requirement wording. In those: price or a fixed fee appears in all of them; insurance minimums in T21, T22 and T23; financial standing in T22 and T23; a written method or approach submission in T21 (four Schedule 4 submissions), T22 (3-page proposal) and T23 (quality questions); precedent evidence as named case studies in T22 and as capability criteria in T01. This is the selection effect Fok warned of: the statements and the layer are fitted to five formal tenders, and nothing here says which method statements win points. A requirement file per tender (decision 13) is the way to grow the base; T21-CSFI and T23-TVBTV are next.

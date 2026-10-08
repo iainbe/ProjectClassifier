@@ -14,6 +14,10 @@ Effect on checks: E4 (method current) already returns FAIL when any method row i
 
 Links a method row (one application on one project) to a reusable method statement in `method_statements/MS-nn_*.md`. Blank means no statement exists for that method. A method row links to at most one statement; a statement lists its applications in its own header, and `tools/method_view.py` flags any mismatch between the two.
 
+## 2b. New field `method_family_rollup` on `03_methods.csv` (last column)
+
+One of ten rolled-up families (GENERAL_SECTOR_MAPPING, THEMATIC_AND_SUBSECTOR_MAPPING, DATA_PROFILING_AND_LANDSCAPE, ECOSYSTEM_AND_NETWORK_ANALYSIS, ECONOMIC_ASSESSMENT, EVALUATION, STRATEGY_AND_OPTIONS, FEASIBILITY, BID_AND_PROPOSAL_SUPPORT, FACILITATION_AND_QUALITY), set from the mapping in `method_family_map.csv`. The 41 free-text `method_family` labels are kept unchanged. No family holds more than a fifth of the methods (lane review: Fok, Blindspot, Wishful). The family is a filter for choosing methods; it must not appear in claim wording, and it does not say how a method was labelled originally (the old label stays beside it).
+
 ## 3. Method statement status (not a register field)
 
 CURRENT, DRAFT or SUPERSEDED, held in the statement file header. Only Iain sets CURRENT. A statement also records `evidence_class` (DELIVERED, DESIGN_ONLY, PROPOSED), `disclosure_status` (CLEARED, NOT_CLEARED, CHECK_OWN_CONTRACT), `as_at_date`, `evidence_review_date`, `reviewed_by` and `next_action`.
