@@ -32,7 +32,10 @@ def header(path):
     return d, bad
 
 def main():
-    ap = argparse.ArgumentParser(); ap.add_argument('--family'); a = ap.parse_args()
+    ap = argparse.ArgumentParser(); ap.add_argument('--family')
+    ap.add_argument('--requirements', help='tender id; adds a table of which statements cover which questions (tender_requirements/<id>.md, item coverage)')
+    ap.add_argument('--stale-days', type=int, help='optional: flag a statement whose as_at_date is older than this many days (no default; Iain sets the threshold)')
+    a = ap.parse_args()
     meth = {m['method_id']: m for m in rows('03_methods.csv')}
     proj = {p['project_id']: p for p in rows('01_projects.csv')}
     claims = {c['claim_id']: c for c in rows('04_claims.csv')}
@@ -73,6 +76,12 @@ def main():
             if p.get('client_accepted') not in ('Y',): I.append('Client acceptance not recorded as yes for %s.' % p.get('canonical_name', m['project_id']))
             L.append('| %s | %s (%s) | %s | %s | %s |' % (mid, p.get('canonical_name', m['project_id']), m['project_id'], arr, p.get('citation_status', ''), m['method_status']))
         if not h.get('evidence_review_date'): C.append('No evidence review date recorded.')
+        newest = max([meth[x].get('review_date', '') for x in apps if x in meth and re.match(r'^\d\d/\d\d/\d\d$', meth[x].get('review_date', ''))] or [''])
+        if h.get('evidence_review_date') and newest and newest > h['evidence_review_date']: C.append('A linked method row was reviewed on %s, after this statement\'s evidence review date (%s): re-check the statement. Owner: Devin.' % (newest, h['evidence_review_date']))
+        if a.stale_days and re.match(r'^\d\d/\d\d/\d\d$', h.get('as_at_date', '')):
+            import datetime
+            d = datetime.datetime.strptime(h['as_at_date'], '%y/%m/%d')
+            if (datetime.datetime.now() - d).days > a.stale_days: C.append('Statement is as at %s, more than %d days old. Owner: Iain.' % (h['as_at_date'], a.stale_days))
         L += ['', 'Claims behind it' + ('' if disc == 'CLEARED' else ' (wording and figures withheld: disclosure not cleared)') + ':', '']
         for cid in [x for x in h.get('claims', '').split(';') if x]:
             c = claims.get(cid)
@@ -84,6 +93,25 @@ def main():
         for tier, items in [('BLOCKER', B), ('CAUTION', C), ('INFO', I)]:
             for it in sorted(set(items)): L.append('- %s: %s' % (tier, it))
         L.append('')
+    if a.requirements:
+        stat = {}
+        for path in glob.glob('method_statements/MS-*.md'):
+            hh, _ = header(path)
+            if hh.get('statement_id'): stat[hh['statement_id']] = hh
+        cov = {}; inside = False
+        for line in open('tender_requirements/%s.md' % a.requirements, encoding='utf-8'):
+            line = line.rstrip('\n')
+            if line.startswith('## item:'): inside = line.split(':', 1)[1].strip() == 'coverage'; continue
+            m = re.match(r'^([a-z0-9_]+): (.*)$', line) if inside else None
+            if m and m.group(1) != 'label' and m.group(1) != 'reading': cov[m.group(1)] = m.group(2)
+        L += ['## Coverage of %s questions by method statements' % a.requirements, '', '| Question | Route | Statement status | Evidence class | Note |', '|---|---|---|---|---|']
+        nm = 0
+        for q, v in cov.items():
+            route, _, note = v.partition('|'); route = route.strip(); sid = route.split()[-1] if route.startswith('PARTIAL') else ''
+            if route.startswith('MISSING'): nm += 1
+            st = stat.get(sid, {})
+            L.append('| %s | %s | %s | %s | %s |' % (q, route, st.get('status', '') if sid else '', st.get('evidence_class', '')[:40] if sid else '', note.strip()))
+        L += ['', '%d of %d questions have no statement. MISSING means no statement and no registered method, not that the firm lacks the capability.' % (nm, len(cov)), '']
     os.makedirs('method_views', exist_ok=True)
     open('method_views/statements.md', 'w', encoding='utf-8').write('\n'.join(L) + '\n')
     print('method_views/statements.md written')

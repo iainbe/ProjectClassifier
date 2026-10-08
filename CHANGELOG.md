@@ -714,3 +714,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - Added `method_family_rollup` as the last column of `03_methods.csv` (18 fields) with ten families (the sector-baseline family split in three after the lane advice that no family should hold more than about a quarter of methods; largest is now 20%), mapped from all 41 existing labels via `method_family_map.csv`. Old labels unchanged. Codebook addendum updated. Draft rollup and repair-preview files removed (applied; history keeps them). Method view and eligibility outputs unchanged; the E4 test still passes.
 - The proposal now records that only five of 23 tenders have usable requirement wording, so the requirement-type tabulation is limited and the selection effect remains.
+
+## Session 13e (26/10/08): method view coverage table and staleness flags; SRC-G2-092 checked
+
+- `tools/method_view.py` gained `--requirements <tender>` (a table of which statements cover which questions, from the new `coverage` item in `tender_requirements/T22-VAIMP.md`: 3 of 8 V&A questions have no statement, 5 partial) and flags for a statement older than a linked method row's review date, plus an optional `--stale-days N` (no default; Iain sets any threshold). Both fire in a scratch test.
+- SRC-G2-092 (07 Oct Beatles report edition): the headline figures and sensitivity values were confirmed present in both editions; the rest was not compared, so it stays unreviewed and superseded by the delivered study.
