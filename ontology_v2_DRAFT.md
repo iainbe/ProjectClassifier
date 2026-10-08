@@ -1,4 +1,4 @@
-# Ontology v2 — DRAFT v2 for review (not adopted, not committed)
+# Ontology v2 — DRAFT v2 for review (not adopted; committed on the working branch)
 
 **Status:** DRAFT 26/10/07, revision 2 after THAD (advisory), generalisation dry-run across tenders, and consistency audit against the registers. Nothing here is implemented. No register, schema or rule has been changed on this basis (the only repo edit alongside it is the proposed review-protocol rule in `AGENTS.md`, also uncommitted). Supersedes the open options in `case_study_selection_decision.md` if adopted.
 
@@ -76,7 +76,7 @@ For each selected subject: sheet-ready headline figure with correct `value_basis
 
 ## 7. Submission readiness (conditional)
 
-Runs only when the requirement has `referee_required=Y` or states a disclosure condition. For each selected item: NAMED referee confirmed (from `11_permission_requests.csv`), ANONYMISE (only if `anonymisation_allowed`, applying the `disclosure_condition`), or SWAP FOR RESERVE. Asks are issued as soon as selection is made. `reference_permission` on projects is derived from `11_permission_requests.csv`, not stored separately; status vocabulary and owner for that file to be defined (DRAFTED, SENT, ESTABLISHED, DECLINED, CAPPED).
+Runs only when the requirement has `referee_required=Y` or states a disclosure condition. For each selected item: NAMED referee confirmed (from `11_permission_requests.csv`), ANONYMISE (only if `anonymisation_allowed`, applying the `disclosure_condition`), or SWAP FOR RESERVE. Referees are normally cited by name in the tender and only asked once the bidder is shortlisted (Iain, 26/10/08), so referee permission is not a gate on selection or submission: each selected item needs a named contact chosen as likely to agree (basis recorded), and wording must never claim agreement that has not been given. The ask is sent at shortlist using the plain-language template. Where a buyer requires anonymised entries to be disclosable on request, the disclosure duty is checked per item at selection. `reference_permission` on projects is derived from `11_permission_requests.csv`, not stored separately; status vocabulary and owner for that file to be defined (DRAFTED, SENT, ESTABLISHED, DECLINED, CAPPED).
 
 ## 8. Method statements and team sections
 
@@ -132,6 +132,8 @@ Dry-run on today's data (70 projects), using the checks as written, for orientat
 
 9. Permission requests: citing delivered work needs no permission unless a restriction marker exists (written into AGENTS.md); referee permission recorded only in the permission file and derived elsewhere; 27 of 35 requests closed as not required, 3 turned into internal checks, 5 kept as plain-language asks with owner Iain and a reminder after five working days. Executed in session 8.
 
+**Taken 26/10/08 (A):** referee timing: referees are cited by name in the tender and asked only once shortlisted. Section 7 rewritten; the three drafted referee asks (PR-03, PR-04, PR-05) are held until shortlist. T22 review lanes raised a related risk (a named contact first hearing of it from the buyer); handled as advice on choosing a likely-to-agree contact, not as a gate.
+
 **Executed 26/10/07 (register edits):** decisions 2, 3 and 4 and the three project facts are now in the register (31-field register, lifecycle aligned, Derby bid row retired, Lancashire / Lancaster Horizon / Creative Scotland recorded). Lancaster re-key done 26/10/07 (session 6). Not yet done: Kirklees phase rows, client_accepted and early citation_status backfill. See CHANGELOG session 26/10/07 (5).
 
 **Facts established (now written to the register)**
@@ -147,4 +149,4 @@ Dry-run on today's data (70 projects), using the checks as written, for orientat
 
 ## 14. Reversal
 
-Everything in this draft is one uncommitted file plus one uncommitted AGENTS.md edit. Adoption would be a series of separate, individually revertible commits, one per item in section 12, each with its own changelog entry.
+This draft is one file on the working branch (PR #2); the AGENTS.md edits are already committed. Adoption would be a series of separate, individually revertible commits, one per item in section 12, each with its own changelog entry.

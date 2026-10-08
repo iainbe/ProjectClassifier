@@ -585,3 +585,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 12d (26/10/08): P22 claims trimmed to interim figures
 
 - C-G2-037 and C-G2-038 reworded to the 2021 interim position only (Iain instruction); final-period figures remain on P88 claims. E-G2-534/535 relinked as corroboration. VAL-S261008-05 resolved. No claim added or removed.
+
+## Session 12e (26/10/08): referee timing propagated
+
+- `ontology_v2_DRAFT.md` section 7 and decision ledger updated for the referee-timing correction; header and reversal text no longer say the draft is uncommitted. PR-03, PR-04 and PR-05 notes record that the asks are held until shortlist. Nothing sent to any client.
