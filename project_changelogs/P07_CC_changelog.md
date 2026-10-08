@@ -97,3 +97,11 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 
 ## 26/10/07 — register edits (decisions 3 and 4)
 - lifecycle NOT_AWARDED -> COMPLETED with programme_status NOT_AWARDED, following the CoSTAR model (Iain). Value not evidenced: quote GBP 7,200 + VAT (proposal 17/08/20).
+
+## 26/10/08 — claims restored
+
+- 4 claims restored to `04_claims.csv` (they were deleted in commit eb2674d on 26/09/16; recovered from commit 4a92a71). See `claims_restore_RECORD.csv`. Counts of coded claims, and so evidence-kind counts for this project, rise accordingly.
+
+## 26/10/08 — Citation status and contracting role
+
+- `citation_status`=DELIVERED_WORK; contracting role PRIME, prime The Fifth Sector on Iain's statement (tendered). Contract not checked. Earlier values kept in `14_fact_provenance.csv`.

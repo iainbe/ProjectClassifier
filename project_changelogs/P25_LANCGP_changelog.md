@@ -6,3 +6,7 @@
 
 ## 26/10/07 — register edits (decisions 3 and 4)
 - Paid commission confirmed. contracting_role SUBCONTRACTOR -> DIRECT on the strength of PO 321786253/0 from Lancashire County Council; value GBP 10,000 ex VAT (invoice 1221 GBP 12,000 incl VAT, balance 0.00). Bid not awarded (programme_status NOT_AWARDED).
+
+## 26/10/08 — client acceptance recorded
+
+- client_accepted set to Y on Iain's bulk statement (group answer); basis IAIN_STATEMENT in `14_fact_provenance.csv`. No written record checked.

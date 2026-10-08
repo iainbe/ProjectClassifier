@@ -17,3 +17,7 @@
 ## 26/10/08 — Inception note registered
 
 - Registered `230418 Heritage CPD inception.docx` as SRC-G2-090 (SUPPORTING, PARTIAL_EXTRACT) and extracted it. It names three University of Liverpool attendees and the client-stated deliverable (the next step toward a Heritage Institute, not a business case). The extract has no section 1 or 5 and an empty engagement-plan section, so something was not captured. The draft reports are deliberately not registered (Iain: keep inception note only).
+
+## 26/10/08 — Contracting role recorded
+
+- `contracting_role`=PRIME, `prime_contractor`=The Fifth Sector on Iain's statement (all The Fifth Sector as prime). Contract not checked.

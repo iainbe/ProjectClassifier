@@ -6,3 +6,7 @@
 - drive_folder_path -> Archive projects/2021 Projects/2021 Liverpool Production Fund interim evaluation (was 2020 Projects / 2020 Liverpool Film Fund evaluation)
 - Card rewritten as interim-only; final-period figures moved to the P88 card
 - Open: date_start 20/09 vs 2021 folder year (VAL-S261007-02)
+
+## 26/10/08 — client acceptance recorded
+
+- client_accepted set to Y on Iain's bulk statement (clients with several projects); basis IAIN_STATEMENT in `14_fact_provenance.csv`. No written record checked.

@@ -648,6 +648,227 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Current ratio computed and checked against the 2025/26 accounts PDF: 1.25 (FY25/26), 1.29, 1.44. Meets V&A PQQ 3.1.1 without a guarantor or statement. Added to `company_accounts/accounts_summary.md` and the T22 requirements file.
 - **Cross-tender next-steps doc (26/10/08)**: `261008 Next steps - priority order.md` in Active proposals — ordered across T22 (referees critical path), Towell call, T21 CAN, T23 partner/bench/CAN, compliance items.
 - **proposal_docs/ mirror created (26/10/08)**: all 23 .md working docs from Active proposals now versioned in the repo under the same folder structure. AGENTS.md updated — mirror is standing practice for new/changed proposal docs; ITT packs and binaries stay Drive-only.
+
+## Session 12q (26/10/08): candidates-considered log (ontology decision 15, option B)
+
+- New append-only `13_selections.csv` (header only: no selection has been made yet) and `tools/record_selection.py` (dry run unless `--write`; one row per candidate with default and proposed positions, chosen, reason code; OUTCOME rows for buyer scores). `tools/selection_view.py` candidate logic moved into a `build()` function so both tools share it; regenerated T22 views are byte-identical to before. Ontology draft section 9 rewritten (replaces the planned `13_uses.csv`). Branch restarted from the merged main as the previous pull request was merged.
+
+## Session 12r (26/10/08): method selection, step 1 (draft only)
+
+- Iain chose option B for method selection. Added `method_family_rollup_DRAFT.csv`: a proposed mapping of the 42 `method_family` labels to eight rolled-up families (all 52 method rows covered; six boundary labels flagged for Iain). Nothing in `03_methods.csv` or the codebook has changed. The full lane review of the package (rollup, SUPERSEDED status, method view) and Iain's approval come before any change is applied; each applied item will be its own commit.
+
+## Session 12s (26/10/08): method rows repaired (method package item 1)
+
+- Repaired the one-column shift on 19 rows of `03_methods.csv` (M-G2-010 to M-G2-028) by script: empty `outputs` inserted, remaining fields moved right. Before applying, each row was asserted to match the exact shifted pattern; after, every row passes a semantic check (source IDs, claim IDs, review status, date). Diff shows only those 19 rows. All method source IDs now resolve in `02_sources.csv`. The method package was lane-reviewed (eight lanes, none blocking); this is item 1 of the agreed order, its own commit.
+- The foreign-key check found 20 claim IDs on method rows that do not exist in `04_claims.csv` (pre-existing; VAL-S261008-09).
+
+## Session 12t (26/10/08): two method rows registered (method package item 2)
+
+- Registered M-S261008-01 (Beatles attribution bridge, P78-BEATLES) and M-S261008-02 (Production Fund final evaluation, P88-LCRPF24) in `03_methods.csv`; their claim and source IDs were checked to exist. The draft file was removed. P88's contracting role is still not evidenced (VAL-S261007-01), noted on the row; the method view flags statements built on it.
+
+## Session 12u (26/10/08): method statements revised after lane review (method package item 7a)
+
+- Rewrote MS-01 to MS-03 with the lane fixes: approval card at the top, generic bid-ready paragraph, no figures, tender-specific "fit and gaps" removed, neutral wording, evidence class, disclosure status, next action. MS-02 now lists all nine claims, says the final evaluation's contracting arrangement is not evidenced, and step 5 reads "state where the bases differ". MS-03 is marked design-only and usable only as a design contribution.
+- **Correction (Iain):** BOP Consulting is a competitor and is never asked for permission (PR-07 already said so). The lane suggestion to obtain BOP's written agreement is not adopted; MS-03 relies on accurate attribution capped at "contributed to" and an internal check of our own subcontract or NDA. All statements stay DRAFT; only Iain sets CURRENT.
+
+## Session 12v (26/10/08): method view gate and plain-English flags (method package, lane fixes)
+
+- `tools/method_view.py` rewritten: a disclosure gate (claim wording and figures withheld unless the statement's disclosure status is CLEARED), a lift badge, plain-English flags in three tiers with an owner, and new flags for malformed headers, missing required fields, CURRENT without a named reviewer, a statement with no application or an unregistered method row, and a design-only statement. Tested on a scratch copy: every new flag fires. The regenerated view contains no £ figures.
+- Note: the earlier committed version of `method_views/statements.md` (commit 5c50c87, branch only, not yet on `main`) printed Beatles figures; the file is replaced. The figures remain in earlier git history of this branch.
+
+## Session 12w (26/10/08): statement_id column and codebook v1.4 additions (method package item 5)
+
+- Added `statement_id` as the last column of `03_methods.csv` (17 fields), filled for the six rows named by the three statements (MS-01: M-S261008-01; MS-02: M-G2-016, M-S261008-02, M-G2-021, M-G2-006; MS-03: M-G2-010); the rest are blank. Rows were checked for a single statement each. Added `codebook_v1.4_additions.md` (SUPERSEDED as a method_status value, the new field, statement status fields); v1.3 is untouched and register version labels stay 1.3-candidate.
+- Checked the readers of the file: `eligibility_report.py` and `method_view.py` read columns by name (outputs byte-identical before and after); `register_g2_methods.py` takes its header from the file; `deepen_p01_nes.py` is a finished one-off script that appends 16-field rows and must not be re-run. `method_view.py` gained a link-mismatch flag. The T22 selection view was regenerated; it now shows method rows for the Beatles study and the final evaluation (that check reads PASS), a stale-artefact catch from the previous commit.
+
+## Session 12x (26/10/08): check E4 extended additively (method package item 6)
+
+- `tools/eligibility_report.py`: E4 (method current) now also returns FAIL when a method row links, through `statement_id`, to a method statement whose status is SUPERSEDED. Nothing else changed: no method rows is still UNKNOWN, applied rows still PASS, a SUPERSEDED method row still FAIL. A linked DRAFT or missing statement only adds an `E4_note`. Regenerating the real register left every earlier cell unchanged (70 projects, no changed cells); the six linked projects gain a note that their statement is DRAFT.
+- New `tests/test_eligibility_e4.py` (six fixture cases, run with `python3 -I tests/test_eligibility_e4.py`); it passes on the new code and fails on the previous version at the new case, so it discriminates.
+
+## Session 12y (26/10/08): claims drift repair (method package, data fix)
+
+- 49 claims (all G2-BATCH-B) had text in `fifth_sector_role`: the role codes sat in `contrary_evidence` and the contribution text in `fifth_sector_role`. By script, with per-row assertions (role code present, contribution field empty, method and batch copies identical, review status valid): role codes moved to `fifth_sector_role`, text moved to `fifth_sector_contribution`, `contrary_evidence` cleared on those rows. Diff is 49 lines. Every claim now has a valid role code. Before-and-after values are kept in `claims_repair_RECORD.csv` (including the legacy claim type that differs from the current one in 22 rows). The eligibility report is unchanged cell for cell.
+- Roles were moved as recorded, not re-judged. Seven P22 and P27 claims carry DELIVERER/DESIGNER where the evaluator rule may apply (VAL-S261008-10). Legacy copies in four other columns remain on many rows (VAL-S261008-11).
+
+## Session 12z (26/10/08): dangling method reference M-G2-009 resolved (method package item 3)
+
+- Claims C-G2-022 and C-G2-023 (Liverpool City of Music Strategy, P15-LIVMUS, DESIGN) named `M-G2-009`, a number missing from the method sequence. The project's only method row, M-G2-008 (music sector mapping with strategy, governance recommendations, capital projects and scenarios), already lists both claims in its own `claim_ids`; the claims were repointed to it rather than blanked, and the old value is written into each claim's notes.
+- The new Beatles and Production Fund claims (seven) now carry their method IDs, closing the one-way links I left when coding them. A two-way check of method-to-claim links now finds no claim pointing at a missing method and no unmirrored method link; one reverse mismatch remains (C-R3-031, VAL-S261008-12), plus the 20 absent-claim links (VAL-S261008-09). The proposal's family count corrected to 41.
+
+## Session 13a (26/10/08): 244 deleted claims restored
+
+- **Found:** the sweep commit eb2674d (26/09/16) removed claims C-G2-280 to C-G2-523 (244 rows) from `04_claims.csv` without mentioning it, while keeping the 254 evidence rows that point at them; its own message and later notes still treated C-G2-280 as present, and 26/09/12 QA entries refer to claims C-G2-440 to 480 that only existed in the lost block. The same commit also made 61 legitimate edits (project IDs normalised, four inconsistency resolutions) that are kept.
+- **Restored** from the last commit that held them (4a92a71, 26/09/12), inserted in ID order, with four short project IDs mapped to the current register (P78 to P78-BEATLES, P79 to P79-CELL, P81 to P81-WB6, P82 to P82-KOTOR). Record of every restored row: `claims_restore_RECORD.csv`. Claims register now 590 rows. The 244 rows are restored as they stood on 26/09/12; they are not re-reviewed.
+- **Effect:** evidence rows pointing at absent claims fall from 254 to 7 (C-R5-524 to 528, separate), and method-to-claim links to absent claims from 20 to 0. Eligibility checks are unchanged except P06-COSTAR E3 (lapsed option) now reads FAIL, correctly, because its restored DESIGN claims are not yet EXPIRED (next commit). Evidence-kind counts rise for 18 projects (for example P01-NES: 14 delivered-output claims where the register showed none).
+
+## Session 13b (26/10/08): COSTAR design claims expired
+
+- C-G2-440, 443, 446 and 447 (CoSTAR bid, P06-COSTAR, recovered in the restoration) set to `option_state=EXPIRED`, as AGENTS.md requires for DESIGN and OPTION claims on a project whose bid was not awarded (`programme_status=NOT_AWARDED`). Check E3 for P06-COSTAR returns to PASS. Notes on each claim record the change.
+
+## Session 13c (26/10/08): CONTEXTUAL effect family removed from pure context claims
+
+- `CONTEXTUAL` is not a codebook value; the codebook says a pure CONTEXT claim takes `NOT_APPLICABLE` with the reason in notes. 200 claims with claim_type CONTEXT were changed by script (each note records the change; old values in `claims_contextual_RECORD.csv`). Five claims that are not pure context (one DESIGN, four METHOD_OUTPUT) keep CONTEXTUAL for Iain to decide (VAL-S261008-15). QA check 5 (empty effect_family) is unaffected; effect_family is now valid on 585 of 590 claims. No eligibility result changed.
+
+## Session 13d (26/10/08): method family rollup applied
+
+- Added `method_family_rollup` as the last column of `03_methods.csv` (18 fields) with ten families (the sector-baseline family split in three after the lane advice that no family should hold more than about a quarter of methods; largest is now 20%), mapped from all 41 existing labels via `method_family_map.csv`. Old labels unchanged. Codebook addendum updated. Draft rollup and repair-preview files removed (applied; history keeps them). Method view and eligibility outputs unchanged; the E4 test still passes.
+- The proposal now records that only five of 23 tenders have usable requirement wording, so the requirement-type tabulation is limited and the selection effect remains.
+
+## Session 13e (26/10/08): method view coverage table and staleness flags; SRC-G2-092 checked
+
+- `tools/method_view.py` gained `--requirements <tender>` (a table of which statements cover which questions, from the new `coverage` item in `tender_requirements/T22-VAIMP.md`: 3 of 8 V&A questions have no statement, 5 partial) and flags for a statement older than a linked method row's review date, plus an optional `--stale-days N` (no default; Iain sets any threshold). Both fire in a scratch test.
+- SRC-G2-092 (07 Oct Beatles report edition): the headline figures and sensitivity values were confirmed present in both editions; the rest was not compared, so it stays unreviewed and superseded by the delivered study.
+
+## Session 13f (26/10/08): sources register drift repaired (46 + 4 rows)
+
+- 46 rows of `02_sources.csv` had text in `derived_location` and every later field displaced: 27 rows by one column (a blank inserted before the original path) and 18 by two (two blanks missing before it), plus SRC-G2-022 (the second pattern with two stray duplicates, cleared) and the three sweep-written rows SRC-R5-016, -017 and -018 (notes and review fields re-aligned). By script, each row asserted against its exact pattern before editing; afterwards every `derived_location` is a path or empty, no `additional_project_ids` holds text, and all 28 fields line up with the header. Record of every row and its old value: `sources_repair_RECORD.csv`.
+- SRC-R5-016's register row names an extract file that is not in the repo (VAL-S261008-16). The 46-row drift had hidden extracts from any tool that follows `derived_location`.
+
+## Session 13g (26/10/08): figure screen
+
+- New read-only `tools/figure_check.py` and its output `figure_check_report.md`: for every claim, each number in the proposition is looked for in the extracts of the sources its evidence links cite. After the sources repair, 284 of 312 claims with figures have every figure found in a cited extract, 26 have an unmatched figure and 2 cite a source without an extract. It ranks spot checks (AGENTS.md priority: high-risk numerical claims); it does not verify anything. The 17 claims worth checking first are VAL-S261008-17; several unmatched items are dates, unit conversions or derived ratios.
+
+## Session 13h (26/10/08): drift repaired in evidence links, measurements, tenders and validation actions
+
+- Format checks (dates, version labels) over every register found the same displaced-column pattern again: 54 evidence-link rows (reviewer and review date held text, the extract path sat in `notes`, family, version and batch were one to three columns early), 67 measurement rows (`probability_basis` held the codebook version, `codebook_version` the batch), one tender row (T04-LCRFILM: a split claim list and a missing cell) and one validation row (VAL-G2-001: missing `source_id`). Each fixed by script against its exact pattern; old values in `evidence_repair_RECORD.csv`, `measurements_repair_RECORD.csv` and `register_misc_repair_RECORD.csv`. After repair every date and version cell in these registers passes its format check and every row has the header's width.
+- Reviewer and review date are blank on the 54 evidence rows (the old layout held notes in those cells, not people or dates). Nothing was invented.
+
+## Session 13i (26/10/08): one-pass question sheet
+
+- New read-only `tools/question_sheet.py` and its output `iain_question_sheet.md`: everything only Iain can supply, in one table with one answer per client where possible (59 completed projects across 50 clients for acceptance, 9 citation statuses, 20 contracting roles, 31 open validation actions, 3 statement approvals). Answers are entered into the registers by Devin with the basis written to `14_fact_provenance.csv`; nothing is guessed.
+
+## Session 13j (26/10/08): ontology draft revision 3
+
+- `ontology_v2_DRAFT.md` brought up to date with decisions 1 to 15 and the work built since: entities table (requirements as per-tender files, method statements, people, provenance), taxonomy section (corrections done, evidence kinds not a ladder, current counts), E4 wording (UNKNOWN never N/A, plus the additive statement rule), method and team section, generality results (the dashboard-build case fails; only five of 23 tenders have usable wording), register-fix list with status and current check counts, the closed and still-open lists, and a new section 15 listing the adoption changes (none weakens a test; check 6 would be strengthened). Still a draft; adoption needs a final lane review and Iain's approval.
+
+## Session 13k (26/10/08): client acceptance recorded for the five multi-project clients
+
+- Iain answered Y for every client with several projects (question sheet section 2): Wakefield Council, South Yorkshire Mayoral Combined Authority, Lancaster University, Liverpool City Region, Liverpool City Region Combined Authority. `client_accepted` set to Y on the 14 completed projects of those clients; one provenance row each in `14_fact_provenance.csv` (basis IAIN_STATEMENT, bulk statement, no written record checked), and a per-project changelog entry each. For the bid-support projects (Lancaster Horizon bid, True North) it means the support work was accepted, not that the bid won. For the LCR Production Fund Final Evaluation the client itself is still inferred from file names (VAL-S261007-01).
+
+## Session 13l (26/10/08): client acceptance recorded for Scotland, the North and bid-support projects
+
+- Iain answered Y for the Scotland and the North group and the bid-support group. `client_accepted` set to Y on 13 completed projects (P01-NES, P06-COSTAR, P12-KIRK15, P18-GRIMSBY, P23-DERBY, P25-LANCGP, P28-CALDER, P29-SOLENTCGP, P30-HEREFORD, P35-DERBYMAP, P46, P84, P85-AMGEN); P10-KIRK is in progress and unchanged. For bid-support projects Y means the support work was accepted, not that the bid won. Basis IAIN_STATEMENT recorded in `14_fact_provenance.csv`.
+- Manchester City Council: only P54 (Manchester Place Partnership) is registered under that client, and it stays UNKNOWN. Iain noted the Manchester China work is BOP's and the Cultural Consortium advice is The Fifth Sector's; neither has a project row (the Consortium work appears only as prior experience in the P54 proposal). Not assigned to P54, per the project differentiation rule.
+
+## Session 13m (26/10/08): contracting roles for the Midlands and South group, Manchester findings
+
+- Iain: Greater Birmingham & Solihull LEP, West Midlands Combined Authority and West Midlands Growth Company work was BOP-led; all other clients in the group were The Fifth Sector. P04-GBSLEP and P05-WMCA already recorded BOP as prime. P47 (WMGC Pitch Books) set to `contracting_role`=ASSOCIATE, `prime_contractor`=BOP Consulting. P57 (Rushmoor) and P61 (Leicester) set to PRIME with The Fifth Sector as prime. Basis IAIN_STATEMENT in `14_fact_provenance.csv`; no contract checked.
+- P47 `fifth_sector_role` is still LEAD_CONSULTANT, which does not fit BOP associate work; left unchanged pending Iain's answer on the actual role.
+- Manchester: Google Drive checked (OneDrive not reachable from this session). Manchester Cultural Consortium and Cultural Leaders Group confirmed as one 2021 commission (proposal 10 Feb, World Cafe 30-31 Mar, final report, steering group of the Cultural Leaders Group and Manchester City Council); not yet registered, awaiting client, role and fee. No Manchester Creative People and Places bid found in Drive.
+
+## Session 13n (26/10/08): southern projects and P47 role
+
+- P52 (Somerset), P58 (Plymouth National Marine Park), P62 (Theatre Royal Plymouth) set to PRIME with The Fifth Sector as prime on Iain's statement (other southern projects all The Fifth Sector); contract not checked. P37 (Suffolk) not in the group, left empty.
+- P47 `fifth_sector_role` LEAD_CONSULTANT confirmed by Iain as his role while BOP Associate Director; BOP remains prime, so it does not imply Fifth Sector direct delivery. Provenance recorded.
+
+## Session 13o (26/10/08): Suffolk, Plymouth and Wakefield contracting roles
+
+- P37 Suffolk: PRIME, The Fifth Sector (Iain: "Fifth Sector, as a contractor"; read as direct contractor to the client, to confirm).
+- P58 Plymouth National Marine Park: corrected from PRIME to SUBCONTRACTOR, prime University of Plymouth (Iain).
+- P48 Wakefield Creative Skills (Creative Wakefield): ASSOCIATE, prime BOP Consulting. P64-BCJ, P69-OURYEAR, P70: PRIME, The Fifth Sector.
+- Liverpool Music City 2019 (Associate at BOP) not matched to a single register row; P15-LIVMUS (2017-18) and P19-LCRIMM (2019) already BOP-prime. Left unchanged pending Iain's pointer.
+
+## Session 13p (26/10/08): evaluator role consistency
+
+- P43 and P51 `fifth_sector_role` changed from EVALUATOR to EVALUATOR;LEAD_CONSULTANT on Iain's instruction, matching P88-LCRPF24. Provenance recorded. Manchester Place Partnership (P54) confirmed as the only Manchester bid; no separate Creative People and Places project.
+
+## Session 13q (26/10/08): P54 bid outcome
+
+- P54 Manchester Place Partnership `programme_status`=NOT_AWARDED on Iain's statement; lifecycle_status stays COMPLETED. Its four DESIGN claims (C-G2-228 to 231) set to `option_state`=EXPIRED, per the unsuccessful-bid rule. Stage reached, notification type and buyer scores still to record.
+
+## Session 13r (26/10/08): P88-LCRPF24 contract evidence
+
+- Searched Google Drive for a PO or contract for the LCR Production Fund Final Evaluation (P88-LCRPF24); none found. Iain: no PO or contract found means there was none. Recorded in relationship_evidence and provenance; OneDrive still unchecked and contracting_role still empty.
+- Noted: the Drive copy of the P51 card (modified 26/10/08) records DIRECT, competed tender DN619939, contract C0764, award letter 24/08/22; the repo copy says NOT_ESTABLISHED. Not applied; awaiting Iain's confirmation.
+
+## Session 13s (26/10/08): P51 contracting role
+
+- P51 (South Yorkshire Additional Restrictions Grant Evaluation) set to DIRECT, prime The Fifth Sector, on Iain's confirmation. Card line updated. Tender and contract references come from the Drive copy of the card; the award letter itself has not been seen by this session. Seven contracting roles remain empty.
+
+## Session 13t (26/10/08): remaining contracting roles
+
+- P43, P45, P46, P54, P63, P84: PRIME, The Fifth Sector (Iain). P50 UKRI Liverpool Visit: DIRECT, direct commission from AHRC, prime The Fifth Sector (client field left as UKRI, noted). Contracts not checked. Only P88-LCRPF24 completed-project contracting role remains empty (no contract found; how it was commissioned unknown).
+
+## Session 13u (26/10/08): P88-LCRPF24 contracting role
+
+- P88-LCRPF24 set to DIRECT, prime The Fifth Sector: direct commission from Liverpool City Council on behalf of LCRCA (Iain); no contract or PO exists. VAL-S261007-01 marked partial (contract value and client-of-record wording still open). MS-02 text updated; it stays DRAFT and only Iain moves it to CURRENT. All completed projects now have a contracting role.
+
+## Session 13v (26/10/08): P88-LCRPF24 client wording
+
+- Iain: the Combined Authority is the client of the Production Fund final evaluation; Liverpool City Council led procurement. Register client unchanged; evidence wording, provenance, VAL-S261007-01 and MS-02 text corrected to match (earlier wording said commissioned by the Council on behalf of LCRCA).
+
+## Session 13w (26/10/08): P88-LCRPF24 purchase order
+
+- Iain supplied invoice INV-1322 (31/03/25) from The Fifth Sector to Liverpool City Council, PO 3500515342, 9,999.00 ex VAT, paid in full. A PO therefore exists; the earlier "none exists" wording is superseded in the register, provenance, VAL-S261007-01, MS-02 and the card. Value is this invoice only. Invoice not stored in the repo because it carries bank details.
+
+## Session 13x (26/10/08): citation status for P01 to P09, contracting roles aligned
+
+- All nine set to `citation_status`=DELIVERED_WORK on Iain's statement (a fact about work done, not permission to name clients).
+- Contracting roles on Iain's statement: P04-GBSLEP and P05-WMCA ASSOCIATE to BOP Consulting (previously SUBCONTRACTOR and BOP_ASSOCIATE; same meaning, now one label); P03-MITIH and P06-COSTAR DIRECT; P01, P02, P07, P08, P09 PRIME. P06, P07, P09 were previously ADVISORY (Iain 26/09/12) and P03 PRIME; old values are in provenance. P07 and P09 now read as prime commissions, not advisory to a consortium.
+
+## Session 13y (26/10/08): validation actions triage
+
+- Three actions checked against the registers and resolved: VAL-S261008-09 (no method row names a missing claim), VAL-S261007-13 (no DESIGN or OPTION claim on a NOT_AWARDED project lacks EXPIRED), VAL-S261007-09 (no completed project has UNKNOWN citation status). 28 remain open for Iain.
+
+## Session 13z (26/10/08): spot-check of 17 flagged claims
+
+- Compared the 17 claims in VAL-S261008-17 against their cited extracts (`claims_spotcheck_RECORD.csv`): 11 verified (format, derived or rounded; C-G2-332 862 is the actual count, 860 the report's rounding, per Iain), 1 query on classification (C-G2-096, a UK-wide estimate typed EFFECT on P46), 3 not found in cited extracts (C-G2-333, 384, 407), 1 partial (C-G2-461: source is a DRAFT), 1 wrong source on the evidence link fixed (E-G2-242 now cites SRC-R2-02, where the C-G2-337 figures appear verbatim). No claim text changed; corrections wait for Iain. VAL-S261008-17 marked PARTIAL.
+
+## Session 13aa (26/10/08): spot-check decisions
+
+- C-G2-096 reclassified EFFECT to CONTEXT (effect_family NOT_APPLICABLE), a UK-wide estimate quoted in the Tees Valley baseline. C-G2-461 "finalised" confirmed by Iain. C-G2-333, 384 and 407 left as is on Iain's instruction. VAL-S261008-17 RESOLVED.
+
+## Session 13ab (26/10/08): 2016 Beatles Heritage report re-extracted
+
+- Iain supplied the PDF of the Beatles Heritage in Liverpool report (IPM / EIUA / ICC for Liverpool City Council). Extracted all 48 pages to `extracted_text/SRC-R5-016_v1_full.txt` (pages 46 to 48 blank); SRC-R5-016 now points at it with quality COMPLETE. VAL-S261008-16 resolved. Cover date reads November 2015 while the register says 25/11 and the title says 2016 baseline: date still to check.
+
+## Session 13ac (26/10/08): review of the legacy-columns proposal
+
+- Full lane review (sark, blindspot, deepthink, sheldon, wishful, thad, shaz, skin, fok; grey skipped, no buyer intelligence) of VAL-S261008-11, recorded in `legacy_columns_REVIEW.md`. No data changed. Recommendation: clear 387 exact duplicates to empty, one commit per column, with a record file, a restore test and a new additive column check; hold 26 non-duplicate cells for Iain. Awaiting Iain's decision.
+
+## Session 13ad (26/10/08): the three unverified spot-check claims
+
+- Iain: the other three claims come from finalised documents, check the folders. Checked: C-G2-333 (49%) is derived, (3,280 + 1,855) / 10,490 = 48.95%; C-G2-384 (8 to 10 businesses, 50-50 balance) is spoken in words in the SRC-R2-03 transcript; C-G2-407 (Phase 3, 18 months) is in SRC-R3-02, not SRC-R3-01, so evidence link E-G2-313 now cites SRC-R3-02. All three verified; no claim wording changed. Earlier "left as is" note superseded.
+
+## Session 13ae (26/10/08): legacy claims columns, record and tool (Option B, step 1)
+
+- Iain approved Option B (clear 387 exact-duplicate cells to empty), the codebook rule, the new column check and holding the 26 non-duplicates. Step 1: `tools/clear_legacy_columns.py`, `claims_legacy_clear_RECORD.csv` (387 rows: claim, column, old value, claim type, batch, base commit a5e9800) and `claims_legacy_held_LIST.csv` (26 held cells: 21 pre-retype claim types, 5 older role strings). Restore test: clearing then restoring from the record reproduces 04_claims.csv byte for byte. No claims data changed in this commit.
+
+## Session 13ae-publication_status (26/10/08): 301 displaced values cleared in publication_status
+
+- Cleared 301 exact-duplicate values in `publication_status` to empty (rows listed in claims_legacy_clear_RECORD.csv; restore from that file or revert this commit). Only this column changed (verified cell by cell). Empty means not recorded.
+
+## Session 13ae-commercial_reuse (26/10/08): 54 displaced values cleared in commercial_reuse
+
+- Cleared 54 exact-duplicate values in `commercial_reuse` to empty (rows listed in claims_legacy_clear_RECORD.csv; restore from that file or revert this commit). Only this column changed (verified cell by cell). Empty means not recorded.
+
+## Session 13ae-reviewer_confidence (26/10/08): 32 displaced values cleared in reviewer_confidence
+
+- Cleared 32 exact-duplicate values in `reviewer_confidence` to empty (rows listed in claims_legacy_clear_RECORD.csv; restore from that file or revert this commit). Only this column changed (verified cell by cell). Empty means not recorded.
+
+## Session 13af (26/10/08): claims column check and QA item 14
+
+- Added `tools/check_claims_columns.py` (read-only, keyed by header name, table of allowed values per column, cross-field copy test, self-test with a seeded bad row) and QA checklist item 14 in AGENTS.md (Iain approved). On the pre-clear data it reports 413 violations; now 26, exactly the held cells. Not yet in the pre-commit hook: it would block every commit until Iain rules on the 26.
+
+## Session 13ag (26/10/08): codebook rule and VAL-S261008-11 update
+
+- Codebook additions: empty means not recorded; gates treat empty publication_status and commercial_reuse as INTERNAL_ONLY; existing INTERNAL_ONLY, NONE_FOUND_IN_REVIEW and MEDIUM values are script defaults, not review outcomes. VAL-S261008-11 updated (stale counts replaced) and marked PARTIAL: 26 held cells await Iain.
+
+## Session 13ah (26/10/08): validation actions on the claims deletion
+
+- VAL-S261008-13: traced the deletion to commit eb2674d (251 rows removed, none added; scripts do not write the claims file). Found that the Drive canonical 04_claims.csv (239,822 bytes) still matches the pre-restore repo copy, so a Drive to mirror sync could overwrite the restored claims. Needs Iain.
+- VAL-S261008-14: the five C-R5-524 to 528 claims did exist and were deleted by the same commit; they are recoverable from git but carry old-shape values, so restoration is proposed, not done.
+
+## Session 13ai (26/10/08): five deleted claims restored
+
+- Restored C-R5-524 to 528 (deleted by commit eb2674d) from its parent, with their 7 evidence links already in place. Normalised on the way in, recorded in `claims_restore2_RECORD.csv`: effect_family set to a valid value (the old value was the claim type), commercial_reuse UNRESTRICTED_INTERNAL cleared (not a codebook value), C-R5-527 option_state UNKNOWN (bid pending) with its BIDDER role kept as recorded for review. Claims now 595; unique IDs; evidence links all resolve; QA item 14 still shows only the 26 held cells. VAL-S261008-14 resolved.
+- **P82**: SUBCONTRACTOR to University of Plymouth — FCDO contracted to UoP via BC, never touched The Fifth Sector; "FCDO-funded" now qualified as programme-level
+- **P33**: published credit line verified verbatim — "The Fifth Sector Limited / Unscrambled.world — In partnership with University of Liverpool IPM"; Unscrambled=The Fifth Sector subcontractor (no ask), IPM=Next Wave partner (implied); £75m Table 18 confirmed; commissioner TBC (likely LCC)
+- **NCDO consortium intel (26/10/07)**: Iain spoke with Towell ~26/09 — Towell close to a deal with MyCake + Etic Lab for continuing NCDO operation. The three are a forming consortium, to be treated as a unit rather than separate candidates. Bid shape updated: The Fifth Sector prime + NCDO trio named associates + Scotland wellbeing-policy specialist. Towell note rewritten as follow-up offering early joint work under The Fifth Sector lead.
+- **T22-VAIMP registered (26/10/07)**: V&A Impact Study ITT — study of V&A's impact on UK creative industries, fixed fee cap £60k, deadline 10:00 26/10/19, sequential kill-gate scoring (case studies first). Pack extracted as SRC-R5-172. TRIAGE: BID recommended pending Iain decision — brief cites IIPP ecosystem framing and spillovers, The Fifth Sector signature territory; P78-BEATLES delivered today as fresh flagship case study. Key risks: 12-day turnaround, referee permissions, concurrency with T21.
+- **T22 solo-vs-collab review (26/10/07)**: blindspot/deepthink/wishful applied. Verdict: hybrid — The Fifth Sector prime + named associates via PQQ 1.14a lead+sub-consultant model. Solo passes the case-study gate but leaves Team + method-blend marks; full consortium is the highest ceiling but chains 3 unverified assumptions (deal status, availability, shares) inside 7 days. Decision point ~14/10.
+- **Review lanes run on T22-VAIMP** (blindspot, deepthink, sheldon, wishful, thad, grey, shaz, skin, fok; all advisory, none blocked). Convergent findings: no candidate is clearly an institution-impact study; Beatles Visitor Impact Study and LCR Production Fund Final Evaluation 2024-25 have no coded claims; client acceptance and several contracting roles unknown; CICP Impact and Delivery Evaluation is subcontractor work, not The Fifth Sector-owned; the view's keyword filter searches names only and missed Theatre Royal Plymouth Engagement and Wakefield Our Year 2024 BCJ.
 - **Next-steps doc rewritten for sharing (26/10/08)**: plain project/programme names throughout (shareable with humans), full CAN question text embedded for CS (9 questions incl. held Q3) and TVCA (6 drafted questions). Mirrored to proposal_docs/.
 - **T22 case-study slot revised (26/10/08)**: CICP dropped as a case study — only referees are BOP/Frontier, and BOP is a likely rival bidder (would be refereeing a competitor's bid using work they'd claim themselves). CICP method story moves to proposal prose (no referee needed). Fifth slot: SYMCA Arts Revenue Grant Evaluation (sector-specific cultural funding eval — Iain correction) vs LCR Production Fund Final Evaluation; SYMCA needs a new referee ask, LCR CA ask already drafted.
 - **P51 SYMCA ARG backfilled (26/10/08)**: contracting_role DIRECT confirmed from archive — competed tender DN619939, award letter 24/08/22 (Price 23/30, Quality 56/70), contract C0764, signed DSA, PO on file. Name corrected: ARG = Additional Restrictions Grant (COVID-19) for Culture/Arts/Heritage, not "Arts Revenue Grant". Card created; open: contract value, client acceptance, claims coding.
@@ -672,7 +893,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **Contract-evidence registrations 3 (26/10/08)**: 5 new projects from archive contract sweep — P92-BAY Bay Cultural Compact sector mapping (South Lakeland DC, CONT0607 £28,988 ex VAT, intention to award 01/10/20); P93-WOW Writing on the Wall NPO application support (£5,000/10 days, Bennett+Ratnaraja, appointment letter 23/02/22); P94-CTC Coast to Capital LEP digital infrastructure research (signed contract on file, value unread); P95-LIVCS30 Liverpool Cultural Strategy 2030 (LCC contract + PO £4,800, total unconfirmed); P96-LIVDI LCR Digital Infrastructure Action Plan (LCR LEP contract £46,200 + CBN agreement). Matches resolved per Iain: HOST contract (£25,000, 24/02/25) = P03-MITIH; Xcellerator docs = programme monitoring inside P70 Wakefield SNA (INV-1281 £8,000+VAT); TAA P4174 immersive market mapping subcontract (£600/day) = P58 Plymouth NMP second engagement channel. Index regenerated to 76 projects.
 - **Registrations 3 corrections (26/10/08)**: P94-CTC omitted per Iain (row/card/changelog removed). P95-LIVCS30 — not new work, known 2020 Liverpool Cultural Strategy; £4,800 PO is the only invoice, engagement complete → PAID_IN_FULL. P96-LIVDI — contracting_role corrected to SUBCONTRACTOR via CBN; £46,200 is the CBN–LCR LEP prime contract, The Fifth Sector subcontract value not stated. P92-BAY confirmed genuinely new (no Lakeland/Cumbria/Compact row existed). Index: 75 projects.
 - **Contract/fee backfill sweep 4 (26/10/08)**: P21 INV-1222 £4,975+VAT; P57 Rushmoor PO 150000979 (£15,900 instalments 2021-22); P89 INV-1343 £6,999 + INV-1345 £3,000 = £9,999 net; P35 subcontractor SoWs (Ratnaraja £7,800, Fowler) with TVCA-reference anomaly flagged; P05 folder contract is Curator–BOP (likely BOP-associate, Iain to confirm); P14 BOP subcontract agreements consistent with ASSOCIATE role.
-- **Naming rule tightened (26/10/08)**: TFS banned everywhere including internal registers (Iain). All 78 bare TFS instances replaced with "The Fifth Sector" across registers, cards, changelogs, people records and proposal docs; AGENTS.md rule updated — only verbatim filenames (e.g. TFS_logo) exempt.
+- **Naming rule tightened (26/10/08)**: The Fifth Sector banned everywhere including internal registers (Iain). All 78 bare The Fifth Sector instances replaced with "The Fifth Sector" across registers, cards, changelogs, people records and proposal docs; AGENTS.md rule updated — only verbatim filenames (e.g. TFS_logo) exempt.
 - **client_accepted backfilled (26/10/08)**: Iain confirms no outstanding invoices — all paid in full. 60 COMPLETED projects set PAID_IN_FULL; IN_PROGRESS rows (incl. P31-PRODPARK unfinished) left UNKNOWN.
 - **P31-PRODPARK status (26/10/08)**: ON_HOLD + PART_PAID (Iain) — incomplete, part paid, may never recommence. Sole exception to the all-paid sweep.
 - **Next-steps doc (26/10/08)**: case-study evidence bullet added — contract/award evidence now on file for all five V&A candidates; all completed projects confirmed paid in full.
+- **Branch merge: claude/dazzling-hamilton (26/10/08)**: merged the parallel agent's ~50-commit repair branch into main — 244+5 restored claims (596 rows incl header), column realignments, contracting-role pass, method statements, selection tooling, P54 programme NOT_AWARDED, citation_status DELIVERED_WORK fills. Field-level merge of 01_projects.csv: our notes appended to theirs (union), our PAID_IN_FULL kept over their Y, their contracting_role/citation/relationship fields kept where non-empty, our lifecycle/status corrections kept. Conflicts resolved: P88 card (our value + their role), append-only logs unioned, regenerable files regenerated. P31 citation_status corrected to LIVE_WORK (ON_HOLD work cannot claim delivered). TFS re-swept on branch-brought content.

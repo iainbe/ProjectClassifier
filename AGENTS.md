@@ -35,7 +35,7 @@ When reviewing claims:
 
 ## Naming convention (26/10/08, Iain)
 
-The company is written **"The Fifth Sector"** or "The Fifth Sector Limited" — NEVER "TFS", anywhere. The ban applies to all registers, notes fields, changelogs, cards and internal docs, not just outgoing prose. Verbatim source-material references (e.g. an existing filename like `TFS_logo`) are the only exception, and those stay verbatim inside quotes.
+The company is written **"The Fifth Sector"** or "The Fifth Sector Limited" — NEVER abbreviated to its initials, anywhere. The ban applies to all registers, notes fields, changelogs, cards and internal docs, not just outgoing prose. Verbatim source-material references (e.g. an existing filename like `TFS_logo`) are the only exception, and those stay verbatim inside quotes.
 
 ## Canonical person records (26/10/08)
 
@@ -231,6 +231,7 @@ Before completing any QA batch, run ALL of these checks:
 11. **Conflation check**: claim geography vs project geography — flag mismatches that aren't comparators
 12. **Strong causal verbs in non-EFFECT claims**: scan for "caused", "enabled", "instrumental", "catalysed" in CONTEXT/DESIGN claims; review semantically (some are descriptive, not causal)
 13. **Sources with empty project_id**: verify these are tender pipeline items, not missing assignments
+14. **Governed claims columns**: run `python3 -I tools/check_claims_columns.py` — `publication_status`, `commercial_reuse`, `reviewer_confidence` and `contrary_evidence` must hold only codebook values or be empty, and never a copy of another field (batch code, method ID, claim type, role list). Empty means not recorded and any gate must treat an empty `publication_status` or `commercial_reuse` as INTERNAL_ONLY, never as unrestricted. Expected result until Iain rules on `claims_legacy_held_LIST.csv`: 26 violations (21 pre-retype claim types, 5 older role strings); any other violation is new and must be fixed (added 26/10/08, Iain)
 
 ## Live-work capture rules
 

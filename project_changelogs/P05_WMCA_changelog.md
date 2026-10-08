@@ -104,6 +104,12 @@ SRC-R2-06 (`190730 final.docx`) is a client-authored document (Pritpal Bhurji), 
 - **Card corrections:** precedent reframed as "delivered under BOP associate arrangement" — claimable as company experience delivered under BOP contract, not sole delivery.
 - **Status:** Index card REVIEWED.
 
-## 26/10/08 — Contracting structure flagged
+## 26/10/08 — claims restored
 
+- 10 claims restored to `04_claims.csv` (they were deleted in commit eb2674d on 26/09/16; recovered from commit 4a92a71). See `claims_restore_RECORD.csv`. Counts of coded claims, and so evidence-kind counts for this project, rise accordingly.
+
+## 26/10/08 — Citation status and contracting role
+
+- `citation_status`=DELIVERED_WORK; contracting role ASSOCIATE, prime BOP Consulting on Iain's statement (BOP associate). Contract not checked. Earlier values kept in `14_fact_provenance.csv`.
+## 26/10/08 — Contracting structure flagged
 - Folder contract is Curator Technologies–BOP Consulting — likely BOP-associate work; contracting_role pending Iain confirmation.

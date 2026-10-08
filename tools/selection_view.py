@@ -26,29 +26,12 @@ def rows(p):
     with open(p, newline='', encoding='utf-8') as f:
         return list(csv.DictReader(f))
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument('--tender'); ap.add_argument('--label')
-    ap.add_argument('--keywords'); ap.add_argument('--kinds')
-    ap.add_argument('--requirements', help='tender id; reads tender_requirements/<id>.md (Iain decision 13, 26/10/08)')
-    ap.add_argument('--item', default='case-studies', help='item heading in the requirements file')
-    ap.add_argument('--order', choices=['alpha', 'proposed'], default='alpha')
-    ap.add_argument('--geography', default='')
-    a = ap.parse_args()
-    req_note = ''
-    if a.requirements:
-        item = {}; head = {}; cur = None
-        for line in open('tender_requirements/%s.md' % a.requirements, encoding='utf-8'):
-            line = line.rstrip('\n')
-            if line.startswith('## item:'): cur = line.split(':', 1)[1].strip(); item[cur] = {}; continue
-            m = re.match(r'^([a-z_]+): (.*)$', line)
-            if m: (item[cur] if cur else head)[m.group(1)] = m.group(2)
-        it = item[a.item]
-        a.tender = a.tender or head['tender_id']; a.label = a.label or it['label']
-        a.keywords = a.keywords or it['keywords']; a.kinds = a.kinds or it['kinds']
-        req_note = 'Requirements read from `tender_requirements/%s.md` (item `%s`, frozen %s, %s).' % (a.requirements, a.item, head.get('frozen_on', '?'), head.get('status', ''))
-    if not (a.tender and a.label and a.keywords and a.kinds):
-        ap.error('give --requirements, or all of --tender --label --keywords --kinds')
+def build(keywords, kinds_text, order='alpha', geography=''):
+    """Candidate lists for one requirement item. Returns (kinds, elig, reg, cands, near, reasons).
+    cands are (name, project_id) in the chosen order; reasons maps project_id to its 'placed because' text."""
+    class a:  # keeps the original expressions unchanged
+        pass
+    a.keywords = keywords; a.kinds = kinds_text; a.order = order; a.geography = geography
     kinds = [k.strip() for k in a.kinds.split(',')]; rx = re.compile(a.keywords, re.I)
     elig = {r['project_id']: r for r in rows('eligibility_report.csv')}
     reg = {r['project_id']: r for r in rows('01_projects.csv')}
@@ -81,6 +64,35 @@ def main():
                 ('; geography ' + ('matches' if geo == 0 else 'differs')) if a.geography else '')
             return (-nk, rolerank.get(role, 3), -datekey(p.get('date_end', '')), geo, item[0])
         cands.sort(key=key)
+    return kinds, elig, reg, cands, near, reasons
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--tender'); ap.add_argument('--label')
+    ap.add_argument('--keywords'); ap.add_argument('--kinds')
+    ap.add_argument('--requirements', help='tender id; reads tender_requirements/<id>.md (Iain decision 13, 26/10/08)')
+    ap.add_argument('--item', default='case-studies', help='item heading in the requirements file')
+    ap.add_argument('--order', choices=['alpha', 'proposed'], default='alpha')
+    ap.add_argument('--geography', default='')
+    a = ap.parse_args()
+    req_note = ''
+    if a.requirements:
+        item = {}; head = {}; cur = None
+        for line in open('tender_requirements/%s.md' % a.requirements, encoding='utf-8'):
+            line = line.rstrip('\n')
+            if line.startswith('## item:'): cur = line.split(':', 1)[1].strip(); item[cur] = {}; continue
+            m = re.match(r'^([a-z_]+): (.*)$', line)
+            if m: (item[cur] if cur else head)[m.group(1)] = m.group(2)
+        it = item[a.item]
+        a.tender = a.tender or head['tender_id']; a.label = a.label or it['label']
+        a.keywords = a.keywords or it['keywords']; a.kinds = a.kinds or it['kinds']
+        req_note = 'Requirements read from `tender_requirements/%s.md` (item `%s`, frozen %s, %s).' % (a.requirements, a.item, head.get('frozen_on', '?'), head.get('status', ''))
+    if not (a.tender and a.label and a.keywords and a.kinds):
+        ap.error('give --requirements, or all of --tender --label --keywords --kinds')
+    kinds, elig, reg, cands, near, reasons = build(a.keywords, a.kinds, a.order, a.geography)
+    checks = ['E1_delivered', 'E2_citable', 'E3_lapsed_option', 'E4_method_current', 'E5_role_wording']
+    need = {'E1_delivered': 'client acceptance', 'E2_citable': 'citation status', 'E4_method_current': 'method rows',
+            'E5_role_wording': 'contracting role / prime contractor'}
     L = ['# Candidate view: %s - %s' % (a.tender, a.label), ''] + ([req_note, ''] if req_note else []) + [
          'Derived, read-only. **Not a recommendation and not ranked.** Subject keywords: `%s`. Evidence kinds wanted: %s.' % (a.keywords, ', '.join(kinds)),
          'These are the operator\'s reading of the buyer\'s ask; Iain to correct. Candidates are in alphabetical order; kinds are never ranked against each other.', '',

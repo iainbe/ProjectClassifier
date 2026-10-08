@@ -10,7 +10,9 @@ Checks (ontology_v2_DRAFT.md section 4, decisions 2-6):
   E2 Citable         citation_status is DELIVERED_WORK or PUBLIC_REPORT
   E3 Lapsed option   on a project with a NOT_AWARDED marker (lifecycle or programme_status),
                      every DESIGN and OPTION claim must be EXPIRED
-  E4 Method current  has method rows and none SUPERSEDED (UNKNOWN when there are no rows)
+  E4 Method current  has method rows and none SUPERSEDED (UNKNOWN when there are no rows); also FAIL when a method row
+                     links (statement_id) to a method statement whose status is SUPERSEDED (added 26/10/08, additive:
+                     every earlier UNKNOWN, PASS and FAIL result is unchanged). A linked DRAFT or missing statement only adds a note
   E5 Role wording    contracting_role set, and prime_contractor set when the role is not PRIME/DIRECT
 Referee permission is NOT a check: referees are cited in the tender and asked only once
 shortlisted (Iain 26/10/08); the state is derived from 11_permission_requests.csv. Evidence kinds are parallel and never ranked against each other.
@@ -23,11 +25,24 @@ or UNKNOWN.
 Outputs: eligibility_report.csv and eligibility_report.md (derived; regenerate after any
 change to the register, claims, methods or permission file).
 """
-import csv, collections, os
+import csv, collections, glob, os, re
 
 def rows(path):
     with open(path, newline='', encoding='utf-8') as f:
         return list(csv.DictReader(f))
+
+def statement_status():
+    """statement_id -> status, read from the header of method_statements/MS-*.md."""
+    out = {}
+    for path in glob.glob('method_statements/MS-*.md'):
+        inside = False; d = {}
+        for line in open(path, encoding='utf-8'):
+            line = line.rstrip('\n')
+            if line.strip() == '---': inside = not inside; continue
+            m = re.match(r'^([a-z_]+): (.*)$', line) if inside else None
+            if m: d[m.group(1)] = m.group(2)
+        if d.get('statement_id'): out[d['statement_id']] = d.get('status', '')
+    return out
 
 def main():
     P = rows('01_projects.csv'); C = rows('04_claims.csv'); M = rows('03_methods.csv')
@@ -47,6 +62,7 @@ def main():
     if os.path.exists('14_fact_provenance.csv'):
         for r in rows('14_fact_provenance.csv'):
             prov[(r['project_id'], r['field'])] = r['basis']   # later rows win
+    stmt = statement_status()
     out = []
     for p in P:
         pid = p['project_id']; cl = claims.get(pid, []); life = p['lifecycle_status']
@@ -66,6 +82,14 @@ def main():
         # E4
         ms = methods.get(pid, [])
         e4 = 'UNKNOWN' if not ms else ('FAIL' if any(m['method_status'] == 'SUPERSEDED' for m in ms) else 'PASS')
+        e4_note = ''
+        linked = sorted({m.get('statement_id', '') for m in ms if m.get('statement_id')})
+        if linked:
+            if e4 == 'PASS' and any(stmt.get(x) == 'SUPERSEDED' for x in linked):
+                e4 = 'FAIL'; e4_note = 'linked method statement is SUPERSEDED: ' + ';'.join(x for x in linked if stmt.get(x) == 'SUPERSEDED')
+            else:
+                notes = ['%s is %s' % (x, stmt[x]) for x in linked if x in stmt and stmt[x] != 'CURRENT'] + ['%s not found' % x for x in linked if x not in stmt]
+                e4_note = 'linked statement ' + '; '.join(notes) if notes else ''
         # E5
         role = p.get('contracting_role', ''); prime = p.get('prime_contractor', '')
         if not role:
@@ -93,6 +117,7 @@ def main():
             'E1_basis': prov.get((pid, 'client_accepted'), '') or ('no basis recorded' if e1 == 'PASS' else ''),
             'E2_basis': prov.get((pid, 'citation_status'), '') or ('no basis recorded' if e2 == 'PASS' else ''),
             'E5_basis': prov.get((pid, 'contracting_role'), '') or ('no basis recorded' if e5 == 'PASS' else ''),
+            'E4_note': e4_note,
             'referee_permission': 'ESTABLISHED' if pid in est else 'NOT_ESTABLISHED',
             'fully_determinable': 'YES' if 'UNKNOWN' not in (e1, e2, e3, e4, e5) else 'NO',
         })

@@ -1,0 +1,18 @@
+claim_id,verdict,note,follow_up
+C-G2-332,VERIFIED_ROUNDED,"Source SRC-R2-02 states 860 FTE (rounded); Iain 26/10/08: 862 was the actual count, 860 the rounded figure. Claim stays at 862; cite 860 only if quoting the report",none
+C-G2-333,VERIFIED_DERIVED,"49% is not printed in SRC-R2-02 or in the final NES report (260508), but (3,280 freelance and self-employed + 1,855 Tier 4 core practitioners) / 10,490 = 48.95%. Derived; consistent with the claim wording",none (Iain 26/10/08: finalised documents; checked in folders)
+C-G2-335,VERIFIED_FORMAT,350K and 450K present in SRC-R2-01 as full figures,none
+C-G2-337,LINK_FIXED,"Figures are verbatim in SRC-R2-02 (NES Creative Industries Report), not SRC-R2-01 (Pinning Stones). Evidence link E-G2-242 changed to SRC-R2-02",done
+C-G2-343,VERIFIED_FORMAT,"234.0 million, 1,006 and 2,649 present in SRC-R2-02",none
+C-G2-010,VERIFIED_DERIVED,"Source table holds 100,979,000 and 63,935,000; 63% is 0.6332 in the table",none
+C-G2-518,VERIFIED_DERIVED,"As C-G2-010; percentages held as proportions (0.633, 0.0816 and similar) and values in whole pounds",none
+C-G2-522,VERIFIED_FORMAT,IT/software 0.0674 in the VAT sheet = 6.7%,none
+C-G2-521,VERIFIED_FORMAT,Series values present in SRC-G2-001; year pairs account for the screen miss,none
+C-G2-102,VERIFIED_FORMAT,"168, 233, 850 present in SRC-G2-067",none
+C-G2-092,VERIFIED_DERIVED,"Source: total project cost 34,371,864 and TVCA 20,000,000 (other funding 14,371,864; 34.37/20 = 1.72). Derived figures consistent",none
+C-G2-096,RECLASSIFIED,"Source quotes Oxford Economics: 10 jobs to 7 more, 1 pound to 0.5 pound. This is a UK-wide estimate; the source says it is not broken down regionally. The claim is typed EFFECT on P46, which looks wrong for a national estimate","done: EFFECT to CONTEXT, effect_family NOT_APPLICABLE (Iain 26/10/08)"
+C-G2-100,VERIFIED_FORMAT,3.0 present in SRC-G2-036,none
+C-G2-379,VERIFIED_FORMAT,300 present in SRC-R2-02,none
+C-G2-384,VERIFIED_SPOKEN,"SRC-R2-03 transcript: ""the aim is to get eight to ten other businesses in the room"" and ""preferably like 50-50 businesses and others"". Figures held in words in the transcript",none
+C-G2-407,LINK_FIXED,"""Phase 3: Full Devolution Case (18 months)"" is in SRC-R3-02 (250613 GMCA FGTG options for devolved approach), not SRC-R3-01. Evidence link E-G2-313 changed to SRC-R3-02. The proposal is a design, not an implemented phase",done
+C-G2-461,CONFIRMED_BY_IAIN,"Source SRC-R2-10 is headed DRAFT, April 2012; the claim says finalised 12/04. Date matches, finalised is not supported",none: Iain 26/10/08 confirmed the paper was finalised; claim stays

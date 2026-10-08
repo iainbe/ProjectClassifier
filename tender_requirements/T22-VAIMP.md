@@ -66,3 +66,15 @@ insurance_held: PI GBP 5m, PL GBP 5m, EL GBP 10m with Hiscox to 05/04/27 (compan
 bidding_model: Part 1B; a lead bidder with sub-consultants answers 1.14(a); a single composite response covers all (Clarification Q3); changes to the group must be notified immediately
 declarations: exclusion grounds under the Procurement Act 2023 (Parts 2.1 to 2.5); willingness to sign a data sharing or processing agreement and to allow DBS checks and vetting (3.3); modern slavery, net zero and carbon reporting answers (3.5, 3.6)
 reference_risk: PQQ third-party checks reserve the right to "request customer details to verify examples provided and take up a reference on any of the information you provide to us" at any stage. A named referee could therefore be contacted before shortlisting. Iain's rule stands (named in the tender, formally asked once shortlisted); the risk is only that a contact is called without warning, so a brief heads-up to each chosen contact is worth considering. Advice, not a gate
+
+## item: coverage
+label: Which method statements answer which V&A question (read by tools/method_view.py --requirements T22-VAIMP)
+q1: MISSING | How the V&A supports the creative industries: no statement describes mapping a support offer
+q2: MISSING | How practitioners engage with the collection in person and online: no survey, interview or participatory-research statement
+q3: MISSING | Influence on careers, practices or businesses over time: no longitudinal method; candidates evidence delivery or evaluator-reported effects
+q4: PARTIAL MS-02 | Wider ecosystem: monitoring data and stakeholder testimony only
+q5: PARTIAL MS-02 | Strongest and weakest impact, and for whom: concentration test only, no segmentation method
+q6: PARTIAL MS-03 | Distinctive contribution: contribution analysis exists as design only; MS-01 makes no counterfactual claim
+q7: PARTIAL MS-02 | Low-impact effort: for a funded programme only
+criterion_beyond_traditional_metrics: PARTIAL MS-03 | Only a design-only contribution; do not lead with it
+reading: read by Devin 26/10/08 from the brief and the three statements; Iain to correct. MISSING means no statement and no registered method; it does not mean the firm lacks the capability

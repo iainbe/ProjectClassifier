@@ -17,7 +17,7 @@
 | `commission_date` | 24 (year only; interview transcripts Aug 2024) | folder |
 | `completion_date` | 25/06/09 | SRC-G2-030 |
 | `contract_value` | £9,999 + VAT (£11,998.80) — INV-1322, PO 3500515342, 31/03/25, paid in full | Invoice INV-1322 |
-| `contracting_role` | NOT_ESTABLISHED — separately contracted in 2024 | Iain 26/10/07 |
+| `contracting_role` | DIRECT — held by The Fifth Sector; LCRCA client, Liverpool City Council led procurement | Iain 26/10/08 |
 | `geography` | Liverpool City Region | register |
 | `lifecycle_status` | COMPLETED | register |
 

@@ -1,6 +1,6 @@
-# Ontology v2 — DRAFT v2 for review (not adopted; committed on the working branch)
+# Ontology v2 — DRAFT revision 3 (not adopted; committed on the working branch)
 
-**Status:** DRAFT 26/10/07, revision 2 after THAD (advisory), generalisation dry-run across tenders, and consistency audit against the registers. Nothing here is implemented. No register, schema or rule has been changed on this basis (the only repo edit alongside it is the proposed review-protocol rule in `AGENTS.md`, also uncommitted). Supersedes the open options in `case_study_selection_decision.md` if adopted.
+**Status:** DRAFT revision 3, 26/10/08. Not adopted. Decisions 1 to 15 (section 13) are recorded and most of their register, tool and file changes are built and committed on the working branch; what is not done is adoption: the final lane review of this whole draft, Iain's approval, and the AGENTS.md changes listed in section 15. Supersedes the open options in `case_study_selection_decision.md` if adopted.
 
 ## 0. Principles
 
@@ -19,13 +19,18 @@
 | Project | The work done | `01_projects.csv` | `P##-NAME` |
 | Source / Claim / Method | as now | `02`, `04`, `03` | `SRC-…`, `C-…`, `M-…` |
 | Opportunity | A tender, bid or direct approach | `08_tenders.csv` | existing `T##-NAME` (e.g. `T01-BCAT`) |
-| **Requirement** (new) | One thing a buyer asks for, with its scoring rule | `12_requirements.csv` | `<tender id>#<n>` (e.g. `T22-VA#1`) |
-| **Use** (new) | Append-only log of which subject served which requirement | `13_uses.csv` | `U-…` |
+| **Requirement** | What a buyer asks for, with its scoring rule, per tender (decision 13) | `tender_requirements/<tender>.md`, linked from `08_tenders.csv` `requirement_map_location` | `## item:` blocks |
+| **Method statement** | Reusable "how we do this" text with status and disclosure (decision 14 and method package) | `method_statements/MS-nn_*.md`, `03_methods.csv` `statement_id` | `MS-nn` |
+| **Person / involvement** | Who did what on which project (decision 14) | `15_people.csv`, `16_involvement.csv` | `PER-nn`, `INV-nnnn` |
+| **Fact provenance** | Basis of a backfilled gating fact (decision 12) | `14_fact_provenance.csv` | `FP-nnnn` |
+| **Selection** (new) | Append-only log of the candidates considered for a requirement item, which were chosen and why not | `13_selections.csv` | `SEL-…` |
 | Referee record | Permission state and contact | `11_permission_requests.csv` — **single source of truth** | `PR-…` |
 
-A **subject** of a Use is one of: PROJECT, METHOD, PERSON (team member/CV), AUTHORED (new content written for this tender, e.g. a fresh theory of change). A case study is a Use of a Project; a method statement is a Use of a Method (or AUTHORED); a team section is a Use of PERSON subjects. These are uses, not entities.
+A **subject** of a Selection is one of: PROJECT, METHOD (through a method statement), PERSON (team member), AUTHORED (new content written for this tender, e.g. a fresh theory of change). A case study is a selection of a Project; a method section is a selection of a method statement (or AUTHORED); a team section is a selection of PERSON subjects. These are uses, not entities.
 
 ## 2. Requirement record
+
+Built as one Markdown file per tender (decision 13) holding the frozen contract and one block per requested item; `tools/selection_view.py --requirements` and `tools/method_view.py --requirements` read it. The fields below remain the guide to what a file may state; they become a flat register only if three tenders share a shape. First file: `tender_requirements/T22-VAIMP.md`.
 
 Core: `tender_id`, `ordinal`, `stage` (COMPLIANCE, QUALITY, PRICE, INTERVIEW), `question_type`, `weight`, `text_ref` (source and locator), `inferred` (Y/N).
 
@@ -35,17 +40,17 @@ Optional parameters (each tender uses the ones it states): `items_asked`, `refer
 
 Domain (sector mapping, programme evaluation…) is a *matching label* on projects and methods, rolled up from `sector_activity` and `method_family`. A requirement may also state a domain or comparability condition (e.g. "comparable studies in sector mapping"); when it does, domain is used for matching on that requirement.
 
-## 3. Claim taxonomy (codebook v1.3, no new vocabulary)
+## 3. Claim taxonomy (codebook v1.3 plus the v1.4 additions file; no new claim vocabulary)
 
 | Axis | Field | v1.3 values | Question |
 |---|---|---|---|
 | What is asserted | `claim_type` | CONTEXT, METHOD_OUTPUT, BID_SUPPORT_DELIVERED, DESIGN, DECISION_USE, EFFECT, UNKNOWN | What kind of statement? |
-| Form of change | `effect_family` | DIRECT, PRODUCT, KNOWLEDGE, NETWORK, OPTION, OTHER, NOT_APPLICABLE, UNKNOWN | What form, if any? |
+| Form of change | `effect_family` | DIRECT, PRODUCT, KNOWLEDGE, NETWORK, OPTION, NOT_APPLICABLE, UNKNOWN | What form, if any? |
 | Evidence state | `outcome_status`, `attribution_strength`, `value_basis` | REPORTED/CORROBORATED/…; DESCRIPTIVE/TESTIMONY/…; as AGENTS.md | How well evidenced? |
 
-Corrections needed (none made): 107 claims use `effect_family=CONTEXTUAL`, which no codebook version defines — recode to NOT_APPLICABLE; 1 claim has an empty `effect_family`; `case_study_selection_decision.md` line 30 labels `claim_type` values as `effect_family` (AGENTS.md itself is correct); `DECISION_USE` is defined (codebook line 39) and used by 0 claims — a client reusing our output is coded here with a documentary source; card-only `METHOD_TRANSFER` (University of South Wales AMGEN bid card and changelog) is not a codebook value and is retired in favour of DECISION_USE.
+**Corrections made (26/10/08).** 200 pure CONTEXT claims that used the undefined `effect_family=CONTEXTUAL` now carry NOT_APPLICABLE (record: `claims_contextual_RECORD.csv`); 5 claims that are not pure context still carry it for Iain to decide (VAL-S261008-15). No claim has an empty `effect_family`. `DECISION_USE` is defined and used by 0 of 590 claims; a client reusing our output is coded here when a documentary source is registered, and card-only `METHOD_TRANSFER` is retired in favour of it. 244 claims deleted in an earlier sweep commit were restored and 49 claims with displaced role and contribution columns were repaired (CHANGELOG sessions 13a to 13h).
 
-**Evidence class** (derived per claim; a project or method takes the highest class among its claims; ties shown as ties). Precedence high to low: CORROBORATED_EFFECT (EFFECT + CORROBORATED) > REPORTED_EFFECT (EFFECT + REPORTED) > DOCUMENTED_USE (DECISION_USE with registered source) > DELIVERED_OUTPUT (METHOD_OUTPUT or BID_SUPPORT_DELIVERED) > DESIGN_ONLY > CONTEXT_ONLY > NOT_ESTABLISHED (e.g. EFFECT + NOT_MEASURED). ASSERTED (reported by Iain, no registered source) sits below DELIVERED_OUTPUT and is shown separately; it is cleared when a source is registered. Current counts: CONTEXT_ONLY 116, DESIGN_ONLY 86, DELIVERED_OUTPUT 68, REPORTED_EFFECT 47, CORROBORATED_EFFECT 0, NOT_ESTABLISHED 2, DOCUMENTED_USE 0.
+**Evidence kinds (decisions 5 and 6).** There is no single evidence ladder. A project shows, side by side and never ranked, how many of its claims fall in each kind: delivered output (METHOD_OUTPUT, BID_SUPPORT_DELIVERED), effect reported (EFFECT where Fifth Sector was not the evaluator), effect as evaluator (EFFECT with an EVALUATOR role), documented use (DECISION_USE), design (DESIGN), context (CONTEXT). A tender item names the kinds it wants and the kinds act as a filter (decision 10). The strength within a kind (corroborated, reported, descriptive) is shown, and wording is capped at the cited claim's class (decision 11). Current claims: CONTEXT 225, DESIGN 154, METHOD_OUTPUT 110, EFFECT 87, BID_SUPPORT_DELIVERED 14, DECISION_USE 0. Claim counts reflect coding effort and are not a measure of strength.
 
 ## 4. Eligibility checks (PASS / FAIL / UNKNOWN / N/A)
 
@@ -56,10 +61,10 @@ UNKNOWN is shown and listed for fixing; it is never treated as pass or fail. N/A
 | E1 Delivered | `lifecycle_status` COMPLETED and `client_accepted` Y | register; **new column `client_accepted`** (Y/N/UNKNOWN) |
 | E2 Citable as the requirement allows | `citation_status` meets the requirement's `citation_rule` (default: DELIVERED_WORK or PUBLIC_REPORT) | **new register column `citation_status`** |
 | E3 Not a lapsed option | a bid-support commission is judged on its own delivery; the programme outcome is `programme_status` | `programme_status` (needs backfill, 47 blank) |
-| E4 Method current | method not superseded in an answer-changing way; N/A if the project has no method rows | `03_methods.method_status` (+ SUPERSEDED) |
+| E4 Method current | has method rows and none is SUPERSEDED (UNKNOWN when there are no rows, never N/A); also FAIL when a linked method statement is SUPERSEDED (added 26/10/08, additive) | `03_methods.method_status`, `statement_id`, statement status |
 | E5 Role wording resolvable | `contracting_role` set; `prime_contractor` required when role is not PRIME/DIRECT | register |
 
-**Lifecycle vocabulary.** Reconcile with codebook v1.3 §6.3 (PROPOSED, COMMISSIONED, IN_PROGRESS, COMPLETED, CANCELLED, UNKNOWN) rather than inventing a third set; 57 of 70 projects are already COMPLETED. Proposed v1.4 additions: NOT_AWARDED, BID_PENDING. Mapping: ACTIVE, ONGOING, IN_PROGRESS → IN_PROGRESS; COMPLETE_NOT_CLOSED, REPORTING_COMPLETE, PHASE_COMPLETE_AWAITING_INSTRUCTION → COMPLETED (closure detail in a note); PREFERRED_BIDDER, LIVE_BID → BID_PENDING. Phased or cyclical work (e.g. Kirklees Creative Industries Mapping, marked ongoing but with delivered cycles) is modelled as phases (`parent_project_id`, `phase_name`), not forced into one value. Bid support that was delivered while the bid failed (CoSTAR bid support; Creative City SIPF application; the Lancaster True North bid support) is COMPLETED with `programme_status=NOT_AWARDED`; AGENTS.md "Unsuccessful bids" and QA check 7 need a carve-out for these.
+**Lifecycle vocabulary.** Reconcile with codebook v1.3 §6.3 (PROPOSED, COMMISSIONED, IN_PROGRESS, COMPLETED, CANCELLED, UNKNOWN) rather than inventing a third set; 57 of 70 projects are already COMPLETED. Added in the register: BID_PENDING; NOT_AWARDED is reserved for `programme_status` (decisions 3 and 4). Mapping: ACTIVE, ONGOING, IN_PROGRESS → IN_PROGRESS; COMPLETE_NOT_CLOSED, REPORTING_COMPLETE, PHASE_COMPLETE_AWAITING_INSTRUCTION → COMPLETED (closure detail in a note); PREFERRED_BIDDER, LIVE_BID → BID_PENDING. Phased or cyclical work (e.g. Kirklees Creative Industries Mapping, marked ongoing but with delivered cycles) is modelled as phases (`parent_project_id`, `phase_name`), not forced into one value. Bid support that was delivered while the bid failed (CoSTAR bid support; Creative City SIPF application; the Lancaster True North bid support) is COMPLETED with `programme_status=NOT_AWARDED`; AGENTS.md "Unsuccessful bids" and QA check 7 need a carve-out for these.
 
 ## 5. Matching and ordering (no weights)
 
@@ -77,11 +82,13 @@ Runs only when the requirement has `referee_required=Y` or states a disclosure c
 
 ## 8. Method statements and team sections
 
-Method: same pipeline with Method subjects (`03_methods.csv`; `method_family` rolled up to about 10; E4 applies; evidence from the claims the method produced via `method_ids` on claims — join coverage to be audited). Team: PERSON subjects use the people register (`15_people.csv`, `16_involvement.csv`, decision 14).
+Method statements (method package, lane-reviewed 26/10/08): three layers. A rolled-up `method_family_rollup` (ten families, none above a fifth of methods) is a filter; a reusable **method statement** (`method_statements/MS-nn_*.md`) holds the "how we do this" text, an approval card, a generic bid-ready paragraph, what we can and cannot claim, an evidence class (DELIVERED, DESIGN_ONLY), a disclosure status and a status (DRAFT, CURRENT, SUPERSEDED, set to CURRENT only by Iain); and the **applications** are the existing method rows, linked by `statement_id`. Statements are written when a requirement needs them. `tools/method_view.py` hides claim wording and figures for any statement not cleared for disclosure, flags blockers, cautions and staleness in plain English, and with `--requirements` prints which statements cover which buyer questions (for T22-VAIMP: 3 of 8 questions have no statement). E4 applies. Evidence for a statement comes from the claims its applications produced via `method_ids`; the two-way link between methods and claims was checked 26/10/08 and has one mismatch left (VAL-S261008-12). Known limits: three statements exist; only five of 23 tenders carry usable requirement wording, so which method statements win points cannot be known (selection effect); BOP Consulting and other competitors are never asked for permission (PR-07).
 
-## 9. Use log
+Team: PERSON subjects use the people register (`15_people.csv`, `16_involvement.csv`, decision 14); `tools/people_view.py` states each person's role on each project with the project's contracting arrangement.
 
-`13_uses.csv`: tender, requirement, subject type and id, wording used, referee outcome, `score_received`, `score_scale`, outcome. Append-only. Scores do not feed ordering until 15–20 comparable scored uses exist; they are an audit trail. Unused strong candidates are logged with the reason.
+## 9. Selection log (candidates considered)
+
+`13_selections.csv`, append-only (Iain decision 15, 26/10/08; replaces the separate `13_uses.csv` use log). Written by `tools/record_selection.py` after Iain chooses: one row per candidate shown on a tender item, with its position in the default (alphabetical) order and in the proposed order, chosen Y or N, a reason code for each candidate not chosen (WEAKER_FIT, EVIDENCE_GAP, ROLE_WORDING, RESTRICTED_OR_CONSENT, REFEREE_UNLIKELY, PAGE_LIMIT, OTHER; NOT_RECORDED when none is given, never defaulted), and for chosen items the wording used and the referee outcome. A chosen project that was not in the view is recorded as OUTSIDE_VIEW. Buyer scores and outcomes are appended later as OUTCOME rows. Scores do not feed ordering until 15 to 20 comparable scored uses exist; the log is an audit trail and the test data for the trial ordering (would the proposed order have picked what Iain picked?). The tool writes nothing without `--write`.
 
 ## 10. Fact authority and maintenance
 
@@ -95,24 +102,25 @@ Method: same pipeline with Method subjects (`03_methods.csv`; `method_family` ro
 
 `regenerate_index.py` (lines 13, 38 read lifecycle and contract value from cards) is changed to read the register. Stale-artefact rule extended: regenerate the selection view after any change to the register, claims, methods, requirements or permissions.
 
-**New QA checklist items** (added to AGENTS.md on adoption): uses→projects/methods and uses→requirements foreign keys valid; no stored tier or score column anywhere; CONTEXTUAL count = 0; dangling claim/evidence references = 0; every UNKNOWN check listed on a fix list; tender IDs in requirements match `08_tenders.csv`. Every fix is a separate commit that satisfies the session-closure hook.
+**New QA checklist items** (added to AGENTS.md on adoption): selections→projects and selections→tenders foreign keys valid; every non-chosen candidate has a reason code or NOT_RECORDED; no stored tier or score column anywhere; CONTEXTUAL count = 0; dangling claim/evidence references = 0; every UNKNOWN check listed on a fix list; tender IDs in requirements match `08_tenders.csv`. Every fix is a separate commit that satisfies the session-closure hook.
 
-## 11. Generality tests (recorded results to be added)
+## 11. Generality tests (results, 26/10/08)
 
-Requirement records back-filled for T01, T13, T21, T22, T05 (and inferred for T04, T02, T14), marked inferred where applicable. Hypothetical (a) evaluation commission asking for a theory of change and method, no case studies: handled via AUTHORED subjects and the evidence-gap output. Hypothetical (b) sector-mapping tender asking for 3 comparable studies and CVs: handled via domain-stated matching, composition rule for figures, and PERSON subjects. Still to test: social-value, accreditation and framework call-off questions.
+Run so far: the T22-VAIMP candidate view through all nine tender-review lanes (findings in `tier2_qa_review.md` and the T22 notes), and the method package through eight lanes with the generality cases written into their briefs. Results: (a) a tender asking for a method statement for a data dashboard or framework build **fails** at present: the families and statements are evaluation and economic only, and the design can only say "no evidence"; (b) a tender where the only relevant experience is associate work for another consultancy **partly passes**: MS-03 shows the pattern (contracting structure named, reuse restriction recorded, no permission sought from a competitor). Only five of 23 tenders have usable requirement wording (T01-BCAT, T05-DERBY, T21-CSFI, T22-VAIMP, T23-TVBTV), so the design is fitted to five formal tenders; requirement files for T21 and T23 are the next test. Still untested: social-value, accreditation and framework call-off questions.
 
-## 12. Register fixes this depends on (ordered; prerequisites first)
+## 12. Register fixes this depends on (status 26/10/08)
 
-1. Add register columns `citation_status`, `client_accepted`; derive `reference_permission` from `11_permission_requests.csv`. Header check first (schema-drift rule).
-2. Reconcile `lifecycle_status` with the codebook (section 4); backfill `programme_status`.
-3. Sync cards to register; change `regenerate_index.py`.
-4. Backfill `contracting_role` (27 empty: Proving Services Suffolk (FHRG); BAC + LIVR Project Evaluation; Lancashire Digital Strategy; Tees Valley Creative Economy Baseline; WMGC Pitch Books; Wakefield Creative Skills Development; UKRI Liverpool Visit and CoSTAR Engagement; SYMCA ARG Evaluation; Somerset Cultural Strategy; Manchester Place Partnership; Rushmoor Cultural Strategy and Compact; Plymouth National Marine Park; Leicester Cultural Compact; Theatre Royal Plymouth Engagement; University of Liverpool Heritage CPD; Wakefield Our Year 2024 Business Case Justification (BCJ); WYCA WY Create; Wakefield Our Year 24 Evaluation; Wakefield CCI Skills Needs Assessment; City St George's SCCI; Lancaster AHRC CIC; Lancaster Uni Horizon Bid (Virtual Agora); CELL; Southampton Forward Strategic Review; WB6 Creative Economy Pulse; Herefordshire Culture Strategy; LCR Production Fund Final Evaluation (2024-25)) and `citation_status` for the ten earliest projects (North East Scotland Creative Industries Mapping; From Good to Great (Innovate GM / Innovate UK); MITIH Createch Ecosystem (MediaCity ITIH); GBSLEP Creative Economy Mapping; WMCA Creative Business Scaleup; CoSTAR bid support; Creative City (SIPF application); Liverpool City Region Digital & Creative Industries Cluster Mapping; Creative Digital Economy Catapult challenges paper; Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026)) and where still UNKNOWN (Wakefield Our Year 2024 Business Case Justification (BCJ); Wakefield Our Year 24 Evaluation; WB6 Creative Economy Pulse; British Council Kotor Exchange Pilot (FCDO-funded); British Council Creative Economy Council Development (MNE NM + WB)).
-5. Recode CONTEXTUAL (107); fix one empty `effect_family`; fix the label in the decision doc; code DECISION_USE; retire METHOD_TRANSFER.
-6. Resolve dangling references (40 claim IDs on 16 cards; 254 evidence-link rows pointing at 249 absent claims).
-7. Roll up `sector_activity` (60 values) and `method_family` (41) to about 10 each; normalise `client_type` (15 variants differ by case); add SUPERSEDED; repair `08_tenders.csv` T04 drift.
-8. Create `12_requirements.csv`, `13_uses.csv`; back-fill requirements.
+1. DONE: `citation_status` and `client_accepted` columns added; `reference_permission` derived from `11_permission_requests.csv`.
+2. DONE: lifecycle aligned (decision 3); `programme_status` backfilled.
+3. DONE: cards synced to the register; `regenerate_index.py` reads the register.
+4. OPEN (needs Iain): `contracting_role` empty on 20 completed projects; `citation_status` unknown on 9; `client_accepted` unknown on 59 of 60 completed projects (50 clients). One-pass sheet: `iain_question_sheet.md`.
+5. MOSTLY DONE: 200 CONTEXTUAL recoded; 5 left (VAL-S261008-15); DECISION_USE still unused; METHOD_TRANSFER retired in the draft only (card text not yet edited).
+6. DONE except 7 rows: 244 deleted claims restored, so evidence rows pointing at absent claims fell from 254 to 7 (C-R5-524 to 528, VAL-S261008-14) and method links to absent claims from 20 to 0.
+7. PARTLY DONE: `method_family` rolled up and `SUPERSEDED` added (codebook v1.4 additions); `sector_activity` (60 values) and `client_type` (15 variants, 11 after case) still to normalise, each as its own decision.
+8. DONE: requirements are per-tender files (decision 13); selection log built (decision 15); T21 and T23 requirement files still to write.
+9. DONE (new): displaced-column drift repaired in claims (49), methods (19), sources (50), evidence links (54), measurements (67) and single rows in tenders and validation actions; format checks for dates and version labels now catch it where field counts do not.
 
-Dry-run on today's data (70 projects), using the checks as written, for orientation only: E1 0 pass / 9 fail / 61 unknown (no `client_accepted`); E2 50 / 5 / 15; E3 21 / 6 / 43; E4 34 / 0 / 36 (becoming N/A); E5 40 / 0 / 30. The method cannot yet select anything usable: items 1–4 above come first.
+Current checks on 70 projects (60 completed), orientation only: E1 delivered 1 pass / 10 fail / 59 unknown; E2 citable 55 / 4 / 11; E3 lapsed option 70 / 0 / 0; E4 method current 36 pass / 34 unknown; E5 role wording 45 / 0 / 25. The unknowns are facts nobody has recorded, mainly client acceptance; no check has been relaxed.
 
 ## 13. Decisions taken (26/10/07, Iain) and still open
 
@@ -142,6 +150,8 @@ Dry-run on today's data (70 projects), using the checks as written, for orientat
 
 **Taken 26/10/08 (F):** decision 14, people register: two small tables, `15_people.csv` (name, organisation, status, skills tags, bio location, `named_in_bids_ok` Y/N/UNKNOWN) and `16_involvement.csv` (person, project, role on the project, period, basis, source). No contact details or CVs in the repo. Tender-specific availability lives in the tender's requirements file. `tools/people_view.py` joins them to the project register so a team section states role and contracting arrangement. Seeded only from sources: Iain Bennett, Lynne McCadden and Sara Sartorius (five involvement rows from report covers and a deck) and Towell as an external partner with nothing credited. The view shows the contracting role as not recorded for both credited projects, which is the gap to fill before a team section is written.
 
+**Taken 26/10/08 (G):** decision 15, candidates-considered log: `13_selections.csv` and `tools/record_selection.py` as described in section 9. Nothing recorded yet: no selection has been made for T22-VAIMP. The tool was tested on a scratch copy (dry run, write, outcome and error paths).
+
 **Executed 26/10/07 (register edits):** decisions 2, 3 and 4 and the three project facts are now in the register (31-field register, lifecycle aligned, Derby bid row retired, Lancashire / Lancaster Horizon / Creative Scotland recorded). Lancaster re-key done 26/10/07 (session 6). Not yet done: Kirklees phase rows, client_accepted and early citation_status backfill. See CHANGELOG session 26/10/07 (5).
 
 **Facts established (now written to the register)**
@@ -149,12 +159,19 @@ Dry-run on today's data (70 projects), using the checks as written, for orientat
 - Lancaster University Horizon bid (Virtual Agora): paid; direct; PO 500215141 (8 Oct 2025) GBP 4,158.33 ex VAT (workshop preparation 2,083.33; bid writing 2,075.00); invoice INV-1339 GBP 4,990.00 incl VAT paid by BACS 23 Oct 2025; bid NOT_AWARDED. Note: the figure "fee <GBP 5k" held on another Lancaster row matches this invoice and may be misattached.
 - Creative Scotland salary benchmarking framework: awarded and signed (per Iain); Agreement CS/CA1019, 30 Sep-30 Oct 2026, GBP 11,750 ex VAT (confirmed by Iain; equals the agreement's maximum of GBP 14,100 incl VAT at 20%); direct; live, so IN_PROGRESS and not eligible as delivered evidence until complete.
 
+**Decisions 8 to 15 are recorded above under their dates (permission requests; referee timing A; evidence kind as filter B; wording cap C; provenance D; requirements per tender E; people register F; selection log G; method package with statement layer).** The earlier numbered open items 8 to 11 are all closed: single permission source (9), evidence kinds and wording (5, 6, 10, 11), provenance and the selection log (12, 15), and requirements, people and methods (13, 14, method package).
+
 **Still open (one at a time)**
-8. Permission requests: `11_permission_requests.csv` as the single source of permission state; plain-language single-question ask template; owner and chase interval.
-9. Evidence class: restate principle 3 honestly (lexicographic order is weighting by another name) and cap case-study wording at the cited claim's own class?
-10. Provenance on backfilled gating fields (who, when, basis) and a candidates-considered log?
-11. Where requirements live (`12_requirements.csv` vs free text) after the three-times test; people register; method selection; rollups.
+- Normalise `sector_activity` (60 values) and `client_type` (15 variants; 11 after case), each as its own decision (decision 3 principle).
+- Where the 5 remaining CONTEXTUAL claims go (VAL-S261008-15) and the evaluator-role question on 7 claims (VAL-S261008-10).
+- Facts only Iain can supply: client acceptance, citation status, contracting roles (`iain_question_sheet.md`), statement approvals.
+- Requirement files for T21-CSFI and T23-TVBTV (the second and third; the three-times test for a flat requirements register).
+- Adoption (section 15) after a final lane review of this draft.
 
 ## 14. Reversal
 
 This draft is one file on the working branch (PR #2); the AGENTS.md edits are already committed. Adoption would be a series of separate, individually revertible commits, one per item in section 12, each with its own changelog entry.
+
+## 15. Adoption package (not done; needs a final lane review and Iain's approval)
+
+If Iain adopts this draft, these changes follow, each as its own commit: (1) AGENTS.md QA checklist additions: check 6 tests for a valid role code, not just non-empty (a strengthening); date and version format checks on every register; `tools/figure_check.py` as a spot-check screen; selection-log, people-register and method-link foreign keys; "no claim points at an absent method or evidence at an absent claim"; (2) the stale-artefact rule lists `iain_question_sheet.md`, `method_views/statements.md` and `selection_views/` as derived files and `tests/` as the place for fixture tests; (3) a rule that method statements are set CURRENT only by Iain and carry a disclosure status; (4) the codebook v1.4 release approving `SUPERSEDED`, `statement_id` and `method_family_rollup`; (5) register `codebook_version` labels moved from 1.3-candidate; (6) a short "how a sweep may write register files" rule after VAL-S261008-13 is explained. None of these weakens an existing test.

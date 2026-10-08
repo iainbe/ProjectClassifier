@@ -105,3 +105,15 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 - **Register repair:** contracting_role=PRIME, prime_contractor=The Fifth Sector (VAL-R3-015 now correctly landed).
 - **Card corrections:** 77,252 corrected to GVA per capita (was misread as workforce total); circular reuse claim fixed (method originated P04-GBSLEP 2017); £77,252 GVA/capita added to quantified_results.
 - **Status:** Index card REVIEWED.
+
+## 26/10/08 — claims restored
+
+- 14 claims restored to `04_claims.csv` (they were deleted in commit eb2674d on 26/09/16; recovered from commit 4a92a71). See `claims_restore_RECORD.csv`. Counts of coded claims, and so evidence-kind counts for this project, rise accordingly.
+
+## 26/10/08 — client acceptance recorded
+
+- client_accepted set to Y on Iain's bulk statement (clients with several projects); basis IAIN_STATEMENT in `14_fact_provenance.csv`. No written record checked.
+
+## 26/10/08 — Citation status and contracting role
+
+- `citation_status`=DELIVERED_WORK; contracting role PRIME, prime The Fifth Sector on Iain's statement (tendered). Contract not checked. Earlier values kept in `14_fact_provenance.csv`.

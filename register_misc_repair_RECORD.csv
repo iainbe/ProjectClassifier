@@ -1,0 +1,3 @@
+register,row,change,old_values
+08_tenders.csv,T04-LCRFILM,merged the split precedent claim list; inserted missing feedback_source_ids; fields realigned,precedent_claim_ids=C-R3-005 | bid_recommendation=C-R3-006 | rationale=CONDITIONAL_HOLD | blockers=Phase 1 bid submitted but unsuccessful... | (all later fields one column left until feedback_status)
+07_validation_actions.csv,VAL-G2-001,inserted blank source_id; fields realigned, | ISSUE-G2-001 | CONTRACTING_ROLE | REVIEWED | 1.3-candidate | G2-BATCH-B | 
