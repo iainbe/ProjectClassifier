@@ -119,3 +119,7 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 ## 26/10/08 — design claims expired
 
 - C-G2-440, 443, 446, 447 set to option_state EXPIRED (bid not awarded; AGENTS.md rule). Check E3 now PASS.
+
+## 26/10/08 — client acceptance recorded
+
+- client_accepted set to Y on Iain's bulk statement (group answer); basis IAIN_STATEMENT in `14_fact_provenance.csv`. No written record checked.

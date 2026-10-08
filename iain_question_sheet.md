@@ -10,42 +10,31 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | MS-02 Evaluation of a funded programme, with interim-to-final comparison | Iain: find the contract or PO for P88-LCRPF24 in both archives (VAL-S261007-01); approve or correct the card below | |
 | MS-03 Evaluation approach design (theory-of-change baseline and contribution analysis) | Iain: check our own subcontract or NDA for a confidentiality or publicity clause (internal check, PR-07); no contact with BOP | |
 
-## 2. Did the client accept the final output? (one answer per client; 45 completed projects, 45 clients)
+## 2. Did the client accept the final output? (one answer per client; 32 completed projects, 32 clients)
 
 | Client | Completed projects | Accepted? Y / N / don't know |
 |---|---|---|
-| Aberdeen City Council / Aberdeenshire Council | North East Scotland Creative Industries  (P01-NES) | |
 | Manchester Metropolitan University (on behalf of GM partners | From Good to Great (Innovate GM / Innova (P02-FGTG) | |
 | MediaCity / Innovate UK | MITIH Createch Ecosystem (MediaCity ITIH (P03-MITIH) | |
 | Greater Birmingham & Solihull LEP | GBSLEP Creative Economy Mapping (P04-GBSLEP) | |
 | West Midlands Combined Authority | WMCA Creative Business Scaleup (P05-WMCA) | |
-| CoSTAR consortium (GMCA SODA Factory International Magnopus  | CoSTAR bid support (P06-COSTAR) | |
 | Manchester Metropolitan University (MMU) | Creative City (SIPF application) (P07-CC) | |
 | CDEC (became Digital Catapult) | Creative Digital Economy Catapult challe (P09-CDEC) | |
 | London College of Fashion / Greater London Authority | East London Fashion Cluster Growth Strat (P11-ELFC) | |
-| Kirklees Council | Kirklees Creative Economy Analysis 2015 (P12-KIRK15) | |
 | AHRC / Creativeworks London | Creativeworks London KE Hub Evaluation (P13-CWL) | |
 | Digital Catapult / Innovate UK | UK Immersive Technology Sector Mapping (P14-DCAT) | |
 | Culture Liverpool / Liverpool City Council | Liverpool City of Music Strategy (P15-LIVMUS) | |
 | UKRI / AHRC | CICP Impact and Delivery Evaluation (P16-CICP) | |
 | Leeds City Region / WYCA | Leeds City Region Creative Scale Up Evid (P17-LCRCSU) | |
-| North East Lincolnshire Council / Magna Vitae | Grimsby Cultural and Creative Industries (P18-GRIMSBY) | |
 | Growth Platform / LCR | LCR Immersive Technology Sector Mapping (P19-LCRIMM) | |
 | Manchester Metropolitan University | MMU Cultural and Creative Industries Pos (P21-MMUCCI) | |
-| Derby City Council / Derbyshire County Council | Derby and Derbyshire Screen Agency Feasi (P23-DERBY) | |
-| Lancashire LEP / Lancashire County Council | Lancashire Create Growth Programme Bid (P25-LANCGP) | |
 | Greater Brighton Economic Board / Coastal West Sussex Partne | West Sussex Brighton and Hove Lewes CI S (P26-WSBH) | |
-| Calderdale Council | Calderdale CCI Research Report (P28-CALDER) | |
-| Solent LEP | Solent Create Growth Programme Bid Devel (P29-SOLENTCGP) | |
-| Herefordshire Council | Herefordshire Culture Strategy Review (P30-HEREFORD) | |
 | Production Park / Wakefield Council | Production Park GVA Study (P31-PRODPARK) | |
 | Surrey County Council / Surrey+ partnership | Surrey+ Creative Corridor Strategic Fram (P32-SURREY) | |
 | Solent and Hampshire Combined Authority | Solent and Hampshire CA CI Mapping (P34-SOLENTHANTS) | |
-| Derby City Council | Derby Cultural Masterplan Compact and Ma (P35-DERBYMAP) | |
 | Suffolk County Council | Proving Services Suffolk (FHRG) (P37) | |
 | Battersea Arts Centre/LIVR | BAC + LIVR Project Evaluation (P43) | |
 | Lancashire County Council | Lancashire Digital Strategy (P45) | |
-| Tees Valley Combined Authority | Tees Valley Creative Economy Baseline (P46) | |
 | West Midlands Growth Company | WMGC Pitch Books (P47) | |
 | Creative Wakefield | Wakefield Creative Skills Development (P48) | |
 | UKRI | UKRI Liverpool Visit and CoSTAR Engageme (P50) | |
@@ -56,8 +45,6 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | Leicester City Council | Leicester Cultural Compact (P61) | |
 | Theatre Royal Plymouth | Theatre Royal Plymouth Engagement (P62) | |
 | University of Liverpool | University of Liverpool Heritage CPD (P63) | |
-| Herefordshire Cultural Partnership | Herefordshire Culture Strategy (P84) | |
-| University of South Wales (bid lead) | AMGEN AHRC Creative Industries Cluster P (P85-AMGEN) | |
 | Liverpool City Council | Liverpool Music Lab Feasibility Study (P89-LIVMUSLAB) | |
 
 ## 3. May we say we delivered this? (citation status not recorded; 9 completed projects)

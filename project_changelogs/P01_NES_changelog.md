@@ -141,3 +141,7 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 ## 26/10/08 — claims restored
 
 - 56 claims restored to `04_claims.csv` (they were deleted in commit eb2674d on 26/09/16; recovered from commit 4a92a71). See `claims_restore_RECORD.csv`. Counts of coded claims, and so evidence-kind counts for this project, rise accordingly.
+
+## 26/10/08 — client acceptance recorded
+
+- client_accepted set to Y on Iain's bulk statement (group answer); basis IAIN_STATEMENT in `14_fact_provenance.csv`. No written record checked.
