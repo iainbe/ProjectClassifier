@@ -728,3 +728,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13g (26/10/08): figure screen
 
 - New read-only `tools/figure_check.py` and its output `figure_check_report.md`: for every claim, each number in the proposition is looked for in the extracts of the sources its evidence links cite. After the sources repair, 284 of 312 claims with figures have every figure found in a cited extract, 26 have an unmatched figure and 2 cite a source without an extract. It ranks spot checks (AGENTS.md priority: high-risk numerical claims); it does not verify anything. The 17 claims worth checking first are VAL-S261008-17; several unmatched items are dates, unit conversions or derived ratios.
+
+## Session 13h (26/10/08): drift repaired in evidence links, measurements, tenders and validation actions
+
+- Format checks (dates, version labels) over every register found the same displaced-column pattern again: 54 evidence-link rows (reviewer and review date held text, the extract path sat in `notes`, family, version and batch were one to three columns early), 67 measurement rows (`probability_basis` held the codebook version, `codebook_version` the batch), one tender row (T04-LCRFILM: a split claim list and a missing cell) and one validation row (VAL-G2-001: missing `source_id`). Each fixed by script against its exact pattern; old values in `evidence_repair_RECORD.csv`, `measurements_repair_RECORD.csv` and `register_misc_repair_RECORD.csv`. After repair every date and version cell in these registers passes its format check and every row has the header's width.
+- Reviewer and review date are blank on the 54 evidence rows (the old layout held notes in those cells, not people or dates). Nothing was invented.
