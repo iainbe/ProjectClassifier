@@ -33,6 +33,14 @@ When reviewing claims:
 3. A comparator (e.g., "Liverpool Film Office as a benchmark for Derby") is legitimate. A claim about Liverpool Film Office's outcomes assigned to a Derby project is not.
 4. When creating new project records, check the archive folder structure to confirm the project is distinct.
 
+## Naming convention (26/10/08, Iain)
+
+The company is written **"The Fifth Sector"** or "The Fifth Sector Limited" in all prose — never "TFS". TFS may appear only in internal shorthand where the register field demands it (e.g. filenames); outgoing text always uses the full name.
+
+## Canonical person records (26/10/08)
+
+`people/` holds one canonical record per named person (`PER-XX_Name.md`): evidence-linked career facts, project involvement table, tender-relevant angles and open fields. Bios and CVs for tenders are assembled FROM these records — never written freehand. When a person is registered or their involvement confirmed, update their canonical record, not just `15_people.csv`/`16_involvement.csv`.
+
 ## Claim classification rules
 
 ### METHOD_OUTPUT vs CONTEXT
