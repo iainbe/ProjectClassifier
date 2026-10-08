@@ -719,3 +719,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - `tools/method_view.py` gained `--requirements <tender>` (a table of which statements cover which questions, from the new `coverage` item in `tender_requirements/T22-VAIMP.md`: 3 of 8 V&A questions have no statement, 5 partial) and flags for a statement older than a linked method row's review date, plus an optional `--stale-days N` (no default; Iain sets any threshold). Both fire in a scratch test.
 - SRC-G2-092 (07 Oct Beatles report edition): the headline figures and sensitivity values were confirmed present in both editions; the rest was not compared, so it stays unreviewed and superseded by the delivered study.
+
+## Session 13f (26/10/08): sources register drift repaired (46 + 4 rows)
+
+- 46 rows of `02_sources.csv` had text in `derived_location` and every later field displaced: 27 rows by one column (a blank inserted before the original path) and 18 by two (two blanks missing before it), plus SRC-G2-022 (the second pattern with two stray duplicates, cleared) and the three sweep-written rows SRC-R5-016, -017 and -018 (notes and review fields re-aligned). By script, each row asserted against its exact pattern before editing; afterwards every `derived_location` is a path or empty, no `additional_project_ids` holds text, and all 28 fields line up with the header. Record of every row and its old value: `sources_repair_RECORD.csv`.
+- SRC-R5-016's register row names an extract file that is not in the repo (VAL-S261008-16). The 46-row drift had hidden extracts from any tool that follows `derived_location`.
