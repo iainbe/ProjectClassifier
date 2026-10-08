@@ -839,3 +839,4 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/08 | Legacy columns: publication_status | 301 cells cleared, only that column changed, record rows equal cells cleared | held cells and check tool follow |
 | 26/10/08 | Legacy columns: commercial_reuse | 54 cells cleared, only that column changed, record rows equal cells cleared | held cells and check tool follow |
 | 26/10/08 | Legacy columns: reviewer_confidence | 32 cells cleared, only that column changed, record rows equal cells cleared | held cells and check tool follow |
+| 26/10/08 | Claims column check, QA item 14 | New additive gate; 413 violations before the clear, 26 after (all held cells); self-test catches a seeded row; no existing check changed | Residual: 26 held cells; batch-code writer not traced |

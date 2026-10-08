@@ -846,3 +846,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13ae-reviewer_confidence (26/10/08): 32 displaced values cleared in reviewer_confidence
 
 - Cleared 32 exact-duplicate values in `reviewer_confidence` to empty (rows listed in claims_legacy_clear_RECORD.csv; restore from that file or revert this commit). Only this column changed (verified cell by cell). Empty means not recorded.
+
+## Session 13af (26/10/08): claims column check and QA item 14
+
+- Added `tools/check_claims_columns.py` (read-only, keyed by header name, table of allowed values per column, cross-field copy test, self-test with a seeded bad row) and QA checklist item 14 in AGENTS.md (Iain approved). On the pre-clear data it reports 413 violations; now 26, exactly the held cells. Not yet in the pre-commit hook: it would block every commit until Iain rules on the 26.
