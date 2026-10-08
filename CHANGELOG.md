@@ -863,3 +863,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13ai (26/10/08): five deleted claims restored
 
 - Restored C-R5-524 to 528 (deleted by commit eb2674d) from its parent, with their 7 evidence links already in place. Normalised on the way in, recorded in `claims_restore2_RECORD.csv`: effect_family set to a valid value (the old value was the claim type), commercial_reuse UNRESTRICTED_INTERNAL cleared (not a codebook value), C-R5-527 option_state UNKNOWN (bid pending) with its BIDDER role kept as recorded for review. Claims now 595; unique IDs; evidence links all resolve; QA item 14 still shows only the 26 held cells. VAL-S261008-14 resolved.
+
+## Session 13aj (26/10/08): Drive and repo have diverged; no sync run
+
+- Checked whether the repo could be synced to Drive. It cannot be done safely: the connector cannot overwrite file contents, and the Drive 01_projects.csv (edited 02:40 today by another process) holds five projects the repo lacks (P91 to P96 except P94), a payment-status column in place of client_accepted, corrected P51 details and P31-PRODPARK ON_HOLD. The repo holds this session's work the Drive lacks. A merge is required before any copy either way. Recorded on VAL-S261008-13.

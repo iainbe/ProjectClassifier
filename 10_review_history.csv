@@ -436,3 +436,4 @@ RH-26-10-08-QA14,S-261008,TOOL,tools/check_claims_columns.py,QA item 14,ADD,Devi
 RH-26-10-08-CBK,S-261008,DOC,codebook_v1.4_additions.md,empty means not recorded,UPDATE,Devin,26/10/09T17:50:00,1.3-candidate,,rule added,,codebook_v1.4_additions.md,Iain approved,Iain,DONE,RH-26-10-08-QA14,
 RH-26-10-08-DEL,S-261008,VALIDATION,VAL-S261008-13;VAL-S261008-14,approval_status,UPDATE,Devin,26/10/09T18:30:00,1.3-candidate,PROPOSED,PARTIAL,,07_validation_actions.csv,Trace of claims deletion,Iain,PROVISIONAL,RH-26-10-08-CBK,
 RH-26-10-08-REST2,S-261008,CLAIMS,C-R5-524..528,restore,ADD,Devin,26/10/09T19:10:00,1.3-candidate,,5 claims,,claims_restore2_RECORD.csv,Iain approved restore,Iain,DONE,RH-26-10-08-DEL,
+RH-26-10-08-SYNC,S-261008,SYNC,Drive vs repo,divergence,AUDIT,Devin,26/10/09T20:00:00,1.3-candidate,,diverged,,07_validation_actions.csv,Check before guard,Iain,PROVISIONAL,RH-26-10-08-REST2,
