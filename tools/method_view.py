@@ -7,7 +7,7 @@ arrangement, citation status, method status) and the claims behind it.
 
 Disclosure gate (method package, lane review 26/10/08): for any statement whose disclosure_status is not CLEARED the
 view shows claim IDs and types only and withholds claim wording and all figures, so cleared-nothing figures cannot be
-lifted from the view. Staleness and format checks are new flags only; no existing check is changed.
+lifted from the view. Staleness, link and format checks are new flags only; no existing check is changed.
 Nothing is ranked. Output: method_views/statements.md (derived).
 """
 import argparse, csv, glob, os, re
@@ -66,6 +66,8 @@ def main():
             arr = p.get('contracting_role', '') or 'not recorded'
             if p.get('prime_contractor') and arr not in ('PRIME', 'DIRECT'): arr += ' to ' + p['prime_contractor']
             if arr == 'not recorded': C.append('Contracting role not recorded for %s (%s): the statement cannot state our arrangement. Owner: Iain.' % (p.get('canonical_name', m['project_id']), m['project_id']))
+            if m.get('statement_id', '') != h.get('statement_id', ''):
+                C.append('Method row %s is not linked back to this statement in 03_methods.csv (its statement_id is "%s"). Owner: Devin.' % (mid, m.get('statement_id', '')))
             if m['method_status'] == 'SUPERSEDED': B.append('Method row %s is superseded.' % mid)
             elif m['method_status'] != 'APPLIED': C.append('Method row %s is %s, not applied.' % (mid, m['method_status']))
             if p.get('client_accepted') not in ('Y',): I.append('Client acceptance not recorded as yes for %s.' % p.get('canonical_name', m['project_id']))

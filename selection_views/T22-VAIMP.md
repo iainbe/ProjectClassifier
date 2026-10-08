@@ -10,12 +10,12 @@ These are the operator's reading of the buyer's ask; Iain to correct. Candidates
 | Project | Client | Lifecycle | Delivered / accepted | Citable | Lapsed option | Method current | Role wording | Referee | Evidence kinds held (claims) |
 |---|---|---|---|---|---|---|---|---|---|
 | BAC + LIVR Project Evaluation (P43) | Battersea Arts Centre/LIVR | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | UNKNOWN | UNKNOWN | not established | delivered output 2, effect as evaluator 2, design 1, context 1 |
-| Beatles Visitor Impact Study (P78-BEATLES) | Beatles Legacy Group (unconstitute | COMPLETED | PASS (verbal client) | PASS (no basis recorded) | PASS | UNKNOWN | PASS (no basis recorded) | not established | delivered output 3, design 1, context 6 |
+| Beatles Visitor Impact Study (P78-BEATLES) | Beatles Legacy Group (unconstitute | COMPLETED | PASS (verbal client) | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 3, design 1, context 6 |
 | CICP Impact and Delivery Evaluation (P16-CICP) | UKRI / AHRC | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 1 |
 | Creativeworks London KE Hub Evaluation (P13-CWL) | AHRC / Creativeworks London | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | effect as evaluator 1, context 3 |
 | Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026) (P10-KIRK) | Kirklees Council / West Yorkshire  | IN_PROGRESS | FAIL | UNKNOWN | PASS | PASS | PASS (no basis recorded) | not established | delivered output 2, design 1, context 4 |
 | LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM) | Liverpool City Region Combined Aut | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 3, effect as evaluator 1, design 1 |
-| LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24) | Liverpool City Region Combined Aut | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | UNKNOWN | UNKNOWN | not established | delivered output 7, effect as evaluator 5, design 2, context 3 |
+| LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24) | Liverpool City Region Combined Aut | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | PASS | UNKNOWN | not established | delivered output 7, effect as evaluator 5, design 2, context 3 |
 | SYMCA ARG Evaluation (P51) | South Yorkshire Mayoral Combined A | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | UNKNOWN | UNKNOWN | not established | delivered output 1, effect as evaluator 6, context 2 |
 | University of Liverpool Heritage CPD (P63) | University of Liverpool | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | UNKNOWN | UNKNOWN | not established | delivered output 1, design 2, context 1 |
 | Wakefield Cultural Development Fund Evaluation (P27-WAKECDF) | Wakefield Council | COMPLETED | UNKNOWN | PASS (no basis recorded) | PASS | PASS | PASS (no basis recorded) | not established | delivered output 1, effect as evaluator 4, context 2 |
@@ -24,12 +24,12 @@ These are the operator's reading of the buyer's ask; Iain to correct. Candidates
 ## Facts needed before each candidate can be used (UNKNOWN or FAIL)
 
 - BAC + LIVR Project Evaluation (P43): client acceptance; method rows; contracting role / prime contractor
-- Beatles Visitor Impact Study (P78-BEATLES): method rows
+- Beatles Visitor Impact Study (P78-BEATLES): none
 - CICP Impact and Delivery Evaluation (P16-CICP): client acceptance
 - Creativeworks London KE Hub Evaluation (P13-CWL): client acceptance
 - Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026) (P10-KIRK): client acceptance (FAIL); citation status
 - LCR Film and TV Production Fund Interim Evaluation (P22-LCRFILM): client acceptance
-- LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24): client acceptance; method rows; contracting role / prime contractor
+- LCR Production Fund Final Evaluation (2024-25) (P88-LCRPF24): client acceptance; contracting role / prime contractor
 - SYMCA ARG Evaluation (P51): client acceptance; method rows; contracting role / prime contractor
 - University of Liverpool Heritage CPD (P63): client acceptance; method rows; contracting role / prime contractor
 - Wakefield Cultural Development Fund Evaluation (P27-WAKECDF): client acceptance
