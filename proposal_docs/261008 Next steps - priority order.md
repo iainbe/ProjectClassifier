@@ -13,7 +13,7 @@ Three live submissions inside 11 days: **V&A Impact Study 19/10**, **Creative Sc
 
   **Where our methods reflect or match that framework:**
 
-  | IIPP layer | Equivalent TFS method/evidence |
+  | IIPP layer | Equivalent The Fifth Sector method/evidence |
   |---|---|
   | Direct baseline (reach, spend, employment) | The Beatles Visitor Impact Study is exactly this: a modelled annual baseline of what Beatles tourism contributes to the Liverpool city region economy |
   | Dynamic layer (spillovers) | The spillover toolkit: our whole evidence system codes spillover claims (knowledge, network, market, career) across ~70 coded projects; the Kirklees and North East Scotland mappings measure sector baselines and flows |
@@ -22,7 +22,7 @@ Three live submissions inside 11 days: **V&A Impact Study 19/10**, **Creative Sc
 
   The participatory layer is covered too: Jon Bains is founder and lead of Places, our evidence platform, and co-author with Iain on the MITIH createch mapping. Before that he founded and ran Lateral (experiential design and marketing agency) for over a decade; now Obsolete.com and What & Why (audience insight, engagement programmes, workshops). For V&A he brings both strands the brief demands: the creative and participatory methods, and the Places data architecture underneath the measurement work. The Bennett/Bains pairing is already proven on the MITIH mapping, both CICP bids (AMGEN shortlisted), the North East Scotland creative industries mapping and the Beatles study baseline — three of the five case-study candidates are already their joint work, plus the Creative Scotland salary benchmarking framework, the Southampton Forward review and CELL. Remaining check: availability for the Dec-May window.
 - **PQQ** — Procurement Act 2023 exclusion declarations. Current ratio 1.25 meets the financial standing test on our own.
-- **Decision point ~14/10:** name Patrick Towell/MyCake/Etic Lab as associates only if consortium status is confirmed; otherwise bid as TFS prime with named associates. In-person pitches 2–3/11 at South Kensington.
+- **Decision point ~14/10:** name Patrick Towell/MyCake/Etic Lab as associates only if consortium status is confirmed; otherwise bid as The Fifth Sector prime with named associates. In-person pitches 2–3/11 at South Kensington.
 
 ## 2. Towell call — unlocks two bids
 

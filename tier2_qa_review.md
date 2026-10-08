@@ -807,3 +807,4 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/08 | PER-03 involvement sweep | Iain-confirmed involvement added for P01-NES, P78, P86-CSSAL, P80, P79-CELL | Residual: role descriptions per project are thin (IAIN_CONFIRMED basis); cards for P79/P80/P86 may still under-record his contribution |
 | 26/10/08 | PER-03 roles | All 9 Bains INV rows set to "Places data architecture and co-author" per Iain | Residual: none |
 | 26/10/08 | Canonical person records | people/ directory created; PER-02 + PER-03 records assembled from register, INV, cards, bios | Residual: PER-02 pre-2022 history unrecorded despite 5+yr association — open fields listed for Iain; "TFS" appears in some existing docs, full sweep not yet run |
+| 26/10/08 | Naming sweep | TFS→The Fifth Sector in next-steps doc | Residual: 3 TFS instances remain in 08_tenders.csv notes fields (internal register, rule permits internal shorthand) |
