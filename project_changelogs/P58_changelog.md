@@ -11,3 +11,7 @@
 ## 26/10/08 — Contracting role recorded
 
 - `contracting_role`=SUBCONTRACTOR, `prime_contractor`=University of Plymouth on Iain's statement (Plymouth National Marine Park: Fifth Sector as contractor to Plymouth University (correction of earlier PRIME)). Contract not checked.
+
+## 26/10/08 — Client acceptance recorded
+
+- `client_accepted`=Y on Iain's statement (bulk answer to the acceptance list); no written record checked.

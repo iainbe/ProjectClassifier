@@ -117,3 +117,7 @@ This makes MITIH a useful R2 test case for distinguishing `claim_type=OBSERVATIO
 ## 26/10/08 — Citation status and contracting role
 
 - `citation_status`=DELIVERED_WORK; contracting role DIRECT, prime The Fifth Sector on Iain's statement (direct). Contract not checked. Earlier values kept in `14_fact_provenance.csv`.
+
+## 26/10/08 — Client acceptance recorded
+
+- `client_accepted`=Y on Iain's statement (bulk answer to the acceptance list); no written record checked.

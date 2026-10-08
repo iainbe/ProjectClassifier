@@ -882,3 +882,9 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13am (26/10/08): method rows' claim lists completed
 
 - Iain: fill the method lists. 163 claim-to-method links added to the claim_ids of 17 method rows (`methods_claim_ids_RECORD.csv`); the earlier figure of 170 counted repeats. The two sides now agree both ways and nothing points at an absent claim or method. The ontology draft is corrected; VAL-S261008-19 resolved.
+
+## Session 13an (26/10/08): client acceptance for the remaining 31 projects; Production Park on hold
+
+- Iain: Y for every client on the acceptance list except Production Park. `client_accepted` set to Y on 31 completed projects (basis IAIN_STATEMENT, bulk; no written record checked; provenance and per-project changelog entries written). All 59 completed projects now carry Y.
+- Production Park GVA Study (P31): on hold, not complete (Iain). `lifecycle_status` COMPLETED to IN_PROGRESS with a note, since ON_HOLD is not in the lifecycle vocabulary; it drops out of the delivered check. Adding ON_HOLD is a taxonomy change for a lane review.
+- Eligibility now: E1 delivered 59 pass / 11 fail / 0 unknown. The E1 pass count rests on Iain's statements; the eligibility report shows the basis.

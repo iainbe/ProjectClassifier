@@ -113,14 +113,14 @@ Run so far: the T22-VAIMP candidate view through all nine tender-review lanes (f
 1. DONE: `citation_status` and `client_accepted` columns added; `reference_permission` derived from `11_permission_requests.csv`.
 2. DONE: lifecycle aligned (decision 3); `programme_status` backfilled.
 3. DONE: cards synced to the register; `regenerate_index.py` reads the register.
-4. MOSTLY DONE (26/10/08, Iain's answers with provenance in `14_fact_provenance.csv`): `contracting_role` and `citation_status` are now recorded on all 60 completed projects; `client_accepted` is unknown on 32 completed projects (32 clients) and is the one open fact block. One-pass sheet: `iain_question_sheet.md`.
+4. MOSTLY DONE (26/10/08, Iain's answers with provenance in `14_fact_provenance.csv`): `contracting_role` and `citation_status` are now recorded on all 60 completed projects; `client_accepted` is now Y on all 59 completed projects (31 set today on Iain's bulk answer, basis IAIN_STATEMENT, no written record checked). Production Park GVA Study (P31) is on hold, not complete (Iain), and is held as IN_PROGRESS. One-pass sheet: `iain_question_sheet.md`.
 5. MOSTLY DONE: 200 CONTEXTUAL recoded; 5 left (VAL-S261008-15); DECISION_USE still unused; METHOD_TRANSFER retired in the draft only (card text not yet edited).
 6. DONE except one link set: 249 deleted claims restored, so evidence rows pointing at absent claims are 0 and method rows pointing at absent claims are 0. The reverse direction was not checked until the final pass: 20 restored claims (C-G2-504 to 523, on P11-ELFC and P12-KIRK15) named methods M-R3-022 and M-R3-023 that never had a row; fixed 26/10/08 by re-pointing to existing method rows or clearing the reference (VAL-S261008-18, `claims_method_links_RECORD.csv`). Cause of the deletion traced (VAL-S261008-13, section 16).
 7. PARTLY DONE: `method_family` rolled up and `SUPERSEDED` added (codebook v1.4 additions); `sector_activity` (60 values) and `client_type` (15 variants, 11 after case) still to normalise, each as its own decision.
 8. DONE: requirements are per-tender files (decision 13); selection log built (decision 15); T21 and T23 requirement files still to write.
 9. DONE (new): displaced-column drift repaired in claims (49), methods (19), sources (50), evidence links (54), measurements (67) and single rows in tenders and validation actions; format checks for dates and version labels now catch it where field counts do not.
 
-Current checks on 70 projects (60 completed), orientation only: E1 delivered 28 pass / 10 fail / 32 unknown; E2 citable 64 / 4 / 2; E3 lapsed option 70 / 0 / 0; E4 method current 36 pass / 34 unknown (34 projects have no method rows); E5 role wording 65 / 0 / 5. The E1 unknowns are client acceptance not yet recorded; the E4 unknowns are method rows nobody has written; no check has been relaxed.
+Current checks on 70 projects (60 completed), orientation only: E1 delivered 59 pass / 11 fail / 0 unknown (every pass rests on a recorded acceptance, most of it Iain's statement without a document); E2 citable 64 / 4 / 2; E3 lapsed option 70 / 0 / 0; E4 method current 36 pass / 34 unknown (34 projects have no method rows); E5 role wording 65 / 0 / 5. The E4 unknowns are method rows nobody has written; no check has been relaxed.
 
 ## 13. Decisions taken (26/10/07, Iain) and still open
 
@@ -164,7 +164,7 @@ Current checks on 70 projects (60 completed), orientation only: E1 delivered 28 
 **Still open (one at a time)**
 - Normalise `sector_activity` (60 values) and `client_type` (15 variants; 11 after case), each as its own decision (decision 3 principle).
 - Where the 5 remaining CONTEXTUAL claims go (VAL-S261008-15), the evaluator-role question on 7 claims (VAL-S261008-10), and the 26 held claims-column cells.
-- Facts only Iain can supply: client acceptance for 32 clients (`iain_question_sheet.md`), statement approvals, and 25 open validation actions.
+- Facts only Iain can supply: statement approvals and the open validation actions (`iain_question_sheet.md`). Client acceptance is recorded for every completed project; the basis is Iain's statement, not documents, and shows in the eligibility report.
 - Requirement files for T21-CSFI and T23-TVBTV (the second and third; the three-times test for a flat requirements register).
 - Adoption (section 15) after a final lane review of this draft.
 
@@ -180,7 +180,7 @@ If Iain adopts this draft, these changes follow, each as its own commit: (1) AGE
 
 Re-run against the registers as they stand. **Working:** all registers have unique IDs; claims, sources, evidence and measurements foreign keys resolve (two claims, C-R3-036 and C-R3-037, still have no project, VAL-S261007-14); no OPTION claim lacks an option state; no claim lacks an effect family or role; every EFFECT claim has an attribution strength; every claim with a pound figure has a value basis; no DESIGN claim on a not-awarded project is unexpired; the unit test for E4 passes; `eligibility_report.py` (70 projects), `selection_view.py --requirements T22-VAIMP` (11 candidates, default alphabetical plus the trial order), `method_view.py` (three statements, coverage of 8 buyer questions), `people_view.py`, `question_sheet.py`, `figure_check.py` (288 of 595 claims fully matched, 24 with unmatched figures, 4 citing sources with no extract) and `check_claims_columns.py` (26 violations, exactly the held cells) all run. Differences from the checklist: the QA scan found two defects the earlier checks missed: 20 claims naming absent methods (fixed, VAL-S261008-18) and 163 claim-to-method links missing from the method rows' own claim lists (fixed, VAL-S261008-19).
 
-**Not yet working or untested:** (a) a method statement for a non-evaluation shape (dashboard or framework build) still returns "no evidence" (section 11); (b) only five of 23 tenders have requirement wording; (c) `13_selections.csv` has no rows because no selection has been made; (d) the Drive and repo copies of the registers have diverged (section 17); (e) client acceptance is unknown on 32 clients; (f) the batch-code writer that displaced values in the claims file has not been traced.
+**Not yet working or untested:** (a) a method statement for a non-evaluation shape (dashboard or framework build) still returns "no evidence" (section 11); (b) only five of 23 tenders have requirement wording; (c) `13_selections.csv` has no rows because no selection has been made; (d) the Drive and repo copies of the registers have diverged (section 17); (e) client acceptance rests on Iain's statements, with no client document checked for the 31 recorded today; (f) the batch-code writer that displaced values in the claims file has not been traced.
 
 **Adoption:** nothing in this draft needs more building before Iain decides. Adoption stays Iain's call; items in section 15 follow as separate commits.
 

@@ -57,7 +57,6 @@ Claims behind it (wording and figures withheld: disclosure not cleared):
 - INFO: Claim C-S261008-002 has not been spot-checked (review status PENDING).
 - INFO: Claim C-S261008-003 has not been spot-checked (review status PENDING).
 - INFO: Claim C-S261008-005 has not been spot-checked (review status PENDING).
-- INFO: Client acceptance not recorded as yes for Creativeworks London KE Hub Evaluation.
 
 ## MS-03 Evaluation approach design (theory-of-change baseline and contribution analysis)
 
@@ -79,5 +78,4 @@ Claims behind it (wording and figures withheld: disclosure not cleared):
 - CAUTION: Design only: say "contributed to the design of", never "delivered".
 - CAUTION: Draft: not approved by Iain yet. Owner: Iain.
 - CAUTION: Method row M-G2-010 is PROPOSED, not applied.
-- INFO: Client acceptance not recorded as yes for CICP Impact and Delivery Evaluation.
 

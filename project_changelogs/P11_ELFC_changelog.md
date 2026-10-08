@@ -11,3 +11,7 @@
 ## 26/10/08 — Method links fixed
 
 - Claims C-G2-504 to 523 no longer name the unregistered methods M-R3-022 and M-R3-023; see claims_method_links_RECORD.csv.
+
+## 26/10/08 — Client acceptance recorded
+
+- `client_accepted`=Y on Iain's statement (bulk answer to the acceptance list); no written record checked.
