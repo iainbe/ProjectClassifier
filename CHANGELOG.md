@@ -670,3 +670,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - Rewrote MS-01 to MS-03 with the lane fixes: approval card at the top, generic bid-ready paragraph, no figures, tender-specific "fit and gaps" removed, neutral wording, evidence class, disclosure status, next action. MS-02 now lists all nine claims, says the final evaluation's contracting arrangement is not evidenced, and step 5 reads "state where the bases differ". MS-03 is marked design-only and usable only as a design contribution.
 - **Correction (Iain):** BOP Consulting is a competitor and is never asked for permission (PR-07 already said so). The lane suggestion to obtain BOP's written agreement is not adopted; MS-03 relies on accurate attribution capped at "contributed to" and an internal check of our own subcontract or NDA. All statements stay DRAFT; only Iain sets CURRENT.
+
+## Session 12v (26/10/08): method view gate and plain-English flags (method package, lane fixes)
+
+- `tools/method_view.py` rewritten: a disclosure gate (claim wording and figures withheld unless the statement's disclosure status is CLEARED), a lift badge, plain-English flags in three tiers with an owner, and new flags for malformed headers, missing required fields, CURRENT without a named reviewer, a statement with no application or an unregistered method row, and a design-only statement. Tested on a scratch copy: every new flag fires. The regenerated view contains no £ figures.
+- Note: the earlier committed version of `method_views/statements.md` (commit 5c50c87, branch only, not yet on `main`) printed Beatles figures; the file is replaced. The figures remain in earlier git history of this branch.
