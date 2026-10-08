@@ -801,3 +801,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13w (26/10/08): P88-LCRPF24 purchase order
 
 - Iain supplied invoice INV-1322 (31/03/25) from The Fifth Sector to Liverpool City Council, PO 3500515342, 9,999.00 ex VAT, paid in full. A PO therefore exists; the earlier "none exists" wording is superseded in the register, provenance, VAL-S261007-01, MS-02 and the card. Value is this invoice only. Invoice not stored in the repo because it carries bank details.
+
+## Session 13x (26/10/08): citation status for P01 to P09, contracting roles aligned
+
+- All nine set to `citation_status`=DELIVERED_WORK on Iain's statement (a fact about work done, not permission to name clients).
+- Contracting roles on Iain's statement: P04-GBSLEP and P05-WMCA ASSOCIATE to BOP Consulting (previously SUBCONTRACTOR and BOP_ASSOCIATE; same meaning, now one label); P03-MITIH and P06-COSTAR DIRECT; P01, P02, P07, P08, P09 PRIME. P06, P07, P09 were previously ADVISORY (Iain 26/09/12) and P03 PRIME; old values are in provenance. P07 and P09 now read as prime commissions, not advisory to a consortium.

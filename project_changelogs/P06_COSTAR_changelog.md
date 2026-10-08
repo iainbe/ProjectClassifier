@@ -123,3 +123,7 @@ This is a hypothesis-generating analysis based on file dates, titles, and metada
 ## 26/10/08 — client acceptance recorded
 
 - client_accepted set to Y on Iain's bulk statement (group answer); basis IAIN_STATEMENT in `14_fact_provenance.csv`. No written record checked.
+
+## 26/10/08 — Citation status and contracting role
+
+- `citation_status`=DELIVERED_WORK; contracting role DIRECT, prime The Fifth Sector on Iain's statement (direct). Contract not checked. Earlier values kept in `14_fact_provenance.csv`.

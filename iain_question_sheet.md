@@ -47,19 +47,10 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | University of Liverpool | University of Liverpool Heritage CPD (P63) | |
 | Liverpool City Council | Liverpool Music Lab Feasibility Study (P89-LIVMUSLAB) | |
 
-## 3. May we say we delivered this? (citation status not recorded; 9 completed projects)
+## 3. May we say we delivered this? (citation status not recorded; 0 completed projects)
 
 | Project | Default if you say "yes, delivered" | Answer |
 |---|---|---|
-| North East Scotland Creative Industries Mapping (P01-NES) | DELIVERED_WORK | |
-| From Good to Great (Innovate GM / Innovate UK) (P02-FGTG) | DELIVERED_WORK | |
-| MITIH Createch Ecosystem (MediaCity ITIH) (P03-MITIH) | DELIVERED_WORK | |
-| GBSLEP Creative Economy Mapping (P04-GBSLEP) | DELIVERED_WORK | |
-| WMCA Creative Business Scaleup (P05-WMCA) | DELIVERED_WORK | |
-| CoSTAR bid support (P06-COSTAR) | DELIVERED_WORK | |
-| Creative City (SIPF application) (P07-CC) | DELIVERED_WORK | |
-| Liverpool City Region Digital & Creative Industries Cluster  (P08-LIVDCI) | DELIVERED_WORK | |
-| Creative Digital Economy Catapult challenges paper (P09-CDEC) | DELIVERED_WORK | |
 
 ## 4. Who held the contract, and what was our part? (contracting role empty; 0 completed projects)
 
