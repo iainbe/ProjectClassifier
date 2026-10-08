@@ -34,3 +34,7 @@
 - lifecycle_status IN_PROGRESS → COMPLETED; report pack Beatles_Report_Pack_2026-10-07 delivered (Iain-confirmed)
 - citation_status LIVE_WORK → DELIVERED_WORK; reference_permission remains NOT_ESTABLISHED — required for T22-VAIMP case-study referee by 26/10/19
 - Card updated; Evidence Review caveats stand (scenario range not point estimate; Beatles-attributable spend share is an assumption)
+
+## 26/10/08 — referee identified
+
+- Kevin McManus, UNESCO City of Music Officer, Liverpool City Council — named by Iain. NAMED_REFEREE ask drafted as PR-38; V&A PQQ caveat applies (references callable at any stage — ask may need to precede 19/10 submission).

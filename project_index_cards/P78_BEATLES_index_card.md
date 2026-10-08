@@ -40,7 +40,7 @@
 | Field | Value | Source |
 |---|---|---|
 | `citation_status` | DELIVERED_WORK (publication plan unresolved — cite as delivered work, not published report) | rules |
-| `reference_permission` | NOT_ESTABLISHED — client not yet asked to act as named referee | — |
+| `reference_permission` | NOT_ESTABLISHED — referee identified: Kevin McManus, UNESCO City of Music Officer, Liverpool City Council; ask drafted as PR-38 (V&A may call references at any stage — ask likely needed before 19/10 submission) | PR-38 |
 | `permitted_wording` | "Commissioned by the Beatles Legacy Group to update the Beatles heritage economic impact study" | Derived |
 
 ## B. Inward-facing side
@@ -55,4 +55,4 @@
 | `tender_relevance_tags` | visitor-economy, heritage-impact, liverpool, cultural-legacy, baseline-update, delivered | Derived |
 | `comparable_tenders` | P33-LCRMUS (Liverpool economy); heritage/visitor-impact tenders | register |
 | `card_status` | DRAFT — claims coded 26/10/08; headline and client acceptance pending Iain walkthrough; version of record (07 Oct report vs 08 Oct study) to confirm | 26/10/08 |
-| `unresolved_issues` | (1) RESOLVED — delivered 26/10/08 after midnight; (2) citation: client verbal acceptance, no written record; referee asked only once shortlisted for T22-VAIMP; named provider series uncleared; (3) Beatles-attributable spend share is an assumption not a measurement (Evidence Review §0); (4) 2028 demand shock (Sam Mendes films, ~£250m marketing) unmodelled; (5) Apple posture inversion — rights-holder now actively supportive (CONFIDENTIAL, Robin Kemp interview) | Derived; SRC-R5-017 |
+| `unresolved_issues` | (1) RESOLVED — delivered 26/10/08 after midnight; (2) citation: client verbal acceptance, no written record; referee ask PR-38 drafted (Kevin McManus) — send before 19/10 submission; named provider series uncleared; (3) Beatles-attributable spend share is an assumption not a measurement (Evidence Review §0); (4) 2028 demand shock (Sam Mendes films, ~£250m marketing) unmodelled; (5) Apple posture inversion — rights-holder now actively supportive (CONFIDENTIAL, Robin Kemp interview) | Derived; SRC-R5-017 |
