@@ -675,3 +675,4 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **Naming rule tightened (26/10/08)**: TFS banned everywhere including internal registers (Iain). All 78 bare TFS instances replaced with "The Fifth Sector" across registers, cards, changelogs, people records and proposal docs; AGENTS.md rule updated — only verbatim filenames (e.g. TFS_logo) exempt.
 - **client_accepted backfilled (26/10/08)**: Iain confirms no outstanding invoices — all paid in full. 60 COMPLETED projects set PAID_IN_FULL; IN_PROGRESS rows (incl. P31-PRODPARK unfinished) left UNKNOWN.
 - **P31-PRODPARK status (26/10/08)**: ON_HOLD + PART_PAID (Iain) — incomplete, part paid, may never recommence. Sole exception to the all-paid sweep.
+- **Next-steps doc (26/10/08)**: case-study evidence bullet added — contract/award evidence now on file for all five V&A candidates; all completed projects confirmed paid in full.

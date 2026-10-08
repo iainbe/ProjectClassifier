@@ -820,3 +820,4 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/08 | Naming rule | All bare TFS replaced across repo; AGENTS.md rule strengthened to never-TFS incl internal fields | Residual: one verbatim filename TFS_logo retained; TFS_logo reference sits in a proposal doc |
 | 26/10/08 | client_accepted sweep | All COMPLETED projects PAID_IN_FULL per Iain (no outstanding invoices); live rows untouched | Residual: PAID_IN_FULL now doubles as acceptance+payment evidence register-wide — formal acceptance letters still largely uncollected |
 | 26/10/08 | P31 status | ON_HOLD + PART_PAID (Iain: incomplete, part paid, may never recommence) | Residual: new lifecycle value ON_HOLD and acceptance value PART_PAID added to vocabulary — document in codebook on next pass |
+| 26/10/08 | Next-steps doc | Evidence-status bullet added to case-study section | Residual: none |
