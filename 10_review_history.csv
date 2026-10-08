@@ -407,3 +407,4 @@ RH-26-10-08-TFIX,08_tenders.csv,UPDATE,Sweep outcomes corrected,"T24-BM + T25-UE
 RH-26-10-08-P88C,P88-LCRPF24,UPDATE,Contract value confirmed,"INV-1322 GBP9,999+VAT (GBP11,998.80) LCC PO 3500515342 31/03/25 PAID IN FULL; client_accepted=PAID_IN_FULL; LCC-vs-LCRCA bill-to flagged",01_projects.csv;P88 card,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,SWEEP-261007
 RH-26-10-08-P88D,P88-LCRPF24,UPDATE,Procurement lead confirmed,"LCC procurement lead, LCR CA commissioning client (Iain) — INV-1322 attribution clean",01_projects.csv,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,SWEEP-261007
 RH-26-10-08-PR05,PR-05,UPDATE,LCR referee named,"Sarah Lovell (LCR CA) added to PR-05; P88 added to scope; card stale rows fixed",11_permission_requests.csv;P88 card,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,SWEEP-261007
+RH-26-10-08-BF2,01_projects.csv,BACKFILL,20-project contract/fee sweep + P31 lifecycle to IN_PROGRESS,01_projects.csv,PASS,26/10/08,,,Devin,26/10/08,,v1.5,,SWEEP-261007
