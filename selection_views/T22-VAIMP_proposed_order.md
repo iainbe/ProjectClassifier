@@ -13,7 +13,7 @@ These are the operator's reading of the buyer's ask; Iain to correct. Candidates
 | Wakefield Our Year 24 Evaluation (P69-OURYEAR) | Wakefield Council | COMPLETED | UNKNOWN | PASS | PASS | UNKNOWN | UNKNOWN | not established | delivered output 10, effect reported 10, design 4, context 6 | 2 of 3 wanted kinds; role not recorded; ended 24/12 |
 | SYMCA ARG Evaluation (P51) | South Yorkshire Mayoral Combined A | COMPLETED | UNKNOWN | PASS | PASS | UNKNOWN | UNKNOWN | not established | delivered output 1, effect as evaluator 6, context 2 | 2 of 3 wanted kinds; role not recorded; ended 22/12 |
 | BAC + LIVR Project Evaluation (P43) | Battersea Arts Centre/LIVR | COMPLETED | UNKNOWN | PASS | PASS | UNKNOWN | UNKNOWN | not established | delivered output 2, effect as evaluator 2, design 1, context 1 | 2 of 3 wanted kinds; role not recorded; ended 21/08 |
-| Beatles Visitor Impact Study (P78-BEATLES) | Beatles Legacy Group (unconstitute | COMPLETED | UNKNOWN | PASS | PASS | UNKNOWN | PASS | not established | delivered output 3, design 1, context 6 | 1 of 3 wanted kinds; role DIRECT; ended 26/10/07 |
+| Beatles Visitor Impact Study (P78-BEATLES) | Beatles Legacy Group (unconstitute | COMPLETED | PASS | PASS | PASS | UNKNOWN | PASS | not established | delivered output 3, design 1, context 6 | 1 of 3 wanted kinds; role DIRECT; ended 26/10/08 |
 | Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026) (P10-KIRK) | Kirklees Council / West Yorkshire  | IN_PROGRESS | FAIL | UNKNOWN | PASS | PASS | PASS | not established | delivered output 2, design 1, context 4 | 1 of 3 wanted kinds; role PRIME; ended UNKNOWN |
 | CICP Impact and Delivery Evaluation (P16-CICP) | UKRI / AHRC | COMPLETED | UNKNOWN | PASS | PASS | PASS | PASS | not established | delivered output 1 | 1 of 3 wanted kinds; role SUBCONTRACTOR; ended UNKNOWN |
 | Creativeworks London KE Hub Evaluation (P13-CWL) | AHRC / Creativeworks London | COMPLETED | UNKNOWN | PASS | PASS | PASS | PASS | not established | effect as evaluator 1, context 3 | 1 of 3 wanted kinds; role ASSOCIATE; ended 16/06/01 |
@@ -27,7 +27,7 @@ These are the operator's reading of the buyer's ask; Iain to correct. Candidates
 - Wakefield Our Year 24 Evaluation (P69-OURYEAR): client acceptance; method rows; contracting role / prime contractor
 - SYMCA ARG Evaluation (P51): client acceptance; method rows; contracting role / prime contractor
 - BAC + LIVR Project Evaluation (P43): client acceptance; method rows; contracting role / prime contractor
-- Beatles Visitor Impact Study (P78-BEATLES): client acceptance; method rows
+- Beatles Visitor Impact Study (P78-BEATLES): method rows
 - Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026) (P10-KIRK): client acceptance (FAIL); citation status
 - CICP Impact and Delivery Evaluation (P16-CICP): client acceptance
 - Creativeworks London KE Hub Evaluation (P13-CWL): client acceptance

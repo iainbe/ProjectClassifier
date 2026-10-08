@@ -8,7 +8,7 @@ These are the operator's reading of the buyer's ask; Iain to correct. Candidates
 | Project | Client | Lifecycle | Delivered / accepted | Citable | Lapsed option | Method current | Role wording | Referee | Evidence kinds held (claims) |
 |---|---|---|---|---|---|---|---|---|---|
 | BAC + LIVR Project Evaluation (P43) | Battersea Arts Centre/LIVR | COMPLETED | UNKNOWN | PASS | PASS | UNKNOWN | UNKNOWN | not established | delivered output 2, effect as evaluator 2, design 1, context 1 |
-| Beatles Visitor Impact Study (P78-BEATLES) | Beatles Legacy Group (unconstitute | COMPLETED | UNKNOWN | PASS | PASS | UNKNOWN | PASS | not established | delivered output 3, design 1, context 6 |
+| Beatles Visitor Impact Study (P78-BEATLES) | Beatles Legacy Group (unconstitute | COMPLETED | PASS | PASS | PASS | UNKNOWN | PASS | not established | delivered output 3, design 1, context 6 |
 | CICP Impact and Delivery Evaluation (P16-CICP) | UKRI / AHRC | COMPLETED | UNKNOWN | PASS | PASS | PASS | PASS | not established | delivered output 1 |
 | Creativeworks London KE Hub Evaluation (P13-CWL) | AHRC / Creativeworks London | COMPLETED | UNKNOWN | PASS | PASS | PASS | PASS | not established | effect as evaluator 1, context 3 |
 | Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026) (P10-KIRK) | Kirklees Council / West Yorkshire  | IN_PROGRESS | FAIL | UNKNOWN | PASS | PASS | PASS | not established | delivered output 2, design 1, context 4 |
@@ -22,7 +22,7 @@ These are the operator's reading of the buyer's ask; Iain to correct. Candidates
 ## Facts needed before each candidate can be used (UNKNOWN or FAIL)
 
 - BAC + LIVR Project Evaluation (P43): client acceptance; method rows; contracting role / prime contractor
-- Beatles Visitor Impact Study (P78-BEATLES): client acceptance; method rows
+- Beatles Visitor Impact Study (P78-BEATLES): method rows
 - CICP Impact and Delivery Evaluation (P16-CICP): client acceptance
 - Creativeworks London KE Hub Evaluation (P13-CWL): client acceptance
 - Kirklees Creative Industries Mapping (three cycles: 2022 2024 2026) (P10-KIRK): client acceptance (FAIL); citation status

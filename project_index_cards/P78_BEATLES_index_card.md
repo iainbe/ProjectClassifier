@@ -17,7 +17,7 @@
 | `commission_date` | 26/04 | register |
 | `contract_value` | ~£10k | C-G2-283 |
 | `geography` | Liverpool | register |
-| `lifecycle_status` | COMPLETED — delivered 26/10/07 (Iain-confirmed) | register |
+| `lifecycle_status` | COMPLETED — delivered 26/10/08 after midnight (Iain-confirmed; corrected from 26/10/07) | register |
 | `folder` | `Active projects/2026 Beatles` | register |
 
 ### A2. Brief summary
@@ -25,14 +25,14 @@
 | Field | Value | Source |
 |---|---|---|
 | `brief_summary` | Update of the 2016 Beatles Heritage economic impact report (IPM/EIUA/ICC for Liverpool City Council — NOT a Fifth Sector deliverable). The 2016 study estimated £81.9m **net** impact / 2,335 jobs (after deadweight, leakage, displacement, multipliers) and ~£210m **gross** / ~5,990 jobs (2014 data). A decade on, the landscape changed — new attractions, and a cluster of 60th-anniversary drivers: NML Cavern exhibition, BBC Hamburg production, Sam Mendes Beatles films (2028, ~£250m marketing budget). Beatles Legacy Group commissioned ~£10k for an updated impact figure and headline evidence. Evidence Review (26/09/14) gate verdicts: PARTIALLY PROVEN (SHELDON), BLOCK: PROOF FAILURE if published with point estimate (THAD), FRICTION (SKiN). | C-G2-280-284; SRC-R5-016; SRC-R5-017 |
-| `key_deliverables` | Updated Beatles impact study — Beatles_Report_Pack_2026-10-07 delivered 26/10/07 | SRC-G2-077; sweep |
+| `key_deliverables` | Updated Beatles impact study — Beatles_Report_Pack_2026-10-07; delivered study is the 08 Oct file, delivered 26/10/08 | SRC-G2-077; sweep |
 | `client_objective` | Current, credible Beatles-legacy economic figure ahead of the 60th-anniversary moment | claims |
 
 ### A3. Key findings
 
 | Field | Value | Source |
 |---|---|---|
-| `headline_finding` | 2016 baseline (IPM/EIUA/ICC for LCC): £81.9m **net** impact / 2,335 jobs; ~£210m **gross** / ~5,990 jobs (2014 data). Delivered 26/10/07 (study SRC-G2-091, 10 claims coded 26/10/08, C-S261008-018 to -027): modelled working estimate of £66.9m annual Liverpool City GVA at 2025 prices (£211.3m attributed visitor spend); the study says the £81.9m (net turnover) and £66.9m (GVA) are not comparable; no effect evidence, so cite as a modelled baseline only; publication needs sponsor approval and provider clearance (PR-36) | C-G2-280; SRC-R5-016; SRC-R5-017 |
+| `headline_finding` | 2016 baseline (IPM/EIUA/ICC for LCC): £81.9m **net** impact / 2,335 jobs; ~£210m **gross** / ~5,990 jobs (2014 data). Delivered 26/10/08 (study SRC-G2-091, 10 claims coded 26/10/08, C-S261008-018 to -027): modelled working estimate of £66.9m annual Liverpool City GVA at 2025 prices (£211.3m attributed visitor spend); the study says the £81.9m (net turnover) and £66.9m (GVA) are not comparable; no effect evidence, so cite as a modelled baseline only; may be cited (verbal client acceptance, Iain 26/10/08; no written record); named provider series stay unnamed until cleared | C-G2-280; SRC-R5-016; SRC-R5-017 |
 | `key_findings` | (1) 2016 report is a decade old; (2) anniversary catalysts (NML Cavern, BBC Hamburg, Mendes films) create demand for refreshed figures; (3) ~£10k commission | C-G2-281-283 |
 
 ### A4. Permitted use
@@ -55,4 +55,4 @@
 | `tender_relevance_tags` | visitor-economy, heritage-impact, liverpool, cultural-legacy, baseline-update, delivered | Derived |
 | `comparable_tenders` | P33-LCRMUS (Liverpool economy); heritage/visitor-impact tenders | register |
 | `card_status` | DRAFT — claims coded 26/10/08; headline and client acceptance pending Iain walkthrough; version of record (07 Oct report vs 08 Oct study) to confirm | 26/10/08 |
-| `unresolved_issues` | (1) RESOLVED — delivered 26/10/07; (2) publication plan + reference permission (URGENT — needed for T22-VAIMP referee by 26/10/19); (3) Beatles-attributable spend share is an assumption not a measurement (Evidence Review §0); (4) 2028 demand shock (Sam Mendes films, ~£250m marketing) unmodelled; (5) Apple posture inversion — rights-holder now actively supportive (CONFIDENTIAL, Robin Kemp interview) | Derived; SRC-R5-017 |
+| `unresolved_issues` | (1) RESOLVED — delivered 26/10/08 after midnight; (2) citation: client verbal acceptance, no written record; referee asked only once shortlisted for T22-VAIMP; named provider series uncleared; (3) Beatles-attributable spend share is an assumption not a measurement (Evidence Review §0); (4) 2028 demand shock (Sam Mendes films, ~£250m marketing) unmodelled; (5) Apple posture inversion — rights-holder now actively supportive (CONFIDENTIAL, Robin Kemp interview) | Derived; SRC-R5-017 |

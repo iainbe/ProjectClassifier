@@ -8,3 +8,7 @@
 ## 26/10/08 — delivered version confirmed
 
 - Iain confirmed the 08 Oct `Beatles_Impact_Study_2026.docx` (SRC-G2-091) was the version delivered; the 07 Oct report edition (SRC-G2-092) is the earlier edition. VAL-S261008-06 resolved. Delivery date to re-check: the register says 26/10/07 but the delivered file was created 26/10/08 00:16 UTC.
+
+## 26/10/08 — end date, acceptance and citation
+
+- Delivery date corrected to 26/10/08 (after midnight) in the register (date_end), card and SRC-G2-091 (Iain). `client_accepted` set to Y on Iain's report of verbal acceptance from the client; no written record held, basis recorded in the project notes. PR-36 closed (NOT_REQUIRED) and VAL-S261008-07 resolved on Iain's decision that the study can be cited; named provider series stay unnamed until cleared, as the study itself states.
