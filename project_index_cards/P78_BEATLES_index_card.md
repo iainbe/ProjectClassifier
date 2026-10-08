@@ -32,7 +32,7 @@
 
 | Field | Value | Source |
 |---|---|---|
-| `headline_finding` | 2016 baseline (IPM/EIUA/ICC for LCC): £81.9m **net** impact / 2,335 jobs; ~£210m **gross** / ~5,990 jobs (2014 data). Update in progress — Evidence Review says correct output is a scenario range, not a single replacement figure | C-G2-280; SRC-R5-016; SRC-R5-017 |
+| `headline_finding` | 2016 baseline (IPM/EIUA/ICC for LCC): £81.9m **net** impact / 2,335 jobs; ~£210m **gross** / ~5,990 jobs (2014 data). Delivered 26/10/07 (study SRC-G2-091, 10 claims coded 26/10/08, C-S261008-018 to -027): modelled working estimate of £66.9m annual Liverpool City GVA at 2025 prices (£211.3m attributed visitor spend); the study says the £81.9m (net turnover) and £66.9m (GVA) are not comparable; no effect evidence, so cite as a modelled baseline only; publication needs sponsor approval and provider clearance (PR-36) | C-G2-280; SRC-R5-016; SRC-R5-017 |
 | `key_findings` | (1) 2016 report is a decade old; (2) anniversary catalysts (NML Cavern, BBC Hamburg, Mendes films) create demand for refreshed figures; (3) ~£10k commission | C-G2-281-283 |
 
 ### A4. Permitted use
@@ -54,5 +54,5 @@
 | `precedent_caveats` | Figures not yet published — 2016 baseline is the only citable number; must label as third-party (IPM/EIUA/ICC) predecessor study, NOT a Fifth Sector deliverable. Evidence Review: Beatles-attributable spend share is an assumption, not a measurement; correct output is a scenario range, not a single figure | rules; SRC-R5-017 |
 | `tender_relevance_tags` | visitor-economy, heritage-impact, liverpool, cultural-legacy, baseline-update, delivered | Derived |
 | `comparable_tenders` | P33-LCRMUS (Liverpool economy); heritage/visitor-impact tenders | register |
-| `card_status` | DRAFT — pending Iain walkthrough | 26/09/12 |
+| `card_status` | DRAFT — claims coded 26/10/08; headline and client acceptance pending Iain walkthrough; version of record (07 Oct report vs 08 Oct study) to confirm | 26/10/08 |
 | `unresolved_issues` | (1) RESOLVED — delivered 26/10/07; (2) publication plan + reference permission (URGENT — needed for T22-VAIMP referee by 26/10/19); (3) Beatles-attributable spend share is an assumption not a measurement (Evidence Review §0); (4) 2028 demand shock (Sam Mendes films, ~£250m marketing) unmodelled; (5) Apple posture inversion — rights-holder now actively supportive (CONFIDENTIAL, Robin Kemp interview) | Derived; SRC-R5-017 |

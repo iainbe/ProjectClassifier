@@ -598,3 +598,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - `tools/selection_view.py` gained `--order proposed` (and optional `--geography`): writes `selection_views/<tender>_proposed_order.md` with kinds held, then contracting role, then most recent end date, then geography, and a plain-words 'Placed because' column. No score. Default view unchanged (alphabetical). Draft section 5 updated.
 - T22 view regenerated: now 10 candidates because the LCR Production Fund Final Evaluation (P88) has coded claims.
+
+## Session 12h (26/10/08): Beatles study registered and coded; ontology decision 11
+
+- Registered SRC-G2-091/092, coded 10 claims, 10 evidence links, 9 measurements (C-S261008-018 to -027). Added PR-36 (INTERNAL_CHECK on publication clearance), VAL-S261008-06 and -07. P78 card updated. Ontology draft: decision 11, wording capped at the claim's own evidence class (Iain).
+- Self-review: removed a stray sentence from a claim note; original-study originator corrected from the P78 card. Recalculated the headline (211.3 x 0.8 x 0.8 x 0.380 x 1.30 = 66.8, stated 66.9) and the operator percentages (match).

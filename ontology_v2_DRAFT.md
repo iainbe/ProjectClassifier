@@ -69,7 +69,7 @@ Candidates are then shown with fit, kind mix, role, recency and geography as vis
 
 ## 6. Composition
 
-For each selected subject: sheet-ready headline figure with correct `value_basis` and the source's own wording; comparability first line; permitted role wording (associate = "as BOP Associate Director"; design = "designed the evaluation approach"; contracting structure named). Client-supplied data is cited as client data.
+For each selected subject: sheet-ready headline figure with correct `value_basis` and the source's own wording; comparability first line; permitted role wording (associate = "as BOP Associate Director"; design = "designed the evaluation approach"; contracting structure named). Client-supplied data is cited as client data. Wording is capped at the evidence class of the cited claim (decision 11).
 
 ## 7. Submission readiness (conditional)
 
@@ -132,6 +132,8 @@ Dry-run on today's data (70 projects), using the checks as written, for orientat
 **Taken 26/10/08 (A):** referee timing: referees are cited by name in the tender and asked only once shortlisted. Section 7 rewritten; the three drafted referee asks (PR-03, PR-04, PR-05) are held until shortlist. T22 review lanes raised a related risk (a named contact first hearing of it from the buyer); handled as advice on choosing a likely-to-agree contact, not as a gate.
 
 **Taken 26/10/08 (B):** decision 10: evidence kind filters candidates and never ranks them. Section 5 rewritten. Decision 10b taken (option C): default unordered, proposed order available as a trial switch. Background: whether and how role, recency and geography order the survivors (lane advice: role is already limited through the claim's attribution wording and recency overlaps the method-current check, so ranking on them risks double counting).
+
+**Taken 26/10/08 (C):** decision 11: case-study wording is capped at the evidence class of the claim it cites. An effect reported as evaluator is worded "the evaluation found"; a modelled estimate is worded "modelled estimate" with its boundary, price basis and status; a forecast or proposal is never worded as achieved; contribution claims name the contracting structure. First worked cases: C-S261008-018 (Beatles modelled GVA) and the P88 forecast claims.
 
 **Executed 26/10/07 (register edits):** decisions 2, 3 and 4 and the three project facts are now in the register (31-field register, lifecycle aligned, Derby bid row retired, Lancashire / Lancaster Horizon / Creative Scotland recorded). Lancaster re-key done 26/10/07 (session 6). Not yet done: Kirklees phase rows, client_accepted and early citation_status backfill. See CHANGELOG session 26/10/07 (5).
 

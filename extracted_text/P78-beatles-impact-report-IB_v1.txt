@@ -1,0 +1,536 @@
+What the Beatles contribute to Liverpool
+
+BEATLES IMPACT STUDY 2026
+
+01 2026 ASSESSMENT
+
+What the Beatles contribute to Liverpool
+
+Economic contribution, cultural experience and the journeys that connect them
+
+|  |  |
+| :-: | :-: |
+| An update for Liverpool BID and the Beatles Legacy Group. This assessment brings together tourism expenditure, attraction and commercial records, stakeholder interviews and spatial evidence to explain annual contribution and the practical priorities for the city.7 October 2026 · Project review edition |  |
+
+Source Prepared by The Fifth Sector
+
+Annual contribution model at 2025 prices
+
+02 EXECUTIVE FINDINGS
+
+# A visitor economy contribution beyond the admission ticket
+
+The working annual model links Beatles engagement to whole-trip spending, then accounts for geography, displacement and value added.
+
+|  |  |
+| :-: | :-: |
+| What the evidence showsThe revised annual estimate is £66.9m GVA in 2025 prices: £51.4m direct and £15.4m in combined supplier and household effects. It includes whole-trip spending rather than admission tickets alone. Inbound staying visitors account for £140.4m of the £211.3m attributed spending before adjustments, so their engagement and trip-purpose assumptions have substantial influence. | How to read itThe report uses a source-informed 20% residual local-allocation reserve, replacing the saved model’s 30%. Destination-level spending reduces but does not eliminate uncertainty about where purchases are received. The reserve is a transparent judgement, not a measured leakage rate. The original calculation is preserved in the appendices. |
+
+Source Annual model Visitor calculation B7:H19; explicit report-side Assumptions E23 override to 20%; BEL-SRC-040/041/053 and official visitor-spending definitions. Native workbook unchanged.
+
+Revised modelled estimate · 2025 prices · local project review
+
+03 EXECUTIVE FINDINGS
+
+# Five findings that change how Liverpool should read the Beatles economy
+
+Heritage demand is a network of journeys and spending opportunities rather than a single attraction total.
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Finding | Evidence | Priority for action · proposed lead |
+| Whole-trip value matters | Accommodation, meals, retail, tours and transport form linked pathways | 4\. Multi-gateway motivation/spend study · LCRDP/BLG |
+| Attraction trends diverge | Beatles Story below 2019/20; NT homes above it; Strawberry Field reports growth | 3\. Repeatable anonymous evidence return · BID/BLG/operators |
+| Major moments activate places | Mathew Street Beatleweek contrast stronger than nearby retail counters | 5\. Matched event/capacity baseline · BID/L1/MRI |
+| Exposure is concentrated and shared | 574 FSA sites; 349 matched alcohol sites (341 site points + 8 centroids), an incomplete subset | 1\. Observed peak-day route trial · highways/operators/BLG |
+| Experience affects capture | Interviews identify dwell, access, interpretation and stopping constraints | 2\. Visitor-information/access standard · BLG/providers |
+
+|  |  |
+| :-: | :-: |
+| The Beatles remain a distinctive reason to engage with Liverpool, with different economic consequences across visitor routes. Attraction records, tourism expenditure, commercial data and stakeholder experience support a substantial contribution—and practical action across the connected city offer. | The original £81.9m was net turnover, not comparable directly with £66.9m GVA. Priorities are proposals: scope November 2026; first review February 2027, subject to funding, owners and permissions. Peak observations need suitable event/cruise dates, not February alone. Future publicity is preparedness, not baseline uplift. |
+
+Source Original assessment; supplied attraction/BID records; BEL-SRC-088 matched register subset; interview synthesis; annual workings. Five proposed priorities: main recommendations and technical work packages M0–M4; resources, dependencies and dated review basis in appendices.
+
+2026 assessment · base periods and evidence states shown
+
+04 COMMISSION AND SCOPE
+
+# An update to the city assessment not a new attraction business case
+
+The task is to estimate the annual contribution of Beatles heritage tourism and explain the mechanisms and implications.
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Term | Meaning in this report | Do not substitute |
+| Visitor trips | Visits during the source reporting period | Unique individuals across every attraction |
+| Beatles engagement | Participation or meaningful interest | Beatles caused the entire Liverpool visit |
+| Attributable expenditure | Modelled share of whole-trip spending related to Beatles motivation | Total visitor expenditure or tickets alone |
+| Direct GVA | Value added supported by eligible local spending | Turnover receipts |
+| Wider GVA | Combined supplier and household effects at the stated multiplier | A separately measured indirect and induced split |
+| Cultural contribution | Interpretation connection access identity and participation | A monetised welfare estimate |
+
+|  |  |
+| :-: | :-: |
+| The original study drew principally on 2014 evidence and was published in November 2015. New attractions, changed channels and disrupted visitor patterns justify a fresh baseline. This report retains its economic and cultural breadth while making the calculation more inspectable. The proposed Beatles Experience and any rights-holder proposition are separate investment decisions; this assessment does not assume their delivery or add their future receipts. | Liverpool City is the intended economic boundary. City Region evidence is used only with its scope identified. Report year 2026 is not the same as the model price year: the working calculation is expressed at 2025 prices using individually dated visitor and operator sources. |
+
+Source Original commissioned brief; original study; BEL-SRC-085–087 sponsor and planning discussions; annual model source ledger.
+
+2026 assessment · base periods and evidence states shown
+
+05 WHAT HAS CHANGED
+
+# The attraction evidence does not follow one growth curve
+
+Separate trajectories prevent the busiest or fastest-growing venue becoming a proxy for the entire Beatles visitor economy.
+
+|  |  |
+| :-: | :-: |
+| What the evidence showsThe Beatles Story recorded 228,964 admissions in 2025–26: 4.2% below the previous year and 27.8% below 2019–20. National Trust homes recorded a transcribed annual total of 27,135: 2.5% below the previous year but 7.9% above 2019–20. Strawberry Field reports 11.9% total nominal revenue growth for January–August 2026 against the same period in 2025; the chart shows permitted percentage changes only. | How to read itSeries are not interchangeable: admissions are not unique Liverpool visitors; the earlier Beatles Story series includes changes in operation and pandemic disruption. NT totals are transcribed displayed figures, not independently audited booking records. Strawberry Field categories are not additive. |
+
+Source The Beatles Story 10 year heads.xlsx, eleven fiscal-year sheets; Beatles\_chart\_data\_extracted.xlsx, NT Summary; Strawberry Field Performance Detail.xlsx, Centre Revenues E5:E11. Exact cells and source hashes: activity.json.
+
+Operator series and source transcription with explicitly different denominators
+
+06 CHANGED OFFER AND CHANNELS
+
+# Recovery depends on the attraction and the comparison year
+
+A common index compares trajectories without merging admissions into a city visitor count.
+
+|  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: |
+| How to read itThe two attraction denominators and operating models are different. National Trust values are transcribed from supplied chart data. Capacity, ticket availability, free-site participation and changed routes may contribute to divergence; these records do not identify the causes. Strawberry Field has no comparable pre-opening admissions baseline in these returns. | What the evidence showsThe Beatles Story and National Trust homes do not recover at the same rate. Each attraction is indexed to its own fiscal 2019/20 admissions: the latest Beatles Story total is 72.2% of that baseline, while the homes are at 107.9%. Both sit below their previous-year admissions. A rising city footfall series is therefore not sufficient to conclude that every heritage provider is growing.The offer has broadened since the baseline | Opened / recognised | Addition | What changed |
+| 2017 | British Music Experience | Wider music heritage at Pier Head |  |  |
+| 2018 | Liverpool Beatles Museum | Paid museum on Mathew Street |  |  |
+| 2019 | Strawberry Field | Exhibition, gardens and social purpose |  |  |
+| 2024 | Arnold Grove plaque | National recognition at a residential site |  |  |
+
+Source BEL-SRC-071 ten-year Beatles Story heads; supplied Beatles\_chart\_data\_extracted.xlsx, NT Summary. Exact periods and inputs in the technical appendices. Openings: Harcourt Developments, 9 March 2017; Roag Best founder interview, July 2018; Salvation Army, 14 September 2019; Historic England, 24 May 2024. Exact source URLs/qualifications: offer\_timeline.json and technical appendix.
+
+Source-grounded observation or model as specified
+
+07 CHANGED OFFER AND CHANNELS
+
+# Admissions vary within the year as well as between years
+
+Fiscal reporting periods show operational demand that annual totals conceal.
+
+|  |
+| :-: |
+|  |
+
+|  |  |
+| :-: | :-: |
+| The latest twelve reporting periods sum to228,964 Beatles Story admissions. Their different levels are useful for staffing group allocation and campaign timing. Comparison with the previous fiscal year distinguishes a weak annual result from a uniformly weak season. The period series is a demand-management tool; it does not identify which visitors came to Liverpool because of the Beatles. | P1–P12 are reporting periods and have not been independently mapped to calendar months. Booking date and admission date are different clocks. Pandemic and operating changes also affect historical comparison. The next useful return is visit-date heads by channel and party with consistent reporting definitions. |
+
+Source BEL-SRC-071 ten-year heads and BEL-SRC-072 FY2025–26 monthly KPI workbook; twelve period totals reconcile to the annual total. Exact cells are retained in the appendix.
+
+2026 assessment · base periods and evidence states shown
+
+08 CHANGED OFFER AND CHANNELS
+
+# Discovery and trading describe different parts of the journey
+
+Acquisition data and ancillary performance reveal value pathways that an admission count alone misses.
+
+|  |  |
+| :-: | :-: |
+| What the evidence showsThe Beatles Story reporting-period admissions and online booking routes provide two complementary views. Named online transactions rise from 21,127 in 2024–25 to 30,410 in 2025–26. Search contributes 7,815, social media 7,152 and word of mouth 6,380 in the latest report. Those channels help explain how an attraction is found; they do not measure the reason people chose Liverpool. | How to read itThe admission periods P1–P12 are fiscal reporting periods, not independently confirmed calendar months. Online transactions are not passenger heads. Campaign reach and PR impressions are discovery outputs, not extra visitor spending or GVA. Visit-date and booking-date data should be distinguished in future returns. |
+
+Source BEL-SRC-071/072 admissions and KPI workbooks; The Beatles Story Marketing and PR EOY Report 2024–25 and Content and PR EOY Report 2025–26, p2 (BEL-SRC-068/069 in the 22 September extraction). Source cells and channel extraction in the technical appendix.
+
+2026 assessment · base periods and evidence states shown
+
+09 WIDER VISITOR ECONOMY
+
+# The city context can amplify or obscure a Beatles pattern
+
+Aligned dates help distinguish attraction performance from wider city activity.
+
+|  |
+| :-: |
+|  |
+
+|  |  |
+| :-: | :-: |
+| Hotel occupancy, covered retail sales and Mathew Street counts describe related but different activity. They should be read together to identify seasonal movement, disruption and periods where busier streets do not necessarily translate into proportionate spending. A visitor may stay outside the sampled hotel estate, buy outside the covered merchant area, or pass a counter repeatedly. | The aligned panel uses January 2024–July 2026 because all three extracted series share that window. This is not the full extent of footfall availability: the raw counter return runs through 7 September 2026. Occupancy lacks room-night weights; sales include resident and worker purchases; counts are movements rather than unique visitors. |
+
+Source BEL-SRC-034 monthly hotel occupancy; BEL-SRC-037 footfall; BEL-SRC-038 monthly retail spend. Exact series coverage, units and cells in activity.json and the technical appendix.
+
+2026 assessment · base periods and evidence states shown
+
+10 ANNUAL ECONOMIC CONTRIBUTION
+
+# The annual attribution judgement is concentrated in staying visitors
+
+Proportional bands reveal which visitor assumptions most influence the annual model.
+
+|  |
+| :-: |
+|  |
+
+|  |  |
+| :-: | :-: |
+| Day, domestic staying and inbound staying trips enter with separate visit and spending bases. The model applies an engagement rate and an attributable share to each. The resulting £211.3m attributed spending is dominated by inbound staying visitors: £140.4m, compared with £58.6m from domestic stays and £12.3m from day trips. That weighting is why international origin, trip purpose and nights deserve priority in the next evidence return. | The bands represent modelled attributed expenditure, not observed payments or journeys. They precede geography, displacement and GVA conversion. Engagement and attribution are distinct judgements; an attraction attendance percentage cannot replace either automatically. Ticket purchases sit inside whole-trip spending and are not added a second time. |
+
+Source Annual workbook Visitor calculation B7:H9; source bases BEL-SRC-040/041; inputs, equations and source definitions in the technical appendices.
+
+Source-grounded observation or model as specified
+
+11 ANNUAL ECONOMIC CONTRIBUTION
+
+# Show every step and expose the assumptions that matter
+
+The headline is the end of a calculation, not an observation. Sensitivity is essential to understanding what could move it.
+
+|  |
+| :-: |
+|  |
+
+|  |  |
+| :-: | :-: |
+| £211.3m attributed visitor spending becomes £169.1m after a 20% residual local-allocation reserve, then £135.2m after 20% displacement. Applying the 38.0% GVA conversion gives £51.4m direct GVA; the 1.30 combined multiplier gives £66.9m total. Each adjustment has a distinct purpose and is applied once. | The calculation makes each judgement visible. Sensitivity tests on the following page change one assumption at a time and hold the others fixed; they are not a confidence interval or a probabilistic forecast. Indirect and induced effects are combined, not separately measured. |
+
+Source Visitor calculation H10:H19; Assumptions E23:E28 and driver references in economics.json. The 1.3 multiplier remains a working parameter, not an empirically identified Liverpool Beatles multiplier.
+
+Reproducible arithmetic with model uncertainty visible
+
+12 HISTORICAL COMPARISON
+
+# An analytical bridge—not a rewritten original result
+
+Our retrospective visitor-GVA scenarios align the metric and narrow the scope; they do not establish measured growth.
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Measure / scenario | 2025 equivalent | How to read it |
+| Original £81.9m net turnover | £113.4m turnover | Original metric preserved; not GVA |
+| Our historical visitor-GVA bridge | £47.6m GVA | Historical20/30/20 rates sequenced; current conversion proxy |
+| Historical inputs, current20% allocation and no extra deadweight | £68.0m GVA | Method sensitivity, not an adopted historical fact |
+| Current annual working model | £66.9m GVA | Current estimate unchanged; no simple growth claim |
+| 2011 alternative routes | Not converted | £356.86m / £54.53m expenditure including indirect effects |
+
+|  |  |
+| :-: | :-: |
+| The original £81.9m remains net turnover. Its business, supplier and visitor-spending architecture can be reconstructed. Our analytical bridge starts instead from its £155.3m visitor-spending table: separate operator and supplier blocks are not added again. Applying historical adjustments sequentially, the current visitor-GVA conversion and one multiplier gives £34.4m at source-period prices, or £47.6m in 2025 CPI-equivalent terms.Changing the historical allocation reserve to 20% and removing an additional deadweight deduction raises those same inputs to £68.0m. That is close to the current £66.9m model. Method choices therefore prevent a defensible claim that the difference is real growth. The supplied R4 sector restatement provides a separate cross-check, with education retained and different conversion assumptions. | These are OUR retrospective scenarios, not the original authors’ GVA estimates. CPI 2014=100.0 and 2025=138.4 gives 1.384; this is purchasing-power presentation, not sector GVA volume deflation. Historical inputs mix years. The 2011 alternatives remain expenditure estimates, not a GVA baseline. |
+
+Source BEL-SRC-002 Table6 and net-impact method; BEL-SRC-082/083; AMION visitor conversion; ONS D7BT annual CPI, checked7 October2026. Full formulas, source hashes and scope changes: historical\_metric\_bridge.json and technical appendix.
+
+2026 assessment · base periods and evidence states shown
+
+13 ANNUAL MODEL JUDGEMENT
+
+# The largest uncertainties are not hidden in the multiplier
+
+The source base supports an estimate but cannot directly observe every counterfactual parameter.
+
+|  |  |
+| :-: | :-: |
+| What the evidence showsThe source-informed 20% allocation reserve gives £66.9m. Restoring the saved 30% reserve gives £58.5m; removing it gives £83.6m. These are conditional geographic cases, not a confidence interval. Inbound engagement and the expenditure-to-GVA coefficient also matter: the illustrated 65% inbound-engagement case gives £86.6m, holding other inputs fixed. | How to read itTown expenditure is destination-attributed, but GBTS includes travel, advance purchases and packages; the inbound basket also uses a regional proxy. A zero reserve therefore overstates precision. Conversely, importing the Eurovision survey’s roughly 28% outside-area adjustment unchanged would ignore differences in what GBTS/IPS already exclude. The revised 20% is a cautious judgement, with 0% and 30% retained as tests—not a measured correction. |
+
+Source BEL-SRC-040/041 destination and visitor-spend methods; BEL-SRC-053 AMION Tables 5.2–5.3; source-definition review and report revision, 7 October. Full parameter tests and saved case in technical appendices.
+
+2026 assessment · base periods and evidence states shown
+
+14 WIDER ECONOMIC EFFECTS
+
+# A music system and a visitor basket need different multiplier readings
+
+Geography sector composition and the starting measure determine what can be transferred from a comparator.
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Comparator | Factor | Boundary and object | Use here |
+| Liverpool Eurovision | 1.30 | City visitor-sector direct GVA to combined total | Local working precedent |
+| Glasgow Games/Festival | ≈1.16 | City visitor expenditure run through Scottish IO | Lower comparative case |
+| Liverpool City Region music | 1.92 | Regional music ecosystem; 0.45 supplier and 0.47 household uplift | Specialist music-system scenario only |
+| Coventry City of Culture | 1.38 | Employment multiplier at City and Warwickshire scale | Method context not imported GVA coefficient |
+| Edinburgh Festivals | Category-specific | Visitor and organiser baskets; City and Scotland outputs | Design template for a sector-specific module |
+
+|  |  |
+| :-: | :-: |
+| AMION’s Liverpool Eurovision visitor-economy assessment supplies the local 1.30 combined GVA precedent. A Scottish input-output visitor model gives roughly 1.16 for Glasgow City. The Liverpool City Region music-system study gives 1.92 across direct supplier and household effects, but covers a regional music-production ecosystem rather than the City’s hotel restaurant and retail basket. The latter is relevant to specialist music activity, not a coefficient to apply indiscriminately. | The current model uses 1.30 once after direct GVA conversion. Specialist tours venues and creative procurement may support a different sector-weighted case; commissions and imported supplies may weaken local retention. Destination reputation is a plausible demand mechanism, but adding a separate halo value would double-count spending already attributed through the visitor model unless a distinct non-overlapping benefit were measured. |
+
+Source AMION Eurovision 2023 Table 5.3 and local multiplier method; Scottish Government Commonwealth Games visitor economic impact; LCR Music Economy report BEL-SRC-077; comparator matrix and sources in the appendix.
+
+2026 assessment · base periods and evidence states shown
+
+15 VISITOR JOURNEYS
+
+# Visitors eat shop travel and sometimes stay
+
+Whole-trip envelopes retain hospitality and other spending rather than presenting a small attraction basket as the full economic journey.
+
+|  |  |
+| :-: | :-: |
+|  |  |
+
+|  |  |
+| :-: | :-: |
+| These four examples use held per-person trip envelopes: £617.73 inbound staying, £360.27 domestic staying and £64.92 day visits. Selected priced purchases are £96.90, £46.00, £6.00 and £56.67 respectively. They are contained within—not added on top of—the trip envelope. The cruise example divides a £170 taxi party fare by three; it is not an official shore-excursion price or a measured cruise spending average. | Category colours are a GREY design scenario: after selected purchases, residual spend follows the AMION Eurovision direct-sector mix, with accommodation excluded and the mix renormalised for day examples. This is a disclosed event-economy proxy, not observed Beatles category shares, and does not change the annual GVA calculation. 2026 example tariffs and 2025-price envelopes are not a like-for-like price series. |
+
+Source Journey archetypes and public-price references: economics.json. Residual allocation: AMION Eurovision Full Report 2023, Table 5.3 direct column, printed p36. Illustrations depict a journey profile, not surveyed demographics.
+
+Modelled whole-trip examples with priced components and explicit allocation assumptions
+
+16 VISITOR JOURNEYS
+
+# Fifteen profiles do not mean fifteen additive populations
+
+Economic routes organise the denominator; language access family composition and travel mode often describe the same people.
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| Annual allocation route | Visitor denominator | Share within denominator | Allocated GVA £m |
+| International pilgrim | Inbound staying | 85% | 37.76 |
+| Inbound major-moment journey | Inbound staying | 15% | 6.66 |
+| Domestic city-breaker | Domestic staying | 80% | 14.84 |
+| Domestic major-moment journey | Domestic staying | 20% | 3.71 |
+| Generic day visitor | Day | 93% | 3.61 |
+| Official Beatles cruise excursion | Day | 2% | 0.09 |
+| Day major-moment journey | Day | 5% | 0.19 |
+
+|  |  |
+| :-: | :-: |
+| The journey framework is useful because it distinguishes international pilgrims, city breaks, major moments, cruise and coach trade, independent day trips and local participation. The annual experiment allocates the same city expenditure model across seven mutually exclusive routes. Its £66.9m total therefore reconciles by construction: it is not independent evidence that the primary estimate is correct. | A family can be international, a coach passenger and access-constrained at the same time. Adding those cards would count one trip repeatedly. Resident school and remote participation have real spending or cultural value but require different denominators; exclusion from visitor GVA does not imply zero economic activity. |
+
+Source Journey build rows35–41; current journey-spend model and all fifteen profile pathways; operator and guide testimony. Allocation shares are scenarios, not observed population shares.
+
+2026 assessment · base periods and evidence states shown
+
+17 CRUISE AND COACH TRADE
+
+# The Beatles are a substantial shore product not a proven booking cause
+
+Official excursion returns capture one part of the cruise economy; independent tours and shipboard choices sit outside them.
+
+|  |
+| :-: |
+|  |
+
+|  |  |
+| :-: | :-: |
+| The supplied season programme lists 482 Beatles coaches and 254 city-highlights coaches, with 27,080 estimated passengers across all excursions. The passenger figure must not be assigned wholly to Beatles tours or treated as unique Liverpool cruise visitors. One independent taxi operator reports around 200–300 cruise-related tours within roughly 2,000 annual tours; this establishes an additional route, not a citywide independent-tour total. | The product evidence supports a strong Beatles role in the shore-excursion offer. It does not isolate whether Liverpool or the Beatles caused purchase of the cruise. Ships’ catering, limited shore windows and trade commissions affect local capture. Operator expectations of doubling by 2030 are scenarios, not current activity. Realised calls booked excursions cancellations and passenger parties should be distinguished. |
+
+Source BEL-SRC-027 Cruise Call Analysis.xlsx and BEL-SRC-028 accompanying Paul Mullins comments; operator/guide corpus; CLIA BEL-SRC-029–031 international context. The programme includes estimated and forward entries, not an audited completed-call census.
+
+2026 assessment · base periods and evidence states shown
+
+18 EVENTS AND MAJOR MOMENTS
+
+# Beatleweek activation is more visible on Mathew Street
+
+Matched weekday comparisons show a place-specific activity signal without turning movements into event visitors.
+
+|  |  |
+| :-: | :-: |
+| How to read itThe 2025 event ran 20–26 August; 2026 ran 26 August–1 September. Both periods involve late-August holiday conditions. Weather other events and counter continuity remain competing explanations. Different comparison weeks change the magnitude: the 2025 symmetric ±28-day contrast is 36.1%. Neither contrast supplies unique attendance, attributable spending or an automatic GVA uplift. | What the evidence showsDuring Beatleweek, Mathew Street’s daily mean was 19.5% above the same weekdays two and four weeks earlier in 2025, and 14.8% above them in 2026. Church Street and Bold Street changed much less under the same comparison. That pattern is consistent with a concentrated heritage and music event effect rather than uniform city-centre growth. It supports retaining major-moment journeys and investigating additional nights and local purchase. |
+
+Source BEL-SRC-037 daily footfall export, column K; International Beatleweek/Cavern official event dates checked 7 October 2026. Matched-period definitions and complete rows in context.json and the technical appendix.
+
+2026 assessment · base periods and evidence states shown
+
+19 GEOGRAPHY AND LOCAL EXPOSURE
+
+# Heritage routes connect a dense centre with residential destinations
+
+All fourteen accepted anchors are shown with the same 400 metre distance rule.
+
+|  |
+| :-: |
+|  |
+
+01 20 Forthlin Road (Paul McCartney's home) · 02 Beatles statue, Pier Head · 03 British Music Experience · 04 Casbah Coffee Club · 05 Hard Days Night Hotel · 06 Jacaranda · 07 Liverpool Beatles Museum · 08 Mathew Street · 09 Mendips (John Lennon's home) · 10 Penny Lane mural · 11 Penny Lane road sign · 12 Strawberry Field · 13 The Beatles Story · 14 The Cavern Club
+
+|  |  |
+| :-: | :-: |
+| Central anchors share a substantial hospitality economy. Southern and eastern destinations have smaller immediate catchments and different operating conditions; they should not be evaluated as miniature versions of Mathew Street. The map makes potential links visible, while the route interviews explain how guided itineraries can connect paid attractions free sites meals and transport across the network. | The dots are FSA hospitality context, not an alcohol-licence census or measured beneficiaries. The matched licence-register subset is shown separately on the next page. Straight-line catchments are not walking routes. Arnold Grove and other narrative places remain context/deferred records outside this accepted fourteen-anchor cohort; mentioning them does not silently add them to the economic denominator. |
+
+Source Accepted anchor registry20 August2026; projected EPSG27700 distance calculations and FSA source cohort. Numbered key and coordinate provenance in the appendix.
+
+2026 assessment · base periods and evidence states shown
+
+20 LOCAL HOSPITALITY EXPOSURE
+
+# Nearby provision is uneven and shared
+
+Distinguish matched alcohol permissions, wider hospitality context and shared catchments.
+
+|  |  |
+| :-: | :-: |
+| What the evidence showsCouncil records match 349 distinct FSA sites: 341 site points and eight postcode centroids. Fourteen catchments contain 815 memberships—not 815 businesses. This incomplete, mechanically matched subset requires identity review; it is not a licence census. Wider FSA context has 574 establishments, 1,375 memberships and 265 sites shared between catchments. | How to read itFour Cavern Quarter FSA catchments share 209–220 sites pairwise; Jacaranda shares only 12–24 with them: connected but distinct clusters. Another 390 priority-postcode register identities remain unassigned, not assumed inside 400m. No Strawberry Field match means incomplete matching, not zero provision. Register validity and proximity do not establish current trading, visitor use, revenue or Beatles causality. |
+
+Source Liverpool City Council public licensing register, 7 October 2026: 939 priority premises retrieved; licensed\_anchor\_summary\_selected.csv and reconciliation receipt. Accepted FSA cohort and anchor\_memberships.csv supply geometry and overlap. Full method, coordinate qualifications and coverage in technical appendix P.
+
+2026 assessment · base periods and evidence states shown
+
+21 PLACE DEVELOPMENT
+
+# The surrounding city has changed for several reasons
+
+Longer counter series and documented developments provide context without attributing the district’s growth to the Beatles.
+
+|  |  |
+| :-: | :-: |
+| What the evidence showsComplete-year central-street counts extend back through the original-study period; Mathew Street’s usable annual sequence begins later. Mathew Street recorded 4.54 million movements in 2025, only 0.7% above 2024 after a much larger recovery from 2021. That differs from an attraction-admissions trend. Passenger infrastructure housing offices cultural openings and major events all influence the district around heritage activity. | How to read itMathew Street does not have a verified2016 record in this return. Complete-year coverage is not proof that counter hardware factoring and site position stayed unchanged. Current Companies House addresses with old incorporation dates describe surviving firms, not the businesses operating in2016. The completed Isle of Man terminal and a planned cruise expansion are distinct developments. |
+
+Source BEL-SRC-037 daily counter return and new complete-year extraction; documented development ledger, 13 August 2026. Source links and historical-location limitations retained in the technical appendix.
+
+2026 assessment · base periods and evidence states shown
+
+22 CULTURE AND EXPERIENCE
+
+# A heritage visit has more than one purpose
+
+Strawberry Field’s interim survey reveals a social and restorative experience as well as Beatles interest.
+
+|  |  |
+| :-: | :-: |
+| What the evidence showsAmong 304 respondents, 135 were from Liverpool, 94 from elsewhere in the UK and 71 from overseas; four were not classified in the origin totals. The most selected reason was spending time with friends or family, followed by peace and quiet and the atmosphere. Learning and inspiration also feature. These responses support family, local participation and restorative journeys alongside the international pilgrimage profile. | How to read itReasons are multi-response and must not sum to 100%. The survey is drawn from one venue and is concentrated by date and day of week; it is not a representative city visitor survey. Origin does not establish trip purpose, and being local does not mean spending nothing. These findings inform the journey hypotheses, not citywide segment shares or a new GVA add-on. |
+
+Source BEL-SRC-058 Strawberry Field Performance Detail, survey sheet; 304 interim responses. Counts, dates, denominator and permitted disclosures in the technical appendices.
+
+Source-grounded observation or model as specified
+
+23 CULTURE AND EXPERIENCE
+
+# The value is also a living cultural relationship
+
+Liverpool offers more than a set of paid attractions. Its people, stories, places and music give the visitor economy its meaning.
+
+|  |  |  |
+| :-: | :-: | :-: |
+| The findingThe evidence describes culture through concrete experiences, not only a heritage brand. Summit participants described schoolchildren exploring the childhood homes, hands-on music activities, memory cafés and supported employment. Others explained how the sound and physical scale of a room make history tangible. These accounts justify retaining learning, belonging and wellbeing alongside the economic estimate, without inventing a GVA price for them. | What it meansFestival testimony adds another dimension: visitors meet people they first knew online, and programming increasingly includes retro-fashion communities. This is living participation rather than simply an ageing audience revisiting the past. It does not establish a citywide demographic shift.Interpretation should also connect the Beatles with Liverpool’s wider social history, including Black American musical influences, Irish roots and women’s experiences. Shared factual standards need not produce identical stories. Nor should wider-music cross-selling be assumed: specialist visitors can remain strongly Beatles-focused. | Evidence and actionAuthenticity and storytellingVisitor mechanism: Rooms, objects and interpretation make history tangibleWhat to preserve and test: Oral histories, factual integrity and different Liverpool perspectivesLiving participationVisitor mechanism: Festival communities and hands-on music engagementWhat to preserve and test: Participation and experience; no automatic wider-music conversionEducation and communityVisitor mechanism: Schools, memory cafés and supported employmentWhat to preserve and test: Retain outcomes in their own right, without an invented GVA priceAnonymous paraphrases; no quotation clearance inferred. Exact raw-file locators are in the technical appendix. Cultural mechanisms are not quantified GVA additions. |
+
+Source BEL-SRC-063: 032750, 04:02–08:30; 063938, 28:11; 070446, 13:20; 093958, 18:25; 100643, 04:05. BEL-SRC-042, 1:03:07–1:04:48; BEL-SRC-047, 23:12–24:30.
+
+qualitative synthesis and evaluative implication
+
+24 CULTURE AND EXPERIENCE
+
+# Make the experience easier to understand and use
+
+Access, storytelling and technology should reinforce the visit—not replace the human experience.
+
+|  |  |  |
+| :-: | :-: | :-: |
+| The findingAccess problems are specific. Summit participants described the uphill Penny Lane walk, limited places to sit or use toilets, and independent travellers struggling to identify the right bus stops. Walking and cycling may improve some journeys, but cannot replace suitable transport for everyone. Quieter, lower-emission travel also needs to respect residential streets.Technology already offers useful adaptations. The homes discussion described an iPad view of upstairs rooms for visitors unable to climb the stairs. Guides discussed live translation trials, while warning that language tools must preserve meaning and human connection. Digital access was contested as both a possible substitute for travel and an introduction that encourages a later visit. | What it meansThe immediate priority is therefore practical information: access conditions, languages, booking inclusions, realistic travel times and route choices. Build on existing adaptations and test them with visitors, rather than treating a new app as the answer. | Evidence and actionPhysical accessPractical question: Seating, toilets, gradients and realistic transport optionsInterpretive accessPractical question: Audience-specific stories and tested language supportDigital supportPractical question: Build on existing adaptations; test rather than assume benefitProposed standard, not a finding that every provider fails it. Test with visitors before describing an improvement as effective. |
+
+Source BEL-SRC-063:073943, 05:45–09:20; 070446, 05:52–09:48; 073123, 00:15–03:44,11:04–14:14; 035749, 00:25–04:37.
+
+stakeholder themes and proposed action
+
+25 CAPTURE AND PRESSURE
+
+# More attention is useful only if the visit works
+
+Pressure and economic capture are two sides of the same visitor journey.
+
+|  |  |
+| :-: | :-: |
+|  |  |
+
+|  |  |
+| :-: | :-: |
+| The southern route exposes a practical tension: longer stops can help nearby businesses, but they also occupy scarce road and visitor space. One scheduled-tour account describes gate-only visits at Strawberry Field and no tracked return purchases. A guide describes longer tours after the visitor centre opened. Neither supports assuming that every passing coach generates the same local spend.An existing guide code and coordination between scheduled operators already address conduct and overlapping arrivals. The next step is to bring private excursions and peak cruise days into that system. Stakeholders propose clearer schedules, holding arrangements and targeted marshalling; these remain proposals, not proven capacity gains. | Venue constraints matter too. Extending opening hours does not extend a cruise passenger’s time ashore. Observe simultaneous arrivals, dwell, access and resident experience, then test route and booking changes with operators before promising that additional demand can be accommodated.Operational proposals are for testing. FSA hospitality proximity is opportunity context, not proof of a licence, capacity or Beatles-attributable turnover. |
+
+Source BEL-SRC-042, 25:15–26:22,49:17–53:50; BEL-SRC-047, 4:36–10:18,18:25; BEL-SRC-033, 19:53–23:04; BEL-SRC-022, 10:42–13:46.
+
+reported pressure; modelled opportunity; proposed test
+
+26 READINESS
+
+# Prepare for attention; do not pre-book the benefit
+
+Announced cultural activity creates a reason to prepare, not a forecast of guaranteed growth.
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Planning scenario | Evidence to watch | Proportionate response |
+| Attention without much conversion | More movements and photo stops, without matching paid visits or dwell | Improve interpretation, route information and optional links to nearby offers |
+| Demand constrained by capacity | Queues, loading conflicts, unmet bookings and resident complaints | Coordinate stopping and peak-day timing; test capacity responses |
+| Broader city-break conversion | Additional nights and cross-city visits, with mixed trip motivations | Connect heritage with hospitality and living culture; measure the attributable share |
+
+|  |  |
+| :-: | :-: |
+| The Cavern 70 exhibition is announced for Museum of Liverpool from 16 January to 31 October 2027; the four Beatles films follow in April 2028. The summit did not establish that success or visitor growth was guaranteed: participants explicitly challenged that assumption. Film-led interest can also change what visitors think happened, creating work for guides and museums explaining the difference between dramatic storytelling and historical evidence.Readiness should therefore test three outcomes: attention without much spending; stronger demand constrained by timed entry or route pressure; and broader city breaks with additional nights. Keep cruise infrastructure’s checked status separate from optimistic dates mentioned in interviews.Preparation should address quieter periods as well as peaks. Hotel testimony identified midweek weakness, while other participants raised flight-cost risks. Establish the baseline, coordinate operations and agree triggers for changing provision. Track publicity, admissions, nights and retained value separately; none guarantees the next. | Cavern 70: announced 16 January–31 October 2027 at Museum of Liverpool, distinct from the Maritime/International Slavery Museum redevelopment. Films: announced April 2028. Other redevelopment and cruise dates retain their conditions; no new terminal opening is assumed. |
+
+Source VisitLiverpool/NML exhibition announcement, 11 September 2026; Neal Street Productions, announced April 2028; BEL-SRC-063:093958, 02:51–03:59; 103333, 16:17–18:15; 073943, 21:11–22:45,35:14–36:03. BEL-SRC-033, 19:53–23:04.
+
+announced event; scenarios and recommendations
+
+27 IMPLICATIONS AND PRIORITIES
+
+# Three things worth doing now
+
+Improve the existing experience while building evidence for larger decisions.
+
+|  |  |  |
+| :-: | :-: | :-: |
+| The findingFirst, connect existing work. The evidence identifies a guide code, specialist guide training, coordination between scheduled tours and a destination coach survey already underway. Bring these together with highways staff, residents and excursion buyers in an observed peak-day trial. Check access, stopping and conflicts before and after the change. | What it meansSecond, make journeys easier to choose and complete. Clarify access, languages, inclusions and transfer times. Existing tour-to-club links and travel-trade packages provide starting points; they do not prove that customers already use every linked offer. Test hand-offs without standardising away distinctive experiences.Third, agree a small recurring evidence return. An operator explicitly offered anonymous quarterly information. Begin with consistent admissions, origin, channel, accommodation links and known booking overlap, protecting commercial details. These are recommended responsibilities, not funding commitments or claims that all partners have agreed. | Evidence and actionPeak-day route trialSuggested convenors: Council transport/highways, operators, venues, residents, BLGPlan: Timed conflicts + feedback; 96 observer hours; site consent. Scope Nov 2026; trial review Feb 2027 (proposed).Visitor information standardSuggested convenors: BLG and providers with destination partnersPlan: Tested checklist; 12 × 45 min + 2 setup days; consent/access support. Review Feb 2027 (proposed).Repeatable evidence returnSuggested convenors: BLG, BID, operators and LCR destination partnersPlan: Reconciled return; 2–3 analyst days/quarter; data rights. Scope Nov 2026; review Feb 2027, then quarterly (proposed).Proposed dates/resources; funding, permissions and owners unagreed. Full resource/dependency brief in appendix. |
+
+Source BEL-SRC-042, 32:37–35:18,42:45–43:37,50:22–53:50,58:54; BEL-SRC-047, 4:36–10:18; BEL-SRC-033, 11:03–13:19.
+
+evidence-informed recommendations
+
+28 IMPLICATIONS AND PRIORITIES
+
+# Measure the decisions that most change the answer
+
+The next evidence should reduce uncertainty in attribution and local retention—not merely add more counts.
+
+|  |  |  |
+| :-: | :-: | :-: |
+| The findingThe interviews show exactly where measurement must improve. Booking channels and country of origin are not trip purpose. A festival’s reported 4.9 nights describes known accommodation customers, not all attendees. Cruise testimony identifies 200–300 taxi tours, not passengers. Commercial intermediaries select products and retain fees, so gross excursion prices cannot be treated as Liverpool receipts. | What it meansThe next visitor study should sample several gateways, ordinary days and peaks, asking purpose, party size, itinerary, nights, spend and what would happen without the Beatles offer. Reconcile this with operator settlement and procurement data; do not add receipts already inside the visitor basket.Link returns across included admissions and gate-only stops without inventing cross-booking. For events, match footfall, hotel and spending dates against weather, school holidays, sport and cruise calls. Movement counts and monthly dwell observations cannot establish unique event attendance or causal GVA. | Evidence and actionWhy Liverpool, and what changed?Evidence needed: Multi-gateway purpose/counterfactual surveyModel consequence: Engagement and attributable-spend sharesWhere does spending stay?Evidence needed: Operator settlement, payroll and procurementModel consequence: Local retention and supplier/induced effectsWhat did the event change?Evidence needed: Matched dates and confounder controlsModel consequence: Incremental demand versus ordinary movementRequest minimum anonymous/aggregate fields; keep proprietary returns controlled. Method change should be documented before recalculating the headline. |
+
+Source BEL-SRC-022, 4:00–5:31, 7:24; BEL-SRC-033, 08:47; BEL-SRC-042, 25:15–26:22, 1:00:43–1:01:44; BEL-SRC-046, 9:20–11:29, 14:05; BEL-SRC-037 daily counters.
+
+measurement recommendation; observed descriptive signal
+
+29 CONCLUSION
+
+# A substantial contribution—and a better basis for decisions
+
+The Beatles are an economic and cultural asset. The task is to understand how the benefit is produced and how Liverpool retains it.
+
+|  |  |  |
+| :-: | :-: | :-: |
+| The findingThe evidence supports a substantial existing visitor economy whose value reaches beyond attraction tickets. The revised working model places annual GVA at around £70 million. This is a reasoned estimate, not a final audited total: assumptions about motivation and local retention still materially affect the answer.The qualitative evidence explains why that contribution is credible. Heritage attracts attention and supports interconnected trips involving tours, live music, hospitality and overnight stays. It also shows why growth cannot be reduced to promotion alone: access, interpretation, resident experience and route capacity influence whether attention becomes a good visit and local benefit. | What it meansThe next phase should preserve this breadth while making the annual estimate more testable. Agree a recurring baseline, undertake targeted visitor research, reconcile operator evidence and trial practical improvements. Update the estimate when those returns change its inputs—not simply when the city receives more publicity. | Evidence and actionAround £70m annual GVA in the revised working modelDecision implication: Use with attribution and local-retention sensitivities, not as an audited statisticValue extends across the whole tripDecision implication: Connect experiences and test local capture; do not add operator receipts againCulture and resident experience also matterDecision implication: Retain qualitative outcomes and pressure management alongside the economic accountThe next baseline can be strongerDecision implication: Repeat visitor research and reconcile operator returns before changing the headline£66.9m is the revised central model, using a source-informed 20% residual allocation judgement, not an observed rate. The saved 30% case is £58.5m; a zero-residual case is £83.6m. These isolate geography, not overall statistical uncertainty. |
+
+Source Annual GVA workbook and report revision, 7 October 2026; BEL-SRC-033, 11:03–13:19; BEL-SRC-042, 18:47–22:52,49:17–53:50; BEL-SRC-063 workshop readback; method audit.
+
+modelled synthesis and proposed next steps
+
+30 EVIDENCE AND REPRODUCIBILITY
+
+# Read the headline with its boundary and the sources with their purpose
+
+The technical appendices preserve the inputs definitions calculation ledger and evidence coverage behind the assessment.
+
+The annual estimate is a modelled contribution rather than a census of Beatles-caused purchases. Attraction data describe their own activity; visitor surveys supply expenditure bases; interviews explain mechanisms and inform tested assumptions; and spatial data show exposure. Each has a different role. Restricted commercial sources can be audited by the project team but cannot all be redistributed publicly.
+
+The companion Word appendices cover the annual model inputs and calculations, scenario tests, journey baskets and allocation rules, attraction and city context series, spatial counts and overlap, methodology comparators, interview/source coverage and disclosure restrictions. Source originals remain preserved. No named interview quotation is used here without clearance.
+
+Source Source register BEL-SRC identifiers; supplied workbooks and transcripts; original report reconstruction; current official programme checks7 October2026.
+
+Source-led project review edition; publication clearance is a separate step
+
+Original study — https://issuu.com/cultureliverpool/docs/beatles\_heritage\_in\_liverpool\_48pp\_
+
+VisitBritain tourism research — https://www.visitbritain.org/research-insights
+
+AMION Eurovision full assessment — https://www.amion.co.uk/media/AMION-Eurovision-Economic-Impact-Full-Report.pdf
+
+LCR Music Economy report — https://api.liverpoolcityregion-ca.gov.uk/wp-content/uploads/2509-LCR-Music-Economy-report-04-Low-Res-2.pdf
+
+ONS local tourism measurement guidance — https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/methodologies/measuringtourismlocally2011
+
+Official Beatleweek2026 programme — https://internationalbeatleweek.com/microsite/about-the-2026-festival/
+
+Neal Street Beatles films — https://www.nealstreetproductions.com/film/the-beatles
+
+Liverpool cruise-port plans — https://liverpoolcruiseport.com/about/
+
+Historic England Arnold Grove plaque — https://historicengland.org.uk/listing/national-blue-plaque-scheme/george-harrison/
+
+Project review edition | 2026-10-07
