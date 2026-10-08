@@ -1,0 +1,27 @@
+claim_id,column,old_value,current_claim_type,review_batch,claims_row_number,current_fifth_sector_role,base_commit,note
+C-G2-025,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,63,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-028,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,66,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-029,reviewer_confidence,EFFECT,CONTEXT,G2-BATCH-B,67,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-030,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,68,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-032,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,70,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-040,contrary_evidence,DESIGNER;DELIVERER;EVALUATOR;LEAD_CONSULTANT,EFFECT,G2-BATCH-B,78,EVALUATOR,a5e9800,older role reading; not in any other record file
+C-G2-043,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,81,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-044,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,82,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-045,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,83,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-047,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,85,DESIGNER;ADVISOR;DATA_CONTRIBUTOR,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-049,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,87,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-050,reviewer_confidence,EFFECT,CONTEXT,G2-BATCH-B,88,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-053,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,91,DESIGNER;DELIVERER;EVALUATOR;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-054,contrary_evidence,DESIGNER;DELIVERER;EVALUATOR;LEAD_CONSULTANT,EFFECT,G2-BATCH-B,92,EVALUATOR,a5e9800,older role reading; not in any other record file
+C-G2-055,contrary_evidence,DESIGNER;DELIVERER;EVALUATOR;LEAD_CONSULTANT,EFFECT,G2-BATCH-B,93,EVALUATOR,a5e9800,older role reading; not in any other record file
+C-G2-056,contrary_evidence,DESIGNER;DELIVERER;EVALUATOR;LEAD_CONSULTANT,EFFECT,G2-BATCH-B,94,EVALUATOR,a5e9800,older role reading; not in any other record file
+C-G2-057,contrary_evidence,DESIGNER;DELIVERER;EVALUATOR;LEAD_CONSULTANT,EFFECT,G2-BATCH-B,95,EVALUATOR,a5e9800,older role reading; not in any other record file
+C-G2-059,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,97,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-062,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,100,DESIGNER;ADVISOR;DATA_CONTRIBUTOR,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-064,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,102,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-066,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,104,DESIGNER;DELIVERER,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-067,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,105,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-068,reviewer_confidence,EFFECT,CONTEXT,G2-BATCH-B,106,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-070,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,108,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-071,reviewer_confidence,EFFECT,CONTEXT,G2-BATCH-B,109,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv
+C-G2-075,reviewer_confidence,METHOD_OUTPUT,CONTEXT,G2-BATCH-B,113,DESIGNER;DELIVERER;LEAD_CONSULTANT,a5e9800,pre-retype claim type; see claims_repair_RECORD.csv

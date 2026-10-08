@@ -830,3 +830,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13ad (26/10/08): the three unverified spot-check claims
 
 - Iain: the other three claims come from finalised documents, check the folders. Checked: C-G2-333 (49%) is derived, (3,280 + 1,855) / 10,490 = 48.95%; C-G2-384 (8 to 10 businesses, 50-50 balance) is spoken in words in the SRC-R2-03 transcript; C-G2-407 (Phase 3, 18 months) is in SRC-R3-02, not SRC-R3-01, so evidence link E-G2-313 now cites SRC-R3-02. All three verified; no claim wording changed. Earlier "left as is" note superseded.
+
+## Session 13ae (26/10/08): legacy claims columns, record and tool (Option B, step 1)
+
+- Iain approved Option B (clear 387 exact-duplicate cells to empty), the codebook rule, the new column check and holding the 26 non-duplicates. Step 1: `tools/clear_legacy_columns.py`, `claims_legacy_clear_RECORD.csv` (387 rows: claim, column, old value, claim type, batch, base commit a5e9800) and `claims_legacy_held_LIST.csv` (26 held cells: 21 pre-retype claim types, 5 older role strings). Restore test: clearing then restoring from the record reproduces 04_claims.csv byte for byte. No claims data changed in this commit.
