@@ -57,7 +57,7 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | Project | Client | Role: PRIME / DIRECT / SUBCONTRACTOR / ASSOCIATE / ADVISORY (prime if not us) |
 |---|---|---|
 
-## 5. Open validation actions owned by you (24)
+## 5. Open validation actions owned by you (23)
 
 | ID | Question | Effort |
 |---|---|---|
@@ -84,4 +84,3 @@ One pass. For each row answer Y, N or "don't know" (don't know is recorded as UN
 | VAL-S261008-10 | After the claims repair these seven claims (LCR Film and TV Production Fund Interim Evaluation P22-LCRFILM and Wakefield Cultural Development Fund Evaluation P27-WAKECDF) | 20min |
 | VAL-S261008-12 | Claim C-R3-031 names method M-R3-019 but that method row does not list the claim in its claim_ids (one-way link). Add the claim to the method row, or correct the claim? | 10min |
 | VAL-S261008-15 | Five claims still carry the undefined effect_family CONTEXTUAL because they are not pure context (one DESIGN on P79-CELL; four METHOD_OUTPUT on P01-NES and P05-WMCA). Whi | 20min |
-| VAL-S261008-19 | Claims name methods in method_ids but the method row's claim_ids does not list them: 170 claim-to-method links, mostly C-G2-325 to 503 against M-R3-001 to M-R3-021 (plus  | 30min |

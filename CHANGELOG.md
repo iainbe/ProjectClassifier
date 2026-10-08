@@ -878,3 +878,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - Iain: fix. C-G2-504 to 523 named M-R3-022 and M-R3-023, which never had method rows. Re-pointed 14 claims to existing rows on the same sources (504, 505 to M-G2-001; 508, 509, 510, 515 to M-G2-003; 516 to 523 to M-G2-005) and cleared the reference on 6 descriptive context claims (506, 507, 511, 512, 513, 514); the three method rows' claim_ids now list the claims added. Record: `claims_method_links_RECORD.csv`. Claims naming an absent method: 0. VAL-S261008-18 resolved.
 - Found while checking: 170 other claim-to-method links are not listed in the method rows' own claim_ids (in git since 4a92a71). The tools read the claim side, so results are unaffected; recorded as VAL-S261008-19 (open). The earlier statement that one mismatch remained was wrong and is corrected in the ontology draft.
+
+## Session 13am (26/10/08): method rows' claim lists completed
+
+- Iain: fill the method lists. 163 claim-to-method links added to the claim_ids of 17 method rows (`methods_claim_ids_RECORD.csv`); the earlier figure of 170 counted repeats. The two sides now agree both ways and nothing points at an absent claim or method. The ontology draft is corrected; VAL-S261008-19 resolved.
