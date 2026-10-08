@@ -1,8 +1,8 @@
-# P88-LCRPF24 — Project Index Card (PROVISIONAL — no claims registered)
+# P88-LCRPF24 — Project Index Card (PROVISIONAL — claims registered 26/10/08)
 
 **Project:** LCR Production Fund Final Evaluation (2024-25)
 **Status:** COMPLETED — final report 25/06/09. Separate contract from the 2021 interim evaluation (P22-LCRFILM) (Iain 26/10/07)
-**Card created:** 26/10/07 (project split from P22). Figures below are from SRC-G2-030, tables verified 26/09/12; no P88 claims are registered yet (VAL-S261007-03)
+**Card created:** 26/10/07 (project split from P22). Figures below are from SRC-G2-030, tables verified 26/09/12; 17 P88 claims coded 26/10/08 (C-S261008-001 to -017; VAL-S261007-03 resolved). Caveats found: production FTE rows sum to 858 not 859; the interim-to-final ratio comparison is not like-for-like; one production (This City is Ours) lifts the ratio, the other nine give 6.54:1; the 55% recoupment is a forecast
 
 ## A. Client-facing side
 
@@ -50,4 +50,4 @@
 | `spillover_types_identified` | KNOWLEDGE; NETWORK; PRODUCT (as P22, to be coded from SRC-G2-030) | Derived |
 | `precedent_strength` | STRONG — realised outcomes; confirms or corrects the 2021 interim forecasts | Derived |
 | `precedent_caveats` | Evaluator role — programme effect is not Fifth Sector delivery; method is the client's agreed model | rules |
-| `card_status` | PROVISIONAL — claims, role, value and acceptance outstanding | 26/10/07 |
+| `card_status` | PROVISIONAL — claims coded 26/10/08; role, contract value and acceptance outstanding | 26/10/07 |

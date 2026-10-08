@@ -575,3 +575,9 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **Not changed:** `client_accepted` (UNKNOWN) and `citation_status`. Drafts, workshop deck and inception note remain unregistered. Added VAL-S261008-01 (acceptance and take-up) and -02 (OneDrive check).
 - **Session 12b addition:** registered the P63 workshop deck as SRC-G2-089 and extracted it; no claims coded (no outcomes recorded in it). Drafts and inception note left unregistered.
 - **Session 12b addition 2:** registered the P63 inception note as SRC-G2-090 and extracted it; the 22/09 and October draft reports are deliberately left unregistered (Iain instruction). No claims coded.
+
+## Session 12c (26/10/08): Production Fund Final Evaluation claims (P88-LCRPF24)
+
+- **Added:** 17 claims, 17 evidence links, 13 measurements from SRC-G2-030 (IDs C-S261008-001 to -017, E-S261008-, MEAS-S261008-; new prefix chosen because the P78 card cites C-G2-280 to 283, which are not in the register). Resolved VAL-S261007-03. Added VAL-S261008-03 to -05.
+- **QA on the new rows:** field counts, unique IDs, foreign keys, £ claims have value_basis, EFFECT claims have attribution_strength, no empty role or effect_family. Self-review caught and fixed three errors before commit: a £ claim with no value_basis, context claims using undefined CONTEXTUAL (changed to NOT_APPLICABLE per codebook), and a causal verb in a CONTEXT proposition.
+- **Not changed:** P22 claims C-G2-037/038 still quote final-period figures (VAL-S261008-05); client, contract and acceptance for P88 still provisional.
