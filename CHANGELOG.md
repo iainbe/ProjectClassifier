@@ -908,3 +908,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 13as (26/10/08): ON_HOLD, step 4 of 5: reporting
 
 - Additive wording in three derived outputs: the eligibility report lists projects on hold (paused, not delivered, not asked about acceptance); the selection view prints a legend when a candidate is ON_HOLD; the question sheet says held projects are not asked about acceptance. No check or rule changed; unit tests pass.
+
+## Session 13at (26/10/08): ON_HOLD, step 5 of 5: stale items
+
+- Ontology draft: lifecycle paragraph updated (59 of 70 COMPLETED; ON_HOLD added; the two contradicting mappings for PHASE_COMPLETE_AWAITING_INSTRUCTION settled as IN_PROGRESS with the value kept in `programme_status`). Drive merge brief: P31 line now says the repo agrees and what to keep. Sweep guides: `check_lifecycle.py` run at session start. The P31 and CELL index cards were corrected in steps 2 and 3. Review lane fixes all done except the optional ones the lanes raised about the Drive register's other ON_HOLD rows, which the merge agent checks.
