@@ -46,16 +46,16 @@ All roles are "Places data architecture and co-author" (Iain 26/10/08) — see `
 
 ## Bennett–Bains bid history (pre-Places)
 
-`Archive proposals/Bennett and What and Why/` (OneDrive) holds joint bids predating the current platform work — evidence the partnership is long-running, not assembled for tenders:
+`Archive proposals/Bennett and What and Why/` (OneDrive) holds joint bids predating the current platform work — evidence the partnership is long-running, not assembled for tenders.
 
-| Bid | Year | Material |
-|---|---|---|
-| "Opposition" / "BOPosition" | 2017 | 170329 Opposition.pdf / BOPosition.pdf |
-| UEA Creative Services Framework | — | Full tender pack PURCON 2049 |
-| British Museum branding | 2025 | Full submitted pack — Form of Tender, Core Team doc, quality response, costings, both Fifth Sector and What & Why questionnaires |
-| P79-CELL working session | 2026 | "Bains and Bennett down the rabbit hole" otter transcript in CELL project management folder |
+IMPORTANT ATTRIBUTION (Iain 26/10/08): the British Museum and UEA bids were **What & Why-led — Jon Bains and Lindsay Butcher leading, Iain as associate**. The Fifth Sector was not the bidder; do not cite them as TFS bids or TFS-led work. They evidence Bains' agency/consultancy track record and the Bennett–Bains working relationship.
 
-These bids are not yet in `08_tenders.csv` — flagged in `people/README.md` unregistered list.
+| Bid | Year | Register | Material |
+|---|---|---|---|
+| "Opposition" / "BOPosition" | 2017 | T29-OPPOSITION | 170329 Opposition.pdf / BOPosition.pdf |
+| UEA Creative Services Framework PURCON 2049 | — | T25-UEA | Full buyer pack; W&W-led (Bains + Butcher), Iain associate |
+| British Museum branding | 2025 | T24-BM | Full submitted pack; W&W-led (Bains + Butcher), Iain associate |
+| P79-CELL working session | 2026 | — | "Bains and Bennett down the rabbit hole" otter transcript in CELL project management folder |
 
 ## Tender-relevant angles
 

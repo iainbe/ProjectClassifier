@@ -35,13 +35,13 @@ Canonical person records cite these stores. Paths relative to
 - Futurecity 2026 (G Drive): `Jon Bains - Brief Biography.md`, `Jon Bains Biography.docx`, `Iain Bennett - Brief Biography.md`, `Iain Bennett Biography.docx`
 - CBDP 2025: `2510 Iain Bennett_Biography_CP.docx`
 
-## Unregistered bid/project folders surfaced by this sweep
+## Bid/project folders surfaced by this sweep — REGISTERED 26/10/08
 
-These contain delivered or submitted material not yet in the registers:
+- **P91-WBSKILLS / T28-BCWB** — British Council Western Balkans Creative Skills. WON, delivering 2026. Team: Bennett lead consultant, McCadden methodology consultant, Unscrambled.world taxonomy. McCadden timesheets Jan–Mar 26 on file.
+- **T24-BM** — 2025 British Museum branding. What & Why-led (Bains + Lindsay Butcher), Iain associate — NOT a Fifth Sector bid. Full submitted pack held; outcome unknown.
+- **T25-UEA** — UEA Creative Services Framework PURCON 2049. What & Why-led, Iain associate. Buyer pack held; submission unconfirmed.
+- **T26-TVCAPV** — 2023 TVCA Production Village. The Fifth Sector bid, unsuccessful (lost proposals folder); team CVs exist.
+- **T27-TVACF** — 2024 TVCA Creative Freelance. The Fifth Sector bid, unsuccessful; McCadden named team member.
+- **T29-OPPOSITION** — 2017 Opposition/BOPosition. Oldest Bennett–Bains/W&W artefact; buyer and outcome unknown.
 
-- **2026 BC WB Skills** (Archive projects/2026 Projects) — proposal + timesheets Jan–Mar 26 (Lynne McCadden); needs project + tender rows
-- **2025 British Museum branding** — full submitted pack; needs 08_tenders row + outcome
-- **UEA Creative Services Framework PURCON 2049** — tender pack; needs 08_tenders row + outcome
-- **2023 TVCA Production Village** (lost proposals) — team CVs exist; check against 08_tenders
-- **2024 TVCA Creative Freelance** (lost proposals) — check against 08_tenders
-- **2017 Opposition/BOPosition** (Bennett & What and Why) — oldest evidence of the Bennett–Bains partnership
+PER-05 Lindsay Butcher added — What & Why co-lead with Bains on T24/T25.
