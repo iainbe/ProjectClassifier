@@ -134,8 +134,6 @@ The previous Tier 2 pass applied Lens A and Lens B as **batch labels**, not as p
 
 **CRITICAL: 1 claim mislabels context as METHOD_OUTPUT**
 
-| Claim | Current | Issue | Source evidence | Fix |
-|---|---|---|---|---|
 | C-G2-053 | METHOD_OUTPUT/DIRECT | Wakefield CCI growth presented as method output | Line 96: "correlates with" — context, not method output or Fifth Sector effect | → CONTEXT |
 
 **CRITICAL: 5 claims misattribute programme effects to Fifth Sector**
@@ -143,7 +141,6 @@ The previous Tier 2 pass applied Lens A and Lens B as **batch labels**, not as p
 Fifth Sector was the **evaluator** of these programmes, not the deliverer. The programme effects are real but Fifth Sector's contribution was the evaluation, not the programme delivery.
 
 | Claim | Current | Programme | Fifth Sector role | Fix |
-|---|---|---|---|---|
 | C-G2-040 | EFFECT/KNOWLEDGE | LCR Film Fund | Evaluator | Retain EFFECT; set fifth_sector_role=EVALUATOR, fifth_sector_contribution=EVALUATION |
 | C-G2-054 | EFFECT/NETWORK | CDF / Creative Wakefield | Evaluator | Retain EFFECT; set fifth_sector_role=EVALUATOR, fifth_sector_contribution=EVALUATION |
 | C-G2-055 | EFFECT/PRODUCT | CDF / XPLOR | Evaluator | Retain EFFECT; set fifth_sector_role=EVALUATOR, fifth_sector_contribution=EVALUATION |
@@ -212,7 +209,6 @@ The codebook states: "A mapping report estimating regional GVA is CONTEXT with a
 The following claims describe sector characteristics (GVA, employment, company counts, turnover, LQs) that were measured by the mapping/strategy work but are not themselves method outputs. They are contextual baselines against which spillover effects might later be assessed.
 
 | Claim | Project | Proposition (short) | Source evidence |
-|---|---|---|---|
 | C-G2-001 | P11-ELFC | £1.4bn GVA, 36200 jobs | Line 54, 409: sector baseline |
 | C-G2-002 | P11-ELFC | 57% GVA growth, 43% employment growth | Line 55, 426-429: sector baseline; 22% London employment unverified |
 | C-G2-007 | P11-ELFC | Hackney LQ 9.46 | Line 449: sector characteristic |
@@ -265,7 +261,6 @@ The same baseline-as-METHOD_OUTPUT pattern was found in 11 R3 pilot claims. Thes
 ## Updated total
 
 | Pass | Category | Count |
-|---|---|---|
 | 1 | Sector characteristic as EFFECT | 4 |
 | 1 | Context as METHOD_OUTPUT | 1 |
 | 1 | Programme effect as METHOD_OUTPUT | 1 |
@@ -449,17 +444,7 @@ All 65 projects now have at least one evidence link from claims to their canonic
 
 ### QA verification — ALL CHECKS PASS
 
-| # | Check | Result |
-|---|-------|--------|
-| 1 | Unique IDs (all registers) | PASS |
-| 2 | Foreign keys (claims→projects, sources→projects, evidence→claims/sources, measurements→claims) | PASS |
-| 3 | Empty project_id on claims | PASS |
-| 4 | OPTION claims without option_state | PASS |
-| 5 | Empty effect_family | PASS |
-| 6 | Empty fifth_sector_role | PASS |
 | 7 | DESIGN claims for unsuccessful bids without EXPIRED | PASS (fixed 3 claims) |
-| 8 | EFFECT claims without attribution_strength | PASS |
-| 9 | Claims with £ figures but empty value_basis | PASS |
 | 10 | Sector baselines mislabelled as METHOD_OUTPUT | PASS (fixed 2 claims; 1 false positive confirmed) |
 | 11 | Claims without evidence links | PASS (109 links added) |
 | 12 | Evidence→Sources FK | PASS |
@@ -484,7 +469,6 @@ All 65 projects now have at least one evidence link from claims to their canonic
 
 All Tier 2 QA checks pass after full-read reconciliation. 109 evidence links added. 59 source records updated. 16 validation actions added. 5 claim fixes applied. 3 problematic sources flagged. AGENTS.md rules remain authoritative.
 
----
 
 # Pass 4: Index card QA + register schema repair (26/09/12)
 
@@ -542,7 +526,6 @@ P04-P09 all REVIEWED with Iain consistency confirmation recorded. P01-P03, P10 r
 
 Schema-drift check is now a required QA step: before any CSV field update, verify row structure against header (field count AND positional semantics). The earlier "check headers" rule was insufficient — rows can have the right count with values in wrong columns.
 
----
 
 # Pass 5: Index layer + permissions (26/09/12)
 
@@ -561,7 +544,6 @@ All pilot projects approved APPROVED_NAMED for tender submissions (TENDER_ONLY �
 ## Contract values recorded
 P02 £25k; P03 £25k; P10 £10k×3 cycles (£30k total); P01+P04 NOT_DISCLOSED; others NOT_ESTABLISHED.
 
----
 
 # Pass 6: Live-work templates review (26/09/12)
 
@@ -582,7 +564,6 @@ P02 £25k; P03 £25k; P10 £10k×3 cycles (£30k total); P01+P04 NOT_DISCLOSED; 
 - Register-row rule defined in template, workflow, AGENTS.md
 - PM milestone section converted to self-contained checklist (event-triggered + standing monthly prompts)
 
----
 
 # Pass 7: Date normalisation + tenders schema repair (26/09/12)
 
@@ -595,7 +576,6 @@ P02 £25k; P03 £25k; P10 £10k×3 cycles (£30k total); P01+P04 NOT_DISCLOSED; 
 ## Schema drift found #3: 08_tenders.csv
 T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shifting last 4 values +1 → review_batch values landed in overflow. Repaired: realigned all 3 rows. Pre-existing quirk noted: T04 as_at_date=AS_AT (literal value, outside repair scope).
 
----
 
 # Pass 8: Drive sweep agent (26/09/12)
 
@@ -606,7 +586,6 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - launchd: weekday 09:00 sweeps; logs to sweep_reports/sweep.log
 
 
----
 
 # Pass 9: Sweep docs + protocol draft (26/09/12)
 
@@ -614,7 +593,6 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - naming_and_transition_protocol.md drafted pending Iain/Jon approval — recommends MOVE (not duplicate) for bid→project; flags existing naming violations (e.g. '2026 Maritime Belfast ' trailing space)
 
 
----
 
 # Pass 10: Proposal triage registration (26/09/12)
 
@@ -624,7 +602,6 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Loose root files pending Iain filing decision: Rachel Granger DMU x3, City and Guilds docx
 
 
----
 
 # Pass 11: Agents re-review + automation (26/09/12)
 
@@ -638,14 +615,12 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Caveat: enforces the audit trio at commit time; behavioural rule (AGENTS.md) still governs in-session updates
 
 
----
 
 # Pass 12: Jon access clarification (26/09/12)
 
 - Jon's access is web-Drive only (jon@thefifthsector.co.uk) — README_sweep's run instructions assumed local mount; corrected via JON_ACCESS.md (web route canonical; share links/file IDs for Places; scripts are Iain-side)
 
 
----
 
 # Pass 13: Jon doc merge + tenders matching (26/09/12)
 
@@ -653,7 +628,6 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Gap found while writing: sweep didn't match proposals folders to 08_tenders — T01's own folder flagged UNREGISTERED_PROJECT?. Fixed: tenders 'Drive folder:' notes added (T01, T02; T06-T12 already had them); TENDER_FILE category added
 
 
----
 
 # Pass 14: Batch B cards (26/09/12)
 
@@ -663,7 +637,6 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - 57→51 projects remain without cards
 
 
----
 
 # Pass 15: P82 date correction reverted (26/09/12)
 
@@ -672,21 +645,18 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Method note: year inference from folder years fails when events recur — user confirmation beats inference
 
 
----
 
 # Pass 16: P82 phase boundary resolved (26/09/12)
 
 - Iain confirmed single CEC programme arc (Kotor ministerial → council development → Herceg Novi follow-on); P82/P83 remain distinct register rows, cross-linked
 
 
----
 
 # Pass 17: Batch B2 cards (26/09/12)
 
 - 6 cards; flags: P79 DELIVERED vs notes "work in progress"; P75 outcome pending; P78 in-progress citable only as commissioned
 
 
----
 
 # Pass 18: Card review fixes (26/09/12)
 
@@ -696,7 +666,6 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Review blindspot logged: docx paragraph-only scanning misses tables — extraction must always include tables
 
 
----
 
 # Pass 19: Challenges 4-9 (26/09/12)
 
@@ -704,7 +673,6 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - Two review false positives (P81 phases, P33 £75m) traced to same blindspot: table data invisible to paragraph/grep checks
 
 
----
 
 # Pass 20: Citation model (26/09/12)
 
@@ -712,7 +680,6 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - P79 lifecycle inconsistency resolved (reporting complete; Showcase-reuse phase pending client agreement)
 
 
----
 
 # Pass 21: Verdict reversal — P75 remittance real (26/09/12)
 
@@ -720,7 +687,6 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 - New rule: fabrication verdicts require cross-checking BOTH archives — G Drive live folders are not complete pre-migration
 
 
----
 
 # Pass 22: Extraction sweep (26/09/12)
 
@@ -740,11 +706,11 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/07 | T21-CSFI Towell profile | Corrected partner candidate record: Towell = CEO Creative Innovation 4 Good, ex-TAA Director Creative Economy & Policy, co-directed UKRI National Cultural Data Observatory blueprint | Stronger fit than first assessed — direct precedent for national cultural data architecture; residual: approach not yet made, TAA data disposition unknown |
 | 26/10/07 | T21-CSFI NCDO + collaborators | NCDO confirmed live at ncdo.org.uk — operating national cultural data infrastructure explicitly aligned to Fleming's NCF; sector stack mapped: governance (NCF) + data (NCDO) + measurement layer (this bid's space); collaborator candidates assessed: Towell/CI4G, Etic Lab, MyCake | Positioning strengthened — "missing middle layer" narrative available; co-opetition race for Towell real (NCDO already references NCF); residual: partner approaches not yet made |
 | 26/10/07 | T21-CSFI CAN + Towell drafts | 8 CAN questions drafted and filed to tender folder — written to extract design-critical answers (scope fork, qual strand meaning, TAA data position) without revealing architecture; Towell approach note drafted, leads with TAA sympathy before the ask | Residual: submission + send are Iain's calls; CAN answers circulate to all tenderers so Q3 educates rivals (flagged) |
-| 26/10/07 | T21-CSFI consortium intel | Towell's ~26/09 conversation: NCDO continuation deal with MyCake + Etic was close — collaborator model corrected from pick-one to trio-as-unit; approach note rewritten as warm follow-up with TFS-lead offer | Residual: deal/entity status unverified since conversation; if consortium incomplete or dissolved, fall back to Towell as sole named associate; Scotland policy specialist still unrecruited |
+| 26/10/07 | T21-CSFI consortium intel | Towell's ~26/09 conversation: NCDO continuation deal with MyCake + Etic was close — collaborator model corrected from pick-one to trio-as-unit; approach note rewritten as warm follow-up with The Fifth Sector-lead offer | Residual: deal/entity status unverified since conversation; if consortium incomplete or dissolved, fall back to Towell as sole named associate; Scotland policy specialist still unrecruited |
 | 26/10/07 | T21-CSFI Sched 4 check | Probity questionnaire forces named roles + % contribution per member under either structure (consortium or subcontract) — concretes needed before submission; QS2 "wider sector" usefulness = NCDO-docking scores directly; clause 1.17 publicity ban noted | Residual: team shape and shares undecided pending Towell call; Scotland policy specialist still unrecruited |
 | 26/10/07 | T21-CSFI CAN revision | Q3 held pending Towell call — if NCDO consortium holds TAA assets, asking publicly educates rivals for zero benefit; Q9 added on insurance per-member vs lead; CAN-as-public-channel rule: alignment/NCDO questions go to Towell | Residual: sequencing now depends on Towell call timing vs 16/10 deadline — if call slips, stealth Q3 goes in Friday |
 | 26/10/07 | T22-VAIMP registered | V&A creative industries impact study ITT fully read; sequential kill-gate scoring identified (case studies scored first — 2pp/5 studies incl. referees is the highest-leverage document); V&A's own researcher does fieldwork so partner designs not collects; £60k cap, 3-stage price schedule | Residual: referee permissions needed for 5 case studies (NOT_ESTABLISHED default on register); consortium reuse unconfirmed; clarifications closed 26/10/07 so dataset readiness detail may never arrive |
-| 26/10/07 | T22-VAIMP solo-vs-collab | Verdict: TFS prime + named associates (lead+subs model) — decouples bid from unconfirmed consortium deal while capturing team/method-blend marks; solo viable but weaker on 'not single discipline' brief language; full consortium only if deal closed by ~14/10 | Residual: Towell call timing still gates the named-associate option; fallback = Derby-model associate bench if call slips |
+| 26/10/07 | T22-VAIMP solo-vs-collab | Verdict: The Fifth Sector prime + named associates (lead+subs model) — decouples bid from unconfirmed consortium deal while capturing team/method-blend marks; solo viable but weaker on 'not single discipline' brief language; full consortium only if deal closed by ~14/10 | Residual: Towell call timing still gates the named-associate option; fallback = Derby-model associate bench if call slips |
 | 26/10/07 | P78 delivery + full-team tender review | P78-BEATLES marked COMPLETED (Iain-confirmed, report pack 26/10/07); Foresight skill set synced to .devin/skills (grey, shaz, sark, load-the-team, fok added); tender review protocol made mandatory in AGENTS.md; full-team run on T22 produced: Beatles status fix, CICP design-not-delivery wording requirement, Q4 selection-effect trap, new-researcher induction risk, 4-audience output routing, 7-question coverage map | Residual: reference_permissions still NOT_ESTABLISHED across case-study shortlist — referee sounding is now the critical path; publication plan for Beatles pack unresolved |
 | 26/10/07 | Case-study ontology full-team review | Priority lanes sheldon/grey/thad/wishful applied to proposed ontology+scheme: register debt found — contracting_role empty on 26/68 projects, citation_status absent on 10/68 cards, method_status lacks SUPERSEDED, method_family + sector_activity need domain rollup; scheme amended: domains demand-led and open, criterion-as-entity added, composition (telling) split from selection — case study becomes first-class object recording wording-used + score-received | Residual: backfill of role/citation fields is register debt predating this scheme; domain rollup unbuilt; encoding option still undecided (rules+fields vs cards+rules) |
 | 26/10/07 | CICP2 family corrections | P87-TRUENORTH → NOT_AWARDED (not shortlisted); P85-AMGEN outcome updated to shortlisted for next CICP2 round; P75-LANC identified as earlier paid evidence commission — lifecycle BID_SUBMITTED likely mislabelled for a delivered report | Residual: P75-LANC lifecycle needs reclassifying (delivered commission, not a bid) pending Iain confirmation; P85 notes still carry AWAITING phrasing in one clause — check wording on next pass |
@@ -752,8 +718,8 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/07 | AMGEN method-transfer framing | P85 card updated: shortlist outcome recorded; weight = client-adopted method validated externally, decoupled from fee scale; intrinsic-tier scheme gains 'method transfer' signal | Residual: pending where the ontology/scheme is encoded (storage option still open); P85 final funding outcome still external |
 | 26/10/07 | Repo-sync rule updated | AGENTS.md now mandates push to github.com/iainbe/ProjectClassifier at end of each register-changing session; remote had drifted 15 commits behind — caught by user | Residual: none — push executed this session |
 | 26/10/07 | Case-study decision doc | Single-file capture of ontology/scheme/options/decision state written at Iain request; explicitly no implementation | Residual: encoding decision open; register debt logged earlier stands |
-| 26/10/07 | T23-TVBTV registered | TVCA 7-lot business support framework; unusual award structure (written scores discarded — presentation alone decides); Lot 4 creative/cultural fit; deadline collision 26/10/30 vs T21 26/10/28 | Residual: Part 4b pricing xlsx unread (per-lot values/duration unknown); delivery-partner requirement vs TFS scale unassessed; TRIAGE pending Iain go/no-go |
-| 26/10/07 | T23-TVBTV full team review | Key correction: P68 WY Create = live CA business-support delivery — TFS has more precedent than first assessed; award mechanism makes written bid a shortlisting ticket; Lot 7 (expertise network) fits TFS shape better than delivery lots | Residual: FVRA accounts check not run; Teesside University contact unmade; deadline stack 19/28/30 Oct remains the practical constraint; go/no-go still Iain's call |
+| 26/10/07 | T23-TVBTV registered | TVCA 7-lot business support framework; unusual award structure (written scores discarded — presentation alone decides); Lot 4 creative/cultural fit; deadline collision 26/10/30 vs T21 26/10/28 | Residual: Part 4b pricing xlsx unread (per-lot values/duration unknown); delivery-partner requirement vs The Fifth Sector scale unassessed; TRIAGE pending Iain go/no-go |
+| 26/10/07 | T23-TVBTV full team review | Key correction: P68 WY Create = live CA business-support delivery — The Fifth Sector has more precedent than first assessed; award mechanism makes written bid a shortlisting ticket; Lot 7 (expertise network) fits The Fifth Sector shape better than delivery lots | Residual: FVRA accounts check not run; Teesside University contact unmade; deadline stack 19/28/30 Oct remains the practical constraint; go/no-go still Iain's call |
 | 26/10/07 | Company accounts + FVRA check | Three filed years saved to company_accounts/; FVRA metrics computed — margin, acid ratio, net cash all green; turnover-ratio proportionality is the real constraint vs lot annual values | Residual: Creditsafe score external/unverified; accounts are audit-exempt — declare as such where audit opinion is asked; insurance certs still per-tender |
 | 26/10/07 | Credit signals logged | Aggregator checks: 80/100 health score, "low risk", no CCJs, filings current — consistent with passing TVCA's <30 Creditsafe caveat but the proprietary score itself still needs the manual creditsafe.com lookup | Residual: record actual Creditsafe number in accounts_summary.md once Iain runs the free check |
 | 26/10/07 | Production Fund 2021/2024 split | P22 held interim (2021) and final (2024-25) under one record; split into P22 (interim) and P88-LCRPF24 (final); SRC-G2-030 reassigned; Drive folders reallocated by year. Checks: 29-field register header verified; byte-identical CSV round-trip confirmed before editing 01/02/07; 10_review_history.csv has mixed line endings and ragged legacy rows, so one row was appended raw (a full rewrite changed 37 lines and was reverted) | Residual: cards and changelogs for P22/P88 pending; 10_review_history.csv ragged rows (only 225 of 345 are 19-field) are pre-existing debt; P22 date_start 20/09 vs 2021 folder unresolved (VAL-S261007-02) |
@@ -844,14 +810,6 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/08 | Claims deletion trace (VAL-13, VAL-14) | Cause traced to one agent commit; Drive canonical claims file found stale (239,822 bytes) and flagged; five deleted claims found in git, not yet restored | Residual: Drive sync; restore of C-R5-524 to 528 |
 | 26/10/08 | Restore C-R5-524 to 528 | 5 claims restored with 11 normalised fields recorded; unique IDs, evidence foreign keys and £ value_basis checks pass; column check unchanged at 26 | Residual: C-R5-527 BIDDER role to review; C-R3-036/037 still have no project_id (VAL-S261007-14) |
 | 26/10/08 | Drive and repo sync check | Divergence found and documented; no overwrite either way; no file on Drive touched | Residual: merge of Drive-side projects and payment column; Iain decision |
-| 26/10/07 | T21-CSFI consortium intel | Towell's ~26/09 conversation: NCDO continuation deal with MyCake + Etic was close — collaborator model corrected from pick-one to trio-as-unit; approach note rewritten as warm follow-up with The Fifth Sector-lead offer | Residual: deal/entity status unverified since conversation; if consortium incomplete or dissolved, fall back to Towell as sole named associate; Scotland policy specialist still unrecruited |
-| 26/10/07 | T22-VAIMP solo-vs-collab | Verdict: The Fifth Sector prime + named associates (lead+subs model) — decouples bid from unconfirmed consortium deal while capturing team/method-blend marks; solo viable but weaker on 'not single discipline' brief language; full consortium only if deal closed by ~14/10 | Residual: Towell call timing still gates the named-associate option; fallback = Derby-model associate bench if call slips |
-| 26/10/07 | T23-TVBTV registered | TVCA 7-lot business support framework; unusual award structure (written scores discarded — presentation alone decides); Lot 4 creative/cultural fit; deadline collision 26/10/30 vs T21 26/10/28 | Residual: Part 4b pricing xlsx unread (per-lot values/duration unknown); delivery-partner requirement vs The Fifth Sector scale unassessed; TRIAGE pending Iain go/no-go |
-| 26/10/07 | T23-TVBTV full team review | Key correction: P68 WY Create = live CA business-support delivery — The Fifth Sector has more precedent than first assessed; award mechanism makes written bid a shortlisting ticket; Lot 7 (expertise network) fits The Fifth Sector shape better than delivery lots | Residual: FVRA accounts check not run; Teesside University contact unmade; deadline stack 19/28/30 Oct remains the practical constraint; go/no-go still Iain's call |
-| 26/10/07 | T21-CSFI consortium intel | Towell's ~26/09 conversation: NCDO continuation deal with MyCake + Etic was close — collaborator model corrected from pick-one to trio-as-unit; approach note rewritten as warm follow-up with The Fifth Sector-lead offer | Residual: deal/entity status unverified since conversation; if consortium incomplete or dissolved, fall back to Towell as sole named associate; Scotland policy specialist still unrecruited |
-| 26/10/07 | T22-VAIMP solo-vs-collab | Verdict: The Fifth Sector prime + named associates (lead+subs model) — decouples bid from unconfirmed consortium deal while capturing team/method-blend marks; solo viable but weaker on 'not single discipline' brief language; full consortium only if deal closed by ~14/10 | Residual: Towell call timing still gates the named-associate option; fallback = Derby-model associate bench if call slips |
-| 26/10/07 | T23-TVBTV registered | TVCA 7-lot business support framework; unusual award structure (written scores discarded — presentation alone decides); Lot 4 creative/cultural fit; deadline collision 26/10/30 vs T21 26/10/28 | Residual: Part 4b pricing xlsx unread (per-lot values/duration unknown); delivery-partner requirement vs The Fifth Sector scale unassessed; TRIAGE pending Iain go/no-go |
-| 26/10/07 | T23-TVBTV full team review | Key correction: P68 WY Create = live CA business-support delivery — The Fifth Sector has more precedent than first assessed; award mechanism makes written bid a shortlisting ticket; Lot 7 (expertise network) fits The Fifth Sector shape better than delivery lots | Residual: FVRA accounts check not run; Teesside University contact unmade; deadline stack 19/28/30 Oct remains the practical constraint; go/no-go still Iain's call |
 | 26/10/08 | Next-steps doc humanised | Codes replaced with named projects/buyers; CS CAN questions quoted in full; TVCA CAN set drafted (6 questions incl. noticeboard access Q) | Residual: T23 questions are first drafts — Iain to review before submission; mirror synced |
 | 26/10/08 | T22 fifth slot | CICP removed on referee-conflict grounds (BOP likely bidder); SYMCA ARG mis-described earlier as non-sector — corrected: Arts Revenue Grant evaluation for Barnsley/Doncaster, close thematic fit | Residual: SYMCA referee ask to draft; P51 contracting_role + acceptance unrecorded (register debt); Iain to pick fifth slot |
 | 26/10/08 | P51 backfill | Contract evidence found in archive (award letter, C0764 contract, signed DSA, PO) — DIRECT role confirmed; long-standing gloss "Arts Revenue Grant" corrected to Additional Restrictions Grant | Residual: contract value on PO unextracted; client_accepted UNKNOWN; no claims coded; SYMCA referee ask needed for T22 slot |
@@ -881,3 +839,4 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/08 | Next-steps doc | Evidence-status bullet added to case-study section | Residual: none |
 | 26/10/08 | Branch merge | Parallel-agent repair branch merged into main; 01_projects.csv field-merged (notes unioned, PAID_IN_FULL wins over Y, branch contracting roles kept); P51 kept our corrected name/sector (ARG = Additional Restrictions Grant — branch still said Arts Revenue Grant); P54 = our engagement COMPLETED/PAID + programme NOT_AWARDED (both true — contract+PO on file, the ACE bid failed) | Residual: 04_claims.csv 596 rows — spot-check restored claims C-R5-524..528 fields vs codebook; P31 citation LIVE_WORK is nearest-fit for stalled work; branch vs ours role vocab differs (DIRECT vs PRIME) — harmonise on codebook pass |
 | 26/10/08 | Sync guard | tools/sync_guard.py tested on all three paths (safe/refuse/force); AGENTS.md now states the folder is the working tree — the "copy Drive to repo" model that caused the deletion was wrong | Residual: guard covers file-copy operations only; git-level protection (pre-commit refusing mass row deletion) worth considering next |
+| 26/10/08 | Post-merge cleanup | Deduped union-merge artefacts; TFS cleared from second-merge stragglers; agent branch deleted | Residual: none |
