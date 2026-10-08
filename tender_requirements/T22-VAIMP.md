@@ -60,6 +60,7 @@ reading_for_case_studies: the brief's questions 3 and 4 and the case-study outpu
 label: Pre-qualification questionnaire and compliance (PQQ VA/CON/F26/33)
 source: 03 PQQ (read in full by Devin 26/10/08)
 financial_standing: current ratio 1 or higher in latest accounts, or a parent guarantee, or a statement of good standing
+financial_standing_held: MEETS: current ratio 1.25 in the accounts for the year ended 31/03/2026 (120,193 / 96,314), 1.29 and 1.44 in the two years before; no guarantor or statement needed (company_accounts/accounts_summary.md, checked 26/10/08)
 insurance_required: employer's liability GBP 5m; public liability GBP 5m; professional indemnity GBP 1m
 insurance_held: PI GBP 5m, PL GBP 5m, EL GBP 10m with Hiscox to 05/04/27 (company_insurance/insurance_summary.md): meets all three. Policy expires before the end May 2027 deliverables, so renewal must be completed without a gap; certificates show an out-of-date address (Iain to write to Hiscox)
 bidding_model: Part 1B; a lead bidder with sub-consultants answers 1.14(a); a single composite response covers all (Clarification Q3); changes to the group must be notified immediately

@@ -642,3 +642,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## Session 12o (26/10/08): V&A brief and PQQ read
 
 - Read the brief and PQQ in full and added `brief` and `qualification` items to `tender_requirements/T22-VAIMP.md`. Findings: the PQQ reserves the right to take up references on submitted examples at any stage (risk to the referee-after-shortlist approach, advice only); our insurance meets the PQQ minimums but expires 05/04/27 before the May 2027 deliverables and certificates show an old address; the brief's case-study output asks for long-run effects on creative careers and the ecosystem, which most candidates do not evidence. Added to the T22 notes.
+
+## Session 12p (26/10/08): current ratio for the V&A PQQ
+
+- Current ratio computed and checked against the 2025/26 accounts PDF: 1.25 (FY25/26), 1.29, 1.44. Meets V&A PQQ 3.1.1 without a guarantor or statement. Added to `company_accounts/accounts_summary.md` and the T22 requirements file.

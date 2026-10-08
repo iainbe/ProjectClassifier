@@ -25,6 +25,14 @@ Source: `OneDrive-TheFifthSector/Documents - The Fifth Sector/{year} ... Account
 | Creditors >1yr | 10,079 | 5,051 | 24 |
 | Net assets | 40,166 | 33,590 | 27,638 |
 
+## Current ratio (V&A PQQ 3.1.1 test: current assets / creditors due within one year, latest accounts must be 1 or higher)
+
+| | FY23/24 | FY24/25 | FY25/26 |
+|---|---|---|---|
+| Current ratio | 1.44 | 1.29 | **1.25** |
+
+Checked 26/10/08 by Devin from the summary figures; FY25/26 current assets (3,125 + 77,808 + 39,260 = 120,193) and creditors due within one year (96,314) confirmed against the balance sheet text in `2526_Full_Accounts.pdf` (net current assets 23,879). The latest accounts meet the V&A condition on their own, so no guarantor or statement is needed.
+
 ## FVRA-style ratios (Cabinet Office tool — used by T23-TVBTV and standard on PA23 tenders)
 
 | Metric | FY23/24 | FY24/25 | FY25/26 | Reading |
