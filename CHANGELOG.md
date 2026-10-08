@@ -581,3 +581,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **Added:** 17 claims, 17 evidence links, 13 measurements from SRC-G2-030 (IDs C-S261008-001 to -017, E-S261008-, MEAS-S261008-; new prefix chosen because the P78 card cites C-G2-280 to 283, which are not in the register). Resolved VAL-S261007-03. Added VAL-S261008-03 to -05.
 - **QA on the new rows:** field counts, unique IDs, foreign keys, £ claims have value_basis, EFFECT claims have attribution_strength, no empty role or effect_family. Self-review caught and fixed three errors before commit: a £ claim with no value_basis, context claims using undefined CONTEXTUAL (changed to NOT_APPLICABLE per codebook), and a causal verb in a CONTEXT proposition.
 - **Not changed:** P22 claims C-G2-037/038 still quote final-period figures (VAL-S261008-05); client, contract and acceptance for P88 still provisional.
+
+## Session 12d (26/10/08): P22 claims trimmed to interim figures
+
+- C-G2-037 and C-G2-038 reworded to the 2021 interim position only (Iain instruction); final-period figures remain on P88 claims. E-G2-534/535 relinked as corroboration. VAL-S261008-05 resolved. No claim added or removed.
