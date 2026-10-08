@@ -42,7 +42,7 @@
 | Field | Value | Source |
 |---|---|---|
 | `citation_status` | DELIVERED_WORK — competed contract, delivered evaluation | register |
-| `reference_permission` | NOT_ESTABLISHED — SYMCA referee ask needed for T22 fifth slot | — |
+| `reference_permission` | NOT_ESTABLISHED — referee identified: Andrew Gates, Director of Strategy, Collaboration and Culture, SYMCA; ask drafted as PR-37 (held until shortlist per 26/10/08 rule; note V&A PQQ may call references at any stage) | PR-37 |
 | `permitted_wording` | "Evaluated South Yorkshire Mayoral Combined Authority's COVID-19 Additional Restrictions Grant for culture, arts and heritage — emergency grant programme across four local authorities" | Derived |
 
 ## B. Inward-facing side
@@ -57,4 +57,4 @@
 | `tender_relevance_tags` | T22-VAIMP fifth-slot candidate; cultural-funding-evaluation; grant-programme-impact | Derived |
 | `comparable_tenders` | P88-LCRPF24 (fund final evaluation); P10-KIRK (cultural mapping); P27-WAKECDF (cultural development fund eval) | register |
 | `card_status` | PROVISIONAL — pending Iain walkthrough | 26/10/08 |
-| `unresolved_issues` | (1) contract value from PO; (2) client acceptance; (3) SYMCA referee ask to draft for T22; (4) sources SRC-G2-044/045 registered — claims not yet coded | Derived |
+| `unresolved_issues` | (1) contract value from PO; (2) client acceptance; (3) referee ask PR-37 to send when shortlisted (or earlier — PQQ allows calls at any stage); (4) claims not yet coded | Derived |
