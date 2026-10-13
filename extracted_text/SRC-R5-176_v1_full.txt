@@ -1,0 +1,54 @@
+# CIRCUIT: question feedback summary
+
+## Q8. Need or challenge - average score 7.0/10
+- Assessor 1: Interesting academic idea, but marketability is uncertain; questions the size of the opportunity to identify emerging scenes or the next major artists.
+- Assessor 2: Strong, detailed explanation of the challenge, supported by credible evidence.
+- Assessor 3: Clearly explains music scenes, their economic importance and the need for evaluation, with good differentiation from competitors. Needs indicative financial figures showing the consequences of delayed evaluation.
+
+## Q9. Approach and innovation - average score 6.3/10
+- Assessor 1: The innovation is unclear; needs a precise definition of a scene and a clearer explanation of how reactive scene formation can be discovered or predicted.
+- Assessor 2: Sound technical detail and useful comparator analysis, but the core innovation needs a stronger narrative.
+- Assessor 3: Clear six-step process and separation of descriptive, causal and predictive outputs. Novel technical components, datasets and research uncertainties are insufficiently explained. Clarify the venue-closure example's policy decision, sample and wider significance; reliance on expert interpretation makes differentiation from consultancy unclear.
+
+## Q10. Team and resources - average score 6.3/10
+- Assessor 1: Positive about the collective approach, but questions the evidence of expertise in defining, understanding and predicting music scenes.
+- Assessor 2: Team appears capable of delivery; more detail on relevant completed projects would strengthen the case.
+- Assessor 3: Strong complementary expertise, clear roles and appropriate independent challenge. Explain why WMCA is a suitable testing partner and region, including music-venue policy experience, evidence access and representativeness. Specify necessary technical resources beyond data.
+
+## Q11. Market awareness - average score 5.0/10
+- Assessor 1: Questions the distinction from existing tools, arguing that sales, live box office, streaming and social analytics already indicate scene activity.
+- Assessor 2: Clear but overly high-level market outline; needs more supporting data and segmentation.
+- Assessor 3: Competitor analysis does not adequately reflect the policy decision-making use case. Target markets are not sized; segments are broad; demand, pricing and willingness to pay are largely untested. Needs wider customer discovery, market validation and a substantially stronger commercial opportunity and route to market.
+
+## Q12. Outcomes and route to market - average score 5.3/10
+- Assessor 1: Expresses scepticism about the idea's substance, while recognising the demonstrator as a way to test signal, coverage, rights, user value and willingness to pay before wider music-industry use.
+- Assessor 2: Route to market is broadly clear but too high level; needs a fuller business model and growth projections, even if aspirational.
+- Assessor 3: Structured testing and exploitation gates, including stopping when evidence is insufficient, are appropriate. Primary customer and value proposition remain unclear. Specify the problem customers will pay to solve, quantify benefits and refine pricing, demand, routes to market and commercial returns for the different customer groups.
+
+## Q13. Wider impacts - average score 5.3/10
+- Assessor 1: Potential to identify and monetise emerging scenes could benefit the artists and venues selected within them.
+- Assessor 2: Credible potential impacts, but more supporting data is needed.
+- Assessor 3: Good attention to inclusion, regional inequalities, evidence gaps and causal risks. Focus is on the method rather than resulting impacts. Estimate economic, regional and social benefits; clarify beneficiaries and longer-term employment and investment effects; address environmental impacts. Resolve the shifting emphasis between public-policy and commercial-investment benefits.
+
+## Q14. Project management - average score 6.3/10
+- Assessor 1: Solid plan, with strong milestones, decision gates and appendix detail; needs approximate costs for each work package.
+- Assessor 2: Reasonably clear plan; needs transparent costings and a fuller explanation of project management and governance.
+- Assessor 3: Coherent work packages, rigorous research activities, appropriate allocation and robust governance. Too research-led for near-term platform commercialisation; add task-level detail and explicit product-development, customer-validation and commercial-readiness activities.
+
+## Q15. Risks - average score 6.7/10
+- Assessor 1: Robust, comprehensive risk assessment; the main concern is demonstrating need, practical usefulness and benefits to people.
+- Assessor 2: Thorough register and well-argued narrative demonstrate strong risk awareness and mitigation.
+- Assessor 3: Research and methodological risks are well controlled, but commercial, product-development and adoption risks receive less attention. Risk ownership is overly concentrated in the Principal Investigator; distribute operational ownership across partners to reduce key-person dependency and strengthen shared accountability.
+
+## Q16. Added value - average score 6.7/10
+- Assessor 1: Funding is important to move beyond data collection and theoretical work, particularly to validate the concept.
+- Assessor 2: Reasonably clear public-funding case; alternative private-investment routes need further explanation.
+- Assessor 3: Clear case for research funding, with co-investment, alternatives and consequences of no award explained. Commercial additionality is less certain: the principal output is an evidence package that may support or stop further investment, leaving subsequent R&D growth and commercialisation conditional.
+
+## Q17. Costs and value for money - average score 6.3/10
+- Assessor 1: Clear, sensible finances, with helpful work-package and subcontractor cost detail that makes the budget understandable and reassuring.
+- Assessor 2: Overall funding requirement appears appropriate; needs more granular project costings and a tighter value-for-money case focused on return on taxpayer investment.
+- Assessor 3: Clear, reconciled budget, reasonable costs, well-justified partner allocations and secured applicant contributions. Value for money remains uncertain: returns depend on five authorities buying licences at an unvalidated price, and wider commercial opportunities require further development. If validation fails, the main benefit would be a research method rather than a commercial outcome.
+
+## Q1-Q7
+- No feedback provided for these unscored questions.

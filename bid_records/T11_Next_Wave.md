@@ -51,12 +51,16 @@
 
 | Field | Value |
 |---|---|
-| `notification_type` | |
-| `stage_reached` | |
-| `outcome_date` | |
-| `outcome_detail` | |
-| `feedback_received` | |
-| `feedback_source` | |
+| `notification_type` | UNSUCCESSFUL — "Your application has not been successful in this competition" |
+| `stage_reached` | Application assessed (Innovation Funding Service) |
+| `outcome_date` | 26/10/02 |
+| `outcome_detail` | CIRCUIT / Next Wave Breakthrough Wave 1 rejected; assessor scores + written feedback |
+| `feedback_received` | SCORES_RECEIVED — per-question scores and comments, Q8–Q17 (Q1–Q7 unscored) |
+| `feedback_source` | SRC-R5-175 (canonical PDF) ; SRC-R5-176 (internal summary) |
+
+**Assessor score averages (of 10):** Q8 need 7.0 · Q9 approach 6.3 · Q10 team 6.3 · Q11 market awareness 5.0 · Q12 route to market 5.3 · Q13 wider impacts 5.3 · Q14 project management 6.3 · Q15 risks 6.7 · Q16 added value 6.7 · Q17 costs/value for money 6.3.
+
+**Recurring assessor themes:** innovation narrative not sharp enough; market sizing/segments too broad and demand unvalidated; route to market too high-level (customer, pricing, willingness to pay); too research-led for near-term commercialisation; strong on need, risk awareness and co-investment case.
 
 ## 6. Post-outcome register actions — see template checklist
 

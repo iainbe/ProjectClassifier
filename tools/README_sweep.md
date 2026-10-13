@@ -11,12 +11,15 @@
 1. Walks these Drive areas: `Active projects`, `Active proposals`, `Archive projects`, `Archive proposals`, `Website 2026/spillover-toolkit`
 2. Compares every file to a saved snapshot (what it saw last time)
 3. Classifies each new/changed file:
+   - **TENDER_OUTCOME?** — filename matches outcome/feedback patterns (feedback, debrief, outcome letter, assessor scores, etc.) in or near a tender folder — log the outcome + feedback in `08_tenders.csv` (actual_outcome, outcome_source_id, feedback_status, feedback_source_ids), win or lose
+   - **TENDER_MOVED?** — a registered tender folder no longer seen at its registered path: relocated (new location reported), renamed or deleted — update the Drive folder note in `08_tenders.csv`
    - **UNREGISTERED_PROJECT?** — folder with no row in `01_projects.csv`
    - **POSSIBLE_TENDER** — filename matches bid/proposal/RFP patterns
    - **UNREGISTERED_SOURCE** — file inside a known project folder but not in `02_sources.csv`
    - **SOURCE_UPDATED** — a registered source file changed since registration
    - **DRIFT** — a toolkit register file changed outside a governed session
    - **NON_PROJECT** — known admin folders (Foresight, Templates, etc.)
+   - **TENDER_FILE** — other new/changed file inside a registered tender folder, matched by its registered path *or* by folder name anywhere under the proposals roots (a bid moved to `Archive proposals/Proposals lost` still attributes to its tender)
    - deletions and `.icloud` placeholders listed separately
 4. Writes `sweep_reports/SWEEP_LATEST.md` (always current) + a dated snapshot, and pops a macOS notification with the count
 
@@ -66,6 +69,7 @@ Note: launchd `QueueDirectories` does not fire reliably on Google Drive File Pro
 |---|---|
 | `watch_roots` | which Drive areas to scan + severity |
 | `tender_patterns` | filename keywords that flag POSSIBLE_TENDER |
+| `outcome_patterns` | filename keywords that flag TENDER_OUTCOME? (submission feedback, debriefs, award/regret letters, assessor scores — positive and negative alike) |
 | `non_project_folders` | folders to classify as admin, not gaps |
 | `ignore_patterns` | files to skip (temp files, .icloud handled separately) |
 
@@ -99,6 +103,8 @@ These apply to anyone acting on a sweep finding. They replace nothing above; the
 **3. One file tree, one mirror; guard before copying.** The Drive toolkit folder IS the git working tree — there is no separate repo copy to compare or hand-sync (`ontology_v2_DRAFT.md` section 17, resolved 26/10/08). The 26/10/08 divergence was between branches and is merged into `main`. If any external copy of a register ever needs writing onto this tree (e.g. an export from another machine or connector), run `python3 tools/sync_guard.py SOURCE TARGET` first: it refuses copies that drop rows, lose IDs, mismatch headers or overwrite a newer file, and `--force "reason"` logs the override to `sync_guard_log.csv`.
 
 **4. Turning a finding into a register change (final ontology).**
+- `TENDER_OUTCOME?`: this is why the tag exists — submission feedback must be logged, not just filed. Read the document, set the tender row's `actual_outcome` (AWARDED / UNSUCCESSFUL / NOT_AWARDED / PHASE-level value), `outcome_source_id`, `feedback_status` (SCORES_RECEIVED / NO_FEEDBACK / NOT_RECEIVED) and `feedback_source_ids`, register the document as an `outcome_notification` source (`02_sources.csv`, tender-only: empty `project_id`, `opportunity_ids` set), and complete the bid record's outcome + lessons sections. Negative and positive outcomes get the same treatment. For a lost bid also apply the AGENTS.md rules: EXPIRED on all DESIGN/OPTION claims of the affected project, programme_status NOT_AWARDED where a delivered commission exists.
+- `TENDER_MOVED?`: confirm the new location, update the `Drive folder:` note in `08_tenders.csv` (keep the old path in parentheses for history), then check whether the move itself signals an outcome (e.g. landed in `Proposals lost`) that still needs logging.
 - `UNREGISTERED_PROJECT?` or `POSSIBLE_TENDER`: first decide what it is. Our own bid, pending or lost: `08_tenders.csv` only, no project row, empty `project_id` on its sources. A paid commission, including bid support delivered while the bid failed: a project row, lifecycle describing the commission, `programme_status` NOT_AWARDED for the bid outcome, every DESIGN and OPTION claim `option_state` EXPIRED. Delivered work: a project row. Check the folder, year, document type and client against the project differentiation rule in AGENTS.md before assigning anything to an existing project.
 - A new or changed project row needs these facts, each from Iain or a document, with its basis in `14_fact_provenance.csv`: `lifecycle_status`, `contracting_role` and `prime_contractor` (PRIME, DIRECT, SUBCONTRACTOR, ASSOCIATE, ADVISORY; BOP associate work is ASSOCIATE with BOP Consulting as prime), `citation_status`, `client_accepted` (Y, N or UNKNOWN only: payment status is not acceptance and lives in the separate `payment_status` column — values PAID_IN_FULL, PART_PAID or blank). An unknown stays UNKNOWN; the eligibility checks never treat it as a pass.
 - `UNREGISTERED_SOURCE` and `SOURCE_UPDATED`: register or refresh the source, extract it in full including tables (extraction rules in AGENTS.md), mark PARTIAL_EXTRACT or NOT_ASSESSED if not fully read, and code claims only from sources read in full. `VERSION_AMBIGUITY`: pick the canonical dated, non-draft version; never the first alphabetically. Before declaring evidence missing, check both archives (Drive and OneDrive-TheFifthSector).

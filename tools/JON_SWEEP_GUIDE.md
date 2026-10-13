@@ -16,11 +16,13 @@ A script that scans Fifth Sector's Drive areas — `Active projects`, `Active pr
 
 | Category | Meaning |
 |---|---|
+| `TENDER_OUTCOME?` | File matching outcome/feedback patterns (feedback, debrief, outcome/decision letter, assessor scores) in or near a tender folder — the tender row in `08_tenders.csv` needs its outcome and feedback logged, win or lose |
+| `TENDER_MOVED?` | A registered tender folder is no longer at its registered path — relocated (new location shown), renamed or deleted; the register's Drive folder note needs updating |
 | `UNREGISTERED_PROJECT?` | Folder with no row in `01_projects.csv` |
 | `POSSIBLE_TENDER` | Filename matches bid/proposal/RFP patterns |
 | `UNREGISTERED_SOURCE` | File inside a known project folder but not in `02_sources.csv` |
 | `SOURCE_UPDATED` | A registered source file changed since registration |
-| `TENDER_FILE` | New/changed file inside a registered tender folder (new bid material) |
+| `TENDER_FILE` | New/changed file inside a registered tender folder (new bid material); also matches by folder name if the bid folder moved within proposals (e.g. to `Proposals lost`) |
 | `VERSION_AMBIGUITY` | A registered source points at a folder holding multiple candidate files — the register needs the canonical version picked, not just any file |
 | `DRIFT` | Toolkit register file changed between sweeps |
 | `NON_PROJECT` | Known admin folders — flagged but expected |

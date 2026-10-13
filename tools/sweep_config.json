@@ -54,6 +54,22 @@
     "case for support",
     "case_for_support"
   ],
+  "outcome_patterns": [
+    "feedback",
+    "debrief",
+    "outcome",
+    "decision letter",
+    "unsuccessful",
+    "regret",
+    "award letter",
+    "award notice",
+    "award decision",
+    "award",
+    "standstill",
+    "assessor",
+    "scoring",
+    "scores"
+  ],
   "state_file": "tools/sweep_state.json",
   "report_dir": "sweep_reports",
   "register_projects": "01_projects.csv",

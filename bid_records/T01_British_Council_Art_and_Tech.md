@@ -65,6 +65,25 @@
 | Technical writing | STRONG |
 | Commercial (50%) | UNKNOWN until pricing set — dominant lever |
 
-## 6. Outcome — SUBMITTED 26/09/12, awaiting result
+## 6. Outcome — UNSUCCESSFUL (notification 26/10/09)
 
-Trigger pending: outcome notification → update tenders row + bid record §5-6 + lessons
+Outcome letter (SRC-R5-174): British Council received 10 bids; The Fifth Sector scored **68.42**, winner **Human Economics 87.44**.
+
+| Criterion | Weighting | Winner | The Fifth Sector |
+|---|---|---|---|
+| Quality | 20% | 18.50 | 14 |
+| Methodology and Approach | 30% | 30 | 21 |
+| Commercial | 50% | 38.94 | 36.82 |
+
+**Panel feedback (letter text):**
+- Quality — strengths: relevant international experience across creative economy strategy, cultural valuation, creative industries mapping, British Council commissions, economic impact assessment and innovation ecosystems. Weaknesses: limited evidence of large-scale national evaluation programmes; limited demonstrated experience in formal econometric impact evaluation.
+- Methodology — strengths: methodology built around the British Council's own framework from Why Technology Needs Artists; showed understanding of causal evaluation (knowledge diffusion, network effects, collaboration formation, product spillovers, convergence-economy effects). Weaknesses: proposal lacked clarity on *how* the economic impact work would be undertaken.
+- Commercial — scored per the RFP formula; no written feedback.
+
+**Register updates applied 26/10/12:** `08_tenders.csv` T01-BCAT → actual_outcome=UNSUCCESSFUL, feedback_status=SCORES_RECEIVED, outcome+feedback source SRC-R5-174.
+
+## 7. Lessons (draft — for Iain)
+
+- Strongest scoring dimension was commercial (36.82/38.94); the loss was on methodology and quality evidence, not price.
+- Gaps to close for similar RFPs: evidenced large-scale national evaluation programmes; formal econometric impact-evaluation track record; a clearer "how" section linking method to economic impact outputs.
+- Reusable: causal-hypothesis framing scored well — keep the BC-framework-anchored approach for future BC bids.
