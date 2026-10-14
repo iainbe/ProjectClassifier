@@ -1,0 +1,634 @@
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  1 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+ AHRC Creative Industries Clusters Round 2  - Expression of Interest  
+Submitted 3 March 2026  
+Application  
+Amgen : Creative R&D Connecting Live Performance, Technology and Infrastructure 
+Across Wales  
+Summary  
+Amgen – meaning alternative, other, better – will be a transformative Creative Industries 
+Cluster for Wales, driving R&D, innovation and sustainable economic growth in the live 
+performance sectors across hard -to-reach geographies. As an industry -led, chall enge -
+driven cluster, Amgen directly addresses systemic barriers that constrain productivity, 
+scale -up potential and inclusive growth within the Welsh creative economy.  
+Amgen will operate a bespoke accelerator for innovation combining live performance 
+and creative technology, driving collaborative R&D across microclusters in rural, 
+coastal and post -industrial Wales. Amgen will embed capacity within place -based 
+creative ec osystems, transforming them into testbeds for production processes and 
+audience experiences.  
+Amgen's HEI -industry partnership team (USW, BU, AU, RWCMD, CMU, Eisteddfod 
+Genedlaethol Cymru, Theatr Clwyd, Wales Millennium Centre, CULTVR, and Frân Wen) 
+will catalyse development of new products and live experiences through a challenge -
+led, commercially  focused R&D programme with direct routes to market.  
+Amgen aims to:  
+• Drive economic growth by accelerating innovation in a connected live 
+performance ecosystem enabled by regional R&D to support delivery of 
+commercial, societal and cultural value;  
+• Transform innovation from creative studios into compelling, marketable live 
+experiences for diverse audiences;  
+• Stimulate investment through the adoption and innovation of new performance -
+related technologies;  
+• Enhance skills pipelines and talent retention by advancing creative business and 
+touring infrastructure;  
+• Strengthen regional creative capacity through a strongly inter -connected live 
+performance ecosystem, reflecting Wales’s linguistic, cultural and socio -
+geographical contexts;  
+• Embed equitable access to innovation opportunities.  
+Amgen will position Wales as a global leader in next -generation live performance 
+innovation, demonstrating the power of place -based R&D to deliver transformational 
+economic impact.  
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  2 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+  
+  
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  3 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+ Core team  
+Name  Role  Organisation  
+Lisa Lewis  Project lead (Director)  University of South Wales  
+James Davies  Research and innovation 
+associate  University of South Wales  
+James Kimm  Technician  University of South Wales  
+Lisa May Thomas  Research and innovation 
+associate  University of South Wales  
+Rebecca Hutcheon  Research and innovation 
+associate  University of South Wales  
+Richard Hurford  Project co -lead (UK) (Co -
+Director)  University of South Wales  
+Sue John  Professional enabling staff  University of South Wales  
+Andrew Filmer  Project co -lead (UK)  Aberystwyth University  
+Becky Mitchell  Technician  Aberystwyth University  
+Piotr Woycicki  Research and innovation 
+associate  Aberystwyth University  
+Andrew Lewis  Research and innovation 
+associate  Bangor University  
+John Cunningham  Research and innovation 
+associate  Bangor University  
+Ruth McElroy  Project co -lead (UK)  Bangor University  
+Jo Ward  Research and innovation 
+associate  Cardiff Metropolitan University  
+Professor Andrew T Walters  Project co -lead (UK)  Cardiff Metropolitan University  
+Lauren James  Specialist  CULTVR  
+Nia Jones  Specialist  Frân Wen  
+Betsan Moses  Specialist  National Eisteddfod of Wales  
+Professor Helena Gaunt  Project co -lead (UK)  Royal Welsh College of Music 
+and Drama  
+Liam Evans Ford  Specialist  Theatr Clwyd  
+Emma Evans  Specialist  Wales Millennium Centre  
+  
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  4 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+ Outline Vision  
+Amgen will super -charge the creative economy in Wales by ensuring that socio -
+geographic context is no longer a barrier to participation, productivity or growth. Our 
+vision is to bridge cutting -edge live performance (theatre, music, dance, festivals) with 
+creative -technology R&D to generate scalable, real -world applications in site -specific 
+testbeds across Wales, enabling emerging hybrid forms of creation and performance. 
+We will re -position non -urban centres as drivers of technological, cultural and inclusi ve 
+innovation, intersecting with industrial sectors facing similar challenges.  
+Amgen will broker reciprocal and co -equal R&D partnerships between technology -led 
+and live performance creators to develop immersive and interactive performance 
+experiences that are both place -based and distributed across/between microclusters.  
+We will transform the live performance ecosystem in Wales through translational R&D 
+in live performance. Amgen builds on the interdependencies and fast -emerging 
+technological innovations (including Immersive, XR, AI and speech/language 
+technologies) that u nderpin creative ecosystem across rural, coastal and post -
+industrial microclusters. Research by EticLab (2026)  maps these interconnections 
+across Wales, revealing a network of creative microclusters whose productive 
+stickiness is rooted in the specificity and shared values of Welsh language and culture. 
+This is exemplified by Eisteddfod Genedlaethol Cymru, Europe' s largest touring cultural 
+festival, which demonstrates the capacity of non -urban microclusters to host world -
+leading productions.  
+However, creative businesses across Wales face persistent barriers to innovation 
+capability, talent retention and infrastructure access compared to the Welsh capital 
+(McElroy and Davies, 2021). The urgent need to reformulate the creative economy in 
+terms o f distributed microclusters calls for a new framework in which growth and 
+development happen fairly and ethically (dos Santos et al., 2021).  
+Addressing these challenges aligns with Wales’s Wellbeing of Future Generations Act 
+(2015), which mandates for social cohesion, equity, environmental responsibility and 
+sustainable economic development, and recognises the interdependence of cultural, 
+socia l, environmental and economic value.  
+Amgen’s vision is to embed an ethical, fair and place ‑responsive approach to creative 
+innovation. This means acknowledging the tensions between economic drivers and the 
+rapid adoption of new technologies, ensuring that cultural, social and economic value 
+develop in balance. Amgen adopts a reciprocal model of distributed creative 
+economies in which place ‑based identity, language and cultural knowledge actively 
+shape technological development. Rather than exporting innovation, existing 
+technologies adapt to l ocal creative contexts, and local creative ecosystems drive the 
+creation of new digital tools, formats and markets. This approach offers CICP a unique 
+opportunity to test how microclusters can safeguard jobs, leverage co ‑investment, 
+catalyse cross ‑industrial innovation and deliver social and cultural benefits beyond 
+metropolitan centres which have historically received the greatest investment.  
+As an exemplar of how the interconnectivity of microclusters can enable the creative 
+economy to succeed outside super -urban areas, Amgen will transform distinct 
+microclusters into a network of Innovation Labs, increasing long -term capacity for 
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  5 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+ innovation across the creative economy, and positioning Wales as a global leader in 
+next -generation live performance innovation. Research activity will examine the inter -
+connectedness and mutual transfer of expertise between rural and urban contexts of 
+the creative economy; R&D will transform both, delivering a legacy of depth of practice, 
+understanding, investment, audience engagement and impact.  
+Outline Approach  
+Amgen will be led by USW and a consortium of HEI -industry partners. We will innovate 
+through coalescing microclusters in non -urban locations to harness the unique R&D 
+potential of live performance. While creative R&D is concentrated in major 
+metropolitan h ubs, significant talent, cultural identity and economic potential remain 
+under -connected to technological innovation. To address this imbalance, we will build 
+a networked ecosystem where digital tools, immersive technologies, responsible AI and 
+new product ion models are embedded within place -based creative communities, 
+empowering – not replacing – live experiences. In turn, these communities will shape 
+the development of next -generation distributed live performance. This reciprocal model 
+ensures that innova tion is not exported from urban centres but co -created across 
+regions and in response to the place’s unique cultural identity (Roberts & Lowe 2024).  
+Wales -wide creative industry roundtable discussions revealed that the major obstacles 
+to growth and sustainability faced by creative microclusters across Wales is the lack of 
+a comparable R&D infrastructure akin to that found in urban clusters (Hurford & L ewis 
+2025). Research undertaken by  EticLab (2026)  surfaces the inter -connectedness of a 
+range of live performance organisations in Wales. The unique infrastructure challenges 
+across Wales have hampered research expertise and cross -sectoral innovation from 
+coalescing effectively.  
+Amgen is ideally placed to drive cross -industrial collaboration precisely because of the 
+challenges of our geographies and the mobilities of creative practitioners in their daily 
+working lives. Firstly, by creating a robust, connected vehicle for fostering , 
+matchmaking, and driving innovation across Wales' creative microclusters. Secondly, 
+by enabling working across other sectors, including transport and connectivity, that 
+influence capacity to produce work and enable growth, and to integrate with sectors 
+that crosshatch with the arts, such as health and tourism.  
+Five creative organisations across Wales will provide the core R&D infrastructure for 
+Amgen, each offering distinct capabilities in innovation, production and audience 
+engagement.  Theatr Clwyd  in the north and  Wales Millennium Centre  in the south will 
+act as major hubs with committed routes to market for collaborative R&D.  CULTVR  and  
+Frân Wen  bring specialisms in immersive technology and inclusive community 
+practice, ensuring that experimentation is both technologically advanced and socially 
+grounded. The  National Eisteddfod of Wales  will serve as an itinerant platform for 
+annual dissemination and showcase.  
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  6 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+  
+The consortium's coverage is inherently inclusive, acknowledging the 
+interdependencies across the live performance sectors throughout Wales. It brings 
+together authentic -local knowledge and relationship with recent place -based strategic 
+investment (e.g. Pr ide of Place,  Venue Cymru; Celtic Crescent DFA; north/south AI 
+Growth Zones) to enable an inclusive innovation ecosystem.  
+Devolved R&D funding will empower SMEs and practitioners within microclusters to 
+experiment, test and scale ideas locally while contributing to a nationally connected 
+innovation infrastructure. We have secured commitment for co -investment of £3.6m 
+and will  identify further strategically important leveraged investment throughout.  
+Cross‑sector collaboration will be supported by a wider network whose expertise 
+shapes the conditions in which live performance is produced and experienced , 
+including national organisations Arts Council of Wales , Creative Wales , Sinfonia 
+Cymru, BBC Cymru  and other cross -sector collaborators who will  identify 
+opportunities that strategically align to expand the reach and impact of the R&D : 
+Transport for Wales Innovation Lab ; Ogi (broadband network provider ); Cardiff 
+Council  (Cardiff Music City ); Conwy Counci l (via Venue Cymru  Llandudno ); 
+Ceredigion Council  (via Theatr Felinfach  in rural Ceredigion ); Gogledd Creadigol , 
+supporting north Wales’s creative/digital community . 
+
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  7 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+ Amgen will align itself with an AHRC Creative Economy  Doctoral Focal Award (‘Celtic 
+Crescent ’, led by Bangor, with  Aberystwyth, USW , RWCMD, and industry partners). 
+This seeks to challenge the urban bias of creative cluster research and acknowledge 
+the specific spatial, cultural and embodied relationships that characterise creative 
+clusters across rural, coastal and post -industrial areas. Amgen creatives will 
+participate in this DFA’s annual Crucible Lab, to help ensure future research capacity.  
+R&D in microcluster s 
+We will adopt cross -sector  translational R&D to strengthen regional capacity and  to 
+empower regional companies to innovate in their creative and business practices. This  
+means :  
+• Iterative testing with audience s through out the R&D process ; 
+• Enabling a network of HEI-Industry co -creation  Innovation  Labs ; 
+• Making Innovation Toolkits for Industry  based on Knowledge  Transfer 
+(tech/industry/ creative  business) ; 
+• Ensuring creative IP protection and  non -exploitative commercialisation ;  
+• Facilitating cross -disciplinary collaboration . 
+Cardiff benefitted from first -round CICF (‘Clwstwr’) and Strength in Places (‘Media 
+Cymru’) funding, centred on screen innovation. Amgen will capitalise on the knowledge 
+and experience gained from these successful projects, extending their benefits to 
+dist ributed microclusters and applying them to the live performance ecosystem, which 
+operates in a more dispersed way and with distinct challenges that CICF rounds have 
+not yet addressed.  
+Wales is entering a new era of AI infrastructure development through two designated AI 
+Growth Zones, with £10m of UK Government investment to develop local AI business 
+and expertise. Amgen will provide microclusters with the critical mass necessary to be 
+active contributors to AI capability -building rather than downstream adopters, enabling 
+reciprocal flows between AI research and applied creative production (spanning 
+creative development, audience insight, accessibility, language technologies and 
+productio n optimisation). This will promote responsible use of AI within our 
+microclusters by developing critical understanding of AI -related issues such as bias, 
+transparency, accountability, authorship and ‘liveness’.  
+Developing Wales's creative economy depends on expanding authentic place -based 
+live experiences, widening access and participation, and empowering communities and 
+supply chains across a broader range of locations. Centralisation hinders sustainability 
+and resilience and often leads to homogenisation. Distributed economies, however, 
+hold a ‘selective share of production’ in ‘regions where activities are organised in the 
+form of small scale, flexible units that are synergistically connected with each other’ 
+(Johansson et al. 2005), via shared products, resources, knowledge and other services. 
+Such a network can be connected to nearby networks, resulting in a distributed 
+economy network.  
+Amgen will develop an inter -dependent network of microclusters enabling them to 
+function as innovation centres collaborating across a diverse geography, allowing 
+engagement with diverse audiences. This diversity holds economic value; audiences 
+value conten t that reflects their own identities, languages and lived experience. Amgen 
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  8 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+ will ensure that microclusters will benefit from an innovation ecosystem attuned to the 
+specific cultural and linguistic contexts of Welsh audiences. Without targeted attention 
+to these microclusters, the risks of economic exclusion intensify. We must co -produce 
+creative economies and research across them if we are to halt the acceleration of the 
+gap in opportunity, diversity and inclusion.  
+Thematic challenge areas , as defined by the sector (Hurford & Lewis, 2025) : 
+• Connecting  – strengthenin g communities of practice  across microclusters to 
+stabilise and grow the ecosystem by strengthening knowledge exchange 
+pathways ; 
+• Participating – developing located, hybrid and distributed models of co -creation 
+that reshape how companies, users and audiences engage, with technology 
+augmenting and evolving traditional expectations ; 
+• Making – new forms of work  emerging from a translational R&D framework 
+involving bringing technology to places and places to technology ; 
+• Moving  – supporting the physical and digital infrastructures that underpin 
+sustainable and inclusive creative practice across live performance 
+microclusters, delivering economic, social and cultural benefits.  
+These themes are shaped by a set of cross -cutting considerations: EDI and 
+accessibility; sustainability; creative business/commercial capabilities; and language 
+and culture, e.g. making the Welsh language a focal point means foregrounding 
+translation/inter pretation, integrating AI -driven language technologies with the 
+expertise of translators and other practitioners who mediate cultures/languages. 
+Translation becomes a relational practice connecting people and places, extending 
+beyond language into intersem iotic processes where one sign system or art form is 
+transformed into another. This thinking is vital as the sector navigates new technologies 
+and reimagines the possibilities of art forms.  
+Delivery Structure  
+The delivery structure , designed with industry partners,  provides a framework to  prime 
+the sector to undertake challenge -led R&D : 
+Underpinning sector research  runs throughout, including sector and workforce 
+mapping, economic baseline data, and programme evaluation. This will support 
+programme management and activities, informing the choice of R&D themes for each 
+grant round. Outputs will include articles, indus try-facing reports and policy briefings, 
+and sharing -of-best -practice emerging from R&D activities to support knowledge 
+exchange and continuous improvement – disseminated via digital presence and other 
+publications.  
+
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  9 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+ Sector awareness and outreach activity  includes a series of events to build a 
+connected ecosystem, bringing people and organisations together to better understand 
+the opportunities available and explore innovation trends impacting the sector in the 
+short -to-medium term to support experimentati on with performance -related 
+technologies, access and inclusion, sustainable practice, supply chain and business 
+practices.  
+The R&D framework for industry includes : 
+1. Innovation  Labs  curated by sector experts (primarily based in Amgen partner 
+organisations). The Labs will prime participants in responding to sector and 
+intersectional challenges before progressing to small or large R&D grants, with a 
+period of mentored experimentation an d training. These will range from 
+innovation processes (how to undertake a structured R&D project), specific 
+theme challenges (EDI, Sustainability) and include hands -on sessions with 
+technology, and business/market awareness. By bringing to gether a cohort of 
+individuals with complementary skills, collaborative projects will form naturally 
+and strengthen applications to the R&D grants. Freelancers/individuals will 
+receive small bursaries to attend. Applicants for R&D grants must have 
+undertak en Innovation Labs, ensuring a strong foundation in related skills and 
+capabilities and interdisciplinary cohorts across projects.  
+2. Creative R&D Grants  - Small and Large  
+Each R&D project will be supported by a producer, an academic expert, 
+consortium partners, facilitated by PDR. This will ensure an iterative design 
+approach including co -design and testing with audiences. Throughout the R&D 
+phases we will be working with s trategic partners to ensure that there are routes 
+to market both within the Amgen ecosystem and beyond (nationally and 
+internationally).  
+- Small R&D grants : up to £12k for 3 -month projects  based on  early -stage 
+ideas that are high ly experimental . Small grants will be suited to 
+freelancers/individuals and micro -organisations . 
+- Large R&D grants : up to £75k for 9 -month projects allow ing for more 
+ambitious R&D t hat is large r scale and more complex. Large grants will 
+require a collaborati ve approach to leverage knowledge sharing  and skills .  
+3. The Residencies Programme  will pair practitioners (artists, performers, 
+producers, technologists, and academics) with a host organisation to undertake 
+a 3-to-6-month knowledge exchange residency. Residencies will be based on a 
+hyper -local challenge, e.g. sustainability or EDI. Resi dencies will offer industry 
+mentorship and a bursary to cover time and costs. The Amgen residency 
+network will share experiences and provide peer support. A specific strand of the 
+Residencies Programme will focus on Youth Associates for young creatives age  
+18-25 who will receive additional mentoring from host organisations and feed 
+into Amgen’s Steering Committee.  
+4. R&D Dissemination . All projects will share R&D outcomes through 
+opportunities provided across the project duration and with all partner 
+organisations, including a public showcase at Eisteddfod Genedlaethol Cymru, 
+which covers all creative industries in one site. Funded proje cts will be 
+encouraged to share their R&D learning to drive innovation across the entire 
+sector.  
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  10 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+  
+Governance, Strategic and Management scrutiny  
+Amgen’s robust management and governance structure will include a Governance 
+Board  comprise d of  Pro-VCs from USW, Aberystwyth and Bangor , plus Wrexham 
+University , chaired by an industry expert . 
+A Steering Committee  is comprised of  colleagues from consortium partners  and 
+external organisations including  Creative Wales (Welsh Government ); Arts Council 
+of Wales ; BBC Cymru , Sinfonia Cymru , and  Gogledd Creadigol /MSpar c. We will 
+bring in expertise from other sectors to support our aim to catalyse cross -sector 
+innovation/collaboration.  
+A Management Team will comprise consortium partners, and representatives of key 
+areas such as EDI, sustainability, skills and training, language and culture, and 
+economic impact, ensuring flexibility, responsiveness and continuous improvement 
+throughout the lifespan of the grant.  
+Equality, Diversity and Inclusion  will be embedded across all aspects of Amgen 
+including management and delivery. EDI champions will sit across steering and 
+management boards.  
+Our EDI approach draws on best practice from across our institutions, including the 
+Ethnic Minority Research Advisory Group (USW), ATHENA Swan Silver Award (BU/CMU); 
+
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  11 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+ Craidd agents for change (Theatr Clwyd, RWCMD). Additionally, Wales has the 
+legislative and policy context to drive forward inclusivity, accessibility and diversity – all 
+cultural and creative activity made in Wales is subject to Welsh Government’s Culture  
+Policy, Priorities for Culture (2025).  
+Sustainability will be considered in all aspects of Amgen’s operation and R&D projects. 
+We will encourage the Theatre Green Book and other relevant sustainability 
+methodologies for planning projects, measuring progress across activities and 
+operations.  
+We will embed environmental sustainability in the skill set of live performance 
+companies and freelancers by bringing practical know -how from energy, transport, 
+tourism and technology sectors into training to improve environmental literacy and 
+ensure knowl edge exchange across Wales.  
+The greatest sustainability challenge for live performance is the movement of people to 
+and from venues/events/experiences. We will seek to better understand the trade -offs 
+between performance that is mobile and digitally -enabled live performances, explori ng 
+experiences of liveness and proximity across in situ and distributed performance.  
+Skills and Talent  training  will be integrated into the R&D activities during awareness 
+and outreach activity, and substantially within the Innovation Labs. These sessions will 
+include technology and business trends for live performance. These shorter workshops 
+are intended to highl ight the art of the possible to participants.  
+Training via the Innovation Labs will be multi -faceted, covering R&D and innovation 
+processes, how to involve participants/audiences, technology and craft practices with 
+hands -on workshops, access to equipment and facilities, and business development 
+and m arket readiness. This training will be aligned with a themed challenge and linked 
+to specific R&D grant funding rounds.  
+This integrated approach to training will reduce risk in later phases of the R&D journey, 
+developing underlying skill and awareness, leading to stronger proposals for funded 
+R&D projects with higher rates of commercial success. Additionally, new skills and  
+knowledge can be applied rapidly by Amgen creatives in the context of R&D activity, 
+ensuring deep retention through application.  
+Amgen will offer a Freelancer Development Fund  to flexibly support freelancers with 
+loss -of-earnings bursaries (up to £1,500) to enable them to undertake short training 
+courses of their choosing to upskill or allow for career pivots. This can be aligned with 
+Welsh Government’s Flexible Skills Programm e which can fund 50% of the training 
+costs, helping to alleviate two of the most common issues stopping freelancers from 
+undertaking training.  
+Ethics and Responsible Research  
+Our research will be conducted ethically, with integrity, and will be compliant with legal 
+requirements.  We expect our research community to:  
+• Conduct their work in an ethical and legal manner ; 
+• Reflect on their own personal and collective motivations for conducting their 
+research ; 
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  12 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+ • Anticipate, reflect and engage on the wider ethical and societal impacts, 
+implications and value of their work, entering into dialogue with the public and 
+other stakeholders where appropriate, and respecting the views of others . 
+USW’s Research Ethics approach compl ies with the Concordat to Support Research 
+Integrity  and will form the overarching ethical governance for Amgen . The full Ethics 
+policy  clearly outlines responsibilities and processes for ensuring that research 
+conducted complies with all legal and ethical standards, as well as preventing 
+irresponsible research practices and misconduct.  
+Amgen will undertake:  
+• Traditional research activity, which will include underpinning sector research 
+(mapping, economic analysis) and programme evaluation and impact capture;  
+• Industry -focused R&D, which is likely to engage participants in iterative testing 
+cycles within projects and for which we will provide ethical guidance and 
+governance. Vulnerable participants may be engaged in underlying research and 
+industry -led R&D activ ity. Amgen's EDI champions and sector experts will be 
+engaged for these projects to assess the best approaches on a case -by-case 
+basis.  
+Ethical activity will be scrutinised through the Management and Governance Boards as 
+well as USW's Research Governance processes.  
+Evaluation and Impact  
+Monitoring and evaluation plans for capturing the performance and impact of Amgen, 
+including the leveraged funding and project alignment with policy, will happen at 
+multiple data capture points. Governance and Steering Boards will be responsible for 
+the im plementation and oversight of tracking economic growth and social and cultural 
+impact. A dedicated team of specialist research organisations, including EticLab, Jones 
+the Numbers and the Audience Agency, will develop an evaluation framework capable 
+of meas uring both traditional economic metrics and wider social and cultural value.  
+This work will be supported by Research Fellow Rebecca Hutcheon (USW) who will help 
+gather and interpret evidence against these indicators in order to assess return on 
+investment and leverage findings for policy. Findings will feed directly into programme 
+decision‑making, enabling the consortium to refine delivery and respond to emerging 
+sector needs.  
+Key economic indicators include the number of people/organisations trained, 
+competencies achieved, jobs secured or created and organisation turnover, and 
+audience/participant numbers reached. Key cultural and social indicators will include 
+measure of envir onmental and sustainability impacts, EDI data to ensure equitable 
+participation, and progress against the wellbeing goals of the WFG Act, including an 
+innovative, productive, low carbon society; the promotion of a vibrant culture and 
+thriving Welsh languag e; the support for well -connected communities; and society that 
+maximizes people's physical and mental well -being. The framework will distinguish 
+between Amgen’s direct outputs and its contribution to wider sectoral change, with 
+longitudinal tracking to un derstand how skills, networks and innovations continue to 
+develop beyond the life of the programme.  
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  13 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+ Legacy  
+Amgen’s wider community of organisations will be key in forming partnerships for 
+continued investment in programmes of work, and viable routes to market.  
+We will connect with the regional skill partnerships in each Corporate Join Committee 
+(CJC) in Wales, which support the City and Growth Deals across Wales, and with the AI 
+Growth Zones, to support continued skills and capability development, and onward 
+funding opportunities.  
+Potential developmental links with other UK clusters include with Music Futures and 
+CreaTech Frontiers, and CoSTAR Labs. Aberystwyth and Bangor are part of the 
+Coronation Challenge CreaTech network. Potential sites for collaboration across 
+clusters include  the development of Creative Corridors across north and south Wales 
+and into England.  
+USW is part of Ceangal Cwlwm (Irish, Scottish Gaelic, Welsh language theatre 
+consortium); CULTVR are part of an International Residency programme; WMC host 
+Annwn, the international immersive storytelling prize. These are examples of 
+contiguous activities e nabling us to position Amgen in the context of highly innovative 
+international entities in live performance.  
+There will be opportunity to engage with new capital investments currently underway, 
+e.g., the forthcoming arena development in Cardiff Bay, the redevelopment of St 
+David’s Hall as a music venue, the redevelopment of numerous sites via Arts Council of 
+Wale s Capital Investment Fund across the south Wales valleys, through Ceredigion and 
+from Aberystwyth up to Wrexham.  
+Outline Applicant and team capability to deliver   
+Amgen has the skills, experience and partnerships to deliver game -changing R&D 
+across Wales’ live performance microclusters. We bring significant experience of 
+delivering transformational R&D for innovation in creative industries, offering 
+exceptional rese arch expertise in live performance within and beyond Wales, together 
+with extensive industrial networks and partnerships. As major anchor venues, 
+commissioners, and content creators, Amgen’s non -HEI partners bring national and 
+international reputations for  excellence, innovation and hands -on management 
+experience. This is a partnership team with common purpose to meet the challenges 
+facing our microclusters and deliver transformational change.  
+Amgen’s Director is L Lewis , Professor of Theatre and Performance Studies and Co -
+Director of the Centre for Media and Culture in Small Nations (USW). Lewis brings  
+senior management experience  as Associate Dean Research & Innovation, Business 
+and Creative Industries. An  expert on Welsh performance  Lewis has a considerable 
+record of practice -based and traditional research, including  leading international 
+long -term multi -partner research  with creative partners and HEIs (e.g. Leverhulme 
+Trust five -year interdis ciplinary arts project across India, USA and UK). Lewis has  
+governance and consultation experience in the arts  as former Arts Council of Wales 
+Advisor, member of Theatr Genedlaethol Cymru's artistic committee, Welsh 
+Government’s Culture Policy oversight committee, and is Chair of the Wales Innovation 
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  14 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+ Network’s Creative Industries Working Group.  Innovation specialist,  Hurford, is Co -
+Director of Amgen.  Director of the Creative Industries R&I Group (USW), he  leads 
+skills and training activities for Media Cymru  (UKRI – SIPF2), delivering 20 bespoke 
+courses for the screen sector, focused on growing south Wales’s capacity for R&D and 
+innovation (VP, Realtime and AI) alongside changing working practices (access, 
+inclusion, leadership, sustainability).  
+Project Co -Leads and R&I Associates: McElroy  is Professor of Creative Industries and 
+Head of School of Arts, Culture and Language (BU). McElroy brings  substantial R&D 
+management experience  and  vital experience of board -level governance  and  
+collaboration across the creative economy . She is Ofcom Content Board Member for 
+Wales, a member of Creative Wales’ Skills Advisory Board and former Chair of the 
+Board of Ffilm Cymru Wales. McElroy was lead CoI for Clwstwr (CICP1), co -ordinating a  
+team of CoIs  from USW an d CMU supporting 118 creative R&D projects, directly 
+contributing to more than £20m of additional turnover and more than 400 additional 
+jobs in the creative industries.  Walters  is Professor of User -Centred Design and  Ward  
+Senior Design Researcher, at  PDR  (CMU). They led significant  creative R&D facilitation  
+through both Clwstwr and Media Cymru (total 278 projects). PDR has extensive 
+experience of leading/collaborating on AHRC, UKRI, EC, industry and government 
+funded projects and programmes.  Filmer  is SL in  Theatre and Performance (AU); he has 
+significant  curatorial and project management experience , e.g. as curator of the 
+Performance Space Exhibition at the Prague Quadrennial of Performance Design and 
+Space, and co -convenor of the Theatre and Architecture working group (IFTR). Projects 
+include, for National Theatre Wales on the  transformation of production, staging and 
+administration  of theatre during the pandemic, and current collaborative research on  
+arts centres as social infrastructure  with Future Arts C entres who represent over 180 
+arts centres across the UK.  Davies , Research Fellow Screen Skills Innovation (USW) 
+has researched  regional impacts of creative clusters  with particular focus on the  
+interactions between clusters and HEIs  in and around them,  employment and 
+recruitment, organisational change and fragmentation, negotiation of industrial 
+boundaries  and  processes of recruitment . Hutcheon , Research Fellow (USW), digital 
+humanities and Impact & Engagement expert, will support  project evaluation and 
+impact.  
+We have  significant expertise in performance and technology: Thomas , Research 
+Fellow in  Performance and Interactive & Immersive Technology  (USW), has 
+collaborated on world leading  technological innovation in live performance , e.g. as 
+choreographer on an interdisciplinary art -sci project danceroom Spectroscopy, and 
+using SOMA Social VR to research whether VR and XR technology can enhance 
+inclusive and innovative Community Technology practice for women from underserved 
+communit ies (at ESRC funded Centre for Sociodigital Futures, Bristol University).  
+Woycicki , Lecturer in  Theatre and New Media  (AU) is  specialist in theatre and VR, AR 
+and XR , and as PI led the AHRC network grant 'Theatre, A.I. and Ludic Technologies’. He 
+co-convenes the  TaPRA Performance and New Technologies Working Group.  
+A Lewis , Professor of Composition and Dean for Research, College of Arts, Humanities 
+and Social Sciences (BU) is an award -winning composer and internationally recognised 
+figure in acousmatic composition; he has  led projects in spatial audio in VR and AR 
+technolog ies. 
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  15 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+ We bring  significant research expertise in skills and training across live 
+performance: Gaunt  is Principal of RWCMD, the National Conservatoire of Wales that 
+provides  pioneering performance -based training  in acting, music, production arts, 
+scenic design, and arts management. Gaunt is a musician and thought -leader on music 
+education and professional practice, sits on the Council of the Royal Philharmonic 
+Society and recently completed a leading role for the European Association of 
+Conservatoires’ major proje ct Strengthening Music in Society. Formerly at Guildhall 
+School of Music & Drama she established the Guildhall  Creative Entrepreneurs 
+scheme, incubating over 40 new businesses in the performing arts. Jones  is Head of 
+Production (RWCMD) delivering sustainable production training in alignment with the 
+Theatre Green Book.  Lea  is Senior Lecturer in Music (RWCMD) whose research focuses 
+on aesthetics and identity.  Cunningham  is Reader in Music and Head of the Dept of 
+Arts (BU) and brings  senior management experie nce  and  strategic leadership  at 
+subject level. Cunningham’s research focuses on reception and cultural perspectives 
+in Music with research projects investigating identity through music creation and 
+performance, and musical performance in theatre productions.  
+Anchor industry partners include  Eisteddfod Genedlaethol Cymru , the national 
+festival of Welsh  arts, language and culture  and an annual concentration of creative 
+industries and other sector bodies in Wales which alternates north and south, annually, 
+with over twenty stages and thousands of performances, gigs, talks and exhibitions. Its 
+science village will provide essential  demonstration space  for Amgen.  
+Wales Millenium Centre , Wales’s home for the performing arts , includes the Donald 
+Gordon Theatre (the second largest stage in Europe), Weston Studio, Wolfson Studio, 
+Dance House, Cabaret and  Bocs, a dedicated space for immersive experiences and 
+XR. A new  Digital Performance space  is being built, to open in 2028. WMC is the 
+Welsh delivery partner for Immersive Arts (AHRC), supporting UK -based artists using 
+immersive technologies, and hosts  Ida Hwb , part of the Ida Network for women, non -
+binary and trans peop le within the immersive XR sector. WMC launched the  
+International Annwn Prize for excellence in Immersive Storytelling in Art  in 2026.  
+Theatr Clwyd  is Wales’s largest producing theatre  housing the Anthony Hopkins 
+Theatre, The Mix performance studio, Sinema, multiple flexible spaces and 
+scenography facilities. Stiwdio Clwyd  launched in 2026, an ambitious landmark 
+programme of professional development  for artistic practice, technical skills and 
+innovation to support theatre -makers across Wales. Theatre Clwyd lead the Craidd 
+partnership  with Pontio, RWCMD and other theatres, to improve mainstream 
+representation for – and with – Deaf, disabled and neurodiverg ent people . 
+CULTVR  is a groundbreaking  digital arts centre  and Europe’s first  cross -disciplinary 
+Lab  with an emphasis on  digital arts, live immersive performances and XR 
+experiences . It is home to an award -winning in -house  full-dome production team 
+specialising in 360º live -action reality capture . CULTVR provides  physical and 
+virtual infrastructure , contributing to the democratisation of digital tools and 
+platforms whilst acting as a test bed for R&D, creation, presentation and dissemination 
+of immersive artworks.  
+Frân Wen  theatre company has recently delivered a £5 million capital development, 
+establishing Nyth, a  purpose -built arts hub rooted in co -creation, experimentation 
+ CONFIDENTIAL   
+ 
+_v7 20260522_LL/RH  16 
+CONFIDENTIAL  Shared with THE FIFTH SECTOR  
+ and innovation . The company  delivers ambitious multidisciplinary projects  such 
+as Olion, a multi -platform community production  blending digital and live 
+performance . The company is currently undertaking R&D exploring the integration of  
+live capture technologies within live performance , demonstrating its commitment to 
+technological innovation and cross -artform collaboration.  
+Other interested collaborators include  Sinfonia Cymru, Pontio Arts Centre  (BU),  
+MSparc Science Park, Gogledd Creadigol, Canolfan Bedwyr  (BU), and  South Wales 
+Business School  (USW),  BBC Cymru, Arts Council Wales, Creative Wales  (Welsh 
+Government),  Transport for Wales  and  Ogi. 
+Amgen’s technical support team  is experienced in  supporting research 
+infrastructure/projects  across HE and industry:  Mitchell  (AU) supported 'What’s 
+Welsh for Performance?' (AHRC, 2009 -2011), and a multitude of festivals and events for 
+the Centre for Performance Research, Performance Studies international etc.  Kimm  
+(USW) specialises in Virtual Production, supporting the dedicated experimental studios 
+at USW: Sialc (360 projection and sound, immersive performance studio) and Llechen 
+(hybrid green screen with camera tracking and real -time rendering capability). Kimm 
+has a background in theatre production and has worked alongside aca demic and 
+industry colleagues to deliver a range of R&D projects.  
+Plans to identify and embed additional expertise where gaps in the team exist  
+Additional expertise will be sought from a sector expertise network made up from 
+experts at our industry partners, plus additional specialist expertise including Robin 
+Moore (Creative R&D consultant and previously Head of Innovation for BBC Cymru) and 
+Klai re Tanner (award -winning Creative Director in immersive and games technologies).  
+ 
+ 
+ 
+ 
+ 
+  
