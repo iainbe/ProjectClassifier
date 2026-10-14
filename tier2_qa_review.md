@@ -891,3 +891,4 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/13 | SRC-R5-005 attribution | notes corrected: 8/10 is AHRC's verdict on University of South Wales' CICP application (USW bid lead, The Fifth Sector supported), not a Fifth Sector bid | None |
 | 26/10/13 | SRC-R5-009 canonical | controlled_location → `Creative_Scotland_Salary_Review_2026.docx` + Benchmark Tool xlsx companion; report extracted; Lightcast licence caution retained | None |
 | 26/10/13 | SRC-R5-011 canonical | controlled_location → `220907 CultureDerbyMANIFESTOv3.docx` + Compact governance_v2 companion; already extracted | None |
+| 26/10/13 | SRC-R5-172 canonical | controlled_location → `02 Brief - Understanding the V&A's impact on the Creative Industries.pdf` (ITT pack stays described in title) | None |
