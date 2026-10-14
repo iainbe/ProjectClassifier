@@ -1,0 +1,238 @@
+SALARY & TOTAL REWARD
+Creative Scotland
+Salary Review 2026
+A decision-ready benchmark using cached Lightcast evidence, public-body disclosures and freelance rate data
+
+
+
+Confidential working review. Public evidence is cited; cached provider data is summarised at aggregate level.
+
+Executive decision
+Recommendation: retain Creative Scotland's public-body comparator position, then correct only evidenced role-specific gaps.
+Creative Scotland's 2023-24 workforce median of £41,911 is almost identical to the National Lottery Heritage Fund's 2024-25 median of £41,979, above Arts Council England (£35,225 in 2023-24) and Arts Council Northern Ireland (£38,283 in 2024-25), and below the older Arts Council of Wales figure (£47,861 in 2023-24). These are workforce medians, not equivalent job matches, but they do not support a general claim that Creative Scotland is under-market.
+The cached Scottish creative-occupation evidence is lower: strong family medians run from about £26,464 to £36,720. This is relevant to recruitment and funded-sector context, but it is not a like-for-like substitute for a public body's pension, leave, job accountability or national remit.
+Actions
+Use public-body peer ranges as the primary pay-policy lane for Creative Scotland employees.
+Use the Lightcast family/role evidence as a recruitment-risk cross-check, with digital/software and scarce specialist roles reviewed first.
+Do not apply a blanket market supplement. Require an evidenced role match, a sufficiently strong sample, and a documented recruitment or retention problem.
+Make pension, leave, flexibility and progression visible as total reward; comparator pension contributions can be material and are not present in Lightcast.
+Refresh Creative Scotland's own anonymised payroll/job-evaluation data before final grade decisions. This review cannot test equal pay, grade compression or individual positioning without it.
+
+1. Scope and evidence architecture
+The review answers four different questions with four distinct evidence lanes. Keeping them separate is essential because the units and coverage are not interchangeable.
+
+What the Lightcast cache actually contains
+44,326 deduplicated UK employer–occupation observations across 14,775 employers; 927 observations and 385 employers classified to Scotland.
+Each salary is a provider-supplied employer × occupation median. It is not a row of individual vacancies and is not posting-weighted.
+Creative scope uses the governed DCMS SOC2020 creative-occupation registry and the repository's Lightcast-to-SOC crosswalk.
+Responsibility is inferred from occupation names. Organisation size uses the company registry employee estimate. Scottish location is the employer's operating or registered local authority, not necessarily the vacancy workplace.
+Benefits, contracted hours, protected characteristics, individual job evaluation and incumbent salaries are absent.
+
+2. Creative Scotland's current published position
+
+This is the latest Creative Scotland workforce pay disclosure located for the review and relates to 2023-24. It should be refreshed against the 2025-26 payroll before any implementation decision.
+3. Public-body comparator findings
+
+The comparator table intentionally leaves unavailable measures blank. Missing disclosure is an evidence gap, not a zero value. Senior-pay bands are not mixed into workforce medians.
+Interpretation
+Creative Scotland's published median is effectively level with the Heritage Fund median and above the ACE and ACNI medians captured here.
+Creative Scotland's 2023-24 CEO band (£125k–£130k) is below ACE, BFI, UK Sport, Sport England and Heritage Fund, but above sportscotland, Sport Wales, ACNI and Museums Galleries Scotland in the available disclosures.
+Differences reflect organisational scale, remit, geography, pension design and job mix. They are context, not automatic pay recommendations.
+Sport Northern Ireland remains a live evidence gap and should be completed in the next scheduled refresh.
+4. Scottish advertised-pay evidence
+
+What matters
+Digital/software/web has the highest strong Scottish family median (£36,720) and the widest upper-quartile pressure (£57,127). This is the first recruitment-risk lane to test against Creative Scotland grades.
+Creative leadership/management is £34,500 at the family median; this broad group mixes stage management, creative direction and music direction, so named-role evidence should be preferred.
+Arts/screen/production (£30,308), marketing/comms/advertising (£30,000), design (£29,486), and visual arts/crafts (£26,464) sit well below Creative Scotland's workforce median. That difference is plausible given public-body responsibility and total reward; it is not proof of overpayment.
+Performance/presenting is insufficient at n=6. Architecture, music and publishing are indicative only. Use the UK lane or obtain fresh role quotes before decisions in those families.
+5. Responsibility-level and named-role signals
+
+
+6. Organisation size
+The workbook provides the requested micro/small/medium/large cuts for every family and responsibility level. The Scottish cells are often small, so organisation size should act as a diagnostic rather than a mechanical pay multiplier.
+Digital/software/web remains elevated across every size band with strong evidence: medians range from £35,000 to £38,750 in the observed Scottish cells.
+Marketing/comms/advertising size medians range from £28,750 to £32,800 with strong evidence; the spread is smaller than the role-level spread.
+Arts/screen/production has usable medium, micro and small observations around £29,500–£32,000, but the large-organisation cell is insufficient.
+Do not infer causal size premiums from this descriptive cache. Organisation size is correlated with occupation mix and employer type.
+7. Benefits and total reward
+
+Public-body pensions can be worth more than a small base-salary difference. Creative Scotland should therefore publish a standard total-reward statement for every grade and use total reward—not salary alone—when testing offer competitiveness.
+Fair Work floors
+The 2025-26 UK real Living Wage outside London is £13.45 per hour. Annual equivalents depend on contracted weekly hours: approximately £24,479 at 35 hours, £25,874 at 37 hours, or £26,228 at 37.5 hours.
+Some cached annual salary values fall below those equivalents, but hours are absent. They may reflect part-time work or provider normalisation and must not be labelled non-compliant without job-hour evidence.
+SCVO's 2025 evidence reports a 23% median hourly pay gap between the voluntary and public sectors (£16.84 versus £21.77) and substantial workforce pressure. Creative Scotland should not use financially constrained sector pay as its sole employee benchmark.
+8. Freelance and contractor benchmarks
+
+
+9. Recommended framework
+The recommended tool is a decision sequence rather than a single universal number.
+
+Decision corridors—not new grades
+General support/officer roles: use Creative Scotland's evaluated grade and public-body peer range; check the real Living Wage hourly floor.
+Creative/programme/communications roles: use the internal grade first; cached Scottish P50 is usually around £26k–£35k, so any higher public-body salary should be explained through responsibility and total reward rather than suppressed to sector pay.
+Digital/data/software: test against named-role P50 and P75; where a grade maximum falls below strong market P50 and recruitment evidence confirms pressure, consider a governed supplement.
+Heads/directors/CEO: use public-body senior-role evidence and job size. Do not use broad creative-market titles, which contain classification and seniority errors.
+Freelancers: use day-rate tables plus Creative Scotland fair-pay guidance, scoped by deliverables and rights.
+10. Implementation and refresh
+
+11. Limitations and non-findings
+This is a robust external benchmark review, but not an equal-pay audit, job-evaluation exercise, affordability model or payroll implementation plan.
+No incumbent-level Creative Scotland data, job descriptions, recruitment outcomes or contracted hours were supplied. Individual underpayment or overpayment cannot be concluded.
+The Lightcast cache is not posting-level and cannot support vacancy-weighted estimates because corresponding posting counts are zero.
+The creative occupation definition follows a DCMS SOC2020 registry that was still marked in development in the repository. Culinary and some broad craft/manufacturing occupations should be treated as contextual, not automatically within Creative Scotland's employee universe.
+Public disclosures vary by year and measure. Workforce medians, grade ranges and senior bands are shown separately and never averaged together.
+Public-body benefit evidence is incomplete. Missing disclosure means unknown, not no benefit.
+Appendix A. Method
+Map Lightcast six-digit occupations to SOC2020 via the repository crosswalk; retain one deterministic best-fit SOC per Lightcast occupation.
+Restrict to 31 governed DCMS creative SOC2020 codes; group into 12 review families.
+Filter annual salary values to £10,000–£250,000; deduplicate company number × occupation, keeping the latest fetched row.
+Calculate P25, median and P75 across employer-level occupation medians. No posting weighting or inflation uplift is applied.
+Classify size from employee estimate: micro 1–9, small 10–49, medium 50–249, large 250+, unknown otherwise.
+Classify Scotland from employer operating or registered local-authority code. Responsibility comes from deterministic title tokens.
+Evidence labels: strong n≥20, indicative n=10–19, insufficient n<10.
+
+Appendix B. Source register
+All web sources were accessed on 13 August 2026 unless otherwise stated. The workbook carries the same source register.
+Creative Scotland baseline: Open source
+Arts Council England: Open source
+National Lottery Heritage Fund: Open source
+UK Sport: Open source
+sportscotland: Open source
+Sport England: Open source
+Arts Council of Northern Ireland: Open source
+Sport Northern Ireland: Open source
+British Film Institute: Open source
+Arts Council of Wales: Open source
+Sport Wales: Open source
+National Lottery Community Fund: Open source
+Museums Galleries Scotland: Open source
+Historic Environment Scotland: Open source
+National Lottery Heritage Fund: Open source
+National Lottery Community Fund: Open source
+Museums Galleries Scotland: Open source
+Arts Council England: Open source
+Real Living Wage, UK outside London: Open source
+Scottish public sector pay policy: Open source
+Scottish voluntary sector median hourly pay: Open source
+Scottish voluntary sector workforce pressure: Open source
+Appendix C. Half-Ass Detector
+
+
+
+ | 
+Prepared | 13 August 2026
+Market window | Lightcast cache fetched 14 April–10 July 2026
+Evidence base | 44,326 employer–occupation observations; 927 Scottish observations; 13 named public-body comparators reviewed
+Deliverables | This report and the accompanying interactive Excel benchmarking tool
+ | Bottom line
+Creative Scotland's last published median salary is broadly competitive with public-body peers and above most cached Scottish creative-market medians. The case is for targeted corrections and stronger total-reward evidence—not an unsupported blanket uplift.
+ | Pay-award constraint
+The 2026-27 Scottish public-sector policy describes 9% over 2025-26 to 2027-28, with no more than 3% in a single year. A role-specific market correction should therefore be separated from the general annual award and governed explicitly.
+Lane | Question answered | Evidence | Decision use
+A. Public bodies | Where does a national cultural public body sit? | Workforce percentiles, published grades, senior pay | Primary employee pay-policy comparator
+B. Creative occupations | What is being advertised in the labour market? | Lightcast employer-by-occupation salary medians | Recruitment-risk cross-check
+C. Freelance | What do specialist contractors charge? | YunoJuno day-rate ranges | Freelance budgeting; never annualised as employee pay
+D. Fair Work & benefits | What is the floor and total-reward context? | Real Living Wage, pensions, leave, SCVO evidence | Fair Work, affordability and offer design
+ | Evidence rule
+Strong = at least 20 employer observations; indicative = 10–19; insufficient = fewer than 10. 'Insufficient' is not zero pay and must not drive a benchmark decision.
+Measure | Published value | Interpretation
+Lower quartile | £33,330 | Internal workforce distribution, not a grade minimum
+Median | £41,911 | Core public-body comparator anchor
+Upper quartile | £49,362 | Internal workforce distribution, not a grade maximum
+Salary range | £25,000–£130,000 | Includes different roles and responsibility levels
+Chief executive | £125,000–£130,000 | Senior-pay comparator only
+Organisation | Period | Median | CEO band | Coverage / caveat
+Arts Council England | 2023-24 | £35,225 | £149,736–£149,736 | Audited fair-pay disclosure; newest salary detail retrieved was 2023-24.
+National Lottery Heritage Fund | 2024-25 | £41,979 | £150,000–£155,000 | Annual report workforce median and senior remuneration.
+UK Sport | 2024-25 | — | £160,000–£165,000 | Senior remuneration only; CEO also received a disclosed performance payment.
+sportscotland | 2024-25 | — | £110,000–£115,000 | Senior remuneration only; report states no performance-related pay or bonuses.
+Sport England | Current page accessed 2026-08-13 | — | £155,000–£160,000 | Published grade ranges: G8 23,950-24,475; G7 25,400-32,485; G6 30,500-36,223; G5 38,100-46,725; G4 47,200-57,405; G3 60,100-76,629; executive 120,000-140,000.
+Arts Council of Northern Ireland | 2024-25 | £38,283 | £95,000–£100,000 | Annual report fair-pay disclosure.
+Sport Northern Ireland | Evidence gap | — | — | No sufficiently current, directly comparable salary disclosure was verified during this review. Retain as a refresh action, not a zero value.
+British Film Institute | 2024-25 | — | £160,000–£169,999 | Senior remuneration bands only.
+Arts Council of Wales | 2023-24 | £47,861 | £105,000–£110,000 | Fair-pay disclosure; newest salary detail retrieved was 2023-24; no performance-related pay or benefits reported.
+Sport Wales | 2024-25 | — | £115,000–£120,000 | Senior remuneration only.
+National Lottery Community Fund | 2024-25 | — | — | Annual report and benefits evidence captured; performance pay can be up to 12% for the CEO and 8% for directors.
+Museums Galleries Scotland | 2024-25 | — | £70,000–£80,000 | One employee earned 70,000-80,000; no other employee earned over 60,000. Workforce median was not disclosed.
+Historic Environment Scotland | Published 2025-26 page | — | £145,000–£150,000 | Chief executive salary band only.
+Job family | n | P25 | Median | P75 | Evidence
+Architecture & planning | 13 | £26,163 | £28,366 | £31,076 | indicative (n=10-19)
+Arts, screen & production | 50 | £26,000 | £30,308 | £37,250 | strong (n>=20)
+Creative leadership & management | 26 | £29,664 | £34,500 | £42,375 | strong (n>=20)
+Culinary | 29 | £23,920 | £26,500 | £30,351 | strong (n>=20)
+Design | 61 | £24,500 | £29,486 | £37,000 | strong (n>=20)
+Digital, software & web | 216 | £28,588 | £36,720 | £57,127 | strong (n>=20)
+Libraries, archives & curatorial | 28 | £27,976 | £31,805 | £36,830 | strong (n>=20)
+Marketing, communications & advertising | 378 | £25,500 | £30,000 | £37,441 | strong (n>=20)
+Music | 12 | £26,208 | £31,750 | £52,000 | indicative (n=10-19)
+Performance & presenting | 6 | £29,812 | £31,720 | £44,408 | insufficient (n<10)
+Publishing, writing & journalism | 18 | £24,626 | £26,500 | £33,323 | indicative (n=10-19)
+Visual arts & crafts | 90 | £23,353 | £26,464 | £31,200 | strong (n>=20)
+Named role | Level | n | P25 | Median | P75 | Evidence
+Producer | Practitioner | 24 | £27,860 | £32,000 | £36,500 | strong (n>=20)
+Stage Manager | Manager | 15 | £27,022 | £31,830 | £33,250 | indicative (n=10-19)
+Graphic Designer | Practitioner | 28 | £22,375 | £27,375 | £32,688 | strong (n>=20)
+IT Manager / Director | Head of function | 18 | £44,354 | £58,092 | £67,941 | indicative (n=10-19)
+Mobile Applications Developer | Practitioner | 15 | £30,257 | £33,500 | £45,250 | indicative (n=10-19)
+Software Developer / Engineer | Practitioner | 32 | £35,512 | £51,250 | £66,250 | strong (n>=20)
+Web Developer | Practitioner | 15 | £32,625 | £38,744 | £46,875 | indicative (n=10-19)
+Museum Curator | Practitioner | 11 | £28,732 | £30,279 | £37,374 | indicative (n=10-19)
+Fundraising Manager | Manager | 19 | £34,000 | £36,000 | £42,559 | indicative (n=10-19)
+Marketing Assistant / Associate | Entry / assistant | 36 | £21,520 | £24,000 | £25,740 | strong (n>=20)
+Marketing Manager | Manager | 28 | £33,630 | £36,074 | £51,875 | strong (n>=20)
+ | Responsibility caveat
+The level labels are deterministic title inference, not job evaluation. 'Chief Marketing Officer' produced implausibly low values in some employer records and must not be used as an executive benchmark. For heads/directors, public-body role evidence and job size should take precedence.
+Organisation | Pension evidence | Leave evidence | Other / caveat
+National Lottery Heritage Fund | Civil Service pension; employer contribution disclosed as 28.97% | 26 days rising to 31 days, plus public holidays and 1.5 privilege days | Flexible/hybrid benefits listed on employer page
+National Lottery Community Fund | Alpha employer contribution 26.6%-30.3% | 25 days rising to 30 days | Published employee benefits package
+Museums Galleries Scotland | Lothian Pension Fund defined benefit; employer rate 23% in 2024-25 | Not captured in audited accounts | Do not interpret missing disclosure as no benefit
+Arts Council England | Employer pension contributions disclosed in aggregate; senior contributions shown individually | Not captured in this review | Defined benefit and defined contribution membership disclosed
+Category | Role | Low/day | Median/day | High/day | Period
+Creative | Creative Director | £500 | £600 | £700 | 2026-Q2
+Data | Data Analyst | £400 | £469 | £550 | 2026-Q2
+Data | Data Scientist | £500 | £600 | £700 | 2026-Q2
+Design | Graphic Designer | £320 | £385 | £450 | 2026-Q2
+Developer | Senior Developer | £550 | £650 | £750 | 2026-Q2
+Developer | Software Developer | £400 | £475 | £550 | 2026-Q2
+Market Research | Market Researcher | £420 | £491 | £570 | 2026-Q2
+Marketing | Marketing Manager | £350 | £415 | £480 | 2026-Q2
+Overall Average | All Disciplines Average | £350 | £390 | £450 | 2026-Q2
+PR | PR Consultant | £350 | £425 | £500 | 2026-Q2
+Project Management | Project Manager | £400 | £475 | £550 | 2026-Q2
+Social Media | Social Media Manager | £300 | £360 | £420 | 2026-Q2
+Strategy | Strategy Consultant | £450 | £520 | £600 | 2026-Q2
+Top 10% | Top 10% All Disciplines | £650 | £708 | £800 | 2026-Q2
+UX | UX Designer | £380 | £450 | £520 | 2026-Q2
+ | Do not annualise
+Freelance day rates cover non-billable time, equipment, insurance, risk and lack of employee benefits. Use them for procurement budgets and fair freelance fees, never as a direct annual salary equivalent.
+Step | Decision | Rule
+1 | Evaluate job | Confirm family, accountability, people/budget scope and responsibility level from the job description.
+2 | Anchor internally | Place the job in Creative Scotland's evaluated grade architecture and check equal-pay comparators.
+3 | Compare public bodies | Use like-for-like public-body grades or roles as the primary external lane.
+4 | Cross-check market | Use Lightcast P50/P75 only when the family/role evidence is strong or explicitly marked indicative.
+5 | Test total reward | Compare pension, leave, flexibility and progression alongside base salary.
+6 | Approve exception | Use a time-limited market supplement only with recruitment/retention evidence and annual review.
+When | Action | Owner / proof
+Before grade decisions | Load anonymised Creative Scotland role, grade, FTE salary, hours, location and job-evaluation data into the workbook. | HR; reconciled headcount and payroll totals
+Before any supplement | Document failed recruitment, offer declines, turnover and named comparator matches. | HR + hiring director; signed exception record
+Quarterly | Refresh current vacancies for thin/insufficient Scottish families and verify Sport NI evidence. | Reward lead; source log
+Annually | Refresh Lightcast cache, public-body reports, Living Wage and freelance rates; preserve source period and retrieval date. | Reward lead; versioned workbook
+After implementation | Run equal-pay impact analysis by sex, disability, ethnicity and contract status where lawful and statistically appropriate. | HR/legal; approved analysis
+QA measure | Value
+Rows before deduplication | 44,864
+Duplicate employer–occupation rows removed | 538
+Rows after deduplication | 44,326
+Scottish rows | 927
+Scottish employers | 385
+Fetch window | 2026-04-14 to 2026-07-10
+Salary filter | £10,000–£250,000
+Gate | Verdict | Evidence
+Promised axes | PASS | Workbook includes job family, responsibility level and organisation size, including combined cells.
+Source truth | PASS | Lightcast grain, cache window, crosswalk and public-source periods are stated; missing values remain blank.
+Statistical honesty | PASS | No posting weighting; n thresholds shown; insufficient cells are not recommendations.
+Benefits | PASS WITH GAP | Benefits are a separate lane; coverage is incomplete and labelled.
+Implementation | BLOCKED PENDING INTERNAL DATA | No grade or individual-pay changes should be approved without payroll, job evaluation and equal-pay checks.
+Publication / release | LOCAL ONLY | No upload, deployment or client-facing publication was performed.
+ | Completion verdict
+The external salary review and reusable benchmark tool are complete. Pay implementation is deliberately not claimed complete because the required internal job and payroll evidence was not supplied.
