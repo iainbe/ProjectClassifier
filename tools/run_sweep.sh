@@ -12,6 +12,12 @@ TRIGGER_DIR="/Users/iainbe/Library/CloudStorage/GoogleDrive-iain@thefifthsector.
 mkdir -p "$REPORTS" "$TRIGGER_DIR"
 
 {
+  echo "===== $(date '+%Y-%m-%d %H:%M:%S') self-update git pull ====="
+  cd "$TK" && GIT_TERMINAL_PROMPT=0 git pull --ff-only 2>&1 | head -5
+  echo "===== self-update exit ${PIPESTATUS[0]} ====="
+} >> "$LOG" 2>&1
+
+{
   echo "===== $(date '+%Y-%m-%d %H:%M:%S') run_sweep start ====="
   /usr/bin/python3 "$TK/tools/drive_sweep.py"
   rc=$?
