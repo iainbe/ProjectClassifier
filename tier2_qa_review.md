@@ -888,3 +888,4 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/13 | T29-LCRDIG registration | Live tender registered from sweep UNREGISTERED_PROJECT? flag: LCRCA Digital Technology Cluster Strengthening Framework ITT, Active proposals/2026 LCR Digital Mapping; rename from '2026 Liverpool Digital Mapping' recorded in notes | Residual: deadline, budget and scoring not yet extracted from ITT |
 | 26/10/13 | SRC-G2-065 canonical | controlled_location pointed at submitted response `79761 TheFIfthSector response.pdf` (19 candidates, VERSION_AMBIGUITY cleared) | None |
 | 26/10/13 | SRC-R5-005 canonical | controlled_location → `Amgen - CICP2 EOI Outline.pdf`; `EOI Feedback.pdf` companion; score 8/10 logged; both extracted | None |
+| 26/10/13 | SRC-R5-005 attribution | notes corrected: 8/10 is AHRC's verdict on University of South Wales' CICP application (USW bid lead, The Fifth Sector supported), not a Fifth Sector bid | None |
