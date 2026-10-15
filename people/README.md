@@ -10,6 +10,8 @@ One canonical record per named person (`PER-XX_Name.md`). Tender bios and CVs ar
 | PER-02 | `PER-02_Lynne_McCadden.md` | Associate — skills evaluation specialist |
 | PER-03 | `PER-03_Jon_Bains.md` | Core collaborator — Places founder/lead |
 | PER-04 | (record to build — Patrick Towell) | External partner (audience data) |
+| PER-05 | (record to build — Lindsay Butcher) | What & Why co-lead with Bains on T24/T25 |
+| PER-06 | `PER-06_Brian_Condon.md` | External partner — independent economic/methods reviewer (T22-VAIMP); PlaceMUS XR Strategic Advisory Board |
 
 ## Bio and CV asset library (OneDrive)
 

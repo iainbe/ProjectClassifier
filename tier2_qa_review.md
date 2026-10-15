@@ -894,3 +894,10 @@ T02/T03/T04 had an extra empty field at position 34 (positioning_rationale) shif
 | 26/10/13 | SRC-R5-172 canonical | controlled_location → `02 Brief - Understanding the V&A's impact on the Creative Industries.pdf` (ITT pack stays described in title) | None |
 | 26/10/13 | SRC-R5-173 canonical | controlled_location → `TVCA-PROC-0881 Part 1 ITT ...-Final-V2.docx` (V2 supersedes V1); pack stays described in title | None |
 | 26/10/14 | run_sweep.sh self-update | Added non-fatal `git pull --ff-only` (GIT_TERMINAL_PROMPT=0) before sweep so the Mac working tree reconciles with main each run; enables remote-triggered pull via sweep_requests queue | Residual: pull fails safely if Mac tree diverges — sweep still runs on synced content |
+
+## Consistency audit — 26/10/15 (T22-VAIMP reviewer confirmed)
+
+- PER-06 created with evidence-linked facts only: the T22-VAIMP REV3 draft bio for career facts and the PlaceMUS XR invitation letter (Tunesi, University of Tours) for the Strategic Advisory Board / financial-stakeholder-reviewer role. No invented accreditation.
+- 16_involvement.csv INV-0028 uses project_id=T22-VAIMP — first INV row carrying a tender id rather than a project id; matches the bid-team precedent for recording tender roles on person records (McCadden T05-DERBY is held in her record's table instead, so tender-role INV rows are new but consistent with the register's person↔work purpose).
+- Drive writes: new versioned files only (REV3 docx, PQQ 2026-10-15, price schedule 2026-10-15); REV2 and the 2026-10-08 admin files preserved untouched. Changelog + consistency audit .md updated in place per working-doc convention.
+- Residual risk: Condon's contact details and pre-CBN career remain open fields in PER-06; the OneDrive Associates CV (referenced in people/README.md) has not been re-read this session — bio claims stay within the REV3-approved wording plus the Tunesi letter.
