@@ -915,3 +915,10 @@ Turn contract: review the proposed adoption of Nikolas Kunesch (CELL RA, final-y
 - SKIN: the delineation table earns its place but compress it — one method-sentence + team table, not repeated tables in a 3-page proposal. The "cohorts the V&A cannot reach" line is the single most persuasive sentence; put it in the method, not buried in team.
 - FOK: interview coverage is not additionality evidence — non-converting cohort interviews give descriptive contrast, not a counterfactual; keep the Green Book three-ledger logic carrying the economics and do not let the new capacity imply causal proof. Referral routes to non-converting cohorts carry selection bias — Bains' stratum quotas apply to his stream too. Attribution of V&A vs other support remains answerable only by design, not by more interviewers.
 - THAD verdict: READY-WITH-FIXES. Material findings: (1) named-vs-role decision gate ~17 Oct; (2) complement-not-duplicate framing vs their "we anticipate conducting interviews"; (3) scope contingency claim to qual/cohorts; (4) word the gap as capacity/coverage, not reach-impossibility; (5) fee must stay £59k with visible day arithmetic.
+
+## Consistency audit — 26/10/16 (Condon pen picture added to PER-06)
+
+- Source added verbatim under `people/sources/`; PER-06 gains a SELF_STATEMENT fact table. The earlier REV3-derived career rows are left in place and marked as superseded where they conflict (city list; "Directs CBN" now stated as a directorship by Iain).
+- Finding: PER-06's original career rows cite only the REV3 draft bio (circular source). The pen picture is an independent statement by Condon, so the PhD subject and institution, the 37 start-ups and the 180 businesses still rest on Iain statements and the 2018 CBN credentials document.
+- Residual: the pen picture names Networks.coop where PER-06 and REV4 say CBN; relationship between the two names not yet recorded.
+- No QA item 1 to 15 affected; people files are not covered by a QA check (recorded earlier as residual).

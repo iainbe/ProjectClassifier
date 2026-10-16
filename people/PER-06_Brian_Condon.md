@@ -44,3 +44,19 @@ Canonical record for assembling tender-specific bios and CVs. Facts below are ev
 - Contact details for referee/contact purposes (not needed — reviewer, not referee)
 - Day rate beyond T22 (£750/day agreed for T22)
 - Earlier career history before CBN
+
+## Pen picture facts (26/10/16, Condon's own words)
+
+Source: `people/sources/PER-06_Condon_pen_picture_26-10-16.md` (verbatim). Basis for every row: SELF_STATEMENT. Where this conflicts with the REV3-derived rows above, the pen picture is the later and more specific source.
+
+| Fact | Basis and asserted-by | Source and date |
+|---|---|---|
+| Technology strategist and researcher; over 35 years' experience in innovation, public policy and economic impact assessment | SELF_STATEMENT, Condon | pen picture, 26/10/16 |
+| Founded and directed the University of London's Centre for Creative Collaboration (C4CC), a partnership of four universities supporting creative practitioners, researchers, freelancers and businesses; included the London Creative and Digital Fusion programme | SELF_STATEMENT, Condon | pen picture, 26/10/16 |
+| Economic impact studies of creative and digital infrastructure in several UK cities and regions (no places named; supersedes the REV3 list) | SELF_STATEMENT, Condon | pen picture, 26/10/16 |
+| Through Networks.coop: place-based digital infrastructure work, including digital inclusion in Preston (programme design and monitoring) and co-operative digital infrastructure in Greater Manchester (governance, investment, business models, community benefit) | SELF_STATEMENT, Condon | pen picture, 26/10/16 |
+| Develops technical evidence, modelling assumptions and methods for government economic impact assessments | SELF_STATEMENT, Condon | pen picture, 26/10/16 |
+| Serves on the advisory board of PlaceMUS XR; independent scrutiny of primary research and assessment of the financial viability, funding and implementation of heritage technologies | SELF_STATEMENT, Condon | pen picture, 26/10/16 |
+| Particular attention to additionality, sampling, cost attribution and the reliability of impact estimates | SELF_STATEMENT, Condon | pen picture, 26/10/16 |
+
+Not in the pen picture: the PhD subject and institution, "37 start-ups", "180 businesses", the CBN directorship, the Liverpool City Region Digital Infrastructure Action Plan. These stand on Iain's statements (IAIN_STATEMENT, 26/10/16) and on the 2018 CBN credentials document for the PhD (physics, St Andrews).

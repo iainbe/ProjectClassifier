@@ -941,3 +941,11 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **Sweep self-update (26/10/14)**: `run_sweep.sh` now runs `git pull --ff-only` (non-fatal, no prompts) before each sweep so the Mac stays current with main; triggered remotely via the sweep_requests queue for immediate reconciliation.
 - **PER-06 Brian Condon registered (26/10/15)**: Dr Brian Condon (CBN) confirmed as T22-VAIMP independent economic/methods reviewer — naming, £750/day ×6 days and availability all agreed. New canonical record `people/PER-06_Brian_Condon.md`; `15_people.csv` row added; `16_involvement.csv` INV-0028; `08_tenders.csv` T22 notes updated; `people/README.md` records table updated. Drive side: REV3 response + 15 Oct PQQ + 15 Oct price schedule name him; bio cites PlaceMUS XR Strategic Advisory Board role (Horizon Europe ECCCH — designated financial-stakeholder reviewer of its primary research). McCadden naming/availability remains CONFIRM.
 - **T22-VAIMP lane review (26/10/15)**: nine advisory lanes run on the proposed Kunesch research-support addition per AGENTS.md tender protocol — verdict READY-WITH-FIXES. Findings recorded in `tier2_qa_review.md`; T22 notes updated; RH-26-10-15-C4 logged.
+
+## 26/10/16 — Condon pen picture added; PER-06 updated
+
+**Trigger:** "Add Brian Condon's pen picture (in G Drive) to the repo and review to provide best wording"
+
+- `people/sources/PER-06_Condon_pen_picture_26-10-16.md` added: Condon's own pen picture, verbatim, with Drive id, date and basis (SELF_STATEMENT).
+- `people/PER-06_Brian_Condon.md`: new "Pen picture facts" table (three columns: fact, basis and asserted-by, source and date), plus a note of what the pen picture does not contain (PhD subject and institution, 37 start-ups, 180 businesses, CBN directorship, LCR Action Plan), which stay on Iain's statements and the 2018 CBN credentials document.
+- No register, claims or QA check changed. Wording review for the T22-VAIMP REV4 Team page delivered in session (not a repo change).
