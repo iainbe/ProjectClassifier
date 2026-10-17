@@ -1023,3 +1023,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - Iain: visitor economy was agreed not to be the theme. REV7 had restored the Beatles Visitor Impact Study from the 26/10/08 slate without checking it against the later (14 Oct) agreed slate. Replaced by the Liverpool City Region music economy study (agreed slate). Sheet is now CELL (referee name to add), Wakefield (Ben Cook), LCR Production Fund (Sarah Lovell), LCR music economy (Liverpool City Council commissioner name to add), SYMCA ARG (Andrew Gates).
 - MS-01 approval and the PR-38 McManus ask are no longer needed for T22 case studies; Bains's bio line on the Beatles study is unchanged (Iain: his statements are accurate).
+
+## 26/10/17 (11) — Referees settled; Green Book stated in bios
+
+- Iain: Graham Hitchen is the CELL client contact; all referees are green-lit (no further referee queries); funding bodies commissioning on behalf of other organisations is not an issue; all Condon and Bennett evaluations follow Green Book methodology.
+- REV7: CELL referee Graham Hitchen; music economy case restored to 'commissioned by Liverpool City Council and funded by the Combined Authority', referee Helen Cross, Liverpool City Region; Bennett and Condon bios now state Green Book methodology. PR-09 and PR-04 contact names recorded. No brackets remain in the case studies.

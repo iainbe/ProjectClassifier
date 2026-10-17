@@ -978,3 +978,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 
 - Finding: REV7 reinstated the Beatles study (visitor economy), contradicting the agreed theme; cause: slate taken from the 26/10/08 record without re-checking the 14 Oct Version C decision. Fixed (music economy restored). Lesson: before reusing an earlier decision, check for a later one on the same point.
 - Residual: referee names for CELL and the music economy study; the earlier scorer/sheldon results were on the REV7 text that included Beatles — case studies 4 now rely on the REV6 music wording (figures traced in the round-2 sheldon check).
+
+## Consistency audit — 26/10/17 (11)
+
+- Referee gaps closed on Iain's instruction (Hitchen, Cross; Cook, Lovell, Gates already named). Green Book methodology now stated for Bennett and Condon on Iain's authority (not independently evidenced in the repo). Residual: panel re-score not re-run on this text.
