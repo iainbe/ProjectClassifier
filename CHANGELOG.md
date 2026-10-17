@@ -998,8 +998,8 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Full lane set re-run on REV5 (sark/load-the-team, blindspot, deepthink, sheldon, wishful, thad, shaz, skin, fok, grey) plus an independent V&A-panel scorer; results to be recorded.
 - Register aligned (15_people, 16_involvement, 08_tenders, PER-02/07).
 
-## 26/10/17 (7) — Full 10-lane review of REV5, panel score 69.6/100; REV6 built
+## 26/10/17 (7) — Full 10-lane review of REV5, panel quality score 62/90; REV6 built
 
-- Lanes run on REV5 (sark, blindspot, deepthink, sheldon, wishful, thad, shaz, skin, fok, grey) + independent panel scorer. Lane scores /10: skin 6, thad 6.5, fok 7, grey 6, sark 6.5, blindspot 5.5, shaz 5.5, wishful 6, deepthink 6.5, sheldon 5. Panel: case studies 6.5, team 7, proposal 7, price 7.56 vs a £45k rival = 69.6/100; gate passes narrowly on case studies (unconfirmed referees).
+- Lanes run on REV5 (sark, blindspot, deepthink, sheldon, wishful, thad, shaz, skin, fok, grey) + independent panel scorer. Lane scores /10: skin 6, thad 6.5, fok 7, grey 6, sark 6.5, blindspot 5.5, shaz 5.5, wishful 6, deepthink 6.5, sheldon 5. Panel (quality criteria only): case studies 6.5, team 7, proposal 7 = 62/90 (REV6 re-score: 6, 7, 7.5 = 63.5/90); gate passes narrowly on case studies (unconfirmed referees). Price is not scored: it depends on rivals' bids, which are unknown; an earlier hypothetical £45k rival was invented by Claude and has been withdrawn.
 - REV6 applies the convergent fixes: brief outputs list, Key Question table with limits, Q4 route, storytelling/show-and-tells, IIPP/ecosystem framing and conflict declaration, referee wording, Wakefield/LCR/Salford wording corrections, coding-load fix, data roles, honorarium rule, trigger for V&A researcher shortfall; allocation re-cut to Bennett 30 / Bains 30 / McCadden 14 / Kunesch 16 / Condon 6 = 96 days, £59,200, no separate reserve.
 - Register aligned (15_people, 16_involvement, 08_tenders, PER-07). Round-3 check (panel re-score + numbers/coverage) under way.
