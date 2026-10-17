@@ -12,6 +12,10 @@ Canonical record for assembling tender-specific bios and CVs. Facts below are ev
 | organisation | CBN (director) |
 | bio sources | `Active Proposals/Proposals info/Associates/` — Condon CV on file (OneDrive); T22-VAIMP draft bio (REV3, ~175 words); PlaceMUS XR invitation letter (Lorenzo Tunesi, University of Tours, October 2026) |
 | consent to name in bids | ESTABLISHED for T22-VAIMP — confirmed naming, rate and availability 26/10/15 |
+| contracting route (T22-VAIMP) | Contracts as himself (his stated preference, 26/10/16); self-employed; also able to contract as networks.coop; holds his own PI cover; content to be named as a Fifth Sector associate if that reduces admin |
+| contact | brian@briancondon.co.uk; mobile in `Brian Condon.eml` (Drive folder `2026 V&A`) |
+| address | Supplied 26/10/16 (Kent) — held in the Drive email and the sub-consultant details note, deliberately not copied into this repo |
+| procurement declarations (T22-VAIMP, 26/10/16) | Confirmed: not on the debarment list or UK Sanctions List, no Procurement Act 2023 exclusion ground (PQQ 2.1–2.5); happy to sign a data processing agreement and accept DBS checks (PQQ 3.3.2–3.3.3); has extensive existing DBS history (work with young people at sea; Irish Garda vetting) |
 
 ## Career (dated, sourced)
 
@@ -29,7 +33,7 @@ Canonical record for assembling tender-specific bios and CVs. Facts below are ev
 
 | Project | Role | Evidence |
 |---|---|---|
-| T22-VAIMP V&A Creative Industries Impact Study (bid) | Independent economic and methods reviewer — 6 days at £750/day, two at each work stage (inception, interim, final): economic protocol, sampling frame, contribution evidence, calculations, final interpretation | `261014 note to Brian Condon - reviewer role.md`; confirmation 26/10/15 |
+| T22-VAIMP V&A Creative Industries Impact Study (bid) | Independent economic and methods reviewer — 6 days at £750/day (agreed 26/10/15; maintained by Iain 26/10/17), two at each work stage (inception, interim, final): economic protocol, sampling frame, contribution evidence, calculations, final interpretation | `261014 note to Brian Condon - reviewer role.md`; confirmation 26/10/15 |
 
 ## Tender-relevant angles
 
@@ -41,6 +45,8 @@ Canonical record for assembling tender-specific bios and CVs. Facts below are ev
 
 ## Open fields
 
+- Organisation label to use: the REV3 bio says CBN, his email signature says Adroit Economics (and he also offers networks.coop) — confirm before the Formal Offer names him
+
 - Contact details for referee/contact purposes (not needed — reviewer, not referee)
-- Day rate beyond T22 (£750/day agreed for T22)
+- Day rate beyond T22 (£750/day for T22, maintained by Iain 26/10/17)
 - Earlier career history before CBN

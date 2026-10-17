@@ -915,3 +915,92 @@ Turn contract: review the proposed adoption of Nikolas Kunesch (CELL RA, final-y
 - SKIN: the delineation table earns its place but compress it — one method-sentence + team table, not repeated tables in a 3-page proposal. The "cohorts the V&A cannot reach" line is the single most persuasive sentence; put it in the method, not buried in team.
 - FOK: interview coverage is not additionality evidence — non-converting cohort interviews give descriptive contrast, not a counterfactual; keep the Green Book three-ledger logic carrying the economics and do not let the new capacity imply causal proof. Referral routes to non-converting cohorts carry selection bias — Bains' stratum quotas apply to his stream too. Attribution of V&A vs other support remains answerable only by design, not by more interviewers.
 - THAD verdict: READY-WITH-FIXES. Material findings: (1) named-vs-role decision gate ~17 Oct; (2) complement-not-duplicate framing vs their "we anticipate conducting interviews"; (3) scope contingency claim to qual/cohorts; (4) word the gap as capacity/coverage, not reach-impossibility; (5) fee must stay £59k with visible day arithmetic.
+
+## Consistency audit — 26/10/17 (T22-VAIMP sub-consultant details and consents)
+
+- Findings: Kunesch's reply confirms exclusion/DPA/DBS but not naming, rate or availability, so `named_in_bids_ok` stays UNKNOWN and INV-0030 is flagged not-yet-confirmed. Condon's organisation label differs between sources (CBN in REV3 bio vs Adroit Economics in his signature; networks.coop also offered). PER-02 consent is recorded for T22 only. CELL (Kunesch's prior work) has no matched register project row.
+- Fixes: PER-02/06/07 records, `15_people.csv`, `16_involvement.csv` and T22 notes updated. Schema-drift check done (field counts 8/9/38 verified; only intended lines changed).
+- Residual: Morra Ltd company number/address; Kunesch naming/rate/availability; Condon organisation label; PQQ 1.10–1.15, 2.x, 3.3.x still CONFIRM in the draft. `check_lifecycle.py` 0 violations; `check_claims_columns.py` 26 (expected baseline). No project or claim data changed, so no eligibility/index regeneration needed.
+
+## Consistency audit — 26/10/17 (2) (T22-VAIMP rates and PQQ update)
+
+- Findings: Condon's rate fell £750→£650, so the 15 Oct price schedule and the £59,000 fee arithmetic no longer reconcile (all four rates now differ). Jon Bains's consent is verbal only, so the PQQ does not assert exclusion/DPA/DBS declarations for him. Pre-existing and not touched: `15_people.csv` has two rows with id PER-03 (line 4 names Sara Sartorius with Jon Bains's skills text) — breaks QA item 1 (unique IDs); needs Iain's ruling on which is correct.
+- Fixes: registers, canonical records and PQQ draft updated; INV-0028 rate text amended.
+- Residual: price schedule rework; Bains written confirmation; bidder-level PQQ declarations; duplicate PER-03.
+
+## Consistency audit — 26/10/17 (3) (T22-VAIMP repricing)
+
+- Findings: (1) an earlier entry today wrongly set Condon to £650 — corrected to £750 in registers and records. (2) The honorarium conflicts with REV3 and the 15 Oct assumptions ("no blanket interview incentives") — wording must present it as a capped allowance for freelance participants. (3) The £500 accessibility allowance is no longer priced. (4) REV3, the PQQ-adjacent text and the price schedule now disagree on days, rates and total until REV4. (5) Bennett's £650 is carried over, not restated. (6) Kunesch's naming/availability and Bains's written consent remain unconfirmed.
+- Fixes: schedule rebuilt with formulas and recalculated in LibreOffice (£58,900; milestone fixed-cost phasing check OK).
+- Residual: REV4 of the tender response; accessibility-line decision; incentive wording; Kunesch/Bains confirmations.
+
+## Consistency audit — 26/10/17 (4) (declarations, incentive wording)
+
+- Findings: the "no blanket interview incentives" statement had no ITT source (only an author assumption); Bains caveat superseded by Iain's instruction. REV3/REV4 are Letter, 9.5pt, 3.17cm margins against an ITT requirement of A4, ≥11pt, ≥2.5cm, case studies ≤2pp, proposal ≤3pp (REV4 renders at 16pp; proposal ~6pp, case studies ~3pp) — format and length non-compliance carried from REV3, open.
+- Fixes: registers, PER-03, schedule assumptions and PQQ aligned. Residual: REV4 lane review results; format/length compliance.
+
+## Advisory lane review — 26/10/17 (T22-VAIMP: REV4 schedule vs method correspondence)
+
+Lanes run: deepthink, thad, blindspot, sheldon, shaz, fok (grey not run — no buyer/competitor intel in scope; sark/load-the-team, wishful, skin not run — scope was schedule-vs-method correspondence; user asked for the check, not the full tender set). All advisory.
+
+- DEEPTHINK: all arithmetic reconciles (92 days, £56,400 + £2,500 = £58,900; stages £17,900/£32,600/£8,400; reserve 8 days £5,200). READY-WITH-FIXES: surge claim has no days; no interview count behind 30; McCadden described three ways in 4/4/2 days; Kunesch May day and April timing unexplained; "part-time" unverifiable; travel £1,000 unverified against the trip plan.
+- THAD: BLOCK — DELIVERY/PROOF FAILURE on internal correspondence (not purpose); traceability gaps: surge without days, McCadden under-resourced, training of the V&A researcher unowned, instrument ownership conflict (Bains vs McCadden), external sample frame unresolved, six-site coverage unresourced, deliverables without owner (repeatable calculations, claim-to-proof register, option register), Condon scope. READY-WITH-FIXES once fixed.
+- BLINDSPOT: ITT sets no incentive/ethics rule (silence, not endorsement); "non-V&A routes" contradicts V&A-held cohorts; contingency double-counts Kunesch; honorarium creates a two-tier incentive; price (10%, lowest=full) is last-scored — Kunesch stream + honorarium add £4,500; case-study gate (6/10, scored first) is the bigger risk; £60k cap is from the buyer's price template, not the ITT text.
+- SHELDON: P79-CELL source says Kunesch ran Layer 4 expert interviews (5 of ~20 at interim) — "non-benefit fieldwork" and "some work with V&A Storehouse" are Iain-note only; no Kunesch row on P79 (now INV-0032); "UCL PhD" status wording partial; Bains operating-model and Case Study 1 verbs unevidenced; "commissioned by LLDC with Loughborough and UCL" vs LLDC sole client; McCadden Southampton claim unsourced; Condon CBN vs Adroit. READY-WITH-FIXES.
+- SHAZ: NEEDS-MORE-WORK before fixes: 30 interviews infeasible in 7 days (~12–15 realistic); recruitment/consent/GDPR/payment mechanics unowned; V&A researcher hand-offs unscheduled; McCadden 4 analysis days over-loaded; travel/adjustments thin (headroom £1,100).
+- FOK: interviews cannot carry the additionality claim (no prevalence, selection on outcome); selection and incentive bias; survey quotas/CIs exceed the frame; "six-site coverage" over-promised; dependencies unscheduled (researcher unhired, GDPR gate).
+
+Applied to REV4 (see CHANGELOG 26/10/17 (5)). Fixes the lanes proposed that were NOT applied because they need Iain: planned interview count; whether the honorarium applies to both streams; whether to price an explicit Kunesch/McCadden reserve; trip plan; page-limit and format compliance; evidence for CELL/Storehouse wording and Case Study 1/Bains verbs; Southampton claim; Condon label. Note: sheldon's suggestion to tag Bains's consent CONFIRM was not applied — Iain closed that point.
+- Format finding (author-spotted, still open): REV3/REV4 are Letter, 9.5pt, 3.17cm margins; ITT needs A4, ≥11pt, ≥2.5cm, case studies ≤2pp, proposal ≤3pp, team ≤~300 words each. REV4 renders at 16pp, proposal ≈ pp 5–10.
+
+## Consistency audit — 26/10/17 (6) (REV5 allocation and format)
+
+- Findings: previous interview estimate (12–15) was set from a single-researcher capacity test and was too light for the three-researcher programme; REV4 breached the ITT format and page limits; prior round skipped grey, wishful, sark and skin. REV5 corrects all three. Full-lane results are recorded in the entry that follows once the lanes report.
+- Residual: lane findings; Kunesch written naming/availability; referees; Formal Offer and bidder PQQ declarations.
+
+## Advisory lane review — 26/10/17 (T22-VAIMP: full set on REV5, then REV6)
+
+Lanes run on REV5: sark/load-the-team, blindspot, deepthink, sheldon, wishful, thad, shaz, skin, fok, grey (all advisory) plus an independent panel scorer. Scores /10: skin 6; thad 6.5 (BLOCK—PRODUCT FAILURE, minor, curable); fok 7; grey 6; sark 6.5; blindspot 5.5; shaz 5.5; wishful 6 (FEASIBLE WITH CONDITIONS); deepthink 6.5; sheldon 5. Panel scorer (quality criteria only): case studies 6.5 / team 7 / proposal 7 = 62/90; REV6 re-score 6 / 7 / 7.5 = 63.5/90. Price and win probability are NOT scored: they depend on rivals' bids, which are unknown. The hypothetical £45k rival and the win-probability estimates were Claude's invention and are withdrawn.
+Convergent findings (fixed in REV6): brief outputs and Key Questions not mapped; Q4 and longitudinal unanswered; no storytelling/show-and-tell/IIPP; Kunesch coding load and surge claim unfunded; case-study deliverable unowned; final stage thin; reserve days consumed by check-ins; V&A researcher unverified; recruitment route contradicted GDPR reality; honorarium rule absent; referees unconfirmed in case studies (the 6/10 gate risk); Wakefield/LCR "measured" and "adopted" wording; Salford client; CELL V&A claims not in repo; Bennett ELFC BOP structure, ANDs board role.
+Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kunesch written confirmation; Green Book/Cultural Heritage Capital credential for Bennett/Condon; travel £1,000 sufficiency (wishful: £1,500); CELL V&A wording against the final business case; McCadden £6m programme attribution (Vision+Media vs Business Link West Midlands in P54); Southampton lines; music-study commissioner; V&A researcher start date and capacity; honorarium credit-back term. Not applied: sheldon/blindspot suggestions to challenge Bains's statements (Iain: accurate). Formal Offer draft date check.
+
+## Consistency audit — 26/10/17 (8) (REV7: scoring mechanism and referee slate)
+
+- Findings: previous rounds scored against paraphrased weightings and an invented competitor price; the ITT's real key ties scores 6–10 to exceeding the minimum "in areas that add value", so REV7 now states innovation (evidence-graded spillover register), spillover channels with instruments, and the three impact tests explicitly. Referees: the register holds Ben Cook, Sarah Lovell, Kevin McManus, Andrew Gates and Helen Cross; REV6 had left three case-study referees blank by using sector-mapping studies with no named referee.
+- Residual: CELL referee name; Green Book credential evidence; Beatles and SYMCA wording check (sheldon, under way); fee/schedule unchanged from REV6 (£59,200).
+
+## Advisory lane review — 26/10/17 (9) (REV7: ITT-key panel score and case-study evidence)
+
+- Panel on the ITT key (quality criteria only): case studies 7, team 7, proposal 7 (collaboration 6, measurement 8, programme 7) = 63/90. Measurement scored highest: the evidence-graded spillover register, seven-channel table with limits and the three impact tests exceed the brief. Shortfalls named: CELL referee blank; no museum-sector comparator in the case studies; Green Book credential implied not shown; in-person attendance (now added).
+- SHELDON on REV7 (6/10, PARTIALLY PROVEN): Beatles client contradicted (fixed); SYMCA 'natural experiment', 'first time', dates (fixed; 'at pace' dropped pending the Sept 2023 proposal); CELL V&A pilot details and 'showed' UNKNOWN in the repo (softened; Drive/OneDrive not checked); Wakefield and LCR wording (fixed). Not applied: any challenge to Bains's statements.
+
+## Consistency audit — 26/10/17 (10) (case-study slate)
+
+- Finding: REV7 reinstated the Beatles study (visitor economy), contradicting the agreed theme; cause: slate taken from the 26/10/08 record without re-checking the 14 Oct Version C decision. Fixed (music economy restored). Lesson: before reusing an earlier decision, check for a later one on the same point.
+- Residual: referee names for CELL and the music economy study; the earlier scorer/sheldon results were on the REV7 text that included Beatles — case studies 4 now rely on the REV6 music wording (figures traced in the round-2 sheldon check).
+
+## Consistency audit — 26/10/17 (11)
+
+- Referee gaps closed on Iain's instruction (Hitchen, Cross; Cook, Lovell, Gates already named). Green Book methodology now stated for Bennett and Condon on Iain's authority (not independently evidenced in the repo). Residual: panel re-score not re-run on this text.
+
+## Consistency audit — 26/10/17 (12)
+
+- Correction: music economy referee is Dr Mathew Flynn (not Helen Cross, who is the Digital and Creative Industries mapping referee). Cause: I matched Cross to the music study because both are Liverpool City Region, without a source. Fixed in REV7 and PR-04.
+
+## Advisory lane review — 26/10/17 (13) (REV7 panel and innovation check)
+
+- Panel (ITT key, quality only): 7 / 8 / 7.7 = about 68/90. To move up a band: case studies — re-angle each to individual-level institution-to-creative chains; team — heritage/museum evidence and committed storytelling; collaboration — creatives as co-designers and a fallback independent of the V&A researcher; impact — a stronger counterfactual device and pre-specified decision-changing findings.
+- Innovation check: too modest; claims now tied to checked register facts (595 claims, 69 projects; 29 with rival explanations, 59 with disconfirming evidence recorded; C-G2-041 forecast not confirmed). Overclaims avoided as listed in CHANGELOG (13).
+
+## Consistency audit — 26/10/17 (14)
+
+- Gap closed: storytelling had been an optional extra; now a committed method with named roles. Unchecked externally: Unwatchable (Guardian 28/09/2011) and C4CC web page could not be fetched; wording rests on Iain's statements and on the existing REV3 Condon fact (37 start-ups). Audio/film portraits are within lead days with no separate cost line.
+
+## Consistency audit — 26/10/17 (15) (folder REV7 manual edits → REV8)
+
+- Findings as in CHANGELOG (15). Open: Hitchen and Cook job titles (not on record); 'Bennett devised and developed the methodology' (music study) sits beside McCadden's 'developed the four-tier workforce model' (NE Scotland mapping) — consistent only if the music study's methodology is distinct; Bains 'Southampton governance review' vs McCadden 'strategic review of Cultural & Creative Industries' may be different assignments.
+- Layout: LibreOffice render of REV8 (A4, Arial/Liberation Sans 11pt, 2.5cm): case studies about 1.05 pages, proposal about 2.4 pages — within limits with slack; Iain sees both over limit in Word, so a Word-specific layout difference is likely (cannot be reproduced here).
+
+## Consistency audit — 26/10/17 (16)
+
+- Findings: page margins were 0.005mm under the ITT minimum; headings used theme fonts (Word would render them differently from the LibreOffice check); blank page-break paragraphs could create a blank page. Fixed. Hitchen and Cook titles: Iain says he supplied them but they are not in this session's context or the Drive/repo records searched; only Hitchen's Loughborough professorship found.

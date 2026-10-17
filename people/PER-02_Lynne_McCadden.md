@@ -12,7 +12,10 @@ Canonical record for assembling tender-specific bios and CVs. Facts below are ev
 | location | Manchester (WB Skills bio) |
 | organisation | Own consultancy + Associate of The Fifth Sector |
 | bio sources | `Active Proposals/Proposals info/Associates/Lynne McCadden CV.pdf` and `Lynne McCadden CV_April 22.docx` (OneDrive); `2026 BC WB Skills proposal/Lynne McCadden.docx` (latest bio, Methodology Consultant); `Lynne McCadden Biog - May 2020 for SODA.docx`; `Lynne McCadden Biog - Jan 2019 for BOP.docx`; `Appendix Q3b_CV-Lynne McCadden` (2024 TVCA Creative Freelance bid); team CV docs for Somerset 2022, Sunderland 2022, TVCA-0244 Production Village 2023 |
-| consent to name in bids | UNKNOWN — repeatedly named in submitted bids (Somerset, Sunderland, TVCA 2023/2024, WB Skills), so consent in practice; formal confirmation still to record |
+| consent to name in bids | ESTABLISHED for T22-VAIMP (email 26/10/17); otherwise UNKNOWN — repeatedly named in submitted bids (Somerset, Sunderland, TVCA 2023/2024, WB Skills), so consent in practice; formal general confirmation still to record |
+| contracting entity (T22-VAIMP) | Morra Ltd — confirmed by email 26/10/17. Morra Limited, company no. 07715297, 13 Glastonbury Avenue, Hale Barns, Altrincham, Cheshire WA15 8QB (Iain 26/10/17). T22 day rate £600, 14 days (REV6: 2/8/4; about 8 interviews) |
+| contact | lynne@thefifthsector.co.uk |
+| procurement declarations (T22-VAIMP, 26/10/17) | Confirmed for Morra Ltd and herself: not on the debarment list or UK Sanctions List, no Procurement Act 2023 exclusion ground (PQQ 2.1–2.5); willing to sign a data processing agreement and accept DBS checks at the V&A's discretion (PQQ 3.3.2–3.3.3). Source: `Lynne McCadden.eml`, Drive folder `2026 V&A` |
 
 ## Career (dated, sourced — from her CVs)
 
@@ -53,8 +56,8 @@ Bid-written evidence: the 2026 WB Skills bio says "many projects with The Fifth 
 
 ## Open fields
 
-- Day rate and current availability
+- Current availability beyond T22 (T22 day rate £600, Iain 26/10/17)
 - Which register project holds the Greater Manchester "Skills Needs Evaluation of the creative tech ecosystem" — candidates P21-MMUCCI or unregistered
 - 2026 BC WB Skills — needs a project row (British Council? confirm client)
 - P30 vs P84 Herefordshire — which row her deep dive belongs to
-- Formal consent to name in bids
+- Formal general consent to name in bids (T22-VAIMP consent recorded 26/10/17)
