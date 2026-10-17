@@ -8,7 +8,7 @@ Canonical record for assembling tender-specific bios and CVs. Facts below are ev
 |---|---|
 | person_id | PER-07 |
 | name | Nikolas Kunesch |
-| status | EXTERNAL_PARTNER — PhD researcher (UCL; upgraded from MPhil to the PhD track, Oct 2026); proposed research support on T22-VAIMP |
+| status | EXTERNAL_PARTNER — researcher at UCL working towards a PhD (his 26/10/16 email says he has just upgraded from MPhil to the PhD track; an earlier lane note said 'final-year' — wording to confirm); proposed research support on T22-VAIMP |
 | organisation | Independent |
 | bio sources | None on file yet — short bio, day rate and availability were requested in `261015 note to Nikolas Kunesch - research support role.md` |
 | consent to name in bids | Treated as adopted by Iain 26/10/17 (day rate £300 given by Iain); his own written naming consent not on file. His 26/10/16 reply says he would love to join the team but does not confirm naming, rate or availability |
@@ -20,12 +20,12 @@ Canonical record for assembling tender-specific bios and CVs. Facts below are ev
 
 | Project | Role | Evidence |
 |---|---|---|
-| P79-CELL (Olympic Park; incl. some work with V&A Storehouse) | External-cohort / non-benefit evidence work (Layer 4) — per Iain's 26/10/15 note to him and Iain's 26/10/16 email to McCadden | `261015 note to Nikolas Kunesch - research support role.md`; register project P79-CELL (confirm his involvement is recorded in `16_involvement.csv` before citing) |
+| P79-CELL (LLDC; COMPLETED, LEAD_CONSULTANT, DIRECT) | Layer 4 qualitative primary research: expert interviews (Nikolas Kunesch / UCL) — in progress at the interim stage (5 of ~20 interviews complete); remaining ~15 assigned to him | `extracted_text/P79-cell-buscase_v1.txt` (lines ~193, 251) — INV-0032. Iain's 26/10/15 note and 26/10/16 email describe this as non-benefit (non-conversion) fieldwork and 'some work with V&A Storehouse' — those two descriptions are Drive-only and NOT in the register source: confirm against the final business case before REV4 relies on them |
 | T22-VAIMP (bid) | Proposed research support, 10 days at £300/day (Iain 26/10/17): external-cohort interviews, coding against McCadden's framework, transcription QA, surge capacity | `261015 VANDA bid - decisions to commit.md` item 1 (Option A/B/C decision due 26/10/17) |
 
 ## Tender-relevant angles
 
-- Directly analogous fieldwork on reaching and evidencing non-benefit (inactive and lapsed users, non-converting encounters, paused pilots) — the part of the V&A brief the V&A researcher's channels cannot reach
+- Qualitative interviewing for CELL Layer 4 (expert interviews, evidenced); Iain describes it as directly analogous to reaching and evidencing non-benefit (not yet evidenced in the register) (inactive and lapsed users, non-converting encounters, paused pilots) — the part of the V&A brief the V&A researcher's channels cannot reach
 
 ## Open fields
 

@@ -978,3 +978,12 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Jon Bains / Obsolete.com Ltd: consent and PQQ declarations (exclusion grounds, DPA, DBS) recorded as given (verbal, relayed by Iain) in `15_people.csv`, INV-0031, PER-03 record and T22 notes; PQQ draft 2026-10-17 now answers 2.1–2.4 and 3.3.2–3.3.3 for all four sub-consultants. Earlier caveat ("verbal consent only") withdrawn.
 - ITT checked (`SRC-R5-172`): no rule on participant incentives; clarification Q8 only says the V&A researcher will conduct interviews. The "no blanket incentives" line was a drafting assumption and is removed from the price schedule assumptions; the £500 accessibility line is superseded by the £1,500 honorarium.
 - REV4 of the tender response drafted (in Drive-side working files; lane review under way).
+
+## 26/10/17 (5) — REV4 drafted; six-lane advisory review of schedule vs method
+
+**Trigger:** "draft REV4 with the new fee and team; run the agents to check that the revised schedule and proposed method correspond".
+
+- REV4 (Word, Drive-side working file) built from REV3: fee £58,900, new team and day table (Bennett 33, Bains 33, McCadden 10, Kunesch 10, Condon 6), stage table with a Kunesch column, new honorarium/travel lines, Kunesch team entry and a three-role qualitative split in the method.
+- Lanes run (all advisory): deepthink, thad, blindspot, sheldon, shaz, fok. Arithmetic reconciles across REV4 and the schedule. Wording fixes applied to REV4: no "surge/absorbed" claim, planned 12–15 external interviews (30 = honorarium ceiling), V&A-invited recruitment route and inception-pack gate for consent/controller/payment, adults-only external cohort, additionality softened, survey quota/CI claims softened, six-site coverage softened, McCadden's senior fieldwork removed, training/calibration assigned, Bains survey-vs-interview ownership separated, Condon per-stage review scope, Kunesch bio cut to register-evidenced wording.
+- Register: INV-0032 (Kunesch on P79-CELL, from the CELL interim presentation); PER-07 evidence notes corrected (Layer 4 = expert interviews in the source; 'non-benefit' and 'Storehouse' wording is Iain's note only).
+- Not applied (need Iain): page/format compliance, interview count, honorarium scope, travel plan, evidence checks on CELL claims, Condon organisation label.
