@@ -12,6 +12,7 @@ One canonical record per named person (`PER-XX_Name.md`). Tender bios and CVs ar
 | PER-04 | (record to build — Patrick Towell) | External partner (audience data) |
 | PER-05 | (record to build — Lindsay Butcher) | What & Why co-lead with Bains on T24/T25 |
 | PER-06 | `PER-06_Brian_Condon.md` | External partner — independent economic/methods reviewer (T22-VAIMP); PlaceMUS XR Strategic Advisory Board |
+| PER-07 | `PER-07_Nikolas_Kunesch.md` | External partner — proposed research support (T22-VAIMP); PhD researcher, CELL fieldwork |
 
 ## Bio and CV asset library (OneDrive)
 

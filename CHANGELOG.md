@@ -941,3 +941,14 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - **Sweep self-update (26/10/14)**: `run_sweep.sh` now runs `git pull --ff-only` (non-fatal, no prompts) before each sweep so the Mac stays current with main; triggered remotely via the sweep_requests queue for immediate reconciliation.
 - **PER-06 Brian Condon registered (26/10/15)**: Dr Brian Condon (CBN) confirmed as T22-VAIMP independent economic/methods reviewer — naming, £750/day ×6 days and availability all agreed. New canonical record `people/PER-06_Brian_Condon.md`; `15_people.csv` row added; `16_involvement.csv` INV-0028; `08_tenders.csv` T22 notes updated; `people/README.md` records table updated. Drive side: REV3 response + 15 Oct PQQ + 15 Oct price schedule name him; bio cites PlaceMUS XR Strategic Advisory Board role (Horizon Europe ECCCH — designated financial-stakeholder reviewer of its primary research). McCadden naming/availability remains CONFIRM.
 - **T22-VAIMP lane review (26/10/15)**: nine advisory lanes run on the proposed Kunesch research-support addition per AGENTS.md tender protocol — verdict READY-WITH-FIXES. Findings recorded in `tier2_qa_review.md`; T22 notes updated; RH-26-10-15-C4 logged.
+
+## 26/10/17 — T22-VAIMP sub-consultant details and consents recorded (Kunesch, McCadden/Morra Ltd, Condon)
+
+**Trigger:** "update with the address, consents and email details of Kunesch, McCadden (Morra Ltd) and Condon" (Drive folder `2026 V&A`).
+
+- Read the three reply emails. Each confirms: not on the debarment or UK Sanctions List, no Procurement Act 2023 exclusion ground, willing to sign a data processing agreement and accept DBS checks at the V&A's discretion (PQQ 2.1–2.5, 3.3.2–3.3.3 as to the individuals).
+- `15_people.csv`: PER-02 (contracts as Morra Ltd; `named_in_bids_ok=Y` for T22 only), PER-06 (contracts as himself; contact), new PER-07 Nikolas Kunesch (`named_in_bids_ok=UNKNOWN` — his reply gives no naming, rate or availability).
+- `16_involvement.csv`: INV-0029 (PER-02, T22-VAIMP), INV-0030 (PER-07, T22-VAIMP, not yet confirmed named). `08_tenders.csv` T22 notes appended.
+- `people/`: PER-02 and PER-06 identity tables updated; new `PER-07_Nikolas_Kunesch.md`; README table row.
+- Home addresses (Condon, Kunesch) deliberately NOT written to the repo, because it is mirrored to GitHub; they are in the Drive folder note `261017 VANDA sub-consultant details and consents.md`. Morra Ltd address and company number not yet received.
+- Not changed: PQQ draft docx (CONFIRM items remain for Iain/Jon; Part 2/3 also need answers for the bidders themselves). Kunesch naming gate (17 Oct) still open.
