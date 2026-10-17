@@ -968,3 +968,8 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 
 - Findings: previous rounds scored against paraphrased weightings and an invented competitor price; the ITT's real key ties scores 6–10 to exceeding the minimum "in areas that add value", so REV7 now states innovation (evidence-graded spillover register), spillover channels with instruments, and the three impact tests explicitly. Referees: the register holds Ben Cook, Sarah Lovell, Kevin McManus, Andrew Gates and Helen Cross; REV6 had left three case-study referees blank by using sector-mapping studies with no named referee.
 - Residual: CELL referee name; Green Book credential evidence; Beatles and SYMCA wording check (sheldon, under way); fee/schedule unchanged from REV6 (£59,200).
+
+## Advisory lane review — 26/10/17 (9) (REV7: ITT-key panel score and case-study evidence)
+
+- Panel on the ITT key (quality criteria only): case studies 7, team 7, proposal 7 (collaboration 6, measurement 8, programme 7) = 63/90. Measurement scored highest: the evidence-graded spillover register, seven-channel table with limits and the three impact tests exceed the brief. Shortfalls named: CELL referee blank; no museum-sector comparator in the case studies; Green Book credential implied not shown; in-person attendance (now added).
+- SHELDON on REV7 (6/10, PARTIALLY PROVEN): Beatles client contradicted (fixed); SYMCA 'natural experiment', 'first time', dates (fixed; 'at pace' dropped pending the Sept 2023 proposal); CELL V&A pilot details and 'showed' UNKNOWN in the repo (softened; Drive/OneDrive not checked); Wakefield and LCR wording (fixed). Not applied: any challenge to Bains's statements.
