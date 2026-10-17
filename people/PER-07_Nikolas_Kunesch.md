@@ -21,7 +21,7 @@ Canonical record for assembling tender-specific bios and CVs. Facts below are ev
 | Project | Role | Evidence |
 |---|---|---|
 | P79-CELL (LLDC; COMPLETED, LEAD_CONSULTANT, DIRECT) | Layer 4 qualitative primary research: expert interviews (Nikolas Kunesch / UCL) — in progress at the interim stage (5 of ~20 interviews complete); remaining ~15 assigned to him | `extracted_text/P79-cell-buscase_v1.txt` (lines ~193, 251) — INV-0032. Iain's 26/10/15 note and 26/10/16 email describe this as non-benefit (non-conversion) fieldwork and 'some work with V&A Storehouse' — those two descriptions are Drive-only and NOT in the register source: confirm against the final business case before REV4 relies on them |
-| T22-VAIMP (bid) | Proposed research support, 12 days at £300/day (REV5: 2 planning / 9 fieldwork / 1 refinement; about 20 external-cohort interviews): external-cohort interviews, coding against McCadden's framework, transcription QA, surge capacity | `261015 VANDA bid - decisions to commit.md` item 1 (Option A/B/C decision due 26/10/17) |
+| T22-VAIMP (bid) | Proposed research support, 16 days at £300/day (REV6: 2 planning / 13 fieldwork / 1 refinement; about 20 external-cohort interviews): external-cohort interviews, coding against McCadden's framework, transcription QA, surge capacity | `261015 VANDA bid - decisions to commit.md` item 1 (Option A/B/C decision due 26/10/17) |
 
 ## Tender-relevant angles
 
