@@ -1000,3 +1000,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 
 - Findings as in CHANGELOG (15). Open: Hitchen and Cook job titles (not on record); 'Bennett devised and developed the methodology' (music study) sits beside McCadden's 'developed the four-tier workforce model' (NE Scotland mapping) — consistent only if the music study's methodology is distinct; Bains 'Southampton governance review' vs McCadden 'strategic review of Cultural & Creative Industries' may be different assignments.
 - Layout: LibreOffice render of REV8 (A4, Arial/Liberation Sans 11pt, 2.5cm): case studies about 1.05 pages, proposal about 2.4 pages — within limits with slack; Iain sees both over limit in Word, so a Word-specific layout difference is likely (cannot be reproduced here).
+
+## Consistency audit — 26/10/17 (16)
+
+- Findings: page margins were 0.005mm under the ITT minimum; headings used theme fonts (Word would render them differently from the LibreOffice check); blank page-break paragraphs could create a blank page. Fixed. Hitchen and Cook titles: Iain says he supplied them but they are not in this session's context or the Drive/repo records searched; only Hitchen's Loughborough professorship found.
