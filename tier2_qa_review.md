@@ -927,3 +927,9 @@ Turn contract: review the proposed adoption of Nikolas Kunesch (CELL RA, final-y
 - Findings: Condon's rate fell £750→£650, so the 15 Oct price schedule and the £59,000 fee arithmetic no longer reconcile (all four rates now differ). Jon Bains's consent is verbal only, so the PQQ does not assert exclusion/DPA/DBS declarations for him. Pre-existing and not touched: `15_people.csv` has two rows with id PER-03 (line 4 names Sara Sartorius with Jon Bains's skills text) — breaks QA item 1 (unique IDs); needs Iain's ruling on which is correct.
 - Fixes: registers, canonical records and PQQ draft updated; INV-0028 rate text amended.
 - Residual: price schedule rework; Bains written confirmation; bidder-level PQQ declarations; duplicate PER-03.
+
+## Consistency audit — 26/10/17 (3) (T22-VAIMP repricing)
+
+- Findings: (1) an earlier entry today wrongly set Condon to £650 — corrected to £750 in registers and records. (2) The honorarium conflicts with REV3 and the 15 Oct assumptions ("no blanket interview incentives") — wording must present it as a capped allowance for freelance participants. (3) The £500 accessibility allowance is no longer priced. (4) REV3, the PQQ-adjacent text and the price schedule now disagree on days, rates and total until REV4. (5) Bennett's £650 is carried over, not restated. (6) Kunesch's naming/availability and Bains's written consent remain unconfirmed.
+- Fixes: schedule rebuilt with formulas and recalculated in LibreOffice (£58,900; milestone fixed-cost phasing check OK).
+- Residual: REV4 of the tender response; accessibility-line decision; incentive wording; Kunesch/Bains confirmations.

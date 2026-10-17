@@ -21,7 +21,7 @@ Canonical record for assembling tender-specific bios and CVs. Facts below are ev
 | Project | Role | Evidence |
 |---|---|---|
 | P79-CELL (Olympic Park; incl. some work with V&A Storehouse) | External-cohort / non-benefit evidence work (Layer 4) — per Iain's 26/10/15 note to him and Iain's 26/10/16 email to McCadden | `261015 note to Nikolas Kunesch - research support role.md`; register project P79-CELL (confirm his involvement is recorded in `16_involvement.csv` before citing) |
-| T22-VAIMP (bid) | Proposed research support, 9–10 days at £300/day (Iain 26/10/17): external-cohort interviews, coding against McCadden's framework, transcription QA, surge capacity | `261015 VANDA bid - decisions to commit.md` item 1 (Option A/B/C decision due 26/10/17) |
+| T22-VAIMP (bid) | Proposed research support, 10 days at £300/day (Iain 26/10/17): external-cohort interviews, coding against McCadden's framework, transcription QA, surge capacity | `261015 VANDA bid - decisions to commit.md` item 1 (Option A/B/C decision due 26/10/17) |
 
 ## Tender-relevant angles
 

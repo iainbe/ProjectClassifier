@@ -961,3 +961,12 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - `VANDA_PQQ_DRAFT_UNSIGNED_2026-10-17.docx` (new file; 2026-10-15 draft left untouched): 1.12 lists the lead bidder and four sub-consultants; 2.1–2.4 and 3.3.2–3.3.3 answered for Morra, Condon and Kunesch only; signatory is Iain Bennett alone, signature still UNSIGNED. Home addresses and day rates deliberately not put in the PQQ.
 - Jon Bains's consent is recorded as VERBAL (INV-0031, `IAIN_CONFIRMED`), not written; no exclusion/DPA/DBS declaration is claimed for him or for The Fifth Sector Limited. 1.10, 1.11, 1.14, 1.15, 1.13 and 2.5 left as CONFIRM.
 - Open: price schedule and £59k fee arithmetic still use the old rates; the docx has to be placed in the Drive folder by Iain (too large for the Drive connector to upload).
+
+## 26/10/17 (3) — T22-VAIMP repriced: £58,900 (price schedule draft 2026-10-17)
+
+**Trigger:** "Trim McCadden to 10 days, put Kunesch at 10 days. Maintain Condon at £750; reduce Bennett and Bains planning days … £50 honorarium for up to 30 freelance research participants and £1,000 travel … rates are those charged to V&A … under the £60k limit".
+
+- New allocation: Bennett 33d @£650, Bains 33d @£650 (planning 11→10 each), McCadden 10d @£600 (from 12), Kunesch 10d @£300 (planning 2 / analysis 7 / refinement 1), Condon 6d @£750 (maintained). 92 days, £56,400 professional.
+- Fixed costs: participant honorarium 30 × £50 = £1,500 + travel £1,000 = £2,500 (replaces the unspecified £2,500; separate £500 accessibility line dropped). Total £58,900 excl VAT, £1,100 under the £60,000 cap. Milestones £17,900 / £32,600 / £8,400.
+- Corrects this session's earlier entry that recorded Condon at £650 — his rate stays £750. People registers, involvement rows, canonical records and T22 notes aligned.
+- Delivered `VANDA_PRICE_RESOURCE_SCHEDULE_DRAFT_2026-10-17.xlsx` (rebuilt with live formulas; the 15 Oct draft is untouched). REV3 tender response not yet updated (still shows the old days, rates and £59,000).
