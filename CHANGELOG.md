@@ -952,3 +952,12 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - `people/`: PER-02 and PER-06 identity tables updated; new `PER-07_Nikolas_Kunesch.md`; README table row.
 - Home addresses (Condon, Kunesch) deliberately NOT written to the repo, because it is mirrored to GitHub; they are in the Drive folder note `261017 VANDA sub-consultant details and consents.md`. Morra Ltd address and company number not yet received.
 - Not changed: PQQ draft docx (CONFIRM items remain for Iain/Jon; Part 2/3 also need answers for the bidders themselves). Kunesch naming gate (17 Oct) still open.
+
+## 26/10/17 (2) — T22-VAIMP contracting parties, day rates and PQQ draft updated
+
+**Trigger:** "Update the PQQ draft with these confirmations … Jon Bains also needs to be appended (he has verbally confirmed consent - commit it)".
+
+- Day rates (Iain): Kunesch £300, Morra Limited £600, Condon £650 (supersedes £750 agreed 26/10/15), Jon Bains/Obsolete.com Ltd £650. Morra Limited company no. 07715297 and address, Obsolete.com Ltd company no. 15352801 and address recorded in the people registers and canonical records.
+- `VANDA_PQQ_DRAFT_UNSIGNED_2026-10-17.docx` (new file; 2026-10-15 draft left untouched): 1.12 lists the lead bidder and four sub-consultants; 2.1–2.4 and 3.3.2–3.3.3 answered for Morra, Condon and Kunesch only; signatory is Iain Bennett alone, signature still UNSIGNED. Home addresses and day rates deliberately not put in the PQQ.
+- Jon Bains's consent is recorded as VERBAL (INV-0031, `IAIN_CONFIRMED`), not written; no exclusion/DPA/DBS declaration is claimed for him or for The Fifth Sector Limited. 1.10, 1.11, 1.14, 1.15, 1.13 and 2.5 left as CONFIRM.
+- Open: price schedule and £59k fee arithmetic still use the old rates; the docx has to be placed in the Drive folder by Iain (too large for the Drive connector to upload).

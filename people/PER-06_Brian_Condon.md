@@ -33,7 +33,7 @@ Canonical record for assembling tender-specific bios and CVs. Facts below are ev
 
 | Project | Role | Evidence |
 |---|---|---|
-| T22-VAIMP V&A Creative Industries Impact Study (bid) | Independent economic and methods reviewer — 6 days at £750/day, two at each work stage (inception, interim, final): economic protocol, sampling frame, contribution evidence, calculations, final interpretation | `261014 note to Brian Condon - reviewer role.md`; confirmation 26/10/15 |
+| T22-VAIMP V&A Creative Industries Impact Study (bid) | Independent economic and methods reviewer — 6 days at £650/day (Iain 26/10/17; was £750/day agreed 26/10/15), two at each work stage (inception, interim, final): economic protocol, sampling frame, contribution evidence, calculations, final interpretation | `261014 note to Brian Condon - reviewer role.md`; confirmation 26/10/15 |
 
 ## Tender-relevant angles
 
@@ -48,5 +48,5 @@ Canonical record for assembling tender-specific bios and CVs. Facts below are ev
 - Organisation label to use: the REV3 bio says CBN, his email signature says Adroit Economics (and he also offers networks.coop) — confirm before the Formal Offer names him
 
 - Contact details for referee/contact purposes (not needed — reviewer, not referee)
-- Day rate beyond T22 (£750/day agreed for T22)
+- Day rate beyond T22 (£650/day for T22 per Iain 26/10/17; supersedes £750)
 - Earlier career history before CBN

@@ -11,6 +11,7 @@ Canonical record for assembling tender-specific bios and CVs. Facts below are ev
 | status | CORE_COLLABORATOR — associate of The Fifth Sector |
 | organisations | Obsolete.com (AI adoption); What & Why LLP (whatandwhy.co.uk) |
 | contact | jon@obsolete.com |
+| T22-VAIMP contracting entity | Obsolete.com Ltd, company no. 15352801, 2 Reservoir Road, London SE4 2NU; day rate £650 (Iain 26/10/17). Consent to inclusion in the PQQ is VERBAL only (relayed by Iain 26/10/17) — no written confirmation and no exclusion/DPA/DBS declaration on file |
 | bio sources in repo | `proposal_docs/2026 Futurecity/Jon Bains - Brief Biography.md`; `Jon Bains Biography.docx` (Futurecity); `Active Proposals/Proposals info/Obsolete/` OneDrive (company decks, Equilibrium model, AI consultation responses); headshot `Associates/Jon Bains Mostly Harmless.jpeg` |
 | consent to name in bids | Y (already named and confirmed on pilot bids per `pilot_tender_assessments.md`) |
 

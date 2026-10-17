@@ -921,3 +921,9 @@ Turn contract: review the proposed adoption of Nikolas Kunesch (CELL RA, final-y
 - Findings: Kunesch's reply confirms exclusion/DPA/DBS but not naming, rate or availability, so `named_in_bids_ok` stays UNKNOWN and INV-0030 is flagged not-yet-confirmed. Condon's organisation label differs between sources (CBN in REV3 bio vs Adroit Economics in his signature; networks.coop also offered). PER-02 consent is recorded for T22 only. CELL (Kunesch's prior work) has no matched register project row.
 - Fixes: PER-02/06/07 records, `15_people.csv`, `16_involvement.csv` and T22 notes updated. Schema-drift check done (field counts 8/9/38 verified; only intended lines changed).
 - Residual: Morra Ltd company number/address; Kunesch naming/rate/availability; Condon organisation label; PQQ 1.10–1.15, 2.x, 3.3.x still CONFIRM in the draft. `check_lifecycle.py` 0 violations; `check_claims_columns.py` 26 (expected baseline). No project or claim data changed, so no eligibility/index regeneration needed.
+
+## Consistency audit — 26/10/17 (2) (T22-VAIMP rates and PQQ update)
+
+- Findings: Condon's rate fell £750→£650, so the 15 Oct price schedule and the £59,000 fee arithmetic no longer reconcile (all four rates now differ). Jon Bains's consent is verbal only, so the PQQ does not assert exclusion/DPA/DBS declarations for him. Pre-existing and not touched: `15_people.csv` has two rows with id PER-03 (line 4 names Sara Sartorius with Jon Bains's skills text) — breaks QA item 1 (unique IDs); needs Iain's ruling on which is correct.
+- Fixes: registers, canonical records and PQQ draft updated; INV-0028 rate text amended.
+- Residual: price schedule rework; Bains written confirmation; bidder-level PQQ declarations; duplicate PER-03.
