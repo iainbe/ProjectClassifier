@@ -1028,3 +1028,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - Iain: Graham Hitchen is the CELL client contact; all referees are green-lit (no further referee queries); funding bodies commissioning on behalf of other organisations is not an issue; all Condon and Bennett evaluations follow Green Book methodology.
 - REV7: CELL referee Graham Hitchen; music economy case restored to 'commissioned by Liverpool City Council and funded by the Combined Authority', referee Helen Cross, Liverpool City Region; Bennett and Condon bios now state Green Book methodology. PR-09 and PR-04 contact names recorded. No brackets remain in the case studies.
+
+## 26/10/17 (12) — Music economy referee corrected
+
+- Iain: Helen Cross is the Digital and Creative Industries mapping referee (P08-LIVDCI), not music economy. The music economy referee is Dr Mathew Flynn, Music Futures and Institute of Popular Music, University of Liverpool. REV7 case 4 and PR-04 corrected (my 26/10/17 (11) entry naming Cross for music was wrong).

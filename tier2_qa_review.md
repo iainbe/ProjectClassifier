@@ -982,3 +982,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/17 (11)
 
 - Referee gaps closed on Iain's instruction (Hitchen, Cross; Cook, Lovell, Gates already named). Green Book methodology now stated for Bennett and Condon on Iain's authority (not independently evidenced in the repo). Residual: panel re-score not re-run on this text.
+
+## Consistency audit — 26/10/17 (12)
+
+- Correction: music economy referee is Dr Mathew Flynn (not Helen Cross, who is the Digital and Creative Industries mapping referee). Cause: I matched Cross to the music study because both are Liverpool City Region, without a source. Fixed in REV7 and PR-04.
