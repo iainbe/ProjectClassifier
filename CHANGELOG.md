@@ -1032,3 +1032,9 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## 26/10/17 (12) — Music economy referee corrected
 
 - Iain: Helen Cross is the Digital and Creative Industries mapping referee (P08-LIVDCI), not music economy. The music economy referee is Dr Mathew Flynn, Music Futures and Institute of Popular Music, University of Liverpool. REV7 case 4 and PR-04 corrected (my 26/10/17 (11) entry naming Cross for music was wrong).
+
+## 26/10/17 (13) — REV7 panel score 68/90; innovation asserted more boldly
+
+- Independent panel on REV7 (ITT key, quality criteria only): case studies 7, team 8, proposal 7.7 (collaboration 7, impact beyond traditional metrics 8, programme 8) = about 68/90. Verdict: credible winning-standard bid, high 7 to 8; weakest link the case studies (only CELL is on the V&A question).
+- Bravery check: REV7 was too modest on the innovation. Applied: 'innovative and tested' with the register's scale (595 claims, 69 projects, typed, graded, rival explanations, disconfirming tests), forecasts held apart from realised results (LCR PF 7.8:1 not confirmed by the final evaluation), opening line asserts what we will tell the V&A; case studies written as short stories. Not claimed: validation, inter-coder reliability, peer review, or museum use of the register (274 of 595 claims still pending review; double-coding not passed).
+- Not applied (would add commitments): creatives' advisory panel in December; comparator/matched non-user device.

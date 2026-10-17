@@ -986,3 +986,8 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/17 (12)
 
 - Correction: music economy referee is Dr Mathew Flynn (not Helen Cross, who is the Digital and Creative Industries mapping referee). Cause: I matched Cross to the music study because both are Liverpool City Region, without a source. Fixed in REV7 and PR-04.
+
+## Advisory lane review — 26/10/17 (13) (REV7 panel and innovation check)
+
+- Panel (ITT key, quality only): 7 / 8 / 7.7 = about 68/90. To move up a band: case studies — re-angle each to individual-level institution-to-creative chains; team — heritage/museum evidence and committed storytelling; collaboration — creatives as co-designers and a fallback independent of the V&A researcher; impact — a stronger counterfactual device and pre-specified decision-changing findings.
+- Innovation check: too modest; claims now tied to checked register facts (595 claims, 69 projects; 29 with rival explanations, 59 with disconfirming evidence recorded; C-G2-041 forecast not confirmed). Overclaims avoided as listed in CHANGELOG (13).
