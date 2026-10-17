@@ -933,3 +933,8 @@ Turn contract: review the proposed adoption of Nikolas Kunesch (CELL RA, final-y
 - Findings: (1) an earlier entry today wrongly set Condon to £650 — corrected to £750 in registers and records. (2) The honorarium conflicts with REV3 and the 15 Oct assumptions ("no blanket interview incentives") — wording must present it as a capped allowance for freelance participants. (3) The £500 accessibility allowance is no longer priced. (4) REV3, the PQQ-adjacent text and the price schedule now disagree on days, rates and total until REV4. (5) Bennett's £650 is carried over, not restated. (6) Kunesch's naming/availability and Bains's written consent remain unconfirmed.
 - Fixes: schedule rebuilt with formulas and recalculated in LibreOffice (£58,900; milestone fixed-cost phasing check OK).
 - Residual: REV4 of the tender response; accessibility-line decision; incentive wording; Kunesch/Bains confirmations.
+
+## Consistency audit — 26/10/17 (4) (declarations, incentive wording)
+
+- Findings: the "no blanket interview incentives" statement had no ITT source (only an author assumption); Bains caveat superseded by Iain's instruction. REV3/REV4 are Letter, 9.5pt, 3.17cm margins against an ITT requirement of A4, ≥11pt, ≥2.5cm, case studies ≤2pp, proposal ≤3pp (REV4 renders at 16pp; proposal ~6pp, case studies ~3pp) — format and length non-compliance carried from REV3, open.
+- Fixes: registers, PER-03, schedule assumptions and PQQ aligned. Residual: REV4 lane review results; format/length compliance.

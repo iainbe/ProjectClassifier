@@ -970,3 +970,11 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Fixed costs: participant honorarium 30 × £50 = £1,500 + travel £1,000 = £2,500 (replaces the unspecified £2,500; separate £500 accessibility line dropped). Total £58,900 excl VAT, £1,100 under the £60,000 cap. Milestones £17,900 / £32,600 / £8,400.
 - Corrects this session's earlier entry that recorded Condon at £650 — his rate stays £750. People registers, involvement rows, canonical records and T22 notes aligned.
 - Delivered `VANDA_PRICE_RESOURCE_SCHEDULE_DRAFT_2026-10-17.xlsx` (rebuilt with live formulas; the 15 Oct draft is untouched). REV3 tender response not yet updated (still shows the old days, rates and £59,000).
+
+## 26/10/17 (4) — Bains declarations recorded as given; incentive/accessibility wording corrected
+
+**Trigger:** Iain: Jon's declarations to be "recorded as given", line closed; accessibility line superseded by the honorarium; the "no blanket interview incentives" assumption was ours.
+
+- Jon Bains / Obsolete.com Ltd: consent and PQQ declarations (exclusion grounds, DPA, DBS) recorded as given (verbal, relayed by Iain) in `15_people.csv`, INV-0031, PER-03 record and T22 notes; PQQ draft 2026-10-17 now answers 2.1–2.4 and 3.3.2–3.3.3 for all four sub-consultants. Earlier caveat ("verbal consent only") withdrawn.
+- ITT checked (`SRC-R5-172`): no rule on participant incentives; clarification Q8 only says the V&A researcher will conduct interviews. The "no blanket incentives" line was a drafting assumption and is removed from the price schedule assumptions; the £500 accessibility line is superseded by the £1,500 honorarium.
+- REV4 of the tender response drafted (in Drive-side working files; lane review under way).
