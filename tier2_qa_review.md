@@ -952,3 +952,8 @@ Lanes run: deepthink, thad, blindspot, sheldon, shaz, fok (grey not run — no b
 
 Applied to REV4 (see CHANGELOG 26/10/17 (5)). Fixes the lanes proposed that were NOT applied because they need Iain: planned interview count; whether the honorarium applies to both streams; whether to price an explicit Kunesch/McCadden reserve; trip plan; page-limit and format compliance; evidence for CELL/Storehouse wording and Case Study 1/Bains verbs; Southampton claim; Condon label. Note: sheldon's suggestion to tag Bains's consent CONFIRM was not applied — Iain closed that point.
 - Format finding (author-spotted, still open): REV3/REV4 are Letter, 9.5pt, 3.17cm margins; ITT needs A4, ≥11pt, ≥2.5cm, case studies ≤2pp, proposal ≤3pp, team ≤~300 words each. REV4 renders at 16pp, proposal ≈ pp 5–10.
+
+## Consistency audit — 26/10/17 (6) (REV5 allocation and format)
+
+- Findings: previous interview estimate (12–15) was set from a single-researcher capacity test and was too light for the three-researcher programme; REV4 breached the ITT format and page limits; prior round skipped grey, wishful, sark and skin. REV5 corrects all three. Full-lane results are recorded in the entry that follows once the lanes report.
+- Residual: lane findings; Kunesch written naming/availability; referees; Formal Offer and bidder PQQ declarations.

@@ -987,3 +987,13 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Lanes run (all advisory): deepthink, thad, blindspot, sheldon, shaz, fok. Arithmetic reconciles across REV4 and the schedule. Wording fixes applied to REV4: no "surge/absorbed" claim, planned 12–15 external interviews (30 = honorarium ceiling), V&A-invited recruitment route and inception-pack gate for consent/controller/payment, adults-only external cohort, additionality softened, survey quota/CI claims softened, six-site coverage softened, McCadden's senior fieldwork removed, training/calibration assigned, Bains survey-vs-interview ownership separated, Condon per-stage review scope, Kunesch bio cut to register-evidenced wording.
 - Register: INV-0032 (Kunesch on P79-CELL, from the CELL interim presentation); PER-07 evidence notes corrected (Layer 4 = expert interviews in the source; 'non-benefit' and 'Storehouse' wording is Iain's note only).
 - Not applied (need Iain): page/format compliance, interview count, honorarium scope, travel plan, evidence checks on CELL claims, Condon organisation label.
+
+## 26/10/17 (6) — REV5: compliant format, three-researcher interview model, new allocation (£59,500)
+
+**Trigger:** Iain: 12–15 interviews too light for three researchers; Condon neither CBN nor Adroit; Bains's verbs accurate; grey and wishful to be run against the brief; re-run the full lane set and score.
+
+- Kunesch 12 days (2/9/1) and McCadden 10 days (3/5/2); Condon £750 held; fixed costs honorarium £1,500 + travel £1,000. Professional £57,000 + £2,500 = £59,500 excl VAT (£500 under the £60k cap); milestones £17,300 / £33,800 / £8,400; 94 days (86 planned + 8 reserve).
+- Interview model: V&A researcher ~25–30 (V&A to confirm), Kunesch ~20 (~3.25h each all-in = his 9 fieldwork days), McCadden ~6 senior: ~50 in all.
+- REV5 rebuilt from scratch to the ITT format: A4, 11pt, 2.5cm margins, case studies 2pp, proposal 3pp, team ≤300 words each (REV3/REV4 were Letter, 9.5pt, 3.17cm and 6pp proposal). Condon described without an organisation; Bains text kept as written.
+- Full lane set re-run on REV5 (sark/load-the-team, blindspot, deepthink, sheldon, wishful, thad, shaz, skin, fok, grey) plus an independent V&A-panel scorer; results to be recorded.
+- Register aligned (15_people, 16_involvement, 08_tenders, PER-02/07).
