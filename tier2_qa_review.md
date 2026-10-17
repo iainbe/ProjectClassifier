@@ -995,3 +995,8 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/17 (14)
 
 - Gap closed: storytelling had been an optional extra; now a committed method with named roles. Unchecked externally: Unwatchable (Guardian 28/09/2011) and C4CC web page could not be fetched; wording rests on Iain's statements and on the existing REV3 Condon fact (37 start-ups). Audio/film portraits are within lead days with no separate cost line.
+
+## Consistency audit — 26/10/17 (15) (folder REV7 manual edits → REV8)
+
+- Findings as in CHANGELOG (15). Open: Hitchen and Cook job titles (not on record); 'Bennett devised and developed the methodology' (music study) sits beside McCadden's 'developed the four-tier workforce model' (NE Scotland mapping) — consistent only if the music study's methodology is distinct; Bains 'Southampton governance review' vs McCadden 'strategic review of Cultural & Creative Industries' may be different assignments.
+- Layout: LibreOffice render of REV8 (A4, Arial/Liberation Sans 11pt, 2.5cm): case studies about 1.05 pages, proposal about 2.4 pages — within limits with slack; Iain sees both over limit in Word, so a Word-specific layout difference is likely (cannot be reproduced here).
