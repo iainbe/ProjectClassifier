@@ -973,3 +973,8 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 
 - Panel on the ITT key (quality criteria only): case studies 7, team 7, proposal 7 (collaboration 6, measurement 8, programme 7) = 63/90. Measurement scored highest: the evidence-graded spillover register, seven-channel table with limits and the three impact tests exceed the brief. Shortfalls named: CELL referee blank; no museum-sector comparator in the case studies; Green Book credential implied not shown; in-person attendance (now added).
 - SHELDON on REV7 (6/10, PARTIALLY PROVEN): Beatles client contradicted (fixed); SYMCA 'natural experiment', 'first time', dates (fixed; 'at pace' dropped pending the Sept 2023 proposal); CELL V&A pilot details and 'showed' UNKNOWN in the repo (softened; Drive/OneDrive not checked); Wakefield and LCR wording (fixed). Not applied: any challenge to Bains's statements.
+
+## Consistency audit — 26/10/17 (10) (case-study slate)
+
+- Finding: REV7 reinstated the Beatles study (visitor economy), contradicting the agreed theme; cause: slate taken from the 26/10/08 record without re-checking the 14 Oct Version C decision. Fixed (music economy restored). Lesson: before reusing an earlier decision, check for a later one on the same point.
+- Residual: referee names for CELL and the music economy study; the earlier scorer/sheldon results were on the REV7 text that included Beatles — case studies 4 now rely on the REV6 music wording (figures traced in the round-2 sheldon check).
