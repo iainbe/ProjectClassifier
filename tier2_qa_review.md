@@ -991,3 +991,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 
 - Panel (ITT key, quality only): 7 / 8 / 7.7 = about 68/90. To move up a band: case studies — re-angle each to individual-level institution-to-creative chains; team — heritage/museum evidence and committed storytelling; collaboration — creatives as co-designers and a fallback independent of the V&A researcher; impact — a stronger counterfactual device and pre-specified decision-changing findings.
 - Innovation check: too modest; claims now tied to checked register facts (595 claims, 69 projects; 29 with rival explanations, 59 with disconfirming evidence recorded; C-G2-041 forecast not confirmed). Overclaims avoided as listed in CHANGELOG (13).
+
+## Consistency audit — 26/10/17 (14)
+
+- Gap closed: storytelling had been an optional extra; now a committed method with named roles. Unchecked externally: Unwatchable (Guardian 28/09/2011) and C4CC web page could not be fetched; wording rests on Iain's statements and on the existing REV3 Condon fact (37 start-ups). Audio/film portraits are within lead days with no separate cost line.
