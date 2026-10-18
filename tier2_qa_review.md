@@ -1004,3 +1004,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/17 (16)
 
 - Findings: page margins were 0.005mm under the ITT minimum; headings used theme fonts (Word would render them differently from the LibreOffice check); blank page-break paragraphs could create a blank page. Fixed. Hitchen and Cook titles: Iain says he supplied them but they are not in this session's context or the Drive/repo records searched; only Hitchen's Loughborough professorship found.
+
+## Consistency audit — 26/10/18 (17)
+
+- Finding: strikethrough in Iain's folder REV7 = deletions; Claude's REV8 reversed some of them and mis-struck two paragraphs. Lesson: check run formatting (strike/underline/highlight) before treating odd text as defects. Fixed; no residual strike runs.
