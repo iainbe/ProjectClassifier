@@ -1056,3 +1056,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (29) (REV19)
 
 - Findings: fee, milestones, day splits and price schedule reconcile at £58,750. Triscott's own PQQ declarations and FACT legal details are not on file; recorded as CONFIRM, not as given. Client-facing price schedule must not disclose supplier cost basis (checked: no cost figure present). Conflict: Bennett is a FACT trustee; declared in her bio and she is presented as an expert, not independent. Residual: two cosmetic page spills; KQ5/KQ7 relevance now rests on SYMCA and Wakefield.
+
+## Advisory lane review — 26/10/18 (30) (REV19 three-panel score)
+
+- Scores as CHANGELOG (30). Single-pass model markings; panels disagreed on the case-slate swap (+0.5 vs -0.3/-0.4), so treat as about flat. Moderator mis-stated case-study page use; render checked.
