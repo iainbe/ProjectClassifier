@@ -1097,3 +1097,9 @@ Session-level record of all changes. Per-project detail lives in `project_change
 26/10/18 (23) — REV13: 595 provenance (Iain)
 
 - The 595 figure described as results of the mapping analyses (singly or in combination) from 69 previous projects across 15 years of specialist creative economy and workforce mapping. Register project start dates run 12/xx to 26/xx (about 14 years); '15 years' is Iain's track-record statement.
+
+26/10/18 (24) — REV13 panel score and REV14 accuracy fix
+
+- Three-panel score on REV13 (non-price /90): 65.5 (museum), 65.8 (economist), 66.5 (moderator); mean 65.9. Case studies 14.0-15.0, Team 14.0-15.0, Proposal 36.0-37.5. All pass the 6/10 gate; verdict shortlist.
+- REV14: the 7.8:1 forecast is now attributed to the Development Fund strand of the LCR Production Fund programme (register C-G2-041, P22-LCRFILM, option_state EXPIRED), not to the Production Fund as a whole.
+- Panel consensus fixes not yet applied: name a delivered example behind 'innovative and tested'; nations/regions and equity cut; recommended analysis period with rationale; V&A review windows; comparison-group matching and treatment definition; survey target n; strip 'REV9 draft' header lines before upload.

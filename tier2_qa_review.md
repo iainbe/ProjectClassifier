@@ -1032,3 +1032,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (23) (REV13)
 
 - Register span (12 to 26) is about 14 years versus the '15 years' wording; wording is of specialist mapping practice, not the register date range.
+
+## Consistency audit — 26/10/18 (24) (REV13 score, REV14)
+
+- Finding: the 7.8:1 forecast was attributed to the Production Fund as a whole; register C-G2-041 puts it on the Development Fund strand. Fixed in REV14. Moderator doubts the proposal fits 3 pages in Word (1,629 words plus tables); LibreOffice render shows about 2.7; Word unverified.
