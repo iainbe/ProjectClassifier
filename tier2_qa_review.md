@@ -1096,3 +1096,11 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (39) (covering letter)
 
 - Findings: letter claims checked against the response (five associates, Places use, V&A East pilots, dates, interim presentation). Fee arithmetic in Iain's uploaded version does not reconcile (days 96 vs 99; stage-three fee; total could exceed £60,000); reported, not changed. The Places presentation attachment must be uploaded with the tender.
+
+## Consistency audit — 26/10/18 (40) (fee after Bennett 28 days)
+
+- Findings: days, fees, stage fees and milestones recomputed and reconciled across the response (resource table, stage table, text) and the price schedule: 97 days, £59,400, £14,600/£29,500/£15,300. Register entries quoting £58,750 and 96 days are superseded. Not committed.
+
+## Consistency audit — 26/10/18 (41) (final set)
+
+- Findings and fix list as CHANGELOG (41). Page counts inferred from page numbers in the response PDF; margins and font sizes of the final PDF not machine-verified. Fixes not applied by Claude (final .docx files not reachable); Iain applying by hand.
