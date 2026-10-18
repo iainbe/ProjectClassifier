@@ -1104,3 +1104,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (41) (final set)
 
 - Findings and fix list as CHANGELOG (41). Page counts inferred from page numbers in the response PDF; margins and font sizes of the final PDF not machine-verified. Fixes not applied by Claude (final .docx files not reachable); Iain applying by hand.
+
+## Consistency audit — 26/10/18 (42) (repo sync)
+
+- Findings: superseded fee and day figures in earlier register notes now carry an explicit final line; bid record created per the live-work capture rule (submission fields left open). Hitchen has no NAMED_REFEREE request on file. No other register changes.
