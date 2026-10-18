@@ -1088,3 +1088,11 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (37) (REV24)
 
 - Wording-only change; no figures affected; set reconciled as at entry 34.
+
+## Consistency audit — 26/10/18 (38) (Forms draft)
+
+- Findings: Forms draft stale (fee £59,000; empty Conflict of Interest row would contradict the response's declared interests). Not editable by Claude. Local entry only; nothing committed on Iain's instruction.
+
+## Consistency audit — 26/10/18 (39) (covering letter)
+
+- Findings: letter claims checked against the response (five associates, Places use, V&A East pilots, dates, interim presentation). Fee arithmetic in Iain's uploaded version does not reconcile (days 96 vs 99; stage-three fee; total could exceed £60,000); reported, not changed. The Places presentation attachment must be uploaded with the tender.
