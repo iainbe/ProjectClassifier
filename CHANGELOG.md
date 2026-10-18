@@ -1222,3 +1222,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 26/10/18 (44) — PER-03 duplicate resolved (Iain)
 
 - 15_people.csv: the row for Sara Sartorius, entered under PER-03 with a copy of Jon Bains's record, is now PER-09 with only source-backed facts (presenter at the 23/05/22 University of Liverpool workshop, SRC-G2-089; 2-page CV in the associates archive). PER-03 is Jon Bains only. New people/PER-09_Sara_Sartorius.md, INV-0034 (P63), and people/README entry. Person IDs are unique again.
+
+26/10/18 (45) — PER-09 Sara Sartorius: role recorded (Iain)
+
+- Iain: Sartorius is a director of The Fifth Sector Limited with 25% of the shares, and an occasional collaborator; she worked with Bennett on the Queen Elizabeth Park place narrative project and the Liverpool Culture Strategy 2030. Recorded in 15_people.csv (status COMPANY_DIRECTOR, organisation The Fifth Sector Limited), people/PER-09 and the people README. The two projects are not in 01_projects.csv, so no involvement rows were added; registering them is open.

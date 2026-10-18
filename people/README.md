@@ -8,7 +8,7 @@ One canonical record per named person (`PER-XX_Name.md`). Tender bios and CVs ar
 |---|---|---|
 | PER-01 | (record to build — Iain Bennett; CV archive exists, see below) | Director |
 | PER-02 | `PER-02_Lynne_McCadden.md` | Associate — skills evaluation specialist |
-| PER-09 | `PER-09_Sara_Sartorius.md` | Associate; role not recorded (created 26/10/18; previously mis-entered under PER-03) |
+| PER-09 | `PER-09_Sara_Sartorius.md` | Company director (25% shareholder) of The Fifth Sector Limited; occasional collaborator (created 26/10/18; previously mis-entered under PER-03) |
 | PER-03 | `PER-03_Jon_Bains.md` | Core collaborator — Places founder/lead |
 | PER-04 | (record to build — Patrick Towell) | External partner (audience data) |
 | PER-05 | (record to build — Lindsay Butcher) | What & Why co-lead with Bains on T24/T25 |

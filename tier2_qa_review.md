@@ -1116,3 +1116,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (44) (PER-03)
 
 - Findings: duplicate primary key PER-03 resolved by giving Sartorius PER-09 and removing the copied Bains content. Primary keys unique (15_people, 16_involvement). INV-0005 to INV-0014 correctly stay on PER-03 (Bains's Places work).
+
+## Consistency audit — 26/10/18 (45) (PER-09 role)
+
+- Findings: role and shareholding recorded on Iain's statement; no document on file. Two named projects unregistered. As a director of the bidding company she is an associated person for procurement declarations; Iain confirmed the T22 declarations before submission.
