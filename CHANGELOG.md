@@ -1218,3 +1218,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 26/10/18 (43) — T22-VAIMP submitted (Iain)
 
 - Iain: the tender was submitted with signatures; the PQQ verifications (policy number, persons of significant control) and the manual fixes were confirmed as correct. Bid record and 08_tenders note updated (stage SUBMITTED). Delta reference and submission time still to add. PER-03 duplicate in 15_people.csv shown to Iain (rows 4 and 6; unresolved, awaiting his decision).
+
+26/10/18 (44) — PER-03 duplicate resolved (Iain)
+
+- 15_people.csv: the row for Sara Sartorius, entered under PER-03 with a copy of Jon Bains's record, is now PER-09 with only source-backed facts (presenter at the 23/05/22 University of Liverpool workshop, SRC-G2-089; 2-page CV in the associates archive). PER-03 is Jon Bains only. New people/PER-09_Sara_Sartorius.md, INV-0034 (P63), and people/README entry. Person IDs are unique again.

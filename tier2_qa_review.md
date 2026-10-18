@@ -1112,3 +1112,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (43) (submission recorded)
 
 - Findings: submission recorded on Iain's word; Delta reference not on file. Duplicate PER-03 (Sara Sartorius row carries Jon Bains's full record) left unresolved pending Iain.
+
+## Consistency audit — 26/10/18 (44) (PER-03)
+
+- Findings: duplicate primary key PER-03 resolved by giving Sartorius PER-09 and removing the copied Bains content. Primary keys unique (15_people, 16_involvement). INV-0005 to INV-0014 correctly stay on PER-03 (Bains's Places work).
