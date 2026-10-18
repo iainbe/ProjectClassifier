@@ -39,4 +39,4 @@
 | Field | Value | Source |
 |---|---|---|
 | `card_status` | PROVISIONAL | 26/10/08 |
-| `unresolved_issues` | Fee corrected 26/10/18 from £4,800 to £20,000 (PO 3500447783). Not reconciled: the earlier £4,800 PO (SystemNo_2001588590); whether the £20,000 was fully invoiced and paid (payment_status UNKNOWN); VAT basis (Iain: excl VAT; not on the PO). See VAL-S261018-01 | SRC-R5-177; 07_validation_actions.csv |
+| `unresolved_issues` | None. Fee £20,000 excl VAT (PO 3500447783); completed and paid on Iain's statement 26/10/18 (2020 invoices not on file; not to be chased). The earlier £4,800 PO is unreconciled and does not affect the fee | SRC-R5-177; FP-0147; FP-0148 |

@@ -1140,3 +1140,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (50b) (P95 card)
 
 - Findings: card and index now carry the corrected fee; strength fields blank (PROVISIONAL). No other card changed.
+
+## Consistency audit — 26/10/18 (51) (P95 closed)
+
+- Findings: payment status rests on Iain's statement only; recorded as such in FP-0148. No open P95 items.

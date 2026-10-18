@@ -1247,3 +1247,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 26/10/18 (50) — P95 index card updated and index regenerated
 
 - P95 card: contract_value now £20,000 excl VAT (PO 3500447783, SRC-R5-177); unresolved issues rewritten (£4,800 PO not reconciled, payment status UNKNOWN, VAT basis). project_index.csv and eligibility_report regenerated; project changelog for P95 appended. The P95 card remains PROVISIONAL pending Iain's walkthrough; precedent and evidence strength fields are still blank.
+
+26/10/18 (51) — P95 closed on Iain's statement
+
+- Iain: P95-LIVCS30 is a completed £20k project; 2020 invoices are not on file and are not to be chased. payment_status PAID_IN_FULL recorded (FP-0148, basis IAIN_STATEMENT, no invoice evidence); fee provenance FP-0147 (PO plus Iain, £20,000 excl VAT); VAL-S261018-01 closed RESOLVED; card unresolved issues cleared. The £4,800 PO stays unreconciled, not chased.
