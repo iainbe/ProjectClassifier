@@ -1144,3 +1144,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (51) (P95 closed)
 
 - Findings: payment status rests on Iain's statement only; recorded as such in FP-0148. No open P95 items.
+
+## Consistency audit — 26/10/18 (52) (P97)
+
+- Findings: fee and day figures are proposal values; the fee table sums correctly (37.5 days, £22,450). Payment rests on Iain's statement. Contract held only as an incomplete copy. Deliverables not read.

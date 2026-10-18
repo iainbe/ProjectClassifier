@@ -1251,3 +1251,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 26/10/18 (51) — P95 closed on Iain's statement
 
 - Iain: P95-LIVCS30 is a completed £20k project; 2020 invoices are not on file and are not to be chased. payment_status PAID_IN_FULL recorded (FP-0148, basis IAIN_STATEMENT, no invoice evidence); fee provenance FP-0147 (PO plus Iain, £20,000 excl VAT); VAL-S261018-01 closed RESOLVED; card unresolved issues cleared. The £4,800 PO stays unreconciled, not chased.
+
+26/10/18 (52) — P97-QEOPPN: BOP proposal registered; done and paid recorded (Iain)
+
+- BOP's 30 April 2018 proposal to LLDC registered as SRC-R5-178 (extracted text added): fixed price £22,450 excl VAT, 37.5 days; Bennett BOP Associate Director and Project Director (8 days at £850, £6,800), Sartorius BOP Associate visitor economy expert (12.5 days at £600, £7,500), BOP's Kuhn and Moretto. Proposal values only. Iain: the work is done and paid; as subcontractors to BOP the contract and invoice details are not held; payment_status PAID_IN_FULL on his statement (FP-0149), not to be chased. Provenance FP-0149 to FP-0151; INV-0036 and INV-0037 updated with the proposal roles; P97 provisional card created (project_index: 76 rows, 76 cards); Sartorius career facts added to PER-09 from the proposal. Contracting role kept as ASSOCIATE under the BOP-associated work rule, though Iain describes it as subcontracting; the proposal's cover says 'London Legacy Development Company' (the register keeps Corporation).
