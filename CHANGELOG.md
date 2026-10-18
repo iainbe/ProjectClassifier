@@ -1089,3 +1089,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Condon safeguarding (Silurian First Mate; TS Royalist Engineer/Bosun; repeated DBS checks; Irish Garda vetting) added to his bio; under-18 guardian-consent protocol added to sampling.
 - Bias control added: three recruitment routes reported by route with V&A-invited as upper bound; Places-built comparison groups from public records so additionality does not rest on self-report alone.
 - Render: 8 pages; case studies 1 page; proposal about 2.55 pages; Team unchanged in layout.
+
+26/10/18 (22) — T22-VAIMP REV12 (Iain: DBS for Bennett/McCadden; freelancer-mapping methods)
+
+- Added to sampling: LinkedIn validated against surveys and employer records (Liverpool music economy); job-advert analysis (NE Scotland, MediaCity); Companies House turnover-versus-headcount gaps to detect freelancer supply chains and software productivity; residential-address clustering outside central business districts. Bennett, McCadden, Condon stated as DBS-checked. Render 8 pages, proposal about 2.7 pages.
