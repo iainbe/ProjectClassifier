@@ -1136,3 +1136,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (50) (P95 fee)
 
 - Findings: fee evidenced by a buyer PO (£20,000; VAT basis on Iain's statement). Earlier register facts (£4,800 only invoice; PAID_IN_FULL) do not reconcile with it; payment_status set to UNKNOWN pending invoice matching. 07_validation_actions edited at line level to keep the file's quoting.
+
+## Consistency audit — 26/10/18 (50b) (P95 card)
+
+- Findings: card and index now carry the corrected fee; strength fields blank (PROVISIONAL). No other card changed.

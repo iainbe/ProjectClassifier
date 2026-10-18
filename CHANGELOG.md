@@ -1243,3 +1243,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 26/10/18 (49) — P95-LIVCS30 fee resolved at £20,000 (Iain, PO 3500447783)
 
 - Iain supplied Liverpool City Council PO 3500447783 (14/01/2020; contract DN443541; validity 30/01/2020 to 01/08/2020; vendor The Fifth Sector Ltd; 'fee for development of Liverpool Cultural Strategy', total order value £20,000). Iain: the fee is £20,000 excl VAT, not the £30k he recalled; the PO does not itself state the VAT basis. Registered as SRC-R5-177 with extracted text. P95 notes updated: £20,000 replaces the £4,800 figure as the fee. payment_status set from PAID_IN_FULL to UNKNOWN because the earlier statement that £4,800 was the only invoice does not fit a £20,000 order; the £4,800 PO (SystemNo_2001588590) is not reconciled with it. VAL-S261018-01 now PARTLY_RESOLVED (invoice and payment matching open). P95 is a citable £20,000 contract award.
+
+26/10/18 (50) — P95 index card updated and index regenerated
+
+- P95 card: contract_value now £20,000 excl VAT (PO 3500447783, SRC-R5-177); unresolved issues rewritten (£4,800 PO not reconciled, payment status UNKNOWN, VAT basis). project_index.csv and eligibility_report regenerated; project changelog for P95 appended. The P95 card remains PROVISIONAL pending Iain's walkthrough; precedent and evidence strength fields are still blank.
