@@ -1148,3 +1148,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (52) (P97)
 
 - Findings: fee and day figures are proposal values; the fee table sums correctly (37.5 days, £22,450). Payment rests on Iain's statement. Contract held only as an incomplete copy. Deliverables not read.
+
+## Consistency audit — 26/10/18 (53) (P97 card)
+
+- Findings: card claims limited to the executive summary and proposal; associate role named; V&A East vision file origin not stated. No outcomes or impact claims made. Evidence review not read.
