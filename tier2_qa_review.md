@@ -1060,3 +1060,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Advisory lane review — 26/10/18 (30) (REV19 three-panel score)
 
 - Scores as CHANGELOG (30). Single-pass model markings; panels disagreed on the case-slate swap (+0.5 vs -0.3/-0.4), so treat as about flat. Moderator mis-stated case-study page use; render checked.
+
+## Consistency audit — 26/10/18 (31) (REV20)
+
+- Findings: citation added pushed the proposal over 3 pages by one line; fixed by shortening a risk row (detail kept: 'not point estimates' dropped). SYMCA grant evaluation (P51) and separate SYMCA mapping project kept distinct per the project-differentiation rule. Impact-report claim limited to 'findings published in'. Panel not re-run.
