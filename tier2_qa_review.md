@@ -1012,3 +1012,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Advisory lane review — 26/10/18 (18) (shortlist tactics: Places-led vs evidence-led)
 
 - Debate result and score effects as in CHANGELOG (18). Open ITT ambiguity: whether the pitch is scored or can move written scores is not stated; the debate assumed it cannot be relied on.
+
+## Consistency audit — 26/10/18 (19) (REV9 build)
+
+- Findings: REV9 matches the referee change list; proposal word count about 1,326 (target 1,145) but fits about 2.4 pages; 0 struck runs; margins and fonts conform. Places/no-dependency sentence reworded per Iain so it does not overstate independence from Places. Residual: Word overflow unverifiable here; Cook title; Hitchen title provenance.

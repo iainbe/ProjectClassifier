@@ -1068,3 +1068,10 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Estimated written-score effect: case studies same; team same to +0.2; collaboration +0.3; impact +0.5 to +1; programme about +0.7 net (risks rows +1, lost detail −0.3); proposal about +0.5 to +0.8 (about +2.5 to +4 weighted points). Possible −0.2 on impact if the Places lead reads as a vendor pitch.
 - Rejected: wholesale compression of the qualitative programme; burying Places inside one sub-part; 'each channel quantified' (use 'quantified or bounded'); any validation/causality claim; use of the 74,000-profile analysis.
 - Awaiting Iain's go-ahead to apply as REV9; 'no licence needed, outputs in standard formats' commitment to be confirmed as deliverable.
+
+26/10/18 (19) — T22-VAIMP tender response REV9 built (Iain: apply the referee ruling)
+
+- REV9 applies the hybrid ruling: Proposal opens with Places and the spillover channels, limits in one clause (not externally validated, not yet applied to a museum, causation not shown); 'innovative and tested' removed; all five case studies kept; scope/qualitative/creative-method text trimmed; risks table expanded (researcher late/short, data access, small-team tool, thin comparators); workbook/register listed first in 'What the V&A receives'; CELL study reads 'built on Places', referee Prof Graham Hitchen.
+- Places/dependency wording (Iain 26/10/18): 'Places provides the analytics engine and is strongest used longitudinally to measure consistent results; if the V&A prefers a simpler, no-dependency output, every deliverable is also provided in standard spreadsheet and document formats.' Replaces the earlier 'no licence' sentence.
+- Render check (LibreOffice): 8 pages; case studies 1 page; proposal about 2.4 of 3 pages; margins 2.5cm+, Cambria 11pt+. Word layout not reproducible here.
+- Open: Ben Cook title missing; Hitchen title from Drive CoSTAR document; Green Book statement rests on Iain's authority; pitch scoring unstated in ITT.
