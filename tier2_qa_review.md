@@ -1044,3 +1044,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (26) (REV16)
 
 - Residual: proposal about 2.9 of 3 pages in LibreOffice, little Word margin; review-window dates (7 and 14 May) are proposals not yet agreed with the V&A; CHCF competence unevidenced in Team.
+
+## Advisory lane review — 26/10/18 (27) (REV17 three-panel score, ceiling analysis)
+
+- Scores and ceiling as CHANGELOG (27). Markings are single-pass model estimates; competitor assumption (larger consultancies) is not intelligence from the pack. Word fit of the 3-page proposal unverified.
