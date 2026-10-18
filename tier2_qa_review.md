@@ -1072,3 +1072,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (33) (REV22)
 
 - Findings: REV21's impact-report citation next to the 7.8:1 sentence was wrong (the figure is not in that report) and is removed. Age scope 18+ is our choice, not an ITT requirement. '£2 million recapitalisation' and uptake claims rest on Iain's statements; not verified by Claude. Panel not re-run.
+
+## Consistency audit — 26/10/18 (34) (REV23 and submission set)
+
+- Findings: fee, days, milestones, names, company numbers and VAT number agree across response, PQQ and price schedule; no 7.8:1 text left in the response; no supplier cost figure in any client-facing document. Residual: unsigned declarations; Word page fit unverified; Drive upload not possible via connector.
