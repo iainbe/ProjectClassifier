@@ -13,3 +13,7 @@
 ## 26/10/18 — Card built from the deliverables (Iain)
 
 - Executive summary (16/08/18, SRC-R5-179) and the one-page V&A East vision (SRC-R5-180) read through Google Drive; the SharePoint link could not be opened from this environment. Full provisional card written: deliverables, method (two workshops 29 May and 26 June 2018, benchmarking of six places, key markets Live/Work/Study/Play/Culture, stakeholder interviews, repeatable toolkit), headline finding, spillover types (network and knowledge as design intentions, none measured), precedent MODERATE and evidence LOW-MEDIUM. Not read: the separate evidence review, interview notes, the contract. project_index regenerated.
+
+## 26/10/18 — Evidence review and interview notes read (Iain)
+
+- Full evidence review (SRC-R5-181) read from the downloaded PDF; Juliet Can and Louise Conolly-Smith interview notes registered (SRC-R5-182, SRC-R5-183). Card evidence_strength now MEDIUM. Unread: contract, remaining interview notes, workshop reports.

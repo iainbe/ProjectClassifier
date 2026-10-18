@@ -1152,3 +1152,8 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (53) (P97 card)
 
 - Findings: card claims limited to the executive summary and proposal; associate role named; V&A East vision file origin not stated. No outcomes or impact claims made. Evidence review not read.
+
+## Consistency audit — 26/10/18 (54) (P97 evidence review and interviews)
+
+- Findings: new card statements limited to what the evidence review and two interview notes say; interview content labelled stakeholder testimony; no outcome or impact claims added. Associate role and PROVISIONAL status unchanged. Interview notes name individuals; consent to name not established, so no names go into outward-facing text. Benchmark score table left out because the extracted layout was ambiguous.
+- Residual: the Drive text read truncates long PDFs (page 76 of 107); use the file download for full text. Philippou, Nagy, Goswell and other interview notes were not found in the folder search.

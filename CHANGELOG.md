@@ -1259,3 +1259,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 26/10/18 (53) — P97 card built from the deliverables
 
 - Read the final executive summary (BOP Consulting for LLDC, 16 August 2018) and the V&A East vision file through Google Drive (the SharePoint link could not be opened from this environment). Built the P97 provisional card (deliverables, method, headline finding, spillover types as design intentions, V&A East context, precedent MODERATE, evidence LOW-MEDIUM) and registered the two sources (SRC-R5-179, SRC-R5-180). Not read: evidence review, interview notes, contract. project_index and eligibility_report regenerated.
+
+26/10/18 (54) — P97 card deepened from the evidence review and interview notes
+
+- Downloaded the full evidence review PDF (107 pages; the Drive text read stops at page 76) and read benchmarking, introductory workshop, stakeholder interviews and Appendix A. Read the Juliet Can (Stour Space) and Louise Conolly-Smith (London & Partners) interview notes. Registered SRC-R5-181 to SRC-R5-183 with extracted_text copies. P97 card evidence_strength raised from LOW-MEDIUM to MEDIUM; method, headline finding and tender-relevance fields extended. Contract, other interview notes and workshop reports remain unread.
