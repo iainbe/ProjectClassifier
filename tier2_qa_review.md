@@ -1016,3 +1016,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (19) (REV9 build)
 
 - Findings: REV9 matches the referee change list; proposal word count about 1,326 (target 1,145) but fits about 2.4 pages; 0 struck runs; margins and fonts conform. Places/no-dependency sentence reworded per Iain so it does not overstate independence from Places. Residual: Word overflow unverifiable here; Cook title; Hitchen title provenance.
+
+## Advisory lane review — 26/10/18 (20) (REV10 three-panel score)
+
+- Scores and shared findings as CHANGELOG (20). Panel scores are single-pass model markings, not calibrated; pitch scoring still unstated in ITT.

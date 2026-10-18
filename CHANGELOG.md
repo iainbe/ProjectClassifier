@@ -1075,3 +1075,10 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Places/dependency wording (Iain 26/10/18): 'Places provides the analytics engine and is strongest used longitudinally to measure consistent results; if the V&A prefers a simpler, no-dependency output, every deliverable is also provided in standard spreadsheet and document formats.' Replaces the earlier 'no licence' sentence.
 - Render check (LibreOffice): 8 pages; case studies 1 page; proposal about 2.4 of 3 pages; margins 2.5cm+, Cambria 11pt+. Word layout not reproducible here.
 - Open: Ben Cook title missing; Hitchen title from Drive CoSTAR document; Green Book statement rests on Iain's authority; pitch scoring unstated in ITT.
+
+26/10/18 (20) — REV10 (REV9 + Iain's wording) and three-panel score
+
+- Iain 26/10/18: Places has been used on multiple iterations and clients use it for exactly this evidence, so the 'not yet externally validated / not applied to a museum' clause is dropped and 'innovative and tested' restored (proposal opening and measurement section). Fixed 'Places is a small-team tool' risk row kept.
+- Panel (economist / museum commissioner / procurement moderator), non-price /90: 59.5 / 61.0 / 64.6, mean about 61.7. Case studies 13.0-14.0, Team 13.0-14.0, Proposal 32.5-37.0. All pass the 6/10 gate; Team is the thinnest margin (6.5-7.0).
+- Shared finding: 'innovative and tested' and 'clients now use it' score as unsupported because no client or example is attached. Fix is to attach evidence (LCR Production Fund, Liverpool music 272 businesses, NE Scotland, CELL), not to delete the claim.
+- Other shared gaps: no result stated for CELL; regional reach/equity, period-of-analysis rationale, 16-17 safeguarding, review windows; meta lines ('REV9 draft for sign-off') to strip before upload.
