@@ -1080,3 +1080,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (35) (FACT details)
 
 - Findings: FACT declarations are recorded as given on Iain's instruction (same basis as Obsolete.com / Bains), not from FACT's own written confirmation. Company number and address match the Companies House entry supplied by Iain; not fetched by Claude. Residual: Fifth Sector declarations and signatures; final document check.
+
+## Consistency audit — 26/10/18 (36) (PQQ 1.10-1.15)
+
+- Findings: bidding-model answers consistent with 1.12 list and Clarification Q3. 1.13 still open.
