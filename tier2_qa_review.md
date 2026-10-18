@@ -1036,3 +1036,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (24) (REV13 score, REV14)
 
 - Finding: the 7.8:1 forecast was attributed to the Production Fund as a whole; register C-G2-041 puts it on the Development Fund strand. Fixed in REV14. Moderator doubts the proposal fits 3 pages in Word (1,629 words plus tables); LibreOffice render shows about 2.7; Word unverified.
+
+## Advisory lane review — 26/10/18 (25) (REV15 three-panel score)
+
+- Scores as CHANGELOG (25). Finding: label vocabulary now differs between the opening ('provider-estimated') and the rest of the document ('descriptive estimate'); case-study baselines unlabelled against the bid's own rule. Single-pass model markings; Word page fit unverified.
