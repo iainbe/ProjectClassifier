@@ -1093,3 +1093,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 26/10/18 (22) — T22-VAIMP REV12 (Iain: DBS for Bennett/McCadden; freelancer-mapping methods)
 
 - Added to sampling: LinkedIn validated against surveys and employer records (Liverpool music economy); job-advert analysis (NE Scotland, MediaCity); Companies House turnover-versus-headcount gaps to detect freelancer supply chains and software productivity; residential-address clustering outside central business districts. Bennett, McCadden, Condon stated as DBS-checked. Render 8 pages, proposal about 2.7 pages.
+
+26/10/18 (23) — REV13: 595 provenance (Iain)
+
+- The 595 figure described as results of the mapping analyses (singly or in combination) from 69 previous projects across 15 years of specialist creative economy and workforce mapping. Register project start dates run 12/xx to 26/xx (about 14 years); '15 years' is Iain's track-record statement.

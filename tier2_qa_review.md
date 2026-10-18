@@ -1028,3 +1028,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (22) (REV12)
 
 - Methods text rests on Iain's account of prior projects; per-project source evidence for each technique not re-verified this session. Panel not re-run.
+
+## Consistency audit — 26/10/18 (23) (REV13)
+
+- Register span (12 to 26) is about 14 years versus the '15 years' wording; wording is of specialist mapping practice, not the register date range.
