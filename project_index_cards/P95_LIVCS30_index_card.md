@@ -1,6 +1,6 @@
 # P95 — Project Index Card (PROVISIONAL)
 
-**Card status:** PROVISIONAL — registered 26/10/08 from contract-evidence sweep; awaiting Iain walkthrough.
+**Card status:** PROVISIONAL — registered 26/10/08 from contract-evidence sweep; contract value corrected 26/10/18; awaiting Iain walkthrough.
 
 ---
 
@@ -16,7 +16,7 @@
 | `reference_permission` | NOT_ESTABLISHED | — |
 | `commission_date` | 20/01 | 01_projects.csv |
 | `completion_date` | 20/07 | 01_projects.csv |
-| `contract_value` | £4,800 (PO 2001588590 — only invoice, Iain-confirmed 26/10/08) | LCC Supply of Services contract + PO |
+| `contract_value` | £20,000 excl VAT (PO 3500447783, 14/01/2020; Iain 26/10/18) | SRC-R5-177: Liverpool City Council purchase order, contract DN443541; supersedes the earlier £4,800 figure |
 | `contracting_role` | PRIME | 01_projects.csv |
 | `geography` | Liverpool | 01_projects.csv |
 | `lifecycle_status` | COMPLETED | 01_projects.csv |
@@ -39,4 +39,4 @@
 | Field | Value | Source |
 |---|---|---|
 | `card_status` | PROVISIONAL | 26/10/08 |
-| `unresolved_issues` | None — Iain confirms single invoice, work complete | — |
+| `unresolved_issues` | None. Fee £20,000 excl VAT (PO 3500447783); completed and paid on Iain's statement 26/10/18 (2020 invoices not on file; not to be chased). The earlier £4,800 PO is unreconciled and does not affect the fee | SRC-R5-177; FP-0147; FP-0148 |

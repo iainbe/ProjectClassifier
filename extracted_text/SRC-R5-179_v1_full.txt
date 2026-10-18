@@ -1,0 +1,889 @@
+Microsoft Word - Place_Narrative-Queen_Elizabeth_Olympic_Park-Executive_Summary-final 
+
+__ London Legacy Development Corporation
+
+Place Narrative for Queen Elizabeth Olympic Park
+
+Executive Summary
+
+16 August 2018
+
+i
+
+Written and prepared by BOP Consulting
+
+__
+
+i
+
+Contents
+
+Introduction .......................................................................................... 1 1.1 Context........................................................................................................... 1 1.2 Approach ....................................................................................................... 2
+
+2\. Place narrative .................................................................................. 3
+
+3\. Process ............................................................................................. 4
+
+4\. Themes .............................................................................................. 5 4.1 Organising objectives by theme .................................................................... 5 4.2 Benchmarking ................................................................................................ 5 4.3 Refining the themes ....................................................................................... 7
+
+5\. Key markets ...................................................................................... 8
+
+6\. Evidence review ................................................................................ 9
+
+7\. Statements ...................................................................................... 10 7.1 Location statements ..................................................................................... 10 7.2 Thematic statements ................................................................................... 12 7.3 Key market statements ................................................................................ 13
+
+8\. Evolution of the place narrative ..................................................... 14
+
+9\. Assembling the place narrative ..................................................... 17
+
+10\. Appendix 1: supporting policy and strategy .............................. 19
+
+10.1 London Plan ............................................................................................... 19 10.2 Industrial Strategy ...................................................................................... 22
+
+11\. Appendix 2 - Introductory Workshop .......................................... 23 11.1 Establishing a typology of audiences for Queen Elizabeth Olympic Park . 23 11.2 Establishing location descriptors used for destinations within the Park ..... 23 11.3 Identifying the persona of the Park ............................................................ 24 11.4 Analysis of Challenges and Barriers .......................................................... 25
+
+12\. Appendix 3: Examples of evidence grids ................................... 26 12.1 Architecture & design ................................................................................. 26 12.2 Modernity & innovation ............................................................................... 27 12.3 Infrastructure & connectivity ....................................................................... 28 12.4 Health & wellbeing...................................................................................... 29 12.5 Heritage & legacy ....................................................................................... 30
+
+13\. Appendix 4: stakeholder interviews ............................................ 31 13.1 Thematic findings from interviews .............................................................. 31 13.2 Interview findings: key markets .................................................................. 34
+
+ii
+
+Introduction
+
+1.1 Context
+
+Queen Elizabeth Olympic Park and its surrounding neighbourhoods, including Stratford, Hackney Wick and Fish Island, are entering a period of unprecedented growth and change, creating a new model for what a truly mixed-use new urban district can mean in the 21st Century.
+
+The immediate post-Games period saw development of an events and visitor strategy to establish the Park as an amenity for local communities and a destination for the population of London.
+
+Development of commercial space during that period – both the repurposing of the International Broadcast Centre as a home for Here East and Loughborough University London, and the development of IQL – mean that the Park and Its surrounding areas are already attracting a mix of global institutions and socially- conscious employers, alongside innovative startups and media brands such as BT Sport.
+
+In parallel, the repurposing of the Athletes’ Village as East Village, offering new models for rental to make it more accessible to those entering the housing market, has been accompanied by development of new neighbourhoods offering high-quality housing offers for rental and sale, including both ‘affordable’ and luxury homes.
+
+The next phase of development is a new cultural and education district (CED), East Bank, that will bring academic staff, researchers, cultural workers, some 10,000 students and hundreds of thousands of visitors each year to the Park. East Bank will be spread across three sites – UCL East (University College London’s new campus), Stratford Waterfront (including BBC’s new music studios, Sadler’s Wells, University of the Arts London’s relocation of the six London College of Fashion sites into a single new building and the V\&A, including a partnership with the Smithsonian Institution) and Here East (the V\&A's new Collection and Research Centre, and an existing space for UCL).’
+
+The CED anticipates four key areas of impact:
+
+– Curation of a world-class cultural programme for Londoners and for
+
+visitors from across the globe (arts & culture)
+
+– Creation of unrivalled educational opportunities for Londoners of all
+
+backgrounds (education & opportunity)
+
+– Stimulation of job growth and the spin-off of new enterprises
+
+(employment & enterprise)
+
+– Research and innovation that serves London, its citizens and the British
+
+economy (research & innovation)
+
+A new place narrative is needed to take into account existing and future strands of employment, housing, education, retail, sports, heritage, cultural production and consumption, alongside the visitor economy and leisure offer of The Park.
+
+1\. The Park will increasingly be a place where people live and work. The place
+
+narrative needs to articulate the relationship between these communities and existing and developing residential neighbourhoods in the vision for the Park, whilst signalling opportunities for further investment.
+
+2\. The place narrative will be one element of a brand strategy for the Park that
+
+provides a framework for its use in a range of different contexts, in partnership with its diverse stakeholders and investors.
+
+3\. The development of East Bank will complement existing workspace and
+
+innovation provision at Here East and IQL. As the focus of London’s creative industries moves eastward, and into the Thames Estuary, the Park will become a pivotal location in the production and consumption of culture,
+
+4\. The CED, and the combination of international cultural institutions within it, will also catalyse the opportunity for the Park’s role as a destination for visitors from London, the UK and overseas.
+
+1
+
+1.2 Approach
+
+This document summarises the findings of a consultation exercise carried out between May and July of 2018 consisting of:
+
+– Two workshops with the project working group on 29 May and 26 June 2018, looking to explore shared understanding of place messaging, shared audiences, key markets and opportunities.
+
+– A review of key markets for Live, Work, Study, Play and Culture.
+
+– Comprehensive document review of materials provided by LLDC and
+
+partners and collation of related external publicly available documents.
+
+– A review of external policy and strategy documents
+
+– An international benchmarking exercise carried out reviewing projects
+
+around the globe for an analysis of Place Narrative based on six areas: Open Spaces, Historic Preservation, Public Art, Street Life, Programming (events and community engagement) and Architecture
+
+– A set of interviews with a diverse group of stakeholders carried out in
+
+person at LLDC's offices, in their own premises and over the telephone.
+
+The detailed findings have been drawn together into a separate evidence review which describes how the evidence has been used to:
+
+– Locate the Park within London and its surrounding area
+
+– Examine how the Park itself is currently referenced – or not - by current
+
+stakeholders
+
+– Assess both opportunities and challenges presented by both current
+
+and future development
+
+– Identify key themes that help link up partner messages
+
+– Establish ‘proof points’ to ensure that any narrative is at once authentic,
+
+rooted in reality and aspirational
+
+– Analyse key markets
+
+This document provides a suggested place narrative and our methodology.
+
+It provides a summary of key messages and details of the sources of those methods, our use of them and the derivation of the place narrative methodology by which we have used that evidence to pull together a new place narrative for Queen Elizabeth Olympic Park.
+
+We have used a mix of methods, recombined from examples of successful placemaking, branding and place marketing approaches across the globe to create a flexible framework that links themes and key markets. Along with our review of evidence provided by partners, stakeholders, interviewees and other third party sources.
+
+The place narrative itself comes with a caveat. The messages and proof points evidenced in this document will change over the next five years. The perception of clients, business occupants, residents, students, workers and visitors to the Park and surrounding areas will evolve as new offers come on stream. Even in the brief period of our consultation, four of the partners have either rebranded or begun marketing new offers. In presenting the elements of the methodology in this level of detail, and having introduced the partners to this way of working in deriving shared messages, we believe that these form a toolkit that can be used by existing and new partners to evolve the place narrative and messaging of the Park and its surrounding areas over the next three to five years.
+
+2
+
+2\. Place narrative
+
+Queen Elizabeth Olympic Park knits together vibrant east London communities from Hackney to Stratford and beyond. Catalysed by the Olympic and Paralympic opportunity, this is a modern urban environment that redefines London’s historic industrial heartland as a destination for those in search of new opportunities and experiences, and a sustainable place to live, work, study, play and visit. It provides a blueprint for the future of London inspired by the twin goals of inclusive growth and limitless aspiration.
+
+Providing a bridge between Central and East London, Queen Elizabeth Olympic Park and its surrounding districts of Stratford, Hackney Wick and Fish Island are within 10 minutes of central London, an hour’s travel time of all major London airports and at the hub of national and international transport networks.
+
+It’s a stimulating place that balances energy and wellbeing. Buildings, parkland and public realm all reflect consistently high standards of architecture and design. Elegant modern townhouses and landmark apartment buildings, offering a mix of homes to rent and buy, are woven into a series of integrated neighbourhoods and communities within easy reach of world class sporting, leisure and retail facilities. Moments from Stratford station, the International Quarter’s technologically advanced workspaces, bustling squares and wide streets fringe the Park, with its space for reflection and relaxation. Global cultural institutions and universities rub shoulders with each other on the waterfront terrace at East Bank. Crossing a footbridge opens up a vista of canalside bars and restaurants and brings you into the edgy, creative atmosphere of Hackney Wick and Fish Island.
+
+Places in and around Queen Elizabeth Olympic Park, Stratford and Hackney Wick are now drawing in a critical mass of global partners in business, education, culture, technology and leisure, attracted by the possibilities of the exchange of ideas and skills and building upon the legacy of creative businesses and makers already here. Together they are establishing multidisciplinary clusters, defining industries of the future and in the process creating jobs for existing communities, opportunities for new enterprises and new global audiences for culture.
+
+3
+
+3\. Process
+
+From the outset of the project, we recognised that there would be as much value in helping the partners to understand the process of developing a place narrative, and being able to repeat it for themselves, as in developing a place narrative for this moment in the evolution of the Park. Therefore, we looked to develop a modular and repeatable toolkit made up of the key elements of our own process for arriving at the place narrative.
+
+We mapped out the process as shown below; the subsequent sections of this executive summary follow this order to show how the place narrative was derived.
+
+Figure 1. Placemaking process map
+
+4
+
+4\. Themes
+
+4.1 Organising objectives by theme
+
+Our initial appraisal of the current offer in the Park and its surrounding areas, combined with desk-based review of the partners’ evidence and marketing materials, was used to identify core themes and shared objectives reflected there. We organised these under an initial set of six thematic statements (shown below) that we shared at a partner workshop.
+
+Figure 2. Draft thematic statements
+
+4.2 Benchmarking
+
+To test the robustness of these propositions, and to ensure that we were not overlooking other elements of good practice, we benchmarked Queen Elizabeth Olympic Park, its surrounding areas and its individual developments against a number of comparable projects, both in London and internationally, to identify their distinctive strengths in place-making.
+
+We drew upon three existing models of placemaking:
+
+– Chicago Metropolitan Agency for Planning (CMAP) – City of Dandenong (Melbourne) – Liverpool place branding
+
+Elements from CMAP were used to benchmark elements of a successful place narrative – open space, programming, historic preservation, public art, street life and architecture.
+
+Dandenong takes a mixture of approaches to placemaking – including place enhancement, place management, place activation, place character and ‘tactical urbanism’ – which we used to examine how short term and scalable interventions can be used to catalyse long-term change (eg, Clarnico Quay).
+
+We also adopted the thematic approach taken in Liverpool’s place branding, which we felt had resonated with the group in the initial workshop.
+
+We used the resulting model to review the narrative, messaging and placemaking methods used in six comparable areas and urban districts globally:
+
+‒ Atlanta Beltline (GA, USA) ‒ ZAC Rive Gauche and Saint-Denis (Paris, France) ‒ HafenCity (Hamburg, Germany) ‒ Greenwich Peninsula (London, UK) ‒ Manifattura delle Arti (Bologna, Italy) ‒ West Bund (Shanghai, PRC)
+
+5
+
+We acknowledge that it is difficult to find international benchmarks that are closely analogous to all of the provisions and amenities of the Park and its surrounding area. Therefore, we selected benchmarks that matched one or more of the features of the Park. Each of the examples provides insights into and, in some cases, inspiration for the place narrative process.
+
+We used our detailed analysis of three examples from the six we reviewed in our second meeting with the working group to help establish key placemaking qualities, narratives and messages illustrated by the Park and its wider area. (Full details of the benchmarking exercise can be found in the accompanying evidence review).
+
+Atlanta
+
+Atlanta’s BeltLine is an innovative project which physically connects Atlanta together through rail and pathways. It offered a strong and appealing single tagline: ‘Where Atlanta comes together.’ We shared this with the group as an example of a powerful location statement for the project, We felt it had obvious parallels with the ‘bridging’ role of the Park in providing both housing and work to people who may otherwise be ‘priced out’ of London; but this appeal was not strong enough to convince partners who chose to use other existing primary location descriptors (eg, Stratford, Stratford City, E20) to focus on a single, place narrative focused on Queen Elizabeth Olympic Park itself.
+
+In addition to the tagline, we also felt that the place narrative for Atlanta was exemplary, with echoes of development of the Park, the transport infrastructure that is so important to its place narrative, and its surroundings:
+
+The beauty of the Atlanta BeltLine is that it offers not only
+
+modern conveyances and exciting new development, but it is a living, breathing part of our community; not simply a means of getting somewhere, but a destination unto itself. It offers a chance for Atlanta to redefine what it is to be a neighbor, to be a community, to be a region, and to share all that it has to offer.
+
+Paris
+
+The narrative for the Zone d'Aménagement Concerté (translated as: Integrated Development Zone) Paris Rive Gauche – which covers 130ha across three districts along the Seine: Austerlitz, Tolbiac and Massena – has less emphasis on regeneration of communities and housing than the Park but a very similar emphasis on themes of architecture, design, leisure and culture:
+
+Paris Rive Gauche promises amazing and aesthetic
+
+architectural surprises; great food and drink in its vibrant cafes, bars and restaurants; moments of relaxation along the banks of the Seine or in the green spaces; a strong cultural offering thanks to the cinema, theatre and the Bibliothèque Nationale de France, etc. Whether curious strollers, students of architecture or urban planning, French or foreign tourists in search of a new side to Paris, you are all welcome.’
+
+Its future focus also resonates with the aims of the Park:
+
+It has become a symbol of modernity which strikes the perfect
+
+balance between urban development and public space, a living community and a place of work.
+
+The Olympic-inspired regeneration of the Seine-Saint-Denis departement, to the North East of Paris, the poorest county in France, is on resisting gentrification.
+
+Although there is little here in the way of formal placemaking, three is a commitment to returning all the accommodation built for the Olympics and Paralympics to the community as affordable housing; and the ‘reconnection’ of Saint-Denis to Paris through an expansion of public transport is a critical factor. This also brings Saint-Denis’ role as a ‘town centre’ for a wider area of North East Paris, and its linkages to other cultural districts within the Peripherique (including the arts centre Le104), into sharper focus.
+
+6
+
+Hamburg
+
+Hamburg’s HafenCity is a large (157ha) project that aims to create a ‘new downtown’ on the city’s waterfront. The heritage and placemaking aspects of the project – expressed through preservation of the historic harbour basins and buildings (a UNESCO World Heritage site), open space, programming and architecture (notably the Elbphilharmonie Concert Hall, which was finished in 2016, nine years behind schedule and at an eyewatering cost of €789 million) – offer parallels in the use of a cultural offer to identify the location.
+
+4.3 Refining the themes
+
+The benchmarking exercise helped the partners to identify five key themes. These are important in emphasising shared strengths that are applicable to all their individual offers.
+
+The partners agreed that it was important that the place narrative should help differentiate Queen Elizabeth Olympic Park and the partners’ developments from other place-based projects across London. That differentiation takes many forms, but the two factors most frequently mentioned in consultation were the scale of the project; and the uniqueness of the types of offer in and around the Park being strongly clustered.
+
+This clustering can be characterised in three ways:
+
+‒ The combined presence of competing and complementary offers for
+
+similar sets of services, from housing to education – for example, whereas other project may be anchored on the presence of a single university partner, East Bank contains two higher education institutions with a third at Here East, interspersed with further commercial and cultural research institutes. ‒ Bringing together complementary sets of activity – for example, in the
+
+cultural and education partners at East Bank – to define a new ‘vertically integrated’ knowledge quarter. ‒ The potentiality of ‘creative collisions’ between seemingly heterogenous
+
+activity – eg, robotics, automotive engineering, broadcast media,
+
+fashion and research into disability – as the stimulus for exchange of knowledge that can bring about a step-change in innovation in technology and services.
+
+For this reason, it was not appropriate to use a set of themes that could only apply strongly to one or two kinds of activity in and around the Park. The five themes below may themselves evolve over time; but they provide a framework that can be used to generate place narratives for the next three to five years of development:
+
+‒ Architecture & Design ‒ Modernity & Innovation ‒ Infrastructure & Connectivity ‒ Health & Wellbeing ‒ Heritage & Legacy
+
+The way in which these themes were used to organise and shape information in development of the place narrative is explored further in the chapters to follow.
+
+7
+
+5\. Key markets
+
+From our initial workshop onward, we worked with partner organisations on and around the Park to identify the target audiences for their individual offers, and to identify overlaps and complementarity between them.
+
+We also carried out one-to-one interviews with individual stakeholders to identify the opportunities presented by the Park, Stratford and Hackney Wick that most resonate with them as investors, with their member organisations and with their customer base.
+
+We distilled those market opportunities under the headings of five generic descriptors of key markets that we think apply equally to B2B and B2C audience and opportunity for Queen Elizabeth Olympic Park and surrounding areas:
+
+– Live – Work – Play – Study – Culture – Summary
+
+More detail on these key markets can be found in the accompanying evidence review, but some of the main points about why these were identified as key markets are summarised below.
+
+Live
+
+The Park addresses high levels of demand for housing and accommodation – including from those who want to access employment opportunities in Central London without a lengthy commute. Targeting of offers in and around the Park reflects the higher proportion of Inner London’s population made up of the target market of 25 to 40-year olds (12% compared to 6% in the rest of England.)
+
+Work
+
+Employers on the Park benefit from access to national and international markets, access to supply chains and access to London’s a large pool of talent and skills –close to 5 million people employed – and the greatly enlarged travel to work area offered by the excellent transport connectivity in this location.
+
+Study
+
+The student market is a large opportunity. East Bank will bring two further higher education institutions to the Park, meaning that around 10,000 undergraduates and graduates will be studying here at any one time. This reflects the opportunity for new campuses in locations that are both accessible and affordable to the large numbers of UK and international students who want to study in London. 16% of the UKs student population is currently studying in London with 12% of these studying Art and Design. International students supply 39,800 jobs per year in London and offer £16,068 per student to London’s GVA per year.
+
+Play
+
+The scale of the Park (560 acres) and the diversity of its offer and that of its surrounding areas make it, ‘a park like no other’. Distinctive attractions – such as the ArcelorMittal Orbit – are within reach of a huge catchment of day visitors across London and the South East.
+
+Footfall and transit through the Olympic boroughs are very high – representing an opportunity not only for employment, but also for leisure, the visitor economy and night-time economy.
+
+Culture
+
+Cultural visits and experiences are the main motivation reported for tourist visits to London, with 25-44 year-olds particularly attracted to architecture and historical landmarks. The top 10 most visited attractions in London – including the V\&A – are a mix of old and new venues which have cultural significance. East Bank is well positioned to draw more of those culturally-motivated visitors to the Park.
+
+8
+
+6\. Evidence review
+
+Summary
+
+Queen Elizabeth Olympic Park, including the surrounding communities of Stratford, Hackney Wick and Bow differs in several important ways from other development projects in London - in its mission, its scale and in consistent application of planning guidelines across the largest urban regeneration project in Europe. This has resulted in a considerable body of proof points and statements that remain consistent with the original mission throughout the many and various iterations of its development over time.
+
+The evidence review – provided as a separate document – provides a more detailed account of these proof points and statements. But, for the purpose of gathering feedback, we condensed this into a series of evidence grids, providing some examples of the type of statements and proof points that could support a place narrative. These were organised thematically. The evidence grids used in consultation with the partners are attached at Appendix 3 below.
+
+As the statements and proof points for the Park and its surrounding areas evolve, and as new partners come around the table, the grids (and the themes by which they are organised) can be revisited and reappraised.
+
+9
+
+7\. Statements
+
+7.1 Location statements
+
+The first option we explored with partners was to build the place narrative around Queen Elizabeth Park, to produce a single, integrated message. However, it became clear that elements of individual locations in and around the Park – in particular, Stratford’s transport links and the creative legacy of Hackney Wick and Fish Island – were too important to be subsumed within a single identity.
+
+Figure 3. Establishing location descriptors used for destinations within the park
+
+Organisation Primary location Secondary locations
+
+Get Living East Village E20
+
+Former Athletes’ Village
+
+Here East Queen Elizabeth Olympic Park Hackney Wick
+
+IQL/LendLease Stratford (Business) Queen Elizabeth Olympic
+
+Park (Resident)
+
+LLDC Queen Elizabeth Olympic Park East London
+
+Manhattan Loft Corporation Queen Elizabeth Olympic Park Stratford International;
+
+East London (International visitors)
+
+Places for People Queen Elizabeth Olympic Park Hackney Wick
+
+Taylor Wimpey Queen Elizabeth Olympic Park E20
+
+Westfield Westfield Stratford City E20
+
+10
+
+The location statements selected for the place narrative therefore draw upon the breadth and diversity of the offer in and around the Park. They refer explicitly to the different strengths of some of its individual districts:
+
+– The accessibility and bustle of Stratford and IQL – The sense of cultural and academic endeavour at East Bank – The Park’s combination of space for reflection and relaxation and world-
+
+class sporting and leisure facilities – The edgy, creative atmosphere of Hackney Wick & Fish Island
+
+Figure 4. Understanding the location of the Park
+
+Excellent transport links and proximity to Central London are important factors in the Park’s ability to attract residents, businesses, students and visitors. But its identity as part of East London is equally strong. We wanted to get across that that the Park acts as a bridge, not only linking the historic districts around it with new districts being created as part of the Park, but also connecting Central and East London and providing opportunities, particularly for young people, to live at the heart of things.
+
+Figure 5. The Park as a bridge between Central and East London
+
+11
+
+7.2 Thematic statements
+
+Thematic statements taken from the evidence grid are used to support development of the place narrative. We refined the themes (informed by the results of the benchmarking activity) through consultation with the partners as follows:
+
+– ‘Innovation’ was amended to ‘Modernity & Innovation’, as this was agreed to be more ‘futureproof.’ – ‘Sustainability’ was removed as a separate theme and incorporated within architecture and design – ‘Opportunity’ was taken out, as it was agreed that the definition of ‘key markets’ reflected the main areas of opportunity.
+
+Figure 6. Thematic statements
+
+The thematic statements are populated using evidence from the partners’ statements and proof points, and feedback from stakeholder interviews. The structure – underpinned by Heritage & Legacy - illustrates how the development and regeneration of the Park and its surrounding districts is underpinned by its legacy and its communities.
+
+12
+
+7.3 Key market statements
+
+The key markets reflect the shared audiences and market opportunities for the group of partners involved in this consultation, and for those partners who will come together on East Bank. In a similar fashion to the thematic statements, the evidence review and responses to stakeholder interviews were used to define statements for each of the five key markets.
+
+Figure 7. Key market statements
+
+13
+
+8\. Evolution of the place narrative
+
+Once we had a set of thematic and key market statements we felt were robust enough, we started to distil the place narrative.
+
+Figure 8. Distilling statements into a place narrative
+
+This process prompted us to start to locate the Park in terms of its evolution over time. With a long term project of this kind, it’s important that the sense of what has passed and what is about to come doesn’t obscure the importance of what is happening in the present and the immediate future. This had been reflected in discussions with the partners. Although the projects that make up the development of the Park are all at different stages – some well-established, some about to be launched, others to be delivered over a timeframe of three to ten years – it was seen to be important to establish that these were real, existing places and that the area in and around the Park wasn’t a building site\! We tried to capture this in the illustration below:
+
+14
+
+Figure 9. Evolution of the place narrative
+
+This graphic attempted to get across the continuing importance of heritage and the underpinning objective of recognising and strengthening communities in and around the Park. It also credited the catalytic effect of the Olympic and Paralympic Games on past, current and future growth.
+
+But it also signalled our view that the Park had passed through the stage of being ‘new’; and that constant reference to the ‘new’ within individual offers was now in danger of detracting from the powerful reality of the combined offers of the partners, and the inspirational future presented by the maturing of these manifestations of the vision and the addition of new elements. At the same time, we wanted to acknowledge that continuing research and innovation would mean that the Park’s success would be reflected in continuous improvement and evolution. This led us to conceive a position for the partners of being firmly fixed in the reality of the present, but always looking toward the future.
+
+This led to a further realisation: that one of the ways in which the strategic and planning framework of the Park had succeeded already was in its influence over the way in which disparate partners and projects delivered their objectives in a way that consistently embodied the high design values and ethical ambitions of the original vision. The Park was, therefore, in a state of continuing transformation, based on shared approaches that combined to provide an effective placemaking strategy for all.
+
+15
+
+Figure 10. Means and ends
+
+16
+
+9\. Assembling the place narrative
+
+The last stage of the process was to assemble location, thematic and key market statements in a place narrative key, which brings together thematic and key market statements, themselves compiled from proof points from the evidence review, to support the place narrative.
+
+This brings greater flexibility and transparency to the process by which the place narrative. It also gives the partners a tool that allows them to revisit and revise the place narrative over time and to incorporate messages from additional partners and new developments as they assume greater significance in the life and evolution of the Park.
+
+The key used to assemble the final place narrative is shown below:
+
+17
+
+Figure 11. Place narrative key
+
+18
+
+10\. Appendix 1: supporting policy and strategy
+
+10.1 London Plan
+
+Summary
+
+– Expansion of housing provision, especially affordable housing, in areas of greatest demand.
+
+– Good Growth by Design initiative to ensure that architecture and planning serve the Mayor’s vision of, ‘a built environment for all Londoners.’
+
+– Measures to increase supply of high-quality office and workspace alongside affordable provision to ensure that London retains a mix of socially
+
+valuable industries and employment opportunities.
+
+– Promoting, ‘London’s higher and further education institutions and their development across all parts of London \[and\] their integration into
+
+regeneration and development opportunities to support social mobility and the growth of emerging sectors.’
+
+– Culture and creative industries are increasingly recognised as central to local placemaking and economic development in both local (Hackney
+
+Wick Creative Enterprise, etc) and citywide (London Plan) policy. East London and Thames Estuary Production Corridor plans.
+
+– Creative Enterprise Zones initiative to address the challenge rising unaffordability and land use pressure are putting on putting on artists and
+
+creative businesses.
+
+– Strategic Industrial Locations to provide industrial, logistics and related capacity for uses that support research and development.
+
+–
+
+The London Plan is the key document that determines priorities for the future sustainable development and growth of London. In its current form it reflects a core aspiration to rebalance opportunity and outcomes for citizens across the city – in particular, emphasising both the need to reduce the disparity in income and life expectancy between West and East London and identifying the capacity for growth of housing and employment opportunities in both inner and outer East London.
+
+In that context, the pivotal importance of LLDC’s strategic role, the development of Queen Elizabeth Olympic Park and the regeneration of neighbouring communities becomes clear.
+
+19
+
+Affordable housing should be provided on site in order to deliver communities which are inclusive and mixed by tenure and household income, providing choice to a range of Londoners.
+
+Source: The London Plan
+
+East London features prominently in the ‘Economy’ chapter of the document. The London Plan calls for ‘improvements to the competitiveness and quality of office space of different sizes (for micro, small, medium-sized and larger enterprises) \[to\] be supported by new office provision, refurbishment and mixed-use development’. Stratford specifically is mentioned as a future potential reserve location for Central Activity Zone-type office functions.
+
+Ensuring a sufficient supply of business space of different types and sizes will help to ensure that workspace is available for occupation at an appropriate range of rents reflecting the specification, quality and location of the space.
+
+Source: The London Plan
+
+As well as ensuring a sufficient supply of affordable business space, the Mayor also wishes to support sectors that have cultural or social value such as artists’ studios, designer-maker spaces and charities or social enterprises for which low-cost space can be important. The Mayor will encourage the delivery of new workspace for SMEs, the creative industries, artists and the fashion industry within new residential and mixed-use developments. He will also provide assistance to artists and creative businesses through the Mayor’s Creative Enterprise Zones (see Policy HC5 Supporting London’s culture and creative industries) and promote schemes that provide linked affordable housing and business space in new housing developments.
+
+‘Unique agglomerations and dynamic clusters of world city businesses’ should be developed and promoted. Development should continue to support London’s global leadership in tech across sectors. Industry and sector-specific clusters should be encouraged such as TechCity and MedCity and ‘Creative Enterprise Zones, film, fashion and design clusters, and green enterprise districts such as in the Thames Gateway’.
+
+Employment opportunities for Londoners across a diverse range of sectors should be promoted and supported along with support for the development of business growth and sector-specific opportunities.
+
+Innovation, including London’s role as a location for research and development should be supported, and collaboration between businesses, higher education institutions and other relevant research and innovation organisations should be encouraged.
+
+Source: The London Plan
+
+20
+
+Creative Enterprise Zones: Hackney Wick & Fish Island
+
+The Greater London Authority (GLA) has rolled out a new Creative Enterprise Zone initiative, helping to fund the development of zones throughout the capital that are using strategic policy and planning interventions to address the challenge rising unaffordability and land use pressure are putting on putting on artists and creatives.
+
+The programme looks at six central intervention areas: new creative clusters and networks; creative production; business support; enterprise and skills; and community links and socially inclusive places.
+
+Hackney Wick & Fish Island Creative Enterprise Zone
+
+Hackney Wick & Fish Island is one of ten successful recipients of the first round of grants for the programme.
+
+THE CEZ has built a consortium of partners across Hackney, Tower Hamlets and LLDC including Stour Space, Here East, Makeshift, Balfour Beatty Victoria & Albert Museum, Sadler’s Wells, Loughborough University in London, and London College of Fashion.
+
+The project aims to:
+
+\- ‘build capacity for existing local networks - respond to the needs of small creative industry businesses, including developing tailored creative industry business support models and
+
+providing low-cost space - support business to create more jobs for local people in the creative & cultural industries - enable local authorities to align policy and spread learning across the two boroughs’
+
+‘The Hackney Wick & Fish Island Creative Quarter (HWFI Creative Quarter) represents the culmination of a decades-long creative, cultural and economic revival of the Lea Valley. Spanning two boroughs on the edge of Queen Elizabeth Olympic Park, the agglomeration of creative industries in the HWFI Creative Quarter has generated unrivalled cultural and creative output and greatly benefitted London’s economy1. However, there is a need to support the low-cost sectors before the vulnerable critical mass of activities is lost to development land pressure and a clear need to involve more people in the economic growth here.’
+
+Strategic Industrial Locations (SILs) Strategic Industrial Locations (SILs) are designated in the London Plan to ensure space sufficient for industrial and related sectors and to provide industrial, logistics and related capacity for uses that support research and development, in particular. Hackney Wick & Fish Island is identified as a SIL in the London Plan.
+
+21
+
+Skills Skills development is also identified as a priority related to work and the economy in the London Plan, noting as part of policy E11, skills and opportunities for all, that ‘The Mayor will work with strategic partners to address low pay and, supported by his Skills for Londoners Taskforce, co-ordinate national, regional and local initiatives to promote inclusive access to training, skills and employment opportunities for all Londoners.’
+
+As part of this, the plan notes that it’s important for developers to provide employment and training opportunities to local residents in particular in alignment with Section 106 planning agreements.
+
+10.2 Industrial Strategy
+
+The UK Industrial Strategy, launched in June 2018, recognises the importance of a distributed economy across every region and urban areas.
+
+The focus on Places, one of the five foundations of productivity that are aligning UK Industrial strategy to a transformed economy. There is a strong willingness in agreeing Local Industrial Strategies that will build on local strengths and deliver on economic opportunities. The Government has committed to investment in ‘placed- based’ policies, to foster the already existing competitive advantages that will be essential to shaping our economic future
+
+In this perspective, the importance of a place-based strategy for the Olympic Park is backed by this important strategy document. A similar consideration can be done regarding the industry sectors that are already flourished in this area.
+
+22
+
+11\. Appendix 2 - Introductory Workshop
+
+The introductory workshop consisted of a series of exercises designed to establish the congruence – or dissonance – between the partners’ messages, and to test their willingness to acknowledge and articulate the benefits of shared audience engagement, as reflected in the place narrative. The results are summarised below.
+
+11.1 Establishing a typology of audiences for Queen Elizabeth Olympic Park
+
+We established that the partners had already identified a number of shared audiences within their own research and marketing activity.
+
+These were:
+
+– Young professionals aged 25-44 – Aspirational couples and singles looing to rent or buy a home close to
+
+Central London – Individuals and families seeking outdoor space and recreational
+
+facilities – Companies focused on wellbeing for their employees – Companies, entrepreneurs and institutions focused on innovation and
+
+future proofing for their businesses.
+
+– Adventurous individuals keen to explore new experiences and go to the
+
+‘less obvious’ places – Cultural visitors
+
+11.2 Establishing location descriptors used for destinations within the Park
+
+We spoke to the partners about the way in which they described their location. This revealed that there was no single location descriptor that would work for all the partners – a finding that was very important in our approach to developing a multi-threaded place narrative that could be adapted to several locations in and around the Park itself.
+
+Primary locations
+
+– Queen Elizabeth Olympic Park – Stratford – Stratford City – East Village
+
+Secondary locations – Hackney Wick – E20 – Queen Elizabeth Olympic Park – Stratford International – East London – Former Athletes’ Village
+
+23
+
+11.3 Identifying the persona of the Park
+
+Partners were asked to come up with some key words or phrases the identified their aims and key audiences.
+
+Personality Aims Outcomes
+
+Sense of community Future of London Business Growth
+
+Collaborative Convenience Vibrant Neighbourhood
+
+Diverse Sustainable Wellbeing
+
+Well Connected Transformative Integrated
+
+Innovative
+
+Socially Minded
+
+Purposeful
+
+Progressive
+
+Well rounded
+
+Ambitious
+
+Balanced
+
+‘Good Egg’
+
+Philanthropic
+
+Visionary
+
+24
+
+11.4 Analysis of Challenges and Barriers
+
+In control of (addressed by marketing)
+
+Suggested solution Not in control of (lobby others for change)
+
+Making it clear that It is here and now Marketing / PR and key messages A city in itself
+
+What will I get once I get there? Place narrative / combined messaging Not perceived as a building site
+
+Key facts sheet LLDC to produce secondary messaging support
+
+for the partners to share.
+
+Safety: − For residents − For business occupiers (including retailers)
+
+Perception of distance − from central London − in/ around the park
+
+Address in the Place Narrative. Maybe label walking distance/ transit time on maps?
+
+Too busy (Westfield) - 52 m visitors vs 30 m projected
+
+Communicating scale / density Communication/ Place Narrative Stadium - West Ham fans
+
+Differentiation between ‘Park’ and ‘Urban Park’ Parkland
+
+Place Narrative to define Make it like Central Park?
+
+Soulless vs animated Events and festivals at the park. Encourage more
+
+community-led engagement and events?
+
+Streetscape (psychogeography)
+
+Heritage Place narrative, marketing, events and PR.
+
+Joined up activities.
+
+Culture (production and consumption) As heritage above and community involvement -
+
+grass roots. Production would be the business involvement
+
+25
+
+12\. Appendix 3: Examples of evidence grids
+
+12.1 Architecture & design
+
+26
+
+12.2 Modernity & innovation
+
+27
+
+12.3 Infrastructure & connectivity
+
+28
+
+12.4 Health & wellbeing
+
+29
+
+12.5 Heritage & legacy
+
+30
+
+13\. Appendix 4: stakeholder interviews
+
+BOP spoke with relevant stakeholders in and around the Park comprising existing and upcoming tenants, organisations bordering the Park (e.g., Hackney Wick and Stratford Original BID), incoming university partners and investment promotion agencies.
+
+Interviews with stakeholders in and around the Park were used:
+
+– To see if the differences in attitude toward the location of the Park and
+
+its surrounding areas expressed by partners were more widely reflected. – To check that the themes and key markets drawn from our other
+
+research were relevant.
+
+– To identify other strengths and opportunities, weaknesses and threats
+
+as perceived by other partners and investors. – To explore the USP of Queen Elizabeth Olympic Park as a hub and the
+
+opportunity for further development.
+
+We observed a high degree of congruence between the evidence review and interview findings - including the main areas of difference between stakeholders and respondents:
+
+– Use of Olympic and Paralympic legacy. – One destination or several? – Proximity and connectivity.
+
+Interviews were semi-structured but constructed around a consistent topic guide, which allows us to draw some comparisons between the answers we received. The client was present for most of the interviews. 13.1 Thematic findings from interviews
+
+Terminology
+
+There is a lack of consistency in the terms and signifiers used by both stakeholders and in the media—which in turn leads to an inconsistent narrative in the wider public. Across the materials presented in this document you will find over a dozen different ways that the Park, its location, and districts wherein are referred to. These include Queen Elizabeth Olympic Park, Olympic Park, E20, East London, East Village, Stratford, Stratford Waterfront, East Bank, Canalside, Stratford International, Former Athlete’s Village, and others.
+
+Legacy
+
+While there is generally high use of and positive association of the Park with the legacy of the Olympic and Paralympic Games and its role as both a milestone and catalyst for regeneration, for some stakeholders the Olympic message is starting to fade and lose some its former relevance, particularly with new and younger audiences.
+
+Heritage While the association with Queen Elizabeth Olympic Park and Stratford is one of new-ness, both Stratford and the Park have a rich heritage and history of industry, connectivity, and creativity which should continue to be researched and integrated in the story of the area. From an industrial perspective, much of the history of London can be wrapped up in the Park (although some of its uses have been less appealing, i.e. the tanning and chemicals production).
+
+Modernity:
+
+As new projects come on stream and the Park becomes more populated – with new residents, businesses and a wider cross-section of visitors, it is starting to establish itself as a modern, buzzing and cool destination, particularly benefitting from its proximity to Hackney Wick and certainly to be enhanced by the addition of over 5,000 fashion and design students from around the world with the upcoming move of London College of Fashion to Queen Elizabeth Olympic Park (further detailed in Section 5: Study, above).
+
+31
+
+A new creative and innovation hub That it is quite literally more than the sum of its parts is a key USP of Queen Elizabeth Olympic Park, and one that hasn’t been communicated or leveraged to its full advantage. For businesses (particularly those operating in the tech and innovation space), academic and cultural institutions in development, and new residents, the ability to be part of something exciting, new, and larger than any one project or initiative is a key consideration in their decision to locate within the park, particularly between now and 2023 as Here East, IQL, East Bank, the Fashion Quarter and others continue to develop, the Park has the potential to evolve into London’s most dynamic hub for cross-disciplinary collaboration.
+
+Navigation and connectivity
+
+This presents both an opportunity and a challenge for Queen Elizabeth Olympic Park. The Park is incredibly well connected, not only through Stratford’s multi- modal transport interchange but also with both with the new Hackney Wick Overground station and Stratford International, which offers a frequent service with a transit time of 7 minutes to King’s Cross St. Pancras.
+
+It’s clear, then, that this is one of London’s most well-connected transit hubs; but the perception of its distance from ‘central’ London, and uncertainty about the best way in which to reference it within the context of East London, continue to undermine attempts to establish a clear, shared message about the location of the Park and its surrounding areas.
+
+In addition, the Park itself is still viewed by many as inaccessible. Wayfinding both to and within the Park can be illegible and confusing, particularly to first time visitors. And it’s a big site: Here East has had to set up a private bus service to address the distance to the closest accessible transport links.
+
+Keeping pace with new development Even for active stakeholders of the Park, keeping on top of all of the new development activity and timescales for each poses a challenge.
+
+Affordability
+
+The Park is generally seen as an area of London that provides good value for money, in terms of both rates and rents. The provides an opportunity to attract companies across all sectors who might anticipate being priced out of more central areas of the city due to major new developments like Crossrail.
+
+Community engagement
+
+Community engagement and wellbeing sits at the heart of LLDC’s mission and is reflected in both the aims and messaging of stakeholders in and around the Park. For both current and upcoming projects, the aspiration to be inclusive and sustainable and to promote wider health and wellbeing is clearly reflected.
+
+Overcoming and reshaping existing perceptions Both Queen Elizabeth Olympic Park and Stratford grapple with a lukewarm public and media narrative, but with the success of projects like King’s Cross people are becoming more open to what transformative regeneration projects look and feel like when experienced in person.
+
+For people who aren’t necessarily familiar with London, Here East or Stratford, \[the tie to the Olympics\] is a prominent story people understand.
+
+For the Queen Elizabeth Olympic Park story the Olympic connection is bedrock stuff and the clue is in the name, no matter what the Park morphs into.
+
+The development of a wider destination offer \[is\] taking place. It’s better if we all work together on the message we want to send out.
+
+32
+
+“What is new \[for the area\] is creating a cluster of activities so that people are coming here because there are a number of things within a wider destination. So going to Westfield for a meal, going for a walk in the Park or to watch a game, going to the theatre after. New elements turning Stratford into a wider destination.
+
+We really do need to start positioning it in terms of the orgs moving to the park in order to get closer to East London rather than Olympic Park. It’s a big catchment area, still more affordable than many parts of London with great transport links to the rest of the country and into Europe.
+
+The question is, how do we collectively make the most of it?
+
+33
+
+13.2 Interview findings: key markets
+
+Live While ‘Live’ was one of the areas least discussed and noted in stakeholder interviews, the impact that changes in the residential landscape of the Park and surrounding area will have on its demographic and feel will be significant.
+
+One interviewee noted that while there will be an influx of students with new educational campuses opening over the coming years, many of them won’t be able to afford to live in or near the Park.
+
+Work The businesses within the Park view proximity and opportunity to engage with the new academic campuses coming into the area as a key USP, and in some cases, a factor in their decision to locate within the Park. They see the potential this brings to drive innovation within their companies and to have a new pool of talent to draw from. For example, Ford articulated the potential to collaborate with Loughborough University London around research and engineering. This also extends to the benefit these companies view from co-locating with other companies across sectors within their individual projects. There was some (though less) reference to the potential to collaborate more widely with institutions across the Park and surrounding areas.
+
+Attracting and retaining talent is a big issue for tenants and the opportunities of being able to recruit directly from several universities in close proximity is a significant factor for their relocation here. One interviewee asserted that the majority of businesses on the Park will benefit more from the tertiary education and knowledge economy offer than from the consumer experience.
+
+Here East and IQL are seeking to strategically curate an interesting mix of sectors and businesses of different scales and maturity, to ensure that they are appealing both to prospective and existing tenants.
+
+The different companies that co-exist here provide a
+
+good opportunity to broaden the horizon of our team members—make new connections, look for ideas, collaboration, widen our talent pool.
+
+Tenants seem to be using their move to the Park and Stratford as an opportunity to embed new ways of working and wider values for their employees. The importance of designing both building and public realm to address employer priorities such as wellbeing and collaborative working was expressed by one consultee as an important USP for prospective tenants.
+
+The move became more than a lift and shift of staff three miles up the road, it became for us a change in the way that we work.
+
+It is unclear how much new tenants coming in are aware of and engaged the rest of the amenities and offer of the Park. One business within the Park noted that her colleagues seem to be more aware of the amenities and offer of the individual complex they’re a part of than of the wider Park itself.
+
+If I speak to my neighbours or my colleagues at work I don’t think they have a clear narrative of the Park. They’ll each like it from their own points of view, but in terms of what it’s about and what its identity is, I don’t think you would get a response, let alone a coherent response from a group of people.
+
+34
+
+The Park’s location in East London is important for many existing and prospective tenants. They see its connection both to youth and tech culture as something they both want to be a part of and to promote, as they think it will be a draw for both accessing and drawing in talent in the future.
+
+Queen Elizabeth Olympic Park also provides an accessible and affordable opportunity for companies currently situated outside of London to move into the city. For Ford, whose headquarters were based in Essex, the most important factors in determining the location for a new spinoff unit were to bring into a more ‘urban and innovative environment’, to be closer into London, to benefit from synergy with other interesting companies at within their new complex, and to be closer to some of the projects and clients they’re working with.
+
+Being closer to central London is an advantage. In the longer term the hope is to be able to attract talent from Here East and from across London.
+
+While some view transport links to the Park and Stratford as an advantage, for others travel within and across the Park continues to be a challenge. One of the interviewees expressed concern as to whether the current transport links to certain parts of the Park will continue to be adequate – she notes that even though she already lives in East London, it still takes her an hour to get to the office. Another agency expressed concerns about the distance of Here East from Stratford station acting as a barrier to investment – ‘clients want somewhere on top of the tube station.’ For those living in Central and North London, it’s convenient, but (at least until the opening of the Elizabeth Line), not so much for those coming from elsewhere. Other issues cited included surrounding traffic, congestion, and road work.
+
+When I tell people I’m based in Stratford they tend to say, ‘Oh’ – not very enthusiastic. So I usually say that I work at an innovation campus where different companies co-exist and a vibrant community along the canal.
+
+This mix of factors – good transport links, well-designed offices, and the kinds of business sectors already found here – help to promote the Park to tenants.
+
+Historically particular businesses have gravitated to particular areas of London e.g. banks locating in the City of London or Canary Wharf. This is no longer the case. Businesses are more driven by demand for cool offices, good local amenities and good transport links.
+
+Tech is the future. A shift from 8% to 30% of tenants being tech based in the last 10 years.
+
+Staff were worried about the longer commute, the environment…and just change in general, but once they are here they love it.
+
+Study UAL assessed a number of potential sites for the relocation of London College of Fashion and decided on Queen Elizabeth Olympic Park because of the opportunity it provides to connect students to industry. Their own research showed that East London is increasingly where the creative industries, and specifically fashion and design, are moving; a trend which only looks to continue in the coming years.
+
+\[The\] area has a Renaissance identity, where culture and technology come together. There hasn’t been an area in London that really achieves that, and if we look forward 10 or 20 years…you’re not going to be able to see the dividing lines between art and science.
+
+35
+
+A Renaissance Park, where culture science and technology come together.
+
+The ability of the Park to provide a hub for various activities was also a motivating factor—allowing the new university building to be ‘part of something bigger’. And the amount of space available on the site allows institutions to craft entirely new campuses.
+
+Academic partners in the area also view the move to East London as a good opportunity to partner with and give back to the local community and nearby schools.
+
+However, there was also a view expressed that the current positioning is not well suited for an academic and university audience, with not enough attention being given to the story of the combined research and innovation that is and will be happening within the Park: the unique combination of universities, Here East, and the research arm of the V & A moving here.
+
+There is an argument for creating a visitor experience but is it worth moving beyond the park as a place for consumers, businesses and residents to becoming a knowledge quarter and noting that it will be one of the largest tertiary education initiatives in the UK.
+
+For UAL, the association with those other institutions and the opportunity to be part of this amazing initiative of universities working together was part of the draw for them coming to the Park in the first place, and a key message in their marketing for incoming students.
+
+Proximity to industry and the ability to partner with local companies is viewed as a tremendous asset to incoming students and researchers. And the sentiment was mutual among those consulted: existing tenants see tremendous potential for collaboration and colocation with the research universities within the Park.
+
+Play Ample green space - particularly the canal, which was mentioned by multiple consultees - and sporting facilities are viewed as special and important assets and ones that differentiate the Park within London.
+
+The Park was described as, ‘the best place to do sport anywhere’; and the ability not to just to view sport but to participate in it directly - swimming, cycling, tennis, and others - in some of the top sporting facilities in the world is a unique offer. ‘You can do amazing things here.’
+
+Those we interviewed shared a view that the area within and around the Park is already starting to become more vibrant as new projects and restaurants, cafés and bars and breweries come online.
+
+Current occupants are optimistic the area will continue to become livelier as new arrivals, both residents and employees, populate the Park and as more young, dynamic and innovative businesses move here. Here East, in particular, was identified for its role in bringing a unique energy to the area.
+
+When it opened after the Games, \[the Park\] was still pretty much about sport and now it’s much more sport, residential, employment, retail and new development and next will be the new cultural development. And where we sit within that is a changing thing within each new development.
+
+There were differing views expressed on how much of a journey people take within the Park and between destinations in and around the Park. One consultee expected to see more people planning half or full days at the Park going between different sites and speculated whether the CED would stimulate cross-selling between venues as a package.
+
+Others reflected the sense that there are many different ‘locators’ for, and entry points to, the Park, complementing the findings of our own research, that people
+
+36
+
+to tend to ‘stumble upon’ and explore the area between Hackney Wick, the Park and Stratford:
+
+We always mention Regents Canal, and we always mention we’re on the periphery-border of three boroughs. We also mention the Olympic Stadium \[sic\] because it’s also a music venue. And we also mention Victoria Park and Queen’s Yard because people tend to know those two anchor points.
+
+Proximity to Hackney Wick and Fish Island brings a little bit of ‘the hipster culture’ to the area. This adds to the ‘journey’ element of the Park that binds together its amenity value and its importance as a driver of footfall for the area’s evening and night-time offer.
+
+People also come from the Park and stumble upon Hackney Wick and it’s great with the green space and cycling and then finding the Queen’s Yard and Carpenter’s Wharf. And small pockets of activity. It’s a great journey for people from Westfield to the Park and then to Hackney Wick and its art and street art and canal boats.
+
+The diversity of independent businesses in the Hackney Wick area – bars, cafes, breweries and food makers - are an important asset to the wider area. More one than one consultee noted a lack of food and beverage options within walking distance of many destinations within the Park and that many of the tenants around IQL and Here East have to rely on Hackney Wick.
+
+Interviewees from the ‘older’ part of Stratford were increasingly optimistic about the perception of the area of one that is safe to visit, influenced in part by new leisure destinations like Roof East and the Trampoline Park (Zap Space):
+
+Once people are brave enough to come they will find a unique and important area here with connectivity to the Park.
+
+Overall, the idea of creating a single visitor offer was less important to those we interviewed than maintaining and promoting the diversity of leisure opportunities in and around the Park:
+
+What is new \[for the area\] is creating a cluster of activities so that people are coming here because there are a number of things in a wider destination. So going to Westfield for a meal, going for a walk in the Park or to watch a game, going to the theatre after. New elements are turning Stratford into a wider destination.
+
+Culture Current businesses and organisations within the Park are following the development of East Bank and CED closely, hopeful about the energy and opportunities it will bring and its part in, ‘continuing to make the area cool and interesting’.
+
+The London Stadium is an increasingly important venue for major, ‘mainstream’ events, and one that helps identify and locate the Park in the minds of audiences, Blending that mainstream offer with the Park’s proximity to and association with Hackney Wick and Fish Island, and incorporating the development of East Bank within that narrative, is important in elevating the creative identity of the area as a whole:
+
+When people think about Beyonce playing in the Olympic \[sic\] Stadium, it’s not a weird thing – it just
+
+37
+
+makes sense. \[Culture and creativity\] should be highlighted more and it will make the Park and Hackney Wick fit together better more as one environment. And with UAL coming in too it just makes sense.
+
+Hackney Wick is seen as one of the most vibrant creative communities in Europe and (in the account of one consultee) draws in people from across the UK and internationally who are creatively inspired by the area.
+
+As far as Hackney Wick itself, they usually reference it in relation to Berlin—the similarities in terms of the rough, raw environment and the tension in the area. And they always tend to say it has one of the highest identities of makers and creative in both the UK and Europe.
+
+But there is a continuing challenge of how Hackney Wick and Fish Island continues to maintain its cultural and creative identity in the face of external challenges –namely rising rents and land use pressure, especially as major new developments come to the area in the coming years. LLDC is developing a bid for Hackney Wick and Fish Island to benefit from the Mayor’s new Creative Enterprise Zone initiative and implementing policy solutions to help stem some of these potential losses.
+
+Costs have gone up tenfold in the last ten years – space, ongoing costs, sustainability is being impacted so the risk of us being able to stay here is a challenge. How can we maintain our businesses and part of this ecosystem and ensure we can maintain that?
+
+With major new cultural tenants coming to the park, one consultee hopes there will be ways for them to engage and collaborate with grassroots creative organisations in the area. They hope to be able to work closely with them. The smaller groups and cultural organisations want to feel like they can talk to and collaborate and share resources with the new entrants.
+
+In terms of architecture and design, there’s a really interesting tension between old and new that people want to experience. That there will be something really old and historic but also new-ness coming in.
+
+Dealing with these contrasts and conflicts is not a new challenge for Hackney Wick and Fish Island – it reflects a process of change that has been going on since artists started to move here in search of cheaper space, often warehouse and industrial spaces left vacant by the decline of local manufacturing:
+
+Hackney Wick is quite diverse. I’m a local resident, and I run an art space and there is a tension between makers and artists who’ve been here for decades and new residents with different identities and expectations.
+
+One consultee hopes that the Park and neighbouring areas come to be known for innovative enterprise that promotes arts and culture across the board: from Stour Space and local creative enterprises to the V\&A. And to be a distinctive and affordable place where small and medium makers can in a way not possible in other parts of London:
+
+The creative economy here is so vibrant. One of the pulling forces of Hackney Wick and in relation to the Park, in terms of weekend café trade, people come here looking to access creative inspiration—whether they’re
+
+38
+
+coming from Bristol or Liverpool, they come to Hackney Wick and then they go into the Park and to see the legacy there. They don’t know what they’ll expect in the Park, but they often want to carry on their journey from Hackney Wick.
+
+‘Old’ Stratford also has a strong legacy of culture and creativity. There are several ‘cutting edge’ theatres in the area – including Theatre Royal Stratford East, where Joan Littlewood built her internationally renowned theatre company. There is also legacy around trade, communications and the railway. Stratford BID is currently developing a new ‘Stratford stories’ initiative and a new cultural trail to help tell the ‘untold’ cultural story of the area, and encouraging local businesses to take part
+
+The cultural economy is so significant for London and to retain, promote and expand that – the arts community and residents and to create something viable that will address a lot of those issues around affordability, policy, and licensing.
+
+39
+
+BOP Consulting is an international consultancy specialising in culture and the creative economy.
+
+BOP convenes the World Cities Culture Forum (WCCF), an international network of more than 35 cities. www.worldcitiescultureforum.com
+
+__
+
+London 3 – 5 St John Street, London, EC1M 4AA
+
+Liverpool Elevator, 29-31 Parliament Street, Liverpool L8 5RN
+
+Shanghai 213 – 214, No. 585 Fuxing Middle Road, Shanghai 200025, China
+
+Web www.bop.co.uk
+
+Twitter @BOP_Consulting
+
+Blog www.bop.co.uk/articles
+
+40
+
+41
