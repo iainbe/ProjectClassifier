@@ -1,0 +1,54 @@
+                                                                                      Commercial Procurement Unit
+                                                Purchase Order                        Cunard Building
+                                                                                      Water Street
+                                                                                      Liverpool
+                                                                                      L3 1AH
+                                                 Page: 1 of 1
+                                                Date: 14.01.2020
+
+
+   Vendor Address                                                Information
+
+  Company                                                        Purchase order number: 3500447783
+  THE FIFTH SECTOR LTD                                           Vendor Number : 159176
+  24 SANDOWN LANE                                                Order Contact: Linda Conroy
+  LIVERPOOL L15 8HY                                              Telephone: 0151 233 0180
+  UNITED KINGDOM                                                 E-Mail: linda.conroy@liverpool.gov.uk
+
+
+   Billing Address & Invoice Queries                              Shipping Address
+
+  Liverpool City Council                                         Liverpool City Council
+  Commercial Procurement Unit                                    Culture Liverpool
+  Cunard Building                                                4 Floor
+  Water Street                                                   Cunard Building
+  Liverpool                                                      Water Street
+  L3 1AH                                                         Liverpool , L3 1AH
+
+  Telephone: 0151 2330599
+  Email address # Apinvoices@liverpool.gov.uk
+
+
+
+   Terms and Conditions
+  This Purchase Order is issued in relation to the written contract between your company and Liverpool City Council which
+  will apply to the exclusion of any other terms that the Supplier seeks to impose or incorporate, or which are implied by
+  trade, custom, practice or course of dealing. Please ensure you have familiarised yourself with the terms of the contract
+  including those for early termination.
+
+
+
+Item     Description      Quantity       Unit      Unit        Cost        Currency Cost         Start        End
+                                                   Price                            Centre       Date         Date
+
+            DN443541        0.000              0.00    20,000.00 GBP   LRAAG 30.01.2020 01.08.2020
+            CULTURAL
+            STRATEGY
+Additional Information
+DN443541 PLUS ATTACHED BLANKET APPROVAL FROM PAUL JONES FOR ARTS COUNCIL NPO - REQUEST FOR
+NEW SUPPLIER TO BE SET UP FIFTH SECTOR, 24 SANDOWN LANE LIVERPOOL L15 8HY Email
+iain@thefifthsector.co.uk FEE FOR DEVELOPEMENT OF LIVERPOOL CULTURAL STRATEGY TOTAL ORDER VALUE
+£20000.00
+                                            Total      20,000.00 GBP
+                                            Value:
+

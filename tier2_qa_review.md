@@ -1132,3 +1132,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (48) (QEOP registered; P95 fee)
 
 - Findings: QEOP distinct from other registered projects (2018; BOP-prime; LLDC). Role and fee not read from documents. P95 fee conflict (£4,800 PO versus recalled £30k) open; no fee should be cited for P95 meanwhile. Index card for P97 still to build. Lifecycle check 0 violations; project_index and eligibility_report regenerated.
+
+## Consistency audit — 26/10/18 (50) (P95 fee)
+
+- Findings: fee evidenced by a buyer PO (£20,000; VAT basis on Iain's statement). Earlier register facts (£4,800 only invoice; PAID_IN_FULL) do not reconcile with it; payment_status set to UNKNOWN pending invoice matching. 07_validation_actions edited at line level to keep the file's quoting.
