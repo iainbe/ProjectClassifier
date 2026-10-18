@@ -1008,3 +1008,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (17)
 
 - Finding: strikethrough in Iain's folder REV7 = deletions; Claude's REV8 reversed some of them and mis-struck two paragraphs. Lesson: check run formatting (strike/underline/highlight) before treating odd text as defects. Fixed; no residual strike runs.
+
+## Advisory lane review — 26/10/18 (18) (shortlist tactics: Places-led vs evidence-led)
+
+- Debate result and score effects as in CHANGELOG (18). Open ITT ambiguity: whether the pitch is scored or can move written scores is not stated; the debate assumed it cannot be relied on.
