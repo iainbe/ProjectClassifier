@@ -9,12 +9,12 @@ Canonical record for assembling tender-specific bios and CVs. Facts below are ev
 | person_id | PER-08 |
 | name | Dr Nicola Triscott (she/her) |
 | status | EXTERNAL_PARTNER — expert member of the team on T22-VAIMP (added 26/10/18) |
-| organisation | FACT (Foundation for Art and Creative Technology), Liverpool — Director/CEO. Legal name and registration number to confirm |
+| organisation | FACT Liverpool, company no. 02391543 (incorporated 2 June 1989), 88 Wood Street, Liverpool, Merseyside, L1 4DQ — Director/CEO (company details confirmed by Iain 26/10/18) |
 | bio sources | Her own bio supplied to Iain (email 26/09/09, held in the 2026 V&A Drive folder); LinkedIn bio supplied by Iain 26/10/18 |
 | contracting | Contracted through FACT (fee payable to FACT). Contracting entity to confirm in the PQQ |
 | rate charged to the V&A | £500 per day, 3 days (Iain 26/10/18) |
 | consent to name in bids | Iain 26/10/18: she has confirmed she is happy to go into the V&A bid on the same terms as the British Council Art & Tech bid. Her own written confirmation for the V&A bid is not on file |
-| procurement declarations (T22-VAIMP) | NOT YET GIVEN — PQQ 2.1-2.5 and 3.3.2-3.3.3 marked CONFIRM for FACT / Triscott |
+| procurement declarations (T22-VAIMP) | Recorded as confirmed and given by Iain 26/10/18 — PQQ 2.1-2.5 and 3.3.2-3.3.3 for FACT Liverpool / Triscott. VAT: not needed for FACT (only The Fifth Sector's VAT number is required) |
 | declared interest | Iain Bennett is a trustee of FACT; stated in her bio in the tender. She is not presented as an independent reviewer |
 
 ## Career facts (LinkedIn bio supplied 26/10/18; matches her 26/09/09 bio)
@@ -44,5 +44,4 @@ Canonical record for assembling tender-specific bios and CVs. Facts below are ev
 ## Open fields
 
 - Her own written confirmation for T22 and the PQQ declarations
-- FACT legal name, registration or charity number, VAT status
 - Approval of the role description in the tender bio

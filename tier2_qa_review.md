@@ -1076,3 +1076,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (34) (REV23 and submission set)
 
 - Findings: fee, days, milestones, names, company numbers and VAT number agree across response, PQQ and price schedule; no 7.8:1 text left in the response; no supplier cost figure in any client-facing document. Residual: unsigned declarations; Word page fit unverified; Drive upload not possible via connector.
+
+## Consistency audit — 26/10/18 (35) (FACT details)
+
+- Findings: FACT declarations are recorded as given on Iain's instruction (same basis as Obsolete.com / Bains), not from FACT's own written confirmation. Company number and address match the Companies House entry supplied by Iain; not fetched by Claude. Residual: Fifth Sector declarations and signatures; final document check.
