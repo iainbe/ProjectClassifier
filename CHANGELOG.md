@@ -1082,3 +1082,10 @@ Session-level record of all changes. Per-project detail lives in `project_change
 - Panel (economist / museum commissioner / procurement moderator), non-price /90: 59.5 / 61.0 / 64.6, mean about 61.7. Case studies 13.0-14.0, Team 13.0-14.0, Proposal 32.5-37.0. All pass the 6/10 gate; Team is the thinnest margin (6.5-7.0).
 - Shared finding: 'innovative and tested' and 'clients now use it' score as unsupported because no client or example is attached. Fix is to attach evidence (LCR Production Fund, Liverpool music 272 businesses, NE Scotland, CELL), not to delete the claim.
 - Other shared gaps: no result stated for CELL; regional reach/equity, period-of-analysis rationale, 16-17 safeguarding, review windows; meta lines ('REV9 draft for sign-off') to strip before upload.
+
+26/10/18 (21) — T22-VAIMP REV11 (Iain: evidence for Places claims, safeguarding, bias control)
+
+- Iain facts applied: Places used in London, English regions, Scotland, Wales; clients use it (NE Scotland creative industries mapping named; AMGEN not named in text); holds ten years of Companies House records, ONS and other open data; 595 = individual measurements and claims from previous projects, logged and checked against the platform ('checked', not 'validated': 274 claims are still pending review in the register).
+- Condon safeguarding (Silurian First Mate; TS Royalist Engineer/Bosun; repeated DBS checks; Irish Garda vetting) added to his bio; under-18 guardian-consent protocol added to sampling.
+- Bias control added: three recruitment routes reported by route with V&A-invited as upper bound; Places-built comparison groups from public records so additionality does not rest on self-report alone.
+- Render: 8 pages; case studies 1 page; proposal about 2.55 pages; Team unchanged in layout.

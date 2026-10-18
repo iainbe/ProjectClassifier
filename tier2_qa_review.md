@@ -1020,3 +1020,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Advisory lane review — 26/10/18 (20) (REV10 three-panel score)
 
 - Scores and shared findings as CHANGELOG (20). Panel scores are single-pass model markings, not calibrated; pitch scoring still unstated in ITT.
+
+## Consistency audit — 26/10/18 (21) (REV11)
+
+- Findings: 'validated' avoided for the 595 count because the register has 274 claims pending review and double-coding not passed. Comparison-group commitment depends on Companies House/ONS identifiability of V&A-touched creatives; feasibility to be shown at pitch. 'Enhanced' DBS not stated (not evidenced).
