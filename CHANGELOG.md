@@ -1226,3 +1226,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 26/10/18 (45) — PER-09 Sara Sartorius: role recorded (Iain)
 
 - Iain: Sartorius is a director of The Fifth Sector Limited with 25% of the shares, and an occasional collaborator; she worked with Bennett on the Queen Elizabeth Park place narrative project and the Liverpool Culture Strategy 2030. Recorded in 15_people.csv (status COMPANY_DIRECTOR, organisation The Fifth Sector Limited), people/PER-09 and the people README. The two projects are not in 01_projects.csv, so no involvement rows were added; registering them is open.
+
+26/10/18 (46) — Check of two projects Iain named (Sartorius record)
+
+- Liverpool Culture Strategy: already registered as P95-LIVCS30 (Liverpool Cultural Strategy 2030, Culture Liverpool, 20/01 to 20/07, PRIME, LEAD_CONSULTANT;DESIGNER, PO £4,800). Register dates differ from Iain's 2020/21; to confirm. INV-0035 links PER-09. The 2018 BOP / LLDC Queen Elizabeth Olympic Park place narrative is not in 01_projects.csv and no sweep report mentions it; no row created because the archive folder cannot be checked from here (project differentiation rule) and the contracting detail (BOP associate) is needed.

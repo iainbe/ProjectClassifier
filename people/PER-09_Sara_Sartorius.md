@@ -17,8 +17,8 @@ Created 26/10/18 to correct the people register: this person had been entered un
 
 | Project | Role | Evidence |
 |---|---|---|
-| Queen Elizabeth Park place narrative project | Worked with Iain Bennett | Iain 26/10/18; not yet in 01_projects.csv |
-| Liverpool Culture Strategy 2030 | Worked with Iain Bennett | Iain 26/10/18; not yet in 01_projects.csv |
+| BOP 2018 LLDC Queen Elizabeth Olympic Park place narrative | Worked with Iain Bennett (Iain as BOP Associate Director) | Iain 26/10/18; NOT yet in 01_projects.csv |
+| P95-LIVCS30 Liverpool Cultural Strategy 2030 | Worked with Iain Bennett (role detail not recorded) | Iain 26/10/18; `INV-0035`; register dates 20/01 to 20/07, Iain recalls 2020/21 |
 | P63 | Presenter at the University of Liverpool heritage CPD workshop, 23/05/22, with Iain Bennett and Lynne McCadden | SRC-G2-089 slide 2; `INV-0034` |
 
 ## Tender-relevant angles
@@ -27,6 +27,7 @@ Created 26/10/18 to correct the people register: this person had been entered un
 
 ## Open fields
 
-- Register the two named projects (scope, client, dates, her role) and link involvement rows
+- Register the 2018 BOP / LLDC place narrative (needs the archive folder path; contracting_role ASSOCIATE under BOP) and link an involvement row
+- Confirm the dates of P95-LIVCS30 (register 20/01 to 20/07; Iain recalls 2020/21) and whether a later phase exists
 - Career facts from her CV
 - Consent to be named in bids

@@ -1120,3 +1120,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (45) (PER-09 role)
 
 - Findings: role and shareholding recorded on Iain's statement; no document on file. Two named projects unregistered. As a director of the bidding company she is an associated person for procurement declarations; Iain confirmed the T22 declarations before submission.
+
+## Consistency audit — 26/10/18 (46) (project check)
+
+- Findings: P95-LIVCS30 present; QEOP place narrative (BOP 2018, LLDC) absent from the register and from sweep reports. Not created pending archive folder path.
