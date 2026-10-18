@@ -1214,3 +1214,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - 08_tenders T22 notes: final figures added (97 days, £59,400, milestones £14,600 / £29,500 / £15,300; supersedes £58,750 / 96 days), final case slate and referees, status READY TO SUBMIT with outstanding items. 11_permission_requests PR-37: SYMCA referee Gates is in the submitted slate; ask not sent. New bid record bid_records/T22_VAIMP_VA_Creative_Industries_Impact_Study.md (sections 1–4 filled; outcome section open). eligibility_report re-run: no change. Lifecycle and claims-column checks run; schema field counts verified (08_tenders 38, 11_permission_requests 13).
 - Pending (needs Iain): signatures and Formal Offer date, PQQ verifications, manual fixes listed in entry 41; submission date and Delta reference to add to the bid record on submission; merge of branch claude/friendly-carson-peqe0s to main (not done).
+
+26/10/18 (43) — T22-VAIMP submitted (Iain)
+
+- Iain: the tender was submitted with signatures; the PQQ verifications (policy number, persons of significant control) and the manual fixes were confirmed as correct. Bid record and 08_tenders note updated (stage SUBMITTED). Delta reference and submission time still to add. PER-03 duplicate in 15_people.csv shown to Iain (rows 4 and 6; unresolved, awaiting his decision).

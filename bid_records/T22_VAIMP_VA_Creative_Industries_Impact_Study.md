@@ -1,6 +1,6 @@
 # Bid Submission Record — T22-VAIMP (V&A Creative Industries Impact Study)
 
-Status at 26/10/18: READY TO SUBMIT (not yet submitted). Sections 1–4 completed from the final submission set; section 5 to be completed on notification. Pitches from the highest-scoring suppliers are on 2 or 3 November 2026 (V&A South Kensington).
+Status at 26/10/18: SUBMITTED, with signatures (Iain, 26/10/18; submission time and Delta reference to add). The PQQ verifications (policy number, persons of significant control) and the manual fixes were confirmed as correct by Iain. Sections 1–4 completed from the final submission set; section 5 to be completed on notification. Pitches from the highest-scoring suppliers are on 2 or 3 November 2026 (V&A South Kensington).
 
 ## 1. Bid identity
 
@@ -12,8 +12,8 @@ Status at 26/10/18: READY TO SUBMIT (not yet submitted). Sections 1–4 complete
 | `contracting_party` | The Fifth Sector Limited (07539809) as Lead Bidder | Five sub-consultants contract with the Lead Bidder; no consortium or joint venture (PQQ 1.10–1.15) |
 | `procurement_route` | FORMAL_RFP (single-stage ITT, Delta e-sourcing; shortlisted suppliers pitch) | |
 | `deadline` | 10:00 Monday 19 October 2026 | |
-| `submission_date` | TO COMPLETE ON SUBMISSION | Iain submits; signatures on the Formal Offer and PQQ outstanding |
-| `submission_portal_ref` | TO COMPLETE | http://www.delta-esourcing.com/respond/8345CWZ26P |
+| `submission_date` | 26/10/18 (per Iain; confirm date and time) | Submitted with signatures on the Formal Offer and PQQ |
+| `submission_portal_ref` | TO ADD (Delta confirmation reference) | http://www.delta-esourcing.com/respond/8345CWZ26P |
 | `08_tenders_row` | T22-VAIMP | |
 | `register_row` | none | Tender only; no project row |
 

@@ -1108,3 +1108,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (42) (repo sync)
 
 - Findings: superseded fee and day figures in earlier register notes now carry an explicit final line; bid record created per the live-work capture rule (submission fields left open). Hitchen has no NAMED_REFEREE request on file. No other register changes.
+
+## Consistency audit — 26/10/18 (43) (submission recorded)
+
+- Findings: submission recorded on Iain's word; Delta reference not on file. Duplicate PER-03 (Sara Sartorius row carries Jon Bains's full record) left unresolved pending Iain.
