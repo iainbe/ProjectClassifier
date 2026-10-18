@@ -1128,3 +1128,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (47) (submission confirmed)
 
 - Findings: submission time and reference now documented. The Companies House link is the company's officers page, not a personal record; unverified by Claude.
+
+## Consistency audit — 26/10/18 (48) (QEOP registered; P95 fee)
+
+- Findings: QEOP distinct from other registered projects (2018; BOP-prime; LLDC). Role and fee not read from documents. P95 fee conflict (£4,800 PO versus recalled £30k) open; no fee should be cited for P95 meanwhile. Index card for P97 still to build. Lifecycle check 0 violations; project_index and eligibility_report regenerated.
