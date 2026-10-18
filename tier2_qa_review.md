@@ -1048,3 +1048,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Advisory lane review — 26/10/18 (27) (REV17 three-panel score, ceiling analysis)
 
 - Scores and ceiling as CHANGELOG (27). Markings are single-pass model estimates; competitor assumption (larger consultancies) is not intelligence from the pack. Word fit of the 3-page proposal unverified.
+
+## Consistency audit — 26/10/18 (28) (REV18)
+
+- Findings: Aberdeen page claim unverified here; NE Scotland analysis described as workflow/destination analysis, not a comparison group; KQ5 and KQ7 relevance previously carried by the South Yorkshire case now rests on Wakefield. Triscott addition raises independence (FACT trusteeship), cost and consent issues. Conflation check: P01-NES distinct from P86-CSSAL (Creative Scotland).
