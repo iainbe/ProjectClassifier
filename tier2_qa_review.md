@@ -1064,3 +1064,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (31) (REV20)
 
 - Findings: citation added pushed the proposal over 3 pages by one line; fixed by shortening a risk row (detail kept: 'not point estimates' dropped). SYMCA grant evaluation (P51) and separate SYMCA mapping project kept distinct per the project-differentiation rule. Impact-report claim limited to 'findings published in'. Panel not re-run.
+
+## Consistency audit — 26/10/18 (32) (REV20 score, REV21)
+
+- Findings: REV21 proposal fits 3 pages with no buffer (LibreOffice); one sentence dropped to fit. Claim that the Liverpool Film Office report contains the 7.8:1 non-confirmation is not verified; wording says 'findings published in'. NE Scotland comparison group per Iain, wording 'no creative-sector contact'.
