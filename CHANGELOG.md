@@ -1186,3 +1186,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 26/10/18 (36) — PQQ bidding model (1.10-1.15) filled (Iain's description)
 
 - PQQ 1.10-1.15 were CONFIRM placeholders. Filled: 1.10 (a) No / (b) Yes — The Fifth Sector Limited as Lead Bidder with five sub-contracted associates in one composite response (Clarification Q3), no consortium or joint venture; 1.11 group name; 1.14 (a) Yes, Lead Bidder with sub-consultants contracting with it, (b) No; 1.15 no single legal entity, The Fifth Sector Limited remains responsible to the V&A. 1.13 (reliance for conditions of participation) left CONFIRM. Reasoning: option (a) is false because services are subcontracted; the V&A's own PQQ guidance treats reliance on sub-contractors as a group answered by a composite response, and 1.14(a) describes the model exactly.
+
+26/10/18 (37) — REV24: selection-bias sentence made clear (Iain)
+
+- The three recruitment routes now read as a list: people the V&A invites; people reached through partner networks and organisations; people we find ourselves in public records such as credits and Companies House filings, including people who have lapsed. V&A-invited accounts remain the upper bound of effect. Wording only; proposal still 3 pages (ends 738pt on page 6). Submission zip rebuilt with REV24.

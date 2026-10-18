@@ -1084,3 +1084,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (36) (PQQ 1.10-1.15)
 
 - Findings: bidding-model answers consistent with 1.12 list and Clarification Q3. 1.13 still open.
+
+## Consistency audit — 26/10/18 (37) (REV24)
+
+- Wording-only change; no figures affected; set reconciled as at entry 34.
