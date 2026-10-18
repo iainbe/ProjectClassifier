@@ -1068,3 +1068,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (32) (REV20 score, REV21)
 
 - Findings: REV21 proposal fits 3 pages with no buffer (LibreOffice); one sentence dropped to fit. Claim that the Liverpool Film Office report contains the 7.8:1 non-confirmation is not verified; wording says 'findings published in'. NE Scotland comparison group per Iain, wording 'no creative-sector contact'.
+
+## Consistency audit — 26/10/18 (33) (REV22)
+
+- Findings: REV21's impact-report citation next to the 7.8:1 sentence was wrong (the figure is not in that report) and is removed. Age scope 18+ is our choice, not an ITT requirement. '£2 million recapitalisation' and uptake claims rest on Iain's statements; not verified by Claude. Panel not re-run.
