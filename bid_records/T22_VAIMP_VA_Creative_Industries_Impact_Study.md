@@ -1,6 +1,6 @@
 # Bid Submission Record — T22-VAIMP (V&A Creative Industries Impact Study)
 
-Status at 26/10/18: SUBMITTED, with signatures (Iain, 26/10/18; submission time and Delta reference to add). The PQQ verifications (policy number, persons of significant control) and the manual fixes were confirmed as correct by Iain. Sections 1–4 completed from the final submission set; section 5 to be completed on notification. Pitches from the highest-scoring suppliers are on 2 or 3 November 2026 (V&A South Kensington).
+Status at 26/10/18: SUBMITTED, with signatures, on Delta at 22:51 BST on Sunday 18 October 2026 (confirmation email on file with Iain; the deadline was 10:00 on 19 October). The PQQ verifications (policy number, persons of significant control) and the manual fixes were confirmed as correct by Iain. Sections 1–4 completed from the final submission set; section 5 to be completed on notification. Pitches from the highest-scoring suppliers are on 2 or 3 November 2026 (V&A South Kensington).
 
 ## 1. Bid identity
 
@@ -12,8 +12,8 @@ Status at 26/10/18: SUBMITTED, with signatures (Iain, 26/10/18; submission time 
 | `contracting_party` | The Fifth Sector Limited (07539809) as Lead Bidder | Five sub-consultants contract with the Lead Bidder; no consortium or joint venture (PQQ 1.10–1.15) |
 | `procurement_route` | FORMAL_RFP (single-stage ITT, Delta e-sourcing; shortlisted suppliers pitch) | |
 | `deadline` | 10:00 Monday 19 October 2026 | |
-| `submission_date` | 26/10/18 (per Iain; confirm date and time) | Submitted with signatures on the Formal Offer and PQQ |
-| `submission_portal_ref` | TO ADD (Delta confirmation reference) | http://www.delta-esourcing.com/respond/8345CWZ26P |
+| `submission_date` | 26/10/18T22:51 (BST) | Delta eSourcing 'Response Submission Confirmation' email, 22:51:13 BST; submitted with signatures on the Formal Offer and PQQ |
+| `submission_portal_ref` | Delta correlationId 45c32aac-4f9e-48d8-b7ca-21fcf35bb952 (message ID 8721ff91-1015-4f73-afe3-401d3d8771e5) | Delta's confirmation names the response 'Creative Industries Research'; | http://www.delta-esourcing.com/respond/8345CWZ26P |
 | `08_tenders_row` | T22-VAIMP | |
 | `register_row` | none | Tender only; no project row |
 

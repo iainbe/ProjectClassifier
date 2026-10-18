@@ -10,6 +10,7 @@ Created 26/10/18 to correct the people register: this person had been entered un
 | name | Sara Sartorius |
 | status | COMPANY_DIRECTOR of The Fifth Sector Limited, 25% shareholder; occasional collaborator on projects (Iain 26/10/18) |
 | organisation | The Fifth Sector Limited |
+| company records | Companies House officers page for The Fifth Sector Limited (07539809), link supplied by Iain 26/10/18: https://find-and-update.company-information.service.gov.uk/company/07539809/officers. Not opened by Claude; the shareholding does not appear on that page and rests on Iain's statement |
 | bio sources | 2-page CV in the OneDrive associates archive (`Active Proposals/Proposals info/Associates/`); not yet read into the register |
 | consent to name in bids | UNKNOWN |
 

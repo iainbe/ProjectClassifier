@@ -1124,3 +1124,7 @@ Open (need Iain): referee names and permission (CELL, Lovell, music, MITIH); Kun
 ## Consistency audit — 26/10/18 (46) (project check)
 
 - Findings: P95-LIVCS30 present; QEOP place narrative (BOP 2018, LLDC) absent from the register and from sweep reports. Not created pending archive folder path.
+
+## Consistency audit — 26/10/18 (47) (submission confirmed)
+
+- Findings: submission time and reference now documented. The Companies House link is the company's officers page, not a personal record; unverified by Claude.

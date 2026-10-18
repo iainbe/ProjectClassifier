@@ -1230,3 +1230,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 26/10/18 (46) — Check of two projects Iain named (Sartorius record)
 
 - Liverpool Culture Strategy: already registered as P95-LIVCS30 (Liverpool Cultural Strategy 2030, Culture Liverpool, 20/01 to 20/07, PRIME, LEAD_CONSULTANT;DESIGNER, PO £4,800). Register dates differ from Iain's 2020/21; to confirm. INV-0035 links PER-09. The 2018 BOP / LLDC Queen Elizabeth Olympic Park place narrative is not in 01_projects.csv and no sweep report mentions it; no row created because the archive folder cannot be checked from here (project differentiation rule) and the contracting detail (BOP associate) is needed.
+
+26/10/18 (47) — Delta submission confirmation and Companies House link recorded (Iain)
+
+- Delta eSourcing confirmation: response submitted 18 October 2026 at 22:51 BST (21:51 UTC), before the 10:00 19 October deadline; correlationId 45c32aac-4f9e-48d8-b7ca-21fcf35bb952. Delta titles the response 'Creative Industries Research'. Recorded in the T22 bid record and 08_tenders. Companies House officers page for The Fifth Sector Limited (07539809) recorded as the source link for PER-09; Claude could not open it from this environment, so her directorship and 25% shareholding stay on Iain's statement.
