@@ -915,3 +915,11 @@ Turn contract: review the proposed adoption of Nikolas Kunesch (CELL RA, final-y
 - SKIN: the delineation table earns its place but compress it — one method-sentence + team table, not repeated tables in a 3-page proposal. The "cohorts the V&A cannot reach" line is the single most persuasive sentence; put it in the method, not buried in team.
 - FOK: interview coverage is not additionality evidence — non-converting cohort interviews give descriptive contrast, not a counterfactual; keep the Green Book three-ledger logic carrying the economics and do not let the new capacity imply causal proof. Referral routes to non-converting cohorts carry selection bias — Bains' stratum quotas apply to his stream too. Attribution of V&A vs other support remains answerable only by design, not by more interviewers.
 - THAD verdict: READY-WITH-FIXES. Material findings: (1) named-vs-role decision gate ~17 Oct; (2) complement-not-duplicate framing vs their "we anticipate conducting interviews"; (3) scope contingency claim to qual/cohorts; (4) word the gap as capacity/coverage, not reach-impossibility; (5) fee must stay £59k with visible day arithmetic.
+
+## Consistency audit — 26/10/20 (Place & visitor economy method note in Futurecity proposal docs)
+
+- Created `Active proposals/2026 Futurecity/261020 Method note - Place and visitor economy pitches.md` and mirrored to `proposal_docs/2026 Futurecity/261020 Method note - Place and visitor economy pitches.md` per AGENTS.md proposal docs mirror rule.
+- Flagged the note and companion Futurecity methodology docs in `proposal_docs/README.md` for reuse in future place, placemaking and visitor economy pitches.
+- Checked claim discipline and naming rules: BOP's "$750bn" urban cultural tourism figure is explicitly tagged as `CONTEXT` / `ECONOMIC_BASELINE` (never a project-level impact claim), and company naming follows the "The Fifth Sector" rule throughout.
+- Git repo repair note: removed orphaned `.git/refs/heads/main.lock` and `.git/refs/remotes/origin/main.lock` left by a prior interrupted sync on 26/10/14 and reset index to `origin/main` (`38c324b`) before staging only this session's files.
+
