@@ -67,6 +67,18 @@ Buyer criteria weights are not internal attractiveness weights. Include technica
 
 No automatic spillover lead because multipliers are mentioned; no automatic exclusion because a tender asks for an EIA. Describe a platform as proposed/unverified until its relevant capability is evidenced. Buyer choice over later phases is not supplier entitlement to follow-on revenue.
 
+### 4b. Visitor Economy & Place Proposal Test (`VE-01` to `VE-05`)
+
+Run whenever the opportunity touches visitor economy, cultural tourism, placemaking, heritage/museum attractions, major events, waterfronts or cultural districts. If none of these apply, mark `NOT_APPLICABLE` with a one-line evidence-based reason. Reference: `proposal_docs/2026 Futurecity/261020 Method note - Place and visitor economy pitches.md`.
+
+| Test ID | Dimension | Future risks & blockers in this brief | Spillover mechanism & evidence route proposed | PASS / FIX-NEEDED / NOT_APPLICABLE |
+|---|---|---|---|---|
+| VE-01 | Baseline vs attributable impact & denominators (footfall ≠ spend; free-touchpoint & invisible coach segments; fieldwork budget threshold) | | | |
+| VE-02 | Developer/city ledger & unticketed spillovers ("heads & beds" vs box office: dwell, overnight stays, F&B, BTR/commercial rents, occupancy, Year 1 vs Year 5 payback) | | | |
+| VE-03 | Civic-vs-tourist dual role, resident authenticity & carrying capacity / cannibalisation disbenefits | | | |
+| VE-04 | Cultural operator & maintenance gap (portfolio governance vs turnkey operator myth; upkeep funding; gated options `DEFER / STAGE_LEARN / EXPAND`) | | | |
+| VE-05 | Agentic AI discovery, organic digital signal & media-moment routing readiness | | | |
+
 ## 5. Scoring profile — no aggregate total
 
 0 = demonstrated mismatch; 1 = weak/indirect; 2 = credible with specified conditions; 3 = strong/direct; U = insufficient evidence; N/A = justified non-applicability. Never turn UNKNOWN into zero or let missing fields increase a total. Low spillover relevance is not automatically poor commercial fit.

@@ -44,3 +44,8 @@
 - SRC-R5-016 (2016 Beatles Heritage report) fully extracted from the supplied PDF; claims citing it can now be figure-checked.
 ## 26/10/08 — referee identified
 - Kevin McManus, UNESCO City of Music Officer, Liverpool City Council — named by Iain. NAMED_REFEREE ask drafted as PR-38; V&A PQQ caveat applies (references callable at any stage — ask may need to precede 19/10 submission).
+
+## 26/10/20 — Stage 2 scoping note logged (civic balance, operator gap, agentic AI discovery)
+- Added `261020 Stage 2 Note - Civic Balance, Operator Gap and Agentic AI Discovery.md` to `Active projects/2026 Beatles/` and committed to `github.com/iainbe/BeatlesLegacy` (`6e3d6dc`).
+- Frames any Stage 2 Beatles commission around three tests (`VE-03`, `VE-04`, `VE-05` + `VE-01/02`): (1) flipping the offer from an isolated inbound-tourist enclave into a dual civic/visitor asset (connecting living music talent and suburban public-realm pinch-points like Penny Lane/Mendips to unlock post-2027 Mayoral Overnight Visitor Levy reinvestment rather than competing with Apple's 2027 Savile Row destination or cannibalising Beatles Story); (2) a brokered portfolio operator model (UoL digitisation + NML front-end + BID/LCC public spine) rather than a single commercial attraction operator; and (3) scoping the practitioner-requested "Beatles Hub" as an open data/routing layer for agentic AI travel discovery ahead of the 2028 Sam Mendes four-film event.
+

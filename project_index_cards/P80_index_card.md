@@ -79,7 +79,7 @@
 | `buyer_types` | Cultural partnerships, local authorities, trusts | Derived |
 | `precedent_strength` | NOT_CLEARED — live engagement | Derived |
 | `precedent_caveats` | LIVE — never cite findings before delivery; sensitive (near-dissolution) context | Derived |
-| `positioning_notes` | Organisational-review capability incl. honest termination option — rare and differentiating | Derived |
+| `positioning_notes` | Organisational-review capability incl. honest termination option — rare and differentiating. 26/10/20 synthesis (`261020 Governance options and network routing synthesis.md`) adds explicit civic-to-visitor-economy bridge (`VE-03`/`VE-04`) for SEC (28 Oct): authentic resident-owned scenes (`A+B` Two-Layer Core + `K2` BLOC/SoCo music pilot incl. Southampton Boat Show programming) drive visitor-economy credibility, while `Option C` stays bounded to discrete DMP/visitor-economy contracts | Derived |
 
 ### B4. Quality and review status
 
