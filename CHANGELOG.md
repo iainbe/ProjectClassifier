@@ -954,3 +954,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 ## 2026-10-27 — T23-TVBTV outcome: WITHDRAWN before submission
 - T23-TVBTV: `actual_outcome` UNKNOWN → WITHDRAWN; `bid_recommendation` BID → NO_BID; `feedback_status` → NO_FEEDBACK. Interest withdrawn without submitting — insufficient time to secure consortium of local delivery partners (per Iain 26/10/27). No outcome document (no bid submitted, so none exists).
 - Committed with tier2_qa_review.md + 10_review_history.csv entry 27-T23.
+
+## 2026-10-27 — T30-WYTRADS registered; WITHDRAWN/no-bid
+- T30-WYTRADS: new tender row — WYCA WY TRADS ITT (ref 112757), `Active proposals/2026 WY TRADS` (sweep had flagged folder UNREGISTERED_PROJECT? since 26/10/07). actual_outcome=WITHDRAWN; bid_recommendation=NO_BID; feedback_status=NO_FEEDBACK. Reason: opted not to submit — could not complete Cyber Essentials qualification or confirm supplier pricing in time (Iain 26/10/27).
+- SRC-R5-177: WY TRADS ITT pack registered; controlled_location pinned to `ITT - 112757 - WY TRADS.docx` to pre-empt VERSION_AMBIGUITY.

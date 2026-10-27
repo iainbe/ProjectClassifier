@@ -948,3 +948,9 @@ Turn contract: encode the reading of future risks, blockers and spillovers as th
 - Basis: user instruction 26/10/27 — withdrew interest without submitting; insufficient time to secure consortium of local delivery partners.
 - Vocabulary: `actual_outcome=WITHDRAWN` and `bid_recommendation=NO_BID` are codebook v1.x canonical values; `NO_FEEDBACK` consistent with T05-DERBY precedent (no bid → no feedback to obtain).
 - No claims under T23 (tender-only); no EXPIRED propagation needed. No schema/tool change → no lane review required.
+
+## 27-T30 — WY TRADS registration + withdrawal (2026-10-27)
+- Scope: new rows T30-WYTRADS (08_tenders.csv) + SRC-R5-177 (02_sources.csv).
+- Basis: user instruction 26/10/27 — opted not to submit; Cyber Essentials qualification incomplete + supplier pricing unconfirmed. Recorded as WITHDRAWN/NO_BID, explicitly not an unsuccessful bid.
+- controlled_location points at the ITT instructions doc (canonical) so the sweep will not flag VERSION_AMBIGUITY; folder retains the full pack + internal prep docs.
+- No claims linked; tender-only. No schema/tool change.
