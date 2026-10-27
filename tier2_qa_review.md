@@ -940,3 +940,4 @@ Turn contract: encode the reading of future risks, blockers and spillovers as th
 - **Generality test completed:** Tested against 6 registered tenders/projects (`P78-BEATLES`, `P80`, `T10-MARBEL`, `T22-VAIMP`, `T23-TVBTV`, and `T13-CSSAL`/`T29-LCRDIG` as `NOT_APPLICABLE` controls) plus 2 hypothetical cases of different shapes (Gulf greenfield cultural district pitch via Futurecity; UK coastal local authority Overnight Visitor Levy feasibility study).
 
 
+| 26/10/23 | T22-VAIMP outcome | UNSUCCESSFUL per Iain (V&A notified 23/10/26); feedback_status NOT_RECEIVED pending debrief; no claims linked (tender-only) | Residual: feedback doc not yet on Drive — sweep TENDER_OUTCOME? will catch it |

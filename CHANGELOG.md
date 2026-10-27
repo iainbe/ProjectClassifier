@@ -948,3 +948,4 @@ Session-level record of all changes. Per-project detail lives in `project_change
   - **ProjectClassifier (`VE-01` to `VE-05`):** Added the five-point **Visitor Economy & Place Proposal Test** (risks, blockers, spillovers and evidence routes) to `AGENTS.md`, `tender_scorecard_template.md` (§4b) and `codebook_v1.4_additions.md` after a full 10-lane advisory review (`sark`, `blindspot`, `deepthink`, `sheldon`, `wishful`, `thad`, `shaz`, `skin`, `fok`, `grey`) and generality test across 6 live/past tenders/projects and 2 hypothetical cases. Regenerated `project_index.csv`.
 
 
+- **T22-VAIMP outcome logged (26/10/23)**: UNSUCCESSFUL — V&A notified 23/10/26, feedback awaited (`feedback_status=NOT_RECEIVED`). No linked claims (tender-only).
