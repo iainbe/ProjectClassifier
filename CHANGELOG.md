@@ -949,3 +949,4 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 
 - **T22-VAIMP outcome logged (26/10/23)**: UNSUCCESSFUL — V&A notified 23/10/26, feedback awaited (`feedback_status=NOT_RECEIVED`). No linked claims (tender-only).
+- **T01-BCAT folder note (26/10/23)**: updated to `Archive proposals/2026 Proposals lost/` per TENDER_MOVED? flag in the 21/10 sweep.

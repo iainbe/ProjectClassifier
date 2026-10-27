@@ -941,3 +941,4 @@ Turn contract: encode the reading of future risks, blockers and spillovers as th
 
 
 | 26/10/23 | T22-VAIMP outcome | UNSUCCESSFUL per Iain (V&A notified 23/10/26); feedback_status NOT_RECEIVED pending debrief; no claims linked (tender-only) | Residual: feedback doc not yet on Drive — sweep TENDER_OUTCOME? will catch it |
+| 26/10/23 | T01-BCAT folder note | Updated to Archive proposals/2026 Proposals lost path per TENDER_MOVED? flag in 21/10 sweep | None |

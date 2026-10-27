@@ -506,3 +506,4 @@ RH-26-10-20-VETEST,S-261020,RULE,AGENTS.md;tender_scorecard_template.md;codebook
 
 
 RH-26-10-23-T22,S-261023,TENDER,T22-VAIMP,actual_outcome;feedback_status;notes,UPDATE,Devin,26/10/23,v1.5,,SUBMITTED_AWAITING_RESULT,UNSUCCESSFUL; NOT_RECEIVED,,,"V&A notification 23/10/26 per Iain — unsuccessful, feedback awaited; no outcome doc on Drive yet (sweep will TENDER_OUTCOME?-flag when it lands)",Iain,DONE,,
+RH-26-10-23-T01,S-261023,TENDER,T01-BCAT,notes,UPDATE,Devin,26/10/23,v1.5,,Active proposals path,Archive proposals/2026 Proposals lost path,,,TENDER_MOVED? flag in 21/10 sweep — folder relocated to Proposals lost,Devin,DONE,,
