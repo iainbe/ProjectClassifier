@@ -950,3 +950,7 @@ Session-level record of all changes. Per-project detail lives in `project_change
 
 - **T22-VAIMP outcome logged (26/10/23)**: UNSUCCESSFUL — V&A notified 23/10/26, feedback awaited (`feedback_status=NOT_RECEIVED`). No linked claims (tender-only).
 - **T01-BCAT folder note (26/10/23)**: updated to `Archive proposals/2026 Proposals lost/` per TENDER_MOVED? flag in the 21/10 sweep.
+
+## 2026-10-27 — T23-TVBTV outcome: WITHDRAWN before submission
+- T23-TVBTV: `actual_outcome` UNKNOWN → WITHDRAWN; `bid_recommendation` BID → NO_BID; `feedback_status` → NO_FEEDBACK. Interest withdrawn without submitting — insufficient time to secure consortium of local delivery partners (per Iain 26/10/27). No outcome document (no bid submitted, so none exists).
+- Committed with tier2_qa_review.md + 10_review_history.csv entry 27-T23.

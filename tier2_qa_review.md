@@ -942,3 +942,9 @@ Turn contract: encode the reading of future risks, blockers and spillovers as th
 
 | 26/10/23 | T22-VAIMP outcome | UNSUCCESSFUL per Iain (V&A notified 23/10/26); feedback_status NOT_RECEIVED pending debrief; no claims linked (tender-only) | Residual: feedback doc not yet on Drive — sweep TENDER_OUTCOME? will catch it |
 | 26/10/23 | T01-BCAT folder note | Updated to Archive proposals/2026 Proposals lost path per TENDER_MOVED? flag in 21/10 sweep | None |
+
+## 27-T23 — T23-TVBTV withdrawal (2026-10-27)
+- Scope: 08_tenders.csv T23-TVBTV fields only (bid_recommendation, actual_outcome, feedback_status, positioning_rationale, notes).
+- Basis: user instruction 26/10/27 — withdrew interest without submitting; insufficient time to secure consortium of local delivery partners.
+- Vocabulary: `actual_outcome=WITHDRAWN` and `bid_recommendation=NO_BID` are codebook v1.x canonical values; `NO_FEEDBACK` consistent with T05-DERBY precedent (no bid → no feedback to obtain).
+- No claims under T23 (tender-only); no EXPIRED propagation needed. No schema/tool change → no lane review required.
